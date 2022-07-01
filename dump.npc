@@ -171773,6 +171773,57 @@ op3=Makeover
 vislevel=0
 drawpriority=yes
 
+[npc_8488]
+model1=ice_giant_17453
+model2=ice_giant_17442
+model3=moss_giant_17460
+readyanim=ice_giant_ready_4670
+walkanim=ice_giant_walk_4669
+size=2
+vislevel=0
+active=no
+
+[npc_8489]
+model1=ice_giant_17454
+model2=ice_giant_17442
+model3=moss_giant_17460
+readyanim=ice_giant_ready_4670
+walkanim=ice_giant_walk_4669
+recol1s=-32537
+recol1d=-32543
+recol2s=-32424
+recol2d=29908
+recol3s=-32308
+recol3d=-32442
+recol4s=-32448
+recol4d=-32455
+size=2
+vislevel=0
+active=no
+
+[npc_8490]
+model1=ice_giant_17453
+model2=ice_giant_17443
+model3=moss_giant_17460
+readyanim=ice_giant_ready_4670
+walkanim=ice_giant_walk_4669
+size=2
+vislevel=0
+active=no
+
+[the_collector_8491]
+name=The Collector
+model1=the_collector_36091
+head1=larry_10976
+readyanim=the_collector_ready_6657
+walkanim=the_collector_walk_6658
+recol1s=6798
+recol1d=107
+op1=Talk-to
+op3=Get log
+vislevel=0
+drawpriority=yes
+
 [survival_expert_8503]
 name=Survival Expert
 model1=grail_maiden_384

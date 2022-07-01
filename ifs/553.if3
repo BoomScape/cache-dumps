@@ -1,7 +1,7 @@
 [interface_553:0]
 type=^iftype_layer
 width=488
-height=310
+height=326
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 
@@ -18,7 +18,6 @@ onload="script227(event_com,Report Abuse)"
 type=^iftype_model
 width=70
 height=310
-vposmode=^setpos_abs_centre
 layer=interface_553:0
 model=model_3180
 originy=62
@@ -31,7 +30,6 @@ type=^iftype_model
 width=70
 height=310
 hposmode=^setpos_abs_right
-vposmode=^setpos_abs_centre
 layer=interface_553:0
 model=model_3180
 originx=-15
@@ -85,7 +83,7 @@ shadowed=yes
 
 [interface_553:7]
 type=^iftype_text
-y=102
+y=99
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -99,12 +97,11 @@ shadowed=yes
 
 [interface_553:8]
 type=^iftype_text
-y=145
-height=30
+y=135
+height=28
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_553:0
-text="Then click below to indicate which of our rules is being broken.<br>For a detailed explanation of each rule please read the manual on our website."
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
@@ -115,16 +112,16 @@ shadowed=yes
 type=^iftype_layer
 y=10
 width=30
-height=125
+height=152
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_553:0
-onload="script1120(event_com)"
+onload="script1120(event_com,36241416)"
 
 [interface_553:10]
 type=^iftype_layer
-y=116
+y=110
 width=8192
 height=30
 hposmode=^setpos_abs_right
@@ -165,7 +162,7 @@ onmouserepeat="script526(event_com,-1,36241424,Attempts to add the reported play
 
 [interface_553:13]
 type=^iftype_layer
-y=116
+y=110
 width=8192
 height=30
 hsizemode=^setsize_proportion

@@ -2377,3 +2377,272 @@ param=param_676,"2x_ancient_spells_on,21"
 param=param_678,"2x_ancient_spells_off,22"
 param=param_681,18
 
+[bosses_471]
+param=param_682,Bosses
+param=param_683,enum_2103
+param=param_684,0
+
+[raids_472]
+param=param_682,Raids
+param=param_683,enum_2104
+param=param_684,1
+
+[clues_473]
+param=param_682,Clues
+param=param_683,enum_2105
+param=param_684,2
+
+[minigames_474]
+param=param_682,Minigames
+param=param_683,enum_2106
+param=param_684,3
+
+[other_475]
+param=param_682,Other
+param=param_683,enum_2107
+param=param_684,4
+
+[abyssal_sire_476]
+param=param_689,Abyssal Sire
+param=param_690,enum_2109
+
+[barrows_chests_477]
+param=param_689,Barrows Chests
+param=param_690,enum_2110
+
+[bryophyta_478]
+param=param_689,Bryophyta
+param=param_690,enum_2111
+
+[callisto_479]
+param=param_689,Callisto
+param=param_690,enum_2112
+
+[cerberus_480]
+param=param_689,Cerberus
+param=param_690,enum_2113
+
+[chaos_elemental_481]
+param=param_689,Chaos Elemental
+param=param_690,enum_2114
+
+[chaos_fanatic_482]
+param=param_689,Chaos Fanatic
+param=param_690,enum_2115
+
+[commander_zilyana_483]
+param=param_689,Commander Zilyana
+param=param_690,enum_2116
+
+[corporeal_beast_484]
+param=param_689,Corporeal Beast
+param=param_690,enum_2117
+
+[crazy_archaeologist_485]
+param=param_689,Crazy Archaeologist
+param=param_690,enum_2118
+
+[dagannoth_kings_486]
+param=param_689,Dagannoth Kings
+param=param_690,enum_2119
+
+[general_graardor_487]
+param=param_689,General Graardor
+param=param_690,enum_2120
+
+[giant_mole_488]
+param=param_689,Giant Mole
+param=param_690,enum_2121
+
+[grotesque_guardians_489]
+param=param_689,Grotesque Guardians
+param=param_690,enum_2122
+
+[kalphite_queen_490]
+param=param_689,Kalphite Queen
+param=param_690,enum_2123
+
+[king_black_dragon_491]
+param=param_689,King Black Dragon
+param=param_690,enum_2124
+
+[kraken_492]
+param=param_689,Kraken
+param=param_690,enum_2125
+
+[kreearra_493]
+param=param_689,Kree'arra
+param=param_690,enum_2126
+
+[kril_tsutsaroth_494]
+param=param_689,K'ril Tsutsaroth
+param=param_690,enum_2127
+
+[obor_495]
+param=param_689,Obor
+param=param_690,enum_2128
+
+[scorpia_496]
+param=param_689,Scorpia
+param=param_690,enum_2129
+
+[skotizo_497]
+param=param_689,Skotizo
+param=param_690,enum_2130
+
+[thermonuclear_smoke_devil_498]
+param=param_689,Thermonuclear Smoke Devil
+param=param_690,enum_2131
+
+[the_inferno_499]
+param=param_689,The Inferno
+param=param_690,enum_2132
+
+[the_fight_caves_500]
+param=param_689,The Fight Caves
+param=param_690,enum_2133
+
+[venenatis_501]
+param=param_689,Venenatis
+param=param_690,enum_2134
+
+[vetion_502]
+param=param_689,Vet'ion
+param=param_690,enum_2135
+
+[vorkath_503]
+param=param_689,Vorkath
+param=param_690,enum_2136
+
+[wintertodt_504]
+param=param_689,Wintertodt
+param=param_690,enum_2137
+
+[zulrah_505]
+param=param_689,Zulrah
+param=param_690,enum_2138
+
+[theatre_of_blood_506]
+param=param_689,Theatre of Blood
+param=param_690,enum_2140
+
+[chambers_of_xeric_507]
+param=param_689,Chambers of Xeric
+param=param_690,enum_2139
+
+[easy_treasure_trails_508]
+param=param_689,Easy Treasure Trails
+param=param_690,enum_2141
+
+[medium_treasure_trails_509]
+param=param_689,Medium Treasure Trails
+param=param_690,enum_2142
+
+[hard_treasure_trails_510]
+param=param_689,Hard Treasure Trails
+param=param_690,enum_2143
+
+[elite_treasure_trails_511]
+param=param_689,Elite Treasure Trails
+param=param_690,enum_2144
+
+[master_treasure_trails_512]
+param=param_689,Master Treasure Trails
+param=param_690,enum_2145
+
+[shared_treasure_trail_rewards_513]
+param=param_689,Shared Treasure Trail Rewards
+param=param_690,enum_2146
+
+[castle_wars_514]
+param=param_689,Castle Wars
+param=param_690,enum_2147
+
+[magic_training_arena_515]
+param=param_689,Magic Training Arena
+param=param_690,enum_2148
+
+[barbarian_assault_516]
+param=param_689,Barbarian Assault
+param=param_690,enum_2149
+
+[shades_of_mortton_517]
+param=param_689,Shades of Mort'ton
+param=param_690,enum_2151
+
+[pest_control_518]
+param=param_689,Pest Control
+param=param_690,enum_2152
+
+[temple_trekking_519]
+param=param_689,Temple Trekking
+param=param_690,enum_2154
+
+[fishing_trawler_520]
+param=param_689,Fishing Trawler
+param=param_690,enum_2157
+
+[gnome_restaurant_521]
+param=param_689,Gnome Restaurant
+param=param_690,enum_2150
+
+[rogues_den_522]
+param=param_689,Rogues' Den
+param=param_690,enum_2153
+
+[trouble_brewing_523]
+param=param_689,Trouble Brewing
+param=param_690,enum_2156
+
+[tithe_farm_524]
+param=param_689,Tithe Farm
+param=param_690,enum_2155
+
+[revenants_525]
+param=param_689,Revenants
+param=param_690,enum_2160
+
+[gloughs_experiments_526]
+param=param_689,Glough's Experiments
+param=param_690,enum_2161
+
+[slayer_527]
+param=param_689,Slayer
+param=param_690,enum_2162
+
+[champions_challenge_528]
+param=param_689,Champion's Challenge
+param=param_690,enum_2163
+
+[skilling_pets_529]
+param=param_689,Skilling Pets
+param=param_690,enum_2165
+
+[motherlode_mine_530]
+param=param_689,Motherlode Mine
+param=param_690,enum_2166
+
+[shayzien_armour_531]
+param=param_689,Shayzien Armour
+param=param_690,enum_2167
+
+[cyclopes_532]
+param=param_689,Cyclopes
+param=param_690,enum_2164
+
+[chaos_druids_533]
+param=param_689,Chaos Druids
+param=param_690,enum_2159
+
+[miscellaneous_534]
+param=param_689,Miscellaneous
+param=param_690,enum_2169
+
+[all_pets_535]
+param=param_689,All Pets
+param=param_690,enum_2158
+
+[tzhaar_536]
+param=param_689,TzHaar
+param=param_690,enum_2168
+

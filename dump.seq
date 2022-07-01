@@ -39871,12 +39871,12 @@ replayoff=53
 looptype=1
 framegroup1=1679
 
-[seq_6657]
+[the_collector_ready_6657]
 framecount=13
 looptype=1
 framegroup1=1677
 
-[seq_6658]
+[the_collector_walk_6658]
 framecount=16
 looptype=1
 framegroup1=1677

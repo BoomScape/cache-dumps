@@ -455,15 +455,12 @@ layer=interface_162:37
 
 [interface_162:41]
 type=^iftype_layer
-width=75
-height=10
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_162:40
-onclick="script2240"
 
 [interface_162:42]
 type=^iftype_layer
@@ -519,6 +516,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hide=yes
 layer=interface_162:40
+noclickthrough=yes
 
 [interface_162:47]
 type=^iftype_layer
@@ -529,6 +527,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hide=yes
 layer=interface_162:40
+noclickthrough=yes
 
 [interface_162:48]
 type=^iftype_layer
@@ -540,6 +539,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hide=yes
 layer=interface_162:40
+noclickthrough=yes
 
 [interface_162:49]
 type=^iftype_layer
