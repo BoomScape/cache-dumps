@@ -26584,6 +26584,11 @@ stretches=yes
 looptype=1
 framegroup1=1076
 
+[seq_4410]
+framecount=15
+looptype=1
+framegroup1=2085
+
 [seq_4411]
 framecount=46
 stretches=yes
@@ -49598,6 +49603,11 @@ replayoff=8
 looptype=1
 framegroup1=2197
 
+[seq_8147]
+framecount=18
+looptype=1
+framegroup1=2083
+
 [portal_8148]
 framecount=16
 replayoff=16
@@ -50765,6 +50775,30 @@ framegroup1=1076
 framecount=33
 looptype=1
 framegroup1=1076
+
+[seq_8318]
+framecount=36
+replayoff=1
+priority=10
+looptype=1
+framegroup1=2086
+
+[sraracha_walk_8319]
+framecount=12
+looptype=1
+framegroup1=2084
+
+[sraracha_ready_8320]
+framecount=12
+looptype=1
+framegroup1=2087
+
+[seq_8321]
+framecount=10
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=1867
 
 [seq_8331]
 framecount=56

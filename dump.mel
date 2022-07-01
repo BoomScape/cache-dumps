@@ -3754,3 +3754,27 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_626]
+text=Undead<br>druids
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_627]
+text=Bone<br>Burner
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_628]
+text=Temple Spiders
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_629]
+text=Sarachnis
+colour=^white
+mapfunction=no
+category=1129
+

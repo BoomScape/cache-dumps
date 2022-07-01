@@ -2821,3 +2821,12 @@ param=setting_category_id_743,2
 param=setting_category_name_744,orange_2108
 param=setting_category_list_745,1
 
+[sarachnis_601]
+param=param_689,Sarachnis
+param=param_690,enum_2344
+
+[in_search_of_knowledge_602]
+param=param_579,In Search of Knowledge
+param=param_610,In Search of Knowledge
+param=param_611,2
+

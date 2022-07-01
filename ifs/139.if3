@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2533(9109505,9109506)"
+onload="script2533(9109505,9109506,9109510)"
 
 [interface_139:1]
 type=^iftype_layer
@@ -39,40 +39,28 @@ trans=125
 [interface_139:5]
 type=^iftype_text
 y=3
-height=14
+height=30
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_139:3
-text="Gnomeball"
+text="Gnomeball<br>Score"
 colour=^yellow
 font=p12_full
 halign=^settextalign_centre
+valign=^settextalign_centre
+paraheight=15
 shadowed=yes
 
 [interface_139:6]
 type=^iftype_text
-y=18
-height=14
+y=10
+height=15
 hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_139:3
-text="Score"
-colour=^yellow
-font=p12_full
-halign=^settextalign_centre
-shadowed=yes
-
-[interface_139:7]
-type=^iftype_text
-y=36
-height=14
-hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_139:3
 colour=^red
 font=b12_full
 halign=^settextalign_centre
 shadowed=yes
-onload="script882(event_com)"
-onvartransmit="script882(event_com){var_143}"
 

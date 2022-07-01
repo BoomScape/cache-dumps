@@ -1184,6 +1184,7 @@ val=jar_of_darkness_19701,Jar of Darkness (Skotizo)
 val=jar_of_stone_21745,Jar of Stone (Grotesque Guardians)
 val=jar_of_decay_22106,Jar of Decay (Vorkath)
 val=jar_of_chemicals_23064,Jar of Chemicals (Alchemical Hydra)
+val=jar_of_eyes_23525,Jar of Eyes (Sarachnis)
 val=more_10165,More...
 val=back_10166,Back...
 
@@ -2177,21 +2178,20 @@ val=-24,cert_christmas_cracker_963
 inputtype=int
 outputtype=namedobj
 default=null
-val=0,cert_red_spiders_eggs_224
-val=1,cert_flax_1780
-val=2,cert_bucket_of_sand_1784
-val=3,cert_seaweed_402
-val=4,cert_dragon_scale_dust_242
-val=5,cert_compost_potion_4_6471
-val=6,air_rune_556
-val=7,water_rune_555
-val=8,earth_rune_557
-val=9,fire_rune_554
-val=10,cert_rune_essence_1437
-val=11,cert_pure_essence_7937
-val=12,herb_box_11738
-val=13,cert_vial_of_water_228
-val=14,scroll_of_redirection_11740
+val=0,cert_flax_1780
+val=1,cert_bucket_of_sand_1784
+val=2,cert_seaweed_402
+val=3,cert_dragon_scale_dust_242
+val=4,cert_compost_potion_4_6471
+val=5,air_rune_556
+val=6,water_rune_555
+val=7,earth_rune_557
+val=8,fire_rune_554
+val=9,cert_rune_essence_1437
+val=10,cert_pure_essence_7937
+val=11,herb_box_11738
+val=12,cert_vial_of_water_228
+val=13,scroll_of_redirection_11740
 
 [enum_767]
 inputtype=int
@@ -3522,6 +3522,8 @@ val=597,On the Frontline
 val=598,Servants of Strife
 val=599,Creeping Vines
 val=600,Box of Delights
+val=601,A Forgotten Religion
+val=602,Sarachnis
 
 [enum_814]
 inputtype=int
@@ -4204,6 +4206,8 @@ val=597,On the Frontline
 val=598,Servants of Strife
 val=599,Creeping Vines
 val=600,Box of Delights
+val=601,"Forgotten Religion, A"
+val=602,Sarachnis
 
 [enum_818]
 inputtype=int
@@ -4809,6 +4813,8 @@ val=596,597
 val=597,598
 val=598,599
 val=599,600
+val=600,601
+val=601,602
 
 [enum_819]
 inputtype=int
@@ -5414,6 +5420,8 @@ val=597,0_0_0_19_11
 val=598,0_0_0_19_12
 val=599,0_0_0_19_13
 val=600,0_0_0_19_14
+val=601,0_0_0_19_15
+val=602,0_0_0_19_16
 
 [enum_823]
 inputtype=component
@@ -7647,6 +7655,7 @@ val=38,noon_21748
 val=39,vorki_21992
 val=40,lil_zik_22473
 val=41,ikkle_hydra_22746
+val=42,sraracha_23495
 
 [enum_987]
 inputtype=int
@@ -10119,6 +10128,7 @@ val=21,The Abyssal Sire
 val=22,The Grotesque Guardians
 val=23,Vorkath
 val=24,The Alchemical Hydra
+val=25,Sarachnis
 
 [enum_1233]
 inputtype=int
@@ -19861,6 +19871,7 @@ val=8,the_mage_arena_327
 val=9,lair_of_tarn_razorlor_328
 val=10,family_pest_329
 val=11,the_mage_arena_ii_330
+val=12,in_search_of_knowledge_602
 
 [enum_2102]
 inputtype=int
@@ -19900,14 +19911,15 @@ val=20,kraken_492
 val=21,kreearra_493
 val=22,kril_tsutsaroth_494
 val=23,obor_495
-val=24,scorpia_496
-val=25,skotizo_497
-val=26,thermonuclear_smoke_devil_498
-val=27,venenatis_501
-val=28,vetion_502
-val=29,vorkath_503
-val=30,wintertodt_504
-val=31,zulrah_505
+val=24,sarachnis_601
+val=25,scorpia_496
+val=26,skotizo_497
+val=27,thermonuclear_smoke_devil_498
+val=28,venenatis_501
+val=29,vetion_502
+val=30,vorkath_503
+val=31,wintertodt_504
+val=32,zulrah_505
 
 [enum_2104]
 inputtype=int
@@ -21249,6 +21261,7 @@ val=38,rocky_20663
 val=39,rift_guardian_20665
 val=40,herbi_21509
 val=41,chompy_chick_13071
+val=42,sraracha_23495
 
 [enum_2159]
 inputtype=int
@@ -21498,6 +21511,7 @@ val=36,hespori_seed_22875
 val=37,fresh_crab_claw_7536
 val=38,fresh_crab_shell_7538
 val=39,xerics_talisman_inert_13392
+val=40,mask_of_ranul_23522
 
 [enum_2171]
 inputtype=int
@@ -22149,4 +22163,13 @@ val=6,interface_91:41
 val=7,interface_91:42
 val=8,interface_91:43
 val=9,interface_91:44
+
+[enum_2344]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,sraracha_23495
+val=1,jar_of_eyes_23525
+val=2,giant_egg_sac_full_23517
+val=3,sarachnis_cudgel_23528
 
