@@ -1609,16 +1609,16 @@ param=param_611,1
 param=param_612,1
 param=param_613,1
 
-[mournings_ends_part_i_399]
-param=param_579,Mourning's Ends Part I
-param=param_610,Mourning's Ends Part I
+[mournings_end_part_i_399]
+param=param_579,Mourning's End Part I
+param=param_610,Mourning's End Part I
 param=param_611,1
 param=param_612,3
 param=param_613,2
 
-[mournings_ends_part_ii_400]
-param=param_579,Mourning's Ends Part II
-param=param_610,Mourning's Ends Part II
+[mournings_end_part_ii_400]
+param=param_579,Mourning's End Part II
+param=param_610,Mourning's End Part II
 param=param_611,1
 param=param_612,3
 param=param_613,2
@@ -2215,9 +2215,9 @@ param=param_676,"2x_lunar_spells_on,28"
 param=param_678,"2x_lunar_spells_off,28"
 param=param_681,8
 
-[great_kourend_463]
+[kourend_castle_463]
 param=param_659,11
-param=param_660,Great Kourend
+param=param_660,Kourend Castle
 param=param_661,portal_nexus_33367
 param=param_662,portal_nexus_33385
 param=param_663,portal_nexus_33403
@@ -2836,4 +2836,18 @@ param=param_610,Song of the Elves
 param=param_611,1
 param=param_612,4
 param=param_613,3
+
+[zalcano_604]
+param=param_689,Zalcano
+param=param_690,enum_2389
+
+[the_gauntlet_605]
+param=param_689,The Gauntlet
+param=param_690,enum_2390
+
+[struct_687]
+param=param_569,paddlefish_23874
+
+[struct_688]
+param=param_578,burnt_fish_23873
 

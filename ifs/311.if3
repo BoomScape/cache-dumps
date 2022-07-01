@@ -412,8 +412,9 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_311:42
 graphic="worldmap_icon_large,0"
-optionmask=14
+optionmask=30
 op1="*"
 op2="*"
 op3="*"
+op4="*"
 

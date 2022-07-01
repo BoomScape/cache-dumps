@@ -4,7 +4,7 @@ width=512
 height=334
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script2073(event_com,4718594,4718597,4718600,4718603,4718606,4718609,4718612,4718615,4718618,4718621,4718624)"
+onload="script2073(event_com,4718594,4718597,4718600,4718603,4718606,4718609,4718612,4718615,4718618,4718621,4718624,4718625)"
 
 [interface_72:1]
 type=^iftype_model
@@ -382,11 +382,24 @@ height=19
 layer=interface_72:0
 optionmask=2
 op1="Corsair Cove"
-onmouseover="script67(4718625,17359)"
-onmouseleave="script67(4718625,17360)"
+onmouseover="script67(4718626,17359)"
+onmouseleave="script67(4718626,17360)"
 onop="script489(event_opindex,2)"
 
 [interface_72:33]
+type=^iftype_layer
+x=85
+y=137
+width=82
+height=17
+layer=interface_72:0
+optionmask=2
+op1="Prifddinas"
+onmouseover="script67(4718629,17359)"
+onmouseleave="script67(4718629,17360)"
+onop="script489(event_opindex,2)"
+
+[interface_72:34]
 type=^iftype_model
 x=-7
 y=-8
@@ -399,7 +412,7 @@ model=model_17360
 xan=355
 zoom=400
 
-[interface_72:34]
+[interface_72:35]
 type=^iftype_text
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -410,7 +423,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_72:35]
+[interface_72:36]
 type=^iftype_graphic
 x=6
 y=6
@@ -423,4 +436,28 @@ op1="Close"
 onmouseover="script44(event_com,540)"
 onmouseleave="script44(event_com,539)"
 onop="script29"
+
+[interface_72:37]
+type=^iftype_model
+x=-5
+y=-6
+width=32
+height=32
+layer=interface_72:33
+model=model_17360
+xan=355
+zoom=400
+
+[interface_72:38]
+type=^iftype_text
+x=-12
+width=74
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_72:33
+text="Prifddinas"
+colour=0xff981f
+font=p12_full
+shadowed=yes
 

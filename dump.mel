@@ -1228,7 +1228,7 @@ mapfunction=no
 category=1129
 
 [mapelement_212]
-text=Elf<br>Camp
+text=Iorwerth<br>Camp
 colour=^white
 mapfunction=no
 category=1129
@@ -3737,7 +3737,7 @@ mapfunction=no
 category=1129
 
 [mapelement_623]
-text=Larran's<br>chest
+text=Larran's<br>Chest
 colour=^white
 mapfunction=no
 category=1129
@@ -3774,6 +3774,46 @@ category=1129
 
 [mapelement_629]
 text=Sarachnis
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_630]
+graphic="mapfunction,109"
+vis=^mapelement_vis_both
+category=1070
+
+[mapelement_631]
+graphic="mapfunction,119"
+vis=^mapelement_vis_both
+category=1396
+
+[mapelement_632]
+text=Moss<br>giants
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_633]
+text=Trahaearn<br>Mine
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_634]
+text=Zalcano
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_635]
+text=The Gauntlet
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_636]
+text=Gwenith
 colour=^white
 mapfunction=no
 category=1129

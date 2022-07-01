@@ -5,6 +5,14 @@ duration=300
 full="standard_health_30,0"
 empty="standard_health_30,1"
 
+[headbar_1]
+showpriority=250
+hidepriority=250
+duration=300
+full="orb_filler,14"
+empty="graphic_2209"
+width=100
+
 [headbar_7]
 showpriority=250
 hidepriority=250

@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1112(11730947,11730949,11731208)"
+onload="script1112(11730947,11730949,11731223)"
 
 [interface_179:1]
 type=^iftype_layer
@@ -1594,7 +1594,6 @@ type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 onload="script1118(event_com)"
 
 [interface_179:238]
@@ -1603,21 +1602,18 @@ width=64
 height=64
 layer=interface_179:5
 zoom=400
-opbase="cc"
 
 [interface_179:239]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 
 [interface_179:240]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 onload="script1118(event_com)"
 
 [interface_179:241]
@@ -1626,21 +1622,18 @@ width=64
 height=64
 layer=interface_179:5
 zoom=400
-opbase="cc"
 
 [interface_179:242]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 
 [interface_179:243]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 onload="script1118(event_com)"
 
 [interface_179:244]
@@ -1649,21 +1642,18 @@ width=64
 height=64
 layer=interface_179:5
 zoom=400
-opbase="cc"
 
 [interface_179:245]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 
 [interface_179:246]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 onload="script1118(event_com)"
 
 [interface_179:247]
@@ -1672,14 +1662,12 @@ width=64
 height=64
 layer=interface_179:5
 zoom=400
-opbase="cc"
 
 [interface_179:248]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 
 [interface_179:249]
 type=^iftype_layer
@@ -1798,13 +1786,128 @@ opbase="cc"
 
 [interface_179:264]
 type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+onload="script1118(event_com)"
+
+[interface_179:265]
+type=^iftype_model
+width=64
+height=64
+layer=interface_179:5
+zoom=400
+opbase="cc"
+
+[interface_179:266]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+
+[interface_179:267]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+onload="script1118(event_com)"
+
+[interface_179:268]
+type=^iftype_model
+width=64
+height=64
+layer=interface_179:5
+zoom=400
+opbase="cc"
+
+[interface_179:269]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+
+[interface_179:270]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+onload="script1118(event_com)"
+
+[interface_179:271]
+type=^iftype_model
+width=64
+height=64
+layer=interface_179:5
+zoom=400
+opbase="cc"
+
+[interface_179:272]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+
+[interface_179:273]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+onload="script1118(event_com)"
+
+[interface_179:274]
+type=^iftype_model
+width=64
+height=64
+layer=interface_179:5
+zoom=400
+opbase="cc"
+
+[interface_179:275]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+
+[interface_179:276]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+onload="script1118(event_com)"
+
+[interface_179:277]
+type=^iftype_model
+width=64
+height=64
+layer=interface_179:5
+zoom=400
+opbase="cc"
+
+[interface_179:278]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+
+[interface_179:279]
+type=^iftype_layer
 width=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_179:4
 
-[interface_179:265]
+[interface_179:280]
 type=^iftype_layer
 width=1
 height=1
