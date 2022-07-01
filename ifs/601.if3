@@ -128,10 +128,10 @@ layer=interface_601:13
 
 [interface_601:16]
 type=^iftype_layer
-x=35
 y=64
 width=512
 height=334
+hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_601:15
 

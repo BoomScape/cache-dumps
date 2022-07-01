@@ -288,6 +288,12 @@ graphic="mapfunction,54"
 vis=^mapelement_vis_both
 category=1102
 
+[mapelement_57]
+text=Weiss
+colour=^white
+mapfunction=no
+category=1129
+
 [mapelement_58]
 graphic="mapfunction,56"
 vis=^mapelement_vis_both
@@ -387,6 +393,12 @@ category=1122
 graphic="mapfunction,76"
 vis=^mapelement_vis_both
 category=1123
+
+[mapelement_78]
+text=Salt Mine
+colour=^white
+mapfunction=no
+category=1129
 
 [mapelement_79]
 graphic="mapfunction,78"

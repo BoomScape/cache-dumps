@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1112(11730947,11730949,11731163)"
+onload="script1112(11730947,11730949,11731166)"
 
 [interface_179:1]
 type=^iftype_layer
@@ -1374,7 +1374,6 @@ type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 onload="script1118(event_com)"
 
 [interface_179:205]
@@ -1383,14 +1382,12 @@ width=64
 height=64
 layer=interface_179:5
 zoom=400
-opbase="cc"
 
 [interface_179:206]
 type=^iftype_layer
 width=150
 height=125
 layer=interface_179:5
-opbase="cc"
 
 [interface_179:207]
 type=^iftype_layer
@@ -1486,13 +1483,36 @@ opbase="cc"
 
 [interface_179:219]
 type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+onload="script1118(event_com)"
+
+[interface_179:220]
+type=^iftype_model
+width=64
+height=64
+layer=interface_179:5
+zoom=400
+opbase="cc"
+
+[interface_179:221]
+type=^iftype_layer
+width=150
+height=125
+layer=interface_179:5
+opbase="cc"
+
+[interface_179:222]
+type=^iftype_layer
 width=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_179:4
 
-[interface_179:220]
+[interface_179:223]
 type=^iftype_layer
 width=1
 height=1

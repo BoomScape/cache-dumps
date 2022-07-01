@@ -2,8 +2,19 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script2528(10878978,10878979,10878977)"
 
 [interface_166:1]
+type=^iftype_rectangle
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_166:0
+colour=0x98c8f8
+fill=yes
+trans=160
+
+[interface_166:2]
 type=^iftype_model
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -17,7 +28,7 @@ zoom=113
 viewportwid=512
 viewporthei=512
 
-[interface_166:2]
+[interface_166:3]
 type=^iftype_model
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -31,7 +42,7 @@ zoom=113
 viewportwid=512
 viewporthei=512
 
-[interface_166:3]
+[interface_166:4]
 type=^iftype_layer
 width=8192
 vposmode=^setpos_abs_centre
@@ -39,17 +50,17 @@ hsizemode=^setsize_proportion
 vsizemode=^setsize_minus
 layer=interface_166:0
 
-[interface_166:4]
+[interface_166:5]
 type=^iftype_rectangle
 width=254
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_166:3
+layer=interface_166:4
 colour=0x60404
 fill=yes
 
-[interface_166:5]
+[interface_166:6]
 type=^iftype_layer
 width=8192
 hposmode=^setpos_abs_right
@@ -58,14 +69,14 @@ hsizemode=^setsize_proportion
 vsizemode=^setsize_minus
 layer=interface_166:0
 
-[interface_166:6]
+[interface_166:7]
 type=^iftype_rectangle
 width=254
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_166:5
+layer=interface_166:6
 colour=0x60404
 fill=yes
 
