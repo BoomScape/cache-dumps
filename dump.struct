@@ -7160,3 +7160,7 @@ param=param_932,0_50_51_54_23
 param=param_936,A hint arrow has been added above a Cow you could attack.
 param=param_938,Look for a Cow near the hint arrow location.
 
+[monkey_backpacks_1397]
+param=param_689,Monkey Backpacks
+param=param_690,enum_3044
+

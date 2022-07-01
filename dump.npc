@@ -158170,7 +158170,7 @@ readyanim=dusk_ready_7791
 walkanim=dusk_ready_7791
 size=6
 vislevel=248
-turnspeed=1024
+turnspeed=50
 
 [npc_7856]
 model1=khazard_helmet_219
@@ -205337,5 +205337,17 @@ recol5d=7452
 recol6s=906
 recol6d=8596
 op1=Talk-to
+vislevel=0
+
+[bobawu_10369]
+name=Bobawu
+model1=small_ninja_monkey_4821
+model2=small_ninja_monkey_4828
+model3=padulah_4833
+head1=small_ninja_monkey_4660
+readyanim=kruk_ready_1386
+walkanim=monkey_guard_walk_1380
+op1=Talk-to
+op3=Lap-count
 vislevel=0
 

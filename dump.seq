@@ -17260,9 +17260,12 @@ looptype=1
 framegroup1=15
 
 [seq_2851]
-framecount=6
+framecount=75
+replayoff=30
+priority=6
 looptype=1
-framegroup1=15
+framegroup1=1997
+framegroup2=1986
 
 [seq_2852]
 framecount=6
@@ -17271,21 +17274,25 @@ framegroup1=15
 
 [seq_2853]
 framecount=15
+priority=6
 looptype=1
 framegroup1=15
 
 [seq_2854]
 framecount=8
+priority=6
 looptype=1
 framegroup1=15
 
 [seq_2855]
 framecount=11
+priority=6
 looptype=1
 framegroup1=15
 
 [seq_2856]
 framecount=20
+priority=10
 looptype=1
 framegroup1=15
 
@@ -17336,6 +17343,7 @@ framegroup1=18
 
 [seq_2866]
 framecount=10
+priority=10
 looptype=1
 framegroup1=18
 
@@ -17346,6 +17354,7 @@ framegroup1=18
 
 [seq_2868]
 framecount=7
+priority=6
 looptype=1
 framegroup1=18
 
@@ -47263,7 +47272,7 @@ looptype=1
 framegroup1=1967
 
 [seq_7772]
-framecount=77
+framecount=60
 looptype=1
 framegroup1=1964
 
@@ -47370,12 +47379,14 @@ looptype=1
 framegroup1=1986
 
 [seq_7792]
-framecount=78
+framecount=63
+priority=7
 looptype=1
 framegroup1=1983
 
 [seq_7793]
 framecount=20
+priority=7
 looptype=1
 framegroup1=1982
 
@@ -53704,4 +53715,12 @@ framecount=12
 replayoff=12
 looptype=1
 framegroup1=1904
+
+[seq_8758]
+framecount=34
+replayoff=14
+priority=7
+looptype=1
+framegroup1=1982
+framegroup2=1980
 

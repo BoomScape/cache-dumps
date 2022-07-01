@@ -20229,7 +20229,8 @@ val=14,shayzien_armour_531
 val=15,skilling_pets_529
 val=16,slayer_527
 val=17,tzhaar_536
-val=18,miscellaneous_534
+val=18,monkey_backpacks_1397
+val=19,miscellaneous_534
 
 [enum_2108]
 inputtype=namedobj
@@ -26142,4 +26143,15 @@ outputtype=struct
 default=null
 val=23,struct_1389
 val=26,struct_1393
+
+[enum_3044]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,karamjan_monkey_24862
+val=1,zombie_monkey_24863
+val=2,maniacal_monkey_24864
+val=3,skeleton_monkey_24865
+val=4,kruk_jr_24866
+val=5,princely_monkey_24867
 
