@@ -3,6 +3,11 @@ duration=50
 middle="hitmark,17"
 damageformat=%1
 
+[hitmark_1]
+duration=150
+middle="hitmark_blocked"
+fadeat=0
+
 [hitmark_2]
 duration=50
 middle="hitmark,2"

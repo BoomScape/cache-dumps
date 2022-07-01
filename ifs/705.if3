@@ -4,7 +4,7 @@ width=184
 height=237
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script4445(event_com,46202882,46202883,46202887,46202888,46202890,46202889,46202891,46202881)"
+onload="script4445(event_com,46202882,46202883,46202887,46202888,46202890,46202889,46202891,46202881,Clan)"
 
 [interface_705:1]
 type=^iftype_layer

@@ -28,6 +28,13 @@ graphic="mapfunction,5"
 vis=^mapelement_vis_both
 category=1055
 
+[mapelement_6]
+text=The Node
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
 [mapelement_7]
 graphic="mapfunction,7"
 vis=^mapelement_vis_both

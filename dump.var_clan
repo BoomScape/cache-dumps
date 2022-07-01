@@ -340,3 +340,9 @@ type=int
 [varclan_113]
 type=hash64
 
+[varclan_114]
+type=inv
+
+[varclan_115]
+type=int
+

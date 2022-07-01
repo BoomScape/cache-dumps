@@ -7201,7 +7201,7 @@ val=10,model_28413
 val=11,model_28407
 val=12,model_28409
 val=13,model_28417
-val=14,model_28414
+val=14,r0ck_5masher_28414
 val=15,model_28405
 val=16,model_28412
 val=17,model_28411
@@ -15338,7 +15338,7 @@ val=inconspicuous_bush_medium_multi_29002,Outside the Seers' Village courthouse
 val=inconspicuous_bush_medium_multi_29003,Outside Harry's Fishing Shop in Catherby
 val=inconspicuous_hole_medium_multi_29004,TzHaar weapons store
 val=inconspicuous_bush_medium_multi_29005,North of Evil Dave's house in Edgeville
-val=inconspicuous_crate_medium_multi_29006,West of the Shayzien combat ring
+val=inconspicuous_crate_medium_multi_29006,North of the Shayzien combat ring
 val=inconspicuous_crate_medium_multi_29007,Entrance of the Arceuus library
 val=inconspicuous_bush_medium_multi_29008,Outside Draynor Village jail
 val=inconspicuous_hole_medium_multi_34647,North of Mount Karuulm
@@ -18015,6 +18015,8 @@ default=
 val=1,<img=2>
 val=2,<img=3>
 val=3,<img=10>
+val=4,<img=41>
+val=5,<img=42>
 
 [enum_1895]
 inputtype=component
@@ -18140,10 +18142,10 @@ val=68,bottled_dragonbreath_23002
 inputtype=component
 outputtype=int
 default=0
-val=interface_12:57,1
-val=interface_12:59,2
-val=interface_12:61,3
-val=interface_12:63,4
+val=interface_12:58,1
+val=interface_12:60,2
+val=interface_12:62,3
+val=interface_12:64,4
 
 [enum_1911]
 inputtype=int
@@ -25683,17 +25685,17 @@ val=13,interface_84:20
 inputtype=int
 outputtype=component
 default=null
-val=0,interface_12:75
-val=1,interface_12:76
-val=2,interface_12:77
-val=3,interface_12:78
-val=4,interface_12:79
-val=5,interface_12:80
-val=7,interface_12:81
-val=9,interface_12:82
-val=10,interface_12:83
-val=12,interface_12:84
-val=13,interface_12:85
+val=0,interface_12:76
+val=1,interface_12:77
+val=2,interface_12:78
+val=3,interface_12:79
+val=4,interface_12:80
+val=5,interface_12:81
+val=7,interface_12:82
+val=9,interface_12:83
+val=10,interface_12:84
+val=12,interface_12:85
+val=13,interface_12:86
 
 [enum_2778]
 inputtype=int
@@ -48277,6 +48279,8 @@ default=Chat-channel
 val=1,Your Clan
 val=2,View another clan
 val=3,Grouping
+val=4,Iron Group
+val=5,Hardcore Iron Group
 
 [enum_3840]
 inputtype=int
@@ -48284,7 +48288,9 @@ outputtype=graphic
 default="options_icons_small,7"
 val=1,"options_icons_small,8"
 val=2,"options_icons_small,9"
-val=3,"achievement_diary_icons,2"
+val=3,"options_icons_small,13"
+val=4,"options_icons_small,11"
+val=5,"options_icons_small,12"
 
 [enum_3841]
 inputtype=int
@@ -48292,7 +48298,9 @@ outputtype=graphic
 default="sideicons_interface,7"
 val=1,"sideicons_interface,28"
 val=2,"sideicons_interface,29"
-val=3,"sideicons_interface,15"
+val=3,"sideicons_interface,34"
+val=4,"sideicons_interface,32"
+val=5,"sideicons_interface,33"
 
 [enum_3842]
 inputtype=int
@@ -50899,11 +50907,13 @@ val=20,struct_3000
 val=21,struct_3626
 val=22,struct_3009
 val=23,struct_1147
-val=24,struct_3002
-val=25,struct_3003
-val=26,struct_3011
-val=27,struct_3627
-val=28,struct_2854
+val=24,struct_2731
+val=25,struct_3711
+val=26,struct_3002
+val=27,struct_3003
+val=28,struct_3011
+val=29,struct_3627
+val=30,struct_2854
 
 [enum_4025]
 inputtype=int
@@ -51334,4 +51344,163 @@ val=90,1
 val=91,1
 val=92,1
 val=93,1
+
+[enum_4047]
+inputtype=obj
+outputtype=boolean
+default=no
+val=karamjan_rum_431,yes
+val=glowing_fungus_4075,yes
+val=anger_sword_7806,yes
+val=anger_spear_7809,yes
+val=anger_battleaxe_7807,yes
+val=anger_mace_7808,yes
+val=falconers_glove_10023,yes
+val=falconers_glove_10024,yes
+val=ring_of_visibility_4657,yes
+val=pirate_hat_8950,yes
+val=pirate_bandana_8949,yes
+val=bolt_pouch_9433,yes
+val=ana_in_a_barrel_1842,yes
+val=dream_log_9067,yes
+val=looting_bag_11941,yes
+val=looting_bag_22586,yes
+val=rune_pouch_12791,yes
+val=rune_pouch_l_24416,yes
+val=antique_emblem_tier_1_24565,yes
+val=antique_emblem_tier_2_24567,yes
+val=antique_emblem_tier_3_24569,yes
+val=antique_emblem_tier_4_24571,yes
+val=antique_emblem_tier_5_24573,yes
+val=antique_emblem_tier_6_24575,yes
+val=antique_emblem_tier_7_24577,yes
+val=antique_emblem_tier_8_24579,yes
+val=antique_emblem_tier_9_24581,yes
+val=antique_emblem_tier_10_24583,yes
+val=clue_box_12789,yes
+val=larrans_key_23490,yes
+val=deadman_teleport_tablet_13666,yes
+val=bracelet_of_ethereum_uncharged_21817,yes
+val=bracelet_of_ethereum_21816,yes
+val=ancient_emblem_21807,yes
+val=ancient_totem_21810,yes
+val=ancient_statuette_21813,yes
+val=ancient_medallion_22299,yes
+val=ancient_effigy_22302,yes
+val=ancient_relic_22305,yes
+val=cormorants_glove_22816,yes
+val=cormorants_glove_22817,yes
+val=shark_20390,yes
+val=monkfish_20547,yes
+val=cooked_karambwan_23533,yes
+val=prayer_potion_4_20393,yes
+val=prayer_potion_3_20394,yes
+val=prayer_potion_2_20395,yes
+val=prayer_potion_1_20396,yes
+val=super_energy_4_20548,yes
+val=super_energy_3_20549,yes
+val=super_energy_2_20550,yes
+val=super_energy_1_20551,yes
+val=super_combat_potion_4_23543,yes
+val=super_combat_potion_3_23545,yes
+val=super_combat_potion_2_23547,yes
+val=super_combat_potion_1_23549,yes
+val=ranging_potion_4_23551,yes
+val=ranging_potion_3_23553,yes
+val=ranging_potion_2_23555,yes
+val=ranging_potion_1_23557,yes
+val=sanfew_serum_4_23559,yes
+val=sanfew_serum_3_23561,yes
+val=sanfew_serum_2_23563,yes
+val=sanfew_serum_1_23565,yes
+val=super_restore_4_23567,yes
+val=super_restore_3_23569,yes
+val=super_restore_2_23571,yes
+val=super_restore_1_23573,yes
+val=saradomin_brew_4_23575,yes
+val=saradomin_brew_3_23577,yes
+val=saradomin_brew_2_23579,yes
+val=saradomin_brew_1_23581,yes
+val=catalytic_rune_pack_20523,yes
+val=elemental_rune_pack_20524,yes
+val=adamant_arrow_pack_20525,yes
+val=rune_arrow_pack_20607,yes
+val=bruma_root_20695,yes
+val=bruma_kindling_20696,yes
+val=bruma_herb_20698,yes
+val=tephra_23905,yes
+val=refined_tephra_23906,yes
+val=imbued_tephra_23907,yes
+val=old_school_bond_13190,yes
+val=old_school_bond_untradeable_13192,yes
+
+[enum_4049]
+inputtype=struct
+outputtype=int
+default=0
+val=struct_3334,1
+val=struct_3335,1
+val=struct_3336,1
+val=struct_3395,1
+val=struct_3396,1
+val=struct_3397,1
+val=struct_3398,1
+val=struct_3399,1
+val=struct_3400,1
+val=struct_3435,1
+val=struct_3436,1
+val=struct_3437,1
+val=struct_3438,1
+val=struct_3464,1
+val=struct_3465,1
+val=struct_3466,1
+val=struct_3467,1
+val=struct_3458,1
+val=struct_3522,1
+val=struct_3523,1
+val=struct_3524,1
+
+[enum_4050]
+inputtype=struct
+outputtype=int
+default=0
+val=struct_3334,1
+val=struct_3335,1
+val=struct_3336,1
+val=struct_3397,1
+val=struct_3398,1
+val=struct_3399,1
+val=struct_3400,1
+val=struct_3435,1
+val=struct_3436,1
+val=struct_3464,1
+val=struct_3465,1
+val=struct_3523,1
+val=struct_3524,1
+
+[enum_4051]
+inputtype=struct
+outputtype=int
+default=0
+val=struct_3334,1
+val=struct_3335,1
+val=struct_3336,1
+val=struct_3399,1
+val=struct_3400,1
+val=struct_3435,1
+val=struct_3436,1
+val=struct_3464,1
+val=struct_3465,1
+val=struct_3524,1
+
+[enum_4053]
+inputtype=component
+outputtype=int
+default=null
+val=interface_723:8,0
+val=interface_723:10,1
+val=interface_723:9,2
+val=interface_723:11,3
+val=interface_723:1,4
+val=interface_723:7,5
 
