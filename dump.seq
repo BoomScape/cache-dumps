@@ -47423,13 +47423,13 @@ framecount=8
 looptype=1
 framegroup1=2012
 
-[deadman_supply_chest_7823]
+[bank_box_7823]
 framecount=28
 replayoff=1
 looptype=1
 framegroup1=2013
 
-[deadman_supply_chest_7824]
+[bank_box_7824]
 framecount=12
 replayoff=12
 looptype=1
@@ -49072,7 +49072,7 @@ looptype=1
 framegroup1=2187
 
 [seq_8088]
-framecount=23
+framecount=28
 looptype=1
 framegroup1=2189
 
@@ -49487,4 +49487,16 @@ framegroup1=2192
 framecount=16
 looptype=1
 framegroup1=2171
+
+[seq_8145]
+framecount=16
+priority=6
+looptype=1
+framegroup1=2196
+
+[blue_banner_8146]
+framecount=8
+replayoff=8
+looptype=1
+framegroup1=2197
 

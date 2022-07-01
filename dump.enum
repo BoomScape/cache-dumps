@@ -6132,16 +6132,17 @@ val=10,Nightmare Zone
 val=11,Pest Control
 val=13,Rat Pits
 val=14,Shades of Mort'ton
-val=17,Trouble Brewing
-val=18,TzHaar Fight Pit
+val=18,Trouble Brewing
+val=19,TzHaar Fight Pit
 val=15,Shield of Arrav
 val=5,Clan Wars
 val=8,God Wars
 val=6,Dagannoth Kings
 val=12,Player Owned Houses
-val=16,Tithe Farm
+val=17,Tithe Farm
 val=9,Last Man Standing
-val=19,Volcanic Mine
+val=20,Volcanic Mine
+val=16,Theatre of Blood
 
 [enum_849]
 inputtype=int
@@ -6156,16 +6157,17 @@ val=10,osrs nmz
 val=11,osrs pc
 val=13,osrs ratpits
 val=14,osrs shades
-val=17,osrs tb
-val=18,osrs tfp
+val=18,osrs tb
+val=19,osrs tfp
 val=15,osrs soa
 val=5,osrs clw
 val=8,osrs gwd
 val=6,osrs dkings
 val=12,osrs poh
-val=16,osrs tithe
+val=17,osrs tithe
 val=9,osrs lms cc
-val=19,os volcmine
+val=20,os volcmine
+val=16,osrs tob cc
 
 [enum_850]
 inputtype=int
@@ -6180,16 +6182,17 @@ val=10,-1
 val=11,344
 val=13,377
 val=14,377
-val=17,304
-val=18,350
+val=18,304
+val=19,350
 val=15,-1
 val=5,329
 val=8,-1
 val=6,-1
 val=12,330
-val=16,-1
+val=17,-1
 val=9,317
-val=19,323
+val=20,323
+val=16,376
 
 [enum_852]
 inputtype=int
@@ -17212,4 +17215,30 @@ val=interface_50:46,2
 val=interface_50:47,3
 val=interface_50:51,4
 val=interface_50:55,5
+
+[enum_1952]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,stamina_potion_4_12625
+val=1,prayer_potion_4_2434
+val=2,saradomin_brew_4_6685
+val=3,super_restore_4_3024
+val=4,mushroom_potato_7058
+val=5,shark_385
+val=6,sea_turtle_397
+val=7,manta_ray_391
+
+[enum_1953]
+inputtype=obj
+outputtype=int
+default=null
+val=stamina_potion_4_12625,1
+val=prayer_potion_4_2434,2
+val=saradomin_brew_4_6685,3
+val=super_restore_4_3024,3
+val=mushroom_potato_7058,1
+val=shark_385,1
+val=sea_turtle_397,2
+val=manta_ray_391,2
 

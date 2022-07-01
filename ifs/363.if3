@@ -1,29 +1,29 @@
 [interface_363:0]
+type=^iftype_model
+x=240
+y=139
+width=32
+height=32
+model=model_34614
+zoom=475
+
+[interface_363:1]
 type=^iftype_graphic
-x=478
-y=16
+x=462
+y=32
 width=26
 height=23
 graphic="close_buttons,0"
 optionmask=2
 op1="Close"
-onmouseover="script44(23789568,536)"
-onmouseleave="script44(23789568,535)"
+onmouseover="script44(23789569,536)"
+onmouseleave="script44(23789569,535)"
 onop="script29"
-
-[interface_363:1]
-type=^iftype_model
-x=239
-y=155
-width=32
-height=32
-model=model_34614
-zoom=525
 
 [interface_363:2]
 type=^iftype_text
 x=69
-y=94
+y=51
 width=190
 height=14
 colour=0xffcc33
@@ -34,7 +34,7 @@ shadowed=yes
 [interface_363:3]
 type=^iftype_text
 x=69
-y=111
+y=68
 width=190
 height=14
 colour=0xffcc33
@@ -45,7 +45,7 @@ shadowed=yes
 [interface_363:4]
 type=^iftype_text
 x=69
-y=144
+y=101
 width=190
 height=14
 colour=0xffcc33
@@ -56,7 +56,7 @@ shadowed=yes
 [interface_363:5]
 type=^iftype_text
 x=69
-y=161
+y=118
 width=190
 height=14
 colour=0xffcc33
@@ -67,7 +67,7 @@ shadowed=yes
 [interface_363:6]
 type=^iftype_text
 x=69
-y=195
+y=151
 width=190
 height=14
 colour=0xffcc33
@@ -78,7 +78,7 @@ shadowed=yes
 [interface_363:7]
 type=^iftype_text
 x=69
-y=212
+y=168
 width=190
 height=14
 colour=0xffcc33
@@ -89,7 +89,7 @@ shadowed=yes
 [interface_363:8]
 type=^iftype_text
 x=69
-y=246
+y=201
 width=190
 height=14
 colour=0xffcc33
@@ -100,7 +100,7 @@ shadowed=yes
 [interface_363:9]
 type=^iftype_text
 x=69
-y=263
+y=218
 width=190
 height=14
 colour=0xffcc33
@@ -110,8 +110,8 @@ shadowed=yes
 
 [interface_363:10]
 type=^iftype_text
-x=259
-y=94
+x=69
+y=251
 width=190
 height=14
 colour=0xffcc33
@@ -121,8 +121,8 @@ shadowed=yes
 
 [interface_363:11]
 type=^iftype_text
-x=259
-y=111
+x=69
+y=268
 width=190
 height=14
 colour=0xffcc33
@@ -132,8 +132,8 @@ shadowed=yes
 
 [interface_363:12]
 type=^iftype_text
-x=259
-y=144
+x=258
+y=51
 width=190
 height=14
 colour=0xffcc33
@@ -143,8 +143,8 @@ shadowed=yes
 
 [interface_363:13]
 type=^iftype_text
-x=259
-y=161
+x=258
+y=68
 width=190
 height=14
 colour=0xffcc33
@@ -154,8 +154,8 @@ shadowed=yes
 
 [interface_363:14]
 type=^iftype_text
-x=259
-y=195
+x=258
+y=101
 width=190
 height=14
 colour=0xffcc33
@@ -165,8 +165,8 @@ shadowed=yes
 
 [interface_363:15]
 type=^iftype_text
-x=259
-y=212
+x=258
+y=118
 width=190
 height=14
 colour=0xffcc33
@@ -176,8 +176,8 @@ shadowed=yes
 
 [interface_363:16]
 type=^iftype_text
-x=259
-y=246
+x=258
+y=151
 width=190
 height=14
 colour=0xffcc33
@@ -187,8 +187,52 @@ shadowed=yes
 
 [interface_363:17]
 type=^iftype_text
-x=259
-y=263
+x=258
+y=168
+width=190
+height=14
+colour=0xffcc33
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+
+[interface_363:18]
+type=^iftype_text
+x=258
+y=201
+width=190
+height=14
+colour=0xffcc33
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+
+[interface_363:19]
+type=^iftype_text
+x=258
+y=218
+width=190
+height=14
+colour=0xffcc33
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+
+[interface_363:20]
+type=^iftype_text
+x=258
+y=251
+width=190
+height=14
+colour=0xffcc33
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+
+[interface_363:21]
+type=^iftype_text
+x=258
+y=268
 width=190
 height=14
 colour=0xffcc33
