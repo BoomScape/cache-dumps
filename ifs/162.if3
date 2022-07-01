@@ -379,10 +379,11 @@ width=111
 height=22
 vposmode=^setpos_abs_centre
 layer=interface_162:1
-optionmask=14
-op1="Report abuse"
-op2="Toggle player option"
-op3="Report game bug"
+optionmask=30
+op1="*"
+op2="Report abuse"
+op3="Toggle player option"
+op4="Report game bug"
 onmouseover="script2520(10616867)"
 onmouseleave="script2521(10616867)"
 

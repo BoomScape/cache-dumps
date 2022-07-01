@@ -9902,12 +9902,6 @@ replayoff=12
 looptype=1
 framegroup1=81
 
-[seq_1638]
-framecount=8
-replayoff=8
-looptype=1
-framegroup1=313
-
 [ghost_ready_1639]
 framecount=12
 looptype=1

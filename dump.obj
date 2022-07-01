@@ -212162,3 +212162,53 @@ model=model_36015
 2dxan=84
 2dyan=1926
 
+[kq_head_tattered_22671]
+name=Kq head (tattered)
+model=kq_head_tattered_36021
+cost=50000
+2dzoom=1901
+2dxof=-11
+2dyof=-22
+2dxan=111
+2dyan=1881
+members=yes
+placeholder=yes
+
+[placeholder_kq_head_tattered_22672]
+placeholder=yes
+
+[stuffed_kq_head_tattered_22673]
+name=Stuffed kq head (tattered)
+model=stuffed_kq_head_tattered_36022
+cost=50000
+2dzoom=2285
+2dxof=-11
+2dyof=-27
+2dxan=111
+2dyan=1853
+iop4=Unstuff
+members=yes
+placeholder=yes
+
+[placeholder_stuffed_kq_head_tattered_22674]
+placeholder=yes
+
+[scroll_sack_22675]
+name=Scroll sack
+model=scroll_sack_36023
+manwear=scroll_sack_5201,0
+womanwear=scroll_sack_5201,6
+cost=5
+2dzoom=2168
+2dxof=5
+2dyof=-4
+2dxan=90
+2dyan=1832
+iop2=Wear
+iop5=Destroy
+members=yes
+placeholder=yes
+
+[placeholder_scroll_sack_22676]
+placeholder=yes
+

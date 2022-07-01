@@ -300,7 +300,7 @@ op1="*"
 
 [interface_164:36]
 type=^iftype_graphic
-x=165
+x=132
 width=33
 height=36
 hposmode=^setpos_abs_right
@@ -312,7 +312,7 @@ op1="*"
 
 [interface_164:37]
 type=^iftype_graphic
-x=132
+x=165
 width=33
 height=36
 hposmode=^setpos_abs_right
@@ -369,7 +369,7 @@ graphic="side_icons,7"
 
 [interface_164:42]
 type=^iftype_graphic
-x=165
+x=132
 width=33
 height=36
 hposmode=^setpos_abs_right
@@ -379,7 +379,7 @@ graphic="side_icons,22"
 
 [interface_164:43]
 type=^iftype_graphic
-x=132
+x=165
 width=33
 height=36
 hposmode=^setpos_abs_right
