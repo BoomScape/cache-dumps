@@ -1738,6 +1738,8 @@ val=124,cat_ears_24525
 val=125,magic_egg_ball_24535
 val=126,carrot_sword_24537
 val=127,24_carat_sword_24539
+val=128,headless_head_24975
+val=129,magical_pumpkin_24977
 val=-10,cert_pumpkin_1960
 val=-11,cert_red_halloween_mask_1058
 val=-12,cert_green_halloween_mask_1054
@@ -3158,6 +3160,8 @@ val=640,Watch Your Step
 val=641,Rest in Peace
 val=642,The Enclave
 val=643,Safety in Numbers
+val=644,Eve's Epinette
+val=645,Sea Minor Shanty
 
 [enum_814]
 inputtype=int
@@ -3851,6 +3855,8 @@ val=640,Watch Your Step
 val=641,Rest in Peace
 val=642,"Enclave, The"
 val=643,Safety in Numbers
+val=644,Eve's Epinette
+val=645,Sea Minor Shanty
 
 [enum_818]
 inputtype=int
@@ -4499,6 +4505,8 @@ val=639,640
 val=640,641
 val=641,642
 val=642,643
+val=643,644
+val=644,645
 
 [enum_819]
 inputtype=int
@@ -5147,6 +5155,8 @@ val=640,0_0_0_20_21
 val=641,0_0_0_20_22
 val=642,0_0_0_20_23
 val=643,0_0_0_20_24
+val=644,0_0_0_20_25
+val=645,0_0_0_20_26
 
 [enum_823]
 inputtype=component
@@ -6780,7 +6790,7 @@ val=16,model_28412
 val=17,model_28411
 val=18,model_28404
 val=19,model_28419
-val=20,model_28403
+val=20,eve_28403
 val=21,model_28410
 val=22,female_hair_39840
 val=23,female_hair_32846
@@ -14090,9 +14100,11 @@ val=0_0_0_3_7,magic_tree_8179
 val=0_0_0_4_1,fern_8186
 val=0_0_0_4_2,bush_8187
 val=0_0_0_4_3,tall_plant_8188
+val=0_0_0_4_4,pumpkin_24979
 val=0_0_0_5_1,short_plant_8189
 val=0_0_0_5_2,large_leaf_plant_8190
 val=0_0_0_5_3,huge_plant_8191
+val=0_0_0_5_4,pumpkin_24979
 val=0_0_0_6_1,plant_8180
 val=0_0_0_6_2,small_fern_8181
 val=0_0_0_6_3,fern_8182
@@ -14128,9 +14140,11 @@ val=0_0_0_3_7,tall_box_hedge_8209
 val=0_0_0_4_1,sunflower_8213
 val=0_0_0_4_2,marigolds_8214
 val=0_0_0_4_3,roses_8215
+val=0_0_0_4_4,pumpkin_24979
 val=0_0_0_5_1,rosemary_8210
 val=0_0_0_5_2,daffodils_8211
 val=0_0_0_5_3,bluebells_8212
+val=0_0_0_5_4,pumpkin_24979
 val=0_0_0_6_1,sunflower_8213
 val=0_0_0_6_2,marigolds_8214
 val=0_0_0_6_3,roses_8215
@@ -29131,6 +29145,8 @@ val=59,green_gingerbread_shield_24428
 val=60,cat_ears_24525
 val=61,magic_egg_ball_24535
 val=62,carrot_sword_24537
+val=63,headless_head_24975
+val=64,magical_pumpkin_24977
 
 [enum_3300]
 inputtype=int
@@ -29763,6 +29779,8 @@ val=green_gingerbread_shield_24428,2019: Gingerbread Gnome Shield
 val=cat_ears_24525,2020: Cat Ears
 val=magic_egg_ball_24535,2020: Easter Magic Egg
 val=carrot_sword_24537,2020: Easter Carrot Swords
+val=headless_head_24975,2020: Headless head
+val=magical_pumpkin_24977,2020: Magical pumpkin
 val=jar_of_dirt_12007,Jar of Dirt (Kraken)
 val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
 val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
@@ -30091,4 +30109,23 @@ val=2,Ashen
 val=3,Dark
 val=4,Terracotta
 val=5,Grey
+
+[enum_3319]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,barb_bolttips_47
+val=1,studded_body_1133
+val=2,rune_arrow_892
+val=3,coif_1169
+val=4,green_dhide_body_1135
+val=5,adamant_javelin_829
+
+[enum_3320]
+inputtype=obj
+outputtype=int
+default=1
+val=barb_bolttips_47,30
+val=rune_arrow_892,50
+val=adamant_javelin_829,20
 

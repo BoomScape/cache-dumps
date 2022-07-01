@@ -53865,3 +53865,9 @@ priority=10
 looptype=1
 framegroup1=2523
 
+[magical_pumpkin_8775]
+framecount=32
+replayoff=32
+looptype=1
+framegroup1=2528
+
