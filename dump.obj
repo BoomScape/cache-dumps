@@ -237704,9 +237704,10 @@ iop2=Equip
 team=2
 members=yes
 
-[old_key_25244]
-name=Old key
+[dark_key_25244]
+name=Dark key
 model=steel_key_15497
+cost=15000
 2dzoom=976
 2dxof=-1
 2dyof=10
@@ -237722,7 +237723,7 @@ members=yes
 stackable=yes
 placeholder=yes
 
-[placeholder_old_key_25245]
+[placeholder_dark_key_25245]
 placeholder=yes
 
 [ring_of_suffering_i_25246]
@@ -240184,4 +240185,28 @@ recol2s=41
 recol2d=82
 recol3s=57
 recol3d=99
+
+[clue_scroll_elite_25498]
+name=Clue scroll (elite)
+model=clue_scroll_elite_37167
+cost=20
+2dzoom=1010
+2dxof=1
+2dxan=360
+2dyan=672
+iop1=Read
+iop2=Check steps
+members=yes
+
+[clue_scroll_elite_25499]
+name=Clue scroll (elite)
+model=clue_scroll_elite_37167
+cost=20
+2dzoom=1010
+2dxof=1
+2dxan=360
+2dyan=672
+iop1=Read
+iop2=Check steps
+members=yes
 

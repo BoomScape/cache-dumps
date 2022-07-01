@@ -2,7 +2,6 @@
 type=^iftype_layer
 width=512
 height=334
-onload="script535(0,28966926,28966928,28966930,28966934,28966935,28966933,28966938,28966932,28966939,28966936,28966937,28966929)"
 
 [interface_442:1]
 type=^iftype_layer
@@ -161,6 +160,23 @@ layer=interface_442:13
 
 [interface_442:19]
 type=^iftype_layer
+width=19
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_442:18
+
+[interface_442:20]
+type=^iftype_layer
+x=2
+width=16
+height=4
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_442:18
+
+[interface_442:21]
+type=^iftype_layer
 y=8
 width=20
 height=39
@@ -169,46 +185,46 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_442:1
 
-[interface_442:20]
-type=^iftype_layer
-width=150
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-vsizemode=^setsize_minus
-layer=interface_442:19
-
-[interface_442:21]
-type=^iftype_layer
-width=150
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-vsizemode=^setsize_minus
-layer=interface_442:19
-
 [interface_442:22]
 type=^iftype_layer
-width=150
+width=160
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_442:19
+layer=interface_442:21
 
 [interface_442:23]
+type=^iftype_layer
+width=160
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_442:21
+
+[interface_442:24]
+type=^iftype_layer
+width=160
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_442:21
+
+[interface_442:25]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_442:22
+layer=interface_442:24
 
-[interface_442:24]
+[interface_442:26]
 type=^iftype_text
 y=1
 width=140
 height=1
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_442:19
+layer=interface_442:21
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -216,7 +232,7 @@ valign=^settextalign_centre
 paraheight=14
 shadowed=yes
 
-[interface_442:25]
+[interface_442:27]
 type=^iftype_text
 x=324
 y=1
@@ -224,7 +240,7 @@ width=140
 height=1
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_442:19
+layer=interface_442:21
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -232,19 +248,19 @@ valign=^settextalign_centre
 paraheight=14
 shadowed=yes
 
-[interface_442:26]
+[interface_442:28]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_442:21
+layer=interface_442:23
 
-[interface_442:27]
+[interface_442:29]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_442:20
+layer=interface_442:22
 

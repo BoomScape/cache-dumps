@@ -116,11 +116,11 @@ y=5
 width=370
 height=16
 layer=interface_148:9
-text="You may reclaim these pets now:"
 colour=0xff981f
 font=p12_full
 valign=^settextalign_centre
 shadowed=yes
+onload="script533(event_com)"
 
 [interface_148:14]
 type=^iftype_layer

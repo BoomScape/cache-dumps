@@ -33550,6 +33550,16 @@ default=null
 val=0,2500
 val=1,250
 val=2,30
+val=3,10
+val=4,10
+val=5,10
+val=6,10
+val=7,10
+val=8,10
+val=9,10
+val=10,10
+val=11,10
+val=12,10
 
 [enum_3541]
 inputtype=obj
@@ -33801,6 +33811,16 @@ default=null
 val=0,soul_cape_25346
 val=1,ectoplasmator_25340
 val=2,spoils_of_war_25342
+val=3,blighted_bind_sack_24609
+val=4,blighted_snare_sack_24611
+val=5,blighted_entangle_sack_24613
+val=6,blighted_teleport_spell_sack_24615
+val=7,blighted_vengeance_sack_24621
+val=8,blighted_ancient_ice_sack_24607
+val=9,cert_blighted_manta_ray_24590
+val=10,cert_blighted_anglerfish_24593
+val=11,cert_blighted_karambwan_24596
+val=12,cert_blighted_super_restore_4_24599
 
 [enum_3554]
 inputtype=int
@@ -34382,4 +34402,19 @@ val=0,trailblazer_boots_t3_25010
 val=1,trailblazer_hood_t3_25001
 val=2,trailblazer_trousers_t3_25007
 val=3,trailblazer_top_t3_25004
+
+[enum_3652]
+inputtype=obj
+outputtype=int
+default=1
+val=blighted_bind_sack_24609,300
+val=blighted_snare_sack_24611,150
+val=blighted_entangle_sack_24613,70
+val=blighted_teleport_spell_sack_24615,50
+val=blighted_vengeance_sack_24621,50
+val=blighted_ancient_ice_sack_24607,30
+val=cert_blighted_manta_ray_24590,15
+val=cert_blighted_anglerfish_24593,15
+val=cert_blighted_karambwan_24596,12
+val=cert_blighted_super_restore_4_24599,4
 

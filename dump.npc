@@ -208746,30 +208746,29 @@ walkanim=gull_walk_6773
 op2=Attack
 vislevel=5
 ambient=20
-turnspeed=64
 
-[npc_10542]
-model1=model_41438
+[ancient_ghost_multi_10542]
 readyanim=wingman_skree_ready_6952
 walkanim=wingman_skree_walk_6953
 size=2
-vislevel=0
-active=no
+vislevel=1
+multivar=varbit_393
+multinpc=1,ancient_ghost_10557
 visonmap=no
 drawpriority=yes
 
-[npc_10543]
-model1=model_41236
+[ancient_ghost_multi_10543]
 readyanim=ork_ready_4318
 walkanim=ork_walk_4319
-vislevel=0
-active=no
+vislevel=1
+multivar=varbit_393
+multinpc=1,ancient_ghost_10558
 visonmap=no
 drawpriority=yes
 
 [forgotten_soul_10544]
-name=Forgotten soul
-model1=ghost_21144
+name=Forgotten Soul
+model1=tormented_soul_36156
 readyanim=ghost_ready_5530
 walkanim=ghost_walk_5531
 op2=Attack
@@ -208778,8 +208777,8 @@ ambient=20
 contrast=20
 
 [forgotten_soul_10545]
-name=Forgotten soul
-model1=ghost_21148
+name=Forgotten Soul
+model1=tormented_soul_36157
 readyanim=ghost_ready_5530
 walkanim=ghost_walk_5531
 op2=Attack
@@ -208929,6 +208928,29 @@ recol6d=-32742
 vislevel=0
 drawpriority=yes
 
+[ancient_ghost_10557]
+name=Ancient Ghost
+model1=ancient_ghost_41438
+head1=ancient_ghost_2942
+readyanim=wingman_skree_ready_6952
+walkanim=wingman_skree_walk_6953
+op1=Talk-to
+size=2
+vislevel=0
+visonmap=no
+drawpriority=yes
+
+[ancient_ghost_10558]
+name=Ancient Ghost
+model1=ancient_ghost_41236
+head1=ancient_ghost_2926
+readyanim=ork_ready_4318
+walkanim=ork_walk_4319
+op1=Talk-to
+vislevel=0
+visonmap=no
+drawpriority=yes
+
 [scrubfoot_10559]
 name=Scrubfoot
 model1=goblin_24435
@@ -208948,6 +208970,36 @@ recol2s=6323
 recol2d=4923
 recol3s=6348
 recol3d=5068
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[garl_10560]
+name=Garl
+model1=male_hair_217
+model2=male_jaw_248
+model3=male_torso_292
+model4=archaeologist_3707
+model5=male_arms_151
+model6=rick_10218
+model7=gamer_3711
+model8=male_legs_254
+model9=male_feet_181
+head1=male_hair_55
+head2=male_jaw_80
+readyanim=doomsayer_ready_813
+walkanim=doomsayer_walk_1146
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=8741
+recol1d=-6099
+recol2s=25238
+recol2d=7331
+recol3s=6798
+recol3d=8518
+recol4s=4550
+recol4d=4440
 op1=Talk-to
 vislevel=0
 drawpriority=yes
