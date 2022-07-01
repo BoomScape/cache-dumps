@@ -27180,6 +27180,28 @@ framecount=79
 looptype=1
 framegroup1=1794
 
+[seq_4503]
+framecount=16
+stretches=yes
+priority=6
+looptype=1
+framegroup1=2403
+
+[seq_4504]
+framecount=20
+replayoff=20
+stretches=yes
+priority=6
+looptype=1
+framegroup1=2403
+
+[seq_4505]
+framecount=22
+stretches=yes
+priority=6
+looptype=1
+framegroup1=2403
+
 [seq_4506]
 framecount=11
 looptype=1
@@ -52331,4 +52353,10 @@ framegroup1=2402
 framecount=6
 looptype=1
 framegroup1=2401
+
+[seq_8532]
+framecount=12
+priority=6
+looptype=1
+framegroup1=2403
 

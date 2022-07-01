@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script312(24772610,24772609,24772670,24772675,24772679,24772677,24772688)"
+onload="script312(24772610,24772609,24772670,24772675,24772679,24772677,24772684,24772686,24772688)"
 
 [interface_378:1]
 type=^iftype_layer
@@ -744,7 +744,7 @@ height=90
 hposmode=^setpos_abs_right
 layer=interface_378:58
 optionmask=2
-op1="View Inbox"
+op1="*"
 
 [interface_378:68]
 type=^iftype_graphic
@@ -843,9 +843,7 @@ height=90
 hposmode=^setpos_abs_right
 layer=interface_378:58
 optionmask=2
-op1="Open Store"
-onmouseleave="script69(1,24772686)"
-onmouserepeat="script69(0,24772686)"
+op1="*"
 
 [interface_378:77]
 type=^iftype_graphic

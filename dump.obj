@@ -164402,6 +164402,7 @@ cost=100
 2dyof=-1
 2dxan=443
 iop5=Destroy
+stockmarket=yes
 certificate=yes
 placeholder=yes
 
@@ -232055,4 +232056,18 @@ cost=4600000
 iop2=Wield
 members=yes
 param=spell_membersonly_603,yes
+
+[cabbage_24426]
+name=Cabbage
+model=cabbage_8195
+2dzoom=1730
+2dxof=1
+2dyof=27
+2dxan=284
+2dyan=1800
+stackable=yes
+bought=yes
+
+[bought_cabbage_24427]
+bought=yes
 
