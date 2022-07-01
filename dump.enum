@@ -683,7 +683,9 @@ val=pearl_barbarian_rod_22842,Pearl barbarian rod
 val=pearl_fly_fishing_rod_22844,Pearl fly fishing rod
 val=oily_pearl_fishing_rod_23122,Oily pearl fishing rod
 val=fish_sack_22838,Fish sack
-val=decorative_armour_10610,Castlewars armour
+val=decorative_armour_10610,Castle Wars armour
+val=decorative_armour_11896,Castle Wars mage armour
+val=decorative_armour_11899,Castle Wars ranger armour
 val=void_knight_top_10611,Void Knight armour
 val=elite_void_top_13072,Elite Void armour
 val=rogue_mask_10612,Rogue armour
@@ -738,6 +740,15 @@ val=justiciar_faceguard_22326,Justiciar Armour
 val=ornate_helm_23101,Ornate Armour
 val=dragonstone_full_helm_24034,Dragonstone Armour
 val=ardougne_knight_helm_23785,Ardougne Knight Armour
+val=deadmans_chest_13317,Deadman Armour
+val=saradomin_halo_12637,Saradomin halo
+val=zamorak_halo_12638,Zamorak halo
+val=guthix_halo_12639,Guthix halo
+val=armadyl_halo_24192,Armadyl halo
+val=bandos_halo_24195,Bandos halo
+val=seren_halo_24198,Seren halo
+val=ancient_halo_24201,Ancient halo
+val=brassica_halo_24204,Brassica halo
 val=mime_mask_10629,Mime costume
 val=princess_blouse_10630,Royal frog costume
 val=frog_mask_10721,Frog mask
@@ -799,6 +810,11 @@ val=sinhaza_shroud_tier_3_22498,Sinhaza Shroud Tier 3
 val=sinhaza_shroud_tier_4_22500,Sinhaza Shroud Tier 4
 val=sinhaza_shroud_tier_5_22502,Sinhaza Shroud Tier 5
 val=gauntlet_cape_23859,Gauntlet cape
+val=victors_cape_1_24207,Victor's Cape (1)
+val=victors_cape_10_24209,Victor's Cape (10)
+val=victors_cape_50_24211,Victor's Cape (50)
+val=victors_cape_100_24213,Victor's Cape (100)
+val=victors_cape_500_24215,Victor's Cape (500)
 val=mole_slippers_23285,Mole slippers
 val=frog_slippers_23288,Frog slippers
 val=bear_feet_23291,Bear feet
@@ -13022,39 +13038,6 @@ val=6,Lobsters
 val=7,XP Tome
 val=8,Random
 
-[enum_1385]
-inputtype=int
-outputtype=namedobj
-default=null
-val=0,monkfish_20547
-val=1,shark_20390
-val=2,prayer_potion_1_20396
-val=3,super_energy_1_20551
-val=4,adamant_arrow_pack_20525
-val=5,rune_arrow_pack_20607
-val=6,catalytic_rune_pack_20523
-val=7,elemental_rune_pack_20524
-val=8,ancient_magicks_tablet_20430
-val=9,maple_shortbow_20403
-val=10,magic_shortbow_20558
-val=11,rune_scimitar_20402
-val=12,toktz_xil_ak_20554
-val=13,dragon_scimitar_20406
-val=14,dragon_dagger_20407
-val=15,abyssal_whip_20405
-val=16,rope_20587
-val=17,rune_platebody_20421
-val=18,rune_platelegs_20422
-val=19,3rd_age_robe_top_20576
-val=20,3rd_age_robe_20577
-val=21,black_dhide_body_20423
-val=22,black_dhide_chaps_20424
-val=23,amulet_of_accuracy_20584
-val=24,mithril_gloves_20581
-val=25,climbing_boots_20578
-val=26,mystic_boots_20579
-val=27,snakeskin_boots_20580
-
 [enum_1401]
 inputtype=int
 outputtype=string
@@ -15529,6 +15512,7 @@ val=32,wma_33
 val=33,wma_29
 val=34,wma_34
 val=35,wma_35
+val=36,wma_36
 
 [enum_1701]
 inputtype=int
@@ -23150,4 +23134,110 @@ val=8,Harmony Island
 val=9,Wilderness Cemetery
 val=10,Barrows
 val=11,Ape Atoll
+
+[enum_2630]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,null
+val=1,mystic_robe_top_20425
+val=2,rune_platelegs_20422
+val=3,amulet_of_glory_20586
+val=4,helm_of_neitiznot_23591
+val=5,barrows_gloves_23593
+val=6,climbing_boots_20578
+val=7,abyssal_whip_20405
+val=8,imbued_guthix_cape_23603
+val=9,dragon_defender_23597
+val=10,berserker_ring_23595
+val=11,diamond_bolts_e_23649
+val=12,black_dhide_body_20423
+val=13,mystic_robe_bottom_20426
+val=14,spirit_shield_23599
+val=15,ahrims_staff_23653
+val=16,rune_crossbow_23601
+val=17,dragon_dagger_20407
+val=18,saradomin_brew_4_23575
+val=19,super_restore_4_23567
+val=20,sanfew_serum_4_23559
+val=21,ranging_potion_4_23551
+val=22,super_combat_potion_4_23543
+val=23,shark_20390
+val=24,cooked_karambwan_23533
+val=25,rune_pouch_23650
+
+[enum_2631]
+inputtype=obj
+outputtype=int
+default=1
+val=shark_20390,11
+val=cooked_karambwan_23533,2
+
+[enum_2632]
+inputtype=int
+outputtype=component
+default=null
+val=0,interface_646:10
+val=1,interface_646:11
+val=2,interface_646:12
+val=3,interface_646:13
+val=4,interface_646:14
+val=5,interface_646:15
+val=7,interface_646:16
+val=9,interface_646:17
+val=10,interface_646:18
+val=12,interface_646:19
+val=13,interface_646:20
+
+[enum_2633]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,deadmans_chest_24189
+val=1,deadmans_legs_24190
+val=2,deadmans_cape_24191
+val=3,trouver_parchment_24187
+val=4,armadyl_halo_24192
+val=5,bandos_halo_24195
+val=6,seren_halo_24198
+val=7,ancient_halo_24201
+val=8,brassica_halo_24204
+val=9,guthixian_icon_24217
+val=10,victors_cape_1_24207
+val=11,victors_cape_10_24209
+val=12,victors_cape_50_24211
+val=13,victors_cape_100_24213
+val=14,victors_cape_500_24215
+val=15,swift_blade_24219
+
+[enum_2634]
+inputtype=int
+outputtype=string
+default=Reward
+val=0,Deadman's Chest
+val=1,Deadman's Legs
+val=2,Deadman's Cape
+val=3,Trouver Parchment
+val=4,Armadyl Halo
+val=5,Bandos Halo
+val=6,Seren Halo
+val=7,Ancient Halo
+val=8,Brassica Halo
+val=9,Guthixian Icon
+val=10,Tier 1 Cape
+val=11,Tier 2 Cape
+val=12,Tier 3 Cape
+val=13,Tier 4 Cape
+val=14,Tier 5 Cape
+val=15,Swift Blade
+
+[enum_2636]
+inputtype=int
+outputtype=int
+default=0
+val=10,1
+val=11,10
+val=12,50
+val=13,100
+val=14,500
 

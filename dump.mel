@@ -3818,3 +3818,39 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_637]
+text=Last Man<br>Standing
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_638]
+text=The Mountain
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_639]
+text=Trinity<br>Outpost
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_640]
+text=Debtor<br>Hideout
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_641]
+text=Moser<br>Settlement
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_642]
+text=Rocky<br>Outcrop
+colour=^white
+mapfunction=no
+category=1129
+

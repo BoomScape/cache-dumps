@@ -190839,6 +190839,7 @@ recol1d=4418
 recol2s=103
 recol2d=4517
 certificate=yes
+param=param_850,1001
 
 [resurrect_crops_20391]
 name=Null
@@ -190908,6 +190909,7 @@ iop1=Drink
 recol1s=61
 recol1d=28488
 certificate=yes
+param=param_850,1002
 
 [prayer_potion_3_20394]
 name=Prayer potion(3)
@@ -190921,6 +190923,7 @@ iop1=Drink
 recol1s=61
 recol1d=28488
 certificate=yes
+param=param_850,1002
 
 [prayer_potion_2_20395]
 name=Prayer potion(2)
@@ -190934,6 +190937,7 @@ iop1=Drink
 recol1s=61
 recol1d=28488
 certificate=yes
+param=param_850,1002
 
 [prayer_potion_1_20396]
 name=Prayer potion(1)
@@ -190947,6 +190951,7 @@ iop1=Drink
 recol1s=61
 recol1d=28488
 certificate=yes
+param=param_850,1002
 
 [spear_20397]
 name=Spear
@@ -190963,6 +190968,7 @@ recol2s=28
 recol2d=5918
 recol3s=20
 recol3d=6938
+param=param_850,3
 
 [reanimate_aviansie_20398]
 name=Null
@@ -191059,6 +191065,7 @@ cost=200
 iop2=Wield
 recol1s=6674
 recol1d=9135
+param=param_850,3
 
 [rune_scimitar_20402]
 name=Rune scimitar
@@ -191074,6 +191081,7 @@ cost=100
 iop2=Wield
 recol1s=61
 recol1d=-29403
+param=param_850,3
 
 [maple_shortbow_20403]
 name=Maple shortbow
@@ -191089,6 +191097,7 @@ cost=100
 iop2=Wield
 recol1s=6674
 recol1d=2250
+param=param_850,3
 
 [barrows_teleport_20404]
 name=Null
@@ -191128,6 +191137,7 @@ cost=750
 2dyof=56
 2dxan=280
 iop2=Wield
+param=param_850,3
 
 [dragon_scimitar_20406]
 name=Dragon scimitar
@@ -191140,6 +191150,7 @@ cost=300
 2dxan=456
 2dyan=12
 iop2=Wield
+param=param_850,3
 
 [dragon_dagger_20407]
 name=Dragon dagger
@@ -191154,6 +191165,7 @@ cost=500
 iop2=Wield
 recol1s=22459
 recol1d=924
+param=param_850,3
 
 [dark_bow_20408]
 name=Dark bow
@@ -191165,6 +191177,7 @@ cost=500
 2dxan=591
 2dyan=1034
 iop2=Wield
+param=param_850,3
 
 [lumbridge_graveyard_teleport_20409]
 name=Null
@@ -191338,6 +191351,7 @@ recol2s=61
 recol2d=21662
 recol3s=41
 recol3d=21776
+param=param_850,4
 
 [adamant_platelegs_20416]
 name=Adamant platelegs
@@ -191355,6 +191369,7 @@ recol2s=41
 recol2d=21776
 recol3s=57
 recol3d=21662
+param=param_850,7
 
 [blue_dhide_body_20417]
 name=Blue d'hide body
@@ -191370,6 +191385,7 @@ recol1s=22416
 recol1d=-22248
 recol2s=22424
 recol2d=-22359
+param=param_850,4
 
 [blue_dhide_chaps_20418]
 name=Blue d'hide chaps
@@ -191386,6 +191402,7 @@ recol1s=22416
 recol1d=-22248
 recol2s=22424
 recol2d=-22359
+param=param_850,7
 
 [harmony_island_teleport_20419]
 name=Null
@@ -191459,6 +191476,7 @@ recol2s=61
 recol2d=-29403
 recol3s=41
 recol3d=-28266
+param=param_850,4
 
 [rune_platelegs_20422]
 name=Rune platelegs
@@ -191476,6 +191494,7 @@ recol2s=41
 recol2d=-28266
 recol3s=57
 recol3d=-29403
+param=param_850,7
 
 [black_dhide_body_20423]
 name=Black d'hide body
@@ -191491,6 +191510,7 @@ recol1s=22416
 recol1d=4
 recol2s=22424
 recol2d=16
+param=param_850,4
 
 [black_dhide_chaps_20424]
 name=Black d'hide chaps
@@ -191507,6 +191527,7 @@ recol1s=22416
 recol1d=4
 recol2s=22424
 recol2d=16
+param=param_850,7
 
 [mystic_robe_top_20425]
 name=Mystic robe top
@@ -191520,6 +191541,7 @@ cost=100
 2dxan=376
 2dyan=176
 iop2=Wear
+param=param_850,4
 
 [mystic_robe_bottom_20426]
 name=Mystic robe bottom
@@ -191535,6 +191557,7 @@ cost=100
 iop2=Wear
 ambient=30
 contrast=20
+param=param_850,7
 
 [ape_atoll_teleport_20427]
 name=Null
@@ -191577,6 +191600,7 @@ cost=400
 iop2=Wear
 recol1s=61
 recol1d=926
+param=param_850,4
 
 [dragon_platelegs_20429]
 name=Dragon platelegs
@@ -191588,6 +191612,7 @@ cost=400
 2dyof=-8
 2dxan=444
 iop2=Wear
+param=param_850,7
 
 [ancient_magicks_tablet_20430]
 name=Ancient magicks tablet
@@ -191598,6 +191623,7 @@ cost=400
 2dxan=373
 iop1=Break
 stackable=yes
+param=param_850,1003
 
 [ancient_staff_20431]
 name=Ancient staff
@@ -191611,6 +191637,7 @@ cost=400
 2dxan=148
 2dyan=1400
 iop2=Wield
+param=param_850,3
 
 [placeholder_nuffs_certificate_20432]
 placeholder=yes
@@ -192061,7 +192088,6 @@ recol5s=-22050
 recol5d=-22256
 recol6s=127
 recol6d=-22429
-members=yes
 ambient=-25
 placeholder=yes
 
@@ -192078,7 +192104,6 @@ recol1s=61
 recol1d=10929
 recol2s=41
 recol2d=-22256
-members=yes
 ambient=-25
 placeholder=yes
 
@@ -192099,7 +192124,6 @@ recol2s=41
 recol2d=10929
 recol3s=57
 recol3d=-22256
-members=yes
 ambient=-25
 placeholder=yes
 
@@ -192120,7 +192144,6 @@ recol2s=61
 recol2d=10929
 recol3s=929
 recol3d=-22256
-members=yes
 ambient=-25
 placeholder=yes
 
@@ -192141,7 +192164,6 @@ recol2s=7054
 recol2d=-22256
 recol3s=57
 recol3d=-22256
-members=yes
 ambient=-25
 placeholder=yes
 
@@ -192161,7 +192183,6 @@ recol2s=25238
 recol2d=-22256
 recol3s=908
 recol3d=-22256
-members=yes
 ambient=-25
 placeholder=yes
 
@@ -192367,6 +192388,7 @@ cost=75
 2dyof=-3
 2dyan=2047
 iop1=Open
+param=param_850,1003
 
 [elemental_rune_pack_20524]
 name=Elemental rune pack
@@ -192377,6 +192399,7 @@ cost=50
 2dyof=-3
 2dyan=2047
 iop1=Open
+param=param_850,1003
 
 [adamant_arrow_pack_20525]
 name=Adamant arrow pack
@@ -192393,6 +192416,7 @@ recol2s=70
 recol2d=21671
 recol3s=45
 recol3d=21782
+param=param_850,13
 
 [bloody_key_20526]
 name=Bloody key
@@ -192638,6 +192662,7 @@ recol1d=1211
 recol2s=103
 recol2d=1226
 certificate=yes
+param=param_850,1001
 
 [super_energy_4_20548]
 name=Super energy(4)
@@ -192651,6 +192676,7 @@ iop1=Drink
 recol1s=61
 recol1d=-6590
 certificate=yes
+param=param_850,1002
 
 [super_energy_3_20549]
 name=Super energy(3)
@@ -192664,6 +192690,7 @@ iop1=Drink
 recol1s=61
 recol1d=-6590
 certificate=yes
+param=param_850,1002
 
 [super_energy_2_20550]
 name=Super energy(2)
@@ -192677,6 +192704,7 @@ iop1=Drink
 recol1s=61
 recol1d=-6590
 certificate=yes
+param=param_850,1002
 
 [super_energy_1_20551]
 name=Super energy(1)
@@ -192690,6 +192718,7 @@ iop1=Drink
 recol1s=61
 recol1d=-6590
 certificate=yes
+param=param_850,1002
 
 [rune_battleaxe_20552]
 name=Rune battleaxe
@@ -192705,6 +192734,7 @@ cost=100
 iop2=Wield
 recol1s=61
 recol1d=-29403
+param=param_850,3
 
 [beginner_wand_20553]
 name=Beginner wand
@@ -192718,6 +192748,7 @@ cost=100
 2dxan=1936
 2dyan=88
 iop2=Wield
+param=param_850,3
 
 [toktz_xil_ak_20554]
 name=Toktz-xil-ak
@@ -192733,6 +192764,7 @@ cost=200
 iop2=Wield
 ambient=15
 contrast=35
+param=param_850,3
 
 [rune_2h_sword_20555]
 name=Rune 2h sword
@@ -192748,6 +192780,7 @@ cost=200
 iop2=Wield
 recol1s=61
 recol1d=-29403
+param=param_850,3
 
 [apprentice_wand_20556]
 name=Apprentice wand
@@ -192761,6 +192794,7 @@ cost=200
 2dxan=1168
 2dyan=116
 iop2=Wield
+param=param_850,3
 
 [granite_maul_20557]
 name=Granite maul
@@ -192773,6 +192807,7 @@ cost=300
 2dxan=308
 2dyan=36
 iop2=Wield
+param=param_850,3
 
 [magic_shortbow_20558]
 name=Magic shortbow
@@ -192788,6 +192823,7 @@ cost=300
 iop2=Wield
 recol1s=6674
 recol1d=31516
+param=param_850,3
 
 [dragon_2h_sword_20559]
 name=Dragon 2h sword
@@ -192800,6 +192836,7 @@ cost=500
 2dxan=636
 2dyan=1065
 iop2=Wield
+param=param_850,3
 
 [master_wand_20560]
 name=Master wand
@@ -192813,6 +192850,7 @@ cost=500
 2dxan=68
 2dyan=1092
 iop2=Wield
+param=param_850,3
 
 [adamant_full_helm_20561]
 name=Adamant full helm
@@ -192832,6 +192870,7 @@ recol1s=61
 recol1d=21662
 recol2s=926
 recol2d=-17506
+param=param_850,0
 
 [mystic_hat_20562]
 name=Mystic hat
@@ -192846,6 +192885,7 @@ cost=100
 2dxan=208
 2dyan=220
 iop2=Wear
+param=param_850,0
 
 [proselyte_sallet_20563]
 name=Proselyte sallet
@@ -192865,6 +192905,7 @@ recol1s=61
 recol1d=99
 recol2s=926
 recol2d=6067
+param=param_850,0
 
 [proselyte_hauberk_20564]
 name=Proselyte hauberk
@@ -192884,6 +192925,7 @@ recol2s=61
 recol2d=99
 recol3s=41
 recol3d=82
+param=param_850,4
 
 [proselyte_cuisse_20565]
 name=Proselyte cuisse
@@ -192901,6 +192943,7 @@ recol2s=41
 recol2d=82
 recol3s=57
 recol3d=6067
+param=param_850,7
 
 [red_dhide_body_20566]
 name=Red d'hide body
@@ -192916,6 +192959,7 @@ recol1s=22416
 recol1d=912
 recol2s=22424
 recol2d=540
+param=param_850,4
 
 [red_dhide_chaps_20567]
 name=Red d'hide chaps
@@ -192932,6 +192976,7 @@ recol1s=22416
 recol1d=912
 recol2s=22424
 recol2d=540
+param=param_850,7
 
 [splitbark_helm_20568]
 name=Splitbark helm
@@ -192947,6 +192992,7 @@ cost=200
 2dxan=272
 2dyan=200
 iop2=Wear
+param=param_850,0
 
 [dummy_priest_gown_20569]
 name=Null
@@ -192987,6 +193033,7 @@ cost=300
 2dxan=12
 2dyan=204
 iop2=Wear
+param=param_850,0
 
 [archer_helm_20572]
 name=Archer helm
@@ -193007,6 +193054,7 @@ cost=300
 2dyof=-4
 2dxan=16
 iop2=Wear
+param=param_850,0
 
 [farseer_helm_20573]
 name=Farseer helm
@@ -193027,6 +193075,7 @@ cost=300
 2dxan=32
 2dyan=104
 iop2=Wear
+param=param_850,0
 
 [infinity_top_20574]
 name=Infinity top
@@ -193041,6 +193090,7 @@ cost=300
 2dxan=468
 2dyan=2044
 iop2=Wear
+param=param_850,4
 
 [infinity_bottoms_20575]
 name=Infinity bottoms
@@ -193052,6 +193102,7 @@ cost=300
 2dyof=30
 2dxan=304
 iop2=Wear
+param=param_850,7
 
 [3rd_age_robe_top_20576]
 name=3rd age robe top
@@ -193067,6 +193118,7 @@ cost=400
 2dxan=553
 iop2=Wear
 contrast=20
+param=param_850,4
 
 [3rd_age_robe_20577]
 name=3rd age robe
@@ -193079,6 +193131,7 @@ cost=400
 2dxan=438
 iop2=Wear
 contrast=20
+param=param_850,7
 
 [climbing_boots_20578]
 name=Climbing boots
@@ -193094,6 +193147,7 @@ cost=250
 iop2=Wear
 recol1s=4626
 recol1d=28
+param=param_850,10
 
 [mystic_boots_20579]
 name=Mystic boots
@@ -193106,6 +193160,7 @@ cost=250
 2dxan=188
 2dyan=1988
 iop2=Wear
+param=param_850,10
 
 [snakeskin_boots_20580]
 name=Snakeskin boots
@@ -193118,6 +193173,7 @@ cost=250
 2dxan=104
 2dyan=212
 iop2=Wear
+param=param_850,10
 
 [mithril_gloves_20581]
 name=Mithril gloves
@@ -193134,6 +193190,7 @@ recol1s=10394
 recol1d=-22239
 recol2s=8656
 recol2d=-22254
+param=param_850,9
 
 [adamant_gloves_20582]
 name=Adamant gloves
@@ -193150,6 +193207,7 @@ recol1s=10394
 recol1d=21662
 recol2s=8656
 recol2d=21776
+param=param_850,9
 
 [rune_gloves_20583]
 name=Rune gloves
@@ -193166,6 +193224,7 @@ recol1s=10394
 recol1d=-29403
 recol2s=8656
 recol2d=-28266
+param=param_850,9
 
 [amulet_of_accuracy_20584]
 name=Amulet of accuracy
@@ -193183,6 +193242,7 @@ recol1s=5916
 recol1d=61
 recol2s=11200
 recol2d=4044
+param=param_850,2
 
 [amulet_of_power_20585]
 name=Amulet of power
@@ -193200,6 +193260,7 @@ recol1s=5916
 recol1d=127
 recol2s=4882
 recol2d=127
+param=param_850,2
 
 [amulet_of_glory_20586]
 name=Amulet of glory
@@ -193220,6 +193281,7 @@ recol2s=5916
 recol2d=127
 recol3s=4882
 recol3d=127
+param=param_850,2
 
 [rope_20587]
 name=Rope
@@ -193292,6 +193354,7 @@ cost=1000
 2dxan=498
 2dyan=484
 iop2=Wield
+param=param_850,3
 
 [bank_filler_20594]
 name=Bank filler
@@ -193347,6 +193410,7 @@ recol1s=8741
 recol1d=10512
 recol2s=14490
 recol2d=10512
+param=param_850,4
 
 [ahrims_robeskirt_20599]
 name=Ahrim's robeskirt
@@ -193362,6 +193426,7 @@ recol1s=14490
 recol1d=10512
 recol2s=-20068
 recol2d=-21696
+param=param_850,7
 
 [rune_arrow_20600]
 name=Rune arrow
@@ -193437,6 +193502,7 @@ recol2s=70
 recol2d=-29395
 recol3s=45
 recol3d=-29284
+param=param_850,13
 
 [bloodier_key_20608]
 name=Bloodier key
@@ -195023,6 +195089,7 @@ cost=1000
 2dxan=349
 2dyan=15
 iop2=Wield
+param=param_850,3
 
 [dragon_warhammer_20785]
 name=Dragon warhammer
@@ -195036,6 +195103,7 @@ cost=1000
 2dxan=1510
 2dyan=1785
 iop2=Wield
+param=param_850,3
 
 [ring_of_wealth_i5_20786]
 name=Ring of wealth (i5)
@@ -200169,6 +200237,7 @@ cost=1000
 2dxan=237
 2dyan=429
 iop2=Wield
+param=param_850,3
 
 [dragon_sword_21206]
 name=Dragon sword
@@ -200184,6 +200253,7 @@ cost=300
 iop2=Wield
 recol1s=61
 recol1d=-29403
+param=param_850,3
 
 [dragon_thrownaxe_21207]
 name=Dragon thrownaxe
@@ -200198,6 +200268,7 @@ cost=300
 2dyan=1799
 iop2=Wield
 stackable=yes
+param=param_850,3
 
 [invitation_list_21208]
 name=Invitation list
@@ -218246,7 +218317,7 @@ placeholder=yes
 placeholder=yes
 
 [alchemical_hydra_head_23081]
-name=Alchemical hydra head.
+name=Alchemical hydra head
 model=alchemical_hydra_head_36955
 2dzoom=2737
 2dxof=1
@@ -222486,6 +222557,7 @@ iop1=Eat
 recol1s=17818
 recol1d=9313
 certificate=yes
+param=param_850,1001
 
 [cert_cooked_karambwan_23534]
 certificate=yes
@@ -222526,6 +222598,7 @@ iop1=Drink
 recol1s=61
 recol1d=21396
 certificate=yes
+param=param_850,1002
 
 [cert_super_combat_potion_4_23544]
 certificate=yes
@@ -222542,6 +222615,7 @@ iop1=Drink
 recol1s=61
 recol1d=21396
 certificate=yes
+param=param_850,1002
 
 [cert_super_combat_potion_3_23546]
 certificate=yes
@@ -222558,6 +222632,7 @@ iop1=Drink
 recol1s=61
 recol1d=21396
 certificate=yes
+param=param_850,1002
 
 [cert_super_combat_potion_2_23548]
 certificate=yes
@@ -222574,6 +222649,7 @@ iop1=Drink
 recol1s=61
 recol1d=21396
 certificate=yes
+param=param_850,1002
 
 [cert_super_combat_potion_1_23550]
 certificate=yes
@@ -222590,6 +222666,7 @@ iop1=Drink
 recol1s=61
 recol1d=-28856
 certificate=yes
+param=param_850,1002
 
 [cert_ranging_potion_4_23552]
 certificate=yes
@@ -222606,6 +222683,7 @@ iop1=Drink
 recol1s=61
 recol1d=-28856
 certificate=yes
+param=param_850,1002
 
 [cert_ranging_potion_3_23554]
 certificate=yes
@@ -222622,6 +222700,7 @@ iop1=Drink
 recol1s=61
 recol1d=-28856
 certificate=yes
+param=param_850,1002
 
 [cert_ranging_potion_2_23556]
 certificate=yes
@@ -222638,6 +222717,7 @@ iop1=Drink
 recol1s=61
 recol1d=-28856
 certificate=yes
+param=param_850,1002
 
 [cert_ranging_potion_1_23558]
 certificate=yes
@@ -222654,6 +222734,7 @@ iop1=Drink
 recol1s=61
 recol1d=452
 certificate=yes
+param=param_850,1002
 
 [cert_sanfew_serum_4_23560]
 certificate=yes
@@ -222670,6 +222751,7 @@ iop1=Drink
 recol1s=61
 recol1d=452
 certificate=yes
+param=param_850,1002
 
 [cert_sanfew_serum_3_23562]
 certificate=yes
@@ -222686,6 +222768,7 @@ iop1=Drink
 recol1s=61
 recol1d=452
 certificate=yes
+param=param_850,1002
 
 [cert_sanfew_serum_2_23564]
 certificate=yes
@@ -222702,6 +222785,7 @@ iop1=Drink
 recol1s=61
 recol1d=452
 certificate=yes
+param=param_850,1002
 
 [cert_sanfew_serum_1_23566]
 certificate=yes
@@ -222718,6 +222802,7 @@ iop1=Drink
 recol1s=61
 recol1d=-3401
 certificate=yes
+param=param_850,1002
 
 [cert_super_restore_4_23568]
 certificate=yes
@@ -222734,6 +222819,7 @@ iop1=Drink
 recol1s=61
 recol1d=-3401
 certificate=yes
+param=param_850,1002
 
 [cert_super_restore_3_23570]
 certificate=yes
@@ -222750,6 +222836,7 @@ iop1=Drink
 recol1s=61
 recol1d=-3401
 certificate=yes
+param=param_850,1002
 
 [cert_super_restore_2_23572]
 certificate=yes
@@ -222766,6 +222853,7 @@ iop1=Drink
 recol1s=61
 recol1d=-3401
 certificate=yes
+param=param_850,1002
 
 [cert_super_restore_1_23574]
 certificate=yes
@@ -222784,6 +222872,7 @@ recol1d=10939
 ambient=40
 contrast=40
 certificate=yes
+param=param_850,1002
 
 [cert_saradomin_brew_4_23576]
 certificate=yes
@@ -222802,6 +222891,7 @@ recol1d=10939
 ambient=40
 contrast=40
 certificate=yes
+param=param_850,1002
 
 [cert_saradomin_brew_3_23578]
 certificate=yes
@@ -222820,6 +222910,7 @@ recol1d=10939
 ambient=40
 contrast=40
 certificate=yes
+param=param_850,1002
 
 [cert_saradomin_brew_2_23580]
 certificate=yes
@@ -222838,6 +222929,7 @@ recol1d=10939
 ambient=40
 contrast=40
 certificate=yes
+param=param_850,1002
 
 [cert_saradomin_brew_1_23582]
 certificate=yes
@@ -222855,6 +222947,7 @@ iop4=Empty
 recol1s=61
 recol1d=5679
 certificate=yes
+param=param_850,1002
 
 [cert_stamina_potion_4_23584]
 certificate=yes
@@ -222872,6 +222965,7 @@ iop4=Empty
 recol1s=61
 recol1d=5679
 certificate=yes
+param=param_850,1002
 
 [cert_stamina_potion_3_23586]
 certificate=yes
@@ -222889,6 +222983,7 @@ iop4=Empty
 recol1s=61
 recol1d=5679
 certificate=yes
+param=param_850,1002
 
 [cert_stamina_potion_2_23588]
 certificate=yes
@@ -222906,6 +223001,7 @@ iop4=Empty
 recol1s=61
 recol1d=5679
 certificate=yes
+param=param_850,1002
 
 [cert_stamina_potion_1_23590]
 certificate=yes
@@ -222925,6 +223021,7 @@ cost=300
 2dyan=129
 iop2=Wear
 certificate=yes
+param=param_850,0
 
 [cert_helm_of_neitiznot_23592]
 certificate=yes
@@ -222941,6 +223038,7 @@ cost=300
 2dyan=111
 iop2=Wear
 certificate=yes
+param=param_850,9
 
 [cert_barrows_gloves_23594]
 certificate=yes
@@ -222956,6 +223054,7 @@ cost=300
 2dyan=1916
 iop2=Wear
 certificate=yes
+param=param_850,12
 
 [cert_berserker_ring_23596]
 certificate=yes
@@ -222973,6 +223072,7 @@ cost=300
 2dyan=256
 iop2=Wield
 certificate=yes
+param=param_850,5
 
 [cert_dragon_defender_23598]
 certificate=yes
@@ -222989,6 +223089,7 @@ womanwear=spirit_shield_35758,0
 2dyan=1118
 iop2=Wield
 certificate=yes
+param=param_850,5
 
 [cert_spirit_shield_23600]
 certificate=yes
@@ -223016,6 +223117,7 @@ recol5d=-29403
 recol6s=5904
 recol6d=-29284
 certificate=yes
+param=param_850,3
 
 [cert_rune_crossbow_23602]
 certificate=yes
@@ -223037,6 +223139,7 @@ recol1d=24468
 recol2s=25505
 recol2d=25496
 certificate=yes
+param=param_850,1
 
 [cert_imbued_guthix_cape_23604]
 certificate=yes
@@ -223058,6 +223161,7 @@ recol1d=16
 recol2s=24
 recol2d=12
 certificate=yes
+param=param_850,1
 
 [cert_imbued_zamorak_cape_23606]
 certificate=yes
@@ -223087,6 +223191,7 @@ recol5d=-22611
 recol6s=-23753
 recol6d=-22623
 certificate=yes
+param=param_850,1
 
 [cert_imbued_saradomin_cape_23608]
 certificate=yes
@@ -223106,6 +223211,7 @@ iop2=Wear
 iop4=Commune
 iop5=Destroy
 certificate=yes
+param=param_850,1
 param=param_451,Commune
 
 [cert_avas_accumulator_23610]
@@ -223132,6 +223238,7 @@ recol3d=10167
 recol4s=7390
 recol4d=10171
 certificate=yes
+param=param_850,3
 
 [cert_armadyl_crossbow_23612]
 certificate=yes
@@ -223157,6 +223264,7 @@ recol3d=18626
 recol4s=61
 recol4d=18626
 certificate=yes
+param=param_850,3
 
 [cert_staff_of_the_dead_23614]
 certificate=yes
@@ -223175,6 +223283,7 @@ cost=300
 iop2=Wield
 ambient=25
 certificate=yes
+param=param_850,3
 
 [cert_vestas_longsword_23616]
 certificate=yes
@@ -223191,6 +223300,7 @@ cost=300
 iop2=Wield
 ambient=25
 certificate=yes
+param=param_850,3
 
 [cert_zuriels_staff_23618]
 certificate=yes
@@ -223209,6 +223319,7 @@ cost=300
 iop2=Wield
 members=yes
 stackable=yes
+param=param_850,3
 
 [statiuss_warhammer_23620]
 name=Statius's warhammer
@@ -223223,6 +223334,7 @@ iop2=Wield
 members=yes
 ambient=25
 certificate=yes
+param=param_850,3
 
 [cert_statiuss_warhammer_23621]
 certificate=yes
@@ -223239,6 +223351,7 @@ cost=300
 2dyan=2031
 iop2=Wear
 certificate=yes
+param=param_850,1
 
 [cert_infernal_cape_23623]
 certificate=yes
@@ -223254,6 +223367,7 @@ cost=300
 2dyan=1940
 iop2=Wear
 certificate=yes
+param=param_850,12
 
 [cert_seers_ring_i_23625]
 certificate=yes
@@ -223271,6 +223385,7 @@ cost=300
 2dyan=1416
 iop2=Wield
 certificate=yes
+param=param_850,3
 
 [cert_kodai_wand_23627]
 certificate=yes
@@ -223289,6 +223404,7 @@ iop2=Wield
 recol1s=90
 recol1d=-9762
 certificate=yes
+param=param_850,3
 
 [cert_ghrazi_rapier_23629]
 certificate=yes
@@ -223305,6 +223421,7 @@ womanwear=heavy_ballista_31236,6
 2dyan=148
 iop2=Wield
 certificate=yes
+param=param_850,3
 
 [cert_heavy_ballista_23631]
 certificate=yes
@@ -223331,6 +223448,7 @@ recol4s=10768
 recol4d=10508
 recol5s=908
 recol5d=10760
+param=param_850,4
 
 [dharoks_platelegs_23633]
 name=Dharok's platelegs
@@ -223347,6 +223465,7 @@ recol1s=10394
 recol1d=10512
 recol2s=10388
 recol2d=10760
+param=param_850,7
 
 [torags_platelegs_23634]
 name=Torag's platelegs
@@ -223361,6 +223480,7 @@ iop2=Wear
 iop3=Check
 recol1s=10394
 recol1d=10388
+param=param_850,7
 
 [veracs_plateskirt_23635]
 name=Verac's plateskirt
@@ -223379,6 +223499,7 @@ recol2s=10518
 recol2d=10512
 recol3s=10638
 recol3d=10508
+param=param_850,7
 
 [veracs_helm_23636]
 name=Verac's helm
@@ -223406,6 +223527,7 @@ recol5s=10514
 recol5d=11140
 recol6s=10638
 recol6d=11138
+param=param_850,0
 
 [torags_helm_23637]
 name=Torag's helm
@@ -223423,6 +223545,7 @@ recol1s=10394
 recol1d=10388
 recol2s=6020
 recol2d=11140
+param=param_850,0
 
 [guthans_helm_23638]
 name=Guthan's helm
@@ -223441,6 +223564,7 @@ recol1s=10394
 recol1d=10388
 recol2s=6020
 recol2d=11140
+param=param_850,0
 
 [dharoks_helm_23639]
 name=Dharok's helm
@@ -223461,6 +223585,7 @@ recol1s=10394
 recol1d=10388
 recol2s=10388
 recol2d=10508
+param=param_850,0
 
 [amulet_of_fury_23640]
 name=Amulet of fury
@@ -223479,6 +223604,7 @@ recol1d=926
 recol2s=-22450
 recol2d=1709
 certificate=yes
+param=param_850,2
 
 [cert_amulet_of_fury_23641]
 certificate=yes
@@ -223496,6 +223622,7 @@ cost=300
 2dyan=1118
 iop2=Wield
 certificate=yes
+param=param_850,5
 
 [cert_blessed_spirit_shield_23643]
 certificate=yes
@@ -223513,6 +223640,7 @@ cost=300
 2dyan=279
 iop2=Wear
 certificate=yes
+param=param_850,10
 
 [cert_eternal_boots_23645]
 certificate=yes
@@ -223530,6 +223658,7 @@ cost=300
 2dyan=2039
 iop2=Wear
 certificate=yes
+param=param_850,7
 
 [cert_bandos_tassets_23647]
 certificate=yes
@@ -223546,6 +223675,7 @@ iop2=Wield
 recol1s=22451
 recol1d=10456
 stackable=yes
+param=param_850,13
 
 [diamond_bolts_e_23649]
 name=Diamond bolts (e)
@@ -223573,6 +223703,7 @@ count1=diamond_bolts_e_2_9274,2
 count2=diamond_bolts_e_3_9275,3
 count3=diamond_bolts_e_4_9276,4
 count4=diamond_bolts_e_5_9277,5
+param=param_850,13
 
 [rune_pouch_23650]
 name=Rune pouch
@@ -223581,8 +223712,8 @@ model=rune_pouch_5453
 2dxof=-4
 2dxan=512
 2dyan=475
-iop1=Open
 certificate=yes
+param=param_850,1003
 
 [cert_rune_pouch_23651]
 certificate=yes
@@ -223600,6 +223731,7 @@ cost=300
 2dyan=1948
 iop2=Wield
 ambient=15
+param=param_850,5
 
 [ahrims_staff_23653]
 name=Ahrim's staff
@@ -223621,6 +223753,7 @@ recol3s=14494
 recol3d=10760
 recol4s=14490
 recol4d=11140
+param=param_850,3
 
 [occult_necklace_23654]
 name=Occult necklace
@@ -223633,6 +223766,7 @@ womanwear=occult_necklace_28445,0
 2dxan=431
 2dyan=81
 iop2=Wear
+param=param_850,2
 
 [crystal_seedling_23655]
 name=Crystal seedling
@@ -228531,4 +228665,1161 @@ model=marble_lectern_8259
 2dyan=1880
 op1=Study
 op5=Remove
+
+[infernal_max_cape_l_24133]
+name=Infernal max cape (l)
+model=infernal_max_cape_33145
+manwear=infernal_max_cape_33102,0
+womanwear=infernal_max_cape_33114,0
+cost=99000
+2dzoom=2232
+2dyof=-5
+2dxan=687
+2dyan=27
+iop2=Wear
+members=yes
+
+[fire_max_cape_l_24134]
+name=Fire max cape (l)
+model=fire_max_cape_32815
+manwear=fire_max_cape_32820,0
+womanwear=fire_max_cape_32821,0
+cost=99000
+2dzoom=2232
+2dyof=-5
+2dxan=687
+2dyan=27
+iop2=Wear
+members=yes
+
+[assembler_max_cape_l_24135]
+name=Assembler max cape (l)
+model=assembler_max_cape_35040
+manwear=assembler_max_cape_34629,0
+womanwear=assembler_max_cape_34641,0
+cost=99000
+2dzoom=2232
+2dyof=-5
+2dxan=687
+2dyan=27
+iop2=Wear
+iop4=Commune
+members=yes
+param=param_451,Commune
+
+[bronze_defender_l_24136]
+name=Bronze defender (l)
+model=bronze_defender_15335
+manwear=bronze_defender_15413,0
+womanwear=bronze_defender_15413,6
+2dzoom=490
+2dxof=1
+2dyof=20
+2dxan=344
+2dyan=192
+iop2=Wield
+recol1s=28
+recol1d=902
+recol2s=74
+recol2d=5652
+members=yes
+
+[iron_defender_l_24137]
+name=Iron defender (l)
+model=bronze_defender_15335
+manwear=bronze_defender_15413,0
+womanwear=bronze_defender_15413,6
+2dzoom=490
+2dxof=1
+2dyof=20
+2dxan=344
+2dyan=192
+iop2=Wield
+recol1s=28
+recol1d=12
+recol2s=74
+recol2d=33
+members=yes
+
+[steel_defender_l_24138]
+name=Steel defender (l)
+model=bronze_defender_15335
+manwear=bronze_defender_15413,0
+womanwear=bronze_defender_15413,6
+2dzoom=490
+2dxof=1
+2dyof=20
+2dxan=344
+2dyan=192
+iop2=Wield
+recol1s=28
+recol1d=37
+recol2s=74
+recol2d=61
+members=yes
+
+[black_defender_l_24139]
+name=Black defender (l)
+model=bronze_defender_15335
+manwear=bronze_defender_15413,0
+womanwear=bronze_defender_15413,6
+2dzoom=490
+2dxof=1
+2dyof=20
+2dxan=344
+2dyan=192
+iop2=Wield
+recol1s=28
+recol1d=0
+recol2s=74
+recol2d=0
+members=yes
+
+[mithril_defender_l_24140]
+name=Mithril defender (l)
+model=bronze_defender_15335
+manwear=bronze_defender_15413,0
+womanwear=bronze_defender_15413,6
+2dzoom=490
+2dxof=1
+2dyof=20
+2dxan=344
+2dyan=192
+iop2=Wield
+recol1s=28
+recol1d=-21876
+recol2s=74
+recol2d=-22239
+members=yes
+
+[adamant_defender_l_24141]
+name=Adamant defender (l)
+model=bronze_defender_15335
+manwear=bronze_defender_15413,0
+womanwear=bronze_defender_15413,6
+2dzoom=490
+2dxof=1
+2dyof=20
+2dxan=344
+2dyan=192
+iop2=Wield
+recol1s=28
+recol1d=22026
+recol2s=74
+recol2d=21662
+members=yes
+
+[rune_defender_l_24142]
+name=Rune defender (l)
+model=bronze_defender_15335
+manwear=bronze_defender_15413,0
+womanwear=bronze_defender_15413,6
+cost=65004
+2dzoom=490
+2dxof=1
+2dyof=20
+2dxan=344
+2dyan=192
+iop2=Wield
+recol1s=28
+recol1d=-26860
+recol2s=74
+recol2d=-27223
+members=yes
+
+[dragon_defender_l_24143]
+name=Dragon defender (l)
+model=dragon_defender_10422
+manwear=dragon_defender_10420,0
+womanwear=dragon_defender_10421,1
+cost=68007
+2dzoom=589
+2dxof=8
+2dyof=8
+2dxan=498
+2dyan=256
+iop2=Wield
+members=yes
+
+[staff_of_balance_24144]
+name=Staff of balance
+model=staff_of_balance_38843
+manwear=staff_of_balance_38826,0
+womanwear=staff_of_balance_38828,0
+cost=1000004
+2dzoom=1830
+2dyof=21
+2dxan=324
+2dyan=980
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_staff_of_balance_24145]
+certificate=yes
+
+[placeholder_staff_of_balance_24146]
+placeholder=yes
+
+[armadyl_halo_broken_24147]
+name=Armadyl halo (broken)
+model=armadyl_halo_broken_38831
+2dzoom=550
+2dxof=1
+2dyof=-31
+2dxan=231
+2dyan=144
+members=yes
+ambient=-25
+placeholder=yes
+
+[placeholder_armadyl_halo_broken_24148]
+placeholder=yes
+
+[bandos_halo_broken_24149]
+name=Bandos halo (broken)
+model=bandos_halo_broken_38830
+2dzoom=550
+2dyof=18
+2dxan=288
+2dyan=141
+members=yes
+ambient=-25
+placeholder=yes
+
+[placeholder_bandos_halo_broken_24150]
+placeholder=yes
+
+[seren_halo_broken_24151]
+name=Seren halo (broken)
+model=seren_halo_broken_38834
+2dzoom=500
+2dxan=228
+2dyan=141
+members=yes
+ambient=-25
+placeholder=yes
+
+[placeholder_seren_halo_broken_24152]
+placeholder=yes
+
+[ancient_halo_broken_24153]
+name=Ancient halo (broken)
+model=ancient_halo_broken_38836
+2dzoom=550
+2dxan=228
+2dyan=141
+members=yes
+ambient=-25
+placeholder=yes
+
+[placeholder_ancient_halo_broken_24154]
+placeholder=yes
+
+[brassica_halo_broken_24155]
+name=Brassica halo (broken)
+model=brassica_halo_broken_38835
+2dzoom=934
+2dxan=303
+2dyan=174
+members=yes
+ambient=-25
+placeholder=yes
+
+[placeholder_brassica_halo_broken_24156]
+placeholder=yes
+
+[decorative_sword_l_24157]
+name=Decorative sword (l)
+model=blurite_sword_2503
+manwear=blurite_sword_522,0
+womanwear=blurite_sword_522,6
+cost=3200
+2dzoom=1530
+2dxof=6
+2dyof=-49
+2dxan=224
+2dyan=408
+iop2=Wield
+recol1s=-22215
+recol1d=10929
+recol2s=-21544
+recol2d=-22256
+recol3s=-22301
+recol3d=-22256
+recol4s=-23441
+recol4d=-22256
+recol5s=-22050
+recol5d=-22256
+recol6s=127
+recol6d=-22429
+
+[decorative_armour_l_24158]
+name=Decorative armour (l)
+model=khazard_armour_2605
+manwear=khazard_armour_306,0
+manwear2=iron_platebody_164
+womanwear=khazard_armour_468,0
+womanwear2=iron_platebody_344
+cost=12800
+2dzoom=1250
+2dxof=-1
+2dxan=488
+iop2=Wear
+recol1s=61
+recol1d=10929
+recol2s=41
+recol2d=-22256
+
+[decorative_armour_l_24159]
+name=Decorative armour (l)
+model=iron_platelegs_2582
+manwear=iron_platelegs_268,0
+womanwear=iron_platelegs_432,0
+cost=6400
+2dzoom=1740
+2dyof=-8
+2dxan=444
+iop2=Wear
+recol1s=61
+recol1d=-22256
+recol2s=41
+recol2d=10929
+recol3s=57
+recol3d=-22256
+
+[decorative_helm_l_24160]
+name=Decorative helm (l)
+model=khazard_helmet_2833
+manwear=khazard_helmet_219,0
+womanwear=khazard_helmet_395,0
+manhead=khazard_helmet_57
+femalehead=khazard_helmet_117
+cost=1920
+2dzoom=640
+2dxof=1
+2dyof=-4
+2dxan=108
+2dyan=156
+iop2=Wear
+recol1s=926
+recol1d=-22256
+recol2s=61
+recol2d=10929
+recol3s=929
+recol3d=-22256
+
+[decorative_shield_l_24161]
+name=Decorative shield (l)
+model=bronze_kiteshield_2339
+manwear=bronze_kiteshield_486,0
+womanwear=bronze_kiteshield_486,6
+cost=5440
+2dzoom=1560
+2dxof=-6
+2dyof=-14
+2dxan=344
+2dyan=1104
+iop2=Wear
+recol1s=61
+recol1d=10929
+recol2s=7054
+recol2d=-22256
+recol3s=57
+recol3d=-22256
+
+[decorative_armour_l_24162]
+name=Decorative armour (l)
+model=iron_plateskirt_2542
+manwear=iron_plateskirt_266,0
+womanwear=iron_plateskirt_430,0
+cost=6400
+2dzoom=1100
+2dxof=5
+2dyof=5
+2dxan=620
+iop2=Wear
+recol1s=61
+recol1d=10929
+recol2s=25238
+recol2d=-22256
+recol3s=908
+recol3d=-22256
+
+[decorative_armour_l_24163]
+name=Decorative armour (l)
+model=decorative_armour_16285
+manwear=decorative_armour_28226,0
+manwear2=decorative_armour_28224
+womanwear=decorative_armour_28853,0
+womanwear2=decorative_armour_28850
+cost=48000
+2dzoom=1400
+2dxan=637
+iop2=Wear
+members=yes
+
+[decorative_armour_l_24164]
+name=Decorative armour (l)
+model=decorative_armour_28219
+manwear=decorative_armour_28223,0
+womanwear=decorative_armour_28849,0
+cost=45000
+2dxan=637
+iop2=Wear
+members=yes
+
+[decorative_armour_l_24165]
+name=Decorative armour (l)
+model=decorative_armour_16284
+manwear=decorative_armour_28220,0
+womanwear=decorative_armour_28220,0
+manhead=decorative_armour_28829
+femalehead=decorative_armour_28830
+cost=45000
+2dzoom=1400
+2dxof=-4
+2dyof=-12
+iop2=Wear
+members=yes
+
+[decorative_armour_l_24166]
+name=Decorative armour (l)
+model=decorative_armour_28217
+manwear=decorative_armour_28227,0
+manwear2=decorative_armour_28225
+womanwear=decorative_armour_28852,0
+womanwear2=decorative_armour_28851
+cost=48000
+2dzoom=1400
+2dyof=9
+2dxan=637
+iop2=Wear
+members=yes
+
+[decorative_armour_l_24167]
+name=Decorative armour (l)
+model=decorative_armour_28218
+manwear=decorative_armour_28222,0
+womanwear=decorative_armour_28848,0
+cost=45000
+2dxan=637
+iop2=Wear
+members=yes
+
+[decorative_armour_l_24168]
+name=Decorative armour (l)
+model=decorative_armour_28216
+manwear=decorative_armour_28221,0
+womanwear=decorative_armour_28221,0
+cost=45000
+2dzoom=800
+2dxof=-5
+2dyof=-8
+iop2=Wear
+members=yes
+
+[saradomin_halo_l_24169]
+name=Saradomin halo (l)
+model=saradomin_halo_28844
+manwear=saradomin_halo_27630,0
+womanwear=saradomin_halo_28833,0
+manhead=saradomin_halo_28847
+femalehead=saradomin_halo_28835
+cost=150000
+2dzoom=550
+2dxof=3
+2dxan=228
+2dyan=141
+iop2=Wear
+members=yes
+
+[zamorak_halo_l_24170]
+name=Zamorak halo (l)
+model=zamorak_halo_28838
+manwear=zamorak_halo_27643,0
+womanwear=zamorak_halo_28832,0
+manhead=zamorak_halo_28845
+femalehead=zamorak_halo_28834
+cost=150000
+2dzoom=528
+2dxof=3
+2dyof=12
+2dxan=327
+2dyan=213
+iop2=Wear
+members=yes
+
+[guthix_halo_l_24171]
+name=Guthix halo (l)
+model=guthix_halo_28837
+manwear=guthix_halo_27642,0
+womanwear=guthix_halo_28831,0
+manhead=guthix_halo_28846
+femalehead=guthix_halo_28836
+cost=150000
+2dzoom=528
+2dyof=20
+2dxan=294
+2dyan=123
+iop2=Wear
+members=yes
+
+[healer_hat_l_24172]
+name=Healer hat (l)
+model=healer_hat_20599
+manwear=healer_hat_19247,0
+manwear2=male_hair_215
+womanwear=healer_hat_20507,0
+womanwear2=female_hair_391
+manhead=healer_hat_19239
+manhead2=male_hair_53
+femalehead=female_hair_114
+femalehead=healer_hat_19243
+cost=65002
+2dzoom=1114
+2dxof=7
+2dyan=194
+iop2=Wear
+members=yes
+
+[fighter_hat_l_24173]
+name=Fighter hat (l)
+model=fighter_hat_20598
+manwear=fighter_hat_19246,0
+manwear2=male_hair_215
+womanwear=fighter_hat_20506,0
+womanwear2=female_hair_391
+manhead=fighter_hat_19237
+manhead2=male_hair_53
+femalehead=fighter_hat_19242
+femalehead=female_hair_114
+cost=65002
+2dzoom=724
+2dxof=1
+2dyof=-1
+2dxan=69
+iop2=Wear
+members=yes
+
+[ranger_hat_l_24174]
+name=Ranger hat (l)
+model=ranger_hat_20600
+manwear=ranger_hat_19248,0
+manwear2=male_hair_215
+womanwear=ranger_hat_20508,0
+womanwear2=female_hair_391
+manhead=ranger_hat_19240
+manhead2=male_hair_53
+femalehead=ranger_hat_19244
+femalehead=female_hair_114
+cost=65002
+2dzoom=1114
+2dxof=7
+2dxan=14
+iop2=Wear
+members=yes
+
+[fighter_torso_l_24175]
+name=Fighter torso (l)
+model=fighter_torso_20603
+manwear=fighter_torso_19258,0
+manwear2=fighter_torso_8779
+womanwear=fighter_torso_20516,0
+womanwear2=fighter_torso_32966
+cost=65006
+2dzoom=1178
+2dyof=7
+2dxan=498
+2dyan=1840
+iop2=Wear
+members=yes
+
+[penance_skirt_l_24176]
+name=Penance skirt (l)
+model=penance_skirt_20602
+manwear=penance_skirt_19252,0
+womanwear=penance_skirt_20510,0
+cost=65005
+2dyof=1
+2dxan=456
+2dyan=1798
+iop2=Wear
+members=yes
+
+[void_knight_top_l_24177]
+name=Void knight top (l)
+model=void_knight_top_15282
+manwear=void_knight_top_14567,0
+manwear2=void_knight_top_14562
+womanwear=void_knight_top_15290,0
+womanwear2=void_knight_top_14570
+cost=48000
+2dzoom=919
+2dyof=3
+2dxan=459
+iop2=Wear
+recol1s=-22464
+recol1d=4550
+members=yes
+
+[elite_void_top_l_24178]
+name=Elite void top (l)
+model=elite_void_top_29170
+manwear=elite_void_top_29166,0
+manwear2=elite_void_top_29165
+womanwear=elite_void_top_29169,0
+womanwear2=elite_void_top_29168
+cost=48500
+2dzoom=1221
+2dxan=459
+iop2=Wear
+members=yes
+
+[void_knight_robe_l_24179]
+name=Void knight robe (l)
+model=void_knight_robe_15281
+manwear=void_knight_robe_14566,0
+womanwear=void_knight_robe_14576,0
+cost=45000
+2dzoom=2022
+2dxan=408
+iop2=Wear
+members=yes
+
+[elite_void_robe_l_24180]
+name=Elite void robe (l)
+model=elite_void_robe_29171
+manwear=elite_void_robe_29164,0
+womanwear=elite_void_robe_29167,0
+cost=45500
+2dzoom=2105
+2dyof=-1
+2dxan=525
+iop2=Wear
+members=yes
+
+[void_knight_mace_l_24181]
+name=Void knight mace (l)
+model=void_knight_mace_15280
+manwear=void_knight_mace_14580,0
+womanwear=void_knight_mace_14579,0
+cost=12000
+2dzoom=1308
+2dxof=-3
+2dyof=-10
+2dxan=402
+2dyan=258
+iop2=Wield
+members=yes
+
+[void_knight_gloves_l_24182]
+name=Void knight gloves (l)
+model=cooking_gauntlets_2649
+manwear=cooking_gauntlets_179,0
+womanwear=void_knight_gloves_14572,0
+cost=6052
+2dzoom=930
+2dxof=8
+2dyof=-8
+2dxan=420
+2dyan=828
+iop2=Wear
+recol1s=10004
+recol1d=-22008
+members=yes
+
+[void_mage_helm_l_24183]
+name=Void mage helm (l)
+model=void_mage_helm_27164
+manwear=male_hair_230,0
+manwear2=void_mage_helm_27151
+womanwear=female_hair_403,0
+womanwear2=void_mage_helm_27137
+manhead=male_hair_63
+manhead2=void_mage_helm_14445
+femalehead=female_hair_120
+femalehead=void_mage_helm_14445
+cost=9851
+2dzoom=919
+2dxof=1
+2dyof=5
+2dxan=429
+2dyan=1660
+iop2=Wear
+members=yes
+
+[void_ranger_helm_l_24184]
+name=Void ranger helm (l)
+model=void_ranger_helm_27163
+manwear=male_hair_230,0
+manwear2=void_ranger_helm_27150
+womanwear=female_hair_403,0
+womanwear2=void_ranger_helm_27138
+manhead=male_hair_63
+manhead2=void_ranger_helm_3624
+femalehead=female_hair_120
+femalehead=void_ranger_helm_3624
+cost=9851
+2dzoom=620
+2dxof=1
+2dyof=-1
+2dxan=88
+2dyan=188
+iop2=Wear
+members=yes
+
+[void_melee_helm_l_24185]
+name=Void melee helm (l)
+model=void_melee_helm_27166
+manwear=male_hair_230,0
+manwear2=void_melee_helm_27154
+womanwear=female_hair_403,0
+womanwear2=void_melee_helm_27139
+manhead=male_hair_63
+manhead2=void_melee_helm_14444
+femalehead=female_hair_120
+femalehead=void_melee_helm_14444
+cost=9851
+2dzoom=620
+2dxof=3
+2dyof=-1
+2dxan=88
+2dyan=188
+iop2=Wear
+members=yes
+
+[avernic_defender_l_24186]
+name=Avernic defender (l)
+model=avernic_defender_35745
+manwear=avernic_defender_35376,0
+womanwear=avernic_defender_35377,0
+cost=2500000
+2dzoom=717
+2dxof=8
+2dyof=8
+2dxan=498
+2dyan=256
+iop2=Wield
+iop4=Dismantle
+members=yes
+
+[trouver_parchment_24187]
+name=Trouver parchment
+model=warrant_2675
+cost=200
+2dzoom=950
+2dxof=2
+2dyof=-3
+2dxan=431
+2dyan=1104
+iop4=Read
+recol1s=10351
+recol1d=-27052
+recol2s=7070
+recol2d=-30500
+recol3s=960
+recol3d=5056
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_trouver_parchment_24188]
+placeholder=yes
+
+[deadmans_chest_24189]
+name=Deadman's chest
+model=deadmans_chest_29749
+manwear=deadmans_chest_29637,0
+manwear2=deadmans_chest_29636
+womanwear=deadmans_chest_29745,0
+womanwear2=deadmans_chest_29744
+cost=2
+2dzoom=1158
+2dxof=-1
+2dyof=7
+2dxan=488
+iop2=Wear
+
+[deadmans_legs_24190]
+name=Deadman's legs
+model=deadmans_legs_29752
+manwear=deadmans_legs_29020,0
+womanwear=deadmans_legs_29743,0
+2dzoom=1740
+2dyof=12
+2dxan=444
+iop2=Wear
+
+[deadmans_cape_24191]
+name=Deadman's cape
+model=deadmans_cape_29748
+manwear=deadmans_cape_29633,0
+womanwear=deadmans_cape_29725,0
+cost=3
+2dzoom=1537
+2dxof=7
+2dyof=37
+2dxan=292
+2dyan=1245
+iop2=Wear
+
+[armadyl_halo_24192]
+name=Armadyl halo
+model=armadyl_halo_broken_38831
+manwear=armadyl_halo_38815,0
+womanwear=armadyl_halo_38821,0
+manhead=armadyl_halo_38838
+femalehead=armadyl_halo_38838
+cost=1000
+2dzoom=550
+2dxof=1
+2dyof=-31
+2dxan=231
+2dyan=144
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_armadyl_halo_24193]
+placeholder=yes
+
+[armadyl_halo_l_24194]
+name=Armadyl halo (l)
+model=armadyl_halo_broken_38831
+manwear=armadyl_halo_38815,0
+womanwear=armadyl_halo_38821,0
+manhead=armadyl_halo_38838
+femalehead=armadyl_halo_38838
+cost=1000
+2dzoom=550
+2dxof=1
+2dyof=-31
+2dxan=231
+2dyan=144
+iop2=Wear
+members=yes
+
+[bandos_halo_24195]
+name=Bandos halo
+model=bandos_halo_broken_38830
+manwear=bandos_halo_38814,0
+womanwear=bandos_halo_38822,0
+manhead=bandos_halo_38842
+femalehead=bandos_halo_38842
+cost=1000
+2dzoom=550
+2dyof=18
+2dxan=288
+2dyan=141
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_bandos_halo_24196]
+placeholder=yes
+
+[bandos_halo_l_24197]
+name=Bandos halo (l)
+model=bandos_halo_broken_38830
+manwear=bandos_halo_38814,0
+womanwear=bandos_halo_38822,0
+manhead=bandos_halo_38842
+femalehead=bandos_halo_38842
+cost=1000
+2dzoom=550
+2dyof=18
+2dxan=288
+2dyan=141
+iop2=Wear
+members=yes
+
+[seren_halo_24198]
+name=Seren halo
+model=seren_halo_broken_38834
+manwear=seren_halo_38817,0
+womanwear=seren_halo_38824,0
+manhead=seren_halo_38839
+femalehead=seren_halo_38839
+cost=1000
+2dzoom=500
+2dxan=228
+2dyan=141
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_seren_halo_24199]
+placeholder=yes
+
+[seren_halo_l_24200]
+name=Seren halo (l)
+model=seren_halo_broken_38834
+manwear=seren_halo_38817,0
+womanwear=seren_halo_38824,0
+manhead=seren_halo_38839
+femalehead=seren_halo_38839
+cost=1000
+2dzoom=500
+2dxan=228
+2dyan=141
+iop2=Wear
+members=yes
+
+[ancient_halo_24201]
+name=Ancient halo
+model=ancient_halo_broken_38836
+manwear=ancient_halo_38816,0
+womanwear=ancient_halo_38823,0
+manhead=ancient_halo_38840
+femalehead=ancient_halo_38840
+cost=1000
+2dzoom=550
+2dxan=228
+2dyan=141
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_ancient_halo_24202]
+placeholder=yes
+
+[ancient_halo_l_24203]
+name=Ancient halo (l)
+model=ancient_halo_broken_38836
+manwear=ancient_halo_38816,0
+womanwear=ancient_halo_38823,0
+manhead=ancient_halo_38840
+femalehead=ancient_halo_38840
+cost=1000
+2dzoom=550
+2dxan=228
+2dyan=141
+iop2=Wear
+members=yes
+
+[brassica_halo_24204]
+name=Brassica halo
+model=brassica_halo_broken_38835
+manwear=brassica_halo_38818,0
+womanwear=brassica_halo_38825,0
+manhead=brassica_halo_38841
+femalehead=brassica_halo_38841
+cost=1000
+2dzoom=934
+2dxan=303
+2dyan=174
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_brassica_halo_24205]
+placeholder=yes
+
+[brassica_halo_l_24206]
+name=Brassica halo (l)
+model=brassica_halo_broken_38835
+manwear=brassica_halo_38818,0
+womanwear=brassica_halo_38825,0
+manhead=brassica_halo_38841
+femalehead=brassica_halo_38841
+cost=1000
+2dzoom=934
+2dxan=303
+2dyan=174
+iop2=Wear
+members=yes
+
+[victors_cape_1_24207]
+name=Victor's cape (1)
+model=victors_cape_1_38833
+manwear=victors_cape_1_38812,0
+womanwear=victors_cape_1_38820,0
+cost=4
+2dzoom=2150
+2dxof=2
+2dyof=-3
+2dxan=337
+2dyan=948
+iop2=Wear
+placeholder=yes
+
+[placeholder_victors_cape_1_24208]
+placeholder=yes
+
+[victors_cape_10_24209]
+name=Victor's cape (10)
+model=victors_cape_10_38837
+manwear=victors_cape_10_38813,0
+womanwear=victors_cape_10_38819,0
+cost=4
+2dzoom=2150
+2dxof=2
+2dyof=-3
+2dxan=337
+2dyan=948
+iop2=Wear
+recol1s=66
+recol1d=4890
+recol2s=49
+recol2d=6032
+recol3s=19379
+recol3d=-25671
+recol4s=26537
+recol4d=-23629
+placeholder=yes
+
+[placeholder_victors_cape_10_24210]
+placeholder=yes
+
+[victors_cape_50_24211]
+name=Victor's cape (50)
+model=victors_cape_10_38837
+manwear=victors_cape_10_38813,0
+womanwear=victors_cape_10_38819,0
+cost=4
+2dzoom=2150
+2dxof=2
+2dyof=-3
+2dxan=337
+2dyan=948
+iop2=Wear
+placeholder=yes
+
+[placeholder_victors_cape_50_24212]
+placeholder=yes
+
+[victors_cape_100_24213]
+name=Victor's cape (100)
+model=victors_cape_10_38837
+manwear=victors_cape_10_38813,0
+womanwear=victors_cape_10_38819,0
+cost=4
+2dzoom=2150
+2dxof=2
+2dyof=-3
+2dxan=337
+2dyan=948
+iop2=Wear
+recol1s=66
+recol1d=9152
+recol2s=49
+recol2d=8119
+recol3s=19379
+recol3d=960
+recol4s=26537
+recol4d=943
+placeholder=yes
+
+[placeholder_victors_cape_100_24214]
+placeholder=yes
+
+[victors_cape_500_24215]
+name=Victor's cape (500)
+model=victors_cape_10_38837
+manwear=victors_cape_10_38813,0
+womanwear=victors_cape_10_38819,0
+cost=4
+2dzoom=2150
+2dxof=2
+2dyof=-3
+2dxan=337
+2dyan=948
+iop2=Wear
+recol1s=66
+recol1d=947
+recol2s=49
+recol2d=933
+recol3s=19379
+recol3d=127
+recol4s=26537
+recol4d=103
+placeholder=yes
+
+[placeholder_victors_cape_500_24216]
+placeholder=yes
+
+[guthixian_icon_24217]
+name=Guthixian icon
+model=guthixian_icon_38844
+cost=500
+2dzoom=1033
+2dxof=5
+2dyof=-6
+2dxan=605
+2dyan=528
+iop4=Scrutinise
+members=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_guthixian_icon_24218]
+placeholder=yes
+
+[swift_blade_24219]
+name=Swift blade
+model=swift_blade_38832
+manwear=swift_blade_38829,0
+womanwear=swift_blade_38827,0
+cost=1500
+2dzoom=1040
+2dxof=3
+2dyof=4
+2dxan=364
+2dyan=1255
+iop2=Wield
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_swift_blade_24220]
+certificate=yes
+
+[placeholder_swift_blade_24221]
+placeholder=yes
+
+[avas_assembler_l_24222]
+name=Ava's assembler (l)
+model=avas_assembler_broken_35041
+manwear=avas_assembler_34628,0
+womanwear=avas_assembler_34639,0
+cost=51000
+2dzoom=976
+2dxof=-4
+2dyof=-1
+2dxan=567
+2dyan=1120
+iop2=Wear
+iop4=Commune
+members=yes
+param=param_451,Commune
+
+[fire_cape_l_24223]
+name=Fire cape (l)
+model=fire_cape_9631
+manwear=fire_cape_9638,0
+womanwear=fire_cape_9640,0
+cost=65007
+2dzoom=2086
+2dxof=-4
+2dxan=567
+2dyan=2031
+iop2=Wear
+members=yes
+
+[infernal_cape_l_24224]
+name=Infernal cape (l)
+model=infernal_cape_broken_33144
+manwear=infernal_cape_33103,0
+womanwear=infernal_cape_33111,0
+cost=80000
+2dzoom=2086
+2dxof=-4
+2dxan=567
+2dyan=2031
+iop2=Wear
+members=yes
 

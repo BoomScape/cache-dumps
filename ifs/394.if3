@@ -97,13 +97,26 @@ shadowed=yes
 
 [interface_394:8]
 type=^iftype_layer
+x=5
 y=5
-width=100
+width=88
 height=20
-hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_394:0
 optionmask=2
 op1="*"
-onload="script1414(event_com)"
+onload="script3078(event_com,Refresh)"
+
+[interface_394:9]
+type=^iftype_layer
+x=5
+y=5
+width=88
+height=20
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_394:0
+optionmask=2
+op1="*"
+onload="script3078(event_com,Camera)"
 
