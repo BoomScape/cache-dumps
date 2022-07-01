@@ -4,7 +4,6 @@ x=7
 y=7
 width=506
 height=129
-onload="script3651(18219011)"
 
 [interface_278:1]
 type=^iftype_layer
@@ -13,12 +12,18 @@ vsizemode=^setsize_minus
 layer=interface_278:0
 
 [interface_278:2]
-type=^iftype_graphic
+type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_278:1
 
 [interface_278:3]
+type=^iftype_graphic
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_278:1
+
+[interface_278:4]
 type=^iftype_layer
 x=5
 y=5
@@ -27,7 +32,7 @@ height=23
 hposmode=^setpos_abs_right
 layer=interface_278:1
 
-[interface_278:4]
+[interface_278:5]
 type=^iftype_layer
 x=182
 y=91
@@ -36,4 +41,10 @@ height=28
 layer=interface_278:1
 optionmask=2
 op1="*"
+
+[interface_278:6]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_278:1
 

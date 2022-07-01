@@ -17555,6 +17555,8 @@ framegroup1=773
 [seq_2890]
 framecount=24
 stretches=yes
+priority=6
+movetype=1
 looptype=1
 framegroup1=276
 

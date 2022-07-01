@@ -1078,6 +1078,7 @@ val=4,struct_1768
 val=5,struct_2733
 val=6,struct_3008
 val=7,struct_3039
+val=8,struct_4289
 
 [enum_425]
 inputtype=int
@@ -18403,6 +18404,7 @@ val=2,<img=3>
 val=3,<img=10>
 val=4,<img=41>
 val=5,<img=42>
+val=6,<img=41>
 
 [enum_1895]
 inputtype=component
@@ -31154,6 +31156,14 @@ val=void_knight_gloves_8842,void_knight_gloves_l_24182
 val=void_melee_helm_11665,void_melee_helm_l_24185
 val=void_mage_helm_11663,void_mage_helm_l_24183
 val=void_ranger_helm_11664,void_ranger_helm_l_24184
+val=void_knight_top_or_26463,void_knight_top_l_or_27000
+val=void_knight_robe_or_26465,void_knight_robe_l_or_27001
+val=void_knight_gloves_or_26467,void_knight_gloves_l_or_27002
+val=elite_void_top_or_26469,elite_void_top_l_or_27003
+val=elite_void_robe_or_26471,elite_void_robe_l_or_27004
+val=void_mage_helm_or_26473,void_mage_helm_l_or_27005
+val=void_ranger_helm_or_26475,void_ranger_helm_l_or_27006
+val=void_melee_helm_or_26477,void_melee_helm_l_or_27007
 val=fighter_torso_10551,fighter_torso_l_24175
 val=penance_skirt_10555,penance_skirt_l_24176
 val=fighter_hat_10548,fighter_hat_l_24173
@@ -48624,6 +48634,7 @@ val=2,View another clan
 val=3,Grouping
 val=4,Iron Group
 val=5,Hardcore Iron Group
+val=6,Iron Group
 
 [enum_3840]
 inputtype=int
@@ -48634,6 +48645,7 @@ val=2,"options_icons_small,9"
 val=3,"options_icons_small,13"
 val=4,"options_icons_small,11"
 val=5,"options_icons_small,12"
+val=6,"options_icons_small,11"
 
 [enum_3841]
 inputtype=int
@@ -48644,6 +48656,7 @@ val=2,"sideicons_interface,29"
 val=3,"sideicons_interface,34"
 val=4,"sideicons_interface,32"
 val=5,"sideicons_interface,33"
+val=6,"sideicons_interface,32"
 
 [enum_3842]
 inputtype=int
@@ -58014,4 +58027,10 @@ val=5,loc_14098
 val=6,loc_14099
 val=7,loc_14098
 val=8,loc_14099
+
+[enum_4365]
+inputtype=int
+outputtype=struct
+default=null
+val=1,struct_4288
 

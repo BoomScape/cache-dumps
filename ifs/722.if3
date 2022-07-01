@@ -8,7 +8,7 @@ type=^iftype_layer
 width=512
 height=334
 layer=interface_722:0
-onload="script5249(47316993,47316992,47317001,47316999,47317005,47317004,47317006)"
+onload="script5249(47316993,47316992,47317002,47317010,47317000,47316997,47316998,47316999,47317006,47317005,47317007)"
 
 [interface_722:2]
 type=^iftype_layer
@@ -28,74 +28,82 @@ layer=interface_722:0
 
 [interface_722:4]
 type=^iftype_layer
-height=179
+height=172
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_722:2
 
 [interface_722:5]
 type=^iftype_layer
-width=251
+width=336
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_722:4
 
 [interface_722:6]
 type=^iftype_layer
-width=251
-hposmode=^setpos_abs_right
+x=168
+width=336
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_722:4
 
 [interface_722:7]
 type=^iftype_layer
-x=48
-width=156
-height=37
-vposmode=^setpos_abs_bottom
-layer=interface_722:6
-optionmask=2
-op1="Select"
+width=336
+hposmode=^setpos_abs_right
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_722:4
 
 [interface_722:8]
+type=^iftype_layer
+width=156
+height=37
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+layer=interface_722:7
+optionmask=2
+op1="Select"
+
+[interface_722:9]
 type=^iftype_graphic
 y=45
 width=64
 height=64
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_722:6
+layer=interface_722:7
 graphic="icon_swords"
 
-[interface_722:9]
+[interface_722:10]
 type=^iftype_layer
-x=48
 width=156
 height=37
+hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_722:5
 optionmask=2
 op1="Select"
 
-[interface_722:10]
+[interface_722:11]
 type=^iftype_graphic
 y=45
-width=64
-height=64
+width=61
+height=70
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_722:5
-graphic="iron_icons,3"
+graphic="speedrun_trophies,1"
 
-[interface_722:11]
+[interface_722:12]
 type=^iftype_layer
 height=173
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_722:2
 
-[interface_722:12]
+[interface_722:13]
 type=^iftype_layer
 x=4
 y=4
@@ -103,15 +111,15 @@ width=8
 height=8
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_722:11
-
-[interface_722:13]
-type=^iftype_layer
-height=334
-hsizemode=^setsize_minus
 layer=interface_722:12
 
 [interface_722:14]
+type=^iftype_layer
+height=334
+hsizemode=^setsize_minus
+layer=interface_722:13
+
+[interface_722:15]
 type=^iftype_layer
 x=3
 y=3
@@ -120,16 +128,16 @@ height=6
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_722:12
+layer=interface_722:13
 
-[interface_722:15]
+[interface_722:16]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_722:12
+layer=interface_722:13
 colour=0x303030
 
-[interface_722:16]
+[interface_722:17]
 type=^iftype_rectangle
 x=1
 y=1
@@ -137,6 +145,26 @@ width=2
 height=2
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_722:12
+layer=interface_722:13
 colour=0x5d5848
+
+[interface_722:18]
+type=^iftype_layer
+width=156
+height=37
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+layer=interface_722:6
+optionmask=2
+op1="Select"
+
+[interface_722:19]
+type=^iftype_graphic
+y=45
+width=61
+height=70
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+layer=interface_722:6
+graphic="speedrun_trophies,2"
 
