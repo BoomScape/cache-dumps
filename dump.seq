@@ -43375,12 +43375,6 @@ movetype=1
 looptype=1
 framegroup1=299
 
-[seq_7175]
-framecount=17
-replayoff=17
-looptype=1
-framegroup1=2404
-
 [seq_7176]
 framecount=13
 replayoff=4

@@ -232849,3 +232849,28 @@ certificate=yes
 [placeholder_eldritch_orb_24519]
 placeholder=yes
 
+[victors_cape_1000_24520]
+name=Victor's cape (1000)
+model=victors_cape_10_38837
+manwear=victors_cape_10_38813,0
+womanwear=victors_cape_10_38819,0
+cost=4
+2dzoom=2150
+2dxof=2
+2dyof=-3
+2dxan=337
+2dyan=948
+iop2=Wear
+recol1s=66
+recol1d=8
+recol2s=49
+recol2d=4
+recol3s=19379
+recol3d=-14784
+recol4s=26537
+recol4d=-14425
+placeholder=yes
+
+[placeholder_victors_cape_1000_24521]
+placeholder=yes
+

@@ -11467,13 +11467,6 @@ anim=seq_4858
 ambient=50
 contrast=20
 
-[spotanim_1755]
-model=model_39129
-anim=seq_7175
-resizeh=90
-resizev=90
-contrast=100
-
 [spotanim_1756]
 model=model_39130
 anim=seq_8538

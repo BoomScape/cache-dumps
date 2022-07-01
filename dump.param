@@ -1127,3 +1127,7 @@ default=null
 [param_923]
 type=int
 
+[param_925]
+type=boolean
+default=yes
+
