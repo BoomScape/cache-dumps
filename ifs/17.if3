@@ -31,12 +31,10 @@ vsizemode=^setsize_minus
 
 [interface_17:3]
 type=^iftype_layer
-x=35
-y=35
+x=5
+y=396
 width=55
 height=55
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
 layer=interface_17:2
 optionmask=131072
 dragdeadzone=1

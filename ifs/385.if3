@@ -4,6 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script2474(event_com,25231361,95,25,0,0,436,307,0)"
 
 [interface_385:1]
 type=^iftype_model
@@ -16,7 +17,6 @@ model=model_9104
 xan=436
 yan=307
 zoom=95
-viewportwid=1171
-viewporthei=1171
-onload="script870(25231360,event_com,95,25,0,0,436,307,0)"
+viewportwid=512
+viewporthei=512
 

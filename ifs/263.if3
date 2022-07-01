@@ -4,6 +4,7 @@ width=479
 height=96
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
+noclickthrough=yes
 
 [interface_263:1]
 type=^iftype_layer

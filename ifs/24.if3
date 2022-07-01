@@ -29,6 +29,7 @@ vposmode=^setpos_proportion_top
 layer=interface_24:2
 model=model_16238
 zoom=400
+onload="script2473(event_com)"
 
 [interface_24:4]
 type=^iftype_model
@@ -40,6 +41,7 @@ hposmode=^setpos_proportion_left
 vposmode=^setpos_proportion_bottom
 layer=interface_24:2
 zoom=400
+onload="script2473(event_com)"
 
 [interface_24:5]
 type=^iftype_model
@@ -51,6 +53,7 @@ hposmode=^setpos_proportion_right
 vposmode=^setpos_proportion_top
 layer=interface_24:2
 zoom=400
+onload="script2473(event_com)"
 
 [interface_24:6]
 type=^iftype_model
@@ -62,6 +65,7 @@ hposmode=^setpos_proportion_right
 vposmode=^setpos_proportion_bottom
 layer=interface_24:2
 zoom=400
+onload="script2473(event_com)"
 
 [interface_24:7]
 type=^iftype_model
@@ -73,6 +77,7 @@ hposmode=^setpos_proportion_right
 vposmode=^setpos_proportion_top
 layer=interface_24:2
 zoom=400
+onload="script2473(event_com)"
 
 [interface_24:8]
 type=^iftype_model
@@ -84,6 +89,7 @@ hposmode=^setpos_proportion_left
 vposmode=^setpos_proportion_bottom
 layer=interface_24:2
 zoom=400
+onload="script2473(event_com)"
 
 [interface_24:9]
 type=^iftype_layer

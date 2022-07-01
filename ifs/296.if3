@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script876(event_com,19398657,200,50,0,0,0,0,0)"
+onload="script2474(event_com,19398657,200,50,0,0,0,0,0)"
 
 [interface_296:1]
 type=^iftype_model

@@ -1,12 +1,20 @@
 [interface_173:0]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+
+[interface_173:1]
 type=^iftype_model
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+layer=interface_173:0
 model=model_24421
 zoom=450
 anim=seq_6169
-viewportwid=1087
-viewporthei=1087
+viewportwid=512
+viewporthei=512
 

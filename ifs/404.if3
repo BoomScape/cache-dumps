@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script870(event_com,26476546,170,1,0,125,0,0,0)"
+onload="script2474(event_com,26476546,170,1,0,125,0,0,0)"
 
 [interface_404:1]
 type=^iftype_rectangle
@@ -27,6 +27,6 @@ model=model_11232
 originy=125
 zoom=170
 anim=portal_3174
-viewportwid=765
-viewporthei=765
+viewportwid=512
+viewporthei=512
 

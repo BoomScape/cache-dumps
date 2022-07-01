@@ -1,13 +1,23 @@
 [interface_117:0]
-type=^iftype_model
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script2474(event_com,7667713,185,50,-50,-10,0,0,0)"
+
+[interface_117:1]
+type=^iftype_model
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_117:0
 model=model_10846
 originx=-50
 originy=-10
 zoom=185
 anim=seq_3093
-viewportwid=1087
-viewporthei=1087
-onload="script870(event_com,event_com,185,50,-50,-10,0,0,0)"
+viewportwid=512
+viewporthei=512
 

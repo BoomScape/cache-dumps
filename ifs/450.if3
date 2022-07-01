@@ -9,6 +9,7 @@ xan=167
 yan=94
 zoom=360
 anim=argento_4571
+onload="script2473(event_com)"
 
 [interface_450:1]
 type=^iftype_model
@@ -20,4 +21,5 @@ model=model_17097
 xan=492
 zoom=16
 anim=seq_4573
+onload="script2473(event_com)"
 
