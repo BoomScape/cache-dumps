@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1656(event_com,458755,458757,458762,458763,458764,458765,458766,458767,458768,458770,458773)"
+onload="script1656(event_com,458755,458757,458769,458762,458763,458764,458765,458766,458767,458768,458773,458772,458775,458774,458776)"
 
 [interface_7:1]
 type=^iftype_text
@@ -181,17 +181,50 @@ layer=interface_7:8
 
 [interface_7:17]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_7:8
+noclickthrough=yes
+
+[interface_7:18]
+type=^iftype_rectangle
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_7:17
+fill=yes
+trans=200
+
+[interface_7:19]
+type=^iftype_text
+width=10
+height=10
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_7:17
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+paraheight=15
+shadowed=yes
+
+[interface_7:20]
+type=^iftype_layer
 x=18
 y=2
 width=72
 height=32
 vposmode=^setpos_abs_bottom
 layer=interface_7:0
-onload="script92(event_com)"
-onmouseover="script94(event_com)"
-onmouseleave="script92(event_com)"
 
-[interface_7:18]
+[interface_7:21]
 type=^iftype_text
 x=18
 y=2
@@ -207,7 +240,7 @@ shadowed=yes
 optionmask=2
 op1="*"
 
-[interface_7:19]
+[interface_7:22]
 type=^iftype_layer
 x=18
 y=2
@@ -216,11 +249,8 @@ height=32
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_7:0
-onload="script92(event_com)"
-onmouseover="script94(event_com)"
-onmouseleave="script92(event_com)"
 
-[interface_7:20]
+[interface_7:23]
 type=^iftype_text
 x=18
 y=2
@@ -229,16 +259,15 @@ height=32
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_7:0
-text="Clan Setup"
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 optionmask=2
-op1="Clan Setup"
+op1="*"
 
-[interface_7:21]
+[interface_7:24]
 type=^iftype_layer
 width=1
 height=1
