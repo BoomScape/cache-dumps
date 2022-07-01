@@ -52092,3 +52092,8 @@ offhand=0
 looptype=1
 framegroup1=239
 
+[seq_8492]
+framecount=21
+looptype=1
+framegroup1=1371
+

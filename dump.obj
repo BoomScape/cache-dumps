@@ -200805,7 +200805,7 @@ placeholder=yes
 [slayer_ring_eternal_21268]
 name=Slayer ring (eternal)
 model=perfect_ring_2677
-cost=15300
+cost=35300
 2dzoom=830
 2dxof=-1
 2dyof=1
@@ -230152,4 +230152,20 @@ recol1d=16
 recol2s=24
 recol2d=12
 members=yes
+
+[wilderness_crabs_teleport_24251]
+name=Wilderness crabs teleport
+model=wilderness_crabs_teleport_38856
+cost=63
+2dzoom=465
+2dyof=-1
+2dxan=404
+iop4=Break
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_wilderness_crabs_teleport_24252]
+placeholder=yes
 
