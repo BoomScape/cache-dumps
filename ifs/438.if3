@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script380(28704769,28704770,28704771,28704772)"
+onload="script380(28704769,28704770)"
 
 [interface_438:1]
 type=^iftype_layer
@@ -16,41 +16,29 @@ layer=interface_438:0
 
 [interface_438:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_438:1
-
-[interface_438:3]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_438:2
-
-[interface_438:4]
-type=^iftype_layer
 x=10
 y=10
 width=34
 height=34
-layer=interface_438:3
+layer=interface_438:1
 optionmask=6
 op1="Exit"
 op2="Quick-exit"
 
-[interface_438:5]
+[interface_438:3]
 type=^iftype_graphic
 width=34
 height=34
-layer=interface_438:4
+layer=interface_438:2
 graphic="graphic_1635"
 
-[interface_438:6]
+[interface_438:4]
 type=^iftype_graphic
 x=5
 y=5
 width=26
 height=23
-layer=interface_438:4
+layer=interface_438:2
 graphic="close_buttons,2"
 dragdeadzone=2
 onmouseover="script44(event_com,538)"

@@ -12,26 +12,20 @@ layer=interface_171:0
 
 [interface_171:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_171:1
-
-[interface_171:3]
-type=^iftype_layer
 x=4
 y=4
 width=139
 height=62
 hposmode=^setpos_abs_right
-layer=interface_171:2
-onload="script947(11206662,11206664,11206666)"
-onvartransmit="script947(11206662,11206664,11206666){var_343,var_344,var_345}"
+layer=interface_171:1
+onload="script947(11206661,11206663,11206665)"
+onvartransmit="script947(11206661,11206663,11206665){var_343,var_344,var_345}"
 
-[interface_171:4]
+[interface_171:3]
 type=^iftype_text
 height=16
 hsizemode=^setsize_minus
-layer=interface_171:3
+layer=interface_171:2
 text="* Temple Repair *"
 colour=^yellow
 font=p12_full
@@ -39,13 +33,13 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_171:5]
+[interface_171:4]
 type=^iftype_text
 x=4
 y=16
 width=93
 height=13
-layer=interface_171:3
+layer=interface_171:2
 text="Repair State :"
 colour=^yellow
 font=p11_full
@@ -53,24 +47,24 @@ halign=^settextalign_right
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_171:6]
+[interface_171:5]
 type=^iftype_text
 x=100
 y=17
 width=39
 height=14
-layer=interface_171:3
+layer=interface_171:2
 colour=^yellow
 font=p11_full
 shadowed=yes
 
-[interface_171:7]
+[interface_171:6]
 type=^iftype_text
 x=4
 y=30
 width=93
 height=12
-layer=interface_171:3
+layer=interface_171:2
 text="Resources :"
 colour=^yellow
 font=p11_full
@@ -78,24 +72,24 @@ halign=^settextalign_right
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_171:8]
+[interface_171:7]
 type=^iftype_text
 x=100
 y=31
 width=39
 height=14
-layer=interface_171:3
+layer=interface_171:2
 colour=^yellow
 font=p11_full
 shadowed=yes
 
-[interface_171:9]
+[interface_171:8]
 type=^iftype_text
 x=4
 y=45
 width=92
 height=13
-layer=interface_171:3
+layer=interface_171:2
 text="Sanctity:"
 colour=^yellow
 font=p11_full
@@ -103,13 +97,13 @@ halign=^settextalign_right
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_171:10]
+[interface_171:9]
 type=^iftype_text
 x=100
 y=45
 width=39
 height=14
-layer=interface_171:3
+layer=interface_171:2
 colour=^yellow
 font=p11_full
 shadowed=yes

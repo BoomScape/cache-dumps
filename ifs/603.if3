@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2408(39518209)"
+onload="script2408(39518209,39518210)"
 
 [interface_603:1]
 type=^iftype_layer
@@ -14,17 +14,16 @@ layer=interface_603:0
 
 [interface_603:2]
 type=^iftype_layer
-y=20
+x=56
 width=400
-height=25
-hposmode=^setpos_abs_centre
+height=45
 layer=interface_603:1
 
 [interface_603:3]
 type=^iftype_text
+y=25
 width=60
 height=14
-vposmode=^setpos_abs_centre
 layer=interface_603:2
 text="Progress:"
 colour=^white
@@ -35,10 +34,10 @@ shadowed=yes
 
 [interface_603:4]
 type=^iftype_layer
+y=27
 width=60
 height=10
 hposmode=^setpos_abs_right
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_603:2
 onload="script1994(39518213,39518214,39518212)"

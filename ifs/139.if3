@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2533(9109505,9109506,9109510)"
+onload="script2533(9109505,9109506,9109509)"
 
 [interface_139:1]
 type=^iftype_layer
@@ -12,37 +12,31 @@ layer=interface_139:0
 
 [interface_139:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_139:1
-
-[interface_139:3]
-type=^iftype_layer
 x=3
 y=3
 width=111
 height=60
 hposmode=^setpos_abs_right
-layer=interface_139:2
+layer=interface_139:1
 
-[interface_139:4]
+[interface_139:3]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_139:3
+layer=interface_139:2
 colour=0x751111
 fill=yes
 trans=125
 
-[interface_139:5]
+[interface_139:4]
 type=^iftype_text
 y=3
 height=30
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_139:3
+layer=interface_139:2
 text="Gnomeball<br>Score"
 colour=^yellow
 font=p12_full
@@ -51,14 +45,14 @@ valign=^settextalign_centre
 paraheight=15
 shadowed=yes
 
-[interface_139:6]
+[interface_139:5]
 type=^iftype_text
 y=10
 height=15
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_139:3
+layer=interface_139:2
 colour=^red
 font=b12_full
 halign=^settextalign_centre

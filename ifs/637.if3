@@ -8,8 +8,8 @@ onload="script2913(41746433,41746434)"
 
 [interface_637:1]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+width=160
+height=28
 layer=interface_637:0
 
 [interface_637:2]

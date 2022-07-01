@@ -12,119 +12,113 @@ layer=interface_486:0
 
 [interface_486:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_486:1
-
-[interface_486:3]
-type=^iftype_layer
 width=400
 height=95
 hposmode=^setpos_abs_right
-layer=interface_486:2
+layer=interface_486:1
 
-[interface_486:4]
+[interface_486:3]
 type=^iftype_rectangle
 x=145
 y=40
 width=267
 height=23
 hide=yes
-layer=interface_486:3
+layer=interface_486:2
 colour=^white
 fill=yes
 trans=129
 
-[interface_486:5]
+[interface_486:4]
 type=^iftype_graphic
 x=3
 y=1
 width=17
 height=13
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 graphic="barbassault_icons,0"
 
-[interface_486:6]
+[interface_486:5]
 type=^iftype_text
 x=24
 y=-9
 width=70
 height=32
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 text="Wave 1"
 colour=0xff981f
 font=barbassault_font
 halign=^settextalign_right
 shadowed=yes
 
-[interface_486:7]
+[interface_486:6]
 type=^iftype_graphic
 x=3
 y=24
 width=17
 height=13
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 graphic="barbassault_icons,1"
 
-[interface_486:8]
+[interface_486:7]
 type=^iftype_text
 x=24
 y=11
 width=80
 height=32
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 text="Red eggs"
 colour=0xff981f
 font=barbassault_font
 halign=^settextalign_right
 shadowed=yes
 
-[interface_486:9]
+[interface_486:8]
 type=^iftype_graphic
 x=3
 y=44
 width=17
 height=13
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 graphic="barbassault_icons,2"
 
-[interface_486:10]
+[interface_486:9]
 type=^iftype_text
 x=24
 y=32
 width=67
 height=32
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 text="Style 1"
 colour=0xff981f
 font=barbassault_font
 halign=^settextalign_right
 shadowed=yes
 
-[interface_486:11]
+[interface_486:10]
 type=^iftype_graphic
 x=3
 y=64
 width=17
 height=13
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 graphic="barbassault_icons,3"
 
-[interface_486:12]
+[interface_486:11]
 type=^iftype_text
 x=24
 y=54
 width=78
 height=32
 hposmode=^setpos_abs_right
-layer=interface_486:3
+layer=interface_486:2
 text="Attacker"
 colour=0xff981f
 font=barbassault_font

@@ -1,55 +1,62 @@
 [interface_29:0]
-type=^iftype_layer
-width=512
-height=334
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-
-[interface_29:1]
 type=^iftype_model
 x=219
 y=136
 width=32
 height=32
-layer=interface_29:0
+layer=interface_29:17
 model=model_9082
 xan=420
 yan=1
 zoom=886
 
-[interface_29:2]
+[interface_29:1]
 type=^iftype_model
 x=360
 y=170
 width=32
 height=32
-layer=interface_29:0
+layer=interface_29:17
 model=model_9095
 xan=420
 yan=1
 zoom=1808
 anim=seq_2449
 
-[interface_29:3]
+[interface_29:2]
 type=^iftype_text
 x=85
 y=57
 width=342
 height=21
-layer=interface_29:0
+layer=interface_29:17
 text="Blast Furnace Plan"
 colour=0x2b210f
 font=q8_full
 halign=^settextalign_centre
 
-[interface_29:4]
+[interface_29:3]
 type=^iftype_text
 x=306
 y=168
 width=49
 height=32
-layer=interface_29:0
+layer=interface_29:17
 text="Stove"
+colour=0xfac864
+font=p11_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_29:4]
+type=^iftype_text
+x=315
+y=225
+width=37
+height=32
+layer=interface_29:17
+text="Air Pump"
 colour=0xfac864
 font=p11_full
 halign=^settextalign_centre
@@ -58,12 +65,12 @@ shadowed=yes
 
 [interface_29:5]
 type=^iftype_text
-x=315
-y=225
-width=37
-height=32
-layer=interface_29:0
-text="Air Pump"
+x=244
+y=228
+width=61
+height=33
+layer=interface_29:17
+text="Temp Gauge"
 colour=0xfac864
 font=p11_full
 halign=^settextalign_centre
@@ -72,12 +79,12 @@ shadowed=yes
 
 [interface_29:6]
 type=^iftype_text
-x=244
-y=228
-width=61
-height=33
-layer=interface_29:0
-text="Temp Gauge"
+x=188
+y=170
+width=55
+height=28
+layer=interface_29:17
+text="Furnace"
 colour=0xfac864
 font=p11_full
 halign=^settextalign_centre
@@ -86,12 +93,12 @@ shadowed=yes
 
 [interface_29:7]
 type=^iftype_text
-x=188
-y=170
-width=55
-height=28
-layer=interface_29:0
-text="Furnace"
+x=124
+y=167
+width=62
+height=35
+layer=interface_29:17
+text="Dispenser"
 colour=0xfac864
 font=p11_full
 halign=^settextalign_centre
@@ -100,12 +107,12 @@ shadowed=yes
 
 [interface_29:8]
 type=^iftype_text
-x=124
-y=167
-width=62
-height=35
-layer=interface_29:0
-text="Dispenser"
+x=181
+y=108
+width=65
+height=38
+layer=interface_29:17
+text="Conveyor<br>Belt"
 colour=0xfac864
 font=p11_full
 halign=^settextalign_centre
@@ -114,12 +121,12 @@ shadowed=yes
 
 [interface_29:9]
 type=^iftype_text
-x=181
-y=108
-width=65
-height=38
-layer=interface_29:0
-text="Conveyor<br>Belt"
+x=245
+y=114
+width=37
+height=29
+layer=interface_29:17
+text="Cogs"
 colour=0xfac864
 font=p11_full
 halign=^settextalign_centre
@@ -128,12 +135,12 @@ shadowed=yes
 
 [interface_29:10]
 type=^iftype_text
-x=245
-y=114
-width=37
-height=29
-layer=interface_29:0
-text="Cogs"
+x=194
+y=208
+width=44
+height=27
+layer=interface_29:17
+text="Pipes"
 colour=0xfac864
 font=p11_full
 halign=^settextalign_centre
@@ -142,25 +149,11 @@ shadowed=yes
 
 [interface_29:11]
 type=^iftype_text
-x=194
-y=208
-width=44
-height=27
-layer=interface_29:0
-text="Pipes"
-colour=0xfac864
-font=p11_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_29:12]
-type=^iftype_text
 x=350
 y=142
 width=41
 height=24
-layer=interface_29:0
+layer=interface_29:17
 text="Coke"
 colour=0xfac864
 font=p11_full
@@ -168,13 +161,26 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_29:13]
+[interface_29:12]
 type=^iftype_model
 x=301
 y=114
 width=32
 height=32
-layer=interface_29:0
+layer=interface_29:17
+model=model_9095
+xan=420
+yan=1
+zoom=1808
+anim=seq_2449
+
+[interface_29:13]
+type=^iftype_model
+x=362
+y=226
+width=32
+height=32
+layer=interface_29:17
 model=model_9095
 xan=420
 yan=1
@@ -183,11 +189,11 @@ anim=seq_2449
 
 [interface_29:14]
 type=^iftype_model
-x=362
-y=226
+x=258
+y=263
 width=32
 height=32
-layer=interface_29:0
+layer=interface_29:17
 model=model_9095
 xan=420
 yan=1
@@ -195,15 +201,26 @@ zoom=1808
 anim=seq_2449
 
 [interface_29:15]
-type=^iftype_model
-x=258
-y=263
-width=32
-height=32
-layer=interface_29:0
-model=model_9095
-xan=420
-yan=1
-zoom=1808
-anim=seq_2449
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+onload="script4741(1900560,1900561)"
+
+[interface_29:16]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_29:15
+
+[interface_29:17]
+type=^iftype_layer
+width=512
+height=334
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_29:16
 

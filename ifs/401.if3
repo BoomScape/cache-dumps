@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2530(26279937)"
+onload="script2530(26279937,26279938)"
 
 [interface_401:1]
 type=^iftype_layer

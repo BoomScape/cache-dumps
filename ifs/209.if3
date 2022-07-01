@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2548(13697025,13697026,13697029)"
+onload="script2548(13697025,13697028,13697026,13697029)"
 
 [interface_209:1]
 type=^iftype_layer
@@ -12,45 +12,39 @@ layer=interface_209:0
 
 [interface_209:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_209:1
-
-[interface_209:3]
-type=^iftype_layer
 width=512
 height=43
 hposmode=^setpos_abs_centre
-layer=interface_209:2
+layer=interface_209:1
 
-[interface_209:4]
+[interface_209:3]
 type=^iftype_text
 y=10
 height=21
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_209:3
+layer=interface_209:2
 text="Complete the Maze as fast as possible!"
 colour=0xeaeaea
 font=q8_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_209:5]
+[interface_209:4]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_209:0
 
-[interface_209:6]
+[interface_209:5]
 type=^iftype_layer
 width=351
 height=105
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_209:5
+layer=interface_209:4
 
-[interface_209:7]
+[interface_209:6]
 type=^iftype_layer
 x=5
 y=15
@@ -58,28 +52,28 @@ width=341
 height=77
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_209:6
+layer=interface_209:5
 
-[interface_209:8]
+[interface_209:7]
 type=^iftype_text
 x=122
 y=6
 width=146
 height=18
-layer=interface_209:7
+layer=interface_209:6
 text="There is..."
 colour=0xd1d1d1
 font=q8_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_209:9]
+[interface_209:8]
 type=^iftype_text
 x=225
 y=26
 width=63
 height=16
-layer=interface_209:7
+layer=interface_209:6
 colour=0x948000
 font=p12_full
 halign=^settextalign_centre
@@ -87,13 +81,13 @@ shadowed=yes
 onload="script956(event_com)"
 onvartransmit="script956(event_com){var_531}"
 
-[interface_209:10]
+[interface_209:9]
 type=^iftype_text
 x=120
 y=44
 width=219
 height=19
-layer=interface_209:7
+layer=interface_209:6
 text="... of the Reward left!"
 colour=0xd1d1d1
 font=q8_full

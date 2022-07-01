@@ -4,25 +4,17 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2077(event_com,34865153,34865154,34865155)"
+onload="script2077(34865153,34865154)"
 
 [interface_532:1]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_532:0
 
 [interface_532:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+width=200
+height=17
 layer=interface_532:1
-
-[interface_532:3]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_532:2
 

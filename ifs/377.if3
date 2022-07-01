@@ -12,53 +12,47 @@ layer=interface_377:0
 
 [interface_377:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_377:1
-
-[interface_377:3]
-type=^iftype_layer
 x=1
 y=1
 width=226
 height=66
 hposmode=^setpos_abs_right
-layer=interface_377:2
+layer=interface_377:1
 
-[interface_377:4]
+[interface_377:3]
 type=^iftype_model
 x=108
 y=14
 width=32
 height=32
 hposmode=^setpos_abs_right
-layer=interface_377:3
+layer=interface_377:2
 model=model_8854
 xan=247
 yan=2030
 zoom=400
 
-[interface_377:5]
+[interface_377:4]
 type=^iftype_model
 x=24
 y=19
 width=32
 height=32
 hposmode=^setpos_abs_right
-layer=interface_377:3
+layer=interface_377:2
 model=model_8855
 xan=236
 yan=2046
 zoom=537
 
-[interface_377:6]
+[interface_377:5]
 type=^iftype_text
 x=61
 y=19
 width=116
 height=12
 hposmode=^setpos_abs_right
-layer=interface_377:3
+layer=interface_377:2
 text="<col=00ff00>* <col=ffff00>Tai Bwo Favour <col=00ff00>*"
 colour=^yellow
 font=p11_full
@@ -66,14 +60,14 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_377:7]
+[interface_377:6]
 type=^iftype_text
 x=24
 y=19
 width=29
 height=12
 hposmode=^setpos_abs_right
-layer=interface_377:3
+layer=interface_377:2
 colour=^yellow
 font=p11_full
 shadowed=yes

@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2544(65537)"
+onload="script2544(65537,65538)"
 
 [interface_1:1]
 type=^iftype_layer
@@ -68,7 +68,6 @@ width=161
 height=329
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-hide=yes
 layer=interface_1:2
 
 [interface_1:8]
@@ -90,6 +89,7 @@ width=161
 height=333
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+hide=yes
 layer=interface_1:2
 
 [interface_1:10]

@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script334(event_com,26607621,26607617,26607633,26607619,26607620,26607622)"
+onload="script334(event_com,26607617,26607630,26607619,26607620)"
 
 [interface_406:1]
 type=^iftype_layer
@@ -36,91 +36,74 @@ layer=interface_406:1
 
 [interface_406:4]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_406:3
-
-[interface_406:5]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_406:4
-
-[interface_406:6]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_406:5
-
-[interface_406:7]
-type=^iftype_layer
+x=2
 width=117
 height=83
 hposmode=^setpos_abs_right
-layer=interface_406:6
+layer=interface_406:3
 
-[interface_406:8]
+[interface_406:5]
 type=^iftype_text
 y=5
 width=117
 height=20
-layer=interface_406:7
+layer=interface_406:4
 text="NPC Killcount"
+colour=0xff991f
+font=p11_full
+shadowed=yes
+
+[interface_406:6]
+type=^iftype_text
+y=25
+width=87
+height=15
+layer=interface_406:4
+text="Armadyl kills"
+colour=0xff991f
+font=p11_full
+shadowed=yes
+
+[interface_406:7]
+type=^iftype_text
+y=39
+width=87
+height=15
+layer=interface_406:4
+text="Bandos kills"
+colour=0xff991f
+font=p11_full
+shadowed=yes
+
+[interface_406:8]
+type=^iftype_text
+y=53
+width=87
+height=15
+layer=interface_406:4
+text="Saradomin kills"
 colour=0xff991f
 font=p11_full
 shadowed=yes
 
 [interface_406:9]
 type=^iftype_text
-y=25
+y=67
 width=87
 height=15
-layer=interface_406:7
-text="Armadyl kills"
+layer=interface_406:4
+text="Zamorak kills"
 colour=0xff991f
 font=p11_full
 shadowed=yes
 
 [interface_406:10]
 type=^iftype_text
-y=39
-width=87
-height=15
-layer=interface_406:7
-text="Bandos kills"
-colour=0xff991f
-font=p11_full
-shadowed=yes
-
-[interface_406:11]
-type=^iftype_text
-y=53
-width=87
-height=15
-layer=interface_406:7
-text="Saradomin kills"
-colour=0xff991f
-font=p11_full
-shadowed=yes
-
-[interface_406:12]
-type=^iftype_text
-y=67
-width=87
-height=15
-layer=interface_406:7
-text="Zamorak kills"
-colour=0xff991f
-font=p11_full
-shadowed=yes
-
-[interface_406:13]
-type=^iftype_text
 x=87
 y=25
 width=30
 height=15
-layer=interface_406:7
+layer=interface_406:4
 text="0"
 colour=0x66ffff
 font=p11_full
@@ -129,13 +112,13 @@ shadowed=yes
 onload="script337(event_com)"
 onvartransmit="script337(event_com){var_1048}"
 
-[interface_406:14]
+[interface_406:11]
 type=^iftype_text
 x=87
 y=39
 width=30
 height=15
-layer=interface_406:7
+layer=interface_406:4
 text="0"
 colour=0x66ffff
 font=p11_full
@@ -144,13 +127,13 @@ shadowed=yes
 onload="script338(event_com)"
 onvartransmit="script338(event_com){var_1069}"
 
-[interface_406:15]
+[interface_406:12]
 type=^iftype_text
 x=87
 y=53
 width=30
 height=15
-layer=interface_406:7
+layer=interface_406:4
 text="0"
 colour=0x66ffff
 font=p11_full
@@ -159,13 +142,13 @@ shadowed=yes
 onload="script339(event_com)"
 onvartransmit="script339(event_com){var_1048}"
 
-[interface_406:16]
+[interface_406:13]
 type=^iftype_text
 x=87
 y=67
 width=30
 height=15
-layer=interface_406:7
+layer=interface_406:4
 text="0"
 colour=0x66ffff
 font=p11_full
@@ -174,7 +157,7 @@ shadowed=yes
 onload="script340(event_com)"
 onvartransmit="script340(event_com){var_1069}"
 
-[interface_406:17]
+[interface_406:14]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre

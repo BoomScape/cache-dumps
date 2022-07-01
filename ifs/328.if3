@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1347(event_com,21495810,21495811,21495812,21495813,21495823)"
+onload="script1347(21495811,21495812,21495815)"
 
 [interface_328:1]
 type=^iftype_rectangle
@@ -30,33 +30,42 @@ layer=interface_328:2
 
 [interface_328:4]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+width=121
+height=68
+hposmode=^setpos_abs_right
 layer=interface_328:3
 
 [interface_328:5]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_328:4
-
-[interface_328:6]
 type=^iftype_layer
 x=4
 y=4
 width=113
 height=60
 hposmode=^setpos_abs_right
-layer=interface_328:5
+layer=interface_328:4
 
-[interface_328:7]
+[interface_328:6]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_328:6
+layer=interface_328:5
 colour=0x999999
 fill=yes
 trans=100
+
+[interface_328:7]
+type=^iftype_text
+x=2
+y=2
+width=69
+height=14
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_328:0
+colour=^white
+font=p11_full
+halign=^settextalign_centre
+shadowed=yes
 
 [interface_328:8]
 type=^iftype_rectangle
@@ -66,7 +75,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_328:6
+layer=interface_328:5
 colour=0x333300
 fill=yes
 trans=120
@@ -77,7 +86,7 @@ x=10
 y=10
 width=58
 height=12
-layer=interface_328:6
+layer=interface_328:5
 text="Survivors:"
 colour=^white
 font=p11_full
@@ -89,7 +98,7 @@ y=10
 width=46
 height=12
 hposmode=^setpos_abs_right
-layer=interface_328:6
+layer=interface_328:5
 colour=^white
 font=p11_full
 
@@ -99,7 +108,7 @@ x=10
 y=25
 width=27
 height=12
-layer=interface_328:6
+layer=interface_328:5
 text="Kills:"
 colour=^white
 font=p11_full
@@ -111,7 +120,7 @@ x=36
 y=25
 width=56
 height=12
-layer=interface_328:6
+layer=interface_328:5
 colour=^white
 font=p11_full
 shadowed=yes
@@ -122,7 +131,7 @@ x=10
 y=40
 width=23
 height=12
-layer=interface_328:6
+layer=interface_328:5
 text="Fog:"
 colour=^white
 font=p11_full
@@ -134,22 +143,8 @@ x=32
 y=40
 width=60
 height=12
-layer=interface_328:6
+layer=interface_328:5
 colour=^white
 font=p11_full
-shadowed=yes
-
-[interface_328:15]
-type=^iftype_text
-x=2
-y=2
-width=69
-height=14
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
-layer=interface_328:2
-colour=^white
-font=p11_full
-halign=^settextalign_centre
 shadowed=yes
 

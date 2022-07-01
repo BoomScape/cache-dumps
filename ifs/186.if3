@@ -12,34 +12,28 @@ layer=interface_186:0
 
 [interface_186:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_186:1
-
-[interface_186:3]
-type=^iftype_layer
 x=2
 y=2
 width=215
 height=43
-layer=interface_186:2
+layer=interface_186:1
 
-[interface_186:4]
+[interface_186:3]
 type=^iftype_rectangle
 width=215
 height=43
-layer=interface_186:3
+layer=interface_186:2
 colour=0x7f7fff
 fill=yes
 trans=200
 
-[interface_186:5]
+[interface_186:4]
 type=^iftype_text
 x=31
 width=182
 height=23
 vposmode=^setpos_abs_centre
-layer=interface_186:3
+layer=interface_186:2
 text="Watch the statue! Fish here!"
 colour=^yellow
 font=p12_full
@@ -47,14 +41,14 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_186:6]
+[interface_186:5]
 type=^iftype_graphic
 x=6
 y=-1
 width=26
 height=23
 vposmode=^setpos_abs_centre
-layer=interface_186:3
+layer=interface_186:2
 graphic="close_buttons,4"
 optionmask=2
 op1="Close"

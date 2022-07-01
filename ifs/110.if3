@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2380(event_com,7208962,7208963,7208964,7208972,7208973)"
+onload="script2380(event_com,7208962,7208965,7208972,7208973)"
 
 [interface_110:1]
 type=^iftype_rectangle

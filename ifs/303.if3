@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2099(event_com,19857410,19857411,19857412,19857413,19857415,19857429,19857414,19857418,19857420,19857428,19857422,19857423,19857419,19857416,19857417,19857421,19857426,19857427,19857424,19857425)"
+onload="script2099(event_com,19857410,19857411,19857412,19857415,19857417,19857425,19857419,19857420,19857416,19857413,19857414,19857418,19857423,19857424,19857421,19857422)"
 
 [interface_303:1]
 type=^iftype_layer
@@ -24,37 +24,21 @@ layer=interface_303:0
 
 [interface_303:3]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_303:2
+layer=interface_303:0
 
 [interface_303:4]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_303:3
-
-[interface_303:5]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_303:4
-
-[interface_303:6]
 type=^iftype_layer
 y=2
 width=300
 height=42
 hposmode=^setpos_abs_centre
-layer=interface_303:5
+layer=interface_303:3
 
-[interface_303:7]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_303:5
-
-[interface_303:8]
+[interface_303:5]
 type=^iftype_rectangle
 y=1
 width=2
@@ -62,11 +46,11 @@ height=2
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_303:6
+layer=interface_303:4
 colour=0x191511
 trans=255
 
-[interface_303:9]
+[interface_303:6]
 type=^iftype_graphic
 width=4
 height=4
@@ -74,19 +58,19 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_303:6
+layer=interface_303:4
 graphic="tradebacking_dark"
 tiling=yes
 trans=255
 
-[interface_303:10]
+[interface_303:7]
 type=^iftype_layer
 height=19
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_303:6
+layer=interface_303:4
 
-[interface_303:11]
+[interface_303:8]
 type=^iftype_text
 y=2
 width=16
@@ -95,7 +79,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_303:10
+layer=interface_303:7
 text="Zalcano"
 colour=0xff981f
 font=p11_full
@@ -103,7 +87,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_303:12]
+[interface_303:9]
 type=^iftype_layer
 y=3
 width=6
@@ -111,9 +95,9 @@ height=21
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_303:6
+layer=interface_303:4
 
-[interface_303:13]
+[interface_303:10]
 type=^iftype_rectangle
 width=2
 height=2
@@ -121,11 +105,11 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_303:12
+layer=interface_303:9
 colour=0x191511
 trans=255
 
-[interface_303:14]
+[interface_303:11]
 type=^iftype_rectangle
 width=4
 height=4
@@ -133,12 +117,12 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_303:12
+layer=interface_303:9
 colour=0xcc0000
 fill=yes
 trans=255
 
-[interface_303:15]
+[interface_303:12]
 type=^iftype_rectangle
 x=2
 width=4
@@ -146,24 +130,24 @@ height=4
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_303:12
+layer=interface_303:9
 colour=0xcc00
 fill=yes
 trans=255
 
-[interface_303:16]
+[interface_303:13]
 type=^iftype_rectangle
 x=1
 width=2
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_303:12
+layer=interface_303:9
 colour=0x191511
 fill=yes
 trans=255
 
-[interface_303:17]
+[interface_303:14]
 type=^iftype_rectangle
 x=1
 width=2
@@ -171,23 +155,23 @@ height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_303:12
+layer=interface_303:9
 colour=0x191511
 fill=yes
 trans=255
 
-[interface_303:18]
+[interface_303:15]
 type=^iftype_graphic
 width=3
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_303:12
+layer=interface_303:9
 graphic="hud_brackets,0"
 trans=255
 
-[interface_303:19]
+[interface_303:16]
 type=^iftype_graphic
 width=3
 height=4
@@ -195,11 +179,11 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_303:12
+layer=interface_303:9
 graphic="hud_brackets,1"
 trans=255
 
-[interface_303:20]
+[interface_303:17]
 type=^iftype_text
 y=1
 hposmode=^setpos_abs_centre
@@ -207,17 +191,11 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_303:12
+layer=interface_303:9
 text="- / -"
 colour=0xeaeaea
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
-
-[interface_303:21]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_303:7
 

@@ -14,45 +14,39 @@ layer=interface_235:0
 
 [interface_235:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+width=137
+height=109
 layer=interface_235:1
 
 [interface_235:3]
-type=^iftype_layer
-width=137
-height=109
-layer=interface_235:2
-
-[interface_235:4]
 type=^iftype_graphic
 x=5
 y=5
 width=36
 height=32
-layer=interface_235:3
+layer=interface_235:2
 outline=1
 shadow=3355443
-onload="script1199(event_com,15400965,15400967,15400976,13403)"
+onload="script1199(event_com,15400964,15400966,15400975,13403)"
 
-[interface_235:5]
+[interface_235:4]
 type=^iftype_layer
 x=45
 y=14
 width=80
 height=14
-layer=interface_235:3
+layer=interface_235:2
 
-[interface_235:6]
+[interface_235:5]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_235:5
+layer=interface_235:4
 fill=yes
 
-[interface_235:7]
+[interface_235:6]
 type=^iftype_layer
 width=4
 height=4
@@ -60,37 +54,37 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_235:5
+layer=interface_235:4
 
-[interface_235:8]
+[interface_235:7]
 type=^iftype_graphic
 x=5
 y=37
 width=36
 height=32
-layer=interface_235:3
+layer=interface_235:2
 outline=1
 shadow=3355443
-onload="script1199(event_com,15400969,15400971,15400976,13412)"
+onload="script1199(event_com,15400968,15400970,15400975,13412)"
 
-[interface_235:9]
+[interface_235:8]
 type=^iftype_layer
 x=45
 y=46
 width=80
 height=14
-layer=interface_235:3
+layer=interface_235:2
 
-[interface_235:10]
+[interface_235:9]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_235:9
+layer=interface_235:8
 fill=yes
 
-[interface_235:11]
+[interface_235:10]
 type=^iftype_layer
 width=4
 height=4
@@ -98,37 +92,37 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_235:9
+layer=interface_235:8
 
-[interface_235:12]
+[interface_235:11]
 type=^iftype_graphic
 x=5
 y=69
 width=36
 height=32
-layer=interface_235:3
+layer=interface_235:2
 outline=1
 shadow=3355443
-onload="script1199(event_com,15400973,15400975,15400976,13418)"
+onload="script1199(event_com,15400972,15400974,15400975,13418)"
 
-[interface_235:13]
+[interface_235:12]
 type=^iftype_layer
 x=45
 y=78
 width=80
 height=14
-layer=interface_235:3
+layer=interface_235:2
 
-[interface_235:14]
+[interface_235:13]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_235:13
+layer=interface_235:12
 fill=yes
 
-[interface_235:15]
+[interface_235:14]
 type=^iftype_layer
 width=4
 height=4
@@ -136,11 +130,11 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_235:13
+layer=interface_235:12
 
-[interface_235:16]
+[interface_235:15]
 type=^iftype_layer
 width=1
 height=1
-layer=interface_235:3
+layer=interface_235:2
 

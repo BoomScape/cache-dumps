@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2406(34078721)"
+onload="script2406(34078721,34078722)"
 
 [interface_520:1]
 type=^iftype_layer
@@ -21,9 +21,9 @@ layer=interface_520:1
 
 [interface_520:3]
 type=^iftype_layer
-x=63
+x=159
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -39,9 +39,9 @@ trans=10
 
 [interface_520:5]
 type=^iftype_layer
-x=101
+x=178
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -57,9 +57,9 @@ trans=10
 
 [interface_520:7]
 type=^iftype_layer
-x=139
+x=197
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -75,9 +75,9 @@ trans=10
 
 [interface_520:9]
 type=^iftype_layer
-x=177
+x=216
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -93,9 +93,9 @@ trans=10
 
 [interface_520:11]
 type=^iftype_layer
-x=215
+x=235
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -111,9 +111,9 @@ trans=10
 
 [interface_520:13]
 type=^iftype_layer
-x=253
+x=254
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -129,9 +129,9 @@ trans=10
 
 [interface_520:15]
 type=^iftype_layer
-x=291
+x=273
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -147,9 +147,9 @@ trans=10
 
 [interface_520:17]
 type=^iftype_layer
-x=329
+x=292
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -165,9 +165,9 @@ trans=10
 
 [interface_520:19]
 type=^iftype_layer
-x=367
+x=311
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -183,9 +183,9 @@ trans=10
 
 [interface_520:21]
 type=^iftype_layer
-x=405
+x=330
 y=15
-width=38
+width=19
 height=14
 hide=yes
 layer=interface_520:2
@@ -201,7 +201,7 @@ trans=10
 
 [interface_520:23]
 type=^iftype_rectangle
-x=61
+x=157
 y=15
 width=2
 height=14
@@ -212,9 +212,9 @@ trans=50
 
 [interface_520:24]
 type=^iftype_rectangle
-x=61
+x=157
 y=29
-width=384
+width=192
 height=2
 layer=interface_520:2
 colour=0x25393a
@@ -223,7 +223,7 @@ trans=50
 
 [interface_520:25]
 type=^iftype_rectangle
-x=443
+x=347
 y=15
 width=2
 height=14
@@ -234,9 +234,9 @@ trans=50
 
 [interface_520:26]
 type=^iftype_rectangle
-x=61
+x=157
 y=13
-width=384
+width=192
 height=2
 layer=interface_520:2
 colour=0x25393a
@@ -245,9 +245,9 @@ trans=50
 
 [interface_520:27]
 type=^iftype_text
-x=61
+x=157
 y=34
-width=384
+width=192
 height=25
 layer=interface_520:2
 text="Cyrisus's Courage"

@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1193(event_com,15794177,15794178,15794181,15794182,15794183)"
+onload="script1193(event_com,15794177,15794178,15794180,15794181,15794182)"
 
 [interface_241:1]
 type=^iftype_layer
@@ -14,40 +14,34 @@ layer=interface_241:0
 
 [interface_241:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_241:1
-
-[interface_241:3]
-type=^iftype_layer
 x=2
 y=2
 width=100
 height=54
 hposmode=^setpos_abs_right
-layer=interface_241:2
+layer=interface_241:1
 onload="script1191(event_com)"
 
-[interface_241:4]
+[interface_241:3]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_241:3
+layer=interface_241:2
 graphic="tradebacking"
 tiling=yes
 trans=100
 
-[interface_241:5]
+[interface_241:4]
 type=^iftype_model
 x=2
 width=40
 height=40
-layer=interface_241:3
+layer=interface_241:2
 zoom=400
 
-[interface_241:6]
+[interface_241:5]
 type=^iftype_text
 x=2
 width=44
@@ -55,21 +49,21 @@ height=14
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_241:3
+layer=interface_241:2
 colour=0xff981f
 font=quill_oblique_large
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_241:7]
+[interface_241:6]
 type=^iftype_text
 width=4
 height=15
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_241:3
+layer=interface_241:2
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre

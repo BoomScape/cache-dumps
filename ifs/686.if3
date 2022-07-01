@@ -14,27 +14,21 @@ layer=interface_686:0
 
 [interface_686:2]
 type=^iftype_layer
-width=200
-height=28
-layer=interface_686:1
-
-[interface_686:3]
-type=^iftype_layer
 y=2
 width=4
 height=24
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_686:2
+layer=interface_686:1
 
-[interface_686:4]
+[interface_686:3]
 type=^iftype_text
 x=20
 y=2
 width=24
 height=20
 hsizemode=^setsize_minus
-layer=interface_686:3
+layer=interface_686:2
 colour=0xfcfce7
 font=b12_full
 valign=^settextalign_centre

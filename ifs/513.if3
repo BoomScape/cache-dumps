@@ -4,17 +4,9 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1505(event_com,33619971,33619972,33619973,33619974,33619975,33619969)"
+onload="script1505(event_com,33619970,33619971)"
 
 [interface_513:1]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_513:0
-
-[interface_513:2]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -24,37 +16,17 @@ hide=yes
 layer=interface_513:0
 fill=yes
 
-[interface_513:3]
+[interface_513:2]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_513:0
 
-[interface_513:4]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_513:3
-
-[interface_513:5]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_513:4
-
-[interface_513:6]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_513:5
-
-[interface_513:7]
+[interface_513:3]
 type=^iftype_layer
 x=2
 y=2
 width=200
 height=50
-layer=interface_513:6
+layer=interface_513:2
 

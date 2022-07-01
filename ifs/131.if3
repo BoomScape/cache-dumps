@@ -4,6 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script2353(8585217,8585218)"
 
 [interface_131:1]
 type=^iftype_layer
@@ -13,13 +14,12 @@ layer=interface_131:0
 
 [interface_131:2]
 type=^iftype_text
-y=38
-height=20
+width=300
+height=30
 hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
 layer=interface_131:1
 colour=^white
 font=b12_full
 halign=^settextalign_centre
-onload="script2353(event_com,8585217)"
+valign=^settextalign_centre
 

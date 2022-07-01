@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2409(20643841)"
+onload="script2409(20643841,20643842)"
 
 [interface_315:1]
 type=^iftype_layer
@@ -21,9 +21,9 @@ layer=interface_315:1
 
 [interface_315:3]
 type=^iftype_layer
-x=63
+x=159
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -38,9 +38,9 @@ trans=10
 
 [interface_315:5]
 type=^iftype_layer
-x=101
+x=178
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -55,9 +55,9 @@ trans=10
 
 [interface_315:7]
 type=^iftype_layer
-x=139
+x=197
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -72,9 +72,9 @@ trans=10
 
 [interface_315:9]
 type=^iftype_layer
-x=177
+x=216
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -89,9 +89,9 @@ trans=10
 
 [interface_315:11]
 type=^iftype_layer
-x=215
+x=235
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -106,9 +106,9 @@ trans=10
 
 [interface_315:13]
 type=^iftype_layer
-x=253
+x=254
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -123,9 +123,9 @@ trans=10
 
 [interface_315:15]
 type=^iftype_layer
-x=291
+x=273
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -140,9 +140,9 @@ trans=10
 
 [interface_315:17]
 type=^iftype_layer
-x=329
+x=292
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -157,9 +157,9 @@ trans=10
 
 [interface_315:19]
 type=^iftype_layer
-x=367
+x=311
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -174,9 +174,9 @@ trans=10
 
 [interface_315:21]
 type=^iftype_layer
-x=405
+x=330
 y=15
-width=38
+width=19
 height=14
 layer=interface_315:2
 
@@ -191,7 +191,7 @@ trans=10
 
 [interface_315:23]
 type=^iftype_rectangle
-x=61
+x=157
 y=15
 width=2
 height=14
@@ -202,9 +202,9 @@ trans=50
 
 [interface_315:24]
 type=^iftype_rectangle
-x=61
+x=157
 y=29
-width=384
+width=192
 height=2
 layer=interface_315:2
 colour=0x757500
@@ -213,7 +213,7 @@ trans=50
 
 [interface_315:25]
 type=^iftype_rectangle
-x=443
+x=347
 y=15
 width=2
 height=14
@@ -224,9 +224,9 @@ trans=50
 
 [interface_315:26]
 type=^iftype_rectangle
-x=61
+x=157
 y=13
-width=384
+width=192
 height=2
 layer=interface_315:2
 colour=0x757500
@@ -235,9 +235,9 @@ trans=50
 
 [interface_315:27]
 type=^iftype_text
-x=61
+x=157
 y=34
-width=384
+width=192
 height=25
 layer=interface_315:2
 text="Rage level"

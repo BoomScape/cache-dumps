@@ -7,7 +7,6 @@ onload="script993(event_com,7995393,7995394,7995395,7995400,7995401,7995402,7995
 [interface_122:1]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_122:0

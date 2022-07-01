@@ -11,18 +11,12 @@ vsizemode=^setsize_minus
 layer=interface_13:0
 
 [interface_13:2]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_13:1
-
-[interface_13:3]
 type=^iftype_text
 x=4
 y=4
 width=400
 height=20
-layer=interface_13:2
+layer=interface_13:1
 colour=^yellow
 font=b12_full
 shadowed=yes

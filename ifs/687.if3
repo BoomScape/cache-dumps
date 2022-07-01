@@ -2,7 +2,7 @@
 type=^iftype_layer
 width=512
 height=334
-onload="script4116(45023233,45023239,45023234)"
+onload="script4116(45023233,45023237)"
 
 [interface_687:1]
 type=^iftype_layer
@@ -11,37 +11,24 @@ height=334
 layer=interface_687:0
 
 [interface_687:2]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_687:7
-
-[interface_687:3]
-type=^iftype_layer
-width=129
-height=80
-layer=interface_687:2
-onload="script991(event_com,-1)"
-
-[interface_687:4]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_687:3
+layer=interface_687:5
 graphic="tradebacking"
 tiling=yes
 trans=80
 
-[interface_687:5]
+[interface_687:3]
 type=^iftype_text
 y=6
 width=10
 height=32
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_687:3
+layer=interface_687:5
 text="Players Ready<br>none"
 colour=0xff981f
 font=p12_full
@@ -49,14 +36,14 @@ halign=^settextalign_centre
 paraheight=16
 shadowed=yes
 
-[interface_687:6]
+[interface_687:4]
 type=^iftype_text
 y=41
 width=10
 height=32
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_687:3
+layer=interface_687:5
 text="Next Departure<br>Awaiting players"
 colour=0xff981f
 font=p12_full
@@ -64,9 +51,10 @@ halign=^settextalign_centre
 paraheight=16
 shadowed=yes
 
-[interface_687:7]
+[interface_687:5]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+width=129
+height=80
 layer=interface_687:1
+onload="script991(event_com,-1)"
 

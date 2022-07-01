@@ -14,45 +14,39 @@ layer=interface_434:0
 
 [interface_434:2]
 type=^iftype_layer
-width=133
-height=86
-layer=interface_434:1
-
-[interface_434:3]
-type=^iftype_layer
 x=2
 y=2
 width=129
 height=82
-layer=interface_434:2
+layer=interface_434:1
 onload="script991(event_com,-1)"
 
-[interface_434:4]
+[interface_434:3]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_434:3
+layer=interface_434:2
 graphic="tradebacking"
 tiling=yes
 trans=80
 
-[interface_434:5]
+[interface_434:4]
 type=^iftype_layer
 y=7
 width=4
 height=33
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_434:3
+layer=interface_434:2
 
-[interface_434:6]
+[interface_434:5]
 type=^iftype_text
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_434:5
+layer=interface_434:4
 text="Players Waiting"
 colour=0xffa53d
 font=p12_full
@@ -60,13 +54,13 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_434:7]
+[interface_434:6]
 type=^iftype_text
 height=16
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_434:5
+layer=interface_434:4
 text="0"
 colour=0xffa53d
 font=p12_full
@@ -74,7 +68,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_434:8]
+[interface_434:7]
 type=^iftype_layer
 y=6
 width=4
@@ -82,14 +76,14 @@ height=33
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_434:3
+layer=interface_434:2
 
-[interface_434:9]
+[interface_434:8]
 type=^iftype_text
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_434:8
+layer=interface_434:7
 text="Next Game Start"
 colour=0xffa53d
 font=p12_full
@@ -97,13 +91,13 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_434:10]
+[interface_434:9]
 type=^iftype_text
 height=16
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_434:8
+layer=interface_434:7
 text="-"
 colour=0xffa53d
 font=p12_full

@@ -12,96 +12,90 @@ layer=interface_281:0
 
 [interface_281:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_281:1
-
-[interface_281:3]
-type=^iftype_layer
 width=206
 height=108
 hposmode=^setpos_abs_right
-layer=interface_281:2
+layer=interface_281:1
 
-[interface_281:4]
+[interface_281:3]
 type=^iftype_text
 x=56
 y=16
 width=109
 height=17
 hposmode=^setpos_abs_right
-layer=interface_281:3
+layer=interface_281:2
 colour=0xff981f
 font=q8_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_281:5]
+[interface_281:4]
 type=^iftype_text
 x=56
 y=66
 width=110
 height=18
 hposmode=^setpos_abs_right
-layer=interface_281:3
+layer=interface_281:2
 colour=0xff981f
 font=q8_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_281:6]
+[interface_281:5]
 type=^iftype_model
 x=10
 y=16
 width=32
 height=32
 hposmode=^setpos_abs_right
-layer=interface_281:3
+layer=interface_281:2
 model=gertrudes_cat_6435
 xan=10
 yan=37
 zoom=1165
 
-[interface_281:7]
+[interface_281:6]
 type=^iftype_model
 x=10
 y=64
 width=32
 height=32
 hposmode=^setpos_abs_right
-layer=interface_281:3
+layer=interface_281:2
 model=beite_6438
 xan=32
 yan=56
 zoom=1165
 
-[interface_281:8]
+[interface_281:7]
 type=^iftype_text
 x=50
 y=35
 width=14
 height=14
 hposmode=^setpos_abs_right
-layer=interface_281:3
+layer=interface_281:2
 text="10"
 colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_281:9]
+[interface_281:8]
 type=^iftype_text
 x=50
 y=83
 width=14
 height=14
 hposmode=^setpos_abs_right
-layer=interface_281:3
+layer=interface_281:2
 text="10"
 colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_281:10]
+[interface_281:9]
 type=^iftype_layer
 width=268
 height=121
@@ -110,35 +104,35 @@ vposmode=^setpos_abs_centre
 hide=yes
 layer=interface_281:0
 
-[interface_281:11]
+[interface_281:10]
 type=^iftype_model
 width=32
 height=32
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_281:10
+layer=interface_281:9
 model=model_10119
 xan=512
 zoom=576
 
-[interface_281:12]
+[interface_281:11]
 type=^iftype_text
 y=39
 width=124
 height=17
 hposmode=^setpos_abs_centre
-layer=interface_281:10
+layer=interface_281:9
 text="Your cat has been"
 font=q8_full
 halign=^settextalign_centre
 
-[interface_281:13]
+[interface_281:12]
 type=^iftype_text
 y=60
 width=59
 height=17
 hposmode=^setpos_abs_centre
-layer=interface_281:10
+layer=interface_281:9
 text="Defeated"
 font=q8_full
 

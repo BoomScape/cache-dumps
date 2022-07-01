@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script593(event_com,5767169,5767170,5767172,5767173,5767171,5767174)"
+onload="script593(event_com,5767169,5767171,5767170,5767172)"
 
 [interface_88:1]
 type=^iftype_layer
@@ -14,36 +14,24 @@ layer=interface_88:0
 
 [interface_88:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_88:1
-
-[interface_88:3]
-type=^iftype_layer
 x=3
 y=3
 width=100
 height=100
 hposmode=^setpos_abs_right
-layer=interface_88:2
+layer=interface_88:1
 
-[interface_88:4]
+[interface_88:3]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_88:0
 
-[interface_88:5]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_88:4
-
-[interface_88:6]
+[interface_88:4]
 type=^iftype_layer
 y=3
 width=80
 height=50
 hposmode=^setpos_abs_centre
-layer=interface_88:5
+layer=interface_88:3
 

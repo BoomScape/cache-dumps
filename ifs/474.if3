@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1422(event_com,31064065,31064066,31064067)"
+onload="script1422(event_com,31064065,31064066)"
 
 [interface_474:1]
 type=^iftype_layer
@@ -16,26 +16,20 @@ layer=interface_474:0
 
 [interface_474:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_474:1
-
-[interface_474:3]
-type=^iftype_layer
 x=2
 y=2
 width=94
 height=58
 hposmode=^setpos_abs_right
-layer=interface_474:2
+layer=interface_474:1
 
-[interface_474:4]
+[interface_474:3]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_474:3
+layer=interface_474:2
 graphic="tradebacking_light"
 tiling=yes
 
