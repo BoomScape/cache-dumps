@@ -152999,147 +152999,257 @@ placeholder=yes
 [cert_magic_imp_box_pack_12745]
 certificate=yes
 
-[mysterious_emblem_12746]
-name=Mysterious emblem
-model=mysterious_emblem_3677
+[archaic_emblem_tier_1_12746]
+name=Archaic emblem (tier 1)
+model=archaic_emblem_tier_1_3677
 cost=50000
 2dzoom=1221
 2dxof=1
 2dyof=-1
 2dyan=2047
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=12
+recol2d=5281
+recol3s=-22244
+recol3d=5281
+recol4s=-24170
+recol4d=5281
+recol5s=-22260
+recol5d=12
+recol6s=24
+recol6d=5157
 members=yes
 ambient=15
 contrast=5
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_mysterious_emblem_12747]
-certificate=yes
-
-[mysterious_emblem_tier_2_12748]
-name=Mysterious emblem (tier 2)
-model=mysterious_emblem_tier_2_3680
-cost=50001
-2dzoom=1032
+[archaic_emblem_tier_1_12747]
+name=Archaic emblem (tier 1)
+model=archaic_emblem_tier_1_3677
+cost=50000
+2dzoom=1221
 2dxof=1
+2dyof=-1
+2dyan=2047
+iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=12
+recol2d=5281
+recol3s=-22244
+recol3d=5281
+recol4s=-24170
+recol4d=5281
+recol5s=-22260
+recol5d=12
+recol6s=24
+recol6d=5157
+members=yes
+ambient=15
+contrast=5
+stackable=yes
+
+[archaic_emblem_tier_2_12748]
+name=Archaic emblem (tier 2)
+model=archaic_emblem_tier_2_3680
+cost=50001
+2dzoom=1050
 2dyof=-1
 2dyan=1912
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=12
+recol2d=5281
+recol3s=-22244
+recol3d=5281
+recol4s=-24170
+recol4d=5281
+recol5s=24
+recol5d=5157
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_3_12749]
-name=Mysterious emblem (tier 3)
-model=mysterious_emblem_tier_3_5446
+[archaic_emblem_tier_3_12749]
+name=Archaic emblem (tier 3)
+model=archaic_emblem_tier_3_5446
 cost=50002
-2dzoom=968
-2dyof=-4
+2dzoom=1050
+2dyof=-3
 2dyan=1926
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=12
+recol2d=5281
+recol3s=20
+recol3d=5281
+recol4s=-24170
+recol4d=5281
+recol5s=-21630
+recol5d=5276
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_4_12750]
-name=Mysterious emblem (tier 4)
-model=mysterious_emblem_tier_4_3676
+[archaic_emblem_tier_4_12750]
+name=Archaic emblem (tier 4)
+model=archaic_emblem_tier_4_3676
 cost=50003
-2dzoom=1032
-2dyof=-4
-2dyan=202
+2dzoom=1060
+2dyof=-3
+2dyan=135
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=12
+recol2d=5281
+recol3s=20
+recol3d=5281
+recol4s=-24170
+recol4d=5281
+recol5s=-21630
+recol5d=5276
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_5_12751]
-name=Mysterious emblem (tier 5)
-model=mysterious_emblem_tier_5_5448
+[archaic_emblem_tier_5_12751]
+name=Archaic emblem (tier 5)
+model=archaic_emblem_tier_5_5448
 cost=50004
 2dzoom=1221
 2dyof=-1
-2dxan=13
-2dyan=54
+2dyan=27
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=20
+recol2d=5281
+recol3s=-24170
+recol3d=5281
+recol4s=-21630
+recol4d=5276
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_6_12752]
-name=Mysterious emblem (tier 6)
-model=mysterious_emblem_tier_6_5447
+[archaic_emblem_tier_6_12752]
+name=Archaic emblem (tier 6)
+model=archaic_emblem_tier_6_5447
 cost=50005
-2dzoom=1221
+2dzoom=1250
 2dxof=-1
-2dyof=-1
-2dyan=202
+2dyof=-3
+2dyan=121
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=20
+recol2d=5281
+recol3s=-24170
+recol3d=5281
+recol4s=-21630
+recol4d=5276
+recol5s=8
+recol5d=5276
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_7_12753]
-name=Mysterious emblem (tier 7)
-model=mysterious_emblem_tier_7_3678
+[archaic_emblem_tier_7_12753]
+name=Archaic emblem (tier 7)
+model=archaic_emblem_tier_7_3678
 cost=50006
-2dzoom=1221
-2dxof=-4
-2dyof=-5
+2dzoom=1347
+2dxof=-1
+2dyof=-8
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=20
+recol2d=5281
+recol3s=-24170
+recol3d=5281
+recol4s=-21630
+recol4d=5276
+recol5s=8
+recol5d=5276
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_8_12754]
-name=Mysterious emblem (tier 8)
-model=mysterious_emblem_tier_8_5444
+[archaic_emblem_tier_8_12754]
+name=Archaic emblem (tier 8)
+model=archaic_emblem_tier_8_5444
 cost=50007
-2dzoom=1411
-2dxof=-5
+2dzoom=1420
+2dxof=-1
 2dyof=-4
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=20
+recol2d=5281
+recol3s=-24170
+recol3d=5281
+recol4s=-21630
+recol4d=5276
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_9_12755]
-name=Mysterious emblem (tier 9)
-model=mysterious_emblem_tier_9_3679
+[archaic_emblem_tier_9_12755]
+name=Archaic emblem (tier 9)
+model=archaic_emblem_tier_9_3679
 cost=50008
-2dzoom=1284
+2dzoom=1474
 2dyof=-1
-2dxan=135
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=20
+recol2d=5281
+recol3s=-24170
+recol3d=5281
+recol4s=-21630
+recol4d=5276
 members=yes
 ambient=15
 contrast=5
 placeholder=yes
 
-[mysterious_emblem_tier_10_12756]
-name=Mysterious emblem (tier 10)
-model=mysterious_emblem_tier_10_5445
+[archaic_emblem_tier_10_12756]
+name=Archaic emblem (tier 10)
+model=archaic_emblem_tier_10_5445
 cost=50009
-2dzoom=1600
-2dxof=3
-2dyof=-9
-2dxan=121
-2dyan=108
+2dzoom=1537
+2dxof=1
+2dyof=-3
 iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=20
+recol2d=5281
+recol3s=-24170
+recol3d=5281
+recol4s=-21630
+recol4d=5276
+recol5s=8
+recol5d=5276
 members=yes
 ambient=15
 contrast=5
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
 [blue_dark_bow_paint_12757]
@@ -168815,34 +168925,34 @@ placeholder=yes
 [placeholder_sawdust_15057]
 placeholder=yes
 
-[placeholder_mysterious_emblem_15058]
+[placeholder_archaic_emblem_tier_1_15058]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_2_15059]
+[placeholder_archaic_emblem_tier_2_15059]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_3_15060]
+[placeholder_archaic_emblem_tier_3_15060]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_4_15061]
+[placeholder_archaic_emblem_tier_4_15061]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_5_15062]
+[placeholder_archaic_emblem_tier_5_15062]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_6_15063]
+[placeholder_archaic_emblem_tier_6_15063]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_7_15064]
+[placeholder_archaic_emblem_tier_7_15064]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_8_15065]
+[placeholder_archaic_emblem_tier_8_15065]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_9_15066]
+[placeholder_archaic_emblem_tier_9_15066]
 placeholder=yes
 
-[placeholder_mysterious_emblem_tier_10_15067]
+[placeholder_archaic_emblem_tier_10_15067]
 placeholder=yes
 
 [placeholder_blue_dark_bow_paint_15068]
@@ -222167,8 +222277,28 @@ iop2=Equip
 recol1s=22439
 recol1d=22451
 
-[cert_mysterious_emblem_tier_10_23487]
-certificate=yes
+[archaic_emblem_tier_10_23487]
+name=Archaic emblem (tier 10)
+model=archaic_emblem_tier_10_5445
+cost=50009
+2dzoom=1537
+2dxof=1
+2dyof=-3
+iop5=Destroy
+recol1s=0
+recol1d=5276
+recol2s=20
+recol2d=5281
+recol3s=-24170
+recol3d=5281
+recol4s=-21630
+recol4d=5276
+recol5s=8
+recol5d=5276
+members=yes
+ambient=15
+contrast=5
+stackable=yes
 
 [placeholder_strange_device_23488]
 placeholder=yes
@@ -230412,4 +230542,98 @@ recol2s=908
 recol2d=6028
 recol3s=910
 recol3d=5006
+
+[mysterious_emblem_tier_1_24277]
+name=Mysterious emblem (tier 1)
+model=archaic_emblem_tier_1_3677
+cost=7500
+2dzoom=1221
+2dxof=1
+2dyof=-1
+2dyan=2047
+iop5=Destroy
+members=yes
+ambient=15
+contrast=5
+placeholder=yes
+
+[placeholder_mysterious_emblem_tier_1_24278]
+placeholder=yes
+
+[mysterious_emblem_tier_2_24279]
+name=Mysterious emblem (tier 2)
+model=archaic_emblem_tier_3_5446
+cost=15000
+2dzoom=1221
+2dyof=-4
+iop5=Destroy
+members=yes
+ambient=15
+contrast=5
+placeholder=yes
+
+[placeholder_mysterious_emblem_tier_2_24280]
+placeholder=yes
+
+[mysterious_emblem_tier_3_24281]
+name=Mysterious emblem (tier 3)
+model=archaic_emblem_tier_5_5448
+cost=30000
+2dzoom=1221
+2dyof=-1
+2dxan=13
+2dyan=54
+iop5=Destroy
+members=yes
+ambient=15
+contrast=5
+placeholder=yes
+
+[placeholder_mysterious_emblem_tier_3_24282]
+placeholder=yes
+
+[mysterious_emblem_tier_4_24283]
+name=Mysterious emblem (tier 4)
+model=archaic_emblem_tier_7_3678
+cost=60000
+2dzoom=1221
+2dxof=-4
+2dyof=-5
+iop5=Destroy
+members=yes
+ambient=15
+contrast=5
+placeholder=yes
+
+[placeholder_mysterious_emblem_tier_4_24284]
+placeholder=yes
+
+[mysterious_emblem_tier_5_24285]
+name=Mysterious emblem (tier 5)
+model=archaic_emblem_tier_9_3679
+cost=120000
+2dzoom=1284
+2dyof=-1
+2dxan=135
+iop5=Destroy
+members=yes
+ambient=15
+contrast=5
+placeholder=yes
+
+[placeholder_mysterious_emblem_tier_5_24286]
+placeholder=yes
+
+[decorative_emblem_24287]
+name=Decorative emblem
+model=archaic_emblem_tier_10_5445
+cost=50009
+2dzoom=1600
+2dxof=3
+2dyof=-9
+2dxan=121
+2dyan=108
+members=yes
+ambient=15
+contrast=5
 

@@ -618,7 +618,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:68]
