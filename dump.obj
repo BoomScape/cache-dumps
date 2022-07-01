@@ -38329,7 +38329,8 @@ param=spell_name_601,Entangle
 param=spell_desc_602,Holds your opponent for 15 seconds
 param=spell_spellbook_336,0
 param=spell_type_605,0
-param=spell_membersonly_603,no
+param=spell_membersonly_603,yes
+param=param_1228,yes
 param=spell_levelreq_604,79
 param=spell_button_596,interface_218:63
 param=spell_graphic1_on_597,"magicon2,2"
@@ -95760,6 +95761,7 @@ category=category_482
 iop1=Break
 iop2=Inside
 iop3=Outside
+iop4=Group
 members=yes
 stockmarket=yes
 stackable=yes
@@ -219000,9 +219002,9 @@ category=category_1
 iop2=Wield
 members=yes
 
-[verziks_crystal_shard_22517]
-name=Verzik's crystal shard
-model=verziks_crystal_shard_11047
+[escape_crystal_22517]
+name=Escape crystal
+model=escape_crystal_11047
 cost=100000
 2dzoom=1474
 2dyan=94
@@ -219012,7 +219014,7 @@ members=yes
 stackable=yes
 placeholder=yes
 
-[placeholder_verziks_crystal_shard_22518]
+[placeholder_escape_crystal_22518]
 placeholder=yes
 
 [cabbage_22519]
@@ -241240,7 +241242,7 @@ recol3d=5006
 
 [hallowed_crystal_shard_24709]
 name=Hallowed crystal shard
-model=verziks_crystal_shard_11047
+model=escape_crystal_11047
 2dzoom=1474
 2dyan=94
 iop1=Activate
@@ -255031,7 +255033,7 @@ members=yes
 
 [corrupted_escape_crystal_25959]
 name=Corrupted escape crystal
-model=verziks_crystal_shard_11047
+model=escape_crystal_11047
 category=category_1577
 2dzoom=1474
 2dyan=94
@@ -255056,7 +255058,7 @@ members=yes
 
 [escape_crystal_25961]
 name=Escape crystal
-model=verziks_crystal_shard_11047
+model=escape_crystal_11047
 category=category_1577
 2dzoom=1474
 2dyan=94

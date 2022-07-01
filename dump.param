@@ -1910,8 +1910,16 @@ default=null
 [param_1288]
 type=boolean
 
+[param_1289]
+type=int
+default=null
+
 [param_1290]
 type=boolean
+
+[param_1291]
+type=obj
+default=null
 
 [param_1292]
 type=boolean
@@ -2505,4 +2513,15 @@ type=int
 
 [param_1545]
 type=boolean
+
+[param_1546]
+type=string
+default=
+
+[param_1547]
+type=int
+
+[param_1548]
+type=graphic
+default=null
 

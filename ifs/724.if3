@@ -12,7 +12,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_724:0
-onload="script5264(event_com,47448066,47448068,47448071,47448073,47448078,47448074,47448075,47448085,47448087,47448091,47448093,47448097,47448099,47448101,47448103,47448105,47448107,47448096,47448067,47448072)"
+onload="script5264(event_com,47448066,47448068,47448071,47448073,47448076,47448080,47448074,47448075,47448087,47448089,47448093,47448095,47448099,47448101,47448103,47448105,47448107,47448109,47448098,47448067,47448072)"
 
 [interface_724:2]
 type=^iftype_layer
@@ -115,6 +115,31 @@ layer=interface_724:1
 [interface_724:12]
 type=^iftype_graphic
 x=13
+y=214
+width=36
+height=36
+vposmode=^setpos_abs_bottom
+layer=interface_724:1
+graphic="miscgraphics,0"
+optionmask=2
+op1="Storage Unlocks"
+onmouseover="script273(47448077,75)"
+onmouseleave="script273(47448077,0)"
+
+[interface_724:13]
+type=^iftype_graphic
+x=16
+y=222
+width=29
+height=22
+vposmode=^setpos_abs_bottom
+layer=interface_724:1
+graphic="bankbuttons,7"
+shadow=3355443
+
+[interface_724:14]
+type=^iftype_graphic
+x=13
 y=164
 width=36
 height=36
@@ -123,11 +148,11 @@ layer=interface_724:1
 graphic="miscgraphics,0"
 optionmask=2
 op1="Shuffle items up"
-onmouseover="script273(47448077,75)"
-onmouseleave="script273(47448077,0)"
+onmouseover="script273(47448079,75)"
+onmouseleave="script273(47448079,0)"
 onop="script292(event_com,179,170,event_opindex)"
 
-[interface_724:13]
+[interface_724:15]
 type=^iftype_graphic
 x=16
 y=172
@@ -138,7 +163,7 @@ layer=interface_724:1
 graphic="bankbuttons,10"
 shadow=3355443
 
-[interface_724:14]
+[interface_724:16]
 type=^iftype_graphic
 x=13
 y=114
@@ -149,10 +174,10 @@ layer=interface_724:1
 graphic="miscgraphics,0"
 optionmask=2
 op1="Search"
-onmouseover="script273(47448079,75)"
-onmouseleave="script273(47448079,0)"
+onmouseover="script273(47448081,75)"
+onmouseleave="script273(47448081,0)"
 
-[interface_724:15]
+[interface_724:17]
 type=^iftype_graphic
 x=16
 y=122
@@ -163,7 +188,7 @@ layer=interface_724:1
 graphic="bankbuttons,2"
 shadow=3355443
 
-[interface_724:16]
+[interface_724:18]
 type=^iftype_graphic
 x=13
 y=64
@@ -174,11 +199,11 @@ layer=interface_724:1
 graphic="miscgraphics,0"
 optionmask=2
 op1="Deposit inventory"
-onmouseover="script273(47448081,75)"
-onmouseleave="script273(47448081,0)"
+onmouseover="script273(47448083,75)"
+onmouseleave="script273(47448083,0)"
 onop="script292(event_com,179,170,event_opindex)"
 
-[interface_724:17]
+[interface_724:19]
 type=^iftype_graphic
 x=15
 y=71
@@ -189,7 +214,7 @@ layer=interface_724:1
 graphic="bankbuttons,0"
 shadow=3355443
 
-[interface_724:18]
+[interface_724:20]
 type=^iftype_layer
 y=10
 width=20
@@ -199,46 +224,20 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_724:1
 
-[interface_724:19]
+[interface_724:21]
 type=^iftype_layer
 width=105
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_724:18
+layer=interface_724:20
 
-[interface_724:20]
+[interface_724:22]
 type=^iftype_text
 height=15
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_724:19
+layer=interface_724:21
 text="Rearrange mode:"
-colour=0xff981f
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_724:21]
-type=^iftype_layer
-width=50
-height=15
-vposmode=^setpos_abs_bottom
-vsizemode=^setsize_minus
-layer=interface_724:19
-optionmask=2
-op1="Swap"
-onmouseover="script45(47448086,16777215)"
-onmouseleave="script45(47448086,16750623)"
-
-[interface_724:22]
-type=^iftype_text
-width=50
-height=15
-vposmode=^setpos_abs_bottom
-vsizemode=^setsize_minus
-layer=interface_724:19
-text="Swap"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -249,12 +248,11 @@ shadowed=yes
 type=^iftype_layer
 width=50
 height=15
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:19
+layer=interface_724:21
 optionmask=2
-op1="Insert"
+op1="Swap"
 onmouseover="script45(47448088,16777215)"
 onmouseleave="script45(47448088,16750623)"
 
@@ -262,11 +260,10 @@ onmouseleave="script45(47448088,16750623)"
 type=^iftype_text
 width=50
 height=15
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:19
-text="Insert"
+layer=interface_724:21
+text="Swap"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -275,19 +272,26 @@ shadowed=yes
 
 [interface_724:25]
 type=^iftype_layer
-x=110
-width=85
-vposmode=^setpos_abs_centre
+width=50
+height=15
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:18
+layer=interface_724:21
+optionmask=2
+op1="Insert"
+onmouseover="script45(47448090,16777215)"
+onmouseleave="script45(47448090,16750623)"
 
 [interface_724:26]
 type=^iftype_text
+width=50
 height=15
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_724:25
-text="Withdraw as:"
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
+layer=interface_724:21
+text="Insert"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -296,24 +300,19 @@ shadowed=yes
 
 [interface_724:27]
 type=^iftype_layer
-width=40
-height=15
-vposmode=^setpos_abs_bottom
+x=110
+width=85
+vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_724:25
-optionmask=2
-op1="Item"
-onmouseover="script45(47448092,16777215)"
-onmouseleave="script45(47448092,16750623)"
+layer=interface_724:20
 
 [interface_724:28]
 type=^iftype_text
-width=40
 height=15
-vposmode=^setpos_abs_bottom
-vsizemode=^setsize_minus
-layer=interface_724:25
-text="Item"
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_724:27
+text="Withdraw as:"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -324,12 +323,11 @@ shadowed=yes
 type=^iftype_layer
 width=40
 height=15
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:25
+layer=interface_724:27
 optionmask=2
-op1="Note"
+op1="Item"
 onmouseover="script45(47448094,16777215)"
 onmouseleave="script45(47448094,16750623)"
 
@@ -337,11 +335,10 @@ onmouseleave="script45(47448094,16750623)"
 type=^iftype_text
 width=40
 height=15
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:25
-text="Note"
+layer=interface_724:27
+text="Item"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -349,12 +346,40 @@ valign=^settextalign_centre
 shadowed=yes
 
 [interface_724:31]
+type=^iftype_layer
+width=40
+height=15
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
+layer=interface_724:27
+optionmask=2
+op1="Note"
+onmouseover="script45(47448096,16777215)"
+onmouseleave="script45(47448096,16750623)"
+
+[interface_724:32]
+type=^iftype_text
+width=40
+height=15
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
+layer=interface_724:27
+text="Note"
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_724:33]
 type=^iftype_text
 x=195
 width=340
 height=15
 hsizemode=^setsize_minus
-layer=interface_724:18
+layer=interface_724:20
 text="Save your changes"
 colour=^white
 font=p11_full
@@ -362,58 +387,32 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_724:32]
+[interface_724:34]
 type=^iftype_layer
 x=209
 width=100
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:18
+layer=interface_724:20
 optionmask=2
 op1="Save"
 
-[interface_724:33]
+[interface_724:35]
 type=^iftype_layer
 width=145
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_724:18
+layer=interface_724:20
 
-[interface_724:34]
+[interface_724:36]
 type=^iftype_text
 height=15
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_724:33
+layer=interface_724:35
 text="Quantity:"
-colour=0xff981f
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_724:35]
-type=^iftype_layer
-width=25
-height=15
-vposmode=^setpos_abs_bottom
-vsizemode=^setsize_minus
-layer=interface_724:33
-optionmask=2
-op1="Default quantity: 1"
-onmouseover="script45(47448100,16777215)"
-onmouseleave="script45(47448100,16750623)"
-
-[interface_724:36]
-type=^iftype_text
-width=25
-height=15
-vposmode=^setpos_abs_bottom
-vsizemode=^setsize_minus
-layer=interface_724:33
-text="1"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -422,26 +421,24 @@ shadowed=yes
 
 [interface_724:37]
 type=^iftype_layer
-x=30
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
+layer=interface_724:35
 optionmask=2
-op1="Default quantity: 5"
+op1="Default quantity: 1"
 onmouseover="script45(47448102,16777215)"
 onmouseleave="script45(47448102,16750623)"
 
 [interface_724:38]
 type=^iftype_text
-x=30
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
-text="5"
+layer=interface_724:35
+text="1"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -450,26 +447,26 @@ shadowed=yes
 
 [interface_724:39]
 type=^iftype_layer
+x=30
 width=25
 height=15
-hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
+layer=interface_724:35
 optionmask=2
-op1="Default quantity: 10"
+op1="Default quantity: 5"
 onmouseover="script45(47448104,16777215)"
 onmouseleave="script45(47448104,16750623)"
 
 [interface_724:40]
 type=^iftype_text
+x=30
 width=25
 height=15
-hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
-text="10"
+layer=interface_724:35
+text="5"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -478,29 +475,26 @@ shadowed=yes
 
 [interface_724:41]
 type=^iftype_layer
-x=30
 width=25
 height=15
-hposmode=^setpos_abs_right
+hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
-optionmask=6
-op1="*"
-op2="Set custom quantity"
+layer=interface_724:35
+optionmask=2
+op1="Default quantity: 10"
 onmouseover="script45(47448106,16777215)"
 onmouseleave="script45(47448106,16750623)"
 
 [interface_724:42]
 type=^iftype_text
-x=30
 width=25
 height=15
-hposmode=^setpos_abs_right
+hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
-text="X"
+layer=interface_724:35
+text="10"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -509,26 +503,29 @@ shadowed=yes
 
 [interface_724:43]
 type=^iftype_layer
+x=30
 width=25
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
-optionmask=2
-op1="Default quantity: All"
+layer=interface_724:35
+optionmask=6
+op1="*"
+op2="Set custom quantity"
 onmouseover="script45(47448108,16777215)"
 onmouseleave="script45(47448108,16750623)"
 
 [interface_724:44]
 type=^iftype_text
+x=30
 width=25
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_724:33
-text="All"
+layer=interface_724:35
+text="X"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -536,6 +533,34 @@ valign=^settextalign_centre
 shadowed=yes
 
 [interface_724:45]
+type=^iftype_layer
+width=25
+height=15
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
+layer=interface_724:35
+optionmask=2
+op1="Default quantity: All"
+onmouseover="script45(47448110,16777215)"
+onmouseleave="script45(47448110,16750623)"
+
+[interface_724:46]
+type=^iftype_text
+width=25
+height=15
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
+layer=interface_724:35
+text="All"
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_724:47]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre

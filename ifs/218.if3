@@ -267,10 +267,12 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=14
+optionmask=62
 op1="*"
 op2="Outside"
 op3="*"
+op4="*"
+op5="*"
 
 [interface_218:30]
 type=^iftype_graphic
