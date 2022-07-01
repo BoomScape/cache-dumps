@@ -185502,8 +185502,8 @@ recol5d=9125
 recol6s=-3250
 recol6d=9121
 op1=Talk-to
-op3=Pay (west)
-op4=Pay (east)
+op3=Pay (north)
+op4=Pay (south)
 vislevel=0
 
 [eira_9139]

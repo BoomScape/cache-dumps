@@ -11103,12 +11103,12 @@ model=model_35033
 anim=seq_7884
 resizeh=96
 resizev=96
-ambient=20
+ambient=3
 contrast=40
 recol1s=33740
-recol1d=30656
+recol1d=30649
 recol2s=33752
-recol2d=30666
+recol2d=30656
 
 [spotanim_1714]
 model=model_35033
@@ -11127,14 +11127,14 @@ model=model_3116
 anim=seq_693
 resizeh=96
 resizev=96
-ambient=20
+ambient=3
 contrast=40
 recol1s=7104
-recol1d=30680
+recol1d=30672
 recol2s=6080
-recol2d=30664
+recol2d=30656
 recol3s=960
-recol3d=30653
+recol3d=30647
 
 [spotanim_1716]
 model=model_3116
