@@ -3930,3 +3930,15 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_656]
+text=South Falador<br>Farm
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_657]
+text=Sourhog Cave
+colour=^white
+mapfunction=no
+category=1129
+

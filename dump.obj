@@ -116455,9 +116455,9 @@ model=teak_costume_box_19016
 ambient=15
 contrast=15
 
-[mahogany_cos_box_9825]
-name=Mahogany cos box
-model=mahogany_cos_box_19011
+[mahogany_costume_box_9825]
+name=Mahogany costume box
+model=mahogany_costume_box_19011
 2dzoom=3449
 2dxof=-18
 2dyof=-100
@@ -235194,5 +235194,45 @@ recol5s=6682
 recol5d=8481
 recol6s=6806
 recol6d=7452
+members=yes
+
+[bp_obj_24941]
+name=Bp obj
+model=heavy_box_15032
+cost=10
+2dyof=-1
+2dxan=124
+2dyan=1848
+
+[reinforced_goggles_24942]
+name=Reinforced goggles
+model=reinforced_goggles_40887
+manwear=reinforced_goggles_40890,0
+womanwear=reinforced_goggles_40892,0
+manhead=reinforced_goggles_40900
+femalehead=reinforced_goggles_40900
+cost=100
+2dzoom=921
+2dxof=9
+2dyof=15
+2dxan=498
+2dyan=202
+iop2=Wear
+iop5=Destroy
+members=yes
+placeholder=yes
+
+[placeholder_reinforced_goggles_24943]
+placeholder=yes
+
+[sourhog_foot_24944]
+name=Sourhog foot
+model=sourhog_foot_40901
+2dzoom=921
+2dxof=14
+2dyof=-14
+2dxan=74
+2dyan=215
+iop5=Destroy
 members=yes
 

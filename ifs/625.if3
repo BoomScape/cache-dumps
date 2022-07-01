@@ -26,6 +26,7 @@ optionmask=2
 op1="Close"
 onmouseover="script44(event_com,540)"
 onmouseleave="script44(event_com,539)"
+onop="script29"
 
 [interface_625:3]
 type=^iftype_model
@@ -66,23 +67,23 @@ vposmode=^setpos_abs_centre
 layer=interface_625:1
 
 [interface_625:6]
-type=^iftype_text
-width=336
-height=1200
-hposmode=^setpos_abs_centre
-layer=interface_625:5
-text=" "
-colour=0xebd5b2
-font=q8_full
-halign=^settextalign_centre
-shadowed=yes
-onload="script2743(40960006,40960007,40960005)"
-
-[interface_625:7]
 type=^iftype_layer
 x=84
 y=55
 width=16
 height=244
 hposmode=^setpos_abs_right
+layer=interface_625:1
+
+[interface_625:7]
+type=^iftype_text
+height=1200
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_625:5
+text=" "
+colour=0xebd5b2
+font=q8_full
+halign=^settextalign_centre
+shadowed=yes
 
