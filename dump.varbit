@@ -16444,9 +16444,9 @@ startbit=29
 endbit=30
 
 [varbit_3289]
-basevar=var_79
-startbit=0
-endbit=0
+basevar=var_695
+startbit=23
+endbit=24
 
 [varbit_3290]
 basevar=var_967
@@ -69857,4 +69857,19 @@ endbit=25
 basevar=var_2898
 startbit=26
 endbit=26
+
+[varbit_13972]
+basevar=var_620
+startbit=4
+endbit=4
+
+[varbit_13973]
+basevar=var_620
+startbit=5
+endbit=5
+
+[varbit_13974]
+basevar=var_3438
+startbit=27
+endbit=31
 
