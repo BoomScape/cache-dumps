@@ -3552,6 +3552,11 @@ val=672,A Festive Party
 val=673,Zaros Zeitgeist
 val=674,The Ancient Prison
 val=675,The Angel's Fury
+val=676,Catacombs and Tombs
+val=677,Dusk in Yu'biusk
+val=678,Temple of Tribes
+val=679,Zanik's Theme
+val=680,Don't Panic Zanik
 
 [enum_814]
 inputtype=int
@@ -4280,6 +4285,11 @@ val=672,A Festive Party
 val=673,Zaros Zeitgeist
 val=674,"Ancient Prison, The"
 val=675,"Angel's Fury, The"
+val=676,Catacombs and Tombs
+val=677,Dusk in Yu'biusk
+val=678,Temple of Tribes
+val=679,Zanik's Theme
+val=680,Don't Panic Zanik
 
 [enum_818]
 inputtype=int
@@ -4960,6 +4970,11 @@ val=671,672
 val=672,673
 val=673,674
 val=674,675
+val=675,676
+val=676,677
+val=677,678
+val=678,679
+val=679,680
 
 [enum_819]
 inputtype=int
@@ -5640,6 +5655,11 @@ val=672,0_0_0_21_18
 val=674,0_0_0_21_19
 val=673,0_0_0_21_20
 val=675,0_0_0_21_21
+val=676,0_0_0_21_22
+val=677,0_0_0_21_23
+val=678,0_0_0_21_24
+val=679,0_0_0_21_25
+val=680,0_0_0_21_26
 
 [enum_823]
 inputtype=component
@@ -5835,6 +5855,7 @@ val=48,Twisted Vision
 val=49,More at stake
 val=50,Actual Vampyre Slayer
 val=51,Task Storage
+val=52,I Wildy More Slayer
 
 [enum_835]
 inputtype=int
@@ -5892,6 +5913,7 @@ val=48,Learn how to combine Twisted Horns with your slayer helm to theme it like
 val=49,"Whenever you get a Vampyre task, it will be a bigger task."
 val=50,"Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task."
 val=51,"Gain the ability to store your task for 50 points, allowing you to take it at a later point in time."
+val=52,"Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task."
 
 [enum_836]
 inputtype=int
@@ -5949,6 +5971,7 @@ val=48,1000
 val=49,100
 val=50,80
 val=51,1000
+val=52,0
 
 [enum_837]
 inputtype=int
@@ -6006,6 +6029,7 @@ val=48,twisted_slayer_helmet_24370
 val=49,vampyre_24708
 val=50,vampyre_24708
 val=51,barrel_1841
+val=52,larrans_key_4_23493
 
 [enum_839]
 inputtype=int
@@ -6038,6 +6062,7 @@ val=23,47
 val=24,48
 val=25,50
 val=26,51
+val=27,52
 
 [enum_840]
 inputtype=int
@@ -6802,6 +6827,7 @@ val=46,yes
 val=47,yes
 val=49,yes
 val=50,yes
+val=52,yes
 
 [enum_859]
 inputtype=int
@@ -15531,14 +15557,14 @@ val=interface_507:23,9
 inputtype=int
 outputtype=string
 default=
-val=0,Dwarf
+val=0,Mountain Dwarf
 val=1,Wartface & Bentnoze
 val=2,Pirate Pete
 val=3,Lumbridge Guide
 val=4,Evil Dave
 val=5,Skrach Uglogwee
 val=6,Sir Amik Varze
-val=7,Monkey Ambassador
+val=7,King Awowogei
 
 [enum_1541]
 inputtype=int
@@ -19447,7 +19473,7 @@ val=3,statuette_4618
 val=4,strange_implement_4619
 val=5,black_mushroom_4620
 val=6,phoenix_feather_4621
-val=7,black_mushroom_ink_4622
+val=7,black_dye_4622
 val=8,phoenix_quill_pen_4623
 val=9,golem_program_4624
 
@@ -20889,6 +20915,7 @@ val=124,a_porcine_of_interest_3151
 val=125,getting_ahead_752
 val=126,a_kingdom_divided_2971
 val=127,a_night_at_the_theatre_949
+val=128,land_of_the_goblins_4135
 
 [enum_2100]
 inputtype=int
@@ -20909,6 +20936,7 @@ val=11,mage_arena_ii_330
 val=12,in_search_of_knowledge_3143
 val=13,daddys_home_1688
 val=14,the_frozen_door_3768
+val=15,hopespears_will_4136
 
 [enum_2102]
 inputtype=int
@@ -50559,6 +50587,7 @@ val=mapelement_847,witchs_house_448
 val=mapelement_848,witchs_potion_318
 val=mapelement_849,x_marks_the_spot_3155
 val=mapelement_850,zogre_flesh_eaters_449
+val=mapelement_853,land_of_the_goblins_4135
 
 [enum_3997]
 inputtype=int
@@ -54849,7 +54878,7 @@ val=2,Content Changes
 inputtype=int
 outputtype=string
 default=null
-val=0,"Your character starts in the outskirts of Catherby, by The Sage.|Instead of earning Relics, in this League you will be collecting Fragments. You can obtain a wide variety of Fragments from killing monsters, earning experience and completing minigames. Once you have obtained and unlocked them, you can equip them via the Fragments menu, found in the Leagues Menu in the Character Summary Panel.|Fragments will gain experience and become more powerful as you use them. You can check your Fragments' progress from the Fragments menu as well.|Your character begins restricted to a few skills and bosses. While a skill is locked, you can use it as normal, but you will not be able to gain any experience from it. As you complete tasks, you gain Sage's Renown, which can be used to auto-complete quests and unlock skills and bosses.|Full information about each of the skills, bosses and quest auto-completions can be found in the Unlocks menu. This can be accessed from the Leagues Menu in the Character Summary Panel.|All experience gained will be multiplied by 5x, and this will increase as you advance through each Tier, which also unlocks more Fragment Slots, allowing you to equip more Fragments!|Any new content released during Leagues III - Shattered Relics will be reviewed on a case-by-case basis.|Leagues III - Shattered Relics will run from 19th January 2022 until the game update on 3rd March 2022."
+val=0,"Your character starts in the outskirts of Catherby, by The Sage.|Instead of earning Relics, in this League you will be collecting Fragments. You can obtain a wide variety of Fragments from killing monsters, earning experience and completing minigames. Once you have obtained and unlocked them, you can equip them via the Fragments menu, found in the Leagues Menu in the Character Summary Panel.|Fragments will gain experience and become more powerful as you use them. You can check your Fragments' progress from the Fragments menu as well.|Your character begins restricted to a few skills and bosses. While a skill is locked, you can use it as normal, but you will not be able to gain any experience from it. As you complete tasks, you gain Sage's Renown, which can be used to auto-complete quests and unlock skills and bosses.|Full information about each of the skills, bosses and quest auto-completions can be found in the Unlocks menu. This can be accessed from the Leagues Menu in the Character Summary Panel.|All experience gained will be multiplied by 5x, and this will increase as you advance through each Tier, which also unlocks more Fragment Slots, allowing you to equip more Fragments!|Any new content released during Leagues III - Shattered Relics will be reviewed on a case-by-case basis.|Leagues III - Shattered Relics will run from 19th January 2022 until the game update on 16th March 2022."
 val=1,"Your character is an Iron character, meaning you cannot trade with other players.|As you begin with nothing unlocked, no quests will be automatically completed.|When you unlock Herblore, you will be granted enough experience in it to reach level 3. Beyond that, no additional levels will be rewarded."
 val=2,"You're free to explore the entire map in Leagues III: Shattered Relics.|To aid in your exploration, you can activate Waystones in key locations across the map. The first can be found in Catherby.|Once a Waystone is activated, you can use it to teleport to other activated Waystones."
 
@@ -55996,4 +56025,63 @@ val=0,shattered_boots_t3_26460
 val=1,shattered_hood_t3_26451
 val=2,shattered_trousers_t3_26457
 val=3,shattered_top_t3_26454
+
+[enum_4202]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,coins_995
+
+[enum_4203]
+inputtype=int
+outputtype=int
+default=1
+val=0,100
+
+[enum_4204]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,coins_995
+
+[enum_4205]
+inputtype=int
+outputtype=int
+default=1
+val=0,20000
+
+[enum_4206]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,shark_385
+
+[enum_4207]
+inputtype=int
+outputtype=int
+default=1
+val=0,20
+
+[enum_4208]
+inputtype=struct
+outputtype=boolean
+default=no
+val=cooks_assistant_300,yes
+val=dragon_slayer_i_3139,yes
+
+[enum_4209]
+inputtype=struct
+outputtype=boolean
+default=no
+val=dragon_slayer_ii_348,yes
+val=song_of_the_elves_603,yes
+
+[enum_4210]
+inputtype=int
+outputtype=struct
+default=null
+val=0,cooks_assistant_300
+val=1,dragon_slayer_i_3139
+val=2,dragon_slayer_ii_348
+val=3,song_of_the_elves_603
 

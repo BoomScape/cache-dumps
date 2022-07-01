@@ -4975,3 +4975,8 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_853]
+graphic="mapfunction,6"
+vis=^mapelement_vis_both
+category=1056
+

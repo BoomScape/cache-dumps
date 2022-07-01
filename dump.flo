@@ -759,3 +759,8 @@ colour=0xbfb9b6
 [flo_198]
 colour=0x9c926c
 
+[flo_199]
+colour=^magenta
+mapcolour=0x383828
+occlude=no
+

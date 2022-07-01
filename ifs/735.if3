@@ -10,7 +10,7 @@ height=314
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_735:0
-onload="script5745(48168996,48168998,48168997,48168967,48168963)"
+onload="script5745(48168997,48168999,48168998,48168967,48168963)"
 
 [interface_735:2]
 type=^iftype_layer
@@ -72,7 +72,7 @@ op1="Show"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onop="script5754(event_com,48168979,48168969)"
+onop="script5754(event_com,48168980,48168969)"
 
 [interface_735:9]
 type=^iftype_text
@@ -120,7 +120,7 @@ op1="View"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onop="script5776(48168992,48168993,-1,event_opindex,1,0)"
+onop="script5776(48168993,48168994,-1,event_opindex,1,0)"
 
 [interface_735:13]
 type=^iftype_text
@@ -147,7 +147,7 @@ op1="View"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onop="script5776(48168992,48168993,0,event_opindex,1,0)"
+onop="script5776(48168993,48168994,0,event_opindex,1,0)"
 
 [interface_735:15]
 type=^iftype_text
@@ -163,6 +163,20 @@ shadowed=yes
 
 [interface_735:16]
 type=^iftype_layer
+x=414
+y=41
+width=54
+height=51
+layer=interface_735:1
+optionmask=2
+op1="Unequip all"
+onload="script92(event_com)"
+onmouseover="script94(event_com)"
+onmouseleave="script92(event_com)"
+onop="script5776(48168993,48168994,0,event_opindex,1,0)"
+
+[interface_735:17]
+type=^iftype_layer
 x=12
 y=12
 width=210
@@ -171,7 +185,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_735:1
 onload="script714(event_com)"
 
-[interface_735:17]
+[interface_735:18]
 type=^iftype_layer
 x=14
 y=14
@@ -180,10 +194,10 @@ height=167
 vposmode=^setpos_abs_bottom
 layer=interface_735:1
 optionmask=1048576
-onload="script5750(event_com,48168978)"
-onvartransmit="script5750(event_com,48168978){var_3279,var_3280,var_3281}"
+onload="script5750(event_com,48168979)"
+onvartransmit="script5750(event_com,48168979){var_3279,var_3280,var_3281}"
 
-[interface_735:18]
+[interface_735:19]
 type=^iftype_layer
 x=-11
 y=12
@@ -193,7 +207,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_735:1
 
-[interface_735:19]
+[interface_735:20]
 type=^iftype_layer
 x=12
 y=12
@@ -203,32 +217,32 @@ vposmode=^setpos_abs_bottom
 hide=yes
 layer=interface_735:1
 noclickthrough=yes
-onload="script5760(event_com,48168987,48168988,48168989,48168990,48168963,48168964,48168965)"
+onload="script5760(event_com,48168988,48168989,48168990,48168991,48168963,48168964,48168965)"
 
-[interface_735:20]
+[interface_735:21]
 type=^iftype_graphic
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_735:19
+layer=interface_735:20
 graphic="tradebacking"
 tiling=yes
 
-[interface_735:21]
+[interface_735:22]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_735:19
+layer=interface_735:20
 fill=yes
 trans=200
 
-[interface_735:22]
+[interface_735:23]
 type=^iftype_text
 y=7
 width=20
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_735:19
+layer=interface_735:20
 text="Fragment Filters"
 colour=0x29ffbd
 font=b12_full
@@ -236,28 +250,14 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_735:23]
+[interface_735:24]
 type=^iftype_text
 x=10
 y=35
 width=50
 height=20
-layer=interface_735:19
+layer=interface_735:20
 text="Category"
-colour=0x29ffbd
-font=p11_full
-halign=^settextalign_right
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_735:24]
-type=^iftype_text
-x=10
-y=67
-width=50
-height=20
-layer=interface_735:19
-text="Level"
 colour=0x29ffbd
 font=p11_full
 halign=^settextalign_right
@@ -267,11 +267,11 @@ shadowed=yes
 [interface_735:25]
 type=^iftype_text
 x=10
-y=99
+y=67
 width=50
 height=20
-layer=interface_735:19
-text="Set Effect"
+layer=interface_735:20
+text="Level"
 colour=0x29ffbd
 font=p11_full
 halign=^settextalign_right
@@ -281,11 +281,11 @@ shadowed=yes
 [interface_735:26]
 type=^iftype_text
 x=10
-y=131
+y=99
 width=50
 height=20
-layer=interface_735:19
-text="Locked"
+layer=interface_735:20
+text="Set Effect"
 colour=0x29ffbd
 font=p11_full
 halign=^settextalign_right
@@ -293,42 +293,56 @@ valign=^settextalign_centre
 shadowed=yes
 
 [interface_735:27]
+type=^iftype_text
+x=10
+y=131
+width=50
+height=20
+layer=interface_735:20
+text="Locked"
+colour=0x29ffbd
+font=p11_full
+halign=^settextalign_right
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_735:28]
 type=^iftype_layer
 x=10
 y=35
 width=150
 height=20
 hposmode=^setpos_abs_right
-layer=interface_735:19
+layer=interface_735:20
 
-[interface_735:28]
+[interface_735:29]
 type=^iftype_layer
 x=10
 y=67
 width=150
 height=20
 hposmode=^setpos_abs_right
-layer=interface_735:19
+layer=interface_735:20
 
-[interface_735:29]
+[interface_735:30]
 type=^iftype_layer
 x=10
 y=99
 width=150
 height=20
 hposmode=^setpos_abs_right
-layer=interface_735:19
+layer=interface_735:20
 
-[interface_735:30]
+[interface_735:31]
 type=^iftype_layer
 x=10
 y=131
 width=150
 height=20
 hposmode=^setpos_abs_right
-layer=interface_735:19
+layer=interface_735:20
 
-[interface_735:31]
+[interface_735:32]
 type=^iftype_layer
 x=27
 y=12
@@ -339,7 +353,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_735:1
 onload="script714(event_com)"
 
-[interface_735:32]
+[interface_735:33]
 type=^iftype_layer
 x=29
 y=14
@@ -348,9 +362,9 @@ height=167
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_735:1
-onload="script5776(event_com,48168993,0,1,1,0)"
+onload="script5776(event_com,48168994,0,1,1,0)"
 
-[interface_735:33]
+[interface_735:34]
 type=^iftype_layer
 x=12
 y=12
@@ -360,7 +374,7 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_735:1
 
-[interface_735:34]
+[interface_735:35]
 type=^iftype_layer
 y=41
 width=338
@@ -369,7 +383,7 @@ hposmode=^setpos_abs_centre
 layer=interface_735:1
 onload="script5747(event_com)"
 
-[interface_735:35]
+[interface_735:36]
 type=^iftype_layer
 y=41
 width=338
@@ -379,7 +393,7 @@ layer=interface_735:1
 onload="script5748(event_com)"
 onvartransmit="script5748(event_com){var_3279,var_3280,var_3281}"
 
-[interface_735:36]
+[interface_735:37]
 type=^iftype_layer
 x=7
 y=7
@@ -387,7 +401,7 @@ width=21
 height=21
 layer=interface_735:1
 
-[interface_735:37]
+[interface_735:38]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -395,17 +409,29 @@ hide=yes
 layer=interface_735:1
 noclickthrough=yes
 
-[interface_735:38]
+[interface_735:39]
 type=^iftype_layer
 y=29
 width=80
 height=70
 layer=interface_735:1
 
-[interface_735:39]
+[interface_735:40]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_735:1
+
+[interface_735:41]
+type=^iftype_text
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_735:16
+text="Unequip all"
+colour=0x29ffbd
+font=p11_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
 
