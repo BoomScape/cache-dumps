@@ -93,7 +93,7 @@ x=158
 width=100
 vsizemode=^setsize_minus
 layer=interface_731:7
-text="Coffer / Value:"
+text="Coffer <col=9f9f9f>Value</col>"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -106,7 +106,7 @@ x=258
 width=90
 vsizemode=^setsize_minus
 layer=interface_731:7
-text="Sunk total:"
+text="Sunk <col=9f9f9f>Quota</col>"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -120,7 +120,7 @@ width=367
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_731:7
-text="Rates:"
+text="Time <col=9f9f9f>x</col> Rates"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre

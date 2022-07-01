@@ -211,6 +211,7 @@ layer=interface_165:1
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+layer=interface_165:0
 onload="script901(event_com,1132)"
 
 [interface_165:36]

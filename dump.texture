@@ -415,3 +415,23 @@ graphic="leafytree_tiled02"
 colour=14482
 graphic="leafytree02"
 
+[texture_91]
+colour=38002
+repeat=yes
+graphic="ice"
+
+[texture_92]
+colour=49262
+repeat=yes
+graphic="roof_snow"
+
+[texture_93]
+colour=120
+repeat=yes
+graphic="roof_snow02"
+
+[texture_94]
+colour=4133
+repeat=yes
+graphic="graphic_3603"
+

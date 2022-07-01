@@ -1,42 +1,37 @@
 [interface_74:0]
-type=^iftype_graphic
-x=478
-y=16
-width=26
-height=23
-graphic="close_buttons,0"
-optionmask=2
-op1="Close"
-onmouseover="script44(4849664,536)"
-onmouseleave="script44(4849664,535)"
-onop="script29"
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 
 [interface_74:1]
 type=^iftype_model
-x=239
-y=155
+x=240
+y=139
 width=32
 height=32
+layer=interface_74:0
 model=model_34614
-zoom=525
+zoom=475
 
 [interface_74:2]
-type=^iftype_text
-x=69
-y=82
-width=380
-height=14
-colour=0xffcc33
-font=p12_full
-halign=^settextalign_centre
-shadowed=yes
+type=^iftype_layer
+x=3
+width=415
+height=210
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_74:0
 
 [interface_74:3]
 type=^iftype_text
-x=69
-y=98
-width=380
+y=9
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -44,10 +39,12 @@ shadowed=yes
 
 [interface_74:4]
 type=^iftype_text
-x=69
-y=114
-width=380
+y=26
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -55,10 +52,12 @@ shadowed=yes
 
 [interface_74:5]
 type=^iftype_text
-x=69
-y=131
-width=380
+y=43
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -66,10 +65,12 @@ shadowed=yes
 
 [interface_74:6]
 type=^iftype_text
-x=69
-y=148
-width=380
+y=61
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -77,10 +78,12 @@ shadowed=yes
 
 [interface_74:7]
 type=^iftype_text
-x=69
-y=165
-width=380
+y=79
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -88,10 +91,12 @@ shadowed=yes
 
 [interface_74:8]
 type=^iftype_text
-x=69
-y=182
-width=380
+y=97
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -99,10 +104,12 @@ shadowed=yes
 
 [interface_74:9]
 type=^iftype_text
-x=69
-y=199
-width=380
+y=115
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -110,10 +117,12 @@ shadowed=yes
 
 [interface_74:10]
 type=^iftype_text
-x=69
-y=216
-width=380
+y=133
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -121,10 +130,12 @@ shadowed=yes
 
 [interface_74:11]
 type=^iftype_text
-x=69
-y=233
-width=380
+y=151
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -132,10 +143,12 @@ shadowed=yes
 
 [interface_74:12]
 type=^iftype_text
-x=69
-y=250
-width=380
+y=169
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
@@ -143,12 +156,36 @@ shadowed=yes
 
 [interface_74:13]
 type=^iftype_text
-x=69
-y=267
-width=380
+y=187
+width=21
 height=14
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_74:2
 colour=0xffcc33
 font=p12_full
 halign=^settextalign_centre
 shadowed=yes
+
+[interface_74:14]
+type=^iftype_layer
+x=458
+y=27
+width=32
+height=32
+layer=interface_74:0
+optionmask=2
+op1="Close"
+onop="script29"
+
+[interface_74:15]
+type=^iftype_graphic
+x=4
+y=5
+width=26
+height=23
+layer=interface_74:14
+graphic="close_buttons,0"
+onmouseover="script2809(event_com,536)"
+onmouseleave="script2809(event_com,535)"
 

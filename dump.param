@@ -2219,3 +2219,6 @@ type=boolean
 type=boolean
 autodisable=no
 
+[param_1425]
+type=int
+

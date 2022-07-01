@@ -4204,6 +4204,7 @@ category=1129
 [mapelement_699]
 text=Here be<br>spiders
 colour=^white
+mapfunction=no
 category=1129
 
 [mapelement_700]
@@ -4960,4 +4961,11 @@ category=1056
 graphic="mapfunction,6"
 vis=^mapelement_vis_both
 category=1056
+
+[mapelement_851]
+text=Ancient<br>Prison
+colour=^white
+size=1
+mapfunction=no
+category=1129
 
