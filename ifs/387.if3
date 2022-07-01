@@ -293,6 +293,7 @@ y=210
 width=32
 height=32
 graphic="options_icons,16"
+onload="script2641(event_com)"
 
 [interface_387:19]
 type=^iftype_layer

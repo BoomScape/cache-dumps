@@ -5,15 +5,14 @@ width=506
 height=129
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script2634(40435716,40435715,40435714,40435713)"
+onload="script2634(40435716,40435715,40435714,40435713,40435717,40435718)"
 
 [interface_617:1]
 type=^iftype_text
 y=20
-width=50
+width=350
 height=80
 hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_617:0
 colour=0x403020
@@ -54,4 +53,25 @@ vposmode=^setpos_abs_bottom
 layer=interface_617:0
 optionmask=2
 op1="*"
+
+[interface_617:5]
+type=^iftype_model
+x=27
+y=2
+width=32
+height=32
+vposmode=^setpos_abs_centre
+layer=interface_617:0
+zoom=800
+
+[interface_617:6]
+type=^iftype_model
+x=27
+y=2
+width=32
+height=32
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_617:0
+zoom=800
 

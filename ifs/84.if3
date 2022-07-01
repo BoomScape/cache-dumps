@@ -23,8 +23,8 @@ tiling=yes
 [interface_84:3]
 type=^iftype_text
 x=11
-y=9
-width=478
+y=10
+width=280
 height=20
 layer=interface_84:1
 text="Equip Your Character..."
@@ -50,7 +50,7 @@ onop="script29"
 type=^iftype_model
 contenttype=328
 x=189
-y=204
+y=200
 width=136
 height=168
 layer=interface_84:1
@@ -329,7 +329,7 @@ onload="script544(event_com,13)"
 [interface_84:22]
 type=^iftype_text
 x=345
-y=32
+y=22
 width=155
 height=15
 layer=interface_84:1
@@ -341,7 +341,7 @@ shadowed=yes
 [interface_84:23]
 type=^iftype_text
 x=353
-y=46
+y=36
 width=147
 height=14
 layer=interface_84:1
@@ -354,7 +354,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting s
 [interface_84:24]
 type=^iftype_text
 x=353
-y=59
+y=49
 width=147
 height=14
 layer=interface_84:1
@@ -367,7 +367,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting s
 [interface_84:25]
 type=^iftype_text
 x=353
-y=72
+y=62
 width=147
 height=14
 layer=interface_84:1
@@ -380,7 +380,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting s
 [interface_84:26]
 type=^iftype_text
 x=353
-y=85
+y=75
 width=147
 height=14
 layer=interface_84:1
@@ -393,7 +393,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting s
 [interface_84:27]
 type=^iftype_text
 x=353
-y=98
+y=88
 width=147
 height=14
 layer=interface_84:1
@@ -406,7 +406,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting s
 [interface_84:28]
 type=^iftype_text
 x=345
-y=117
+y=107
 width=155
 height=15
 layer=interface_84:1
@@ -418,7 +418,7 @@ shadowed=yes
 [interface_84:29]
 type=^iftype_text
 x=353
-y=131
+y=121
 width=147
 height=14
 layer=interface_84:1
@@ -431,7 +431,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking 
 [interface_84:30]
 type=^iftype_text
 x=353
-y=144
+y=134
 width=147
 height=14
 layer=interface_84:1
@@ -444,7 +444,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking 
 [interface_84:31]
 type=^iftype_text
 x=353
-y=157
+y=147
 width=147
 height=14
 layer=interface_84:1
@@ -457,7 +457,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking 
 [interface_84:32]
 type=^iftype_text
 x=353
-y=170
+y=160
 width=147
 height=14
 layer=interface_84:1
@@ -470,7 +470,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking 
 [interface_84:33]
 type=^iftype_text
 x=353
-y=183
+y=173
 width=147
 height=14
 layer=interface_84:1
@@ -483,7 +483,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking 
 [interface_84:34]
 type=^iftype_text
 x=345
-y=202
+y=192
 width=155
 height=15
 layer=interface_84:1
@@ -495,7 +495,7 @@ shadowed=yes
 [interface_84:35]
 type=^iftype_text
 x=353
-y=216
+y=206
 width=147
 height=14
 layer=interface_84:1
@@ -508,7 +508,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your max hit for melee.,
 [interface_84:36]
 type=^iftype_text
 x=353
-y=229
+y=219
 width=147
 height=14
 layer=interface_84:1
@@ -521,7 +521,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases your max hit when rangin
 [interface_84:37]
 type=^iftype_text
 x=353
-y=242
+y=232
 width=147
 height=14
 layer=interface_84:1
@@ -534,7 +534,7 @@ onmouserepeat="script526(event_com,-1,5505068,Increases the max hit of your Magi
 [interface_84:38]
 type=^iftype_text
 x=353
-y=255
+y=245
 width=147
 height=14
 layer=interface_84:1
@@ -547,7 +547,7 @@ onmouserepeat="script526(event_com,-1,5505068,Reduces the rate at which your pra
 [interface_84:39]
 type=^iftype_text
 x=345
-y=274
+y=264
 width=155
 height=15
 layer=interface_84:1
@@ -559,7 +559,7 @@ shadowed=yes
 [interface_84:40]
 type=^iftype_text
 x=353
-y=288
+y=278
 width=147
 height=14
 layer=interface_84:1
@@ -572,7 +572,7 @@ onmouserepeat="script526(event_com,-1,5505068,"Increases your effective accuracy
 [interface_84:41]
 type=^iftype_text
 x=353
-y=301
+y=291
 width=147
 height=14
 layer=interface_84:1

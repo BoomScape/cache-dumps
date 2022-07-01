@@ -2024,9 +2024,13 @@ looptype=1
 framegroup1=544
 
 [seq_367]
-framecount=7
+framecount=12
+mainhand=0
+offhand=1102
+exactmove=1
+movetype=1
 looptype=1
-framegroup1=546
+framegroup1=239
 
 [seq_368]
 framecount=12
@@ -9899,6 +9903,13 @@ framegroup1=752
 [seq_1637]
 framecount=40
 replayoff=12
+looptype=1
+framegroup1=81
+
+[spirit_ready_1638]
+framecount=40
+ifframecount=24
+replayoff=40
 looptype=1
 framegroup1=81
 
@@ -38269,12 +38280,12 @@ priority=10
 looptype=1
 framegroup1=1639
 
-[seq_6378]
+[skeleton_walk_6378]
 framecount=32
 looptype=1
 framegroup1=1056
 
-[seq_6379]
+[skeleton_ready_6379]
 framecount=16
 looptype=1
 framegroup1=1056
