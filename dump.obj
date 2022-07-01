@@ -144097,11 +144097,11 @@ placeholder=yes
 
 [slayer_helmet_11864]
 name=Slayer helmet
-model=slayer_helmet_36005
-manwear=slayer_helmet_36006,0
-womanwear=slayer_helmet_36007,0
-manhead=slayer_helmet_36008
-femalehead=slayer_helmet_36008
+model=slayer_helmet_42707
+manwear=slayer_helmet_42679,0
+womanwear=slayer_helmet_42686,0
+manhead=slayer_helmet_42699
+femalehead=slayer_helmet_42699
 category=category_2
 cost=40000
 2dzoom=779
@@ -144121,11 +144121,11 @@ param=param_455,Log
 
 [slayer_helmet_i_11865]
 name=Slayer helmet (i)
-model=slayer_helmet_i_16269
-manwear=slayer_helmet_i_16274,0
-womanwear=slayer_helmet_i_16276,0
-manhead=slayer_helmet_i_16277
-femalehead=slayer_helmet_i_16278
+model=slayer_helmet_i_42702
+manwear=slayer_helmet_i_42677,0
+womanwear=slayer_helmet_i_42688,0
+manhead=slayer_helmet_i_42696
+femalehead=slayer_helmet_i_42696
 category=category_2
 cost=90000
 2dzoom=779
@@ -187172,11 +187172,11 @@ placeholder=yes
 
 [black_slayer_helmet_19639]
 name=Black slayer helmet
-model=black_slayer_helmet_31545
-manwear=black_slayer_helmet_31549,0
-womanwear=black_slayer_helmet_31552,0
-manhead=black_slayer_helmet_31558
-femalehead=black_slayer_helmet_31558
+model=black_slayer_helmet_42700
+manwear=black_slayer_helmet_42676,0
+womanwear=black_slayer_helmet_42684,0
+manhead=black_slayer_helmet_42695
+femalehead=black_slayer_helmet_42695
 category=category_2
 cost=40000
 2dzoom=779
@@ -187199,11 +187199,11 @@ placeholder=yes
 
 [black_slayer_helmet_i_19641]
 name=Black slayer helmet (i)
-model=black_slayer_helmet_31545
-manwear=black_slayer_helmet_31549,0
-womanwear=black_slayer_helmet_31552,0
-manhead=black_slayer_helmet_31558
-femalehead=black_slayer_helmet_31558
+model=black_slayer_helmet_42700
+manwear=black_slayer_helmet_42676,0
+womanwear=black_slayer_helmet_42684,0
+manhead=black_slayer_helmet_42695
+femalehead=black_slayer_helmet_42695
 category=category_2
 cost=90000
 2dzoom=779
@@ -187226,11 +187226,11 @@ placeholder=yes
 
 [green_slayer_helmet_19643]
 name=Green slayer helmet
-model=green_slayer_helmet_31546
-manwear=green_slayer_helmet_31548,0
-womanwear=green_slayer_helmet_31553,0
-manhead=green_slayer_helmet_31557
-femalehead=green_slayer_helmet_31557
+model=green_slayer_helmet_42705
+manwear=green_slayer_helmet_42681,0
+womanwear=green_slayer_helmet_42682,0
+manhead=green_slayer_helmet_42697
+femalehead=green_slayer_helmet_42697
 category=category_2
 cost=40000
 2dzoom=779
@@ -187253,11 +187253,11 @@ placeholder=yes
 
 [green_slayer_helmet_i_19645]
 name=Green slayer helmet (i)
-model=green_slayer_helmet_31546
-manwear=green_slayer_helmet_31548,0
-womanwear=green_slayer_helmet_31553,0
-manhead=green_slayer_helmet_31557
-femalehead=green_slayer_helmet_31557
+model=green_slayer_helmet_42705
+manwear=green_slayer_helmet_42681,0
+womanwear=green_slayer_helmet_42682,0
+manhead=green_slayer_helmet_42697
+femalehead=green_slayer_helmet_42697
 category=category_2
 cost=90000
 2dzoom=779
@@ -187280,11 +187280,11 @@ placeholder=yes
 
 [red_slayer_helmet_19647]
 name=Red slayer helmet
-model=red_slayer_helmet_31547
-manwear=red_slayer_helmet_31550,0
-womanwear=red_slayer_helmet_31551,0
-manhead=red_slayer_helmet_31556
-femalehead=red_slayer_helmet_31556
+model=red_slayer_helmet_42708
+manwear=red_slayer_helmet_42674,0
+womanwear=red_slayer_helmet_42689,0
+manhead=red_slayer_helmet_42694
+femalehead=red_slayer_helmet_42694
 category=category_2
 cost=40000
 2dzoom=779
@@ -187307,11 +187307,11 @@ placeholder=yes
 
 [red_slayer_helmet_i_19649]
 name=Red slayer helmet (i)
-model=red_slayer_helmet_31547
-manwear=red_slayer_helmet_31550,0
-womanwear=red_slayer_helmet_31551,0
-manhead=red_slayer_helmet_31556
-femalehead=red_slayer_helmet_31556
+model=red_slayer_helmet_42708
+manwear=red_slayer_helmet_42674,0
+womanwear=red_slayer_helmet_42689,0
+manhead=red_slayer_helmet_42694
+femalehead=red_slayer_helmet_42694
 category=category_2
 cost=90000
 2dzoom=779
@@ -204997,11 +204997,11 @@ members=yes
 
 [purple_slayer_helmet_21264]
 name=Purple slayer helmet
-model=purple_slayer_helmet_32991
-manwear=purple_slayer_helmet_32992,0
-womanwear=purple_slayer_helmet_32993,0
-manhead=purple_slayer_helmet_32995
-femalehead=purple_slayer_helmet_32995
+model=purple_slayer_helmet_42704
+manwear=purple_slayer_helmet_42673,0
+womanwear=purple_slayer_helmet_42685,0
+manhead=purple_slayer_helmet_42692
+femalehead=purple_slayer_helmet_42692
 category=category_2
 cost=40000
 2dzoom=779
@@ -205024,11 +205024,11 @@ placeholder=yes
 
 [purple_slayer_helmet_i_21266]
 name=Purple slayer helmet (i)
-model=purple_slayer_helmet_32991
-manwear=purple_slayer_helmet_32992,0
-womanwear=purple_slayer_helmet_32993,0
-manhead=purple_slayer_helmet_32995
-femalehead=purple_slayer_helmet_32995
+model=purple_slayer_helmet_42704
+manwear=purple_slayer_helmet_42673,0
+womanwear=purple_slayer_helmet_42685,0
+manhead=purple_slayer_helmet_42692
+femalehead=purple_slayer_helmet_42692
 category=category_2
 cost=90000
 2dzoom=779
@@ -211382,11 +211382,11 @@ placeholder=yes
 
 [turquoise_slayer_helmet_21888]
 name=Turquoise slayer helmet
-model=turquoise_slayer_helmet_34619
-manwear=turquoise_slayer_helmet_34626,0
-womanwear=turquoise_slayer_helmet_34638,0
-manhead=turquoise_slayer_helmet_35090
-femalehead=turquoise_slayer_helmet_35090
+model=turquoise_slayer_helmet_42701
+manwear=turquoise_slayer_helmet_42680,0
+womanwear=turquoise_slayer_helmet_42690,0
+manhead=turquoise_slayer_helmet_42691
+femalehead=turquoise_slayer_helmet_42691
 category=category_2
 cost=40000
 2dzoom=779
@@ -211409,11 +211409,11 @@ placeholder=yes
 
 [turquoise_slayer_helmet_i_21890]
 name=Turquoise slayer helmet (i)
-model=turquoise_slayer_helmet_34619
-manwear=turquoise_slayer_helmet_34626,0
-womanwear=turquoise_slayer_helmet_34638,0
-manhead=turquoise_slayer_helmet_35090
-femalehead=turquoise_slayer_helmet_35090
+model=turquoise_slayer_helmet_42701
+manwear=turquoise_slayer_helmet_42680,0
+womanwear=turquoise_slayer_helmet_42690,0
+manhead=turquoise_slayer_helmet_42691
+femalehead=turquoise_slayer_helmet_42691
 category=category_2
 cost=90000
 2dzoom=779
@@ -223134,11 +223134,11 @@ recol2d=6717
 
 [hydra_slayer_helmet_23073]
 name=Hydra slayer helmet
-model=hydra_slayer_helmet_36941
-manwear=hydra_slayer_helmet_36949,0
-womanwear=hydra_slayer_helmet_36950,0
-manhead=hydra_slayer_helmet_36954
-femalehead=hydra_slayer_helmet_36954
+model=hydra_slayer_helmet_42703
+manwear=hydra_slayer_helmet_42675,0
+womanwear=hydra_slayer_helmet_42687,0
+manhead=hydra_slayer_helmet_42693
+femalehead=hydra_slayer_helmet_42693
 category=category_2
 cost=40000
 2dzoom=779
@@ -223161,11 +223161,11 @@ placeholder=yes
 
 [hydra_slayer_helmet_i_23075]
 name=Hydra slayer helmet (i)
-model=hydra_slayer_helmet_36941
-manwear=hydra_slayer_helmet_36949,0
-womanwear=hydra_slayer_helmet_36950,0
-manhead=hydra_slayer_helmet_36954
-femalehead=hydra_slayer_helmet_36954
+model=hydra_slayer_helmet_42703
+manwear=hydra_slayer_helmet_42675,0
+womanwear=hydra_slayer_helmet_42687,0
+manhead=hydra_slayer_helmet_42693
+femalehead=hydra_slayer_helmet_42693
 category=category_2
 cost=90000
 2dzoom=779
@@ -236727,11 +236727,11 @@ param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
 [twisted_slayer_helmet_24370]
 name=Twisted slayer helmet
-model=twisted_slayer_helmet_38958
-manwear=twisted_slayer_helmet_38960,0
-womanwear=twisted_slayer_helmet_38970,0
-manhead=twisted_slayer_helmet_38997
-femalehead=twisted_slayer_helmet_38997
+model=twisted_slayer_helmet_42706
+manwear=twisted_slayer_helmet_42678,0
+womanwear=twisted_slayer_helmet_42683,0
+manhead=twisted_slayer_helmet_42698
+femalehead=twisted_slayer_helmet_42698
 category=category_2
 cost=40000
 2dzoom=779
@@ -237690,11 +237690,11 @@ iop5=Destroy
 
 [twisted_slayer_helmet_i_24444]
 name=Twisted slayer helmet (i)
-model=twisted_slayer_helmet_38958
-manwear=twisted_slayer_helmet_38960,0
-womanwear=twisted_slayer_helmet_38970,0
-manhead=twisted_slayer_helmet_38997
-femalehead=twisted_slayer_helmet_38997
+model=twisted_slayer_helmet_42706
+manwear=twisted_slayer_helmet_42678,0
+womanwear=twisted_slayer_helmet_42683,0
+manhead=twisted_slayer_helmet_42698
+femalehead=twisted_slayer_helmet_42698
 category=category_2
 cost=90000
 2dzoom=779
@@ -244912,11 +244912,11 @@ recol2d=-22256
 
 [slayer_helmet_i_25177]
 name=Slayer helmet (i)
-model=slayer_helmet_i_16269
-manwear=slayer_helmet_i_16274,0
-womanwear=slayer_helmet_i_16276,0
-manhead=slayer_helmet_i_16277
-femalehead=slayer_helmet_i_16278
+model=slayer_helmet_i_42702
+manwear=slayer_helmet_i_42677,0
+womanwear=slayer_helmet_i_42688,0
+manhead=slayer_helmet_i_42696
+femalehead=slayer_helmet_i_42696
 category=category_2
 cost=90000
 2dzoom=779
@@ -244939,11 +244939,11 @@ placeholder=yes
 
 [black_slayer_helmet_i_25179]
 name=Black slayer helmet (i)
-model=black_slayer_helmet_31545
-manwear=black_slayer_helmet_31549,0
-womanwear=black_slayer_helmet_31552,0
-manhead=black_slayer_helmet_31558
-femalehead=black_slayer_helmet_31558
+model=black_slayer_helmet_42700
+manwear=black_slayer_helmet_42676,0
+womanwear=black_slayer_helmet_42684,0
+manhead=black_slayer_helmet_42695
+femalehead=black_slayer_helmet_42695
 category=category_2
 cost=90000
 2dzoom=779
@@ -244966,11 +244966,11 @@ placeholder=yes
 
 [green_slayer_helmet_i_25181]
 name=Green slayer helmet (i)
-model=green_slayer_helmet_31546
-manwear=green_slayer_helmet_31548,0
-womanwear=green_slayer_helmet_31553,0
-manhead=green_slayer_helmet_31557
-femalehead=green_slayer_helmet_31557
+model=green_slayer_helmet_42705
+manwear=green_slayer_helmet_42681,0
+womanwear=green_slayer_helmet_42682,0
+manhead=green_slayer_helmet_42697
+femalehead=green_slayer_helmet_42697
 category=category_2
 cost=90000
 2dzoom=779
@@ -244993,11 +244993,11 @@ placeholder=yes
 
 [red_slayer_helmet_i_25183]
 name=Red slayer helmet (i)
-model=red_slayer_helmet_31547
-manwear=red_slayer_helmet_31550,0
-womanwear=red_slayer_helmet_31551,0
-manhead=red_slayer_helmet_31556
-femalehead=red_slayer_helmet_31556
+model=red_slayer_helmet_42708
+manwear=red_slayer_helmet_42674,0
+womanwear=red_slayer_helmet_42689,0
+manhead=red_slayer_helmet_42694
+femalehead=red_slayer_helmet_42694
 category=category_2
 cost=90000
 2dzoom=779
@@ -245020,11 +245020,11 @@ placeholder=yes
 
 [purple_slayer_helmet_i_25185]
 name=Purple slayer helmet (i)
-model=purple_slayer_helmet_32991
-manwear=purple_slayer_helmet_32992,0
-womanwear=purple_slayer_helmet_32993,0
-manhead=purple_slayer_helmet_32995
-femalehead=purple_slayer_helmet_32995
+model=purple_slayer_helmet_42704
+manwear=purple_slayer_helmet_42673,0
+womanwear=purple_slayer_helmet_42685,0
+manhead=purple_slayer_helmet_42692
+femalehead=purple_slayer_helmet_42692
 category=category_2
 cost=90000
 2dzoom=779
@@ -245047,11 +245047,11 @@ placeholder=yes
 
 [turquoise_slayer_helmet_i_25187]
 name=Turquoise slayer helmet (i)
-model=turquoise_slayer_helmet_34619
-manwear=turquoise_slayer_helmet_34626,0
-womanwear=turquoise_slayer_helmet_34638,0
-manhead=turquoise_slayer_helmet_35090
-femalehead=turquoise_slayer_helmet_35090
+model=turquoise_slayer_helmet_42701
+manwear=turquoise_slayer_helmet_42680,0
+womanwear=turquoise_slayer_helmet_42690,0
+manhead=turquoise_slayer_helmet_42691
+femalehead=turquoise_slayer_helmet_42691
 category=category_2
 cost=90000
 2dzoom=779
@@ -245074,11 +245074,11 @@ placeholder=yes
 
 [hydra_slayer_helmet_i_25189]
 name=Hydra slayer helmet (i)
-model=hydra_slayer_helmet_36941
-manwear=hydra_slayer_helmet_36949,0
-womanwear=hydra_slayer_helmet_36950,0
-manhead=hydra_slayer_helmet_36954
-femalehead=hydra_slayer_helmet_36954
+model=hydra_slayer_helmet_42703
+manwear=hydra_slayer_helmet_42675,0
+womanwear=hydra_slayer_helmet_42687,0
+manhead=hydra_slayer_helmet_42693
+femalehead=hydra_slayer_helmet_42693
 category=category_2
 cost=90000
 2dzoom=779
@@ -245101,11 +245101,11 @@ placeholder=yes
 
 [twisted_slayer_helmet_i_25191]
 name=Twisted slayer helmet (i)
-model=twisted_slayer_helmet_38958
-manwear=twisted_slayer_helmet_38960,0
-womanwear=twisted_slayer_helmet_38970,0
-manhead=twisted_slayer_helmet_38997
-femalehead=twisted_slayer_helmet_38997
+model=twisted_slayer_helmet_42706
+manwear=twisted_slayer_helmet_42678,0
+womanwear=twisted_slayer_helmet_42683,0
+manhead=twisted_slayer_helmet_42698
+femalehead=twisted_slayer_helmet_42698
 category=category_2
 cost=90000
 2dzoom=779

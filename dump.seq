@@ -13976,9 +13976,10 @@ framegroup1=901
 
 [seq_2295]
 framecount=21
-priority=6
 mainhand=0
 offhand=0
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=298
 
@@ -50292,7 +50293,7 @@ framegroup1=2262
 
 [seq_8234]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50301,7 +50302,7 @@ soundeffect8=4128,1,15
 
 [seq_8235]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50310,7 +50311,7 @@ soundeffect8=4089,1,15
 
 [seq_8236]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50351,7 +50352,7 @@ soundeffect27=4132,1,10
 
 [seq_8241]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50360,7 +50361,7 @@ soundeffect8=4128,1,15
 
 [seq_8242]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50369,7 +50370,7 @@ soundeffect8=4089,1,15
 
 [seq_8243]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50408,7 +50409,7 @@ framegroup1=2266
 
 [seq_8248]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50417,7 +50418,7 @@ soundeffect8=4128,1,15
 
 [seq_8249]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50426,7 +50427,7 @@ soundeffect8=4089,1,15
 
 [seq_8250]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50463,7 +50464,7 @@ framegroup1=2273
 
 [seq_8255]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -50472,7 +50473,7 @@ soundeffect8=4103,1,15
 
 [seq_8256]
 framecount=17
-priority=6
+priority=8
 exactmove=2
 movetype=2
 looptype=1
@@ -56276,4 +56277,46 @@ mainhand=0
 offhand=26360
 looptype=1
 framegroup1=2375
+
+[seq_9109]
+framecount=13
+looptype=1
+framegroup1=2009
+
+[seq_9110]
+framecount=13
+looptype=1
+framegroup1=2009
+
+[seq_9111]
+framecount=16
+priority=7
+exactmove=2
+movetype=2
+looptype=1
+framegroup1=2756
+
+[seq_9112]
+framecount=16
+priority=7
+exactmove=2
+movetype=2
+looptype=1
+framegroup1=2755
+
+[seq_9113]
+framecount=16
+priority=7
+exactmove=2
+movetype=2
+looptype=1
+framegroup1=2758
+
+[seq_9114]
+framecount=16
+priority=7
+exactmove=2
+movetype=2
+looptype=1
+framegroup1=2757
 

@@ -5800,6 +5800,7 @@ val=47,Basilocked
 val=48,Twisted Vision
 val=49,More at stake
 val=50,Actual Vampyre Slayer
+val=51,Task Storage
 
 [enum_835]
 inputtype=int
@@ -5856,6 +5857,7 @@ val=47,"Konar, Duradel and Nieve will be able to assign Basilisks as your task."
 val=48,Learn how to combine Twisted Horns with your slayer helm to theme it like the Great Olm.
 val=49,"Whenever you get a Vampyre task, it will be a bigger task."
 val=50,"Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task."
+val=51,"Gain the ability to store your task for 50 points, allowing you to take it at a later point in time."
 
 [enum_836]
 inputtype=int
@@ -5912,6 +5914,7 @@ val=47,80
 val=48,1000
 val=49,100
 val=50,80
+val=51,1000
 
 [enum_837]
 inputtype=int
@@ -5968,6 +5971,7 @@ val=47,basilisk_4139
 val=48,twisted_slayer_helmet_24370
 val=49,vampyre_24708
 val=50,vampyre_24708
+val=51,barrel_1841
 
 [enum_839]
 inputtype=int
@@ -5999,6 +6003,7 @@ val=22,44
 val=23,47
 val=24,48
 val=25,50
+val=26,51
 
 [enum_840]
 inputtype=int

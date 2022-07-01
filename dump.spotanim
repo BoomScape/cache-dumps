@@ -12745,3 +12745,11 @@ anim=seq_370
 recol1s=82
 recol1d=58690
 
+[spotanim_1938]
+model=model_34252
+anim=seq_9109
+
+[spotanim_1939]
+model=model_34252
+anim=seq_9110
+
