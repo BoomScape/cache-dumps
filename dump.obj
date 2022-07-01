@@ -236301,8 +236301,8 @@ param=param_451,Trophy Emote
 [placeholder_trailblazer_rune_trophy_25045]
 placeholder=yes
 
-[twisted_adamant_trophy_25046]
-name=Twisted adamant trophy
+[trailblazer_adamant_trophy_25046]
+name=Trailblazer adamant trophy
 model=twisted_adamant_trophy_41102
 manwear=twisted_adamant_trophy_40967,0
 womanwear=twisted_adamant_trophy_40967,6
@@ -236325,7 +236325,7 @@ members=yes
 placeholder=yes
 param=param_451,Trophy Emote
 
-[placeholder_twisted_adamant_trophy_25047]
+[placeholder_trailblazer_adamant_trophy_25047]
 placeholder=yes
 
 [trailblazer_mithril_trophy_25048]
