@@ -24,7 +24,7 @@ height=305
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_335:0
-onload="script755(event_com,21954585,21954586,21954588,21954589)"
+onload="script755(event_com,21954585,21954586,21954588,21954589,21954572)"
 
 [interface_335:3]
 type=^iftype_layer
@@ -97,10 +97,11 @@ shadowed=yes
 
 [interface_335:10]
 type=^iftype_layer
-x=11
-y=121
-width=76
+y=4
+width=84
 height=44
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 layer=interface_335:5
 optionmask=2
 op1="Accept"
@@ -133,10 +134,11 @@ shadowed=yes
 
 [interface_335:13]
 type=^iftype_layer
-x=11
-y=194
-width=76
+y=77
+width=84
 height=44
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 layer=interface_335:5
 optionmask=2
 op1="Decline"

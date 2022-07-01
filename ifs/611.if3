@@ -12,6 +12,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+hide=yes
 layer=interface_611:0
 colour=0xda732c
 fill=yes

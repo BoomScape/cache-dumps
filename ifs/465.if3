@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script803(event_com,30474242,30474243,30474244,30474245,30474246,30474255,30474257,30474262,30474263,30474264,30474266,30474267,30474269)"
+onload="script803(event_com,30474242,30474243,30474244,30474245,30474246,30474255,30474257,30474263,30474264,30474265,30474267,30474269,30474272)"
 
 [interface_465:1]
 type=^iftype_layer
@@ -164,6 +164,15 @@ paraheight=15
 shadowed=yes
 
 [interface_465:18]
+type=^iftype_layer
+width=40
+height=40
+hide=yes
+layer=interface_465:15
+optionmask=2
+op1="*"
+
+[interface_465:19]
 type=^iftype_graphic
 x=356
 y=195
@@ -173,7 +182,7 @@ layer=interface_465:15
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_465:19]
+[interface_465:20]
 type=^iftype_graphic
 y=178
 width=472
@@ -182,7 +191,7 @@ layer=interface_465:15
 graphic="v2_borders_slim,8"
 tiling=yes
 
-[interface_465:20]
+[interface_465:21]
 type=^iftype_graphic
 x=344
 y=196
@@ -193,7 +202,7 @@ graphic="v2_borders_slim,3"
 tiling=yes
 fliph=yes
 
-[interface_465:21]
+[interface_465:22]
 type=^iftype_graphic
 x=342
 y=195
@@ -203,7 +212,7 @@ layer=interface_465:15
 graphic="v2_borders_slim,9"
 angle=49152
 
-[interface_465:22]
+[interface_465:23]
 type=^iftype_layer
 x=53
 y=195
@@ -211,7 +220,7 @@ width=292
 height=64
 layer=interface_465:15
 
-[interface_465:23]
+[interface_465:24]
 type=^iftype_layer
 x=359
 y=198
@@ -219,7 +228,7 @@ width=113
 height=60
 layer=interface_465:15
 
-[interface_465:24]
+[interface_465:25]
 type=^iftype_layer
 x=6
 y=40
@@ -228,25 +237,25 @@ height=258
 hide=yes
 layer=interface_465:1
 
-[interface_465:25]
+[interface_465:26]
 type=^iftype_text
 x=175
 y=25
 width=274
 height=64
-layer=interface_465:24
+layer=interface_465:25
 colour=0xffb83f
 font=p11_full
 paraheight=15
 shadowed=yes
 
-[interface_465:26]
+[interface_465:27]
 type=^iftype_text
 x=15
 y=70
 width=150
 height=18
-layer=interface_465:24
+layer=interface_465:25
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_right
@@ -254,26 +263,41 @@ valign=^settextalign_centre
 paraheight=15
 shadowed=yes
 
-[interface_465:27]
+[interface_465:28]
+type=^iftype_layer
+width=40
+height=40
+hide=yes
+layer=interface_465:25
+optionmask=2
+op1="*"
+
+[interface_465:29]
 type=^iftype_layer
 x=160
 y=209
 width=152
 height=40
-layer=interface_465:24
+layer=interface_465:25
 optionmask=2
 op1="Confirm"
 
-[interface_465:28]
+[interface_465:30]
 type=^iftype_graphic
 y=178
 width=472
 height=32
-layer=interface_465:24
+layer=interface_465:25
 graphic="v2_borders_slim,8"
 tiling=yes
 
-[interface_465:29]
+[interface_465:31]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_465:1
+
+[interface_465:32]
 type=^iftype_layer
 width=1
 height=1

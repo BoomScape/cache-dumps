@@ -82745,6 +82745,7 @@ param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,4
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,4
+param=param_1416,yes
 
 [progress_hat_6885]
 name=Progress hat
@@ -179706,6 +179707,7 @@ param=magic_runetype_2_367,death_rune_560
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,chaos_rune_562
 param=magic_runecount_3_370,1
+param=param_1416,yes
 
 [placeholder_orb_of_light_17153]
 placeholder=yes
@@ -195312,7 +195314,7 @@ placeholder=yes
 name=Bandos godsword (or)
 model=bandos_godsword_or_32051
 manwear=bandos_godsword_or_31895,2
-womanwear=bandos_godsword_42637,0
+womanwear=bandos_godsword_or_42640,0
 category=category_61
 cost=1250000
 2dzoom=1957

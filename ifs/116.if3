@@ -45,11 +45,15 @@ layer=interface_116:3
 
 [interface_116:5]
 type=^iftype_layer
-y=3
-width=172
-height=34
+y=6
+width=10
+height=28
 hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
 layer=interface_116:4
+optionmask=2
+op1="Toggle skull prevention"
+onload="script5523(event_com,7602262)"
 
 [interface_116:6]
 type=^iftype_layer
@@ -59,7 +63,7 @@ height=39
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_116:4
-onload="script4564(7602182,7602255,7602251,7602253,7602259,7602260,7602176)"
+onload="script4564(7602182,7602257,7602253,7602255,7602261,7602262,7602176)"
 
 [interface_116:7]
 type=^iftype_layer
@@ -69,7 +73,7 @@ height=39
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_116:4
-onload="script4565(7602183,7602256,7602251,7602253,7602259,7602260,7602176)"
+onload="script4565(7602183,7602258,7602253,7602255,7602261,7602262,7602176)"
 
 [interface_116:8]
 type=^iftype_layer
@@ -79,7 +83,7 @@ height=40
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_116:4
-onload="script3908(7602248,7602246,7602247,7602250,7602260)"
+onload="script3908(7602250,7602248,7602249,7602252,7602262)"
 
 [interface_116:9]
 type=^iftype_layer
@@ -104,20 +108,20 @@ hide=yes
 layer=interface_116:3
 
 [interface_116:11]
-type=^iftype_layer
-y=5
-height=38
+type=^iftype_graphic
+width=32
+height=32
 hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_116:10
-onload="script381(7602188,7602199,7602200,7602260)"
+vposmode=^setpos_abs_centre
+layer=interface_116:12
+graphic="options_icons,0"
 
 [interface_116:12]
 type=^iftype_layer
 width=36
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_116:11
+layer=interface_116:25
 
 [interface_116:13]
 type=^iftype_layer
@@ -125,9 +129,9 @@ width=144
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:11
-onmouseleave="script40(7602260)"
-onmouserepeat="script526(event_com,-1,7602260,Adjust Brightness,25,190)"
+layer=interface_116:25
+onmouseleave="script40(7602262)"
+onmouserepeat="script526(event_com,-1,7602262,Adjust Brightness,25,190)"
 
 [interface_116:14]
 type=^iftype_graphic
@@ -207,7 +211,7 @@ width=112
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:11
+layer=interface_116:25
 
 [interface_116:24]
 type=^iftype_graphic
@@ -219,373 +223,390 @@ graphic="settings_slider,6"
 
 [interface_116:25]
 type=^iftype_layer
-y=45
-width=10
-height=39
+y=4
+height=34
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_116:10
-onload="script440(7602201,7602258,7602251,7602253,7602259,7602260,7602176)"
+onload="script381(7602188,7602199,7602200,7602262)"
 
 [interface_116:26]
 type=^iftype_layer
-y=86
+y=41
+width=172
+height=34
+hposmode=^setpos_abs_centre
+layer=interface_116:10
+
+[interface_116:27]
+type=^iftype_layer
+y=77
 width=10
 height=39
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_116:10
-onload="script4566(7602202,7602257,7602251,7602253,7602259,7602260,7602176)"
+onload="script440(7602203,7602260,7602253,7602255,7602261,7602262,7602176)"
 
-[interface_116:27]
+[interface_116:28]
+type=^iftype_layer
+y=118
+width=10
+height=39
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_116:10
+onload="script4566(7602204,7602259,7602253,7602255,7602261,7602262,7602176)"
+
+[interface_116:29]
 type=^iftype_layer
 y=5
 height=38
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_116:9
-onload="script3933(7602204,7602215,7602216,7602260)"
+onload="script3933(7602206,7602217,7602218,7602262)"
 
-[interface_116:28]
+[interface_116:30]
 type=^iftype_layer
 width=36
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_116:27
+layer=interface_116:29
 optionmask=2
 op1="*"
 
-[interface_116:29]
+[interface_116:31]
 type=^iftype_layer
 width=144
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:27
-onmouseleave="script40(7602260)"
-onmouserepeat="script526(event_com,-1,7602260,Adjust Music Volume,25,190)"
+layer=interface_116:29
+onmouseleave="script40(7602262)"
+onmouserepeat="script526(event_com,-1,7602262,Adjust Music Volume,25,190)"
 
-[interface_116:30]
+[interface_116:32]
 type=^iftype_graphic
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,0"
 
-[interface_116:31]
+[interface_116:33]
 type=^iftype_graphic
 x=16
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,1"
 
-[interface_116:32]
+[interface_116:34]
 type=^iftype_graphic
 x=32
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,9"
 
-[interface_116:33]
+[interface_116:35]
 type=^iftype_graphic
 x=48
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,10"
 
-[interface_116:34]
+[interface_116:36]
 type=^iftype_graphic
 x=64
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,2"
 
-[interface_116:35]
+[interface_116:37]
 type=^iftype_graphic
 x=80
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,9"
 
-[interface_116:36]
+[interface_116:38]
 type=^iftype_graphic
 x=96
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,10"
 
-[interface_116:37]
+[interface_116:39]
 type=^iftype_graphic
 x=112
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,2"
 
-[interface_116:38]
+[interface_116:40]
 type=^iftype_graphic
 x=128
 width=16
 height=16
-layer=interface_116:29
+layer=interface_116:31
 graphic="settings_slider,5"
 
-[interface_116:39]
+[interface_116:41]
 type=^iftype_layer
 x=16
 width=112
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:27
+layer=interface_116:29
 
-[interface_116:40]
+[interface_116:42]
 type=^iftype_graphic
 width=16
 height=16
 hposmode=^setpos_abs_centre
-layer=interface_116:39
+layer=interface_116:41
 graphic="settings_slider,6"
 
-[interface_116:41]
+[interface_116:43]
 type=^iftype_layer
 y=48
 height=38
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_116:9
-onload="script3934(7602218,7602229,7602230,7602260)"
+onload="script3934(7602220,7602231,7602232,7602262)"
 
-[interface_116:42]
+[interface_116:44]
 type=^iftype_layer
 width=36
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_116:41
+layer=interface_116:43
 optionmask=2
 op1="*"
 
-[interface_116:43]
+[interface_116:45]
 type=^iftype_layer
 width=144
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:41
-onmouseleave="script40(7602260)"
-onmouserepeat="script526(event_com,-1,7602260,Adjust Sound Effect Volume,25,190)"
+layer=interface_116:43
+onmouseleave="script40(7602262)"
+onmouserepeat="script526(event_com,-1,7602262,Adjust Sound Effect Volume,25,190)"
 
-[interface_116:44]
+[interface_116:46]
 type=^iftype_graphic
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,0"
 
-[interface_116:45]
+[interface_116:47]
 type=^iftype_graphic
 x=16
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,1"
 
-[interface_116:46]
+[interface_116:48]
 type=^iftype_graphic
 x=32
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,9"
 
-[interface_116:47]
+[interface_116:49]
 type=^iftype_graphic
 x=48
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,10"
 
-[interface_116:48]
+[interface_116:50]
 type=^iftype_graphic
 x=64
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,2"
 
-[interface_116:49]
+[interface_116:51]
 type=^iftype_graphic
 x=80
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,9"
 
-[interface_116:50]
+[interface_116:52]
 type=^iftype_graphic
 x=96
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,10"
 
-[interface_116:51]
+[interface_116:53]
 type=^iftype_graphic
 x=112
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,2"
 
-[interface_116:52]
+[interface_116:54]
 type=^iftype_graphic
 x=128
 width=16
 height=16
-layer=interface_116:43
+layer=interface_116:45
 graphic="settings_slider,5"
 
-[interface_116:53]
+[interface_116:55]
 type=^iftype_layer
 x=16
 width=112
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:41
+layer=interface_116:43
 
-[interface_116:54]
+[interface_116:56]
 type=^iftype_graphic
 width=16
 height=16
 hposmode=^setpos_abs_centre
-layer=interface_116:53
+layer=interface_116:55
 graphic="settings_slider,6"
 
-[interface_116:55]
+[interface_116:57]
 type=^iftype_layer
 y=91
 height=38
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_116:9
-onload="script3935(7602232,7602243,7602244,7602260)"
+onload="script3935(7602234,7602245,7602246,7602262)"
 
-[interface_116:56]
+[interface_116:58]
 type=^iftype_layer
 width=36
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_116:55
+layer=interface_116:57
 optionmask=2
 op1="*"
 
-[interface_116:57]
+[interface_116:59]
 type=^iftype_layer
 width=144
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:55
-onmouseleave="script40(7602260)"
-onmouserepeat="script526(event_com,-1,7602260,Adjust Area Sound Volume,25,190)"
+layer=interface_116:57
+onmouseleave="script40(7602262)"
+onmouserepeat="script526(event_com,-1,7602262,Adjust Area Sound Volume,25,190)"
 
-[interface_116:58]
+[interface_116:60]
 type=^iftype_graphic
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,0"
 
-[interface_116:59]
+[interface_116:61]
 type=^iftype_graphic
 x=16
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,1"
 
-[interface_116:60]
+[interface_116:62]
 type=^iftype_graphic
 x=32
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,9"
 
-[interface_116:61]
+[interface_116:63]
 type=^iftype_graphic
 x=48
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,10"
 
-[interface_116:62]
+[interface_116:64]
 type=^iftype_graphic
 x=64
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,2"
 
-[interface_116:63]
+[interface_116:65]
 type=^iftype_graphic
 x=80
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,9"
 
-[interface_116:64]
+[interface_116:66]
 type=^iftype_graphic
 x=96
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,10"
 
-[interface_116:65]
+[interface_116:67]
 type=^iftype_graphic
 x=112
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,2"
 
-[interface_116:66]
+[interface_116:68]
 type=^iftype_graphic
 x=128
 width=16
 height=16
-layer=interface_116:57
+layer=interface_116:59
 graphic="settings_slider,5"
 
-[interface_116:67]
+[interface_116:69]
 type=^iftype_layer
 x=16
 width=112
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:55
+layer=interface_116:57
 
-[interface_116:68]
+[interface_116:70]
 type=^iftype_graphic
 width=16
 height=16
 hposmode=^setpos_abs_centre
-layer=interface_116:67
+layer=interface_116:69
 graphic="settings_slider,6"
 
-[interface_116:69]
+[interface_116:71]
 type=^iftype_layer
 y=5
 width=20
@@ -596,9 +617,9 @@ hsizemode=^setsize_minus
 layer=interface_116:9
 optionmask=2
 op1="Toggle unlock message"
-onload="script3927(event_com,7602260)"
+onload="script3927(event_com,7602262)"
 
-[interface_116:70]
+[interface_116:72]
 type=^iftype_layer
 x=1
 width=40
@@ -607,7 +628,7 @@ layer=interface_116:8
 optionmask=2
 op1="Toggle Accept Aid"
 
-[interface_116:71]
+[interface_116:73]
 type=^iftype_layer
 x=43
 width=40
@@ -616,7 +637,7 @@ layer=interface_116:8
 optionmask=2
 op1="Toggle Run"
 
-[interface_116:72]
+[interface_116:74]
 type=^iftype_layer
 x=85
 width=40
@@ -625,7 +646,7 @@ layer=interface_116:8
 optionmask=2
 op1="View House Options"
 
-[interface_116:73]
+[interface_116:75]
 type=^iftype_layer
 y=3
 width=50
@@ -636,9 +657,9 @@ hsizemode=^setsize_minus
 layer=interface_116:0
 optionmask=2
 op1="All Settings"
-onload="script3903(event_com,7602260)"
+onload="script3903(event_com,7602262)"
 
-[interface_116:74]
+[interface_116:76]
 type=^iftype_layer
 x=127
 width=40
@@ -647,7 +668,7 @@ layer=interface_116:8
 optionmask=2
 op1="Open Bond Pouch"
 
-[interface_116:75]
+[interface_116:77]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -657,56 +678,34 @@ hide=yes
 layer=interface_116:0
 noclickthrough=yes
 
-[interface_116:76]
+[interface_116:78]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_116:75
+layer=interface_116:77
 fill=yes
 trans=255
 
-[interface_116:77]
+[interface_116:79]
 type=^iftype_layer
 x=90
 width=100
 height=50
 hposmode=^setpos_abs_right
-layer=interface_116:75
+layer=interface_116:77
 onload="script714(event_com)"
 
-[interface_116:78]
+[interface_116:80]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_116:77
+layer=interface_116:79
 graphic="tradebacking_light"
 tiling=yes
-
-[interface_116:79]
-type=^iftype_layer
-x=2
-width=20
-height=4
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-hide=yes
-layer=interface_116:77
-
-[interface_116:80]
-type=^iftype_layer
-x=2
-width=20
-height=4
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-hide=yes
-layer=interface_116:77
 
 [interface_116:81]
 type=^iftype_layer
@@ -717,7 +716,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_116:77
+layer=interface_116:79
 
 [interface_116:82]
 type=^iftype_layer
@@ -728,9 +727,31 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_116:77
+layer=interface_116:79
 
 [interface_116:83]
+type=^iftype_layer
+x=2
+width=20
+height=4
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_116:79
+
+[interface_116:84]
+type=^iftype_layer
+x=2
+width=20
+height=4
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_116:79
+
+[interface_116:85]
 type=^iftype_layer
 x=2
 width=16
@@ -738,148 +759,148 @@ height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_116:77
+layer=interface_116:79
 
-[interface_116:84]
+[interface_116:86]
 type=^iftype_layer
 width=1
 height=1
 layer=interface_116:0
 
-[interface_116:85]
+[interface_116:87]
 type=^iftype_layer
 x=2
 width=32
 height=32
 vposmode=^setpos_abs_centre
-layer=interface_116:5
+layer=interface_116:26
 optionmask=6
 op1="*"
 op2="Restore Default Zoom"
-onload="script831(7602261,7602262,7602263,7602274,7602275,7602260)"
-onvartransmit="script3942(7602263,7602261,7602260){var_1055}"
-onop="script43(7602261,7602263,event_opindex,7602260)"
-
-[interface_116:86]
-type=^iftype_graphic
-x=2
-width=32
-height=32
-vposmode=^setpos_abs_centre
-layer=interface_116:5
-graphic="options_icons,33"
-
-[interface_116:87]
-type=^iftype_graphic
-x=2
-width=32
-height=32
-vposmode=^setpos_abs_centre
-layer=interface_116:5
-graphic="stop"
+onload="script831(7602263,7602264,7602265,7602276,7602277,7602262)"
+onvartransmit="script3942(7602265,7602263,7602262){var_1055}"
+onop="script43(7602263,7602265,event_opindex,7602262)"
 
 [interface_116:88]
+type=^iftype_graphic
+x=2
+width=32
+height=32
+vposmode=^setpos_abs_centre
+layer=interface_116:26
+graphic="options_icons,33"
+
+[interface_116:89]
+type=^iftype_graphic
+x=2
+width=32
+height=32
+vposmode=^setpos_abs_centre
+layer=interface_116:26
+graphic="stop"
+
+[interface_116:90]
 type=^iftype_layer
 width=144
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:5
-onmouseleave="script40(7602260)"
-onmouserepeat="script526(event_com,-1,7602260,Adjust Camera Zoom,25,190)"
+layer=interface_116:26
+onmouseleave="script40(7602262)"
+onmouserepeat="script526(event_com,-1,7602262,Adjust Camera Zoom,25,190)"
 
-[interface_116:89]
+[interface_116:91]
 type=^iftype_graphic
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,0"
 
-[interface_116:90]
+[interface_116:92]
 type=^iftype_graphic
 x=16
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,1"
 
-[interface_116:91]
+[interface_116:93]
 type=^iftype_graphic
 x=32
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,9"
 
-[interface_116:92]
+[interface_116:94]
 type=^iftype_graphic
 x=48
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,10"
 
-[interface_116:93]
+[interface_116:95]
 type=^iftype_graphic
 x=64
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,2"
 
-[interface_116:94]
+[interface_116:96]
 type=^iftype_graphic
 x=80
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,9"
 
-[interface_116:95]
+[interface_116:97]
 type=^iftype_graphic
 x=96
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,10"
 
-[interface_116:96]
+[interface_116:98]
 type=^iftype_graphic
 x=112
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,2"
 
-[interface_116:97]
+[interface_116:99]
 type=^iftype_graphic
 x=128
 width=16
 height=16
-layer=interface_116:88
+layer=interface_116:90
 graphic="settings_slider,5"
 
-[interface_116:98]
+[interface_116:100]
 type=^iftype_layer
 x=16
 width=112
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_116:5
+layer=interface_116:26
 optionmask=1048576
-onclick="script1047(7602275,event_com,event_mousex)"
+onclick="script1047(7602277,event_com,event_mousex)"
 
-[interface_116:99]
+[interface_116:101]
 type=^iftype_graphic
 width=16
 height=16
 hposmode=^setpos_abs_centre
-layer=interface_116:98
+layer=interface_116:100
 graphic="slider_bobble"
 optionmask=131072
 
-[interface_116:100]
+[interface_116:102]
 type=^iftype_line
 y=2
 width=3
@@ -887,7 +908,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_116:1
 colour=0x5d5848
 
-[interface_116:101]
+[interface_116:103]
 type=^iftype_line
 x=60
 y=2
@@ -896,7 +917,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_116:1
 colour=0x5d5848
 
-[interface_116:102]
+[interface_116:104]
 type=^iftype_line
 x=61
 y=2
@@ -906,7 +927,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_116:1
 colour=0x5d5848
 
-[interface_116:103]
+[interface_116:105]
 type=^iftype_line
 y=2
 width=5
@@ -915,7 +936,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_116:1
 colour=0x5d5848
 
-[interface_116:104]
+[interface_116:106]
 type=^iftype_layer
 width=62
 vposmode=^setpos_abs_centre
@@ -923,27 +944,6 @@ vsizemode=^setsize_minus
 layer=interface_116:1
 optionmask=2
 op1="*"
-
-[interface_116:105]
-type=^iftype_graphic
-x=2
-y=1
-width=20
-height=26
-vposmode=^setpos_abs_bottom
-layer=interface_116:104
-graphic="tabs_tall,0"
-
-[interface_116:106]
-type=^iftype_graphic
-y=1
-width=40
-height=26
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
-hsizemode=^setsize_minus
-layer=interface_116:104
-graphic="tabs_tall,1"
 
 [interface_116:107]
 type=^iftype_graphic
@@ -951,53 +951,11 @@ x=2
 y=1
 width=20
 height=26
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_116:104
+layer=interface_116:106
 graphic="tabs_tall,0"
-fliph=yes
 
 [interface_116:108]
-type=^iftype_graphic
-y=3
-width=22
-height=22
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
-layer=interface_116:104
-graphic="graphic_2410"
-
-[interface_116:109]
-type=^iftype_layer
-width=62
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-vsizemode=^setsize_minus
-layer=interface_116:1
-optionmask=2
-op1="*"
-
-[interface_116:110]
-type=^iftype_layer
-width=62
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_centre
-vsizemode=^setsize_minus
-layer=interface_116:1
-optionmask=2
-op1="*"
-
-[interface_116:111]
-type=^iftype_graphic
-x=2
-y=1
-width=20
-height=26
-vposmode=^setpos_abs_bottom
-layer=interface_116:109
-graphic="tabs_tall,0"
-
-[interface_116:112]
 type=^iftype_graphic
 y=1
 width=40
@@ -1005,8 +963,50 @@ height=26
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_116:109
+layer=interface_116:106
 graphic="tabs_tall,1"
+
+[interface_116:109]
+type=^iftype_graphic
+x=2
+y=1
+width=20
+height=26
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_116:106
+graphic="tabs_tall,0"
+fliph=yes
+
+[interface_116:110]
+type=^iftype_graphic
+y=3
+width=22
+height=22
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+layer=interface_116:106
+graphic="graphic_2410"
+
+[interface_116:111]
+type=^iftype_layer
+width=62
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_116:1
+optionmask=2
+op1="*"
+
+[interface_116:112]
+type=^iftype_layer
+width=62
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_116:1
+optionmask=2
+op1="*"
 
 [interface_116:113]
 type=^iftype_graphic
@@ -1014,32 +1014,11 @@ x=2
 y=1
 width=20
 height=26
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_116:109
+layer=interface_116:111
 graphic="tabs_tall,0"
-fliph=yes
 
 [interface_116:114]
-type=^iftype_graphic
-width=17
-height=18
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-layer=interface_116:109
-graphic="options_icons_small,6"
-
-[interface_116:115]
-type=^iftype_graphic
-x=2
-y=1
-width=20
-height=26
-vposmode=^setpos_abs_bottom
-layer=interface_116:110
-graphic="tabs_tall,0"
-
-[interface_116:116]
 type=^iftype_graphic
 y=1
 width=40
@@ -1047,10 +1026,10 @@ height=26
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_116:110
+layer=interface_116:111
 graphic="tabs_tall,1"
 
-[interface_116:117]
+[interface_116:115]
 type=^iftype_graphic
 x=2
 y=1
@@ -1058,16 +1037,58 @@ width=20
 height=26
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_116:110
+layer=interface_116:111
 graphic="tabs_tall,0"
 fliph=yes
 
+[interface_116:116]
+type=^iftype_graphic
+width=17
+height=18
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_116:111
+graphic="options_icons_small,6"
+
+[interface_116:117]
+type=^iftype_graphic
+x=2
+y=1
+width=20
+height=26
+vposmode=^setpos_abs_bottom
+layer=interface_116:112
+graphic="tabs_tall,0"
+
 [interface_116:118]
+type=^iftype_graphic
+y=1
+width=40
+height=26
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+layer=interface_116:112
+graphic="tabs_tall,1"
+
+[interface_116:119]
+type=^iftype_graphic
+x=2
+y=1
+width=20
+height=26
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_116:112
+graphic="tabs_tall,0"
+fliph=yes
+
+[interface_116:120]
 type=^iftype_graphic
 width=22
 height=22
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_116:110
+layer=interface_116:112
 graphic="graphic_2932"
 

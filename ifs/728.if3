@@ -151,3 +151,9 @@ vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_728:0
 
+[interface_728:16]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_728:0
+
