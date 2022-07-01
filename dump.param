@@ -1124,6 +1124,16 @@ default=null
 type=enum
 default=null
 
+[param_916]
+type=int
+
+[param_917]
+type=int
+default=999999
+
+[param_918]
+type=int
+
 [param_919]
 autodisable=no
 
@@ -1590,10 +1600,6 @@ type=boolean
 [param_1119]
 type=boolean
 
-[param_1133]
-type=int
-default=null
-
 [param_1134]
 type=coordgrid
 default=null
@@ -1608,4 +1614,24 @@ default=null
 
 [param_1137]
 type=int
+
+[param_1143]
+type=graphic
+default="trailblazer_relics,39"
+
+[param_1144]
+type=graphic
+default="trailblazer_relics,38"
+
+[param_1145]
+type=enum
+default=null
+
+[param_1146]
+type=enum
+default=null
+
+[param_1147]
+type=enum
+default=null
 

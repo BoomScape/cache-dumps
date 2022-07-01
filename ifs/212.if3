@@ -42,7 +42,7 @@ width=332
 height=222
 layer=interface_212:0
 scrollheight=1000
-onload="script648(event_com,13893698)"
+onload="script648(event_com,13893699)"
 
 [interface_212:5]
 type=^iftype_layer
@@ -562,6 +562,12 @@ height=61
 layer=interface_212:4
 
 [interface_212:63]
+type=^iftype_layer
+width=332
+height=61
+layer=interface_212:4
+
+[interface_212:64]
 type=^iftype_model
 width=65
 height=61
@@ -572,7 +578,7 @@ originy=400
 xan=214
 zoom=1200
 
-[interface_212:64]
+[interface_212:65]
 type=^iftype_model
 width=65
 height=61
@@ -583,7 +589,7 @@ originy=90
 yan=512
 zoom=2000
 
-[interface_212:65]
+[interface_212:66]
 type=^iftype_model
 width=65
 height=61
@@ -594,7 +600,7 @@ originy=470
 xan=214
 zoom=1200
 
-[interface_212:66]
+[interface_212:67]
 type=^iftype_layer
 x=354
 y=60
@@ -602,7 +608,7 @@ width=16
 height=222
 layer=interface_212:0
 
-[interface_212:67]
+[interface_212:68]
 type=^iftype_model
 width=65
 height=61
@@ -613,4 +619,15 @@ xan=141
 yan=1948
 zoom=4504
 anim=portal_nexus_367
+
+[interface_212:69]
+type=^iftype_model
+width=65
+height=61
+layer=interface_212:63
+model=trophy_pedestal_41707
+xan=262
+yan=202
+zan=11
+zoom=2200
 

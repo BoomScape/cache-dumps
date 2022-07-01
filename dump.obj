@@ -10852,8 +10852,8 @@ placeholder=yes
 [cert_rope_955]
 certificate=yes
 
-[flier_956]
-name=Flier
+[flyer_956]
+name=Flyer
 model=notes_2600
 2dzoom=1040
 2dxof=1
@@ -10863,7 +10863,7 @@ model=notes_2600
 certificate=yes
 placeholder=yes
 
-[cert_flier_957]
+[cert_flyer_957]
 certificate=yes
 
 [grey_wolf_fur_958]
@@ -92944,9 +92944,9 @@ name=Guthix icon
 model=guthix_icon_12488
 2dzoom=4176
 
-[icon_of_bob_8061]
-name=Icon of bob
-model=icon_of_bob_12487
+[bob_icon_8061]
+name=Bob icon
+model=bob_icon_12487
 2dzoom=4176
 
 [oak_altar_8062]
@@ -100926,10 +100926,10 @@ model=model_12858
 manwear=model_12858,0
 womanwear=model_12858,0
 
-[obj_8822]
-model=model_12859
-manwear=model_12859,0
-womanwear=model_12859,0
+[dummy_mysterious_watcher_8822]
+model=mysterious_watcher_12859
+manwear=mysterious_watcher_12859,0
+womanwear=mysterious_watcher_12859,0
 
 [obj_8823]
 model=model_12854
@@ -124929,7 +124929,7 @@ ambient=10
 [green_egg_10531]
 name=Green egg
 model=green_egg_20732
-cost=100000000
+cost=100
 2dzoom=984
 2dxof=1
 2dxan=144
@@ -124943,7 +124943,7 @@ shiftop=4
 [red_egg_10532]
 name=Red egg
 model=green_egg_20732
-cost=100000000
+cost=100
 2dzoom=984
 2dxof=1
 2dxan=144
@@ -124957,7 +124957,7 @@ shiftop=4
 [blue_egg_10533]
 name=Blue egg
 model=green_egg_20732
-cost=100000000
+cost=100
 2dzoom=984
 2dxof=1
 2dxan=144
@@ -124971,7 +124971,7 @@ shiftop=4
 [yellow_egg_10534]
 name=Yellow egg
 model=green_egg_20732
-cost=100000000
+cost=100
 2dzoom=984
 2dxof=1
 2dxan=144
@@ -124985,7 +124985,7 @@ shiftop=4
 [poisoned_egg_10535]
 name=Poisoned egg
 model=poisoned_egg_20574
-cost=100000000
+cost=100
 2dzoom=919
 2dxof=-5
 2dyof=3
@@ -125000,7 +125000,7 @@ shiftop=4
 [spiked_pois_egg_10536]
 name=Spiked/pois. egg
 model=spiked_pois_egg_20575
-cost=100000000
+cost=100
 2dzoom=919
 2dxof=-4
 2dxan=111
@@ -125014,7 +125014,7 @@ shiftop=4
 [omega_egg_10537]
 name=Omega egg
 model=omega_egg_20572
-cost=100000000
+cost=100
 2dzoom=984
 2dxof=-1
 2dxan=3
@@ -164075,7 +164075,7 @@ placeholder=yes
 [placeholder_rope_14297]
 placeholder=yes
 
-[placeholder_flier_14298]
+[placeholder_flyer_14298]
 placeholder=yes
 
 [placeholder_grey_wolf_fur_14299]
@@ -221468,8 +221468,8 @@ certificate=yes
 [placeholder_dragonstone_armour_set_23669]
 placeholder=yes
 
-[flier_23670]
-name=Flier
+[flyer_23670]
+name=Flyer
 model=notes_2600
 2dzoom=1040
 2dxof=1
@@ -221479,10 +221479,10 @@ model=notes_2600
 certificate=yes
 placeholder=yes
 
-[cert_flier_23671]
+[cert_flyer_23671]
 certificate=yes
 
-[placeholder_flier_23672]
+[placeholder_flyer_23672]
 placeholder=yes
 
 [crystal_axe_23673]
@@ -228773,8 +228773,8 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,20
 
-[obj_24360]
-model=model_38988
+[dummy_league_hall_24360]
+model=league_hall_38988
 2dzoom=2290
 2dxof=-5
 2dyof=2
@@ -228925,9 +228925,9 @@ placeholder=yes
 
 [twisted_dragon_trophy_24372]
 name=Twisted dragon trophy
-model=twisted_dragon_trophy_41100
-manwear=twisted_dragon_trophy_40976,0
-womanwear=twisted_dragon_trophy_40976,6
+model=twisted_dragon_trophy_41720
+manwear=twisted_dragon_trophy_41667,0
+womanwear=twisted_dragon_trophy_41667,6
 2dyof=-5
 2dxan=69
 2dyan=186
@@ -228945,7 +228945,10 @@ recol5s=-13649
 recol5d=910
 members=yes
 placeholder=yes
+param=param_917,20830
+param=param_916,1
 param=param_451,Trophy Emote
+param=param_918,7
 
 [placeholder_twisted_dragon_trophy_24373]
 placeholder=yes
@@ -228972,7 +228975,10 @@ recol5s=-13649
 recol5d=-28266
 members=yes
 placeholder=yes
+param=param_917,10820
+param=param_916,1
 param=param_451,Trophy Emote
+param=param_918,6
 
 [placeholder_twisted_rune_trophy_24375]
 placeholder=yes
@@ -228999,7 +229005,10 @@ recol5s=-13649
 recol5d=21776
 members=yes
 placeholder=yes
+param=param_917,5270
+param=param_916,1
 param=param_451,Trophy Emote
+param=param_918,5
 
 [placeholder_twisted_adamant_trophy_24377]
 placeholder=yes
@@ -229026,7 +229035,10 @@ recol5s=-13649
 recol5d=-22254
 members=yes
 placeholder=yes
+param=param_917,1770
+param=param_916,1
 param=param_451,Trophy Emote
+param=param_918,4
 
 [placeholder_twisted_mithril_trophy_24379]
 placeholder=yes
@@ -229053,7 +229065,10 @@ recol5s=-13649
 recol5d=41
 members=yes
 placeholder=yes
+param=param_917,510
+param=param_916,1
 param=param_451,Trophy Emote
+param=param_918,3
 
 [placeholder_twisted_steel_trophy_24381]
 placeholder=yes
@@ -229080,7 +229095,10 @@ recol5s=-13649
 recol5d=20
 members=yes
 placeholder=yes
+param=param_917,80
+param=param_916,1
 param=param_451,Trophy Emote
+param=param_918,2
 
 [placeholder_twisted_iron_trophy_24383]
 placeholder=yes
@@ -229107,7 +229125,10 @@ recol5s=-13649
 recol5d=7050
 members=yes
 placeholder=yes
+param=param_916,1
+param=param_917,10
 param=param_451,Trophy Emote
+param=param_918,1
 
 [placeholder_twisted_bronze_trophy_24385]
 placeholder=yes
@@ -229140,6 +229161,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_hat_t3_24388]
 placeholder=yes
@@ -229158,6 +229180,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_coat_t3_24390]
 placeholder=yes
@@ -229176,6 +229199,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_trousers_t3_24392]
 placeholder=yes
@@ -229196,6 +229220,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_boots_t3_24394]
 placeholder=yes
@@ -229216,6 +229241,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 param=param_451,Twisted Relic Emote
+param=param_916,1
 
 [placeholder_twisted_cane_24396]
 placeholder=yes
@@ -229240,6 +229266,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_hat_t2_24398]
 placeholder=yes
@@ -229258,6 +229285,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_coat_t2_24400]
 placeholder=yes
@@ -229276,6 +229304,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_trousers_t2_24402]
 placeholder=yes
@@ -229298,6 +229327,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_boots_t2_24404]
 placeholder=yes
@@ -229320,6 +229350,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_hat_t1_24406]
 placeholder=yes
@@ -229338,6 +229369,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_coat_t1_24408]
 placeholder=yes
@@ -229356,6 +229388,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_trousers_t1_24410]
 placeholder=yes
@@ -229378,6 +229411,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_boots_t1_24412]
 placeholder=yes
@@ -229399,6 +229433,7 @@ ambient=30
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,1
 
 [placeholder_twisted_banner_24414]
 placeholder=yes
@@ -235049,9 +235084,9 @@ name=Trailblazer hood (t3)
 model=trailblazer_hood_t3_41089
 manwear=trailblazer_hood_t3_40911,0
 womanwear=trailblazer_hood_t3_40934,0
-manhead=twisted_hat_t3_38998
-femalehead=twisted_hat_t3_38998
-cost=100000
+manhead=trailblazer_hood_t3_41032
+femalehead=trailblazer_hood_t3_41036
+cost=150000
 2dzoom=1000
 2dxof=1
 2dyof=-10
@@ -235062,6 +235097,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_hood_t3_25002]
 certificate=yes
@@ -235069,12 +235105,12 @@ certificate=yes
 [placeholder_trailblazer_hood_t3_25003]
 placeholder=yes
 
-[trailblazer_coat_t3_25004]
-name=Trailblazer coat (t3)
-model=trailblazer_coat_t3_41074
-manwear=trailblazer_coat_t3_40923,0
-womanwear=trailblazer_coat_t3_40946,0
-cost=100000
+[trailblazer_top_t3_25004]
+name=Trailblazer top (t3)
+model=trailblazer_top_t3_41074
+manwear=trailblazer_top_t3_40923,0
+womanwear=trailblazer_top_t3_40946,0
+cost=150000
 2dzoom=1400
 2dyof=-8
 2dxan=500
@@ -235083,11 +235119,12 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
-[cert_trailblazer_coat_t3_25005]
+[cert_trailblazer_top_t3_25005]
 certificate=yes
 
-[placeholder_trailblazer_coat_t3_25006]
+[placeholder_trailblazer_top_t3_25006]
 placeholder=yes
 
 [trailblazer_trousers_t3_25007]
@@ -235095,7 +235132,7 @@ name=Trailblazer trousers (t3)
 model=trailblazer_trousers_t3_41092
 manwear=trailblazer_trousers_t3_40918,0
 womanwear=trailblazer_trousers_t3_40941,0
-cost=100000
+cost=150000
 2dzoom=1940
 2dyof=1
 2dxan=572
@@ -235104,6 +235141,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_trousers_t3_25008]
 certificate=yes
@@ -235116,7 +235154,7 @@ name=Trailblazer boots (t3)
 model=trailblazer_boots_t3_41082
 manwear=trailblazer_boots_t3_40928,0
 womanwear=trailblazer_boots_t3_40950,0
-cost=100000
+cost=150000
 2dzoom=770
 2dxof=1
 2dyof=-6
@@ -235127,6 +235165,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_boots_t3_25011]
 certificate=yes
@@ -235136,10 +235175,10 @@ placeholder=yes
 
 [trailblazer_cane_25013]
 name=Trailblazer cane
-model=twisted_cane_39043
+model=trailblazer_cane_41719
 manwear=trailblazer_cane_40973,0
 womanwear=trailblazer_cane_40969,0
-cost=1000
+cost=150000
 2dzoom=1124
 2dxof=1
 2dxan=1925
@@ -235150,6 +235189,8 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 param=param_451,Trailblazer Relic Emote
+param=param_452,Trailblazer Area Emote
+param=param_916,2
 
 [cert_trailblazer_cane_25014]
 certificate=yes
@@ -235160,11 +235201,11 @@ placeholder=yes
 [trailblazer_hood_t2_25016]
 name=Trailblazer hood (t2)
 model=trailblazer_hood_t2_41091
-manwear=trailblazer_hood_t3_40911,0
-womanwear=trailblazer_hood_t3_40934,0
-manhead=twisted_hat_t3_38998
-femalehead=twisted_hat_t3_38998
-cost=10000
+manwear=trailblazer_hood_t2_40910,0
+womanwear=trailblazer_hood_t2_40933,0
+manhead=trailblazer_hood_t2_41033
+femalehead=trailblazer_hood_t2_41038
+cost=15000
 2dzoom=1000
 2dxof=1
 2dyof=-10
@@ -235179,6 +235220,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_hood_t2_25017]
 certificate=yes
@@ -235186,12 +235228,12 @@ certificate=yes
 [placeholder_trailblazer_hood_t2_25018]
 placeholder=yes
 
-[trailblazer_coat_t2_25019]
-name=Trailblazer coat (t2)
-model=trailblazer_coat_t2_41078
-manwear=trailblazer_coat_t2_40924,0
-womanwear=trailblazer_coat_t2_40944,0
-cost=10000
+[trailblazer_top_t2_25019]
+name=Trailblazer top (t2)
+model=trailblazer_top_t2_41078
+manwear=trailblazer_top_t2_40924,0
+womanwear=trailblazer_top_t2_40944,0
+cost=15000
 2dzoom=1400
 2dyof=-8
 2dxan=500
@@ -235200,11 +235242,12 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
-[cert_trailblazer_coat_t2_25020]
+[cert_trailblazer_top_t2_25020]
 certificate=yes
 
-[placeholder_trailblazer_coat_t2_25021]
+[placeholder_trailblazer_top_t2_25021]
 placeholder=yes
 
 [trailblazer_trousers_t2_25022]
@@ -235212,7 +235255,7 @@ name=Trailblazer trousers (t2)
 model=trailblazer_trousers_t2_41090
 manwear=trailblazer_trousers_t2_40917,0
 womanwear=trailblazer_trousers_t2_40940,0
-cost=10000
+cost=15000
 2dzoom=1940
 2dyof=1
 2dxan=572
@@ -235221,6 +235264,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_trousers_t2_25023]
 certificate=yes
@@ -235233,7 +235277,7 @@ name=Trailblazer boots (t2)
 model=trailblazer_boots_t2_41075
 manwear=trailblazer_boots_t2_40929,0
 womanwear=trailblazer_boots_t2_40949,0
-cost=10000
+cost=15000
 2dzoom=770
 2dxof=1
 2dyof=-6
@@ -235244,6 +235288,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_boots_t2_25026]
 certificate=yes
@@ -235256,9 +235301,9 @@ name=Trailblazer hood (t1)
 model=trailblazer_hood_t1_41083
 manwear=trailblazer_hood_t1_40912,0
 womanwear=trailblazer_hood_t1_40932,0
-manhead=twisted_hat_t3_38998
-femalehead=twisted_hat_t3_38998
-cost=1000
+manhead=trailblazer_hood_t1_41034
+femalehead=trailblazer_hood_t1_41037
+cost=15000
 2dzoom=1000
 2dxof=1
 2dyof=-10
@@ -235269,6 +235314,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_hood_t1_25029]
 certificate=yes
@@ -235276,12 +235322,12 @@ certificate=yes
 [placeholder_trailblazer_hood_t1_25030]
 placeholder=yes
 
-[trailblazer_coat_t1_25031]
-name=Trailblazer coat (t1)
-model=trailblazer_coat_t1_41094
-manwear=trailblazer_coat_t1_40925,0
-womanwear=trailblazer_coat_t1_40945,0
-cost=1000
+[trailblazer_top_t1_25031]
+name=Trailblazer top (t1)
+model=trailblazer_top_t1_41094
+manwear=trailblazer_top_t1_40925,0
+womanwear=trailblazer_top_t1_40945,0
+cost=15000
 2dzoom=1400
 2dyof=-8
 2dxan=500
@@ -235290,11 +235336,12 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
-[cert_trailblazer_coat_t1_25032]
+[cert_trailblazer_top_t1_25032]
 certificate=yes
 
-[placeholder_trailblazer_coat_t1_25033]
+[placeholder_trailblazer_top_t1_25033]
 placeholder=yes
 
 [trailblazer_trousers_t1_25034]
@@ -235302,7 +235349,7 @@ name=Trailblazer trousers (t1)
 model=trailblazer_trousers_t1_41086
 manwear=trailblazer_trousers_t1_40919,0
 womanwear=trailblazer_trousers_t1_40939,0
-cost=1000
+cost=15000
 2dzoom=1940
 2dyof=1
 2dxan=572
@@ -235311,6 +235358,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_trousers_t1_25035]
 certificate=yes
@@ -235323,7 +235371,7 @@ name=Trailblazer boots (t1)
 model=trailblazer_boots_t1_41088
 manwear=trailblazer_boots_t1_40927,0
 womanwear=trailblazer_boots_t1_40948,0
-cost=1000
+cost=15000
 2dzoom=770
 2dxof=1
 2dyof=-6
@@ -235334,6 +235382,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_boots_t1_25038]
 certificate=yes
@@ -235341,28 +235390,31 @@ certificate=yes
 [placeholder_trailblazer_boots_t1_25039]
 placeholder=yes
 
-[trailblazer_trophy_25040]
-name=Trailblazer trophy
-model=trailblazer_trophy_41097
-manwear=trailblazer_trophy_40955,0
-womanwear=trailblazer_trophy_40955,6
-2dyof=-5
-2dxan=69
-2dyan=186
-iop2=Wear
-iop5=Destroy
-members=yes
-placeholder=yes
-param=param_451,Trophy Emote
+[dummy_priest_gown_25040]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
 
-[placeholder_trailblazer_trophy_25041]
-placeholder=yes
+[dummy_priest_gown_25041]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
 
 [trailblazer_dragon_trophy_25042]
 name=Trailblazer dragon trophy
-model=twisted_dragon_trophy_41100
-manwear=twisted_dragon_trophy_40976,0
-womanwear=twisted_dragon_trophy_40976,6
+model=trailblazer_dragon_trophy_41721
+manwear=trailblazer_dragon_trophy_41665,0
+womanwear=trailblazer_dragon_trophy_41665,6
 2dyof=-5
 2dxan=69
 2dyan=186
@@ -235380,6 +235432,9 @@ recol5s=-13649
 recol5d=8499
 members=yes
 placeholder=yes
+param=param_917,56310
+param=param_916,2
+param=param_918,7
 param=param_451,Trophy Emote
 
 [placeholder_trailblazer_dragon_trophy_25043]
@@ -235407,6 +235462,9 @@ recol5s=-13649
 recol5d=8499
 members=yes
 placeholder=yes
+param=param_917,35680
+param=param_916,2
+param=param_918,6
 param=param_451,Trophy Emote
 
 [placeholder_trailblazer_rune_trophy_25045]
@@ -235434,7 +235492,10 @@ recol5s=-13649
 recol5d=8499
 members=yes
 placeholder=yes
+param=param_917,18720
+param=param_916,2
 param=param_451,Trophy Emote
+param=param_918,5
 
 [placeholder_trailblazer_adamant_trophy_25047]
 placeholder=yes
@@ -235461,6 +235522,9 @@ recol5s=-13649
 recol5d=8499
 members=yes
 placeholder=yes
+param=param_917,6480
+param=param_916,2
+param=param_918,4
 param=param_451,Trophy Emote
 
 [placeholder_trailblazer_mithril_trophy_25049]
@@ -235488,6 +235552,9 @@ recol5s=-13649
 recol5d=8499
 members=yes
 placeholder=yes
+param=param_917,2000
+param=param_916,2
+param=param_918,3
 param=param_451,Trophy Emote
 
 [placeholder_trailblazer_steel_trophy_25051]
@@ -235515,6 +235582,9 @@ recol5s=-13649
 recol5d=8499
 members=yes
 placeholder=yes
+param=param_917,510
+param=param_916,2
+param=param_918,2
 param=param_451,Trophy Emote
 
 [placeholder_trailblazer_iron_trophy_25053]
@@ -235542,6 +235612,9 @@ recol5s=-13649
 recol5d=8499
 members=yes
 placeholder=yes
+param=param_916,2
+param=param_917,100
+param=param_918,1
 param=param_451,Trophy Emote
 
 [placeholder_trailblazer_bronze_trophy_25055]
@@ -235564,6 +235637,7 @@ ambient=30
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_916,2
 
 [cert_trailblazer_banner_25057]
 certificate=yes
@@ -235571,11 +235645,11 @@ certificate=yes
 [placeholder_trailblazer_banner_25058]
 placeholder=yes
 
-[trailblazer_harpoon_25059]
-name=Trailblazer harpoon
-model=trailblazer_harpoon_41064
-manwear=trailblazer_harpoon_40958,0
-womanwear=trailblazer_harpoon_40956,6
+[infernal_harpoon_or_25059]
+name=Infernal harpoon (or)
+model=infernal_harpoon_or_41064
+manwear=infernal_harpoon_or_40958,0
+womanwear=infernal_harpoon_or_40956,0
 cost=55000
 2dzoom=1347
 2dxof=2
@@ -235583,55 +235657,71 @@ cost=55000
 2dxan=600
 2dyan=54
 iop2=Wield
+iop3=Check
+iop4=Revert
 members=yes
-stockmarket=yes
-certificate=yes
+placeholder=yes
+param=param_451,Check
+
+[dummy_priest_gown_25060]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
+
+[placeholder_infernal_harpoon_or_25061]
 placeholder=yes
 
-[cert_trailblazer_harpoon_25060]
-certificate=yes
-
-[placeholder_trailblazer_harpoon_25061]
-placeholder=yes
-
-[dummy_trailblazer_harpoon_25062]
-model=trailblazer_harpoon_41064
+[dummy_infernal_harpoon_or_25062]
+model=infernal_harpoon_or_41064
 manwear=model_40974,0
-womanwear=model_40983,6
+womanwear=model_40983,0
 2dzoom=1347
 2dxof=2
 2dyof=2
 2dxan=600
 2dyan=54
 
-[trailblazer_pickaxe_25063]
-name=Trailblazer pickaxe
-model=trailblazer_pickaxe_41067
-manwear=trailblazer_pickaxe_40965,0
-womanwear=trailblazer_pickaxe_40964,6
+[infernal_pickaxe_or_25063]
+name=Infernal pickaxe (or)
+model=infernal_pickaxe_or_41067
+manwear=infernal_pickaxe_or_40965,0
+womanwear=infernal_pickaxe_or_40964,0
 cost=97950
-2dzoom=1070
-2dxof=-2
-2dyof=-19
-2dxan=224
-2dyan=1056
+2dzoom=1454
+2dxof=-1
+2dyof=-2
+2dxan=386
+2dyan=1095
 iop2=Wield
+iop3=Check
+iop4=Revert
 members=yes
-stockmarket=yes
-certificate=yes
+placeholder=yes
+param=param_451,Check
+
+[dummy_priest_gown_25064]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
+
+[placeholder_infernal_pickaxe_or_25065]
 placeholder=yes
 
-[cert_trailblazer_pickaxe_25064]
-certificate=yes
-
-[placeholder_trailblazer_pickaxe_25065]
-placeholder=yes
-
-[trailblazer_axe_25066]
-name=Trailblazer axe
-model=trailblazer_axe_41068
-manwear=trailblazer_axe_40981,0
-womanwear=trailblazer_axe_40954,6
+[infernal_axe_or_25066]
+name=Infernal axe (or)
+model=infernal_axe_or_41068
+manwear=infernal_axe_or_40981,0
+womanwear=infernal_axe_or_40954,0
 cost=55000
 2dzoom=1450
 2dxof=-6
@@ -235639,15 +235729,23 @@ cost=55000
 2dxan=520
 2dyan=1288
 iop2=Wield
+iop3=Check
+iop4=Revert
 members=yes
-stockmarket=yes
-certificate=yes
 placeholder=yes
+param=param_451,Check
 
-[cert_trailblazer_axe_25067]
-certificate=yes
+[dummy_priest_gown_25067]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
 
-[placeholder_trailblazer_axe_25068]
+[placeholder_infernal_axe_or_25068]
 placeholder=yes
 
 [graceful_hood_25069]
@@ -235665,6 +235763,7 @@ cost=35
 2dxan=639
 2dyan=24
 iop2=Wear
+iop5=Dismantle
 members=yes
 placeholder=yes
 
@@ -235700,6 +235799,7 @@ cost=40
 2dxan=564
 2dyan=827
 iop2=Wear
+iop5=Dismantle
 members=yes
 placeholder=yes
 
@@ -235732,6 +235832,7 @@ cost=55
 2dxan=666
 2dyan=9
 iop2=Wear
+iop5=Dismantle
 members=yes
 placeholder=yes
 
@@ -235764,6 +235865,7 @@ cost=60
 2dxan=525
 2dyan=171
 iop2=Wear
+iop5=Dismantle
 members=yes
 placeholder=yes
 
@@ -235796,6 +235898,7 @@ cost=30
 2dxan=636
 2dyan=2015
 iop2=Wear
+iop5=Dismantle
 members=yes
 placeholder=yes
 
@@ -235827,6 +235930,7 @@ cost=40
 2dxan=78
 2dyan=1781
 iop2=Wear
+iop5=Dismantle
 members=yes
 placeholder=yes
 
@@ -235871,9 +235975,10 @@ placeholder=yes
 [trailblazer_tool_ornament_kit_25090]
 name=Trailblazer tool ornament kit
 model=trailblazer_tool_ornament_kit_41084
-cost=5000
+cost=25000
 2dzoom=1592
 2dxan=564
+members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -235887,11 +235992,11 @@ placeholder=yes
 [trailblazer_globe_25093]
 name=Trailblazer globe
 model=trailblazer_globe_41076
-cost=5000
-2dzoom=2616
-2dxof=7
-2dxan=165
-2dyan=51
+cost=40000
+2dzoom=2600
+2dxan=160
+2dyan=50
+members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -235905,11 +236010,12 @@ placeholder=yes
 [trailblazer_rug_25096]
 name=Trailblazer rug
 model=trailblazer_rug_41077
-cost=5000
+cost=50000
 2dzoom=2086
 2dxof=-8
 2dxan=332
 2dyan=1290
+members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -235923,9 +236029,10 @@ placeholder=yes
 [trailblazer_graceful_ornament_kit_25099]
 name=Trailblazer graceful ornament kit
 model=trailblazer_graceful_ornament_kit_41087
-cost=5000
+cost=25000
 2dzoom=1592
 2dxan=564
+members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -236036,9 +236143,9 @@ placeholder=yes
 
 [trailblazer_axe_25110]
 name=Trailblazer axe
-model=trailblazer_axe_41068
-manwear=trailblazer_axe_40981,0
-womanwear=trailblazer_axe_40954,6
+model=infernal_axe_or_41068
+manwear=infernal_axe_or_40981,0
+womanwear=infernal_axe_or_40954,6
 cost=10
 2dzoom=1450
 2dxof=-4
@@ -236055,9 +236162,9 @@ placeholder=yes
 
 [trailblazer_pickaxe_25112]
 name=Trailblazer pickaxe
-model=trailblazer_pickaxe_41067
-manwear=trailblazer_pickaxe_40965,0
-womanwear=trailblazer_pickaxe_40964,6
+model=infernal_pickaxe_or_41067
+manwear=infernal_pickaxe_or_40965,0
+womanwear=infernal_pickaxe_or_40964,6
 cost=10
 2dzoom=1582
 2dyof=-5
@@ -236073,9 +236180,9 @@ placeholder=yes
 
 [trailblazer_harpoon_25114]
 name=Trailblazer harpoon
-model=trailblazer_harpoon_41064
-manwear=trailblazer_harpoon_40958,0
-womanwear=trailblazer_harpoon_40956,6
+model=infernal_harpoon_or_41064
+manwear=infernal_harpoon_or_40958,0
+womanwear=infernal_harpoon_or_40956,6
 2dzoom=1475
 2dxof=2
 2dyof=2
@@ -238039,7 +238146,6 @@ model=numulite_5_33588
 2dyof=7
 2dxan=156
 2dyan=1238
-iop5=Destroy
 recol1s=6577
 recol1d=929
 recol2s=6583
@@ -238054,7 +238160,6 @@ model=numulite_5_33588
 2dyof=7
 2dxan=156
 2dyan=1238
-iop5=Destroy
 recol1s=6577
 recol1d=21415
 recol2s=6583
@@ -238069,7 +238174,6 @@ model=staff_2648
 2dxof=-3
 2dxan=790
 2dyan=1194
-iop5=Destroy
 
 [mouldy_sawdust_25286]
 name=Mouldy sawdust
@@ -238079,7 +238183,6 @@ model=sawdust_16962
 2dyof=-15
 2dxan=142
 2dyan=1603
-iop5=Destroy
 recol1s=6573
 recol1d=10789
 recol2s=6697
@@ -238093,7 +238196,6 @@ model=enchanted_beef_2760
 2dyof=3
 2dxan=308
 2dyan=176
-iop5=Destroy
 recol1s=947
 recol1d=439
 recol2s=127
@@ -238106,7 +238208,6 @@ model=bread_2409
 2dyof=5
 2dxan=392
 2dyan=268
-iop5=Destroy
 recol1s=8107
 recol1d=7518
 
@@ -238116,8 +238217,6 @@ model=golden_bowl_2367
 2dzoom=910
 2dxan=204
 2dyan=1856
-iop1=Eat
-iop5=Destroy
 recol1s=-21273
 recol1d=25771
 
@@ -238127,7 +238226,6 @@ model=coal_bag_7508
 2dzoom=740
 2dxan=67
 2dyan=471
-iop5=Destroy
 recol1s=6430
 recol1d=6494
 recol2s=7223
@@ -238147,7 +238245,6 @@ recol1s=947
 recol1d=439
 recol2s=127
 recol2d=11614
-param=param_1133,1
 
 [dummy_eye_of_newt_25292]
 model=eye_of_newt_2520
@@ -238156,7 +238253,6 @@ model=eye_of_newt_2520
 2dyof=-2
 2dxan=364
 2dyan=256
-param=param_1133,1
 
 [dummy_asgarnian_ale_25293]
 model=asgarnian_ale_2491
@@ -238165,7 +238261,6 @@ model=asgarnian_ale_2491
 2dyof=2
 2dxan=140
 2dyan=1904
-param=param_1133,1
 
 [dummy_bronze_spear_25294]
 model=bronze_spear_2719
@@ -238178,7 +238273,6 @@ recol1s=33
 recol1d=5652
 recol2s=28
 recol2d=5652
-param=param_1133,1
 
 [dummy_bronze_sq_shield_25295]
 model=bronze_sq_shield_2720
@@ -238189,14 +238283,12 @@ model=bronze_sq_shield_2720
 2dyan=60
 recol1s=57
 recol1d=5652
-param=param_1133,1
 
 [dummy_orange_goblin_mail_25296]
 model=orange_goblin_mail_24514
 2dzoom=1244
 2dxof=-1
 2dxan=611
-param=param_1133,1
 
 [dummy_hammer_25297]
 model=hammer_2376
@@ -238205,7 +238297,6 @@ model=hammer_2376
 2dyof=-1
 2dxan=356
 2dyan=2012
-param=param_1133,1
 
 [dummy_boulder_25298]
 model=boulder_41489
@@ -238214,7 +238305,6 @@ model=boulder_41489
 2dyof=-1
 2dxan=56
 2dyan=117
-param=param_1133,1
 
 [dummy_bandos_chestplate_25299]
 model=bandos_chestplate_28042
@@ -238223,7 +238313,6 @@ model=bandos_chestplate_28042
 2dyof=4
 2dxan=501
 2dyan=6
-param=param_1133,1
 
 [dummy_cup_of_tea_25300]
 model=cup_of_tea_12328
@@ -238234,7 +238323,6 @@ model=cup_of_tea_12328
 2dyan=1980
 recol1s=49
 recol1d=10547
-param=param_1133,0
 
 [dummy_banana_25301]
 model=banana_2387
@@ -238243,14 +238331,12 @@ model=banana_2387
 2dyof=10
 2dxan=280
 2dyan=1944
-param=param_1133,0
 
 [dummy_cooking_apple_25302]
 model=cooking_apple_2404
 2dzoom=940
 2dxan=212
 2dyan=80
-param=param_1133,0
 
 [dummy_white_berries_25303]
 model=white_berries_2358
@@ -238261,7 +238347,6 @@ model=white_berries_2358
 2dyan=668
 recol1s=960
 recol1d=-6235
-param=param_1133,0
 
 [dummy_potato_25304]
 model=potato_2766
@@ -238272,7 +238357,6 @@ model=potato_2766
 2dyan=1856
 recol1s=8084
 recol1d=7723
-param=param_1133,0
 
 [dummy_perfect_necklace_25305]
 model=perfect_necklace_2506
@@ -238283,7 +238367,6 @@ model=perfect_necklace_2506
 2dyan=166
 recol1s=41
 recol1d=960
-param=param_1133,0
 
 [dummy_amulet_of_accuracy_25306]
 model=amulet_of_accuracy_2796
@@ -238296,7 +238379,6 @@ recol1s=5916
 recol1d=127
 recol2s=4882
 recol2d=127
-param=param_1133,0
 
 [dummy_unblessed_symbol_25307]
 model=unblessed_symbol_2462
@@ -238311,7 +238393,6 @@ recol2s=5916
 recol2d=127
 recol3s=4882
 recol3d=127
-param=param_1133,0
 
 [dummy_black_elegant_shirt_25308]
 model=black_elegant_shirt_20235
@@ -238319,7 +238400,6 @@ model=black_elegant_shirt_20235
 2dxof=-1
 2dyof=7
 2dxan=452
-param=param_1133,0
 
 [dummy_tan_cavalier_25309]
 model=tan_cavalier_2451
@@ -238332,7 +238412,6 @@ recol1s=7073
 recol1d=5231
 recol2s=127
 recol2d=24
-param=param_1133,0
 
 [dummy_copper_ore_25310]
 model=copper_ore_2748
@@ -238343,7 +238422,6 @@ model=copper_ore_2748
 2dyan=1576
 recol1s=7062
 recol1d=-29403
-param=param_1133,0
 
 [dummy_knife_25311]
 model=knife_2559
@@ -238352,7 +238430,6 @@ model=knife_2559
 2dyof=-4
 2dxan=444
 2dyan=1260
-param=param_1133,0
 
 [dummy_rope_25312]
 model=rope_1842
@@ -238361,7 +238438,6 @@ model=rope_1842
 2dyof=-30
 2dxan=188
 2dyan=1976
-param=param_1133,0
 
 [dummy_assorted_flowers_25313]
 model=assorted_flowers_1781
@@ -238371,7 +238447,6 @@ recol2s=-28340
 recol2d=11200
 recol3s=-12369
 recol3d=11200
-param=param_1133,0
 
 [giant_boulder_25314]
 name=Giant boulder
@@ -238409,4 +238484,597 @@ placeholder=yes
 
 [dummy_spiritual_fairy_tree_25318]
 model=spiritual_fairy_tree_41500
+
+[gnome_child_icon_25319]
+name=Gnome child icon
+model=gnome_child_icon_41653
+2dzoom=1048
+2dyof=-3
+2dxan=512
+
+[gnome_child_25320]
+name=Gnome child
+model=gnome_child_16
+recol1s=22426
+recol1d=7362
+recol2s=22424
+recol2d=-30283
+recol3s=4550
+recol3d=22428
+recol4s=4537
+recol4d=22422
+
+[gnome_child_25321]
+name=Gnome child
+model=gnome_child_41627
+recol1s=22426
+recol1d=7362
+recol2s=22424
+recol2d=-30283
+recol3s=4550
+recol3d=22428
+recol4s=4537
+recol4d=22422
+
+[20th_anniversary_hat_25322]
+name=20th anniversary hat
+model=20th_anniversary_hat_41663
+manwear=20th_anniversary_hat_41521,0
+manwear2=male_hair_215
+womanwear=20th_anniversary_hat_41530,0
+womanwear2=female_hair_391
+manhead=20th_anniversary_hat_41626
+manhead2=male_hair_53
+femalehead=20th_anniversary_hat_41626
+femalehead=female_hair_114
+cost=0
+2dzoom=740
+2dyof=-9
+2dxan=140
+2dyan=39
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_20th_anniversary_hat_25323]
+placeholder=yes
+
+[20th_anniversary_top_25324]
+name=20th anniversary top
+model=20th_anniversary_top_41660
+manwear=20th_anniversary_top_41523,0
+manwear2=20th_anniversary_top_41522
+womanwear=20th_anniversary_top_41532,0
+womanwear2=20th_anniversary_top_41531
+cost=0
+2dzoom=1380
+2dxan=500
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_20th_anniversary_top_25325]
+placeholder=yes
+
+[20th_anniversary_bottom_25326]
+name=20th anniversary bottom
+model=20th_anniversary_bottom_41658
+manwear=20th_anniversary_bottom_41520,0
+womanwear=20th_anniversary_bottom_41529,0
+cost=0
+2dzoom=1616
+2dyof=2
+2dxan=498
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_20th_anniversary_bottom_25327]
+placeholder=yes
+
+[20th_anniversary_boots_25328]
+name=20th anniversary boots
+model=20th_anniversary_boots_41662
+manwear=20th_anniversary_boots_41524,0
+womanwear=20th_anniversary_boots_41533,0
+cost=0
+2dzoom=740
+2dxof=2
+2dyof=-9
+2dxan=152
+2dyan=225
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_20th_anniversary_boots_25329]
+placeholder=yes
+
+[20th_anniversary_gloves_25330]
+name=20th anniversary gloves
+model=20th_anniversary_gloves_41664
+manwear=20th_anniversary_gloves_41519,0
+womanwear=20th_anniversary_gloves_41528,0
+cost=0
+2dzoom=592
+2dxof=-7
+2dyof=3
+2dxan=438
+2dyan=256
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_20th_anniversary_gloves_25331]
+placeholder=yes
+
+[20th_anniversary_necklace_25332]
+name=20th anniversary necklace
+model=20th_anniversary_necklace_41661
+manwear=20th_anniversary_necklace_41517,0
+womanwear=20th_anniversary_necklace_41526,0
+cost=0
+2dzoom=428
+2dyof=-7
+2dxan=173
+2dyan=156
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_20th_anniversary_necklace_25333]
+placeholder=yes
+
+[20th_anniversary_cape_25334]
+name=20th anniversary cape
+model=20th_anniversary_cape_41659
+manwear=20th_anniversary_cape_41518,0
+womanwear=20th_anniversary_cape_41527,0
+cost=0
+2dzoom=2072
+2dxof=-2
+2dyof=3
+2dxan=483
+2dyan=2036
+iop2=Wear
+iop5=Destroy
+ambient=30
+placeholder=yes
+
+[placeholder_20th_anniversary_cape_25335]
+placeholder=yes
+
+[gnome_child_mask_25336]
+name=Gnome child mask
+model=gnome_child_mask_41656
+manwear=gnome_child_mask_41516,0
+womanwear=gnome_child_mask_41525,0
+manhead=gnome_child_mask_41625
+femalehead=gnome_child_mask_41625
+cost=0
+2dzoom=625
+2dyof=-7
+2dxan=512
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_gnome_child_mask_25337]
+placeholder=yes
+
+[gnome_child_icon_25338]
+name=Gnome child icon
+model=gnome_child_icon_41653
+cost=0
+2dzoom=1048
+2dyof=-3
+2dxan=512
+iop5=Destroy
+members=yes
+placeholder=yes
+
+[placeholder_gnome_child_icon_25339]
+placeholder=yes
+
+[ectoplasmator_25340]
+name=Ectoplasmator
+model=ectoplasmator_41420
+2dzoom=934
+2dxof=1
+2dyof=8
+2dxan=321
+2dyan=1924
+members=yes
+placeholder=yes
+
+[placeholder_ectoplasmator_25341]
+placeholder=yes
+
+[spoils_of_war_25342]
+name=Spoils of war
+model=bounty_crate_3815
+2dzoom=2400
+2dyof=12
+2dxan=94
+2dyan=148
+iop1=Open
+recol1s=5417
+recol1d=12942
+recol2s=5532
+recol2d=12698
+recol3s=5656
+recol3d=12694
+recol4s=5652
+recol4d=12818
+recol5s=5413
+recol5d=13194
+recol6s=5537
+recol6d=13194
+members=yes
+ambient=10
+contrast=10
+placeholder=yes
+
+[placeholder_spoils_of_war_25343]
+placeholder=yes
+
+[soul_cape_25344]
+name=Soul cape
+model=red_cape_41422
+manwear=red_cape_28423,0
+womanwear=red_cape_41233,0
+2dzoom=2140
+2dxof=3
+2dyof=6
+2dxan=400
+2dyan=948
+iop2=Wear
+iop3=Toggle-colour
+members=yes
+ambient=50
+placeholder=yes
+param=param_451,Toggle-colour
+
+[placeholder_soul_cape_25345]
+placeholder=yes
+
+[soul_cape_25346]
+name=Soul cape
+model=blue_cape_41423
+manwear=blue_cape_28422,0
+womanwear=blue_cape_41234,0
+2dzoom=2140
+2dxof=3
+2dyof=6
+2dxan=400
+2dyan=948
+iop2=Wear
+iop3=Toggle-colour
+members=yes
+ambient=50
+placeholder=yes
+param=param_451,Toggle-colour
+
+[placeholder_soul_cape_25347]
+placeholder=yes
+
+[lil_creator_25348]
+name=Lil' creator
+model=lil_creator_41239
+2dzoom=3432
+2dxof=-29
+2dyof=-66
+2dxan=121
+members=yes
+placeholder=yes
+
+[placeholder_lil_creator_25349]
+placeholder=yes
+
+[lil_destructor_25350]
+name=Lil' destructor
+model=lil_destructor_41241
+2dzoom=3368
+2dxof=-30
+2dyof=-66
+2dxan=121
+members=yes
+
+[trophy_pedestal_25351]
+name=Trophy pedestal
+model=trophy_pedestal_41707
+2dzoom=2900
+2dxan=125
+
+[ornate_trophy_pedestal_25352]
+name=Ornate trophy pedestal
+model=ornate_trophy_pedestal_41709
+2dzoom=2900
+2dxan=150
+
+[oak_trophy_case_25353]
+name=Oak trophy case
+model=oak_trophy_case_41698
+2dzoom=5000
+2dyof=-15
+2dxan=150
+2dyan=1900
+
+[mahogany_trophy_case_25354]
+name=Mahogany trophy case
+model=mahogany_trophy_case_41700
+2dzoom=5000
+2dyof=-50
+2dxan=150
+2dyan=1900
+
+[banner_stand_25355]
+name=Banner stand
+model=banner_stand_41693
+2dzoom=2250
+2dyof=-25
+2dxan=202
+2dyan=100
+
+[ornate_banner_stand_25356]
+name=Ornate banner stand
+model=ornate_banner_stand_41694
+2dzoom=2250
+2dyof=-25
+2dxan=150
+
+[oak_outfit_stand_25357]
+name=Oak outfit stand
+model=oak_outfit_stand_41686
+2dzoom=3750
+2dyof=-9
+2dxan=30
+2dyan=1000
+
+[mahogany_outfit_stand_25358]
+name=Mahogany outfit stand
+model=mahogany_outfit_stand_41687
+2dzoom=3750
+2dyof=-9
+2dxan=30
+2dyan=1000
+
+[league_statue_25359]
+name=League statue
+model=league_statue_41678
+2dzoom=4500
+2dyof=-50
+2dxan=160
+2dyan=1800
+
+[ornate_league_statue_25360]
+name=Ornate league statue
+model=ornate_league_statue_41679
+2dzoom=4500
+2dyof=-50
+2dxan=160
+2dyan=1800
+
+[trailblazer_globe_25361]
+name=Trailblazer globe
+model=trailblazer_globe_41076
+2dzoom=2600
+2dxan=160
+2dyan=50
+
+[rug_25362]
+name=Rug
+model=rug_12390
+2dzoom=1762
+2dxof=-4
+2dyof=-100
+2dxan=332
+2dyan=1290
+
+[opulent_rug_25363]
+name=Opulent rug
+model=opulent_rug_12527
+2dzoom=2086
+2dxof=-1
+2dyof=-72
+2dxan=332
+2dyan=1290
+
+[trailblazer_rug_25364]
+name=Trailblazer rug
+model=trailblazer_rug_41058
+2dzoom=3010
+2dxof=-4
+2dyof=-9
+2dxan=332
+2dyan=1290
+
+[league_accomplishments_scroll_25365]
+name=League accomplishments scroll
+model=league_accomplishments_scroll_41690
+2dzoom=1800
+2dxof=-2
+2dyof=50
+2dyan=500
+
+[league_hall_25366]
+name=League hall
+model=league_hall_38988
+cost=15000
+2dzoom=2290
+2dxof=-5
+2dyof=2
+2dxan=588
+
+[infernal_harpoon_uncharged_25367]
+name=Infernal harpoon (uncharged)
+model=infernal_harpoon_or_41064
+manwear=infernal_harpoon_or_40958,0
+womanwear=infernal_harpoon_or_40956,0
+cost=55000
+2dzoom=1347
+2dxof=2
+2dyof=2
+2dxan=600
+2dyan=54
+iop2=Wield
+iop4=Revert
+members=yes
+placeholder=yes
+
+[placeholder_infernal_harpoon_uncharged_25368]
+placeholder=yes
+
+[infernal_pickaxe_uncharged_25369]
+name=Infernal pickaxe (uncharged)
+model=infernal_pickaxe_or_41067
+manwear=infernal_pickaxe_or_40965,0
+womanwear=infernal_pickaxe_or_40964,0
+cost=97950
+2dzoom=1454
+2dxof=-1
+2dyof=-2
+2dxan=386
+2dyan=1095
+iop2=Wield
+iop4=Revert
+members=yes
+placeholder=yes
+
+[placeholder_infernal_pickaxe_uncharged_25370]
+placeholder=yes
+
+[infernal_axe_uncharged_25371]
+name=Infernal axe (uncharged)
+model=infernal_axe_or_41068
+manwear=infernal_axe_or_40981,0
+womanwear=infernal_axe_or_40954,0
+cost=55000
+2dzoom=1450
+2dxof=-6
+2dyof=6
+2dxan=520
+2dyan=1288
+iop2=Wield
+iop4=Revert
+members=yes
+placeholder=yes
+
+[placeholder_infernal_axe_uncharged_25372]
+placeholder=yes
+
+[dragon_harpoon_or_25373]
+name=Dragon harpoon (or)
+model=dragon_harpoon_or_41717
+manwear=dragon_harpoon_or_41666,0
+womanwear=dragon_harpoon_or_14298,0
+cost=55000
+2dzoom=1347
+2dxof=2
+2dyof=2
+2dxan=600
+2dyan=54
+iop2=Wield
+iop4=Revert
+members=yes
+placeholder=yes
+
+[placeholder_dragon_harpoon_or_25374]
+placeholder=yes
+
+[dummy_dragon_harpoon_or_25375]
+model=dragon_harpoon_or_41717
+manwear=model_14208,0
+womanwear=model_41668,0
+2dzoom=1347
+2dxof=2
+2dyof=2
+2dxan=600
+2dyan=54
+
+[dragon_pickaxe_or_25376]
+name=Dragon pickaxe (or)
+model=dragon_pickaxe_or_41718
+manwear=dragon_pickaxe_or_41669,0
+womanwear=dragon_pickaxe_or_14300,0
+cost=97950
+2dzoom=1454
+2dxof=-1
+2dyof=-2
+2dxan=386
+2dyan=1095
+iop2=Wield
+iop4=Revert
+members=yes
+placeholder=yes
+
+[placeholder_dragon_pickaxe_or_25377]
+placeholder=yes
+
+[dragon_axe_or_25378]
+name=Dragon axe (or)
+model=dragon_axe_or_41716
+manwear=dragon_axe_or_31053,0
+womanwear=dragon_axe_or_14303,0
+cost=55000
+2dzoom=1450
+2dxof=-6
+2dyof=6
+2dxan=520
+2dyan=1288
+iop2=Wield
+iop4=Revert
+members=yes
+placeholder=yes
+
+[placeholder_dragon_axe_or_25379]
+placeholder=yes
+
+[trailblazer_relic_hunter_t1_armour_set_25380]
+name=Trailblazer relic hunter (t1) armour set
+model=twisted_relic_hunter_t1_armour_set_39144
+cost=50000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_trailblazer_relic_hunter_t1_armour_set_25381]
+certificate=yes
+
+[placeholder_trailblazer_relic_hunter_t1_armour_set_25382]
+placeholder=yes
+
+[trailblazer_relic_hunter_t2_armour_set_25383]
+name=Trailblazer relic hunter (t2) armour set
+model=twisted_relic_hunter_t2_armour_set_39143
+cost=50000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_trailblazer_relic_hunter_t2_armour_set_25384]
+certificate=yes
+
+[placeholder_trailblazer_relic_hunter_t2_armour_set_25385]
+placeholder=yes
+
+[trailblazer_relic_hunter_t3_armour_set_25386]
+name=Trailblazer relic hunter (t3) armour set
+model=twisted_relic_hunter_t3_armour_set_39145
+cost=50000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_trailblazer_relic_hunter_t3_armour_set_25387]
+certificate=yes
+
+[placeholder_trailblazer_relic_hunter_t3_armour_set_25388]
+placeholder=yes
 
