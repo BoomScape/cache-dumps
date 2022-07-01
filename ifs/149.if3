@@ -1,8 +1,8 @@
-[interface_268:0]
+[interface_149:0]
 type=^iftype_layer
 width=190
 height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script6007(event_com,0)"
+onload="script6007(event_com,1)"
 

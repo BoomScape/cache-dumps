@@ -411,7 +411,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_160:44
-optionmask=48128
+optionmask=80896
 opbase="<col=ff9040>Wiki</col>"
 op10="Search"
 targetverb="Lookup-entity"

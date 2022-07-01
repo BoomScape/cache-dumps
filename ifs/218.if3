@@ -101,7 +101,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=40960
+optionmask=73728
 targetverb="Cast"
 
 [interface_218:12]
@@ -173,7 +173,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=33792
+optionmask=66560
 op10="Warnings"
 targetverb="Cast"
 
@@ -204,7 +204,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=40960
+optionmask=73728
 targetverb="Cast"
 
 [interface_218:23]
@@ -289,7 +289,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=65536
 targetverb="Cast"
 
 [interface_218:32]
@@ -319,7 +319,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=40960
+optionmask=73728
 targetverb="Cast"
 
 [interface_218:35]
@@ -373,7 +373,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=33792
+optionmask=66560
 op10="Warnings"
 targetverb="Cast"
 
@@ -392,7 +392,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=40960
+optionmask=73728
 targetverb="Cast"
 
 [interface_218:43]
@@ -530,7 +530,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=40960
+optionmask=73728
 targetverb="Cast"
 
 [interface_218:58]
@@ -657,7 +657,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=40960
+optionmask=73728
 targetverb="Cast"
 
 [interface_218:72]
@@ -684,7 +684,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=40960
+optionmask=73728
 targetverb="Cast"
 
 [interface_218:75]
@@ -1145,7 +1145,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=65536
 targetverb="Cast"
 
 [interface_218:125]
@@ -1172,7 +1172,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=65536
 targetverb="Cast"
 
 [interface_218:128]
@@ -1199,7 +1199,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=65536
 targetverb="Cast"
 
 [interface_218:131]
@@ -1349,7 +1349,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
+optionmask=67584
 targetverb="Reanimate"
 
 [interface_218:147]
@@ -1367,7 +1367,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
+optionmask=67584
 targetverb="Reanimate"
 
 [interface_218:149]
@@ -1376,7 +1376,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
+optionmask=67584
 targetverb="Reanimate"
 
 [interface_218:150]
@@ -1385,7 +1385,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
+optionmask=67584
 targetverb="Reanimate"
 
 [interface_218:151]
@@ -1403,7 +1403,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
+optionmask=67584
 targetverb="Reanimate"
 
 [interface_218:153]

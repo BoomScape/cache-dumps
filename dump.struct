@@ -19179,17 +19179,6 @@ param=setting_slider_deadzone_1109,0
 param=setting_slider_deadtime_1110,0
 param=setting_desc_1096,Use the slider to change the camera zoom level.
 
-[struct_2735]
-param=setting_id_1077,45
-param=setting_type_1078,2
-param=setting_name_1086,Limit Framerate
-param=setting_search_keywords_1088,"Max frames per second,fps,Basic Display Settings"
-param=param_1271,yes
-param=setting_dropdown_list_1091,enum_3504
-param=setting_desc_1096,Used to limit the amount of frames that are drawn per second.
-param=param_1097,Used to limit the amount of frames that are drawn per second. Reducing this can increase your battery life.
-param=setting_choose_transmit_1085,yes
-
 [struct_2736]
 param=setting_id_1077,15
 param=setting_type_1078,1
@@ -19198,7 +19187,6 @@ param=setting_search_keywords_1088,"Screen Brightness,Basic Display Settings"
 param=setting_slider_notches_1101,21
 param=param_1102,5
 param=setting_desc_1096,Change the level of brightness to make the world look lighter or darker.
-param=setting_choose_transmit_1085,yes
 
 [struct_2737]
 param=setting_id_1077,55
@@ -21163,13 +21151,14 @@ param=setting_enhanced_1157,yes
 param=param_739,yes
 
 [struct_3008]
-param=setting_id_1077,115
-param=setting_type_1078,0
-param=setting_name_1086,Shift Anti Drag
-param=setting_search_keywords_1088,"antidrag,anti drag,shift key,anti drag shift key,antidrag shift key,controls"
-param=setting_desc_1096,"When enabled, you can only drag items in your inventory while holding down the shift key."
-param=setting_enhanced_1157,yes
-param=param_739,yes
+param=setting_id_1077,45
+param=setting_type_1078,2
+param=setting_name_1086,Limit Framerate
+param=setting_search_keywords_1088,"Max frames per second,fps,Basic Display Settings"
+param=param_1271,yes
+param=setting_dropdown_list_1091,enum_3504
+param=setting_desc_1096,Used to limit the amount of frames that are drawn per second.
+param=param_1097,Used to limit the amount of frames that are drawn per second. Reducing this can increase your battery life.
 
 [struct_3009]
 param=setting_id_1077,116
@@ -32897,4 +32886,122 @@ param=param_617,10
 [guardians_of_the_rift_4274]
 param=param_689,Guardians of the Rift
 param=param_690,enum_4300
+
+[struct_4275]
+param=setting_search_keywords_1088,chat examine item price pricing ge grand exchange
+param=setting_id_1077,234
+param=setting_type_1078,0
+param=setting_name_1086,Examine price info - Grand Exchange
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, shows Grand Exchange price when examining items."
+param=setting_choose_transmit_1085,yes
+
+[struct_4276]
+param=setting_search_keywords_1088,chat examine item price pricing alch alchemy
+param=setting_id_1077,235
+param=setting_type_1078,0
+param=setting_name_1086,Examine price info - Alchemy
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, shows alchemy price when examining items."
+param=setting_choose_transmit_1085,yes
+
+[struct_4277]
+param=setting_id_1077,115
+param=setting_type_1078,0
+param=setting_name_1086,Anti Drag
+param=setting_search_keywords_1088,"antidrag,anti drag,shift key,anti drag shift key,antidrag shift key,ctrl,control,controls"
+param=setting_desc_1096,"When enabled, disables dragging items in your inventory based on your Anti Drag settings."
+param=setting_enhanced_1157,yes
+param=param_739,yes
+
+[struct_4278]
+param=setting_id_1077,236
+param=setting_type_1078,4
+param=setting_input_singular_1111,ms
+param=setting_input_plural_1112,ms
+param=setting_name_1086,Anti Drag - Delay
+param=setting_search_keywords_1088,"antidrag,anti drag,shift key,anti drag shift key,antidrag shift key,ctrl,control,controls"
+param=setting_desc_1096,"Delay, in milliseconds, between dragging an item in the inventory and when it will actually start being dragged. Useful for preventing accidental drags. Value will be rounded to the nearest 20ms (max 5000)."
+param=setting_enhanced_1157,yes
+param=param_739,yes
+
+[struct_4279]
+param=setting_choose_transmit_1085,yes
+param=setting_id_1077,237
+param=setting_type_1078,2
+param=setting_dropdown_list_1091,enum_2099
+param=setting_name_1086,Anti Drag - Enable Key
+param=setting_search_keywords_1088,"antidrag,anti drag,shift key,anti drag shift key,antidrag shift key,key,ctrl,control,controls"
+param=setting_desc_1096,"When set, only disables dragging items in your inventory while the key is held down. If no key is set, Anti Drag will always be on."
+param=setting_enhanced_1157,yes
+param=param_739,yes
+
+[struct_4280]
+param=setting_choose_transmit_1085,yes
+param=setting_id_1077,238
+param=setting_type_1078,2
+param=setting_dropdown_list_1091,enum_2100
+param=setting_name_1086,Anti Drag - Disable Key
+param=setting_search_keywords_1088,"antidrag,disable,anti drag,shift key,anti drag shift key,antidrag shift key,key,ctrl,control,controls"
+param=setting_desc_1096,"When set, enables dragging items in your inventory while the key is held down if Anti Drag is active."
+param=setting_enhanced_1157,yes
+param=param_739,yes
+
+[struct_4281]
+param=setting_id_1077,229
+param=setting_type_1078,0
+param=setting_name_1086,Vibrate on interaction
+param=setting_search_keywords_1088,"vibrate,haptic,feedback,rumble"
+param=setting_desc_1096,"When enabled, your device will vibrate when you perform any non-interface interaction (except Walk-here)."
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_mobile_740,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_4282]
+param=setting_id_1077,230
+param=setting_type_1078,0
+param=setting_name_1086,Vibrate on drag
+param=setting_search_keywords_1088,"vibrate,haptic,feedback,rumble"
+param=setting_desc_1096,"When enabled, your device will vibrate when you begin dragging something in an interface."
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_mobile_740,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_4283]
+param=setting_id_1077,231
+param=setting_type_1078,0
+param=setting_name_1086,Vibrate when minimenu opens
+param=setting_search_keywords_1088,"vibrate,haptic,feedback,rumble"
+param=setting_desc_1096,"When enabled, your device will vibrate when the minimenu opens."
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_mobile_740,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_4284]
+param=setting_id_1077,232
+param=setting_type_1078,0
+param=setting_name_1086,Vibrate when hovering over minimenu entries
+param=setting_search_keywords_1088,"vibrate,haptic,feedback,rumble"
+param=setting_desc_1096,"When enabled, your device will vibrate when you hover over different minimenu entries."
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_mobile_740,yes
+
+[struct_4285]
+param=setting_id_1077,233
+param=setting_type_1078,4
+param=setting_name_1086,Minimenu long-press time
+param=setting_search_keywords_1088,"minimenu,long-press,long,hold"
+param=setting_desc_1096,"The time taken, in milliseconds, to open the minimenu when long-pressing."
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_mobile_740,yes
+param=setting_input_zero_1113,0 ms
+param=setting_input_singular_1111,ms
+param=setting_input_plural_1112,ms
 
