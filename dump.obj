@@ -160771,52 +160771,34 @@ placeholder=yes
 
 [xerics_talisman_inert_13392]
 name=Xeric's talisman (inert)
-model=xerics_talisman_inert_8803
-manwear=xerics_talisman_inert_8779,0
-womanwear=xerics_talisman_inert_8785,0
+model=xerics_talisman_inert_4641
+manwear=xerics_talisman_inert_4639,0
+womanwear=xerics_talisman_inert_4640,0
 cost=350
-2dzoom=610
-2dyof=14
-2dxan=512
+2dzoom=650
+2dxan=444
 iop2=Wear
 iop3=Check
 iop4=Dismantle
-recol1s=10021
-recol1d=2960
-recol2s=5916
-recol2d=2960
-recol3s=4882
-recol3d=2960
-recol4s=4696
-recol4d=-11126
-recol5s=127
-recol5d=33
+recol1s=19379
+recol1d=24
+recol2s=19369
+recol2d=16
 members=yes
 param=param_451,Check
 
 [xerics_talisman_13393]
 name=Xeric's talisman
-model=xerics_talisman_inert_8803
-manwear=xerics_talisman_inert_8779,0
-womanwear=xerics_talisman_inert_8785,0
+model=xerics_talisman_inert_4641
+manwear=xerics_talisman_inert_4639,0
+womanwear=xerics_talisman_inert_4640,0
 cost=351
-2dzoom=610
-2dyof=14
-2dxan=512
+2dzoom=650
+2dxan=444
 iop2=Wear
 iop3=Rub
 iop4=Check
 iop5=Uncharge
-recol1s=10021
-recol1d=2960
-recol2s=5916
-recol2d=2960
-recol3s=4882
-recol3d=2960
-recol4s=4696
-recol4d=-11126
-recol5s=127
-recol5d=1984
 members=yes
 placeholder=yes
 param=param_451,Xeric's Look-out
@@ -218299,34 +218281,28 @@ placeholder=yes
 [placeholder_ornate_helm_23102]
 placeholder=yes
 
-[cooks_shopping_list_23103]
-name=Cook's shopping list
+[dummy_ballad_23103]
+name=Null
 model=ballad_10137
 2dzoom=1100
 2dxan=506
 2dyan=1975
-iop1=Read
-iop5=Destroy
 
-[cooks_letter_23104]
-name=Cook's letter
+[dummy_letter_23104]
+name=Null
 model=letter_10013
 2dzoom=960
 2dxof=1
 2dyof=7
 2dxan=310
 2dyan=1869
-iop1=Read
-iop5=Destroy
 
-[brewers_folly_23105]
-name=Brewer's folly
+[dummy_asgarnian_ale_23105]
+name=Null
 model=asgarnian_ale_2491
 2dzoom=660
 2dxan=94
 2dyan=1850
-iop1=Drink
-iop5=Destroy
 recol1s=7091
 recol1d=11175
 recol2s=7116
@@ -218334,25 +218310,21 @@ recol2d=10927
 recol3s=-11139
 recol3d=10826
 
-[vyvins_wine_23106]
-name=Vyvin's wine
+[dummy_khali_brew_23106]
+name=Null
 model=khali_brew_2660
 2dzoom=1000
 2dxan=107
 2dyan=146
-iop1=Drink
-iop5=Destroy
 recol1s=1942
 recol1d=2987
 
-[beer_glass_of_water_23107]
-name=Beer glass of water
+[dummy_asgarnian_ale_23107]
+name=Null
 model=asgarnian_ale_2491
 2dzoom=660
 2dxan=92
 2dyan=1892
-iop1=Drink
-iop4=Empty
 iop5=Destroy
 recol1s=7091
 recol1d=-22442

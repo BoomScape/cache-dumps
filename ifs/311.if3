@@ -270,7 +270,7 @@ width=57
 height=34
 hposmode=^setpos_abs_right
 layer=interface_311:1
-onload="script2069(event_com,20381727,20381729,20381728,20381731,20381726)"
+onload="script2069(event_com,20381728,20381730,20381729,20381726,20381727)"
 
 [interface_311:30]
 type=^iftype_graphic
@@ -281,6 +281,17 @@ graphic="orb_frame,0"
 onload="script834(event_com,1)"
 
 [interface_311:31]
+type=^iftype_layer
+x=3
+y=5
+width=50
+height=26
+layer=interface_311:29
+optionmask=2
+opbase="col=ff9040>Special Attack</col>"
+op1="*"
+
+[interface_311:32]
 type=^iftype_text
 x=4
 y=16
@@ -293,7 +304,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_311:32]
+[interface_311:33]
 type=^iftype_graphic
 x=27
 y=4
@@ -303,21 +314,21 @@ layer=interface_311:29
 graphic="orb_filler,9"
 trans=25
 
-[interface_311:33]
+[interface_311:34]
 type=^iftype_layer
 x=27
 y=4
 width=26
 layer=interface_311:29
 
-[interface_311:34]
+[interface_311:35]
 type=^iftype_graphic
 width=26
 height=26
-layer=interface_311:33
+layer=interface_311:34
 graphic="orb_filler,0"
 
-[interface_311:35]
+[interface_311:36]
 type=^iftype_graphic
 x=27
 y=4
@@ -326,7 +337,7 @@ height=26
 layer=interface_311:29
 graphic="orb_icon,6"
 
-[interface_311:36]
+[interface_311:37]
 type=^iftype_layer
 x=62
 y=81
@@ -334,46 +345,46 @@ width=34
 height=34
 hposmode=^setpos_abs_right
 layer=interface_311:1
-onload="script2396(event_com,20381735,20381733,20381734,20381736)"
+onload="script2396(event_com,20381736,20381734,20381735,20381737)"
 
-[interface_311:37]
+[interface_311:38]
 type=^iftype_graphic
 width=34
 height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_311:36
+layer=interface_311:37
 graphic="graphic_1635"
 
-[interface_311:38]
+[interface_311:39]
 type=^iftype_graphic
 width=26
 height=26
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_311:36
+layer=interface_311:37
 graphic="orb_filler,11"
 trans=25
 
-[interface_311:39]
+[interface_311:40]
 type=^iftype_layer
 width=34
 height=34
-layer=interface_311:36
+layer=interface_311:37
 optionmask=6
 op1="*"
 op2="*"
 
-[interface_311:40]
+[interface_311:41]
 type=^iftype_graphic
 width=26
 height=26
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_311:36
+layer=interface_311:37
 graphic="orb_icon,7"
 
-[interface_311:41]
+[interface_311:42]
 type=^iftype_layer
 x=62
 y=37
@@ -381,25 +392,25 @@ width=40
 height=40
 hposmode=^setpos_abs_right
 layer=interface_311:1
-onload="script1492(event_com,20381738,20381739)"
+onload="script1492(event_com,20381739,20381740)"
 
-[interface_311:42]
+[interface_311:43]
 type=^iftype_graphic
 width=40
 height=40
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_311:41
+layer=interface_311:42
 graphic="ring_40"
 onload="script834(event_com,1)"
 
-[interface_311:43]
+[interface_311:44]
 type=^iftype_graphic
 width=32
 height=32
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_311:41
+layer=interface_311:42
 graphic="worldmap_icon_large,0"
 optionmask=14
 op1="*"

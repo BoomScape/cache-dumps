@@ -41832,11 +41832,6 @@ replayoff=15
 looptype=1
 framegroup1=1739
 
-[present_6932]
-framecount=13
-looptype=1
-framegroup1=833
-
 [seq_6933]
 framecount=23
 looptype=1
@@ -43541,12 +43536,6 @@ mainhand=0
 offhand=13958
 looptype=1
 framegroup1=294
-
-[light_7203]
-framecount=36
-replayoff=36
-looptype=1
-framegroup1=380
 
 [pot_of_dynamite_7204]
 framecount=9
@@ -50559,12 +50548,6 @@ framegroup1=2297
 framecount=16
 looptype=1
 framegroup1=2294
-
-[light_8294]
-framecount=36
-replayoff=36
-looptype=1
-framegroup1=380
 
 [magic_mirror_8295]
 framecount=16
