@@ -58285,6 +58285,30 @@ movetype=2
 looptype=1
 framegroup1=197
 
+[seq_9403]
+framecount=54
+mainhand=27008
+offhand=0
+movetype=1
+looptype=1
+framegroup1=264
+
+[seq_9404]
+framecount=54
+mainhand=27010
+offhand=0
+movetype=1
+looptype=1
+framegroup1=264
+
+[seq_9405]
+framecount=54
+mainhand=27000
+offhand=0
+movetype=1
+looptype=1
+framegroup1=264
+
 [seq_9406]
 framecount=6
 looptype=1
@@ -58341,6 +58365,14 @@ soundeffect14=5550,1,5
 framecount=1
 looptype=1
 framegroup1=2904
+
+[seq_9414]
+framecount=54
+mainhand=27006
+offhand=0
+movetype=1
+looptype=1
+framegroup1=264
 
 [seq_9415]
 framecount=11
@@ -58510,4 +58542,20 @@ exactmove=2
 movetype=2
 looptype=1
 framegroup1=198
+
+[seq_9440]
+framecount=54
+mainhand=27004
+offhand=0
+movetype=1
+looptype=1
+framegroup1=264
+
+[seq_9441]
+framecount=54
+mainhand=27002
+offhand=0
+movetype=1
+looptype=1
+framegroup1=264
 

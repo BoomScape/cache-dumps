@@ -1928,6 +1928,9 @@ default=null
 [param_1292]
 type=boolean
 
+[param_1293]
+autodisable=no
+
 [param_1297]
 type=boolean
 default=yes
@@ -2604,4 +2607,7 @@ type=boolean
 [param_1609]
 type=npc
 default=null
+
+[param_1612]
+type=int
 

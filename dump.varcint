@@ -13,6 +13,9 @@ save=yes
 [varcint_75]
 save=yes
 
+[varcint_175]
+save=yes
+
 [varcint_183]
 save=yes
 
@@ -37,6 +40,12 @@ save=yes
 [varcint_194]
 save=yes
 
+[varcint_199]
+save=yes
+
+[varcint_202]
+save=yes
+
 [varcint_204]
 save=yes
 
@@ -52,6 +61,9 @@ save=yes
 [varcint_381]
 save=yes
 
+[varcint_383]
+save=yes
+
 [varcint_395]
 save=yes
 
@@ -62,6 +74,12 @@ save=yes
 save=yes
 
 [varcint_398]
+save=yes
+
+[varcint_439]
+save=yes
+
+[varcint_440]
 save=yes
 
 [varcint_441]
@@ -1244,6 +1262,9 @@ save=yes
 save=yes
 
 [varcint_945]
+save=yes
+
+[varcint_946]
 save=yes
 
 [varcint_968]
