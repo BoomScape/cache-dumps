@@ -46386,6 +46386,7 @@ recol4s=127
 recol4d=-21930
 members=yes
 placeholder=yes
+param=param_595,Check
 
 [mirror_shield_4156]
 name=Mirror shield
@@ -63039,6 +63040,7 @@ iop3=Check
 members=yes
 shiftop=1
 placeholder=yes
+param=param_595,Fill
 
 [medium_pouch_5510]
 name=Medium pouch
@@ -63053,6 +63055,7 @@ iop3=Check
 members=yes
 shiftop=1
 placeholder=yes
+param=param_595,Fill
 
 [medium_pouch_5511]
 name=Medium pouch
@@ -63074,6 +63077,7 @@ recol4s=6798
 recol4d=11144
 members=yes
 shiftop=1
+param=param_595,Fill
 
 [large_pouch_5512]
 name=Large pouch
@@ -63089,6 +63093,7 @@ iop3=Check
 members=yes
 shiftop=1
 placeholder=yes
+param=param_595,Fill
 
 [large_pouch_5513]
 name=Large pouch
@@ -63111,6 +63116,7 @@ recol4s=6798
 recol4d=11144
 members=yes
 shiftop=1
+param=param_595,Fill
 
 [giant_pouch_5514]
 name=Giant pouch
@@ -63124,6 +63130,7 @@ iop3=Check
 members=yes
 shiftop=1
 placeholder=yes
+param=param_595,Fill
 
 [giant_pouch_5515]
 name=Giant pouch
@@ -63144,6 +63151,7 @@ recol4s=6798
 recol4d=11144
 members=yes
 shiftop=1
+param=param_595,Fill
 
 [elemental_talisman_5516]
 name=Elemental talisman
@@ -140196,6 +140204,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [slayer_ring_7_11867]
 name=Slayer ring (7)
@@ -140217,6 +140226,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [slayer_ring_6_11868]
 name=Slayer ring (6)
@@ -140238,6 +140248,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [slayer_ring_5_11869]
 name=Slayer ring (5)
@@ -140259,6 +140270,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [slayer_ring_4_11870]
 name=Slayer ring (4)
@@ -140280,6 +140292,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [slayer_ring_3_11871]
 name=Slayer ring (3)
@@ -140301,6 +140314,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [slayer_ring_2_11872]
 name=Slayer ring (2)
@@ -140322,6 +140336,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [slayer_ring_1_11873]
 name=Slayer ring (1)
@@ -140344,6 +140359,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [broad_arrowheads_11874]
 name=Broad arrowheads
@@ -142127,6 +142143,7 @@ recol4d=6445
 members=yes
 shiftop=3
 placeholder=yes
+param=param_595,Empty
 
 [gem_bag_12020]
 name=Gem bag
@@ -142151,6 +142168,7 @@ recol4d=14637
 members=yes
 shiftop=3
 placeholder=yes
+param=param_595,Empty
 
 [clue_scroll_medium_12021]
 name=Clue scroll (medium)
@@ -150016,11 +150034,11 @@ placeholder=yes
 
 [pet_smoke_devil_12648]
 name=Pet smoke devil
-model=smoke_devil_28442
-2dzoom=3984
-2dyof=20
+model=pet_smoke_devil_36012
+2dzoom=7095
+2dyof=-5
 2dxan=9
-2dyan=1862
+2dyan=81
 members=yes
 placeholder=yes
 
@@ -151825,6 +151843,7 @@ iop4=Empty
 iop5=Destroy
 members=yes
 placeholder=yes
+param=param_595,Empty
 
 [nest_box_empty_12792]
 name=Nest box (empty)
@@ -151837,6 +151856,7 @@ iop1=Extract
 iop4=Check
 members=yes
 placeholder=yes
+param=param_595,Extract
 
 [nest_box_seeds_12793]
 name=Nest box (seeds)
@@ -151848,6 +151868,7 @@ cost=10
 iop1=Extract
 iop4=Check
 members=yes
+param=param_595,Extract
 
 [nest_box_ring_12794]
 name=Nest box (ring)
@@ -151860,6 +151881,7 @@ iop1=Extract
 iop4=Check
 members=yes
 placeholder=yes
+param=param_595,Extract
 
 [steam_battlestaff_12795]
 name=Steam battlestaff
@@ -152578,6 +152600,7 @@ iop4=Empty
 iop5=Destroy
 members=yes
 placeholder=yes
+param=param_595,Empty
 
 [hunters_honour_12855]
 name=Hunter's honour
@@ -156793,6 +156816,7 @@ members=yes
 ambient=10
 shiftop=2
 placeholder=yes
+param=param_595,Empty
 
 [eternal_crystal_13227]
 name=Eternal crystal
@@ -162353,6 +162377,7 @@ iop3=Check
 iop5=Destroy
 members=yes
 placeholder=yes
+param=param_595,Empty
 
 [farmers_boro_trousers_13640]
 name=Farmer's boro trousers
@@ -162560,6 +162585,7 @@ iop1=Extract
 iop4=Check
 members=yes
 placeholder=yes
+param=param_595,Extract
 
 [gnome_child_hat_13655]
 name=Gnome child hat
@@ -198554,6 +198580,7 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
+param=param_595,Check
 
 [placeholder_slayer_ring_eternal_21269]
 placeholder=yes
@@ -198585,6 +198612,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_595,Check
 
 [cert_eternal_gem_21271]
 certificate=yes
@@ -210067,6 +210095,7 @@ model=rotten_carrot_35340
 2dyan=1770
 iop1=Tele
 iop2=Kill Bot
+iop3=Kill Area
 
 [justiciar_armour_set_22438]
 name=Justiciar armour set
@@ -212033,4 +212062,103 @@ model=model_36009
 2dxof=-5
 2dyof=2
 2dxan=588
+
+[empty_bucket_pack_22660]
+name=Empty bucket pack
+model=empty_bucket_pack_36013
+cost=500
+2dzoom=1539
+2dxof=-3
+2dyof=-3
+2dyan=2047
+iop1=Open
+certificate=yes
+placeholder=yes
+
+[cert_empty_bucket_pack_22661]
+certificate=yes
+
+[placeholder_empty_bucket_pack_22662]
+placeholder=yes
+
+[pet_smoke_devil_22663]
+name=Pet smoke devil
+model=smoke_devil_28442
+2dzoom=3984
+2dyof=20
+2dxan=9
+2dyan=1862
+members=yes
+
+[scythe_of_vitur_22664]
+name=Scythe of vitur
+model=scythe_of_vitur_35742
+manwear=scythe_of_vitur_35371,0
+womanwear=scythe_of_vitur_35371,0
+2dzoom=2105
+2dxof=1
+2dyof=17
+2dxan=327
+2dyan=23
+iop2=Wield
+iop3=Kill Area
+param=param_451,Kill Area
+
+[armadyl_godsword_22665]
+name=Armadyl godsword
+model=armadyl_godsword_28075
+manwear=armadyl_godsword_27649,2
+womanwear=armadyl_godsword_27649,5
+cost=1250000
+2dzoom=1957
+2dxof=-1
+2dyof=-1
+2dxan=498
+2dyan=484
+iop2=Wield
+iop3=Kill Area
+param=param_451,Kill Area
+
+[rubber_chicken_22666]
+name=Rubber chicken
+model=rubber_chicken_5808
+manwear=rubber_chicken_5812,0
+womanwear=rubber_chicken_5812,6
+cost=0
+2dzoom=1510
+2dxof=-3
+2dyof=13
+2dxan=332
+2dyan=92
+iop2=Wield
+iop3=Kill Area
+param=param_451,Kill Area
+
+[obj_22667]
+model=model_36017
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1926
+
+[obj_22668]
+model=model_36016
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1926
+
+[obj_22669]
+model=model_36014
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1926
+
+[obj_22670]
+model=model_36015
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1926
 

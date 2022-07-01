@@ -9153,11 +9153,9 @@ contrast=30
 
 [thermonuclear_smoke_devil_499]
 name=Thermonuclear smoke devil
-model1=smoke_devil_28442
+model1=pet_smoke_devil_36012
 readyanim=smoke_devil_ready_1829
 walkanim=smoke_devil_walk_1828
-resizeh=280
-resizev=280
 op2=Attack
 size=4
 vislevel=301
@@ -98662,7 +98660,7 @@ recol5d=3486
 recol6s=4550
 recol6d=4649
 op1=Talk-to
-op3=Combine
+op3=Decant
 op4=Clean
 op5=Make unfinished potion(s)
 vislevel=0
@@ -121028,7 +121026,7 @@ visonmap=no
 [portal_5895]
 name=<col=00ffff>Portal</col>
 model1=portal_2318
-readyanim=portal_504
+readyanim=cactus_504
 op1=Use
 vislevel=0
 visonmap=no
@@ -121036,7 +121034,7 @@ ambient=100
 contrast=100
 
 [portal_multi_5896]
-readyanim=portal_504
+readyanim=cactus_504
 vislevel=0
 multivar=varbit_2313
 multinpc=2,portal_5895
@@ -121047,7 +121045,7 @@ visonmap=no
 [portal_5897]
 name=<col=00efef>Portal</col>
 model1=portal_2318
-readyanim=portal_504
+readyanim=cactus_504
 op1=Exit
 vislevel=0
 visonmap=no
@@ -121149,7 +121147,7 @@ drawpriority=yes
 ambient=20
 
 [portal_multi_5904]
-readyanim=portal_504
+readyanim=cactus_504
 vislevel=0
 multivar=varbit_2313
 multinpc=2,portal_5895
@@ -121158,7 +121156,7 @@ multinpc=6,portal_5895
 visonmap=no
 
 [portal_multi_5905]
-readyanim=portal_504
+readyanim=cactus_504
 vislevel=0
 multivar=varbit_2313
 multinpc=2,portal_5897
@@ -133022,14 +133020,15 @@ follower=yes
 
 [smoke_devil_6639]
 name=Smoke Devil
-model1=smoke_devil_28442
-head1=smoke_devil_28856
+model1=pet_smoke_devil_36012
+head1=smoke_devil_36011
 readyanim=smoke_devil_ready_1829
 walkanim=smoke_devil_walk_1828
-resizeh=60
-resizev=60
+resizeh=35
+resizev=35
 op1=Talk-to
 op3=Pick-up
+op4=Metamorphosis
 vislevel=0
 visonmap=no
 ambient=25
@@ -133370,12 +133369,12 @@ contrast=30
 
 [smoke_devil_6655]
 name=Smoke Devil
-model1=smoke_devil_28442
-head1=smoke_devil_28856
+model1=pet_smoke_devil_36012
+head1=smoke_devil_36011
 readyanim=smoke_devil_ready_1829
 walkanim=smoke_devil_walk_1828
-resizeh=60
-resizev=60
+resizeh=35
+resizev=35
 op1=Talk-to
 op3=Pick-up
 vislevel=0
@@ -171711,4 +171710,42 @@ op1=Talk-to
 op3=Teleport
 op4=Claim
 vislevel=0
+
+[smoke_devil_8482]
+name=Smoke Devil
+model1=smoke_devil_28442
+head1=smoke_devil_28856
+readyanim=smoke_devil_ready_1829
+walkanim=smoke_devil_walk_1828
+resizeh=60
+resizev=60
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=25
+contrast=25
+
+[smoke_devil_8483]
+name=Smoke Devil
+model1=smoke_devil_28442
+head1=smoke_devil_28856
+readyanim=smoke_devil_ready_1829
+walkanim=smoke_devil_walk_1828
+resizeh=60
+resizev=60
+op1=Talk-to
+op3=Pick-up
+op4=Metamorphosis
+vislevel=0
+visonmap=no
+ambient=25
+contrast=25
+follower=yes
+
+[npc_8484]
+model1=snow_32248
+vislevel=0
+active=no
+visonmap=no
 

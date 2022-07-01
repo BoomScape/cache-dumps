@@ -319,7 +319,7 @@ x=74
 width=33
 height=36
 layer=interface_548:30
-graphic="side_icons,9"
+graphic="side_icons,22"
 
 [interface_548:40]
 type=^iftype_graphic

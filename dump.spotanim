@@ -3860,7 +3860,7 @@ anim=seq_3744
 
 [spotanim_626]
 model=portal_2318
-anim=portal_504
+anim=cactus_504
 ambient=100
 contrast=100
 recol1s=11218

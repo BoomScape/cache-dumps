@@ -11,7 +11,6 @@ type=^iftype_layer
 width=21
 height=21
 hposmode=^setpos_abs_right
-hide=yes
 layer=interface_432:0
 optionmask=2
 op1="View Friends List"
@@ -31,6 +30,7 @@ graphic="options_icons_small,4"
 [interface_432:3]
 type=^iftype_text
 y=1
+width=20
 height=20
 hsizemode=^setsize_minus
 layer=interface_432:0

@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script250(event_com,15663106,15663109,15663118,15663112,15663114,15663116)"
+onload="script250(event_com,15663107,15663108,15663117,15663111,15663113,15663115)"
 
 [interface_239:1]
 type=^iftype_layer
@@ -16,6 +16,17 @@ layer=interface_239:0
 onload="script392(event_com)"
 
 [interface_239:2]
+type=^iftype_rectangle
+width=2
+height=2
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_239:1
+fill=yes
+trans=212
+
+[interface_239:3]
 type=^iftype_layer
 x=10
 width=32
@@ -25,31 +36,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_239:1
 
-[interface_239:3]
-type=^iftype_text
-y=2
-height=15
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_239:2
-text="Select a track to play."
-colour=0xff981f
-font=p12_full
-shadowed=yes
-
 [interface_239:4]
-type=^iftype_text
-y=17
-height=15
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_239:2
-text="Green=Unlocked"
-colour=^green
-font=p12_full
-shadowed=yes
-
-[interface_239:5]
 type=^iftype_layer
 x=6
 width=16
@@ -59,7 +46,7 @@ vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_239:1
 
-[interface_239:6]
+[interface_239:5]
 type=^iftype_text
 x=7
 y=17
@@ -71,20 +58,20 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_239:7]
+[interface_239:6]
 type=^iftype_text
 x=7
 y=34
 width=183
 height=18
 layer=interface_239:0
-colour=^green
+colour=0xdc10d
 font=p12_full
 shadowed=yes
 
-[interface_239:8]
+[interface_239:7]
 type=^iftype_graphic
-x=66
+x=63
 y=7
 width=36
 height=36
@@ -93,9 +80,9 @@ graphic="miscgraphics2,0"
 optionmask=2
 op1="Auto"
 
-[interface_239:9]
+[interface_239:8]
 type=^iftype_text
-x=66
+x=63
 y=7
 width=37
 height=26
@@ -107,7 +94,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_239:10]
+[interface_239:9]
 type=^iftype_graphic
 x=105
 y=7
@@ -118,7 +105,7 @@ graphic="miscgraphics2,0"
 optionmask=2
 op1="Manual"
 
-[interface_239:11]
+[interface_239:10]
 type=^iftype_text
 x=105
 y=7
@@ -132,9 +119,9 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_239:12]
+[interface_239:11]
 type=^iftype_graphic
-x=144
+x=147
 y=7
 width=36
 height=36
@@ -143,9 +130,9 @@ graphic="miscgraphics2,0"
 optionmask=2
 op1="Loop"
 
-[interface_239:13]
+[interface_239:12]
 type=^iftype_text
-x=144
+x=147
 y=7
 width=37
 height=26
@@ -157,7 +144,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_239:14]
+[interface_239:13]
 type=^iftype_text
 height=248
 hposmode=^setpos_abs_centre

@@ -374,7 +374,7 @@ x=71
 width=33
 height=36
 layer=interface_161:34
-graphic="side_icons,9"
+graphic="side_icons,22"
 
 [interface_161:44]
 type=^iftype_graphic
