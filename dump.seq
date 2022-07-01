@@ -2782,7 +2782,7 @@ replayoff=16
 looptype=1
 framegroup1=810
 
-[cactus_504]
+[tree_504]
 framecount=39
 replayoff=39
 looptype=1
@@ -31651,7 +31651,7 @@ replaycount=4
 looptype=1
 framegroup1=295
 
-[seq_5250]
+[warrior_of_murahs_walk_5250]
 framecount=8
 looptype=1
 framegroup1=299
@@ -31671,7 +31671,7 @@ framecount=8
 looptype=1
 framegroup1=299
 
-[seq_5254]
+[warrior_of_murahs_ready_5254]
 framecount=12
 looptype=1
 framegroup1=299
@@ -36960,6 +36960,7 @@ framegroup1=1575
 [seq_6154]
 framecount=27
 stretches=yes
+priority=6
 looptype=1
 framegroup1=1575
 
@@ -38303,7 +38304,6 @@ framegroup1=1639
 
 [seq_6375]
 framecount=17
-priority=6
 looptype=1
 framegroup1=1639
 
@@ -42018,6 +42018,7 @@ soundeffect25=3859,1,15
 
 [seq_6950]
 framecount=32
+priority=6
 looptype=1
 framegroup1=1208
 soundeffect9=3889,1,15
@@ -42038,9 +42039,10 @@ looptype=1
 framegroup1=1755
 
 [seq_6954]
-framecount=40
+framecount=16
+replayoff=16
 looptype=1
-framegroup1=1755
+framegroup1=2515
 
 [seq_6955]
 framecount=18
@@ -42063,7 +42065,6 @@ framegroup1=1755
 
 [seq_6958]
 framecount=20
-priority=6
 looptype=1
 framegroup1=1755
 
@@ -42143,6 +42144,7 @@ framegroup1=1760
 
 [seq_6972]
 framecount=25
+priority=6
 looptype=1
 framegroup1=1124
 
@@ -42158,6 +42160,7 @@ framegroup1=1758
 
 [seq_6975]
 framecount=30
+priority=6
 looptype=1
 framegroup1=1755
 
@@ -42186,6 +42189,7 @@ framegroup1=1757
 
 [seq_6980]
 framecount=20
+priority=6
 looptype=1
 framegroup1=1757
 soundeffect9=3882,1,15
@@ -42193,6 +42197,7 @@ soundeffect9=3882,1,15
 [seq_6981]
 framecount=14
 stretches=yes
+priority=6
 looptype=1
 framegroup1=1757
 soundeffect4=3865,1,15
@@ -42329,12 +42334,6 @@ replayoff=33
 looptype=1
 framegroup1=1753
 
-[seq_7002]
-framecount=28
-stretches=yes
-looptype=1
-framegroup1=1743
-
 [seq_7003]
 framecount=14
 looptype=1
@@ -42351,33 +42350,15 @@ framecount=7
 looptype=1
 framegroup1=1780
 
-[seq_7006]
-framecount=19
-stretches=yes
-looptype=1
-framegroup1=1743
-
 [seq_7007]
 framecount=13
 looptype=1
 framegroup1=1781
 
-[seq_7008]
-framecount=22
-stretches=yes
-looptype=1
-framegroup1=1743
-
 [seq_7009]
 framecount=8
 looptype=1
 framegroup1=1779
-
-[seq_7010]
-framecount=25
-stretches=yes
-looptype=1
-framegroup1=1743
 
 [seq_7011]
 framecount=8
@@ -42447,6 +42428,7 @@ soundeffect19=3859,1,15
 
 [seq_7021]
 framecount=16
+priority=6
 looptype=1
 framegroup1=1124
 soundeffect9=3889,1,15
@@ -42483,7 +42465,6 @@ framegroup1=1745
 
 [seq_7027]
 framecount=17
-priority=6
 looptype=1
 framegroup1=1745
 
@@ -42530,7 +42511,6 @@ framegroup1=1345
 
 [seq_7035]
 framecount=16
-priority=6
 looptype=1
 framegroup1=1345
 
@@ -42737,6 +42717,7 @@ framegroup1=1770
 
 [seq_7071]
 framecount=14
+priority=6
 looptype=1
 framegroup1=1575
 
@@ -42747,6 +42728,7 @@ framegroup1=1770
 
 [seq_7073]
 framecount=11
+priority=6
 looptype=1
 framegroup1=1575
 
@@ -42767,6 +42749,7 @@ framegroup1=1759
 
 [seq_7077]
 framecount=22
+priority=6
 looptype=1
 framegroup1=1208
 

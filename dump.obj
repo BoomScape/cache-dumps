@@ -27733,7 +27733,7 @@ certificate=yes
 placeholder=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_8_2553]
 certificate=yes
@@ -27755,7 +27755,7 @@ members=yes
 certificate=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_7_2555]
 certificate=yes
@@ -27777,7 +27777,7 @@ members=yes
 certificate=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_6_2557]
 certificate=yes
@@ -27799,7 +27799,7 @@ members=yes
 certificate=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_5_2559]
 certificate=yes
@@ -27821,7 +27821,7 @@ members=yes
 certificate=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_4_2561]
 certificate=yes
@@ -27843,7 +27843,7 @@ members=yes
 certificate=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_3_2563]
 certificate=yes
@@ -27865,7 +27865,7 @@ members=yes
 certificate=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_2_2565]
 certificate=yes
@@ -27888,7 +27888,7 @@ certificate=yes
 placeholder=yes
 param=param_451,Duel Arena
 param=param_452,Castle Wars
-param=param_453,Clan Wars
+param=param_453,Ferox Enclave
 
 [cert_ring_of_dueling_1_2567]
 certificate=yes

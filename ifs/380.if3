@@ -26,7 +26,6 @@ layer=interface_380:3
 colour=0xffa21f
 font=p12_full
 halign=^settextalign_centre
-valign=^settextalign_centre
 shadowed=yes
 
 [interface_380:3]
@@ -48,11 +47,9 @@ type=^iftype_text
 width=309
 height=290
 layer=interface_380:3
-colour=0xffb61f
+colour=0xffb01f
 font=p12_full
 halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
 
 [interface_380:6]
 type=^iftype_graphic

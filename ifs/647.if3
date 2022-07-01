@@ -2,7 +2,7 @@
 type=^iftype_layer
 width=512
 height=334
-onload="script3099(42401803,42401804,42401807,42401808,42401809,42401806,42401810)"
+onload="script3099(42401803,42401804,42401807,42401808,42401809,42401806,42401810,42401811)"
 
 [interface_647:1]
 type=^iftype_layer
@@ -151,13 +151,21 @@ layer=interface_647:13
 
 [interface_647:18]
 type=^iftype_layer
-x=232
-y=71
+x=236
+y=61
 width=189
-height=53
+height=38
 layer=interface_647:13
 
 [interface_647:19]
+type=^iftype_layer
+x=169
+y=99
+width=224
+height=37
+layer=interface_647:13
+
+[interface_647:20]
 type=^iftype_model
 x=78
 y=175
@@ -170,7 +178,7 @@ yan=1642
 zoom=400
 anim=seq_3308
 
-[interface_647:20]
+[interface_647:21]
 type=^iftype_model
 x=86
 y=61
@@ -183,7 +191,7 @@ yan=1654
 zoom=400
 anim=seq_3308
 
-[interface_647:21]
+[interface_647:22]
 type=^iftype_model
 x=183
 y=-9
@@ -196,7 +204,7 @@ yan=1609
 zoom=400
 anim=seq_3308
 
-[interface_647:22]
+[interface_647:23]
 type=^iftype_model
 x=433
 y=31

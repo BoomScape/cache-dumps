@@ -3917,3 +3917,16 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_654]
+text=Ferox<br>Enclave
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_655]
+text=Citharede<br>Abbey
+colour=^white
+mapfunction=no
+category=1129
+

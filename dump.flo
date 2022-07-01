@@ -690,3 +690,9 @@ colour=^magenta
 mapcolour=0x4d6e6f
 occlude=no
 
+[flo_178]
+colour=0x3b3b34
+
+[flo_179]
+colour=0x4a4242
+
