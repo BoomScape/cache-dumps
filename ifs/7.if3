@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1656(event_com,458755,458757,458762,458763,458764,458765,458766,458767,458769,458772)"
+onload="script1656(event_com,458755,458757,458762,458763,458764,458765,458766,458767,458768,458770,458773)"
 
 [interface_7:1]
 type=^iftype_text
@@ -122,24 +122,32 @@ layer=interface_7:9
 [interface_7:11]
 type=^iftype_layer
 x=14
-width=87
+width=48
 height=4
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_7:9
 
 [interface_7:12]
 type=^iftype_layer
+x=62
+width=47
+height=4
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_7:9
+
+[interface_7:13]
+type=^iftype_layer
 x=19
-width=54
+width=47
 height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_7:9
 
-[interface_7:13]
+[interface_7:14]
 type=^iftype_layer
 x=2
 width=16
@@ -149,7 +157,7 @@ vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_7:9
 
-[interface_7:14]
+[interface_7:15]
 type=^iftype_layer
 x=3
 y=2
@@ -160,7 +168,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_7:8
 
-[interface_7:15]
+[interface_7:16]
 type=^iftype_layer
 x=2
 y=2
@@ -171,7 +179,7 @@ vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
 layer=interface_7:8
 
-[interface_7:16]
+[interface_7:17]
 type=^iftype_layer
 x=18
 y=2
@@ -183,7 +191,7 @@ onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
 
-[interface_7:17]
+[interface_7:18]
 type=^iftype_text
 x=18
 y=2
@@ -199,7 +207,7 @@ shadowed=yes
 optionmask=2
 op1="*"
 
-[interface_7:18]
+[interface_7:19]
 type=^iftype_layer
 x=18
 y=2
@@ -212,7 +220,7 @@ onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
 
-[interface_7:19]
+[interface_7:20]
 type=^iftype_text
 x=18
 y=2
@@ -230,7 +238,7 @@ shadowed=yes
 optionmask=2
 op1="Clan Setup"
 
-[interface_7:20]
+[interface_7:21]
 type=^iftype_layer
 width=1
 height=1

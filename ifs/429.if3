@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script123(event_com,28114945,28114947,28114949,28114950,28114951,28114952,28114953,28114954,28114959)"
+onload="script123(event_com,28114945,28114947,28114949,28114950,28114951,28114952,28114953,28114954,28114955,28114960)"
 
 [interface_429:1]
 type=^iftype_text
@@ -50,7 +50,7 @@ onload="script714(event_com)"
 [interface_429:5]
 type=^iftype_layer
 x=3
-width=100
+width=52
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
@@ -58,16 +58,23 @@ layer=interface_429:4
 
 [interface_429:6]
 type=^iftype_layer
-x=19
-width=122
+x=55
+width=52
 height=4
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_429:4
 
 [interface_429:7]
+type=^iftype_layer
+x=107
+width=52
+height=4
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_429:4
+
+[interface_429:8]
 type=^iftype_layer
 x=2
 width=16
@@ -77,7 +84,7 @@ vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_429:4
 
-[interface_429:8]
+[interface_429:9]
 type=^iftype_layer
 x=3
 y=2
@@ -91,7 +98,7 @@ scrollwidth=158
 scrollheight=195
 opbase="r    "
 
-[interface_429:9]
+[interface_429:10]
 type=^iftype_layer
 x=2
 y=2
@@ -102,7 +109,7 @@ vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
 layer=interface_429:3
 
-[interface_429:10]
+[interface_429:11]
 type=^iftype_text
 y=6
 width=12
@@ -117,7 +124,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_429:11]
+[interface_429:12]
 type=^iftype_graphic
 x=18
 width=72
@@ -129,7 +136,7 @@ optionmask=2
 op1="Add Friend"
 onop="script103"
 
-[interface_429:12]
+[interface_429:13]
 type=^iftype_text
 x=18
 width=72
@@ -143,7 +150,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_429:13]
+[interface_429:14]
 type=^iftype_graphic
 x=18
 width=72
@@ -156,7 +163,7 @@ optionmask=2
 op1="Delete Friend"
 onop="script104"
 
-[interface_429:14]
+[interface_429:15]
 type=^iftype_text
 x=18
 width=72
@@ -171,7 +178,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_429:15]
+[interface_429:16]
 type=^iftype_layer
 width=1
 height=1

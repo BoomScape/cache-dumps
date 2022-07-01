@@ -28973,10 +28973,12 @@ certificate=yes
 [saradomin_platebody_2661]
 name=Saradomin platebody
 model=saradomin_platebody_3020
-manwear=saradomin_platebody_21860,0
+manwear=black_platebody_t_3379,0
 manwear2=iron_platebody_164
-womanwear=saradomin_platebody_21861,0
+manwear3=saradomin_platebody_3330
+womanwear=black_platebody_t_3383,0
 womanwear2=iron_platebody_344
+womanwear3=saradomin_platebody_3330
 cost=65000
 2dzoom=1180
 2dxof=-1
@@ -58236,6 +58238,7 @@ model=unfinished_broad_bolts_5_16260
 [bird_nest_5070]
 name=Bird nest
 model=bird_nest_7173
+cost=20
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58249,6 +58252,7 @@ placeholder=yes
 [bird_nest_5071]
 name=Bird nest
 model=bird_nest_7173
+cost=20
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58262,6 +58266,7 @@ placeholder=yes
 [bird_nest_5072]
 name=Bird nest
 model=bird_nest_7173
+cost=20
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58273,6 +58278,7 @@ placeholder=yes
 [bird_nest_5073]
 name=Bird nest
 model=bird_nest_7175
+cost=20
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58284,6 +58290,7 @@ placeholder=yes
 [bird_nest_5074]
 name=Bird nest
 model=bird_nest_7174
+cost=30
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58295,6 +58302,7 @@ placeholder=yes
 [bird_nest_5075]
 name=Bird nest
 model=bird_nest_7172
+cost=19
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -61764,8 +61772,9 @@ model=apples_1_7164
 2dxan=84
 2dyan=1816
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_apples_1_5379]
@@ -61780,7 +61789,9 @@ model=apples_2_7165
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_apples_2_5381]
@@ -61795,7 +61806,9 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_apples_3_5383]
@@ -61810,7 +61823,9 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_apples_4_5385]
@@ -61825,8 +61840,10 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -61841,10 +61858,11 @@ model=apples_1_7164
 2dxan=84
 2dyan=1816
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=6080
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_oranges_1_5389]
@@ -61859,9 +61877,11 @@ model=apples_2_7165
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=6080
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_oranges_2_5391]
@@ -61876,9 +61896,11 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=6080
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_oranges_3_5393]
@@ -61893,9 +61915,11 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=6080
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_oranges_4_5395]
@@ -61910,10 +61934,12 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=6080
 members=yes
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -61928,10 +61954,11 @@ model=apples_1_7164
 2dxan=84
 2dyan=1816
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=815
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_strawberries_1_5399]
@@ -61946,9 +61973,11 @@ model=apples_2_7165
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=815
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_strawberries_2_5401]
@@ -61963,9 +61992,11 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=815
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_strawberries_3_5403]
@@ -61980,9 +62011,11 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=815
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_strawberries_4_5405]
@@ -61997,10 +62030,12 @@ model=apples_3_7163
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 recol1s=17325
 recol1d=815
 members=yes
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -62015,8 +62050,9 @@ model=bananas_1_7161
 2dxan=84
 2dyan=1816
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_bananas_1_5409]
@@ -62031,7 +62067,9 @@ model=bananas_2_7162
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_bananas_2_5411]
@@ -62046,7 +62084,9 @@ model=bananas_3_7160
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_bananas_3_5413]
@@ -62061,7 +62101,9 @@ model=bananas_3_7160
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_bananas_4_5415]
@@ -62076,8 +62118,10 @@ model=bananas_3_7160
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -62109,9 +62153,10 @@ model=empty_sack_7300
 2dxan=164
 2dyan=1920
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_1_5421]
@@ -62126,8 +62171,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_2_5423]
@@ -62142,8 +62189,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_3_5425]
@@ -62158,8 +62207,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_4_5427]
@@ -62174,8 +62225,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_5_5429]
@@ -62190,8 +62243,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_6_5431]
@@ -62206,8 +62261,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_7_5433]
@@ -62222,8 +62279,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_8_5435]
@@ -62238,8 +62297,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_potatoes_9_5437]
@@ -62254,9 +62315,11 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -62271,9 +62334,10 @@ model=empty_sack_7300
 2dxan=164
 2dyan=1920
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_1_5441]
@@ -62288,8 +62352,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_2_5443]
@@ -62304,8 +62370,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_3_5445]
@@ -62320,8 +62388,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_4_5447]
@@ -62336,8 +62406,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_5_5449]
@@ -62352,8 +62424,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_6_5451]
@@ -62368,8 +62442,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_7_5453]
@@ -62384,8 +62460,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_8_5455]
@@ -62400,8 +62478,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_onions_9_5457]
@@ -62416,9 +62496,11 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -62433,9 +62515,10 @@ model=empty_sack_7300
 2dxan=164
 2dyan=1920
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_1_5461]
@@ -62450,8 +62533,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_2_5463]
@@ -62466,8 +62551,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_3_5465]
@@ -62482,8 +62569,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_4_5467]
@@ -62498,8 +62587,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_5_5469]
@@ -62514,8 +62605,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_6_5471]
@@ -62530,8 +62623,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_7_5473]
@@ -62546,8 +62641,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_8_5475]
@@ -62562,8 +62659,10 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
+shiftop=2
 certificate=yes
 
 [cert_cabbages_9_5477]
@@ -62578,9 +62677,11 @@ model=empty_sack_7300
 2dyan=1920
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 ambient=15
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -67982,8 +68083,9 @@ model=tomatoes_1_7756
 2dxan=84
 2dyan=1816
 iop1=Fill
-iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_tomatoes_1_5961]
@@ -67998,7 +68100,9 @@ model=tomatoes_2_7757
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_tomatoes_2_5963]
@@ -68013,7 +68117,9 @@ model=tomatoes_3_7758
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_tomatoes_3_5965]
@@ -68028,7 +68134,9 @@ model=tomatoes_3_7758
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
+shiftop=2
 certificate=yes
 
 [cert_tomatoes_4_5967]
@@ -68043,8 +68151,10 @@ model=tomatoes_3_7758
 2dyan=1816
 iop1=Fill
 iop2=Remove-one
+iop3=Empty
 members=yes
 stockmarket=yes
+shiftop=2
 certificate=yes
 placeholder=yes
 
@@ -84200,6 +84310,7 @@ recol1d=-7220
 [bird_nest_7413]
 name=Bird nest
 model=bird_nest_7175
+cost=20
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -127011,10 +127122,12 @@ certificate=yes
 [saradomin_plate_10778]
 name=Saradomin plate
 model=saradomin_platebody_3020
-manwear=saradomin_platebody_21860,0
+manwear=black_platebody_t_3379,0
 manwear2=iron_platebody_164
-womanwear=saradomin_platebody_21861,0
+manwear3=saradomin_platebody_3330
+womanwear=black_platebody_t_3383,0
 womanwear2=iron_platebody_344
+womanwear3=saradomin_platebody_3330
 cost=65000
 2dzoom=1180
 2dxof=-1
@@ -162425,6 +162538,7 @@ placeholder=yes
 [bird_nest_13653]
 name=Bird nest
 model=bird_nest_7175
+cost=20
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -192935,6 +193049,7 @@ members=yes
 [kindling_20799]
 name=Kindling
 model=damp_sticks_2402
+cost=2
 2dzoom=968
 2dxof=1
 2dxan=296
@@ -192949,6 +193064,7 @@ ambient=15
 [empty_gourd_vial_20800]
 name=Empty gourd vial
 model=empty_gourd_vial_32528
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -192961,6 +193077,7 @@ members=yes
 [water_filled_gourd_vial_20801]
 name=Water-filled gourd vial
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194070,6 +194187,7 @@ placeholder=yes
 [grimy_noxifer_20901]
 name=Grimy noxifer
 model=grimy_noxifer_32795
+cost=2
 2dzoom=1158
 2dxof=3
 2dyof=21
@@ -194085,6 +194203,7 @@ members=yes
 [noxifer_20902]
 name=Noxifer
 model=noxifer_32786
+cost=2
 2dzoom=1158
 2dxof=3
 2dyof=21
@@ -194099,6 +194218,7 @@ members=yes
 [noxifer_seed_20903]
 name=Noxifer seed
 model=guam_seed_7201
+cost=2
 2dzoom=1010
 2dxof=1
 2dyof=-1
@@ -194116,6 +194236,7 @@ count4=noxifer_seed_5_10573,5
 [grimy_golpar_20904]
 name=Grimy golpar
 model=grimy_noxifer_32795
+cost=2
 2dzoom=1158
 2dxof=3
 2dyof=21
@@ -194131,6 +194252,7 @@ members=yes
 [golpar_20905]
 name=Golpar
 model=noxifer_32786
+cost=2
 2dzoom=1158
 2dxof=3
 2dyof=21
@@ -194145,6 +194267,7 @@ members=yes
 [golpar_seed_20906]
 name=Golpar seed
 model=guam_seed_7201
+cost=2
 2dzoom=1010
 2dxof=1
 2dyof=-1
@@ -194162,6 +194285,7 @@ count4=golpar_seed_5_10574,5
 [grimy_buchu_leaf_20907]
 name=Grimy buchu leaf
 model=grimy_noxifer_32795
+cost=2
 2dzoom=1158
 2dxof=3
 2dyof=21
@@ -194177,6 +194301,7 @@ members=yes
 [buchu_leaf_20908]
 name=Buchu leaf
 model=noxifer_32786
+cost=2
 2dzoom=1158
 2dxof=3
 2dyof=21
@@ -194191,6 +194316,7 @@ members=yes
 [buchu_seed_20909]
 name=Buchu seed
 model=guam_seed_7201
+cost=2
 2dzoom=1010
 2dxof=1
 2dyof=-1
@@ -194208,6 +194334,7 @@ count4=buchu_seed_5_2420,5
 [stinkhorn_mushroom_20910]
 name=Stinkhorn mushroom
 model=stinkhorn_mushroom_32767
+cost=2
 2dzoom=1095
 2dxof=8
 2dyof=-11
@@ -194219,6 +194346,7 @@ stackable=yes
 [endarkened_juice_20911]
 name=Endarkened juice
 model=fish_vial_26826
+cost=2
 2dzoom=550
 2dyof=-1
 2dxan=81
@@ -194235,6 +194363,7 @@ stackable=yes
 [cicely_20912]
 name=Cicely
 model=star_flower_16191
+cost=2
 2dzoom=854
 2dxof=1
 2dyof=-22
@@ -194256,6 +194385,7 @@ stackable=yes
 [elder_1_20913]
 name=Elder (-)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194271,6 +194401,7 @@ members=yes
 [elder_2_20914]
 name=Elder (-)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194286,6 +194417,7 @@ members=yes
 [elder_3_20915]
 name=Elder (-)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194301,6 +194433,7 @@ members=yes
 [elder_4_20916]
 name=Elder (-)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194316,6 +194449,7 @@ members=yes
 [elder_potion_1_20917]
 name=Elder potion (1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194331,6 +194465,7 @@ members=yes
 [elder_potion_2_20918]
 name=Elder potion (2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194346,6 +194481,7 @@ members=yes
 [elder_potion_3_20919]
 name=Elder potion (3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194361,6 +194497,7 @@ members=yes
 [elder_potion_4_20920]
 name=Elder potion (4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194376,6 +194513,7 @@ members=yes
 [elder_1_20921]
 name=Elder (+)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194391,6 +194529,7 @@ members=yes
 [elder_2_20922]
 name=Elder (+)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194406,6 +194545,7 @@ members=yes
 [elder_3_20923]
 name=Elder (+)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194421,6 +194561,7 @@ members=yes
 [elder_4_20924]
 name=Elder (+)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194436,6 +194577,7 @@ members=yes
 [twisted_1_20925]
 name=Twisted (-)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194451,6 +194593,7 @@ members=yes
 [twisted_2_20926]
 name=Twisted (-)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194466,6 +194609,7 @@ members=yes
 [twisted_3_20927]
 name=Twisted (-)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194481,6 +194625,7 @@ members=yes
 [twisted_4_20928]
 name=Twisted (-)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194496,6 +194641,7 @@ members=yes
 [twisted_potion_1_20929]
 name=Twisted potion (1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194511,6 +194657,7 @@ members=yes
 [twisted_potion_2_20930]
 name=Twisted potion (2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194526,6 +194673,7 @@ members=yes
 [twisted_potion_3_20931]
 name=Twisted potion (3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194541,6 +194689,7 @@ members=yes
 [twisted_potion_4_20932]
 name=Twisted potion (4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194556,6 +194705,7 @@ members=yes
 [twisted_1_20933]
 name=Twisted (+)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194571,6 +194721,7 @@ members=yes
 [twisted_2_20934]
 name=Twisted (+)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194586,6 +194737,7 @@ members=yes
 [twisted_3_20935]
 name=Twisted (+)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194601,6 +194753,7 @@ members=yes
 [twisted_4_20936]
 name=Twisted (+)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194616,6 +194769,7 @@ members=yes
 [kodai_1_20937]
 name=Kodai (-)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194631,6 +194785,7 @@ members=yes
 [kodai_2_20938]
 name=Kodai (-)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194646,6 +194801,7 @@ members=yes
 [kodai_3_20939]
 name=Kodai (-)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194661,6 +194817,7 @@ members=yes
 [kodai_4_20940]
 name=Kodai (-)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194676,6 +194833,7 @@ members=yes
 [kodai_potion_1_20941]
 name=Kodai potion (1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194691,6 +194849,7 @@ members=yes
 [kodai_potion_2_20942]
 name=Kodai potion (2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194706,6 +194865,7 @@ members=yes
 [kodai_potion_3_20943]
 name=Kodai potion (3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194721,6 +194881,7 @@ members=yes
 [kodai_potion_4_20944]
 name=Kodai potion (4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194736,6 +194897,7 @@ members=yes
 [kodai_1_20945]
 name=Kodai (+)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194751,6 +194913,7 @@ members=yes
 [kodai_2_20946]
 name=Kodai (+)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194766,6 +194929,7 @@ members=yes
 [kodai_3_20947]
 name=Kodai (+)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194781,6 +194945,7 @@ members=yes
 [kodai_4_20948]
 name=Kodai (+)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194796,6 +194961,7 @@ members=yes
 [revitalisation_1_20949]
 name=Revitalisation (-)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194811,6 +194977,7 @@ members=yes
 [revitalisation_2_20950]
 name=Revitalisation (-)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194826,6 +194993,7 @@ members=yes
 [revitalisation_3_20951]
 name=Revitalisation (-)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194841,6 +195009,7 @@ members=yes
 [revitalisation_4_20952]
 name=Revitalisation (-)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194856,6 +195025,7 @@ members=yes
 [revitalisation_potion_1_20953]
 name=Revitalisation potion (1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194871,6 +195041,7 @@ members=yes
 [revitalisation_potion_2_20954]
 name=Revitalisation potion (2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194886,6 +195057,7 @@ members=yes
 [revitalisation_potion_3_20955]
 name=Revitalisation potion (3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194901,6 +195073,7 @@ members=yes
 [revitalisation_potion_4_20956]
 name=Revitalisation potion (4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194916,6 +195089,7 @@ members=yes
 [revitalisation_1_20957]
 name=Revitalisation (+)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194931,6 +195105,7 @@ members=yes
 [revitalisation_2_20958]
 name=Revitalisation (+)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194946,6 +195121,7 @@ members=yes
 [revitalisation_3_20959]
 name=Revitalisation (+)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194961,6 +195137,7 @@ members=yes
 [revitalisation_4_20960]
 name=Revitalisation (+)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194976,6 +195153,7 @@ members=yes
 [prayer_enhance_1_20961]
 name=Prayer enhance (-)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -194991,6 +195169,7 @@ members=yes
 [prayer_enhance_2_20962]
 name=Prayer enhance (-)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195006,6 +195185,7 @@ members=yes
 [prayer_enhance_3_20963]
 name=Prayer enhance (-)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195021,6 +195201,7 @@ members=yes
 [prayer_enhance_4_20964]
 name=Prayer enhance (-)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195036,6 +195217,7 @@ members=yes
 [prayer_enhance_1_20965]
 name=Prayer enhance (1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195051,6 +195233,7 @@ members=yes
 [prayer_enhance_2_20966]
 name=Prayer enhance (2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195066,6 +195249,7 @@ members=yes
 [prayer_enhance_3_20967]
 name=Prayer enhance (3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195081,6 +195265,7 @@ members=yes
 [prayer_enhance_4_20968]
 name=Prayer enhance (4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195096,6 +195281,7 @@ members=yes
 [prayer_enhance_1_20969]
 name=Prayer enhance (+)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195111,6 +195297,7 @@ members=yes
 [prayer_enhance_2_20970]
 name=Prayer enhance (+)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195126,6 +195313,7 @@ members=yes
 [prayer_enhance_3_20971]
 name=Prayer enhance (+)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195141,6 +195329,7 @@ members=yes
 [prayer_enhance_4_20972]
 name=Prayer enhance (+)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195156,6 +195345,7 @@ members=yes
 [xerics_aid_1_20973]
 name=Xeric's aid (-)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195171,6 +195361,7 @@ members=yes
 [xerics_aid_2_20974]
 name=Xeric's aid (-)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195186,6 +195377,7 @@ members=yes
 [xerics_aid_3_20975]
 name=Xeric's aid (-)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195201,6 +195393,7 @@ members=yes
 [xerics_aid_4_20976]
 name=Xeric's aid (-)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195216,6 +195409,7 @@ members=yes
 [xerics_aid_1_20977]
 name=Xeric's aid (1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195231,6 +195425,7 @@ members=yes
 [xerics_aid_2_20978]
 name=Xeric's aid (2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195246,6 +195441,7 @@ members=yes
 [xerics_aid_3_20979]
 name=Xeric's aid (3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195261,6 +195457,7 @@ members=yes
 [xerics_aid_4_20980]
 name=Xeric's aid (4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195276,6 +195473,7 @@ members=yes
 [xerics_aid_1_20981]
 name=Xeric's aid (+)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195291,6 +195489,7 @@ members=yes
 [xerics_aid_2_20982]
 name=Xeric's aid (+)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195306,6 +195505,7 @@ members=yes
 [xerics_aid_3_20983]
 name=Xeric's aid (+)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195321,6 +195521,7 @@ members=yes
 [xerics_aid_4_20984]
 name=Xeric's aid (+)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195336,6 +195537,7 @@ members=yes
 [overload_1_20985]
 name=Overload (-)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195353,6 +195555,7 @@ members=yes
 [overload_2_20986]
 name=Overload (-)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195372,6 +195575,7 @@ members=yes
 [overload_3_20987]
 name=Overload (-)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195393,6 +195597,7 @@ members=yes
 [overload_4_20988]
 name=Overload (-)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195416,6 +195621,7 @@ members=yes
 [overload_1_20989]
 name=Overload (1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195433,6 +195639,7 @@ members=yes
 [overload_2_20990]
 name=Overload (2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195452,6 +195659,7 @@ members=yes
 [overload_3_20991]
 name=Overload (3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195473,6 +195681,7 @@ members=yes
 [overload_4_20992]
 name=Overload (4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195496,6 +195705,7 @@ members=yes
 [overload_1_20993]
 name=Overload (+)(1)
 model=elder_1_32768
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195513,6 +195723,7 @@ members=yes
 [overload_2_20994]
 name=Overload (+)(2)
 model=elder_2_32766
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195532,6 +195743,7 @@ members=yes
 [overload_3_20995]
 name=Overload (+)(3)
 model=elder_3_32772
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195553,6 +195765,7 @@ members=yes
 [overload_4_20996]
 name=Overload (+)(4)
 model=water_filled_gourd_vial_32527
+cost=2
 2dzoom=589
 2dyof=1
 2dxan=116
@@ -195889,6 +196102,7 @@ certificate=yes
 [mallignum_root_plank_21036]
 name=Mallignum root plank
 model=oak_plank_12306
+cost=2
 2dyof=18
 2dxan=356
 2dyan=148

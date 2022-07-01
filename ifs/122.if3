@@ -2,9 +2,17 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script993(event_com,7995393,7995398,7995399,7995400,7995405,7995406,7995414)"
+onload="script993(event_com,7995393,7995394,7995399,7995400,7995401,7995406,7995407,7995415)"
 
 [interface_122:1]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_122:0
+
+[interface_122:2]
 type=^iftype_layer
 x=2
 y=2
@@ -14,34 +22,34 @@ hposmode=^setpos_abs_right
 hide=yes
 layer=interface_122:0
 
-[interface_122:2]
+[interface_122:3]
 type=^iftype_layer
 height=29
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_122:1
+layer=interface_122:2
 
-[interface_122:3]
+[interface_122:4]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:2
+layer=interface_122:3
 graphic="tradebacking"
 tiling=yes
 trans=100
 
-[interface_122:4]
+[interface_122:5]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:2
+layer=interface_122:3
 colour=0x383023
 
-[interface_122:5]
+[interface_122:6]
 type=^iftype_rectangle
 width=2
 height=2
@@ -49,68 +57,68 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:2
+layer=interface_122:3
 colour=0x5a5245
 
-[interface_122:6]
+[interface_122:7]
 type=^iftype_graphic
 x=2
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_122:2
+layer=interface_122:3
 
-[interface_122:7]
+[interface_122:8]
 type=^iftype_text
 width=4
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:2
+layer=interface_122:3
 colour=^white
 font=p11_full
 halign=^settextalign_right
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_122:8]
+[interface_122:9]
 type=^iftype_layer
 y=28
 height=10
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_122:1
+layer=interface_122:2
 
-[interface_122:9]
+[interface_122:10]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:8
+layer=interface_122:9
 colour=0x383023
 
-[interface_122:10]
+[interface_122:11]
 type=^iftype_rectangle
 width=2
 height=1
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:8
+layer=interface_122:9
 colour=0x5a5245
 
-[interface_122:11]
+[interface_122:12]
 type=^iftype_rectangle
 width=4
 height=2
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:8
+layer=interface_122:9
 fill=yes
 
-[interface_122:12]
+[interface_122:13]
 type=^iftype_layer
 y=1
 width=6
@@ -118,16 +126,16 @@ height=4
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:8
+layer=interface_122:9
 
-[interface_122:13]
+[interface_122:14]
 type=^iftype_rectangle
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_122:12
+layer=interface_122:13
 fill=yes
 
-[interface_122:14]
+[interface_122:15]
 type=^iftype_layer
 y=40
 width=8
@@ -138,21 +146,13 @@ vsizemode=^setsize_proportion
 hide=yes
 layer=interface_122:0
 
-[interface_122:15]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_122:14
-
 [interface_122:16]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:14
+layer=interface_122:15
 
 [interface_122:17]
 type=^iftype_layer
@@ -160,7 +160,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:14
+layer=interface_122:15
 
 [interface_122:18]
 type=^iftype_layer
@@ -168,7 +168,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:14
+layer=interface_122:15
 
 [interface_122:19]
 type=^iftype_layer
@@ -176,7 +176,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:14
+layer=interface_122:15
 
 [interface_122:20]
 type=^iftype_layer
@@ -184,7 +184,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:14
+layer=interface_122:15
 
 [interface_122:21]
 type=^iftype_layer
@@ -192,9 +192,17 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_122:14
+layer=interface_122:15
 
 [interface_122:22]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_122:15
+
+[interface_122:23]
 type=^iftype_layer
 width=1
 height=1
