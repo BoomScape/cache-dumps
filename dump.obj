@@ -200970,7 +200970,7 @@ placeholder=yes
 [seaweed_spore_21490]
 name=Seaweed spore
 model=mushroom_spore_7243
-cost=50
+cost=20
 2dzoom=840
 2dxof=1
 2dyof=9
@@ -210022,7 +210022,7 @@ placeholder=yes
 [bloody_bracer_22430]
 name=Bloody bracer
 model=asgarnian_ale_2491
-cost=1000
+cost=2
 2dzoom=660
 2dxof=-3
 2dyof=2
@@ -210093,4 +210093,15 @@ param=param_451,Bloom
 
 [placeholder_enchanted_emerald_sickle_b_22436]
 placeholder=yes
+
+[rotten_carrot_22437]
+name=Rotten carrot
+model=rotten_carrot_35340
+2dzoom=2092
+2dxof=2
+2dyof=1
+2dxan=1577
+2dyan=1770
+iop1=Tele
+iop2=Kill Bot
 

@@ -32003,3 +32003,8 @@ basevar=var_1737
 startbit=20
 endbit=20
 
+[varbit_6401]
+basevar=var_1426
+startbit=2
+endbit=2
+

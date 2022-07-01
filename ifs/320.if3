@@ -10,8 +10,9 @@ y=1
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,1,0)"
 
 [interface_320:2]
@@ -21,8 +22,9 @@ y=33
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,2,0)"
 
 [interface_320:3]
@@ -32,8 +34,9 @@ y=65
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,5,0)"
 
 [interface_320:4]
@@ -43,8 +46,9 @@ y=97
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,3,1)"
 
 [interface_320:5]
@@ -54,8 +58,9 @@ y=129
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,7,1)"
 
 [interface_320:6]
@@ -65,8 +70,9 @@ y=161
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,4,1)"
 
 [interface_320:7]
@@ -76,8 +82,9 @@ y=193
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,12,1)"
 
 [interface_320:8]
@@ -87,8 +94,9 @@ y=225
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,22,0)"
 
 [interface_320:9]
@@ -98,8 +106,9 @@ y=1
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,6,1)"
 
 [interface_320:10]
@@ -109,8 +118,9 @@ y=33
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,8,1)"
 
 [interface_320:11]
@@ -120,8 +130,9 @@ y=65
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,9,1)"
 
 [interface_320:12]
@@ -131,8 +142,9 @@ y=97
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,10,2)"
 
 [interface_320:13]
@@ -142,8 +154,9 @@ y=129
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,11,2)"
 
 [interface_320:14]
@@ -153,8 +166,9 @@ y=161
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,19,2)"
 
 [interface_320:15]
@@ -164,8 +178,9 @@ y=193
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,20,-1)"
 
 [interface_320:16]
@@ -175,8 +190,9 @@ y=225
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,23,0)"
 
 [interface_320:17]
@@ -186,8 +202,9 @@ y=1
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,13,2)"
 
 [interface_320:18]
@@ -197,8 +214,9 @@ y=33
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,14,2)"
 
 [interface_320:19]
@@ -208,8 +226,9 @@ y=65
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,15,1)"
 
 [interface_320:20]
@@ -219,8 +238,9 @@ y=97
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,16,3)"
 
 [interface_320:21]
@@ -230,8 +250,9 @@ y=129
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,17,2)"
 
 [interface_320:22]
@@ -241,8 +262,9 @@ y=161
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,18,2)"
 
 [interface_320:23]
@@ -252,8 +274,9 @@ y=193
 width=62
 height=32
 layer=interface_320:0
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 onload="script393(event_com,20971548,21,1)"
 
 [interface_320:24]
@@ -294,8 +317,9 @@ font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+optionmask=2
+op1="*"
 onload="script396(event_com,20971548)"
-onmouseleave="script40(20971548)"
 onstattransmit="script396(event_com,20971548)"
 
 [interface_320:28]

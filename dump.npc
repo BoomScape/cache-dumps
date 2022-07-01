@@ -166211,6 +166211,7 @@ recol2s=4550
 recol2d=4292
 op1=Talk-to
 vislevel=0
+drawpriority=yes
 
 [lector_gura_8273]
 name=Lector Gura

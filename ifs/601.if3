@@ -4,7 +4,7 @@ y=80
 width=66
 height=300
 vposmode=^setpos_abs_centre
-layer=interface_601:18
+layer=interface_601:19
 noclickthrough=yes
 
 [interface_601:1]
@@ -12,113 +12,121 @@ type=^iftype_layer
 width=66
 height=66
 vposmode=^setpos_abs_bottom
-layer=interface_601:18
+layer=interface_601:19
 noclickthrough=yes
 
 [interface_601:2]
 type=^iftype_layer
 height=20
 hsizemode=^setsize_minus
-layer=interface_601:18
+layer=interface_601:19
 noclickthrough=yes
 
 [interface_601:3]
+type=^iftype_layer
+width=66
+height=175
+hposmode=^setpos_abs_right
+layer=interface_601:19
+noclickthrough=yes
+
+[interface_601:4]
 type=^iftype_layer
 y=80
 width=66
 height=300
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_601:18
+layer=interface_601:19
 noclickthrough=yes
 
-[interface_601:4]
+[interface_601:5]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:25
+layer=interface_601:26
 
-[interface_601:5]
+[interface_601:6]
 type=^iftype_layer
 width=211
 height=173
 hposmode=^setpos_abs_right
-layer=interface_601:25
-
-[interface_601:6]
-type=^iftype_layer
-width=519
-vsizemode=^setsize_minus
-layer=interface_601:25
+layer=interface_601:26
 
 [interface_601:7]
 type=^iftype_layer
 width=519
-height=165
-layer=interface_601:25
+vsizemode=^setsize_minus
+layer=interface_601:26
 
 [interface_601:8]
+type=^iftype_layer
+width=519
+height=165
+layer=interface_601:26
+
+[interface_601:9]
 type=^iftype_graphic
 y=80
 width=33
 height=252
 vposmode=^setpos_abs_centre
-layer=interface_601:25
+layer=interface_601:26
 graphic="graphic_1180"
 tiling=yes
 onload="script834(event_com,1)"
 
-[interface_601:9]
+[interface_601:10]
 type=^iftype_layer
 width=39
 height=43
 vposmode=^setpos_abs_bottom
-layer=interface_601:25
+layer=interface_601:26
 noclickthrough=yes
 
-[interface_601:10]
+[interface_601:11]
 type=^iftype_layer
 width=32
 height=36
 vposmode=^setpos_abs_bottom
-layer=interface_601:25
+layer=interface_601:26
 optionmask=6
 opbase="Fn-mode"
 op1="Toggle"
 op2="Set"
 
-[interface_601:11]
+[interface_601:12]
 type=^iftype_layer
 y=80
 width=33
 height=252
 vposmode=^setpos_abs_centre
-layer=interface_601:25
+layer=interface_601:26
 
-[interface_601:12]
+[interface_601:13]
 type=^iftype_graphic
 y=80
 width=33
 height=252
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_601:25
+layer=interface_601:26
 graphic="graphic_1180"
 tiling=yes
 onload="script834(event_com,1)"
 
-[interface_601:13]
+[interface_601:14]
 type=^iftype_layer
 y=80
 width=33
 height=252
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_601:25
+layer=interface_601:26
 
-[interface_601:14]
+[interface_601:15]
 type=^iftype_layer
 x=33
 y=90
@@ -126,10 +134,10 @@ width=204
 height=275
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_601:25
+layer=interface_601:26
 onload="script712(event_com,1)"
 
-[interface_601:15]
+[interface_601:16]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -137,31 +145,23 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 onload="script901(event_com,1745)"
 
-[interface_601:16]
+[interface_601:17]
 type=^iftype_layer
 contenttype=1337
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 
-[interface_601:17]
+[interface_601:18]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-
-[interface_601:18]
-type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 
 [interface_601:19]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:17
 
 [interface_601:20]
 type=^iftype_layer
@@ -169,38 +169,46 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:17
+layer=interface_601:18
 
 [interface_601:21]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_601:18
+
+[interface_601:22]
 type=^iftype_layer
 y=25
 width=215
 height=165
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:17
+layer=interface_601:18
 
-[interface_601:22]
+[interface_601:23]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:21
-
-[interface_601:23]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_601:21
+layer=interface_601:22
 
 [interface_601:24]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:21
+layer=interface_601:22
 
 [interface_601:25]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_601:22
+
+[interface_601:26]
 type=^iftype_layer
 width=16220
 height=16220
@@ -209,31 +217,31 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_proportion
 vsizemode=^setsize_proportion
 
-[interface_601:26]
+[interface_601:27]
 type=^iftype_layer
 y=25
 height=41
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:4
+layer=interface_601:5
 
-[interface_601:27]
+[interface_601:28]
 type=^iftype_layer
 x=35
 y=64
 width=512
 height=334
 vposmode=^setpos_abs_centre
-layer=interface_601:26
+layer=interface_601:27
 
-[interface_601:28]
+[interface_601:29]
 type=^iftype_layer
 width=576
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_601:26
+layer=interface_601:27
 
-[interface_601:29]
+[interface_601:30]
 type=^iftype_layer
 contenttype=1336
 x=215
@@ -241,9 +249,9 @@ y=7
 width=120
 height=100
 hposmode=^setpos_abs_right
-layer=interface_601:26
+layer=interface_601:27
 
-[interface_601:30]
+[interface_601:31]
 type=^iftype_graphic
 x=8
 y=-68
@@ -252,37 +260,37 @@ height=25
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_601:4
+layer=interface_601:5
 graphic="overlay_multiway"
 
-[interface_601:31]
+[interface_601:32]
 type=^iftype_layer
 height=166
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_601:5
+layer=interface_601:6
 
-[interface_601:32]
+[interface_601:33]
 type=^iftype_layer
 x=6
 y=4
 width=172
 height=156
 hposmode=^setpos_abs_right
-layer=interface_601:31
+layer=interface_601:32
 noclickthrough=yes
 
-[interface_601:33]
+[interface_601:34]
 type=^iftype_graphic
 contenttype=1339
 x=34
 y=5
 width=35
 height=35
-layer=interface_601:31
+layer=interface_601:32
 graphic="resize_compass_mask"
 
-[interface_601:34]
+[interface_601:35]
 type=^iftype_graphic
 contenttype=1338
 x=6
@@ -291,81 +299,68 @@ width=152
 height=152
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_601:31
+layer=interface_601:32
 graphic="resize_map_mask"
 
-[interface_601:35]
+[interface_601:36]
 type=^iftype_layer
 x=32
 y=3
 width=36
 height=36
-layer=interface_601:31
+layer=interface_601:32
 
-[interface_601:36]
+[interface_601:37]
 type=^iftype_graphic
 width=182
 height=166
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_601:31
+layer=interface_601:32
 graphic="graphic_1177"
 
-[interface_601:37]
+[interface_601:38]
 type=^iftype_layer
 width=211
 height=163
 vposmode=^setpos_abs_bottom
-layer=interface_601:5
+layer=interface_601:6
 
-[interface_601:38]
+[interface_601:39]
 type=^iftype_graphic
 width=33
 height=36
 vposmode=^setpos_abs_bottom
-layer=interface_601:10
+layer=interface_601:11
 graphic="graphic_1180"
-tiling=yes
 
-[interface_601:39]
+[interface_601:40]
 type=^iftype_graphic
 x=-1
 width=25
 height=32
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_601:10
-graphic="graphic_1624"
-
-[interface_601:40]
-type=^iftype_graphic
-width=33
-height=36
-hposmode=^setpos_abs_right
 layer=interface_601:11
-graphic="graphic_1181"
-optionmask=2
-op1="*"
+graphic="graphic_1624"
 
 [interface_601:41]
 type=^iftype_graphic
-y=36
 width=33
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
 [interface_601:42]
 type=^iftype_graphic
-y=72
+y=36
 width=33
 height=36
-hposmode=^setpos_abs_centre
-layer=interface_601:11
+hposmode=^setpos_abs_right
+layer=interface_601:12
 graphic="graphic_1181"
 tiling=yes
 optionmask=2
@@ -373,33 +368,33 @@ op1="*"
 
 [interface_601:43]
 type=^iftype_graphic
-y=108
+y=72
 width=33
 height=36
-layer=interface_601:11
-graphic="graphic_1181"
-optionmask=2
-op1="*"
-
-[interface_601:44]
-type=^iftype_graphic
-y=144
-width=33
-height=36
-hposmode=^setpos_abs_right
-layer=interface_601:11
+hposmode=^setpos_abs_centre
+layer=interface_601:12
 graphic="graphic_1181"
 tiling=yes
 optionmask=2
 op1="*"
 
+[interface_601:44]
+type=^iftype_graphic
+y=108
+width=33
+height=36
+layer=interface_601:12
+graphic="graphic_1181"
+optionmask=2
+op1="*"
+
 [interface_601:45]
 type=^iftype_graphic
-y=180
+y=144
 width=33
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="graphic_1181"
 tiling=yes
 optionmask=2
@@ -407,11 +402,11 @@ op1="*"
 
 [interface_601:46]
 type=^iftype_graphic
-y=216
+y=180
 width=33
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="graphic_1181"
 tiling=yes
 optionmask=2
@@ -419,87 +414,88 @@ op1="*"
 
 [interface_601:47]
 type=^iftype_graphic
+y=216
+width=33
+height=36
+hposmode=^setpos_abs_right
+layer=interface_601:12
+graphic="graphic_1181"
+tiling=yes
+optionmask=2
+op1="*"
+
+[interface_601:48]
+type=^iftype_graphic
 x=3
 y=1
 width=32
 height=36
-layer=interface_601:11
+layer=interface_601:12
 graphic="side_icons,0"
 
-[interface_601:48]
+[interface_601:49]
 type=^iftype_graphic
 x=1
 y=37
 width=32
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="side_icons,5"
 
-[interface_601:49]
+[interface_601:50]
 type=^iftype_graphic
 x=1
 y=72
 width=32
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="side_icons,6"
 
-[interface_601:50]
+[interface_601:51]
 type=^iftype_graphic
 x=1
 y=110
 width=32
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="side_icons,11"
 
-[interface_601:51]
+[interface_601:52]
 type=^iftype_graphic
 x=1
 y=146
 width=32
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="sideicons_new,14"
 
-[interface_601:52]
+[interface_601:53]
 type=^iftype_graphic
 y=182
 width=32
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="side_icons,7"
 
-[interface_601:53]
+[interface_601:54]
 type=^iftype_graphic
 y=218
 width=32
 height=36
 hposmode=^setpos_abs_right
-layer=interface_601:11
+layer=interface_601:12
 graphic="side_icons,8"
-
-[interface_601:54]
-type=^iftype_graphic
-width=33
-height=36
-layer=interface_601:13
-graphic="graphic_1181"
-tiling=yes
-optionmask=2
-op1="*"
 
 [interface_601:55]
 type=^iftype_graphic
-y=36
 width=33
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="graphic_1181"
 tiling=yes
 optionmask=2
@@ -507,10 +503,10 @@ op1="*"
 
 [interface_601:56]
 type=^iftype_graphic
-y=72
+y=36
 width=33
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="graphic_1181"
 tiling=yes
 optionmask=2
@@ -518,41 +514,41 @@ op1="*"
 
 [interface_601:57]
 type=^iftype_graphic
-y=108
+y=72
 width=33
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="graphic_1181"
+tiling=yes
 optionmask=2
 op1="*"
 
 [interface_601:58]
 type=^iftype_graphic
-y=144
+y=108
 width=33
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="graphic_1181"
 optionmask=2
 op1="*"
 
 [interface_601:59]
 type=^iftype_graphic
-y=180
+y=144
 width=33
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
 [interface_601:60]
 type=^iftype_graphic
-y=216
+y=180
 width=33
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="graphic_1181"
 tiling=yes
 optionmask=2
@@ -560,64 +556,75 @@ op1="*"
 
 [interface_601:61]
 type=^iftype_graphic
+y=216
+width=33
+height=36
+layer=interface_601:14
+graphic="graphic_1181"
+tiling=yes
+optionmask=2
+op1="*"
+
+[interface_601:62]
+type=^iftype_graphic
 x=1
 width=30
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="sideicons_new,3"
 
-[interface_601:62]
+[interface_601:63]
 type=^iftype_graphic
 y=37
 width=32
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="side_icons,4"
 
-[interface_601:63]
+[interface_601:64]
 type=^iftype_graphic
 y=72
 width=32
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="side_icons,1"
 
-[interface_601:64]
+[interface_601:65]
 type=^iftype_graphic
 x=2
 y=109
 width=32
 height=36
-layer=interface_601:13
+layer=interface_601:14
 
-[interface_601:65]
+[interface_601:66]
 type=^iftype_graphic
 x=2
 y=148
 width=32
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="side_icons,12"
 
-[interface_601:66]
+[interface_601:67]
 type=^iftype_graphic
 x=2
 y=181
 width=32
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="side_icons,10"
 
-[interface_601:67]
+[interface_601:68]
 type=^iftype_graphic
 x=2
 y=218
 width=32
 height=36
-layer=interface_601:13
+layer=interface_601:14
 graphic="side_icons,9"
 
-[interface_601:68]
+[interface_601:69]
 type=^iftype_graphic
 width=2
 height=2
@@ -625,123 +632,123 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:14
+layer=interface_601:15
 graphic="tradebacking_dark"
 tiling=yes
 onload="script834(event_com,1)"
 
-[interface_601:69]
+[interface_601:70]
 type=^iftype_layer
 contenttype=1354
 width=190
 height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_601:14
-
-[interface_601:70]
-type=^iftype_layer
-width=190
-height=261
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-layer=interface_601:14
+layer=interface_601:15
 
 [interface_601:71]
 type=^iftype_layer
 width=190
 height=261
-hide=yes
-layer=interface_601:70
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_601:15
 
 [interface_601:72]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:73]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:74]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:75]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:76]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:77]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:78]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:79]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:80]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:81]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:82]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:83]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
 
 [interface_601:84]
 type=^iftype_layer
 width=190
 height=261
 hide=yes
-layer=interface_601:70
+layer=interface_601:71
+
+[interface_601:85]
+type=^iftype_layer
+width=190
+height=261
+hide=yes
+layer=interface_601:71
 
