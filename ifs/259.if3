@@ -1,7 +1,7 @@
 [interface_259:0]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+width=184
+height=233
 
 [interface_259:1]
 type=^iftype_text

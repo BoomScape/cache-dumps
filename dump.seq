@@ -2898,7 +2898,7 @@ replayoff=7
 looptype=1
 framegroup1=893
 
-[fishing_spot_525]
+[fishing_spot_ready_525]
 framecount=4
 replayoff=4
 looptype=1
@@ -41840,6 +41840,19 @@ replayoff=15
 looptype=1
 framegroup1=1739
 
+[seq_6932]
+framecount=19
+replayoff=2
+stretches=yes
+mainhand=23634
+offhand=23634
+replaycount=8
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=294
+soundeffect6=2600,1,1
+
 [seq_6933]
 framecount=23
 looptype=1
@@ -43542,6 +43555,18 @@ soundeffect2=1553,1,1
 framecount=21
 mainhand=0
 offhand=13958
+looptype=1
+framegroup1=294
+
+[seq_7203]
+framecount=2
+replayoff=2
+stretches=yes
+mainhand=23634
+offhand=23634
+replaycount=8
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=294
 
@@ -50556,6 +50581,11 @@ framegroup1=2297
 framecount=16
 looptype=1
 framegroup1=2294
+
+[seq_8294]
+framecount=19
+looptype=1
+framegroup1=1610
 
 [magic_mirror_8295]
 framecount=16

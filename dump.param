@@ -650,3 +650,12 @@ default=
 type=enum
 default=null
 
+[param_706]
+autodisable=no
+
+[param_707]
+autodisable=no
+
+[param_708]
+autodisable=no
+

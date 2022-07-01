@@ -102289,8 +102289,8 @@ ambient=40
 [fishing_spot_4928]
 name=Fishing spot
 model1=fishing_spot_2331
-readyanim=fishing_spot_525
-walkanim=fishing_spot_525
+readyanim=fishing_spot_ready_525
+walkanim=fishing_spot_ready_525
 op1=Bait
 op3=hidden
 vislevel=0
@@ -135589,6 +135589,17 @@ vislevel=0
 multivar=varbit_4977
 multinpc=1,arcis_6770
 
+[fishing_spot_6784]
+name=Fishing spot
+model1=fishing_spot_8785
+readyanim=fishing_spot_ready_525
+walkanim=fishing_spot_ready_525
+resizeh=32
+op1=Bait
+op3=hidden
+vislevel=0
+visonmap=no
+
 [hosa_6785]
 name=Hosa
 model1=butler_6848
@@ -153839,8 +153850,8 @@ follower=yes
 [rod_fishing_spot_7676]
 name=Rod Fishing spot
 model1=fishing_spot_2331
-readyanim=fishing_spot_525
-walkanim=fishing_spot_525
+readyanim=fishing_spot_ready_525
+walkanim=fishing_spot_ready_525
 op1=Bait
 op3=hidden
 vislevel=0
