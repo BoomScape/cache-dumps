@@ -26,6 +26,20 @@ layer=interface_178:0
 
 [interface_178:3]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+layer=interface_178:2
+
+[interface_178:4]
+type=^iftype_layer
+width=350
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+layer=interface_178:2
+
+[interface_178:5]
+type=^iftype_layer
 x=10
 y=10
 width=16

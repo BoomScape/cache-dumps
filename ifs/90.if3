@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script865(event_com,5898242,5898243,5898274,5898275,5898271,5898272,5898291,5898244,5898245,5898264,5898273)"
+onload="script865(event_com,5898242,5898243,5898275,5898276,5898272,5898273,5898292,5898244,5898245,5898265,5898274)"
 
 [interface_90:1]
 type=^iftype_rectangle
@@ -49,7 +49,7 @@ width=185
 height=46
 hposmode=^setpos_abs_right
 layer=interface_90:5
-onload="script3141(event_com,5898247,5898248,5898250,5898251,5898252,5898254,5898255,5898256,5898257,5898259,5898260,5898261,5898262,5898263)"
+onload="script3141(event_com,5898247,5898248,5898250,5898251,5898252,5898253,5898255,5898256,5898257,5898258,5898260,5898261,5898262,5898263,5898264)"
 
 [interface_90:7]
 type=^iftype_layer
@@ -86,6 +86,18 @@ trans=150
 
 [interface_90:10]
 type=^iftype_graphic
+x=2
+y=2
+width=15
+height=15
+vposmode=^setpos_abs_bottom
+layer=interface_90:8
+graphic="mapfunction,122"
+optionmask=2
+op1="*"
+
+[interface_90:11]
+type=^iftype_graphic
 x=50
 y=2
 width=36
@@ -93,7 +105,7 @@ height=32
 vposmode=^setpos_abs_bottom
 layer=interface_90:8
 
-[interface_90:11]
+[interface_90:12]
 type=^iftype_text
 x=50
 y=2
@@ -107,7 +119,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:12]
+[interface_90:13]
 type=^iftype_graphic
 x=17
 width=25
@@ -117,7 +129,7 @@ hide=yes
 layer=interface_90:8
 graphic="overlay_multiway"
 
-[interface_90:13]
+[interface_90:14]
 type=^iftype_graphic
 x=2
 y=14
@@ -126,7 +138,7 @@ height=13
 layer=interface_90:8
 graphic="mod_icons_interface,9"
 
-[interface_90:14]
+[interface_90:15]
 type=^iftype_text
 x=16
 y=14
@@ -138,7 +150,7 @@ font=p11_full
 valign=^settextalign_bottom
 shadowed=yes
 
-[interface_90:15]
+[interface_90:16]
 type=^iftype_text
 y=2
 height=12
@@ -151,7 +163,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:16]
+[interface_90:17]
 type=^iftype_graphic
 x=2
 y=-1
@@ -163,7 +175,7 @@ graphic="fast_forward,0"
 optionmask=2
 op1="*"
 
-[interface_90:17]
+[interface_90:18]
 type=^iftype_layer
 x=2
 y=2
@@ -176,11 +188,11 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_90:8
 
-[interface_90:18]
+[interface_90:19]
 type=^iftype_text
 height=12
 hsizemode=^setsize_minus
-layer=interface_90:17
+layer=interface_90:18
 text="Bounty Task:"
 colour=0xa0a0a0
 font=p11_full
@@ -188,7 +200,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:19]
+[interface_90:20]
 type=^iftype_text
 y=2
 width=32
@@ -197,37 +209,37 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_90:17
+layer=interface_90:18
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:20]
+[interface_90:21]
 type=^iftype_graphic
 y=2
 width=15
 height=15
 vposmode=^setpos_abs_bottom
-layer=interface_90:17
+layer=interface_90:18
 graphic="mapfunction_infoicon"
 optionmask=2
 op1="*"
 
-[interface_90:21]
+[interface_90:22]
 type=^iftype_graphic
 y=2
 width=15
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_90:17
+layer=interface_90:18
 graphic="mapfunction,121"
 optionmask=2
 op1="*"
 
-[interface_90:22]
+[interface_90:23]
 type=^iftype_layer
 x=4
 y=4
@@ -242,7 +254,7 @@ layer=interface_90:8
 optionmask=2
 op1="*"
 
-[interface_90:23]
+[interface_90:24]
 type=^iftype_layer
 x=3
 y=3
@@ -256,27 +268,19 @@ op2="*"
 op3="*"
 op4="*"
 
-[interface_90:24]
+[interface_90:25]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_90:3
 
-[interface_90:25]
+[interface_90:26]
 type=^iftype_layer
 x=-35
 y=32
 width=220
 height=60
 hposmode=^setpos_abs_centre
-layer=interface_90:24
-
-[interface_90:26]
-type=^iftype_layer
-width=220
-height=60
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 layer=interface_90:25
 
 [interface_90:27]
@@ -285,128 +289,136 @@ width=220
 height=60
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hide=yes
 layer=interface_90:26
 
 [interface_90:28]
+type=^iftype_layer
+width=220
+height=60
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_90:27
+
+[interface_90:29]
 type=^iftype_rectangle
 width=216
 height=4
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_90:27
+layer=interface_90:28
 colour=0x9b2121
 fill=yes
 trans=185
 
-[interface_90:29]
+[interface_90:30]
 type=^iftype_rectangle
 width=220
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_90:27
+layer=interface_90:28
 colour=0x7d0505
 fill=yes
 trans=170
 
-[interface_90:30]
+[interface_90:31]
 type=^iftype_text
 width=200
 height=50
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_90:27
+layer=interface_90:28
 colour=^white
 font=q8_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:31]
+[interface_90:32]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_90:3
 
-[interface_90:32]
+[interface_90:33]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_90:31
+layer=interface_90:32
 
-[interface_90:33]
+[interface_90:34]
 type=^iftype_layer
 x=2
 y=2
 width=200
 height=32
-layer=interface_90:32
-
-[interface_90:34]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_90:3
+layer=interface_90:33
 
 [interface_90:35]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_90:34
+layer=interface_90:3
 
 [interface_90:36]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_90:35
+
+[interface_90:37]
 type=^iftype_layer
 y=2
 width=140
 height=116
 hposmode=^setpos_abs_right
 hide=yes
-layer=interface_90:35
+layer=interface_90:36
 
-[interface_90:37]
+[interface_90:38]
 type=^iftype_rectangle
 y=2
 width=4
 height=15
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_90:36
+layer=interface_90:37
 colour=0x9b2121
 fill=yes
 trans=185
 
-[interface_90:38]
+[interface_90:39]
 type=^iftype_rectangle
 width=140
 height=19
 hposmode=^setpos_abs_centre
-layer=interface_90:36
+layer=interface_90:37
 colour=0x7d0505
 fill=yes
 trans=170
 
-[interface_90:39]
+[interface_90:40]
 type=^iftype_text
 x=3
 y=2
 width=98
 height=15
-layer=interface_90:36
+layer=interface_90:37
 text="Players Remaining:"
 colour=^white
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:40]
+[interface_90:41]
 type=^iftype_text
 y=2
 width=40
 height=15
 hposmode=^setpos_abs_right
-layer=interface_90:36
+layer=interface_90:37
 text="2000"
 colour=^white
 font=p11_full
@@ -414,15 +426,15 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:41]
+[interface_90:42]
 type=^iftype_layer
 height=49
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_90:36
+layer=interface_90:37
 
-[interface_90:42]
+[interface_90:43]
 type=^iftype_rectangle
 width=4
 height=4
@@ -430,30 +442,30 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_90:41
+layer=interface_90:42
 colour=0x9b2121
 fill=yes
 trans=185
 
-[interface_90:43]
+[interface_90:44]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_90:41
+layer=interface_90:42
 colour=0x7d0505
 fill=yes
 trans=170
 
-[interface_90:44]
+[interface_90:45]
 type=^iftype_text
 y=7
 width=6
 height=15
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_90:41
+layer=interface_90:42
 text="5:00"
 colour=^white
 font=p11_full
@@ -461,7 +473,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:45]
+[interface_90:46]
 type=^iftype_text
 y=2
 width=6
@@ -469,7 +481,7 @@ height=30
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_90:41
+layer=interface_90:42
 text="When the timer hits 0:00 YOU'LL DIE -  Get to safety"
 colour=^white
 font=p11_full
@@ -477,49 +489,49 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:46]
+[interface_90:47]
 type=^iftype_layer
 y=21
 height=44
 hsizemode=^setsize_minus
-layer=interface_90:36
+layer=interface_90:37
 
-[interface_90:47]
+[interface_90:48]
 type=^iftype_rectangle
 width=136
 height=4
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_90:46
+layer=interface_90:47
 colour=0x9b2121
 fill=yes
 trans=185
 
-[interface_90:48]
+[interface_90:49]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_90:46
+layer=interface_90:47
 colour=0x7d0505
 fill=yes
 trans=170
 
-[interface_90:49]
+[interface_90:50]
 type=^iftype_text
 x=3
 y=2
 width=6
 height=15
 hsizemode=^setsize_minus
-layer=interface_90:46
+layer=interface_90:47
 text="Final Safe Area:"
 colour=^white
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:50]
+[interface_90:51]
 type=^iftype_text
 x=3
 y=19
@@ -527,7 +539,7 @@ width=6
 height=24
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_90:46
+layer=interface_90:47
 text="[Final Safe Area]"
 colour=^yellow
 font=p11_full
@@ -536,36 +548,27 @@ valign=^settextalign_centre
 shadowed=yes
 onload="script1643(event_com)"
 
-[interface_90:51]
+[interface_90:52]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_90:2
 
-[interface_90:52]
+[interface_90:53]
 type=^iftype_layer
 y=40
 width=57
 height=55
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_90:51
+layer=interface_90:52
 
-[interface_90:53]
+[interface_90:54]
 type=^iftype_layer
 width=25
 height=25
 hposmode=^setpos_abs_centre
-layer=interface_90:52
-
-[interface_90:54]
-type=^iftype_graphic
-width=25
-height=25
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 layer=interface_90:53
-graphic="pvpw_icons,0"
 
 [interface_90:55]
 type=^iftype_graphic
@@ -573,40 +576,49 @@ width=25
 height=25
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_90:53
-graphic="pvpw_icons,1"
+layer=interface_90:54
+graphic="pvpw_icons,0"
 
 [interface_90:56]
+type=^iftype_graphic
+width=25
+height=25
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_90:54
+graphic="pvpw_icons,1"
+
+[interface_90:57]
 type=^iftype_graphic
 x=16
 y=3
 width=7
 height=18
 hposmode=^setpos_abs_centre
-layer=interface_90:52
+layer=interface_90:53
 graphic="pvp_warning_icon"
 trans=255
 
-[interface_90:57]
+[interface_90:58]
 type=^iftype_text
 height=15
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_90:52
+layer=interface_90:53
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_90:58]
+[interface_90:59]
 type=^iftype_text
 height=16
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_90:52
+layer=interface_90:53
 colour=^yellow
 font=p12_full
 halign=^settextalign_centre
@@ -614,26 +626,26 @@ valign=^settextalign_centre
 shadowed=yes
 ontimer="script388(event_com)"
 
-[interface_90:59]
-type=^iftype_text
-height=15
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
-hsizemode=^setsize_minus
-layer=interface_90:52
-colour=^white
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
 [interface_90:60]
 type=^iftype_text
 height=15
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_90:52
+layer=interface_90:53
+colour=^white
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_90:61]
+type=^iftype_text
+height=15
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+layer=interface_90:53
 colour=^red
 font=p11_full
 halign=^settextalign_centre
@@ -642,7 +654,7 @@ shadowed=yes
 onload="script13(event_com)"
 onvartransmit="script13(event_com){var_1130}"
 
-[interface_90:61]
+[interface_90:62]
 type=^iftype_layer
 width=1
 height=1

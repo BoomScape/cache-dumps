@@ -20653,7 +20653,7 @@ val=68,ankou_mask_20095
 val=69,ankou_top_20098
 val=70,ankou_gloves_20101
 val=71,ankou_socks_20107
-val=72,ankous_leggings_20104
+val=72,ankou_leggings_20104
 val=73,mummys_head_20080
 val=74,mummys_feet_20092
 val=75,mummys_hands_20086
@@ -22916,4 +22916,5 @@ val=49,ornate_maul_handle_24229
 val=50,bounty_teleport_scroll_12846
 val=51,hunters_honour_12855
 val=52,decorative_emblem_24287
+val=53,bounty_crate_24329
 

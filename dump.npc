@@ -190614,3 +190614,11 @@ multinpc=79,epic_mager34_7942
 multinpc=80,epic_mager34_7942
 drawpriority=yes
 
+[npc_9306]
+name=
+model1=model_16238
+resizeh=1
+resizev=1
+vislevel=1
+visonmap=no
+
