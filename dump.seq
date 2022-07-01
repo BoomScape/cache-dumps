@@ -16391,6 +16391,7 @@ framegroup1=287
 
 [seq_2721]
 framecount=27
+priority=6
 mainhand=0
 offhand=0
 looptype=1
@@ -26583,11 +26584,6 @@ stretches=yes
 looptype=1
 framegroup1=1076
 
-[seq_4410]
-framecount=33
-looptype=1
-framegroup1=1076
-
 [seq_4411]
 framecount=46
 stretches=yes
@@ -29116,6 +29112,7 @@ framegroup1=1240
 
 [seq_4839]
 framecount=68
+priority=6
 mainhand=0
 offhand=0
 looptype=1
@@ -49601,11 +49598,6 @@ replayoff=8
 looptype=1
 framegroup1=2197
 
-[seq_8147]
-framecount=33
-looptype=1
-framegroup1=1076
-
 [portal_8148]
 framecount=16
 replayoff=16
@@ -50763,6 +50755,16 @@ exactmove=1
 movetype=1
 looptype=1
 framegroup1=215
+
+[seq_8316]
+framecount=33
+looptype=1
+framegroup1=1076
+
+[seq_8317]
+framecount=33
+looptype=1
+framegroup1=1076
 
 [seq_8331]
 framecount=56

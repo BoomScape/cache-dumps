@@ -41838,3 +41838,18 @@ basevar=var_2226
 startbit=0
 endbit=9
 
+[varbit_8368]
+basevar=var_1208
+startbit=8
+endbit=8
+
+[varbit_8369]
+basevar=var_1209
+startbit=14
+endbit=14
+
+[varbit_8370]
+basevar=var_1374
+startbit=25
+endbit=25
+

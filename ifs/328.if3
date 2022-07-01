@@ -73,15 +73,13 @@ shadowed=yes
 
 [interface_328:9]
 type=^iftype_text
-x=67
 y=10
-width=25
+width=46
 height=12
+hposmode=^setpos_abs_right
 layer=interface_328:5
-text="25"
 colour=^white
 font=p11_full
-shadowed=yes
 
 [interface_328:10]
 type=^iftype_text
@@ -102,7 +100,6 @@ y=25
 width=56
 height=12
 layer=interface_328:5
-text="0"
 colour=^white
 font=p11_full
 shadowed=yes
@@ -126,7 +123,6 @@ y=40
 width=60
 height=12
 layer=interface_328:5
-text="Safe"
 colour=^white
 font=p11_full
 shadowed=yes
@@ -140,7 +136,6 @@ height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_328:1
-text="0 mins"
 colour=^white
 font=p11_full
 halign=^settextalign_centre
