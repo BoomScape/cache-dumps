@@ -186,12 +186,12 @@ op1="*"
 [interface_164:25]
 type=^iftype_layer
 width=211
-height=173
+height=186
 hposmode=^setpos_abs_right
 
 [interface_164:26]
 type=^iftype_layer
-height=166
+height=179
 hsizemode=^setsize_minus
 layer=interface_164:25
 
@@ -290,7 +290,7 @@ graphic="graphic_1177"
 type=^iftype_layer
 y=10
 width=207
-height=163
+height=191
 layer=interface_164:25
 
 [interface_164:38]
@@ -642,6 +642,8 @@ onload="script4125(event_com)"
 
 [interface_164:74]
 type=^iftype_layer
+x=-3
+y=-1
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 

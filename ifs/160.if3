@@ -352,7 +352,7 @@ height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_160:38
-graphic="graphic_1635"
+graphic="ring_34,0"
 
 [interface_160:40]
 type=^iftype_graphic
@@ -366,8 +366,10 @@ trans=25
 
 [interface_160:41]
 type=^iftype_layer
-width=34
-height=34
+width=26
+height=26
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 layer=interface_160:38
 optionmask=6
 op1="*"
@@ -384,17 +386,17 @@ graphic="orb_icon,7"
 
 [interface_160:43]
 type=^iftype_layer
-y=132
+y=30
 width=30
 height=30
 hposmode=^setpos_abs_right
-vposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
 layer=interface_160:0
 onload="script1492(event_com,10485807,10485808)"
 
 [interface_160:44]
 type=^iftype_layer
-y=-7
+x=1
 width=40
 height=34
 hposmode=^setpos_abs_right

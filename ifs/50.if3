@@ -270,8 +270,8 @@ onmouserepeat="script526(event_com,-1,3276858,Prayer level,25,400)"
 
 [interface_50:26]
 type=^iftype_model
-x=2
-width=379
+x=47
+width=430
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -282,8 +282,8 @@ originy=-5
 xan=512
 yan=1700
 zoom=1245
-viewportwid=101
-viewporthei=101
+viewportwid=50
+viewporthei=50
 onmouseleave="script40(3276858)"
 onmouserepeat="script526(event_com,-1,3276858,Performance counter,25,400)"
 
@@ -296,6 +296,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_50:4
+dragdeadzone=1
 
 [interface_50:28]
 type=^iftype_layer
@@ -417,8 +418,8 @@ layer=interface_50:31
 
 [interface_50:41]
 type=^iftype_layer
-x=2
-width=379
+x=62
+width=439
 height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
@@ -608,4 +609,150 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_50:47
 graphic="graphic_1125"
+
+[interface_50:61]
+type=^iftype_rectangle
+height=13
+hsizemode=^setsize_minus
+hide=yes
+layer=interface_50:27
+colour=0x4b0000
+fill=yes
+trans=150
+
+[interface_50:62]
+type=^iftype_layer
+y=28
+width=480
+height=67
+layer=interface_50:3
+
+[interface_50:63]
+type=^iftype_graphic
+x=404
+y=-19
+width=16
+height=16
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,0"
+optionmask=2
+op1="Move up"
+
+[interface_50:64]
+type=^iftype_graphic
+x=455
+y=-19
+width=16
+height=16
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,1"
+optionmask=2
+op1="Move down"
+
+[interface_50:65]
+type=^iftype_graphic
+x=433
+y=-19
+width=11
+height=10
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,0"
+optionmask=2
+op1="Move up"
+
+[interface_50:66]
+type=^iftype_graphic
+x=455
+y=-19
+width=16
+height=16
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,1"
+optionmask=2
+op1="Move down"
+
+[interface_50:67]
+type=^iftype_graphic
+x=433
+y=-19
+width=11
+height=10
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,0"
+optionmask=2
+op1="Move up"
+
+[interface_50:68]
+type=^iftype_graphic
+x=455
+y=12
+width=16
+height=16
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,1"
+optionmask=2
+op1="Move down"
+
+[interface_50:69]
+type=^iftype_graphic
+x=433
+y=-19
+width=11
+height=10
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,0"
+optionmask=2
+op1="Move up"
+
+[interface_50:70]
+type=^iftype_graphic
+x=455
+y=-19
+width=16
+height=16
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,1"
+optionmask=2
+op1="Move down"
+
+[interface_50:71]
+type=^iftype_graphic
+x=433
+y=-19
+width=11
+height=10
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,0"
+optionmask=2
+op1="Move up"
+
+[interface_50:72]
+type=^iftype_graphic
+x=455
+y=-19
+width=16
+height=16
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_50:62
+graphic="scrollbar_trans_arrows,1"
+optionmask=2
+op1="Move down"
 

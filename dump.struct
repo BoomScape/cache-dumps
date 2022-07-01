@@ -18497,14 +18497,6 @@ param=setting_choose_transmit_1085,yes
 param=setting_check_fail_mes_1116,You can only change this setting while playing in resizable mode.
 param=setting_desc_1096,"When enabled, in resizable mode make the chatbox background transparent."
 
-[struct_2731]
-param=setting_id_1077,47
-param=setting_type_1078,0
-param=setting_name_1086,Show the Store button
-param=setting_search_keywords_1088,"Show the Store button,hide the Store button,Advanced Display Settings"
-param=setting_mobile_740,yes
-param=setting_desc_1096,"When enabled, show the store button around the minimap."
-
 [struct_2732]
 param=setting_id_1077,12
 param=setting_type_1078,2
@@ -26887,7 +26879,7 @@ param=param_1384,"deadman_sigil_icons,28"
 [struct_3679]
 param=param_1371,23
 param=param_1372,Sigil of Specialised Strikes
-param=param_1373,Activate the Sigil to reduce the cost of your next Special Attack that costs more than 10 energy by 10. This effect lasts for 12 seconds and has a 30 second cooldown.
+param=param_1373,Activate the Sigil to reduce the cost of your next Special Attack that costs more than 10 energy by 10. This effect lasts for 12 seconds and has a 15 second cooldown.
 param=param_1374,1
 param=param_1375,2
 param=param_1384,"deadman_sigil_icons,11"
@@ -26895,7 +26887,7 @@ param=param_1384,"deadman_sigil_icons,11"
 [struct_3680]
 param=param_1371,24
 param=param_1372,Sigil of the Porcupine
-param=param_1373,Activate the Sigil to recoil 4 damage to your attacker for every hit you take. The effect lasts for 45 seconds and has a 2-minute cooldown.
+param=param_1373,Activate the Sigil to recoil 4 damage to your attacker for every hit you take. The effect lasts for 36 seconds and has a 2-minute cooldown.
 param=param_1374,1
 param=param_1375,2
 param=param_1384,"deadman_sigil_icons,4"
@@ -26927,7 +26919,7 @@ param=param_1384,"deadman_sigil_icons,2"
 [struct_3684]
 param=param_1371,28
 param=param_1372,Sigil of the Feral Fighter
-param=param_1373,"Upon dealing melee damage, you have a 10% chance to set your attack speed to 1.8 seconds for the next 3 attacks within the next 12 seconds.<br>You also gain an additional 25% XP in the Attack and Strength skills."
+param=param_1373,"Upon dealing melee damage, you have a 20% chance to set your attack speed to 1.8 seconds for the next 3 attacks within the next 12 seconds.<br>You also gain an additional 25% XP in the Attack and Strength skills."
 param=param_1374,1
 param=param_1375,2
 param=param_1384,"deadman_sigil_icons,0"
@@ -27063,7 +27055,7 @@ param=param_1384,"deadman_sigil_icons,27"
 [struct_3701]
 param=param_1371,45
 param=param_1372,Sigil of Finality
-param=param_1373,"Activate the Sigil to guarantee 100% accuracy on your next special attack within the next 12 seconds. Once activated, the Sigil has a 90 second cooldown."
+param=param_1373,"Activate the Sigil to guarantee 100% accuracy on your next special attack within the next 12 seconds. Once activated, the Sigil has a 1-minute cooldown."
 param=param_1374,1
 param=param_1375,3
 param=param_1384,"deadman_sigil_icons,11"
@@ -27071,7 +27063,7 @@ param=param_1384,"deadman_sigil_icons,11"
 [struct_3702]
 param=param_1371,46
 param=param_1372,Sigil of Pious Protection
-param=param_1373,Decrease the amount of damage you take from attacks of a given combat style by 20% when using the correct protection prayer for that style. Increase the damage you take by protecting against the wrong combat style by 20%.
+param=param_1373,Decrease the amount of damage you take from attacks of a given combat style by 20% when using the correct protection prayer for that style. Increase the damage you take by protecting against the wrong combat style by 10%.
 param=param_1374,1
 param=param_1375,3
 param=param_1384,"deadman_sigil_icons,12"
@@ -27123,4 +27115,20 @@ param=param_1373,"Death does not consume a life. This Sigil is consumed instead.
 param=param_1374,3
 param=param_1375,3
 param=param_1384,"deadman_sigil_icons,26"
+
+[struct_3709]
+param=setting_id_1077,47
+param=setting_type_1078,0
+param=setting_name_1086,Show the Store button on mobile
+param=setting_search_keywords_1088,"Show the Store button,hide the Store button,Advanced Display Settings"
+param=setting_desc_1096,"When enabled, show the store button around the minimap on mobile only."
+param=setting_mobile_740,yes
+
+[struct_3710]
+param=setting_id_1077,181
+param=setting_type_1078,0
+param=setting_name_1086,Show the Store button on desktop
+param=setting_search_keywords_1088,"Show the Store button,hide the Store button,Advanced Display Settings"
+param=setting_desc_1096,"When enabled, show the store button around the minimap on desktop only."
+param=param_739,yes
 

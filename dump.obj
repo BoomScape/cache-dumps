@@ -222677,12 +222677,14 @@ placeholder=yes
 [old_notes_23023]
 name=Old notes
 model=ballad_10137
+category=category_1585
 2dzoom=1020
 2dxof=-1
 2dyof=11
 2dxan=344
 2dyan=656
 iop1=Read
+iop2=Combine
 members=yes
 placeholder=yes
 
@@ -222692,12 +222694,14 @@ placeholder=yes
 [old_notes_23025]
 name=Old notes
 model=ballad_10137
+category=category_1585
 2dzoom=1020
 2dxof=-1
 2dyof=11
 2dxan=344
 2dyan=656
 iop1=Read
+iop2=Combine
 members=yes
 placeholder=yes
 
@@ -222707,12 +222711,14 @@ placeholder=yes
 [old_notes_23027]
 name=Old notes
 model=ballad_10137
+category=category_1585
 2dzoom=1020
 2dxof=-1
 2dyof=11
 2dxan=344
 2dyan=656
 iop1=Read
+iop2=Combine
 members=yes
 placeholder=yes
 
@@ -222722,12 +222728,14 @@ placeholder=yes
 [old_notes_23029]
 name=Old notes
 model=ballad_10137
+category=category_1585
 2dzoom=1020
 2dxof=-1
 2dyof=11
 2dxan=344
 2dyan=656
 iop1=Read
+iop2=Combine
 members=yes
 placeholder=yes
 
@@ -222737,12 +222745,14 @@ placeholder=yes
 [old_notes_23031]
 name=Old notes
 model=ballad_10137
+category=category_1585
 2dzoom=1020
 2dxof=-1
 2dyof=11
 2dxan=344
 2dyan=656
 iop1=Read
+iop2=Combine
 members=yes
 placeholder=yes
 
@@ -222752,12 +222762,14 @@ placeholder=yes
 [old_notes_23033]
 name=Old notes
 model=ballad_10137
+category=category_1585
 2dzoom=1020
 2dxof=-1
 2dyof=11
 2dxan=344
 2dyan=656
 iop1=Read
+iop2=Combine
 members=yes
 placeholder=yes
 
@@ -222767,12 +222779,14 @@ placeholder=yes
 [old_notes_23035]
 name=Old notes
 model=ballad_10137
+category=category_1585
 2dzoom=1020
 2dxof=-1
 2dyof=11
 2dxan=344
 2dyan=656
 iop1=Read
+iop2=Combine
 members=yes
 placeholder=yes
 
@@ -256643,4 +256657,19 @@ recol1d=18882
 members=yes
 ambient=15
 contrast=15
+
+[mount_karuulm_diary_26154]
+name=Mount karuulm diary
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=4626
+members=yes
+placeholder=yes
+
+[placeholder_mount_karuulm_diary_26155]
+placeholder=yes
 

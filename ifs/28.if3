@@ -133,7 +133,7 @@ type=^iftype_graphic
 width=34
 height=34
 layer=interface_28:13
-graphic="graphic_1635"
+graphic="ring_34,0"
 
 [interface_28:15]
 type=^iftype_graphic
@@ -160,12 +160,12 @@ layer=interface_28:7
 
 [interface_28:17]
 type=^iftype_graphic
+width=34
+height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_28:16
-graphic="graphic_1635"
+graphic="ring_34,0"
 
 [interface_28:18]
 type=^iftype_graphic
@@ -196,12 +196,12 @@ layer=interface_28:7
 
 [interface_28:21]
 type=^iftype_graphic
+width=34
+height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_28:20
-graphic="graphic_1635"
+graphic="ring_34,0"
 
 [interface_28:22]
 type=^iftype_graphic
@@ -232,12 +232,12 @@ layer=interface_28:7
 
 [interface_28:25]
 type=^iftype_graphic
+width=34
+height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_28:24
-graphic="graphic_1635"
+graphic="ring_34,0"
 
 [interface_28:26]
 type=^iftype_graphic
@@ -268,12 +268,12 @@ layer=interface_28:7
 
 [interface_28:29]
 type=^iftype_graphic
+width=34
+height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_28:28
-graphic="graphic_1635"
+graphic="ring_34,0"
 
 [interface_28:30]
 type=^iftype_graphic
@@ -303,12 +303,12 @@ layer=interface_28:7
 
 [interface_28:33]
 type=^iftype_graphic
+width=34
+height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_28:32
-graphic="graphic_1635"
+graphic="ring_34,0"
 
 [interface_28:34]
 type=^iftype_graphic

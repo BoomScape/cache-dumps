@@ -534,6 +534,7 @@ font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+onvartransmit="script388(event_com){var_1709}"
 ontimer="script388(event_com)"
 
 [interface_90:51]

@@ -88,7 +88,7 @@ layer=interface_548:3
 
 [interface_548:11]
 type=^iftype_layer
-width=226
+width=236
 height=163
 layer=interface_548:3
 

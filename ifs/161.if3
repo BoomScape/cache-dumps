@@ -186,12 +186,12 @@ op1="*"
 [interface_161:25]
 type=^iftype_layer
 width=211
-height=173
+height=193
 hposmode=^setpos_abs_right
 
 [interface_161:26]
 type=^iftype_layer
-height=166
+height=186
 hsizemode=^setsize_minus
 layer=interface_161:25
 
@@ -290,7 +290,7 @@ graphic="graphic_1177"
 type=^iftype_layer
 y=10
 width=207
-height=163
+height=183
 layer=interface_161:25
 
 [interface_161:38]
