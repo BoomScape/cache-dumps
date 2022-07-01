@@ -7,7 +7,7 @@ vsizemode=^setsize_minus
 
 [interface_60:1]
 type=^iftype_layer
-width=310
+width=311
 height=200
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre

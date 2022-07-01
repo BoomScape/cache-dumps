@@ -30337,7 +30337,7 @@ name=Fishing spot
 model1=fishing_spot_6568
 readyanim=fishing_spot_ready_2126
 walkanim=fishing_spot_ready_2126
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30349,7 +30349,7 @@ name=Fishing spot
 model1=fishing_spot_6568
 readyanim=fishing_spot_ready_2126
 walkanim=fishing_spot_ready_2126
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30495,8 +30495,8 @@ vislevel=0
 ambient=12
 contrast=12
 
-[fishing_spot_1506]
-name=Fishing spot
+[rod_fishing_spot_1506]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30507,8 +30507,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1507]
-name=Fishing spot
+[rod_fishing_spot_1507]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30519,8 +30519,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1508]
-name=Fishing spot
+[rod_fishing_spot_1508]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30531,8 +30531,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1509]
-name=Fishing spot
+[rod_fishing_spot_1509]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30567,8 +30567,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1512]
-name=Fishing spot
+[rod_fishing_spot_1512]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30579,8 +30579,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1513]
-name=Fishing spot
+[rod_fishing_spot_1513]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30596,15 +30596,15 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1515]
-name=Fishing spot
+[rod_fishing_spot_1515]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30615,8 +30615,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1516]
-name=Fishing spot
+[rod_fishing_spot_1516]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30632,7 +30632,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30644,7 +30644,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30668,7 +30668,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -30680,7 +30680,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30704,7 +30704,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30716,7 +30716,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30728,15 +30728,15 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1526]
-name=Fishing spot
+[rod_fishing_spot_1526]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30747,8 +30747,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1527]
-name=Fishing spot
+[rod_fishing_spot_1527]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30764,15 +30764,15 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1529]
-name=Fishing spot
+[rod_fishing_spot_1529]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30795,8 +30795,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_1531]
-name=Fishing spot
+[rod_fishing_spot_1531]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -30812,7 +30812,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -30836,7 +30836,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -30960,7 +30960,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -66918,8 +66918,8 @@ walkanim_l=human_walk_l_822
 op1=Talk-to
 vislevel=0
 
-[fishing_spot_3417]
-name=Fishing spot
+[rod_fishing_spot_3417]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -66930,8 +66930,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_3418]
-name=Fishing spot
+[rod_fishing_spot_3418]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -66947,7 +66947,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -78282,7 +78282,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -78306,7 +78306,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -91774,7 +91774,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -91786,7 +91786,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -107531,7 +107531,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -107543,7 +107543,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -134059,7 +134059,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 vislevel=0
 visonmap=no
 
@@ -135609,8 +135609,8 @@ op2=Attack
 size=2
 vislevel=27
 
-[fishing_spot_6825]
-name=Fishing spot
+[rod_fishing_spot_6825]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -142316,7 +142316,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -144330,7 +144330,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -149421,7 +149421,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -149445,7 +149445,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -149457,15 +149457,15 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_7463]
-name=Fishing spot
+[rod_fishing_spot_7463]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -149476,8 +149476,8 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_7464]
-name=Fishing spot
+[rod_fishing_spot_7464]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -149505,7 +149505,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Big Net
 op3=Harpoon
 op4=hidden
 op5=hidden
@@ -149517,15 +149517,15 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
 vislevel=0
 visonmap=no
 
-[fishing_spot_7468]
-name=Fishing spot
+[rod_fishing_spot_7468]
+name=Rod Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
@@ -149541,7 +149541,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -153369,8 +153369,8 @@ ambient=30
 contrast=30
 follower=yes
 
-[fishing_spot_7676]
-name=Fishing spot
+[rod_fishing_spot_7676]
+name=Rod Fishing spot
 model1=fishing_spot_2331
 readyanim=fishing_spot_525
 walkanim=fishing_spot_525
@@ -154265,7 +154265,7 @@ name=Fishing spot
 model1=fishing_spot_33186
 readyanim=fishing_spot_ready_7634
 walkanim=fishing_spot_ready_7634
-op1=Net
+op1=Small Net
 op4=hidden
 vislevel=0
 visonmap=no
@@ -154275,7 +154275,7 @@ name=Fishing spot
 model1=fishing_spot_33186
 readyanim=fishing_spot_ready_7634
 walkanim=fishing_spot_ready_7634
-op1=Net
+op1=Small Net
 op4=hidden
 vislevel=0
 visonmap=no
@@ -154285,7 +154285,7 @@ name=Fishing spot
 model1=fishing_spot_33186
 readyanim=fishing_spot_ready_7634
 walkanim=fishing_spot_ready_7634
-op1=Net
+op1=Small Net
 op4=hidden
 vislevel=0
 visonmap=no
@@ -154295,7 +154295,7 @@ name=Fishing spot
 model1=fishing_spot_33186
 readyanim=fishing_spot_ready_7634
 walkanim=fishing_spot_ready_7634
-op1=Net
+op1=Small Net
 op4=hidden
 vislevel=0
 visonmap=no
@@ -158136,7 +158136,7 @@ name=Fishing spot
 model1=fishing_spot_1491
 readyanim=ominous_fishing_spot_447
 walkanim=fishing_spot_walk_448
-op1=Net
+op1=Small Net
 op3=Bait
 op4=hidden
 op5=hidden
@@ -160283,6 +160283,78 @@ op1=Talk-to
 op3=Board
 vislevel=0
 drawpriority=yes
+
+[npc_8014]
+model1=khazard_helmet_219
+model2=khazard_armour_306
+model3=iron_platebody_164
+model4=cooking_gauntlets_179
+model5=iron_platelegs_268
+model6=boots_of_lightness_185
+model7=bronze_longsword_518
+model8=male_jaw_246
+readyanim=fisherman_ready_4825
+walkanim=brother_maledict_walk_4779
+recol1s=4550
+recol1d=6430
+recol2s=10004
+recol2d=6430
+recol3s=41
+recol3d=10646
+recol4s=61
+recol4d=12824
+recol5s=926
+recol5d=7690
+recol6s=57
+recol6d=6430
+vislevel=0
+active=no
+
+[npc_8015]
+model1=moss_giant_17455
+model2=moss_giant_17439
+model3=moss_giant_17460
+readyanim=moss_giant_ready_4656
+walkanim=moss_giant_walk_4654
+size=2
+vislevel=42
+active=no
+
+[npc_8016]
+model1=moss_giant_17455
+model2=moss_giant_17444
+model3=moss_giant_17460
+readyanim=moss_giant_ready_4656
+walkanim=moss_giant_walk_4654
+recol1s=12824
+recol1d=6817
+recol2s=10646
+recol2d=6684
+size=2
+vislevel=42
+active=no
+
+[npc_8017]
+model1=moss_giant_17456
+model2=moss_giant_17444
+model3=moss_giant_17460
+readyanim=moss_giant_ready_4656
+walkanim=moss_giant_walk_4654
+size=2
+vislevel=42
+active=no
+
+[npc_8018]
+model1=moss_giant_17457
+model2=moss_giant_17445
+model3=moss_giant_17460
+readyanim=moss_giant_ready_4656
+walkanim=moss_giant_walk_4655
+recol1s=13607
+recol1d=10659
+size=2
+vislevel=42
+active=no
 
 [rift_guardian_8024]
 name=Rift guardian

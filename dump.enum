@@ -98,20 +98,73 @@ val=9,watering_can_8_5340
 val=10,gricollers_can_13353
 
 [enum_139]
-inputtype=obj
-outputtype=int
-default=0
-val=earth_warrior_champion_scroll_6798,1
-val=ghoul_champion_scroll_6799,2
-val=giant_champion_scroll_6800,3
-val=goblin_champion_scroll_6801,4
-val=hobgoblin_champion_scroll_6802,5
-val=imp_champion_scroll_6803,6
-val=jogre_champion_scroll_6804,7
-val=lesser_demon_champion_scroll_6805,8
-val=skeleton_champion_scroll_6806,9
-val=zombie_champion_scroll_6807,10
-val=leons_champion_scroll_6808,11
+inputtype=component
+outputtype=component
+default=null
+val=interface_161:29,interface_80:16
+val=interface_161:13,interface_80:13
+val=interface_161:3,interface_80:3
+val=interface_161:6,interface_80:6
+val=interface_161:66,interface_80:17
+val=interface_161:68,interface_80:18
+val=interface_161:69,interface_80:19
+val=interface_161:70,interface_80:20
+val=interface_161:71,interface_80:21
+val=interface_161:72,interface_80:22
+val=interface_161:73,interface_80:23
+val=interface_161:74,interface_80:24
+val=interface_161:75,interface_80:25
+val=interface_161:76,interface_80:26
+val=interface_161:77,interface_80:27
+val=interface_161:78,interface_80:28
+val=interface_161:79,interface_80:29
+val=interface_161:80,interface_80:30
+val=interface_161:81,interface_80:31
+val=interface_161:4,interface_80:4
+val=interface_161:9,interface_80:9
+val=interface_161:28,interface_80:15
+val=interface_161:7,interface_80:7
+val=interface_161:8,interface_80:8
+val=interface_161:14,interface_80:14
+val=interface_161:2,interface_80:2
+val=interface_161:10,interface_80:10
+val=interface_161:11,interface_80:11
+val=interface_161:5,interface_80:5
+val=interface_161:12,interface_80:12
+
+[enum_140]
+inputtype=component
+outputtype=component
+default=null
+val=interface_154:9,interface_154:9
+val=interface_154:11,interface_154:11
+val=interface_154:52,interface_154:52
+val=interface_154:51,interface_154:51
+val=interface_154:50,interface_154:50
+val=interface_154:40,interface_154:40
+val=interface_154:39,interface_154:39
+val=interface_154:38,interface_154:38
+val=interface_154:46,interface_154:46
+val=interface_154:45,interface_154:45
+val=interface_154:44,interface_154:44
+val=interface_154:58,interface_154:58
+
+[enum_142]
+inputtype=component
+outputtype=component
+default=null
+val=interface_154:9,interface_154:10
+val=interface_154:11,interface_154:12
+val=interface_154:52,interface_154:18
+val=interface_154:51,interface_154:17
+val=interface_154:50,interface_154:16
+val=interface_154:40,interface_154:34
+val=interface_154:39,interface_154:33
+val=interface_154:38,interface_154:32
+val=interface_154:46,interface_154:26
+val=interface_154:45,interface_154:25
+val=interface_154:44,interface_154:24
+val=interface_154:58,interface_154:56
 
 [enum_149]
 inputtype=int
@@ -963,6 +1016,7 @@ val=snow_imp_costume_tail_21853,Imp costume tail (2017)
 val=snow_imp_costume_gloves_21855,Imp costume gloves (2017)
 val=snow_imp_costume_feet_21857,Imp costume feet (2017)
 val=wise_old_mans_santa_hat_21859,Wise Old Man's Santa hat (2017)
+val=prop_sword_22316,Birthday prop sword (2018)
 val=jar_of_dirt_12007,Jar of Dirt (Kraken)
 val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
 val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
@@ -6422,6 +6476,12 @@ val=clue_box_12789,yes
 val=deadman_teleport_tablet_13666,yes
 val=bracelet_of_ethereum_uncharged_21817,yes
 val=bracelet_of_ethereum_21816,yes
+val=ancient_emblem_21807,yes
+val=ancient_totem_21810,yes
+val=ancient_statuette_21813,yes
+val=ancient_medallion_22299,yes
+val=ancient_effigy_22302,yes
+val=ancient_relic_22305,yes
 val=old_school_bond_13190,yes
 val=old_school_bond_untradeable_13192,yes
 
@@ -13986,35 +14046,35 @@ val=30,interface_458:33
 val=31,interface_458:34
 
 [enum_1469]
-inputtype=obj
+inputtype=int
 outputtype=model
 default=null
-val=earth_warrior_champion_scroll_6798,banner_10245
-val=ghoul_champion_scroll_6799,banner_10246
-val=giant_champion_scroll_6800,banner_10247
-val=goblin_champion_scroll_6801,banner_10248
-val=hobgoblin_champion_scroll_6802,banner_10249
-val=imp_champion_scroll_6803,banner_10250
-val=jogre_champion_scroll_6804,banner_10251
-val=lesser_demon_champion_scroll_6805,banner_10244
-val=skeleton_champion_scroll_6806,banner_10252
-val=zombie_champion_scroll_6807,banner_10253
+val=0,banner_10245
+val=1,banner_10246
+val=2,banner_10247
+val=3,banner_10248
+val=4,banner_10249
+val=5,banner_10250
+val=6,banner_10251
+val=7,banner_10244
+val=8,banner_10252
+val=9,banner_10253
 
 [enum_1470]
-inputtype=obj
+inputtype=int
 outputtype=string
 default=
-val=earth_warrior_champion_scroll_6798,Earth Warrior Champion
-val=ghoul_champion_scroll_6799,Ghoul Champion
-val=giant_champion_scroll_6800,Giant Champion
-val=goblin_champion_scroll_6801,Goblin Champion
-val=hobgoblin_champion_scroll_6802,Hobgoblin Champion
-val=imp_champion_scroll_6803,Imp Champion
-val=jogre_champion_scroll_6804,Jogre Champion
-val=lesser_demon_champion_scroll_6805,Lesser Demon Champion
-val=skeleton_champion_scroll_6806,Skeleton Champion
-val=zombie_champion_scroll_6807,Zombies Champion
-val=leons_champion_scroll_6808,Leon d'Cour
+val=0,Earth Warrior Champion
+val=1,Ghoul Champion
+val=2,Giant Champion
+val=3,Goblin Champion
+val=4,Hobgoblin Champion
+val=5,Imp Champion
+val=6,Jogre Champion
+val=7,Lesser Demon Champion
+val=8,Skeleton Champion
+val=9,Zombies Champion
+val=10,Leon d'Cour
 
 [enum_1496]
 inputtype=int
@@ -14657,6 +14717,7 @@ val=17,yes
 val=18,yes
 val=19,yes
 val=20,yes
+val=21,yes
 
 [enum_1611]
 inputtype=int
@@ -16201,6 +16262,7 @@ val=17,yes
 val=18,yes
 val=19,yes
 val=20,yes
+val=21,yes
 
 [enum_1796]
 inputtype=int
@@ -16703,4 +16765,21 @@ default=
 val=1,<img=2>
 val=2,<img=3>
 val=3,<img=10>
+
+[enum_1895]
+inputtype=component
+outputtype=int
+default=0
+val=interface_182:20,1
+val=interface_182:16,2
+
+[enum_1896]
+inputtype=component
+outputtype=int
+default=0
+val=interface_182:25,1
+val=interface_182:28,2
+val=interface_182:31,3
+val=interface_182:34,4
+val=interface_182:37,5
 

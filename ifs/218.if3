@@ -1111,8 +1111,9 @@ width=24
 height=24
 layer=interface_218:71
 graphic="magicoff2,26"
-optionmask=2
+optionmask=1026
 op1="Cast"
+op10="*"
 onload="script6(event_com,14287028,345,395,78,Dareeyak Teleport,A teleportation spell,563,2,554,3,556,2,-1,0)"
 
 [interface_218:93]
@@ -1123,8 +1124,9 @@ width=24
 height=24
 layer=interface_218:71
 graphic="magicoff2,27"
-optionmask=2
+optionmask=1026
 op1="Cast"
+op10="*"
 onload="script6(event_com,14287028,346,396,84,Carrallangar Teleport,A teleportation spell,563,2,566,2,-1,0,-1,0)"
 
 [interface_218:94]
@@ -1135,8 +1137,9 @@ width=24
 height=24
 layer=interface_218:71
 graphic="magicoff2,28"
-optionmask=2
+optionmask=1026
 op1="Cast"
+op10="*"
 onload="script6(event_com,14287028,347,397,90,Annakarl Teleport,A teleportation spell,563,2,565,2,-1,0,-1,0)"
 
 [interface_218:95]
@@ -1147,8 +1150,9 @@ width=24
 height=24
 layer=interface_218:71
 graphic="magicoff2,29"
-optionmask=2
+optionmask=1026
 op1="Cast"
+op10="*"
 onload="script6(event_com,14287028,348,398,96,Ghorrock Teleport,A teleportation spell,563,2,555,8,-1,0,-1,0)"
 
 [interface_218:96]
