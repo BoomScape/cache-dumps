@@ -7532,6 +7532,8 @@ val=morrigans_javelin_23619,500
 val=statiuss_warhammer_23620,350
 val=vestas_longsword_23615,250
 val=heavy_ballista_23630,650
+val=volatile_nightmare_staff_24424,500
+val=eldritch_nightmare_staff_24425,750
 
 [enum_913]
 inputtype=int
@@ -9657,6 +9659,15 @@ val=428,astral_rune_9075
 val=429,law_rune_563
 val=430,nature_rune_561
 val=431,soul_rune_566
+val=432,inquisitors_mace_24417
+val=433,inquisitors_great_helm_24419
+val=434,inquisitors_hauberk_24420
+val=435,inquisitors_plateskirt_24421
+val=436,sirens_tome_24418
+val=437,nightmare_staff_24422
+val=438,volatile_nightmare_staff_24424
+val=439,harmonised_nightmare_staff_24423
+val=440,eldritch_nightmare_staff_24425
 
 [enum_1125]
 inputtype=int
@@ -16470,6 +16481,8 @@ val=morrigans_javelin_23619,"Phantom Strike: This does nothing vs non-player tar
 val=statiuss_warhammer_23620,Smash: Deal an attack which deals a minimum of 25% extra damage and lowers your target's Defence level by 30%.
 val=vestas_longsword_23615,Feint: Deal an attack which treats your target's defence as if it was reduced by 75%. It will deal a minimum of 20% extra damage.
 val=heavy_ballista_23630,"Concentrated Shot: Deal an attack with 25% increased accuracy and damage, but takes an additional 2.4 seconds to fire."
+val=volatile_nightmare_staff_24424,"Immolate: Fire a spell that deals up to 58 base damage, with 50% improved accuracy. Costs no runes to use."
+val=eldritch_nightmare_staff_24425,"Invocate: Fire a spell that deals up to 44 base damage, restoring your prayer points by 50% of the damage dealt. Your prayer points can go above your level, to a maximum of 120. Costs no runes to use."
 
 [enum_1740]
 inputtype=int

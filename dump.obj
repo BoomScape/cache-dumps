@@ -5611,7 +5611,6 @@ ambient=30
 stockmarket=yes
 stackable=yes
 placeholder=yes
-bought=yes
 
 [nature_rune_561]
 name=Nature rune
@@ -153473,7 +153472,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [carrallangar_teleport_12776]
 name=Carrallangar teleport
@@ -153486,7 +153485,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [dareeyak_teleport_12777]
 name=Dareeyak teleport
@@ -153499,7 +153498,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [ghorrock_teleport_12778]
 name=Ghorrock teleport
@@ -153512,7 +153511,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [kharyrll_teleport_12779]
 name=Kharyrll teleport
@@ -153525,7 +153524,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [lassar_teleport_12780]
 name=Lassar teleport
@@ -153538,7 +153537,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [paddewwa_teleport_12781]
 name=Paddewwa teleport
@@ -153551,7 +153550,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [senntisten_teleport_12782]
 name=Senntisten teleport
@@ -153564,7 +153563,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_852,4
+param=param_852,6
 
 [ring_of_wealth_scroll_12783]
 name=Ring of wealth scroll
@@ -231141,6 +231140,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,2
 
 [placeholder_bounty_target_teleport_24337]
 placeholder=yes
@@ -231908,8 +231908,15 @@ placeholder=yes
 [placeholder_twisted_league_banner_24414]
 placeholder=yes
 
-[bought_death_rune_24415]
-bought=yes
+[dummy_priest_gown_24415]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
 
 [rune_pouch_l_24416]
 name=Rune pouch (l)
@@ -231924,4 +231931,128 @@ iop4=Empty
 iop5=Destroy
 members=yes
 param=param_595,Empty
+
+[inquisitors_mace_24417]
+name=Inquisitor's mace
+model=inquisitors_mace_39068
+manwear=inquisitors_mace_39057,0
+womanwear=inquisitors_mace_39060,0
+cost=5000000
+2dzoom=1642
+2dxof=1
+2dyof=16
+2dxan=348
+iop2=Wield
+members=yes
+ambient=15
+contrast=35
+
+[sirens_tome_24418]
+name=Siren's tome
+model=sirens_tome_39069
+manwear=sirens_tome_39064,0
+womanwear=sirens_tome_39059,0
+cost=1000000
+2dzoom=1470
+2dxof=1
+2dyof=8
+2dxan=397
+2dyan=860
+iop2=Wield
+members=yes
+
+[inquisitors_great_helm_24419]
+name=Inquisitor's great helm
+model=inquisitors_great_helm_39074
+manwear=inquisitors_great_helm_39049,0
+womanwear=inquisitors_great_helm_39052,0
+manhead=inquisitors_great_helm_39067
+femalehead=inquisitors_great_helm_39067
+cost=500000
+2dzoom=540
+2dyof=-5
+2dxan=115
+2dyan=47
+iop2=Wear
+members=yes
+
+[inquisitors_hauberk_24420]
+name=Inquisitor's hauberk
+model=inquisitors_hauberk_39076
+manwear=inquisitors_hauberk_39051,0
+womanwear=inquisitors_hauberk_39054,0
+cost=1000000
+2dzoom=1228
+2dxan=568
+iop2=Wear
+members=yes
+
+[inquisitors_plateskirt_24421]
+name=Inquisitor's plateskirt
+model=inquisitors_plateskirt_39075
+manwear=inquisitors_plateskirt_39050,0
+womanwear=inquisitors_plateskirt_39053,0
+cost=750000
+2dzoom=1740
+2dxan=444
+iop2=Wear
+members=yes
+
+[nightmare_staff_24422]
+name=Nightmare staff
+model=nightmare_staff_39073
+manwear=nightmare_staff_39056,0
+womanwear=nightmare_staff_39063,0
+cost=600000
+2dzoom=2064
+2dxof=-5
+2dyof=13
+2dxan=404
+2dyan=1050
+iop2=Wield
+members=yes
+
+[harmonised_nightmare_staff_24423]
+name=Harmonised nightmare staff
+model=harmonised_nightmare_staff_39070
+manwear=harmonised_nightmare_staff_39058,0
+womanwear=harmonised_nightmare_staff_39062,0
+cost=4600000
+2dzoom=2064
+2dxof=-5
+2dyof=13
+2dxan=404
+2dyan=1050
+iop2=Wield
+members=yes
+
+[volatile_nightmare_staff_24424]
+name=Volatile nightmare staff
+model=volatile_nightmare_staff_39072
+manwear=volatile_nightmare_staff_39055,0
+womanwear=volatile_nightmare_staff_39066,0
+cost=4600000
+2dzoom=2064
+2dxof=-5
+2dyof=13
+2dxan=404
+2dyan=1050
+iop2=Wield
+members=yes
+param=spell_membersonly_603,yes
+
+[eldritch_nightmare_staff_24425]
+name=Eldritch nightmare staff
+model=eldritch_nightmare_staff_39071
+manwear=eldritch_nightmare_staff_39061,0
+womanwear=eldritch_nightmare_staff_39065,0
+cost=4600000
+2dzoom=2064
+2dxof=-5
+2dyof=13
+2dxan=404
+2dyan=1050
+iop2=Wield
+members=yes
+param=spell_membersonly_603,yes
 

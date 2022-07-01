@@ -50278,6 +50278,11 @@ basevar=var_1432
 startbit=27
 endbit=27
 
+[varbit_10056]
+basevar=var_2606
+startbit=19
+endbit=23
+
 [varbit_10057]
 basevar=var_1663
 startbit=21
