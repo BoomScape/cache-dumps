@@ -1,0 +1,13 @@
+[interface_131:0]
+type=^iftype_text
+y=51
+width=480
+height=20
+hposmode=^setpos_abs_centre
+text="Waiting for players to join the other team."
+colour=^white
+font=b12_full
+halign=^settextalign_centre
+onload="script883(event_com)"
+onvartransmit="script883(event_com){var_380}"
+

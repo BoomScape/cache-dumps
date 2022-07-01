@@ -1,0 +1,12 @@
+[interface_467:0]
+type=^iftype_layer
+width=190
+height=261
+onload="script781(event_com,30605313)"
+
+[interface_467:1]
+type=^iftype_layer
+width=190
+height=261
+layer=interface_467:0
+

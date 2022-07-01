@@ -1,0 +1,36 @@
+[interface_494:0]
+type=^iftype_text
+y=5
+width=31
+height=15
+hposmode=^setpos_abs_right
+text="XX"
+colour=0xff981f
+font=b12_full
+shadowed=yes
+
+[interface_494:1]
+type=^iftype_text
+x=34
+y=5
+width=125
+height=15
+hposmode=^setpos_abs_right
+text="Time until next wave:"
+colour=0xff981f
+font=p12_full
+halign=^settextalign_right
+shadowed=yes
+
+[interface_494:2]
+type=^iftype_text
+x=22
+y=18
+width=116
+height=16
+hposmode=^setpos_abs_right
+text="(exit room to cancel)"
+colour=0xff981f
+font=p12_full
+shadowed=yes
+

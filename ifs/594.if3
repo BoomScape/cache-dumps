@@ -1,0 +1,8 @@
+[interface_594:0]
+type=^iftype_rectangle
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+fill=yes
+

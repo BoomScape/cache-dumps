@@ -1,0 +1,10 @@
+[interface_389:0]
+type=^iftype_graphic
+x=15
+y=13
+width=25
+height=25
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+graphic="overlay_duel"
+

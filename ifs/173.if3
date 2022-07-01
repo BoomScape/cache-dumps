@@ -1,0 +1,12 @@
+[interface_173:0]
+type=^iftype_model
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+model=model_24421
+zoom=450
+anim=seq_6169
+viewportwid=1087
+viewporthei=1087
+

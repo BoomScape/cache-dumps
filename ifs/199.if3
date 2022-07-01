@@ -1,0 +1,16 @@
+[interface_199:0]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+onload="script569(event_com,13041665)"
+
+[interface_199:1]
+type=^iftype_layer
+y=5
+width=1
+height=1
+hposmode=^setpos_abs_centre
+layer=interface_199:0
+

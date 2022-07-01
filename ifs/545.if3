@@ -1,0 +1,13 @@
+[interface_545:0]
+type=^iftype_model
+x=1638
+width=32
+height=32
+hposmode=^setpos_proportion_centre
+vposmode=^setpos_proportion_centre
+model=model_26580
+xan=441
+yan=480
+zoom=656
+anim=seq_6641
+

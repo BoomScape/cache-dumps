@@ -1,0 +1,1995 @@
+[interface_381:0]
+type=^iftype_layer
+width=190
+height=261
+
+[interface_381:1]
+type=^iftype_graphic
+width=190
+height=261
+layer=interface_381:0
+graphic="tradebacking"
+tiling=yes
+
+[interface_381:2]
+type=^iftype_layer
+width=190
+height=40
+layer=interface_381:10
+onload="script392(event_com)"
+
+[interface_381:3]
+type=^iftype_layer
+x=164
+y=10
+width=20
+height=20
+layer=interface_381:2
+onload="script402(24969223,24969368,1,24969225,24969224)"
+onmouseover="script401(24969220,24969221,0)"
+onmouseleave="script401(24969220,24969221,50)"
+onclick="script402(24969223,24969368,0,24969225,24969224)"
+
+[interface_381:4]
+type=^iftype_graphic
+x=6
+y=4
+width=7
+height=5
+layer=interface_381:3
+graphic="sortarrows,0"
+trans=50
+
+[interface_381:5]
+type=^iftype_graphic
+x=6
+y=10
+width=7
+height=5
+layer=interface_381:3
+graphic="sortarrows,1"
+trans=50
+
+[interface_381:6]
+type=^iftype_text
+width=190
+height=40
+layer=interface_381:2
+text="Travel log"
+colour=0xff981f
+font=q8_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_381:7]
+type=^iftype_layer
+x=6
+y=42
+width=163
+height=215
+layer=interface_381:0
+
+[interface_381:8]
+type=^iftype_layer
+height=100
+hsizemode=^setsize_minus
+layer=interface_381:7
+
+[interface_381:9]
+type=^iftype_rectangle
+y=3
+height=1
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+layer=interface_381:8
+colour=0x333333
+
+[interface_381:10]
+type=^iftype_layer
+width=190
+height=261
+onload="script392(event_com)"
+
+[interface_381:11]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:12]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:13]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:14]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:15]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:16]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:17]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:18]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:19]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:20]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:21]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:22]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:23]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:24]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:25]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:26]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:27]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:28]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:29]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:30]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:31]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:32]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:33]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:34]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:35]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:36]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:37]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:38]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:39]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:40]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:41]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:42]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:43]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:44]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:45]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:46]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:47]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:48]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:49]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:50]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:51]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:52]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:53]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:54]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:55]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:56]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:57]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:58]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:59]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:60]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:61]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:62]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:63]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:64]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:65]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:66]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:67]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:68]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:69]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:70]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:71]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:72]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:73]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:74]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:75]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:76]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:77]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:78]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:79]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:80]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:81]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:82]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:83]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:84]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:85]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:86]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:87]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:88]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:89]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:90]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:91]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:92]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:93]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:94]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:95]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:96]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:97]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:98]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:99]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:100]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:101]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:102]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:103]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:104]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:105]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:106]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:107]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:108]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:109]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:110]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:111]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:112]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:113]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:114]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:115]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:116]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:117]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:118]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:119]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:120]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:121]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:122]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:123]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:124]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:125]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:126]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:127]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:128]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:129]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:130]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:131]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:132]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:133]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:134]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:135]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:136]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:137]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Add Favourite"
+
+[interface_381:138]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:7
+graphic="favourite_icons,1"
+optionmask=2
+op1="Add Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:139]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:7
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=2
+op1="Use code"
+
+[interface_381:140]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Remove Favourite"
+
+[interface_381:141]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Remove Favourite"
+
+[interface_381:142]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Remove Favourite"
+
+[interface_381:143]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff981f
+font=p12_full
+shadowed=yes
+optionmask=6
+op1="Use code"
+op2="Remove Favourite"
+
+[interface_381:144]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff3f3f
+font=p12_full
+shadowed=yes
+
+[interface_381:145]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff3f3f
+font=p12_full
+shadowed=yes
+
+[interface_381:146]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff3f3f
+font=p12_full
+shadowed=yes
+
+[interface_381:147]
+type=^iftype_text
+x=1
+y=1
+width=147
+hide=yes
+layer=interface_381:8
+colour=0xff3f3f
+font=p12_full
+shadowed=yes
+
+[interface_381:148]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:8
+graphic="favourite_icons,0"
+optionmask=2
+op1="Remove Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:149]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:8
+graphic="favourite_icons,0"
+optionmask=2
+op1="Remove Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:150]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:8
+graphic="favourite_icons,0"
+optionmask=2
+op1="Remove Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:151]
+type=^iftype_graphic
+x=1
+y=1
+width=13
+height=12
+layer=interface_381:8
+graphic="favourite_icons,0"
+optionmask=2
+op1="Remove Favourite"
+onmouseover="script273(event_com,50)"
+onmouseleave="script273(event_com,0)"
+
+[interface_381:152]
+type=^iftype_layer
+x=168
+y=40
+width=16
+height=215
+layer=interface_381:0
+

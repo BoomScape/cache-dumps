@@ -1,0 +1,17 @@
+[interface_202:0]
+type=^iftype_text
+width=1
+height=1
+hposmode=^setpos_abs_centre
+colour=0xcccccc
+font=p11_full
+halign=^settextalign_centre
+shadowed=yes
+
+[interface_202:1]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+

@@ -1,0 +1,47 @@
+[interface_228:0]
+type=^iftype_text
+width=479
+height=40
+text="Running away? Not so fast!"
+colour=0x800000
+font=q8_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+
+[interface_228:1]
+type=^iftype_layer
+y=40
+width=479
+height=20
+hide=yes
+
+[interface_228:2]
+type=^iftype_text
+height=20
+hsizemode=^setsize_minus
+layer=interface_228:1
+text="There are 10 seconds remaining before you can teleport..."
+font=q8_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+
+[interface_228:3]
+type=^iftype_layer
+y=80
+width=479
+height=17
+hide=yes
+
+[interface_228:4]
+type=^iftype_text
+width=479
+height=17
+layer=interface_228:3
+text="Get me out of here!"
+colour=^blue
+font=q8_full
+halign=^settextalign_centre
+optionmask=1
+onmouseover="script45(event_com,16777215)"
+onmouseleave="script45(event_com,255)"
+

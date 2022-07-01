@@ -1,0 +1,14 @@
+[interface_13:0]
+type=^iftype_text
+y=1966
+width=8
+height=20
+hposmode=^setpos_abs_centre
+vposmode=^setpos_proportion_top
+hsizemode=^setsize_minus
+colour=^yellow
+font=b12_full
+shadowed=yes
+onload="script693(event_com)"
+onvartransmit="script693(event_com){var_1142}"
+

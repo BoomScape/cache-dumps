@@ -1,0 +1,34 @@
+[interface_373:0]
+type=^iftype_text
+y=25
+width=240
+height=11
+hposmode=^setpos_abs_centre
+text="Current Champion: TzHaar-Xil-Huz"
+colour=0xcccccc
+font=p11_full
+halign=^settextalign_centre
+shadowed=yes
+
+[interface_373:1]
+type=^iftype_text
+y=6
+height=12
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_373:2
+text="Foes Remaining:"
+colour=^red
+font=p11_full
+halign=^settextalign_centre
+shadowed=yes
+onload="script70"
+onvartransmit="script70{var_560}"
+
+[interface_373:2]
+type=^iftype_layer
+y=31
+width=191
+height=27
+hposmode=^setpos_abs_centre
+

@@ -1,0 +1,203 @@
+[interface_496:0]
+type=^iftype_rectangle
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+fill=yes
+trans=120
+
+[interface_496:1]
+type=^iftype_model
+x=247
+y=165
+width=32
+height=32
+model=model_19339
+xan=524
+zoom=730
+
+[interface_496:2]
+type=^iftype_text
+x=49
+y=44
+width=428
+height=13
+text="Tutorial Progress"
+colour=0xff981f
+font=barbassault_font
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_496:3]
+type=^iftype_text
+x=178
+y=77
+width=165
+height=16
+text="Introduction to the Arena"
+colour=0xff0033
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:4]
+type=^iftype_text
+x=178
+y=95
+width=165
+height=16
+text="Getting Started"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:5]
+type=^iftype_text
+x=178
+y=114
+width=165
+height=16
+text="Playing the Game"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:6]
+type=^iftype_text
+x=178
+y=133
+width=165
+height=16
+text="The Attacker Role"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:7]
+type=^iftype_text
+x=178
+y=152
+width=165
+height=16
+text="The Defender Role"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:8]
+type=^iftype_text
+x=178
+y=171
+width=165
+height=16
+text="The Collector Role"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:9]
+type=^iftype_text
+x=178
+y=190
+width=165
+height=16
+text="The Healer Role"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:10]
+type=^iftype_text
+x=178
+y=209
+width=165
+height=16
+text="Extra Information"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:11]
+type=^iftype_text
+x=178
+y=228
+width=165
+height=16
+text="The Final Battle"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:12]
+type=^iftype_text
+x=178
+y=248
+width=165
+height=16
+text="Rewards"
+colour=^red
+font=p12_full
+halign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="View tutorial"
+
+[interface_496:13]
+type=^iftype_model
+x=112
+y=182
+width=32
+height=32
+model=model_20620
+zoom=528
+
+[interface_496:14]
+type=^iftype_model
+x=380
+y=182
+width=32
+height=32
+model=model_20620
+zoom=528
+
+[interface_496:15]
+type=^iftype_graphic
+x=445
+y=33
+width=26
+height=23
+graphic="close_buttons,2"
+optionmask=2
+op1="Close"
+onmouseover="script44(event_com,538)"
+onmouseleave="script44(event_com,537)"
+onop="script29"
+
