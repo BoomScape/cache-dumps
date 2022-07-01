@@ -124928,100 +124928,85 @@ ambient=10
 
 [green_egg_10531]
 name=Green egg
-model=green_egg_20732
+model=green_egg_41725
 cost=100
-2dzoom=984
-2dxof=1
-2dxan=144
-2dyan=68
+2dzoom=1112
+2dxof=-1
+2dxan=12
+2dyan=1976
 iop5=Destroy
-recol1s=4696
-recol1d=22412
 members=yes
 shiftop=4
 
 [red_egg_10532]
 name=Red egg
-model=green_egg_20732
+model=red_egg_41729
 cost=100
-2dzoom=984
-2dxof=1
-2dxan=144
-2dyan=68
+2dzoom=1112
+2dxof=-1
+2dxan=12
+2dyan=1976
 iop5=Destroy
-recol1s=4696
-recol1d=920
 members=yes
 shiftop=4
 
 [blue_egg_10533]
 name=Blue egg
-model=green_egg_20732
+model=blue_egg_41731
 cost=100
-2dzoom=984
-2dxof=1
-2dxan=144
-2dyan=68
+2dzoom=1112
+2dxof=-1
+2dxan=12
+2dyan=1976
 iop5=Destroy
-recol1s=4696
-recol1d=-22380
 members=yes
 shiftop=4
 
 [yellow_egg_10534]
 name=Yellow egg
-model=green_egg_20732
+model=yellow_egg_41727
 cost=100
-2dzoom=984
-2dxof=1
-2dxan=144
-2dyan=68
+2dzoom=1112
+2dxof=-1
+2dxan=12
+2dyan=1976
 iop5=Destroy
-recol1s=4696
-recol1d=11069
 members=yes
 shiftop=4
 
 [poisoned_egg_10535]
 name=Poisoned egg
-model=poisoned_egg_20574
+model=poisoned_egg_41728
 cost=100
-2dzoom=919
-2dxof=-5
-2dyof=3
-2dxan=78
-2dyan=1697
+2dzoom=1112
+2dxof=-1
+2dxan=12
+2dyan=1976
 iop5=Destroy
-recol1s=4696
-recol1d=11069
 members=yes
 shiftop=4
 
 [spiked_pois_egg_10536]
 name=Spiked/pois. egg
-model=spiked_pois_egg_20575
+model=spiked_pois_egg_41730
 cost=100
-2dzoom=919
-2dxof=-4
-2dxan=111
-2dyan=1787
+2dzoom=1112
+2dxof=-1
+2dxan=12
+2dyan=1976
 iop5=Destroy
-recol1s=4696
-recol1d=11069
 members=yes
 shiftop=4
 
 [omega_egg_10537]
 name=Omega egg
-model=omega_egg_20572
+model=omega_egg_41726
 cost=100
-2dzoom=984
+2dzoom=1112
 2dxof=-1
-2dxan=3
-2dyan=1850
+2dxan=12
+2dyan=1976
 iop5=Destroy
-recol1s=4696
-recol1d=11069
 members=yes
 shiftop=4
 
@@ -125393,7 +125378,7 @@ placeholder=yes
 
 [no_eggs_10563]
 name=No eggs
-model=green_egg_20732
+model=no_eggs_20732
 2dzoom=984
 2dxof=1
 2dxan=144
@@ -237024,6 +237009,7 @@ ambient=50
 [soul_fragment_25196]
 name=Soul fragment
 model=magic_stone_12302
+cost=1000
 2dzoom=720
 2dxof=-1
 2dyof=1

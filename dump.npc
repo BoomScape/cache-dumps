@@ -119083,6 +119083,8 @@ recol6s=22422
 recol6d=-28018
 op1=Talk-to
 op3=Trade
+op4=Exchange
+op5=Quick-withdraw
 vislevel=0
 drawpriority=yes
 
@@ -119113,6 +119115,7 @@ head1=immenizz_26278
 readyanim=baby_impling_ready_6613
 walkanim=baby_impling_walk_6614
 op1=Talk-to
+op3=Check-gates
 vislevel=0
 drawpriority=yes
 
@@ -136828,7 +136831,7 @@ walkanim=kruk_walk_1385
 resizeh=180
 resizev=180
 op1=Talk-to
-vislevel=149
+vislevel=207
 
 [kruk_6805]
 name=Kruk
@@ -136841,7 +136844,7 @@ walkanim=kruk_walk_1385
 resizeh=180
 resizev=180
 op2=Attack
-vislevel=149
+vislevel=207
 
 [assistant_le_smith_6806]
 name=Assistant Le Smith
@@ -143019,7 +143022,7 @@ recol6s=6554
 recol6d=5532
 op2=Attack
 size=2
-vislevel=378
+vislevel=431
 drawpriority=yes
 
 [glough_7102]
@@ -143045,7 +143048,7 @@ recol6s=6554
 recol6d=5532
 op2=Attack
 size=2
-vislevel=378
+vislevel=431
 drawpriority=yes
 
 [glough_7103]
@@ -143070,7 +143073,7 @@ recol5d=21555
 recol6s=6554
 recol6d=5532
 size=2
-vislevel=0
+vislevel=431
 drawpriority=yes
 turnspeed=1024
 

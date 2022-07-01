@@ -3754,6 +3754,12 @@ framecount=11
 looptype=1
 framegroup1=821
 
+[seq_637]
+framecount=27
+offhand=0
+looptype=1
+framegroup1=1664
+
 [seq_638]
 framecount=44
 looptype=1
@@ -32677,7 +32683,7 @@ looptype=1
 framegroup1=1329
 
 [seq_5416]
-framecount=36
+framecount=23
 stretches=yes
 offhand=2859
 looptype=1
@@ -54751,4 +54757,16 @@ exactmove=1
 movetype=1
 looptype=1
 framegroup1=1395
+
+[seq_8891]
+framecount=65
+offhand=0
+looptype=1
+framegroup1=1664
+
+[seq_8892]
+framecount=64
+offhand=0
+looptype=1
+framegroup1=1664
 

@@ -24,6 +24,19 @@ hposmode=^setpos_abs_right
 layer=interface_485:2
 
 [interface_485:4]
+type=^iftype_rectangle
+x=1
+y=52
+width=122
+height=23
+hposmode=^setpos_abs_right
+hide=yes
+layer=interface_485:3
+colour=^white
+fill=yes
+trans=129
+
+[interface_485:5]
 type=^iftype_graphic
 x=3
 y=1
@@ -33,7 +46,7 @@ hposmode=^setpos_abs_right
 layer=interface_485:3
 graphic="barbassault_icons,0"
 
-[interface_485:5]
+[interface_485:6]
 type=^iftype_text
 x=24
 y=-9
@@ -47,7 +60,7 @@ font=barbassault_font
 halign=^settextalign_right
 shadowed=yes
 
-[interface_485:6]
+[interface_485:7]
 type=^iftype_graphic
 x=3
 y=28
@@ -57,7 +70,7 @@ hposmode=^setpos_abs_right
 layer=interface_485:3
 graphic="barbassault_icons,1"
 
-[interface_485:7]
+[interface_485:8]
 type=^iftype_text
 x=24
 y=10
@@ -71,7 +84,7 @@ font=barbassault_font
 halign=^settextalign_right
 shadowed=yes
 
-[interface_485:8]
+[interface_485:9]
 type=^iftype_text
 x=24
 y=25
@@ -85,7 +98,7 @@ font=barbassault_font
 halign=^settextalign_right
 shadowed=yes
 
-[interface_485:9]
+[interface_485:10]
 type=^iftype_graphic
 x=3
 y=56
@@ -95,7 +108,7 @@ hposmode=^setpos_abs_right
 layer=interface_485:3
 graphic="barbassault_icons,2"
 
-[interface_485:10]
+[interface_485:11]
 type=^iftype_text
 x=24
 y=45
@@ -109,7 +122,7 @@ font=barbassault_font
 halign=^settextalign_right
 shadowed=yes
 
-[interface_485:11]
+[interface_485:12]
 type=^iftype_graphic
 x=3
 y=75
@@ -119,7 +132,7 @@ hposmode=^setpos_abs_right
 layer=interface_485:3
 graphic="barbassault_icons,5"
 
-[interface_485:12]
+[interface_485:13]
 type=^iftype_text
 x=24
 y=66

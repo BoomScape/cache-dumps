@@ -14,16 +14,16 @@ layer=interface_434:0
 
 [interface_434:2]
 type=^iftype_layer
-width=139
-height=119
+width=133
+height=86
 layer=interface_434:1
 
 [interface_434:3]
 type=^iftype_layer
 x=2
 y=2
-width=135
-height=118
+width=129
+height=82
 layer=interface_434:2
 onload="script991(event_com,-1)"
 
@@ -53,7 +53,7 @@ height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_434:5
-text="Blue Players Waiting"
+text="Players Waiting"
 colour=0xffa53d
 font=p12_full
 halign=^settextalign_centre
@@ -76,10 +76,11 @@ shadowed=yes
 
 [interface_434:8]
 type=^iftype_layer
-y=43
+y=6
 width=4
 height=33
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_434:3
 
@@ -89,7 +90,7 @@ height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_434:8
-text="Red Players Waiting"
+text="Next Game Start"
 colour=0xffa53d
 font=p12_full
 halign=^settextalign_centre
@@ -103,43 +104,6 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_434:8
-text="0"
-colour=0xffa53d
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_434:11]
-type=^iftype_layer
-y=6
-width=4
-height=33
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
-hsizemode=^setsize_minus
-layer=interface_434:3
-
-[interface_434:12]
-type=^iftype_text
-height=16
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_434:11
-text="Next Game Start"
-colour=0xffa53d
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_434:13]
-type=^iftype_text
-height=16
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
-hsizemode=^setsize_minus
-layer=interface_434:11
 text="-"
 colour=0xffa53d
 font=p12_full
