@@ -194066,9 +194066,11 @@ placeholder=yes
 [tangleroot_20661]
 name=Tangleroot
 model=tangleroot_32202
-2dzoom=1872
-2dxan=195
-2dyan=333
+2dzoom=2640
+2dxof=-7
+2dyof=-9
+2dxan=114
+2dyan=117
 members=yes
 placeholder=yes
 
@@ -213739,6 +213741,7 @@ cost=120000
 2dxan=1495
 2dyan=256
 iop2=Wield
+iop3=Dismantle
 members=yes
 stockmarket=yes
 certificate=yes
@@ -213783,6 +213786,7 @@ cost=120000
 2dxan=1463
 2dyan=510
 iop2=Wield
+iop3=Dismantle
 members=yes
 stockmarket=yes
 certificate=yes
@@ -213825,6 +213829,7 @@ cost=120000
 2dxan=400
 2dyan=1020
 iop2=Wield
+iop3=Dismantle
 members=yes
 stockmarket=yes
 certificate=yes
@@ -232052,6 +232057,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_155,5
 
 [inquisitors_hauberk_24420]
 name=Inquisitor's hauberk
@@ -232066,6 +232072,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_155,5
 
 [inquisitors_plateskirt_24421]
 name=Inquisitor's plateskirt
@@ -232080,6 +232087,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_155,5
 
 [nightmare_staff_24422]
 name=Nightmare staff
@@ -233192,8 +233200,8 @@ placeholder=yes
 [placeholder_cake_24550]
 placeholder=yes
 
-[blade_of_saeldor_i_24551]
-name=Blade of saeldor (i)
+[blade_of_saeldor_c_24551]
+name=Blade of saeldor (c)
 model=blade_of_saeldor_37980
 manwear=blade_of_saeldor_38270,0
 womanwear=blade_of_saeldor_38280,0
@@ -233212,11 +233220,11 @@ recol2d=957
 members=yes
 placeholder=yes
 
-[placeholder_blade_of_saeldor_i_24552]
+[placeholder_blade_of_saeldor_c_24552]
 placeholder=yes
 
-[blade_of_saeldor_i_24553]
-name=Blade of saeldor (i)
+[blade_of_saeldor_c_24553]
+name=Blade of saeldor (c)
 model=blade_of_saeldor_37980
 2dzoom=1876
 2dxof=15
@@ -233248,4 +233256,74 @@ recol5s=6682
 recol5d=-32738
 recol6s=6806
 recol6d=-32630
+
+[tangleroot_24555]
+name=Tangleroot
+model=tangleroot_39573
+2dzoom=2768
+2dxof=-7
+2dyof=-17
+2dxan=114
+2dyan=117
+members=yes
+placeholder=yes
+
+[placeholder_tangleroot_24556]
+placeholder=yes
+
+[tangleroot_24557]
+name=Tangleroot
+model=tangleroot_39571
+2dzoom=2640
+2dxof=-7
+2dyof=-9
+2dxan=114
+2dyan=117
+members=yes
+placeholder=yes
+
+[placeholder_tangleroot_24558]
+placeholder=yes
+
+[tangleroot_24559]
+name=Tangleroot
+model=tangleroot_39572
+2dzoom=2384
+2dxof=-7
+2dyof=-9
+2dxan=114
+2dyan=117
+members=yes
+placeholder=yes
+
+[placeholder_tangleroot_24560]
+placeholder=yes
+
+[tangleroot_24561]
+name=Tangleroot
+model=tangleroot_39574
+2dzoom=2768
+2dxof=-7
+2dyof=-9
+2dxan=114
+2dyan=117
+members=yes
+placeholder=yes
+
+[placeholder_tangleroot_24562]
+placeholder=yes
+
+[tangleroot_24563]
+name=Tangleroot
+model=tangleroot_39575
+2dzoom=2640
+2dxof=-7
+2dyof=-9
+2dxan=114
+2dyan=117
+members=yes
+placeholder=yes
+
+[placeholder_tangleroot_24564]
+placeholder=yes
 

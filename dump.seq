@@ -4146,7 +4146,7 @@ offhand=0
 looptype=1
 framegroup1=232
 
-[rid_ready_713]
+[seq_713]
 framecount=19
 priority=6
 mainhand=0
@@ -36545,7 +36545,7 @@ replayoff=8
 looptype=1
 framegroup1=1552
 
-[rabbit_6089]
+[rabbit_ready_6089]
 framecount=35
 replayoff=35
 looptype=1
@@ -52995,11 +52995,6 @@ framecount=16
 looptype=1
 framegroup1=2431
 
-[paws_walk_8637]
-framecount=7
-looptype=1
-framegroup1=2487
-
 [seq_8638]
 framecount=10
 stretches=yes
@@ -53008,24 +53003,12 @@ offhand=1719
 looptype=1
 framegroup1=207
 
-[duke_rabbacio_ready_8639]
-framecount=74
-looptype=1
-framegroup1=2487
-
 [seq_8640]
 framecount=10
 stretches=yes
 priority=6
 looptype=1
 framegroup1=2486
-
-[seq_8641]
-framecount=12
-stretches=yes
-priority=6
-looptype=1
-framegroup1=306
 
 [seq_8642]
 framecount=12

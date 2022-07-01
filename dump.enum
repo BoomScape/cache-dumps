@@ -25234,3 +25234,14 @@ val=0,struct_1265
 val=1,struct_1266
 val=2,struct_1267
 
+[enum_2849]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,tangleroot_20661
+val=1,tangleroot_24555
+val=2,tangleroot_24557
+val=3,tangleroot_24559
+val=4,tangleroot_24561
+val=5,tangleroot_24563
+

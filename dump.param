@@ -29,6 +29,9 @@ default=null
 type=int
 default=2147483647
 
+[param_155]
+type=int
+
 [param_172]
 autodisable=no
 
