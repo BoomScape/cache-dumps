@@ -219,7 +219,7 @@ height=37
 
 [interface_548:29]
 type=^iftype_graphic
-width=249
+width=246
 height=37
 layer=interface_548:28
 graphic="side_background_bottom"
