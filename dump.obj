@@ -234180,7 +234180,7 @@ members=yes
 [vyre_noble_top_unscented_24673]
 name=Vyre noble top (unscented)
 model=vyre_noble_top_unscented_39646
-cost=500
+cost=100
 2dzoom=1221
 2dxof=1
 2dyof=8
@@ -234193,7 +234193,7 @@ members=yes
 [vyre_noble_legs_unscented_24674]
 name=Vyre noble legs (unscented)
 model=vyre_noble_legs_unscented_39662
-cost=500
+cost=100
 2dzoom=1537
 2dxof=4
 2dyof=9
@@ -234206,7 +234206,7 @@ members=yes
 [vyre_noble_shoes_unscented_24675]
 name=Vyre noble shoes (unscented)
 model=vyrewatch_shoes_18025
-cost=500
+cost=100
 2dzoom=848
 2dxof=-1
 2dyof=48
@@ -234221,7 +234221,7 @@ name=Vyre noble top
 model=vyre_noble_top_unscented_39646
 manwear=vyre_noble_top_39743,0
 womanwear=vyre_noble_top_39767,0
-cost=500
+cost=100
 2dzoom=1221
 2dxof=1
 2dyof=8
@@ -234239,7 +234239,7 @@ name=Vyre noble legs
 model=vyre_noble_legs_unscented_39662
 manwear=vyre_noble_legs_39751,0
 womanwear=vyre_noble_legs_39774,0
-cost=500
+cost=100
 2dzoom=1537
 2dxof=4
 2dyof=9
@@ -234257,7 +234257,7 @@ name=Vyre noble shoes
 model=vyrewatch_shoes_18025
 manwear=vyre_noble_shoes_39761,0
 womanwear=vyre_noble_shoes_39783,0
-cost=500
+cost=100
 2dzoom=848
 2dxof=-1
 2dyof=48
@@ -234368,7 +234368,7 @@ ambient=10
 [blisterwood_logs_24691]
 name=Blisterwood logs
 model=logs_7760
-cost=500
+cost=200
 2dzoom=1180
 2dyof=-7
 2dxan=120
@@ -234665,7 +234665,7 @@ model=hallowed_mark_39656
 [hallowed_token_24719]
 name=Hallowed token
 model=hallowed_token_39673
-cost=15
+cost=10
 2dzoom=1176
 2dxof=-1
 2dyof=1
@@ -234799,9 +234799,8 @@ cost=64000
 2dyof=-11
 2dxan=379
 2dyan=1905
-iop2=Wear
+iop2=Activate
 members=yes
-stockmarket=yes
 
 [ring_of_endurance_24736]
 name=Ring of endurance
@@ -235923,5 +235922,26 @@ members=yes
 placeholder=yes
 
 [placeholder_a_taste_of_hope_24843]
+placeholder=yes
+
+[ring_of_endurance_uncharged_24844]
+name=Ring of endurance (uncharged)
+model=ring_of_endurance_uncharged_39668
+cost=64000
+2dzoom=934
+2dxof=-2
+2dyof=-11
+2dxan=379
+2dyan=1905
+iop2=Wear
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_ring_of_endurance_uncharged_24845]
+certificate=yes
+
+[placeholder_ring_of_endurance_uncharged_24846]
 placeholder=yes
 
