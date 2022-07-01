@@ -15,7 +15,6 @@ font=p12_full
 shadowed=yes
 optionmask=1024
 op10="*"
-onop="script88(event_opindex,event_opbase)"
 
 [interface_163:2]
 type=^iftype_text
@@ -28,7 +27,6 @@ font=p12_full
 shadowed=yes
 optionmask=1024
 op10="*"
-onop="script88(event_opindex,event_opbase)"
 
 [interface_163:3]
 type=^iftype_text
@@ -41,7 +39,6 @@ font=p12_full
 shadowed=yes
 optionmask=1024
 op10="*"
-onop="script88(event_opindex,event_opbase)"
 
 [interface_163:4]
 type=^iftype_text
@@ -54,7 +51,6 @@ font=p12_full
 shadowed=yes
 optionmask=1024
 op10="*"
-onop="script88(event_opindex,event_opbase)"
 
 [interface_163:5]
 type=^iftype_text
@@ -67,5 +63,4 @@ font=p12_full
 shadowed=yes
 optionmask=1024
 op10="*"
-onop="script88(event_opindex,event_opbase)"
 

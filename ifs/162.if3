@@ -508,7 +508,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:48]
 type=^iftype_text
@@ -521,7 +520,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:49]
 type=^iftype_text
@@ -534,7 +532,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:50]
 type=^iftype_text
@@ -547,7 +544,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:51]
 type=^iftype_text
@@ -560,7 +556,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:52]
 type=^iftype_text
@@ -573,7 +568,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:53]
 type=^iftype_text
@@ -586,7 +580,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:54]
 type=^iftype_text
@@ -599,7 +592,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:55]
 type=^iftype_text
@@ -612,7 +604,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:56]
 type=^iftype_text
@@ -625,7 +616,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:57]
 type=^iftype_text
@@ -638,7 +628,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:58]
 type=^iftype_text
@@ -651,7 +640,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:59]
 type=^iftype_text
@@ -664,7 +652,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:60]
 type=^iftype_text
@@ -677,7 +664,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:61]
 type=^iftype_text
@@ -690,7 +676,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:62]
 type=^iftype_text
@@ -703,7 +688,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:63]
 type=^iftype_text
@@ -716,7 +700,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:64]
 type=^iftype_text
@@ -729,7 +712,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:65]
 type=^iftype_text
@@ -742,7 +724,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:66]
 type=^iftype_text
@@ -755,7 +736,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:67]
 type=^iftype_text
@@ -768,7 +748,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:68]
 type=^iftype_text
@@ -781,7 +760,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:69]
 type=^iftype_text
@@ -794,7 +772,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:70]
 type=^iftype_text
@@ -807,7 +784,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:71]
 type=^iftype_text
@@ -820,7 +796,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:72]
 type=^iftype_text
@@ -833,7 +808,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:73]
 type=^iftype_text
@@ -846,7 +820,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:74]
 type=^iftype_text
@@ -859,7 +832,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:75]
 type=^iftype_text
@@ -872,7 +844,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:76]
 type=^iftype_text
@@ -885,7 +856,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:77]
 type=^iftype_text
@@ -898,7 +868,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:78]
 type=^iftype_text
@@ -911,7 +880,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:79]
 type=^iftype_text
@@ -924,7 +892,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:80]
 type=^iftype_text
@@ -937,7 +904,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:81]
 type=^iftype_text
@@ -950,7 +916,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:82]
 type=^iftype_text
@@ -963,7 +928,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:83]
 type=^iftype_text
@@ -976,7 +940,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:84]
 type=^iftype_text
@@ -989,7 +952,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:85]
 type=^iftype_text
@@ -1002,7 +964,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:86]
 type=^iftype_text
@@ -1015,7 +976,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:87]
 type=^iftype_text
@@ -1028,7 +988,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:88]
 type=^iftype_text
@@ -1041,7 +1000,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:89]
 type=^iftype_text
@@ -1054,7 +1012,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:90]
 type=^iftype_text
@@ -1067,7 +1024,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:91]
 type=^iftype_text
@@ -1080,7 +1036,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:92]
 type=^iftype_text
@@ -1093,7 +1048,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:93]
 type=^iftype_text
@@ -1106,7 +1060,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:94]
 type=^iftype_text
@@ -1119,7 +1072,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:95]
 type=^iftype_text
@@ -1132,7 +1084,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:96]
 type=^iftype_text
@@ -1145,7 +1096,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:97]
 type=^iftype_text
@@ -1158,7 +1108,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:98]
 type=^iftype_text
@@ -1171,7 +1120,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:99]
 type=^iftype_text
@@ -1184,7 +1132,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:100]
 type=^iftype_text
@@ -1197,7 +1144,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:101]
 type=^iftype_text
@@ -1210,7 +1156,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:102]
 type=^iftype_text
@@ -1223,7 +1168,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:103]
 type=^iftype_text
@@ -1236,7 +1180,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:104]
 type=^iftype_text
@@ -1249,7 +1192,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:105]
 type=^iftype_text
@@ -1262,7 +1204,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:106]
 type=^iftype_text
@@ -1275,7 +1216,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:107]
 type=^iftype_text
@@ -1288,7 +1228,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:108]
 type=^iftype_text
@@ -1301,7 +1240,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:109]
 type=^iftype_text
@@ -1314,7 +1252,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:110]
 type=^iftype_text
@@ -1327,7 +1264,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:111]
 type=^iftype_text
@@ -1340,7 +1276,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:112]
 type=^iftype_text
@@ -1353,7 +1288,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:113]
 type=^iftype_text
@@ -1366,7 +1300,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:114]
 type=^iftype_text
@@ -1379,7 +1312,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:115]
 type=^iftype_text
@@ -1392,7 +1324,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:116]
 type=^iftype_text
@@ -1405,7 +1336,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:117]
 type=^iftype_text
@@ -1418,7 +1348,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:118]
 type=^iftype_text
@@ -1431,7 +1360,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:119]
 type=^iftype_text
@@ -1444,7 +1372,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:120]
 type=^iftype_text
@@ -1457,7 +1384,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:121]
 type=^iftype_text
@@ -1470,7 +1396,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:122]
 type=^iftype_text
@@ -1483,7 +1408,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:123]
 type=^iftype_text
@@ -1496,7 +1420,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:124]
 type=^iftype_text
@@ -1509,7 +1432,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:125]
 type=^iftype_text
@@ -1522,7 +1444,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:126]
 type=^iftype_text
@@ -1535,7 +1456,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:127]
 type=^iftype_text
@@ -1548,7 +1468,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:128]
 type=^iftype_text
@@ -1561,7 +1480,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:129]
 type=^iftype_text
@@ -1574,7 +1492,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:130]
 type=^iftype_text
@@ -1587,7 +1504,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:131]
 type=^iftype_text
@@ -1600,7 +1516,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:132]
 type=^iftype_text
@@ -1613,7 +1528,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:133]
 type=^iftype_text
@@ -1626,7 +1540,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:134]
 type=^iftype_text
@@ -1639,7 +1552,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:135]
 type=^iftype_text
@@ -1652,7 +1564,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:136]
 type=^iftype_text
@@ -1665,7 +1576,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:137]
 type=^iftype_text
@@ -1678,7 +1588,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:138]
 type=^iftype_text
@@ -1691,7 +1600,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:139]
 type=^iftype_text
@@ -1704,7 +1612,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:140]
 type=^iftype_text
@@ -1717,7 +1624,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:141]
 type=^iftype_text
@@ -1730,7 +1636,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:142]
 type=^iftype_text
@@ -1743,7 +1648,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:143]
 type=^iftype_text
@@ -1756,7 +1660,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:144]
 type=^iftype_text
@@ -1769,7 +1672,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:145]
 type=^iftype_text
@@ -1782,7 +1684,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:146]
 type=^iftype_text
@@ -1795,7 +1696,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:147]
 type=^iftype_text
@@ -1808,7 +1708,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:148]
 type=^iftype_text
@@ -1821,7 +1720,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:149]
 type=^iftype_text
@@ -1834,7 +1732,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:150]
 type=^iftype_text
@@ -1847,7 +1744,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:151]
 type=^iftype_text
@@ -1860,7 +1756,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:152]
 type=^iftype_text
@@ -1873,7 +1768,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:153]
 type=^iftype_text
@@ -1886,7 +1780,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:154]
 type=^iftype_text
@@ -1899,7 +1792,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:155]
 type=^iftype_text
@@ -1912,7 +1804,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:156]
 type=^iftype_text
@@ -1925,7 +1816,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:157]
 type=^iftype_text
@@ -1938,7 +1828,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:158]
 type=^iftype_text
@@ -1951,7 +1840,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:159]
 type=^iftype_text
@@ -1964,7 +1852,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:160]
 type=^iftype_text
@@ -1977,7 +1864,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:161]
 type=^iftype_text
@@ -1990,7 +1876,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:162]
 type=^iftype_text
@@ -2003,7 +1888,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:163]
 type=^iftype_text
@@ -2016,7 +1900,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:164]
 type=^iftype_text
@@ -2029,7 +1912,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:165]
 type=^iftype_text
@@ -2042,7 +1924,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:166]
 type=^iftype_text
@@ -2055,7 +1936,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:167]
 type=^iftype_text
@@ -2068,7 +1948,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:168]
 type=^iftype_text
@@ -2081,7 +1960,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:169]
 type=^iftype_text
@@ -2094,7 +1972,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:170]
 type=^iftype_text
@@ -2107,7 +1984,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:171]
 type=^iftype_text
@@ -2120,7 +1996,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:172]
 type=^iftype_text
@@ -2133,7 +2008,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:173]
 type=^iftype_text
@@ -2146,7 +2020,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:174]
 type=^iftype_text
@@ -2159,7 +2032,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:175]
 type=^iftype_text
@@ -2172,7 +2044,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:176]
 type=^iftype_text
@@ -2185,7 +2056,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:177]
 type=^iftype_text
@@ -2198,7 +2068,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:178]
 type=^iftype_text
@@ -2211,7 +2080,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:179]
 type=^iftype_text
@@ -2224,7 +2092,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:180]
 type=^iftype_text
@@ -2237,7 +2104,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:181]
 type=^iftype_text
@@ -2250,7 +2116,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:182]
 type=^iftype_text
@@ -2263,7 +2128,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:183]
 type=^iftype_text
@@ -2276,7 +2140,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:184]
 type=^iftype_text
@@ -2289,7 +2152,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:185]
 type=^iftype_text
@@ -2302,7 +2164,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:186]
 type=^iftype_text
@@ -2315,7 +2176,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:187]
 type=^iftype_text
@@ -2328,7 +2188,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:188]
 type=^iftype_text
@@ -2341,7 +2200,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:189]
 type=^iftype_text
@@ -2354,7 +2212,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:190]
 type=^iftype_text
@@ -2367,7 +2224,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:191]
 type=^iftype_text
@@ -2380,7 +2236,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:192]
 type=^iftype_text
@@ -2393,7 +2248,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:193]
 type=^iftype_text
@@ -2406,7 +2260,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:194]
 type=^iftype_text
@@ -2419,7 +2272,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:195]
 type=^iftype_text
@@ -2432,7 +2284,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:196]
 type=^iftype_text
@@ -2445,7 +2296,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:197]
 type=^iftype_text
@@ -2458,7 +2308,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:198]
 type=^iftype_text
@@ -2471,7 +2320,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:199]
 type=^iftype_text
@@ -2484,7 +2332,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:200]
 type=^iftype_text
@@ -2497,7 +2344,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:201]
 type=^iftype_text
@@ -2510,7 +2356,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:202]
 type=^iftype_text
@@ -2523,7 +2368,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:203]
 type=^iftype_text
@@ -2536,7 +2380,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:204]
 type=^iftype_text
@@ -2549,7 +2392,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:205]
 type=^iftype_text
@@ -2562,7 +2404,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:206]
 type=^iftype_text
@@ -2575,7 +2416,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:207]
 type=^iftype_text
@@ -2588,7 +2428,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:208]
 type=^iftype_text
@@ -2601,7 +2440,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:209]
 type=^iftype_text
@@ -2614,7 +2452,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:210]
 type=^iftype_text
@@ -2627,7 +2464,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:211]
 type=^iftype_text
@@ -2640,7 +2476,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:212]
 type=^iftype_text
@@ -2653,7 +2488,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:213]
 type=^iftype_text
@@ -2666,7 +2500,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:214]
 type=^iftype_text
@@ -2679,7 +2512,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:215]
 type=^iftype_text
@@ -2692,7 +2524,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:216]
 type=^iftype_text
@@ -2705,7 +2536,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:217]
 type=^iftype_text
@@ -2718,7 +2548,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:218]
 type=^iftype_text
@@ -2731,7 +2560,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:219]
 type=^iftype_text
@@ -2744,7 +2572,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:220]
 type=^iftype_text
@@ -2757,7 +2584,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:221]
 type=^iftype_text
@@ -2770,7 +2596,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:222]
 type=^iftype_text
@@ -2783,7 +2608,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:223]
 type=^iftype_text
@@ -2796,7 +2620,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:224]
 type=^iftype_text
@@ -2809,7 +2632,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:225]
 type=^iftype_text
@@ -2822,7 +2644,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:226]
 type=^iftype_text
@@ -2835,7 +2656,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:227]
 type=^iftype_text
@@ -2848,7 +2668,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:228]
 type=^iftype_text
@@ -2861,7 +2680,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:229]
 type=^iftype_text
@@ -2874,7 +2692,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:230]
 type=^iftype_text
@@ -2887,7 +2704,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:231]
 type=^iftype_text
@@ -2900,7 +2716,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:232]
 type=^iftype_text
@@ -2913,7 +2728,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:233]
 type=^iftype_text
@@ -2926,7 +2740,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:234]
 type=^iftype_text
@@ -2939,7 +2752,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:235]
 type=^iftype_text
@@ -2952,7 +2764,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:236]
 type=^iftype_text
@@ -2965,7 +2776,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:237]
 type=^iftype_text
@@ -2978,7 +2788,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:238]
 type=^iftype_text
@@ -2991,7 +2800,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:239]
 type=^iftype_text
@@ -3004,7 +2812,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:240]
 type=^iftype_text
@@ -3017,7 +2824,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:241]
 type=^iftype_text
@@ -3030,7 +2836,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:242]
 type=^iftype_text
@@ -3043,7 +2848,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:243]
 type=^iftype_text
@@ -3056,7 +2860,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:244]
 type=^iftype_text
@@ -3069,7 +2872,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:245]
 type=^iftype_text
@@ -3082,7 +2884,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:246]
 type=^iftype_text
@@ -3095,7 +2896,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:247]
 type=^iftype_text
@@ -3108,7 +2908,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:248]
 type=^iftype_text
@@ -3121,7 +2920,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:249]
 type=^iftype_text
@@ -3134,7 +2932,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:250]
 type=^iftype_text
@@ -3147,7 +2944,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:251]
 type=^iftype_text
@@ -3160,7 +2956,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:252]
 type=^iftype_text
@@ -3173,7 +2968,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:253]
 type=^iftype_text
@@ -3186,7 +2980,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:254]
 type=^iftype_text
@@ -3199,7 +2992,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:255]
 type=^iftype_text
@@ -3212,7 +3004,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:256]
 type=^iftype_text
@@ -3225,7 +3016,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:257]
 type=^iftype_text
@@ -3238,7 +3028,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:258]
 type=^iftype_text
@@ -3251,7 +3040,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:259]
 type=^iftype_text
@@ -3264,7 +3052,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:260]
 type=^iftype_text
@@ -3277,7 +3064,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:261]
 type=^iftype_text
@@ -3290,7 +3076,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:262]
 type=^iftype_text
@@ -3303,7 +3088,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:263]
 type=^iftype_text
@@ -3316,7 +3100,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:264]
 type=^iftype_text
@@ -3329,7 +3112,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:265]
 type=^iftype_text
@@ -3342,7 +3124,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:266]
 type=^iftype_text
@@ -3355,7 +3136,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:267]
 type=^iftype_text
@@ -3368,7 +3148,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:268]
 type=^iftype_text
@@ -3381,7 +3160,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:269]
 type=^iftype_text
@@ -3394,7 +3172,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:270]
 type=^iftype_text
@@ -3407,7 +3184,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:271]
 type=^iftype_text
@@ -3420,7 +3196,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:272]
 type=^iftype_text
@@ -3433,7 +3208,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:273]
 type=^iftype_text
@@ -3446,7 +3220,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:274]
 type=^iftype_text
@@ -3459,7 +3232,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:275]
 type=^iftype_text
@@ -3472,7 +3244,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:276]
 type=^iftype_text
@@ -3485,7 +3256,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:277]
 type=^iftype_text
@@ -3498,7 +3268,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:278]
 type=^iftype_text
@@ -3511,7 +3280,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:279]
 type=^iftype_text
@@ -3524,7 +3292,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:280]
 type=^iftype_text
@@ -3537,7 +3304,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:281]
 type=^iftype_text
@@ -3550,7 +3316,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:282]
 type=^iftype_text
@@ -3563,7 +3328,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:283]
 type=^iftype_text
@@ -3576,7 +3340,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:284]
 type=^iftype_text
@@ -3589,7 +3352,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:285]
 type=^iftype_text
@@ -3602,7 +3364,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:286]
 type=^iftype_text
@@ -3615,7 +3376,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:287]
 type=^iftype_text
@@ -3628,7 +3388,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:288]
 type=^iftype_text
@@ -3641,7 +3400,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:289]
 type=^iftype_text
@@ -3654,7 +3412,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:290]
 type=^iftype_text
@@ -3667,7 +3424,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:291]
 type=^iftype_text
@@ -3680,7 +3436,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:292]
 type=^iftype_text
@@ -3693,7 +3448,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:293]
 type=^iftype_text
@@ -3706,7 +3460,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:294]
 type=^iftype_text
@@ -3719,7 +3472,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:295]
 type=^iftype_text
@@ -3732,7 +3484,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:296]
 type=^iftype_text
@@ -3745,7 +3496,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:297]
 type=^iftype_text
@@ -3758,7 +3508,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:298]
 type=^iftype_text
@@ -3771,7 +3520,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:299]
 type=^iftype_text
@@ -3784,7 +3532,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:300]
 type=^iftype_text
@@ -3797,7 +3544,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:301]
 type=^iftype_text
@@ -3810,7 +3556,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:302]
 type=^iftype_text
@@ -3823,7 +3568,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:303]
 type=^iftype_text
@@ -3836,7 +3580,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:304]
 type=^iftype_text
@@ -3849,7 +3592,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:305]
 type=^iftype_text
@@ -3862,7 +3604,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:306]
 type=^iftype_text
@@ -3875,7 +3616,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:307]
 type=^iftype_text
@@ -3888,7 +3628,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:308]
 type=^iftype_text
@@ -3901,7 +3640,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:309]
 type=^iftype_text
@@ -3914,7 +3652,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:310]
 type=^iftype_text
@@ -3927,7 +3664,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:311]
 type=^iftype_text
@@ -3940,7 +3676,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:312]
 type=^iftype_text
@@ -3953,7 +3688,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:313]
 type=^iftype_text
@@ -3966,7 +3700,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:314]
 type=^iftype_text
@@ -3979,7 +3712,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:315]
 type=^iftype_text
@@ -3992,7 +3724,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:316]
 type=^iftype_text
@@ -4005,7 +3736,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:317]
 type=^iftype_text
@@ -4018,7 +3748,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:318]
 type=^iftype_text
@@ -4031,7 +3760,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:319]
 type=^iftype_text
@@ -4044,7 +3772,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:320]
 type=^iftype_text
@@ -4057,7 +3784,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:321]
 type=^iftype_text
@@ -4070,7 +3796,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:322]
 type=^iftype_text
@@ -4083,7 +3808,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:323]
 type=^iftype_text
@@ -4096,7 +3820,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:324]
 type=^iftype_text
@@ -4109,7 +3832,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:325]
 type=^iftype_text
@@ -4122,7 +3844,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:326]
 type=^iftype_text
@@ -4135,7 +3856,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:327]
 type=^iftype_text
@@ -4148,7 +3868,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:328]
 type=^iftype_text
@@ -4161,7 +3880,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:329]
 type=^iftype_text
@@ -4174,7 +3892,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:330]
 type=^iftype_text
@@ -4187,7 +3904,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:331]
 type=^iftype_text
@@ -4200,7 +3916,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:332]
 type=^iftype_text
@@ -4213,7 +3928,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:333]
 type=^iftype_text
@@ -4226,7 +3940,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:334]
 type=^iftype_text
@@ -4239,7 +3952,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:335]
 type=^iftype_text
@@ -4252,7 +3964,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:336]
 type=^iftype_text
@@ -4265,7 +3976,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:337]
 type=^iftype_text
@@ -4278,7 +3988,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:338]
 type=^iftype_text
@@ -4291,7 +4000,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:339]
 type=^iftype_text
@@ -4304,7 +4012,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:340]
 type=^iftype_text
@@ -4317,7 +4024,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:341]
 type=^iftype_text
@@ -4330,7 +4036,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:342]
 type=^iftype_text
@@ -4343,7 +4048,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:343]
 type=^iftype_text
@@ -4356,7 +4060,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:344]
 type=^iftype_text
@@ -4369,7 +4072,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:345]
 type=^iftype_text
@@ -4382,7 +4084,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:346]
 type=^iftype_text
@@ -4395,7 +4096,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:347]
 type=^iftype_text
@@ -4408,7 +4108,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:348]
 type=^iftype_text
@@ -4421,7 +4120,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:349]
 type=^iftype_text
@@ -4434,7 +4132,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:350]
 type=^iftype_text
@@ -4447,7 +4144,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:351]
 type=^iftype_text
@@ -4460,7 +4156,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:352]
 type=^iftype_text
@@ -4473,7 +4168,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:353]
 type=^iftype_text
@@ -4486,7 +4180,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:354]
 type=^iftype_text
@@ -4499,7 +4192,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:355]
 type=^iftype_text
@@ -4512,7 +4204,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:356]
 type=^iftype_text
@@ -4525,7 +4216,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:357]
 type=^iftype_text
@@ -4538,7 +4228,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:358]
 type=^iftype_text
@@ -4551,7 +4240,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:359]
 type=^iftype_text
@@ -4564,7 +4252,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:360]
 type=^iftype_text
@@ -4577,7 +4264,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:361]
 type=^iftype_text
@@ -4590,7 +4276,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:362]
 type=^iftype_text
@@ -4603,7 +4288,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:363]
 type=^iftype_text
@@ -4616,7 +4300,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:364]
 type=^iftype_text
@@ -4629,7 +4312,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:365]
 type=^iftype_text
@@ -4642,7 +4324,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:366]
 type=^iftype_text
@@ -4655,7 +4336,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:367]
 type=^iftype_text
@@ -4668,7 +4348,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:368]
 type=^iftype_text
@@ -4681,7 +4360,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:369]
 type=^iftype_text
@@ -4694,7 +4372,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:370]
 type=^iftype_text
@@ -4707,7 +4384,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:371]
 type=^iftype_text
@@ -4720,7 +4396,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:372]
 type=^iftype_text
@@ -4733,7 +4408,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:373]
 type=^iftype_text
@@ -4746,7 +4420,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:374]
 type=^iftype_text
@@ -4759,7 +4432,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:375]
 type=^iftype_text
@@ -4772,7 +4444,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:376]
 type=^iftype_text
@@ -4785,7 +4456,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:377]
 type=^iftype_text
@@ -4798,7 +4468,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:378]
 type=^iftype_text
@@ -4811,7 +4480,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:379]
 type=^iftype_text
@@ -4824,7 +4492,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:380]
 type=^iftype_text
@@ -4837,7 +4504,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:381]
 type=^iftype_text
@@ -4850,7 +4516,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:382]
 type=^iftype_text
@@ -4863,7 +4528,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:383]
 type=^iftype_text
@@ -4876,7 +4540,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:384]
 type=^iftype_text
@@ -4889,7 +4552,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:385]
 type=^iftype_text
@@ -4902,7 +4564,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:386]
 type=^iftype_text
@@ -4915,7 +4576,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:387]
 type=^iftype_text
@@ -4928,7 +4588,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:388]
 type=^iftype_text
@@ -4941,7 +4600,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:389]
 type=^iftype_text
@@ -4954,7 +4612,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:390]
 type=^iftype_text
@@ -4967,7 +4624,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:391]
 type=^iftype_text
@@ -4980,7 +4636,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:392]
 type=^iftype_text
@@ -4993,7 +4648,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:393]
 type=^iftype_text
@@ -5006,7 +4660,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:394]
 type=^iftype_text
@@ -5019,7 +4672,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:395]
 type=^iftype_text
@@ -5032,7 +4684,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:396]
 type=^iftype_text
@@ -5045,7 +4696,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:397]
 type=^iftype_text
@@ -5058,7 +4708,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:398]
 type=^iftype_text
@@ -5071,7 +4720,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:399]
 type=^iftype_text
@@ -5084,7 +4732,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:400]
 type=^iftype_text
@@ -5097,7 +4744,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:401]
 type=^iftype_text
@@ -5110,7 +4756,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:402]
 type=^iftype_text
@@ -5123,7 +4768,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:403]
 type=^iftype_text
@@ -5136,7 +4780,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:404]
 type=^iftype_text
@@ -5149,7 +4792,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:405]
 type=^iftype_text
@@ -5162,7 +4804,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:406]
 type=^iftype_text
@@ -5175,7 +4816,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:407]
 type=^iftype_text
@@ -5188,7 +4828,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:408]
 type=^iftype_text
@@ -5201,7 +4840,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:409]
 type=^iftype_text
@@ -5214,7 +4852,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:410]
 type=^iftype_text
@@ -5227,7 +4864,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:411]
 type=^iftype_text
@@ -5240,7 +4876,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:412]
 type=^iftype_text
@@ -5253,7 +4888,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:413]
 type=^iftype_text
@@ -5266,7 +4900,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:414]
 type=^iftype_text
@@ -5279,7 +4912,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:415]
 type=^iftype_text
@@ -5292,7 +4924,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:416]
 type=^iftype_text
@@ -5305,7 +4936,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:417]
 type=^iftype_text
@@ -5318,7 +4948,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:418]
 type=^iftype_text
@@ -5331,7 +4960,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:419]
 type=^iftype_text
@@ -5344,7 +4972,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:420]
 type=^iftype_text
@@ -5357,7 +4984,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:421]
 type=^iftype_text
@@ -5370,7 +4996,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:422]
 type=^iftype_text
@@ -5383,7 +5008,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:423]
 type=^iftype_text
@@ -5396,7 +5020,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:424]
 type=^iftype_text
@@ -5409,7 +5032,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:425]
 type=^iftype_text
@@ -5422,7 +5044,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:426]
 type=^iftype_text
@@ -5435,7 +5056,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:427]
 type=^iftype_text
@@ -5448,7 +5068,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:428]
 type=^iftype_text
@@ -5461,7 +5080,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:429]
 type=^iftype_text
@@ -5474,7 +5092,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:430]
 type=^iftype_text
@@ -5487,7 +5104,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:431]
 type=^iftype_text
@@ -5500,7 +5116,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:432]
 type=^iftype_text
@@ -5513,7 +5128,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:433]
 type=^iftype_text
@@ -5526,7 +5140,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:434]
 type=^iftype_text
@@ -5539,7 +5152,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:435]
 type=^iftype_text
@@ -5552,7 +5164,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:436]
 type=^iftype_text
@@ -5565,7 +5176,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:437]
 type=^iftype_text
@@ -5578,7 +5188,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:438]
 type=^iftype_text
@@ -5591,7 +5200,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:439]
 type=^iftype_text
@@ -5604,7 +5212,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:440]
 type=^iftype_text
@@ -5617,7 +5224,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:441]
 type=^iftype_text
@@ -5630,7 +5236,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:442]
 type=^iftype_text
@@ -5643,7 +5248,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:443]
 type=^iftype_text
@@ -5656,7 +5260,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:444]
 type=^iftype_text
@@ -5669,7 +5272,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:445]
 type=^iftype_text
@@ -5682,7 +5284,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:446]
 type=^iftype_text
@@ -5695,7 +5296,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:447]
 type=^iftype_text
@@ -5708,7 +5308,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:448]
 type=^iftype_text
@@ -5721,7 +5320,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:449]
 type=^iftype_text
@@ -5734,7 +5332,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:450]
 type=^iftype_text
@@ -5747,7 +5344,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:451]
 type=^iftype_text
@@ -5760,7 +5356,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:452]
 type=^iftype_text
@@ -5773,7 +5368,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:453]
 type=^iftype_text
@@ -5786,7 +5380,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:454]
 type=^iftype_text
@@ -5799,7 +5392,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:455]
 type=^iftype_text
@@ -5812,7 +5404,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:456]
 type=^iftype_text
@@ -5825,7 +5416,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:457]
 type=^iftype_text
@@ -5838,7 +5428,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:458]
 type=^iftype_text
@@ -5851,7 +5440,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:459]
 type=^iftype_text
@@ -5864,7 +5452,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:460]
 type=^iftype_text
@@ -5877,7 +5464,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:461]
 type=^iftype_text
@@ -5890,7 +5476,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:462]
 type=^iftype_text
@@ -5903,7 +5488,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:463]
 type=^iftype_text
@@ -5916,7 +5500,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:464]
 type=^iftype_text
@@ -5929,7 +5512,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:465]
 type=^iftype_text
@@ -5942,7 +5524,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:466]
 type=^iftype_text
@@ -5955,7 +5536,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:467]
 type=^iftype_text
@@ -5968,7 +5548,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:468]
 type=^iftype_text
@@ -5981,7 +5560,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:469]
 type=^iftype_text
@@ -5994,7 +5572,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:470]
 type=^iftype_text
@@ -6007,7 +5584,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:471]
 type=^iftype_text
@@ -6020,7 +5596,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:472]
 type=^iftype_text
@@ -6033,7 +5608,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:473]
 type=^iftype_text
@@ -6046,7 +5620,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:474]
 type=^iftype_text
@@ -6059,7 +5632,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:475]
 type=^iftype_text
@@ -6072,7 +5644,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:476]
 type=^iftype_text
@@ -6085,7 +5656,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:477]
 type=^iftype_text
@@ -6098,7 +5668,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:478]
 type=^iftype_text
@@ -6111,7 +5680,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:479]
 type=^iftype_text
@@ -6124,7 +5692,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:480]
 type=^iftype_text
@@ -6137,7 +5704,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:481]
 type=^iftype_text
@@ -6150,7 +5716,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:482]
 type=^iftype_text
@@ -6163,7 +5728,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:483]
 type=^iftype_text
@@ -6176,7 +5740,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:484]
 type=^iftype_text
@@ -6189,7 +5752,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:485]
 type=^iftype_text
@@ -6202,7 +5764,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:486]
 type=^iftype_text
@@ -6215,7 +5776,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:487]
 type=^iftype_text
@@ -6228,7 +5788,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:488]
 type=^iftype_text
@@ -6241,7 +5800,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:489]
 type=^iftype_text
@@ -6254,7 +5812,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:490]
 type=^iftype_text
@@ -6267,7 +5824,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:491]
 type=^iftype_text
@@ -6280,7 +5836,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:492]
 type=^iftype_text
@@ -6293,7 +5848,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:493]
 type=^iftype_text
@@ -6306,7 +5860,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:494]
 type=^iftype_text
@@ -6319,7 +5872,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:495]
 type=^iftype_text
@@ -6332,7 +5884,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:496]
 type=^iftype_text
@@ -6345,7 +5896,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:497]
 type=^iftype_text
@@ -6358,7 +5908,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:498]
 type=^iftype_text
@@ -6371,7 +5920,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:499]
 type=^iftype_text
@@ -6384,7 +5932,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:500]
 type=^iftype_text
@@ -6397,7 +5944,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:501]
 type=^iftype_text
@@ -6410,7 +5956,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:502]
 type=^iftype_text
@@ -6423,7 +5968,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:503]
 type=^iftype_text
@@ -6436,7 +5980,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:504]
 type=^iftype_text
@@ -6449,7 +5992,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:505]
 type=^iftype_text
@@ -6462,7 +6004,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:506]
 type=^iftype_text
@@ -6475,7 +6016,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:507]
 type=^iftype_text
@@ -6488,7 +6028,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:508]
 type=^iftype_text
@@ -6501,7 +6040,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:509]
 type=^iftype_text
@@ -6514,7 +6052,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:510]
 type=^iftype_text
@@ -6527,7 +6064,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:511]
 type=^iftype_text
@@ -6540,7 +6076,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:512]
 type=^iftype_text
@@ -6553,7 +6088,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:513]
 type=^iftype_text
@@ -6566,7 +6100,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:514]
 type=^iftype_text
@@ -6579,7 +6112,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:515]
 type=^iftype_text
@@ -6592,7 +6124,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:516]
 type=^iftype_text
@@ -6605,7 +6136,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:517]
 type=^iftype_text
@@ -6618,7 +6148,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:518]
 type=^iftype_text
@@ -6631,7 +6160,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:519]
 type=^iftype_text
@@ -6644,7 +6172,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:520]
 type=^iftype_text
@@ -6657,7 +6184,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:521]
 type=^iftype_text
@@ -6670,7 +6196,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:522]
 type=^iftype_text
@@ -6683,7 +6208,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:523]
 type=^iftype_text
@@ -6696,7 +6220,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:524]
 type=^iftype_text
@@ -6709,7 +6232,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:525]
 type=^iftype_text
@@ -6722,7 +6244,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:526]
 type=^iftype_text
@@ -6735,7 +6256,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:527]
 type=^iftype_text
@@ -6748,7 +6268,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:528]
 type=^iftype_text
@@ -6761,7 +6280,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:529]
 type=^iftype_text
@@ -6774,7 +6292,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:530]
 type=^iftype_text
@@ -6787,7 +6304,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:531]
 type=^iftype_text
@@ -6800,7 +6316,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:532]
 type=^iftype_text
@@ -6813,7 +6328,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:533]
 type=^iftype_text
@@ -6826,7 +6340,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:534]
 type=^iftype_text
@@ -6839,7 +6352,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:535]
 type=^iftype_text
@@ -6852,7 +6364,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:536]
 type=^iftype_text
@@ -6865,7 +6376,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:537]
 type=^iftype_text
@@ -6878,7 +6388,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:538]
 type=^iftype_text
@@ -6891,7 +6400,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:539]
 type=^iftype_text
@@ -6904,7 +6412,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:540]
 type=^iftype_text
@@ -6917,7 +6424,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:541]
 type=^iftype_text
@@ -6930,7 +6436,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:542]
 type=^iftype_text
@@ -6943,7 +6448,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:543]
 type=^iftype_text
@@ -6956,7 +6460,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:544]
 type=^iftype_text
@@ -6969,7 +6472,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:545]
 type=^iftype_text
@@ -6982,7 +6484,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:546]
 type=^iftype_text
@@ -6995,7 +6496,6 @@ layer=interface_162:46
 font=p12_full
 optionmask=256
 op8="*"
-onop="script86(event_opindex,event_opbase)"
 
 [interface_162:547]
 type=^iftype_layer

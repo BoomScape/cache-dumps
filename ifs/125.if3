@@ -1,10 +1,10 @@
 [interface_125:0]
 type=^iftype_layer
-width=422
-height=250
+width=400
+height=232
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script1055(event_com,8192003,8192004,8192005,8192006,8192007,8192008,8192009,8192010,8192011,8192012)"
+onload="script1055(event_com,8192003,8192004,8192005,8192006,8192007,8192008,8192009,8192010,8192011,8192012,8192013)"
 
 [interface_125:1]
 type=^iftype_layer
@@ -17,16 +17,19 @@ onload="script227(event_com,Amazing Farming Equipment Store)"
 
 [interface_125:2]
 type=^iftype_layer
-y=40
-width=400
-height=192
+y=10
+width=20
+height=50
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_125:0
 
 [interface_125:3]
 type=^iftype_layer
-width=100
-height=64
+width=95
+height=60
 layer=interface_125:2
 optionmask=1026
 op1="Remove"
@@ -34,9 +37,9 @@ op10="Examine"
 
 [interface_125:4]
 type=^iftype_layer
-x=100
-width=100
-height=64
+x=95
+width=95
+height=60
 layer=interface_125:2
 optionmask=1026
 op1="Remove"
@@ -44,9 +47,9 @@ op10="Examine"
 
 [interface_125:5]
 type=^iftype_layer
-x=100
-width=100
-height=64
+x=95
+width=95
+height=60
 hposmode=^setpos_abs_right
 layer=interface_125:2
 optionmask=1026
@@ -55,10 +58,9 @@ op10="Examine"
 
 [interface_125:6]
 type=^iftype_layer
-width=100
-height=128
+width=95
+height=60
 hposmode=^setpos_abs_right
-vsizemode=^setsize_minus
 layer=interface_125:2
 optionmask=1026
 op1="Remove"
@@ -66,10 +68,10 @@ op10="Examine"
 
 [interface_125:7]
 type=^iftype_layer
+x=30
 width=100
-height=128
+height=60
 vposmode=^setpos_abs_centre
-vsizemode=^setsize_minus
 layer=interface_125:2
 optionmask=1026
 op1="Remove"
@@ -77,11 +79,10 @@ op10="Examine"
 
 [interface_125:8]
 type=^iftype_layer
-x=100
-width=100
-height=128
+width=105
+height=60
+hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-vsizemode=^setsize_minus
 layer=interface_125:2
 optionmask=1026
 op1="Remove"
@@ -89,9 +90,9 @@ op10="Examine"
 
 [interface_125:9]
 type=^iftype_layer
-x=100
+x=30
 width=100
-height=64
+height=60
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_125:2
@@ -104,10 +105,9 @@ op10="Examine"
 
 [interface_125:10]
 type=^iftype_layer
-width=100
-height=64
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_centre
+width=95
+height=60
+vposmode=^setpos_abs_bottom
 layer=interface_125:2
 optionmask=1054
 op1="Remove-1"
@@ -118,8 +118,9 @@ op10="Examine"
 
 [interface_125:11]
 type=^iftype_layer
-width=100
-height=64
+x=95
+width=95
+height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
 optionmask=1054
@@ -131,9 +132,24 @@ op10="Examine"
 
 [interface_125:12]
 type=^iftype_layer
-x=100
-width=100
-height=64
+x=95
+width=95
+height=60
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_125:2
+optionmask=1054
+op1="Remove-1"
+op2="Remove-5"
+op3="Remove-All"
+op4="Remove-X"
+op10="Examine"
+
+[interface_125:13]
+type=^iftype_layer
+width=95
+height=60
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
 optionmask=1054

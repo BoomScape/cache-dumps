@@ -67548,8 +67548,8 @@ placeholder=yes
 [cert_chefs_delight_m4_5914]
 certificate=yes
 
-[slayer_respite_m1_5915]
-name=Slayer respite(m1)
+[slayers_respite_m1_5915]
+name=Slayer's respite(m1)
 model=calquat_keg_7190
 2dzoom=1190
 2dyof=6
@@ -67560,11 +67560,11 @@ members=yes
 ambient=15
 certificate=yes
 
-[cert_slayer_respite_m1_5916]
+[cert_slayers_respite_m1_5916]
 certificate=yes
 
-[slayer_respite_m2_5917]
-name=Slayer respite(m2)
+[slayers_respite_m2_5917]
+name=Slayer's respite(m2)
 model=calquat_keg_7190
 2dzoom=1190
 2dyof=6
@@ -67575,11 +67575,11 @@ members=yes
 ambient=15
 certificate=yes
 
-[cert_slayer_respite_m2_5918]
+[cert_slayers_respite_m2_5918]
 certificate=yes
 
-[slayer_respite_m3_5919]
-name=Slayer respite(m3)
+[slayers_respite_m3_5919]
+name=Slayer's respite(m3)
 model=calquat_keg_7190
 2dzoom=1190
 2dyof=6
@@ -67590,11 +67590,11 @@ members=yes
 ambient=15
 certificate=yes
 
-[cert_slayer_respite_m3_5920]
+[cert_slayers_respite_m3_5920]
 certificate=yes
 
-[slayer_respite_m4_5921]
-name=Slayer respite(m4)
+[slayers_respite_m4_5921]
+name=Slayer's respite(m4)
 model=calquat_keg_7190
 2dzoom=1190
 2dyof=6
@@ -67607,7 +67607,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_slayer_respite_m4_5922]
+[cert_slayers_respite_m4_5922]
 certificate=yes
 
 [cider_m1_5923]
@@ -131902,7 +131902,9 @@ recol1s=41
 recol1d=960
 members=yes
 placeholder=yes
-param=param_451,Rub
+param=param_451,Digsite
+param=param_452,Fossil Island
+param=param_453,Lithkren Dungeon
 
 [digsite_pendant_2_11191]
 name=Digsite pendant (2)
@@ -131920,7 +131922,9 @@ iop4=Rub
 recol1s=41
 recol1d=960
 members=yes
-param=param_451,Rub
+param=param_451,Digsite
+param=param_452,Fossil Island
+param=param_453,Lithkren Dungeon
 
 [digsite_pendant_3_11192]
 name=Digsite pendant (3)
@@ -131938,7 +131942,9 @@ iop4=Rub
 recol1s=41
 recol1d=960
 members=yes
-param=param_451,Rub
+param=param_451,Digsite
+param=param_452,Fossil Island
+param=param_453,Lithkren Dungeon
 
 [digsite_pendant_4_11193]
 name=Digsite pendant (4)
@@ -131956,7 +131962,9 @@ iop4=Rub
 recol1s=41
 recol1d=960
 members=yes
-param=param_451,Rub
+param=param_451,Digsite
+param=param_452,Fossil Island
+param=param_453,Lithkren Dungeon
 
 [digsite_pendant_5_11194]
 name=Digsite pendant (5)
@@ -131975,7 +131983,9 @@ recol1s=41
 recol1d=960
 members=yes
 placeholder=yes
-param=param_451,Rub
+param=param_451,Digsite
+param=param_452,Fossil Island
+param=param_453,Lithkren Dungeon
 
 [clean_necklace_11195]
 name=Clean necklace
@@ -132804,8 +132814,8 @@ cost=600
 2dyof=3
 2dxan=1757
 2dyan=1591
-iop1=Butterfly-jar
-iop3=Impling-jar
+iop1=Impling-jar
+iop3=Butterfly-jar
 iop4=Check
 iop5=Destroy
 members=yes
@@ -178581,7 +178591,7 @@ placeholder=yes
 [placeholder_chefs_delight_m4_18904]
 placeholder=yes
 
-[placeholder_slayer_respite_m4_18905]
+[placeholder_slayers_respite_m4_18905]
 placeholder=yes
 
 [placeholder_cider_m4_18906]
@@ -207284,7 +207294,7 @@ model=pet_rock_4271
 2dxof=-4
 2dxan=136
 2dyan=1980
-iop1=Hard
+iop1=Easy
 iop2=Master
 iop3=Assessment
 recol1s=-6242

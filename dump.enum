@@ -47,6 +47,13 @@ val=steam_rune_4694,19
 val=smoke_rune_4697,20
 val=wrath_rune_21880,21
 
+[enum_63]
+inputtype=int
+outputtype=string
+default=
+val=0,www.twitch.tv/runescape
+val=1,www.twitch.tv/oldschoolrs
+
 [enum_108]
 inputtype=int
 outputtype=string
@@ -14553,14 +14560,6 @@ val=inconspicuous_rocks_medium_multi_28997,Digsite
 val=inconspicuous_crate_medium_multi_28998,Hickton's Archery Emporium
 val=inconspicuous_crate_medium_multi_28999,Shantay Pass
 
-[enum_1535]
-inputtype=int
-outputtype=namedobj
-default=null
-val=1,ancient_emblem_21807
-val=2,ancient_totem_21810
-val=3,ancient_statuette_21813
-
 [enum_1537]
 inputtype=int
 outputtype=component
@@ -15539,6 +15538,7 @@ val=rod_of_ivandis_3_7646,Retainer: Retains a vampire juvinate that has 50% or l
 val=rod_of_ivandis_2_7647,Retainer: Retains a vampire juvinate that has 50% or less hitpoints remaining.
 val=rod_of_ivandis_1_7648,Retainer: Retains a vampire juvinate that has 50% or less hitpoints remaining.
 val=staff_of_the_dead_11791,Power of Death: Reduce all melee damage you receive by 50% for the next minute while the staff remains equipped. Stacks with Protect from Melee.
+val=staff_of_light_22296,Power of Death: Reduce all melee damage you receive by 50% for the next minute while the staff remains equipped. Stacks with Protect from Melee.
 val=toxic_staff_uncharged_12902,Power of Death: Reduce all melee damage you receive by 50% for the next minute while the staff remains equipped. Stacks with Protect from Melee.
 val=toxic_staff_of_the_dead_12904,Power of Death: Reduce all melee damage you receive by 50% for the next minute while the staff remains equipped. Stacks with Protect from Melee.
 val=dragon_battleaxe_1377,"Rampage: Drain your Attack, Defence, Ranged & Magic levels by 10%, while increasing your Strength by 10 levels, plus 25% of the drained levels."
@@ -16275,18 +16275,6 @@ val=bow_string_1777,10
 val=magic_string_6038,19
 val=rope_954,30
 val=crossbow_string_9438,10
-
-[enum_1817]
-inputtype=obj
-outputtype=int
-default=1
-val=vial_229,33
-val=unpowered_orb_567,46
-val=empty_candle_lantern_4527,4
-val=empty_oil_lamp_4525,12
-val=lantern_lens_4542,49
-val=empty_fishbowl_6667,42
-val=empty_light_orb_10980,87
 
 [enum_1828]
 inputtype=int
