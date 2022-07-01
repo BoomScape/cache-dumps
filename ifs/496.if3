@@ -43,6 +43,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,1)"
 
 [interface_496:4]
 type=^iftype_text
@@ -57,6 +58,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,2)"
 
 [interface_496:5]
 type=^iftype_text
@@ -71,6 +73,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,3)"
 
 [interface_496:6]
 type=^iftype_text
@@ -85,6 +88,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,4)"
 
 [interface_496:7]
 type=^iftype_text
@@ -99,6 +103,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,5)"
 
 [interface_496:8]
 type=^iftype_text
@@ -113,6 +118,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,6)"
 
 [interface_496:9]
 type=^iftype_text
@@ -127,6 +133,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,7)"
 
 [interface_496:10]
 type=^iftype_text
@@ -141,6 +148,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,8)"
 
 [interface_496:11]
 type=^iftype_text
@@ -155,6 +163,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,9)"
 
 [interface_496:12]
 type=^iftype_text
@@ -169,6 +178,7 @@ halign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="View tutorial"
+onload="script483(event_com,10)"
 
 [interface_496:13]
 type=^iftype_model

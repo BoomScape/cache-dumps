@@ -58,8 +58,8 @@ text="Building Mode"
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(24248339)"
-onmouserepeat="script38(event_com,24248339,"Toggle Building mode on and off, allowing construction within your house.",25,140)"
+onmouseleave="script40(24248343)"
+onmouserepeat="script38(event_com,24248343,"Toggle Building mode on and off, allowing construction within your house.",25,140)"
 
 [interface_370:5]
 type=^iftype_graphic
@@ -91,12 +91,12 @@ width=20
 height=17
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-text="Render doors open"
+text="Teleport Inside"
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(24248339)"
-onmouserepeat="script38(event_com,24248339,Toggle doors being rendered open or closed on rebuild of the house instance.,25,140)"
+onmouseleave="script40(24248343)"
+onmouserepeat="script38(event_com,24248343,Toggle teleport location inside (on) or outside (off) of the house.,25,140)"
 
 [interface_370:8]
 type=^iftype_graphic
@@ -107,9 +107,9 @@ height=17
 graphic="options_radio_buttons,2"
 optionmask=2
 op1="On"
-onload="script391(event_com,24248329)"
-onvartransmit="script391(event_com,24248329){var_1046}"
-onop="script1078(event_com,24248329,1)"
+onload="script1077(event_com,24248329)"
+onvartransmit="script1077(event_com,24248329){var_1047}"
+onop="script1079(event_com,24248329,0)"
 
 [interface_370:9]
 type=^iftype_graphic
@@ -121,50 +121,103 @@ hposmode=^setpos_abs_right
 graphic="options_radio_buttons,0"
 optionmask=2
 op1="Off"
-onop="script1078(event_com,24248328,0)"
+onop="script1079(event_com,24248328,1)"
 
 [interface_370:10]
 type=^iftype_text
-y=108
+y=110
 width=20
 height=17
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-text="Teleport Inside"
+text="Doors"
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(24248339)"
-onmouserepeat="script38(event_com,24248339,Toggle teleport location inside (on) or outside (off) of the house.,25,140)"
 
 [interface_370:11]
 type=^iftype_graphic
-x=138
-y=108
+x=50
+y=105
+width=19
+height=30
+graphic="poh_doors,0"
+optionmask=2
+op1="Select"
+onmouseleave="script40(24248343)"
+onop="script1078(0,24248332,24248334,24248336)"
+onmouserepeat="script38(event_com,24248343,Render house doors as initially closed.,25,140)"
+
+[interface_370:12]
+type=^iftype_graphic
+x=70
+y=113
 width=17
 height=17
 graphic="options_radio_buttons,2"
 optionmask=2
-op1="On"
-onload="script1077(event_com,24248332)"
-onvartransmit="script1077(event_com,24248332){var_1047}"
-onop="script1079(event_com,24248332,0)"
-
-[interface_370:12]
-type=^iftype_graphic
-x=10
-y=108
-width=17
-height=17
-hposmode=^setpos_abs_right
-graphic="options_radio_buttons,0"
-optionmask=2
-op1="Off"
-onop="script1079(event_com,24248331,1)"
+op1="Select"
+onload="script391(24248332,24248334,24248336)"
+onmouseleave="script40(24248343)"
+onvartransmit="script391(24248332,24248334,24248336){var_1047}"
+onop="script1078(0,24248332,24248334,24248336)"
+onmouserepeat="script38(event_com,24248343,Render house doors as initially closed.,25,140)"
 
 [interface_370:13]
+type=^iftype_graphic
+x=98
+y=105
+width=19
+height=30
+graphic="poh_doors,1"
+optionmask=2
+op1="Select"
+onmouseleave="script40(24248343)"
+onop="script1078(1,24248332,24248334,24248336)"
+onmouserepeat="script38(event_com,24248343,Render house doors as initially open.,25,140)"
+
+[interface_370:14]
+type=^iftype_graphic
+x=118
+y=113
+width=17
+height=17
+graphic="options_radio_buttons,0"
+optionmask=2
+op1="Select"
+onmouseleave="script40(24248343)"
+onop="script1078(1,24248332,24248334,24248336)"
+onmouserepeat="script38(event_com,24248343,Render house doors as initially open.,25,140)"
+
+[interface_370:15]
+type=^iftype_graphic
+x=145
+y=105
+width=19
+height=30
+graphic="poh_doors,2"
+optionmask=2
+op1="Select"
+onmouseleave="script40(24248343)"
+onop="script1078(2,24248332,24248334,24248336)"
+onmouserepeat="script38(event_com,24248343,Do not render doors.,25,140)"
+
+[interface_370:16]
+type=^iftype_graphic
+x=165
+y=113
+width=17
+height=17
+graphic="options_radio_buttons,0"
+optionmask=2
+op1="Select"
+onmouseleave="script40(24248343)"
+onop="script1078(2,24248332,24248334,24248336)"
+onmouserepeat="script38(event_com,24248343,Do not render doors.,25,140)"
+
+[interface_370:17]
 type=^iftype_layer
-y=129
+y=135
 width=20
 height=36
 hposmode=^setpos_abs_centre
@@ -173,9 +226,9 @@ optionmask=2
 op1="Expel Guests"
 onload="script54(event_com)"
 
-[interface_370:14]
+[interface_370:18]
 type=^iftype_layer
-y=166
+y=170
 width=20
 height=36
 hposmode=^setpos_abs_centre
@@ -184,9 +237,9 @@ optionmask=2
 op1="Leave House"
 onload="script54(event_com)"
 
-[interface_370:15]
+[interface_370:19]
 type=^iftype_layer
-y=203
+y=205
 width=20
 height=36
 hposmode=^setpos_abs_centre
@@ -195,7 +248,7 @@ optionmask=2
 op1="Call Servant"
 onload="script54(event_com)"
 
-[interface_370:16]
+[interface_370:20]
 type=^iftype_text
 y=241
 width=190
@@ -205,7 +258,7 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_370:17]
+[interface_370:21]
 type=^iftype_graphic
 x=163
 y=7
@@ -218,16 +271,16 @@ onmouseover="script44(event_com,536)"
 onmouseleave="script44(event_com,535)"
 onop="script29"
 
-[interface_370:18]
+[interface_370:22]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 
-[interface_370:19]
+[interface_370:23]
 type=^iftype_layer
 width=1
 height=1
-layer=interface_370:18
+layer=interface_370:22
 

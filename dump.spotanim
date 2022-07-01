@@ -2699,7 +2699,7 @@ recol3s=11200
 recol3d=119
 
 [spotanim_432]
-model=model_21514
+model=crunchy_21514
 anim=seq_2554
 
 [spotanim_433]
@@ -9652,4 +9652,12 @@ ambient=100
 contrast=100
 recol1s=127
 recol1d=41932
+
+[spotanim_1519]
+model=model_34548
+anim=seq_7969
+
+[spotanim_1520]
+model=model_34547
+anim=seq_7973
 

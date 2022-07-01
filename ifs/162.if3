@@ -487,6 +487,8 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_162:44
 font=p12_full
+optionmask=1024
+op10="*"
 
 [interface_162:46]
 type=^iftype_layer
