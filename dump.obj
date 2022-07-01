@@ -32636,7 +32636,7 @@ placeholder=yes
 certificate=yes
 
 [silver_sickle_b_2963]
-name=Silver sickle(b)
+name=Silver sickle (b)
 model=silver_sickle_3566
 manwear=silver_sickle_3604,0
 womanwear=silver_sickle_3604,6
@@ -36418,8 +36418,8 @@ model=clue_scroll_easy_3374
 2dxan=360
 2dyan=672
 
-[vampire_dust_3325]
-name=Vampire dust
+[vampyre_dust_3325]
+name=Vampyre dust
 model=unicorn_horn_dust_2742
 cost=2
 2dzoom=1210
@@ -36433,7 +36433,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_vampire_dust_3326]
+[cert_vampyre_dust_3326]
 certificate=yes
 
 [myre_snelm_3327]
@@ -86908,7 +86908,7 @@ recol3d=-32733
 members=yes
 
 [rod_of_ivandis_10_7639]
-name=Rod of ivandis(10)
+name=Rod of ivandis (10)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -86927,7 +86927,7 @@ members=yes
 placeholder=yes
 
 [rod_of_ivandis_9_7640]
-name=Rod of ivandis(9)
+name=Rod of ivandis (9)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -86945,7 +86945,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_8_7641]
-name=Rod of ivandis(8)
+name=Rod of ivandis (8)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -86963,7 +86963,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_7_7642]
-name=Rod of ivandis(7)
+name=Rod of ivandis (7)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -86981,7 +86981,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_6_7643]
-name=Rod of ivandis(6)
+name=Rod of ivandis (6)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -86999,7 +86999,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_5_7644]
-name=Rod of ivandis(5)
+name=Rod of ivandis (5)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -87017,7 +87017,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_4_7645]
-name=Rod of ivandis(4)
+name=Rod of ivandis (4)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -87035,7 +87035,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_3_7646]
-name=Rod of ivandis(3)
+name=Rod of ivandis (3)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -87053,7 +87053,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_2_7647]
-name=Rod of ivandis(2)
+name=Rod of ivandis (2)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -87071,7 +87071,7 @@ recol3d=24640
 members=yes
 
 [rod_of_ivandis_1_7648]
-name=Rod of ivandis(1)
+name=Rod of ivandis (1)
 model=silvthrill_rod_13957
 manwear=silvthrill_rod_13946,0
 womanwear=silvthrill_rod_13946,0
@@ -111744,9 +111744,9 @@ iop5=Destroy
 members=yes
 placeholder=yes
 
-[tome_of_xp_3_9656]
-name=Tome of xp (3)
-model=tome_of_xp_3_18028
+[tome_of_experience_3_9656]
+name=Tome of experience (3)
+model=tome_of_experience_3_18028
 2dzoom=1104
 2dxof=1
 2dxan=303
@@ -111766,9 +111766,9 @@ recol5d=-22479
 members=yes
 ambient=10
 
-[tome_of_xp_2_9657]
-name=Tome of xp (2)
-model=tome_of_xp_3_18028
+[tome_of_experience_2_9657]
+name=Tome of experience (2)
+model=tome_of_experience_3_18028
 2dzoom=1104
 2dxof=1
 2dxan=309
@@ -111788,9 +111788,9 @@ recol5d=-22479
 members=yes
 ambient=10
 
-[tome_of_xp_1_9658]
-name=Tome of xp (1)
-model=tome_of_xp_3_18028
+[tome_of_experience_1_9658]
+name=Tome of experience (1)
+model=tome_of_experience_3_18028
 2dzoom=976
 2dxof=1
 2dyof=1
@@ -111851,16 +111851,16 @@ members=yes
 [obj_9661]
 model=model_18144
 
-[shortcut_key_9662]
-name=Shortcut key
-model=shortcut_key_18027
-2dzoom=840
-2dxof=-1
-2dxan=296
-2dyan=1939
+[useless_key_9662]
+name=Useless key
+model=shiny_key_2372
+2dzoom=700
+2dxof=-3
+2dyof=5
+2dxan=328
+2dyan=20
 iop5=Destroy
 members=yes
-placeholder=yes
 
 [obj_9663]
 model=model_4961
@@ -159060,7 +159060,7 @@ members=yes
 
 [training_manual_13396]
 name=Training manual
-model=tome_of_xp_3_18028
+model=tome_of_experience_3_18028
 2dzoom=905
 2dxof=4
 2dyof=1
@@ -160310,7 +160310,7 @@ certificate=yes
 
 [book_of_arcane_knowledge_13513]
 name=Book of arcane knowledge
-model=tome_of_xp_3_18028
+model=tome_of_experience_3_18028
 2dzoom=905
 2dxof=4
 2dyof=1
@@ -172088,8 +172088,15 @@ placeholder=yes
 [placeholder_ladder_top_16683]
 placeholder=yes
 
-[placeholder_shortcut_key_16684]
-placeholder=yes
+[useless_key_16684]
+name=Useless key
+model=shiny_key_2372
+2dzoom=700
+2dxof=-3
+2dyof=5
+2dxan=328
+2dyan=20
+members=yes
 
 [placeholder_dream_log_16685]
 placeholder=yes
@@ -178530,7 +178537,7 @@ placeholder=yes
 [placeholder_old_chipped_vase_18828]
 placeholder=yes
 
-[placeholder_vampire_dust_18829]
+[placeholder_vampyre_dust_18829]
 placeholder=yes
 
 [placeholder_grey_boots_18830]
@@ -209679,5 +209686,411 @@ members=yes
 placeholder=yes
 
 [placeholder_xerics_champion_22397]
+placeholder=yes
+
+[ivandis_flail_22398]
+name=Ivandis flail
+model=ivandis_flail_35323
+manwear=ivandis_flail_35177,0
+womanwear=ivandis_flail_35177,0
+cost=5000
+2dzoom=2478
+2dxof=-4
+2dyof=-7
+2dxan=1931
+2dyan=454
+iop2=Wield
+iop3=Bloom
+members=yes
+placeholder=yes
+param=param_451,Bloom
+
+[placeholder_ivandis_flail_22399]
+placeholder=yes
+
+[drakans_medallion_22400]
+name=Drakan's medallion
+model=drakans_medallion_35331
+manwear=drakans_medallion_35165,0
+womanwear=drakans_medallion_35176,0
+cost=200
+2dzoom=716
+2dxof=4
+2dyof=20
+2dxan=424
+2dyan=68
+iop2=Wear
+iop3=Rub
+iop5=Destroy
+members=yes
+placeholder=yes
+param=param_451,Rub
+
+[placeholder_drakans_medallion_22401]
+placeholder=yes
+
+[mysterious_herb_22402]
+name=Mysterious herb
+model=guam_leaf_2364
+cost=100
+2dzoom=700
+2dxof=4
+2dxan=376
+2dyan=1588
+iop5=Destroy
+recol1s=22418
+recol1d=3350
+recol2s=22428
+recol2d=301
+members=yes
+
+[mysterious_meat_22403]
+name=Mysterious meat
+model=enchanted_beef_2760
+cost=100
+2dzoom=560
+2dxof=1
+2dyof=3
+2dxan=308
+2dyan=176
+iop5=Destroy
+recol1s=947
+recol1d=2972
+recol2s=127
+recol2d=555
+members=yes
+
+[mysterious_crushed_meat_22404]
+name=Mysterious crushed meat
+model=unicorn_horn_dust_2742
+cost=100
+2dzoom=1210
+2dxof=-6
+2dxan=264
+2dyan=1892
+iop5=Destroy
+recol1s=82
+recol1d=679
+members=yes
+
+[vial_of_blood_22405]
+name=Vial of blood
+model=strength_potion_4_2789
+cost=100
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1996
+iop5=Destroy
+recol1s=61
+recol1d=914
+members=yes
+
+[unfinished_blood_potion_22406]
+name=Unfinished blood potion
+model=strength_potion_4_2789
+cost=100
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1996
+iop5=Destroy
+recol1s=61
+recol1d=553
+members=yes
+
+[blood_potion_22407]
+name=Blood potion
+model=strength_potion_4_2789
+cost=100
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1996
+iop5=Destroy
+recol1s=61
+recol1d=445
+members=yes
+
+[unfinished_potion_22408]
+name=Unfinished potion
+model=strength_potion_4_2789
+cost=100
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1996
+iop5=Destroy
+recol1s=61
+recol1d=-2519
+members=yes
+
+[potion_22409]
+name=Potion
+model=strength_potion_4_2789
+cost=100
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1996
+iop5=Destroy
+recol1s=61
+recol1d=-1603
+members=yes
+
+[old_notes_22410]
+name=Old notes
+model=ballad_10137
+cost=100
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+iop5=Destroy
+members=yes
+
+[old_diary_22411]
+name=Old diary
+model=shamans_tome_2633
+2dzoom=865
+2dxof=1
+2dyof=22
+2dxan=276
+2dyan=120
+iop1=Read
+recol1s=5018
+recol1d=3226
+recol2s=10351
+recol2d=76
+members=yes
+placeholder=yes
+
+[placeholder_old_diary_22412]
+placeholder=yes
+
+[flaygians_notes_22413]
+name=Flaygian's notes
+model=shamans_tome_2633
+cost=100
+2dzoom=865
+2dxof=1
+2dyof=22
+2dxan=276
+2dyan=120
+iop1=Read
+iop5=Destroy
+recol1s=5018
+recol1d=-22374
+recol2s=10351
+recol2d=74
+members=yes
+
+[chain_22414]
+name=Chain
+model=chain_9532
+cost=100
+2dzoom=1726
+2dxof=-3
+2dyof=41
+2dxan=276
+2dyan=120
+iop5=Destroy
+recol1s=5285
+recol1d=-32725
+members=yes
+
+[tome_of_experience_22415]
+name=Tome of experience
+model=tome_of_experience_3_18028
+2dzoom=1104
+2dxof=1
+2dxan=303
+2dyan=123
+iop1=Read
+iop5=Destroy
+recol1s=-10344
+recol1d=920
+members=yes
+ambient=10
+
+[the_turncloak_22416]
+name=The turncloak
+model=the_turncloak_35311
+2dzoom=865
+2dxof=1
+2dyof=22
+2dxan=276
+2dyan=120
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_the_turncloak_22417]
+placeholder=yes
+
+[explosive_discovery_22418]
+name=Explosive discovery
+model=explosive_discovery_35310
+2dzoom=865
+2dxof=1
+2dyof=22
+2dxan=276
+2dyan=120
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_explosive_discovery_22419]
+placeholder=yes
+
+[bloody_grimoire_22420]
+name=Bloody grimoire
+model=bloody_grimoire_35309
+2dzoom=865
+2dxof=1
+2dyof=22
+2dxan=276
+2dyan=120
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_bloody_grimoire_22421]
+placeholder=yes
+
+[elixir_of_everlasting_22422]
+name=Elixir of everlasting
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_elixir_of_everlasting_22423]
+placeholder=yes
+
+[buried_alive_22424]
+name=Buried alive
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_buried_alive_22425]
+placeholder=yes
+
+[deed_22426]
+name=Deed
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_deed_22427]
+placeholder=yes
+
+[old_key_22428]
+name=Old key
+model=steel_key_15497
+2dzoom=976
+2dxof=-1
+2dyof=10
+2dxan=381
+2dyan=33
+members=yes
+placeholder=yes
+
+[placeholder_old_key_22429]
+placeholder=yes
+
+[bloody_bracer_22430]
+name=Bloody bracer
+model=asgarnian_ale_2491
+cost=1000
+2dzoom=660
+2dxof=-3
+2dyof=2
+2dxan=140
+2dyan=1904
+iop1=Drink
+recol1s=7091
+recol1d=520
+recol2s=7116
+recol2d=520
+recol3s=-11139
+recol3d=-2152
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_bloody_bracer_22431]
+certificate=yes
+
+[placeholder_bloody_bracer_22432]
+placeholder=yes
+
+[emerald_sickle_b_22433]
+name=Emerald sickle (b)
+model=emerald_sickle_b_35335
+manwear=emerald_sickle_b_35178,0
+womanwear=emerald_sickle_b_35178,6
+cost=250
+2dzoom=980
+2dxof=-4
+2dyof=2
+2dxan=604
+2dyan=948
+iop2=Wield
+iop3=Cast Bloom
+recol1s=33
+recol1d=127
+recol2s=24
+recol2d=-22477
+members=yes
+placeholder=yes
+param=param_451,Bloom
+
+[placeholder_emerald_sickle_b_22434]
+placeholder=yes
+
+[enchanted_emerald_sickle_b_22435]
+name=Enchanted emerald sickle (b)
+model=emerald_sickle_b_35335
+manwear=emerald_sickle_b_35178,0
+womanwear=emerald_sickle_b_35178,6
+cost=250
+2dzoom=980
+2dxof=-4
+2dyof=2
+2dxan=604
+2dyan=948
+iop2=Wield
+iop3=Cast Bloom
+recol1s=33
+recol1d=127
+recol2s=24
+recol2d=-22477
+members=yes
+placeholder=yes
+param=param_451,Bloom
+
+[placeholder_enchanted_emerald_sickle_b_22436]
 placeholder=yes
 

@@ -1167,7 +1167,7 @@ mapfunction=no
 category=1129
 
 [mapelement_203]
-text=Temple
+text=Crombwick<br>Manor
 colour=^white
 mapfunction=no
 category=1129
@@ -1612,13 +1612,6 @@ colour=^white
 mapfunction=no
 category=1129
 
-[mapelement_274]
-text=Sanguinesti<br>region
-colour=^white
-size=1
-mapfunction=no
-category=1129
-
 [mapelement_275]
 text=Meiyerditch
 colour=^white
@@ -1742,6 +1735,12 @@ category=1129
 
 [mapelement_294]
 text=Zulrah's<br>shrine
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_295]
+text=Silvarea
 colour=^white
 mapfunction=no
 category=1129
@@ -3442,6 +3441,32 @@ category=1129
 text=Kebos<br>Lowlands
 colour=0xff981f
 size=2
+mapfunction=no
+category=1129
+
+[mapelement_572]
+text=Paterdomus<br>Temple
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_573]
+text=Darkmeyer
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_574]
+text=Slepe
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_575]
+text=Ver Sinhaza
+colour=^white
 mapfunction=no
 category=1129
 

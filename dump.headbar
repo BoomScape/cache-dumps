@@ -71,3 +71,17 @@ disposal=280
 duration=300
 width=140
 
+[headbar_10]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+width=50
+
+[headbar_11]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+width=80
+

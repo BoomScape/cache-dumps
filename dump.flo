@@ -367,11 +367,20 @@ mapcolour=0x3a4b35
 [flo_98]
 colour=0x282828
 
+[flo_99]
+colour=^magenta
+mapcolour=0x222222
+occlude=no
+
 [flo_100]
 colour=0x544217
 
 [flo_101]
 colour=0x303525
+
+[flo_102]
+colour=0x501840
+mapcolour=0x501840
 
 [flo_103]
 colour=0x83c3ca
