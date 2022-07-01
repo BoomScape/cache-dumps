@@ -17799,10 +17799,10 @@ val=63,bottled_dragonbreath_23002
 inputtype=component
 outputtype=int
 default=0
-val=interface_12:56,1
-val=interface_12:58,2
-val=interface_12:60,3
-val=interface_12:62,4
+val=interface_12:57,1
+val=interface_12:59,2
+val=interface_12:61,3
+val=interface_12:63,4
 
 [enum_1911]
 inputtype=int
@@ -23343,6 +23343,7 @@ val=18,ring_of_wealth_scroll_12783
 val=19,magic_shortbow_scroll_12786
 val=20,clue_box_12789
 val=21,ornate_maul_handle_24229
+val=22,saradomins_tear_12804
 
 [enum_2634]
 inputtype=int
@@ -23370,6 +23371,7 @@ val=18,Ring of Wealth Scroll
 val=19,Magic Shortbow Scroll
 val=20,Clue Box
 val=21,Ornate Maul Handle
+val=22,Saradomin's Tear
 
 [enum_2636]
 inputtype=int
@@ -24916,17 +24918,17 @@ val=13,interface_84:21
 inputtype=int
 outputtype=component
 default=null
-val=0,interface_12:74
-val=1,interface_12:75
-val=2,interface_12:76
-val=3,interface_12:77
-val=4,interface_12:78
-val=5,interface_12:79
-val=7,interface_12:80
-val=9,interface_12:81
-val=10,interface_12:82
-val=12,interface_12:83
-val=13,interface_12:84
+val=0,interface_12:75
+val=1,interface_12:76
+val=2,interface_12:77
+val=3,interface_12:78
+val=4,interface_12:79
+val=5,interface_12:80
+val=7,interface_12:81
+val=9,interface_12:82
+val=10,interface_12:83
+val=12,interface_12:84
+val=13,interface_12:85
 
 [enum_2779]
 inputtype=int
