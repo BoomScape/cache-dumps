@@ -8525,7 +8525,7 @@ anim=seq_1570
 resizeh=64
 resizev=64
 recol1s=17069
-recol1d=22181
+recol1d=22459
 
 [spotanim_1344]
 model=model_7412
@@ -8533,7 +8533,7 @@ anim=seq_1571
 resizeh=64
 resizev=64
 recol1s=17069
-recol1d=22181
+recol1d=22459
 
 [spotanim_1345]
 model=model_7412

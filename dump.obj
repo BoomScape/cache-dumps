@@ -233659,9 +233659,9 @@ certificate=yes
 [cert_blighted_super_restore_1_24606]
 certificate=yes
 
-[blighted_ice_barrage_sack_24607]
-name=Blighted ice barrage sack
-model=blighted_ice_barrage_sack_34535
+[blighted_ancient_ice_sack_24607]
+name=Blighted ancient ice sack
+model=blighted_ancient_ice_sack_34535
 cost=35
 2dzoom=650
 2dxof=3
@@ -233676,12 +233676,12 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 
-[placeholder_blighted_ice_barrage_sack_24608]
+[placeholder_blighted_ancient_ice_sack_24608]
 placeholder=yes
 
 [blighted_bind_sack_24609]
 name=Blighted bind sack
-model=blighted_ice_barrage_sack_34535
+model=blighted_ancient_ice_sack_34535
 cost=20
 2dzoom=850
 2dxof=1
@@ -233701,7 +233701,7 @@ placeholder=yes
 
 [blighted_snare_sack_24611]
 name=Blighted snare sack
-model=blighted_ice_barrage_sack_34535
+model=blighted_ancient_ice_sack_34535
 cost=25
 2dzoom=850
 2dxof=1
@@ -233721,7 +233721,7 @@ placeholder=yes
 
 [blighted_entangle_sack_24613]
 name=Blighted entangle sack
-model=blighted_ice_barrage_sack_34535
+model=blighted_ancient_ice_sack_34535
 cost=30
 2dzoom=850
 2dxof=1
@@ -233741,7 +233741,7 @@ placeholder=yes
 
 [blighted_teleblock_sack_24615]
 name=Blighted teleblock sack
-model=blighted_ice_barrage_sack_34535
+model=blighted_ancient_ice_sack_34535
 cost=32
 2dzoom=650
 2dxof=3
@@ -233793,5 +233793,225 @@ ambient=-25
 placeholder=yes
 
 [placeholder_vestas_longsword_inactive_24620]
+placeholder=yes
+
+[blighted_vengeance_sack_24621]
+name=Blighted vengeance sack
+model=blighted_ancient_ice_sack_34535
+cost=31
+2dzoom=650
+2dxof=3
+2dxan=61
+2dyan=400
+recol1s=957
+recol1d=563
+recol2s=947
+recol2d=555
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_blighted_vengeance_sack_24622]
+placeholder=yes
+
+[divine_battlemage_potion_4_24623]
+name=Divine battlemage potion(4)
+model=divine_super_combat_potion_4_37951
+cost=720
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=7104
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_battlemage_potion_4_24624]
+certificate=yes
+
+[placeholder_divine_battlemage_potion_4_24625]
+placeholder=yes
+
+[divine_battlemage_potion_3_24626]
+name=Divine battlemage potion(3)
+model=divine_super_combat_potion_3_37944
+cost=540
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=7104
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_battlemage_potion_3_24627]
+certificate=yes
+
+[placeholder_divine_battlemage_potion_3_24628]
+placeholder=yes
+
+[divine_battlemage_potion_2_24629]
+name=Divine battlemage potion(2)
+model=divine_super_combat_potion_2_37975
+cost=360
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=7104
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_battlemage_potion_2_24630]
+certificate=yes
+
+[placeholder_divine_battlemage_potion_2_24631]
+placeholder=yes
+
+[divine_battlemage_potion_1_24632]
+name=Divine battlemage potion(1)
+model=divine_super_combat_potion_1_37966
+cost=180
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=7104
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_battlemage_potion_1_24633]
+certificate=yes
+
+[placeholder_divine_battlemage_potion_1_24634]
+placeholder=yes
+
+[divine_bastion_potion_4_24635]
+name=Divine bastion potion(4)
+model=divine_super_combat_potion_4_37951
+cost=720
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=4015
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_bastion_potion_4_24636]
+certificate=yes
+
+[placeholder_divine_bastion_potion_4_24637]
+placeholder=yes
+
+[divine_bastion_potion_3_24638]
+name=Divine bastion potion(3)
+model=divine_super_combat_potion_3_37944
+cost=540
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=4015
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_bastion_potion_3_24639]
+certificate=yes
+
+[placeholder_divine_bastion_potion_3_24640]
+placeholder=yes
+
+[divine_bastion_potion_2_24641]
+name=Divine bastion potion(2)
+model=divine_super_combat_potion_2_37975
+cost=360
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=4015
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_bastion_potion_2_24642]
+certificate=yes
+
+[placeholder_divine_bastion_potion_2_24643]
+placeholder=yes
+
+[divine_bastion_potion_1_24644]
+name=Divine bastion potion(1)
+model=divine_super_combat_potion_1_37966
+cost=180
+2dzoom=710
+2dyof=-2
+2dxan=80
+2dyan=1516
+iop1=Drink
+iop4=Empty
+recol1s=61
+recol1d=4015
+members=yes
+ambient=15
+contrast=15
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_divine_bastion_potion_1_24645]
+certificate=yes
+
+[placeholder_divine_bastion_potion_1_24646]
 placeholder=yes
 
