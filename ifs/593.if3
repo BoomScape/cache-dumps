@@ -18,6 +18,19 @@ shadowed=yes
 
 [interface_593:2]
 type=^iftype_text
+y=2
+width=190
+height=28
+vposmode=^setpos_abs_bottom
+layer=interface_593:0
+colour=0xff981f
+font=p11_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_593:3]
+type=^iftype_text
 y=25
 width=190
 height=12
@@ -28,7 +41,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_593:3]
+[interface_593:4]
 type=^iftype_layer
 x=20
 y=46
@@ -39,35 +52,35 @@ layer=interface_593:0
 optionmask=2
 op1="*"
 
-[interface_593:4]
+[interface_593:5]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:3
+layer=interface_593:4
 
-[interface_593:5]
+[interface_593:6]
 type=^iftype_graphic
 y=-6
 width=34
 height=24
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:3
+layer=interface_593:4
 
-[interface_593:6]
+[interface_593:7]
 type=^iftype_text
 y=4
 width=68
 height=13
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:3
+layer=interface_593:4
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_593:7]
+[interface_593:8]
 type=^iftype_layer
 x=102
 y=46
@@ -78,35 +91,35 @@ layer=interface_593:0
 optionmask=2
 op1="*"
 
-[interface_593:8]
+[interface_593:9]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:7
+layer=interface_593:8
 
-[interface_593:9]
+[interface_593:10]
 type=^iftype_graphic
 y=-6
 width=34
 height=24
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:7
+layer=interface_593:8
 
-[interface_593:10]
+[interface_593:11]
 type=^iftype_text
 y=13
 width=68
 height=13
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:7
+layer=interface_593:8
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_593:11]
+[interface_593:12]
 type=^iftype_layer
 x=20
 y=99
@@ -117,35 +130,35 @@ layer=interface_593:0
 optionmask=2
 op1="*"
 
-[interface_593:12]
+[interface_593:13]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:11
+layer=interface_593:12
 
-[interface_593:13]
+[interface_593:14]
 type=^iftype_graphic
 y=-6
 width=34
 height=24
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:11
+layer=interface_593:12
 
-[interface_593:14]
+[interface_593:15]
 type=^iftype_text
 y=13
 width=68
 height=13
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:11
+layer=interface_593:12
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_593:15]
+[interface_593:16]
 type=^iftype_layer
 x=102
 y=99
@@ -156,35 +169,35 @@ layer=interface_593:0
 optionmask=2
 op1="*"
 
-[interface_593:16]
+[interface_593:17]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:15
+layer=interface_593:16
 
-[interface_593:17]
+[interface_593:18]
 type=^iftype_graphic
 y=-6
 width=34
 height=24
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:15
+layer=interface_593:16
 
-[interface_593:18]
+[interface_593:19]
 type=^iftype_text
 y=13
 width=68
 height=13
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:15
+layer=interface_593:16
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_593:19]
+[interface_593:20]
 type=^iftype_layer
 x=102
 y=45
@@ -192,21 +205,21 @@ width=68
 height=97
 layer=interface_593:0
 
-[interface_593:20]
-type=^iftype_layer
-height=44
-hsizemode=^setsize_minus
-layer=interface_593:19
-optionmask=2
-op1="Choose spell"
-
 [interface_593:21]
 type=^iftype_layer
 height=44
 hsizemode=^setsize_minus
-layer=interface_593:19
+layer=interface_593:20
+optionmask=2
+op1="Choose spell"
 
 [interface_593:22]
+type=^iftype_layer
+height=44
+hsizemode=^setsize_minus
+layer=interface_593:20
+
+[interface_593:23]
 type=^iftype_graphic
 x=14
 y=-7
@@ -214,51 +227,51 @@ width=32
 height=36
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:21
+layer=interface_593:22
 graphic="sideicons_interface,6"
-onload="script329(event_com,38862868,1)"
-onvartransmit="script329(event_com,38862868,1){var_108,var_439}"
+onload="script329(event_com,38862869,1)"
+onvartransmit="script329(event_com,38862869,1){var_108,var_439}"
 
-[interface_593:23]
+[interface_593:24]
 type=^iftype_graphic
 x=-16
 width=36
 height=36
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:21
+layer=interface_593:22
 graphic="combat_shield"
 
-[interface_593:24]
+[interface_593:25]
 type=^iftype_text
 y=15
 height=16
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_593:21
+layer=interface_593:22
 text="Spell"
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_593:25]
-type=^iftype_layer
-height=44
-vposmode=^setpos_abs_bottom
-hsizemode=^setsize_minus
-layer=interface_593:19
-optionmask=2
-op1="Choose spell"
-
 [interface_593:26]
 type=^iftype_layer
 height=44
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_593:19
+layer=interface_593:20
+optionmask=2
+op1="Choose spell"
 
 [interface_593:27]
+type=^iftype_layer
+height=44
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+layer=interface_593:20
+
+[interface_593:28]
 type=^iftype_graphic
 x=1
 y=-3
@@ -266,25 +279,25 @@ width=32
 height=36
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_593:26
+layer=interface_593:27
 graphic="sideicons_interface,6"
-onload="script329(event_com,38862873,0)"
-onvartransmit="script329(event_com,38862873,0){var_108,var_439}"
+onload="script329(event_com,38862874,0)"
+onvartransmit="script329(event_com,38862874,0){var_108,var_439}"
 
-[interface_593:28]
+[interface_593:29]
 type=^iftype_text
 y=15
 height=16
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_593:26
+layer=interface_593:27
 text="Spell"
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_593:29]
+[interface_593:30]
 type=^iftype_layer
 y=153
 width=150
@@ -294,34 +307,34 @@ layer=interface_593:0
 optionmask=2
 op1="Auto retaliate"
 onload="script325"
-onmouseleave="script40(38862889)"
+onmouseleave="script40(38862890)"
 onvartransmit="script325{var_172}"
-onmouserepeat="script38(event_com,38862889,When active your player will automatically fight back if attacked.,25,140)"
+onmouserepeat="script38(event_com,38862890,When active your player will automatically fight back if attacked.,25,140)"
 
-[interface_593:30]
+[interface_593:31]
 type=^iftype_text
 width=32
 height=32
-layer=interface_593:29
+layer=interface_593:30
 colour=^white
 font=p11_full
 shadowed=yes
 
-[interface_593:31]
+[interface_593:32]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:29
+layer=interface_593:30
 
-[interface_593:32]
+[interface_593:33]
 type=^iftype_graphic
 x=7
 y=3
 width=26
 height=39
-layer=interface_593:29
+layer=interface_593:30
 
-[interface_593:33]
+[interface_593:34]
 type=^iftype_text
 x=2
 y=1
@@ -329,7 +342,7 @@ width=38
 height=42
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_593:29
+layer=interface_593:30
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -337,7 +350,7 @@ valign=^settextalign_centre
 shadowed=yes
 onload="script327(event_com)"
 
-[interface_593:34]
+[interface_593:35]
 type=^iftype_layer
 y=200
 width=150
@@ -345,68 +358,68 @@ height=26
 hposmode=^setpos_abs_centre
 layer=interface_593:0
 
-[interface_593:35]
+[interface_593:36]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:34
+layer=interface_593:35
 optionmask=2
 op1="Use <col=00ff00>Special Attack</col>"
 
-[interface_593:36]
+[interface_593:37]
 type=^iftype_rectangle
 x=2
 width=4
 height=12
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_593:34
+layer=interface_593:35
 colour=0x730606
 fill=yes
 
-[interface_593:37]
+[interface_593:38]
 type=^iftype_layer
 x=2
 width=4
 height=12
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_593:34
+layer=interface_593:35
 
-[interface_593:38]
+[interface_593:39]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:37
+layer=interface_593:38
 colour=0x397d3b
 fill=yes
 
-[interface_593:39]
+[interface_593:40]
 type=^iftype_text
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_593:34
+layer=interface_593:35
 colour=0x10
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 
-[interface_593:40]
+[interface_593:41]
 type=^iftype_rectangle
 x=2
 width=4
 height=14
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_593:34
+layer=interface_593:35
 colour=0x2c2a23
 
-[interface_593:41]
+[interface_593:42]
 type=^iftype_layer
 width=1
 height=1
