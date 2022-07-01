@@ -1,10 +1,13 @@
 [interface_511:0]
 type=^iftype_rectangle
-width=512
-height=334
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 colour=0x3b2a1a
 fill=yes
 trans=64
+onload="script2768(event_com,33488913,33488915,33488917,33488919,33488911)"
 
 [interface_511:1]
 type=^iftype_model
@@ -96,6 +99,7 @@ model=model_22544
 zoom=1050
 optionmask=2
 op1="Select"
+onop="script489(event_opindex,2)"
 
 [interface_511:10]
 type=^iftype_model
@@ -107,6 +111,7 @@ model=model_22526
 zoom=1050
 optionmask=2
 op1="Select"
+onop="script489(event_opindex,2)"
 
 [interface_511:11]
 type=^iftype_model
@@ -118,6 +123,7 @@ model=model_22546
 zoom=1050
 optionmask=2
 op1="Select"
+onop="script489(event_opindex,2)"
 
 [interface_511:12]
 type=^iftype_model
@@ -129,6 +135,7 @@ model=model_22554
 zoom=1050
 optionmask=2
 op1="Select"
+onop="script489(event_opindex,2)"
 
 [interface_511:13]
 type=^iftype_model
@@ -140,17 +147,20 @@ model=model_22530
 zoom=1042
 optionmask=2
 op1="Select"
+onop="script489(event_opindex,2)"
 
 [interface_511:14]
 type=^iftype_graphic
-x=467
-y=4
+x=9
+y=6
 width=26
 height=23
+hposmode=^setpos_abs_right
 graphic="close_buttons,6"
 optionmask=2
 op1="Close"
 onmouseleave="script44(event_com,541)"
+onop="script29"
 onmouserepeat="script44(event_com,542)"
 
 [interface_511:15]

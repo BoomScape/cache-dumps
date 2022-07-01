@@ -43961,8 +43961,8 @@ soundeffect14=3775,1,1
 [seq_7267]
 framecount=11
 priority=6
-mainhand=3592
-offhand=20523
+mainhand=0
+offhand=11080
 exactmove=1
 movetype=1
 looptype=1

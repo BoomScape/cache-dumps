@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script747(event_com,4521986,4521988,4521992,4522000,4521999,4521994,4521995,4521996,4521997,4521998,4522001,4522003,4522004,4522002,4522006)"
+onload="script747(event_com,4521986,4521988,4521999,4522002,4522001,4522000,4521993,4521994,4521995,4521996,4521997,4521998,4522003,4522005,4522006,4522004,4522008)"
 
 [interface_69:1]
 type=^iftype_graphic
@@ -81,8 +81,8 @@ trans=50
 [interface_69:8]
 type=^iftype_layer
 y=1
-width=16
 height=2
+hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_69:4
@@ -138,7 +138,8 @@ op1="Sort"
 
 [interface_69:14]
 type=^iftype_layer
-width=103
+x=16
+width=119
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -149,70 +150,87 @@ op1="Sort"
 
 [interface_69:15]
 type=^iftype_layer
+width=16
+height=11
+vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_69:8
 
 [interface_69:16]
 type=^iftype_layer
-y=1
-width=16
-height=2
-hposmode=^setpos_abs_right
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_69:4
+layer=interface_69:15
 
 [interface_69:17]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_69:15
+
+[interface_69:18]
+type=^iftype_layer
+width=16
+height=11
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
+layer=interface_69:8
+
+[interface_69:19]
 type=^iftype_layer
 height=32
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_69:0
 
-[interface_69:18]
+[interface_69:20]
 type=^iftype_text
 width=21
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_69:17
+layer=interface_69:19
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_69:19]
+[interface_69:21]
 type=^iftype_layer
 width=21
 height=8192
 hsizemode=^setsize_minus
 vsizemode=^setsize_proportion
-layer=interface_69:17
+layer=interface_69:19
 optionmask=6
 op1="Switch"
 op2="Clear"
 
-[interface_69:20]
+[interface_69:22]
 type=^iftype_layer
 width=21
 height=8192
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_proportion
-layer=interface_69:17
+layer=interface_69:19
 optionmask=6
 op1="Switch"
 op2="Clear"
 
-[interface_69:21]
+[interface_69:23]
 type=^iftype_graphic
 x=2
 width=21
 height=30
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_69:17
+layer=interface_69:19
 graphic="sideicons_logout"
 optionmask=2
 op1="Logout"
@@ -220,7 +238,7 @@ onmouseover="script273(event_com,75)"
 onmouseleave="script273(event_com,0)"
 onop="script970(event_opindex,0,0)"
 
-[interface_69:22]
+[interface_69:24]
 type=^iftype_layer
 width=1
 height=1

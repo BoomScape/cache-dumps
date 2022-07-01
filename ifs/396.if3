@@ -28,6 +28,7 @@ colour=0xff991f
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
+onload="script2753(event_com)"
 
 [interface_396:4]
 type=^iftype_layer
