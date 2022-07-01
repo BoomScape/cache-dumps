@@ -17492,6 +17492,7 @@ framegroup1=276
 
 [seq_2881]
 framecount=11
+mainhand=0
 looptype=1
 framegroup1=1127
 
@@ -57881,4 +57882,22 @@ exactmove=1
 movetype=1
 looptype=1
 framegroup1=294
+
+[seq_9351]
+framecount=21
+mainhand=0
+offhand=27222
+looptype=1
+framegroup1=239
+
+[seq_9352]
+framecount=23
+priority=6
+mainhand=0
+offhand=27222
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=1743
+soundeffect11=3879,1,15
 
