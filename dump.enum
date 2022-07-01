@@ -601,6 +601,7 @@ default=Costume
 val=mystic_hat_10601,Mystic robes
 val=mystic_hat_dark_10602,Dark mystic robes
 val=mystic_hat_light_10603,Light mystic robes
+val=mystic_hat_dusk_23047,Dusk mystic robes
 val=skeletal_helm_10604,Skeletal
 val=infinity_top_10605,Infinity robes
 val=splitbark_helm_10606,Splitbark armour
@@ -9889,6 +9890,7 @@ val=20,Cerberus
 val=21,The Abyssal Sire
 val=22,The Grotesque Guardians
 val=23,Vorkath
+val=24,The Alchemical Hydra
 
 [enum_1233]
 inputtype=int
@@ -21104,7 +21106,12 @@ val=43,mystic_robe_top_dark_4101
 val=44,mystic_robe_bottom_dark_4103
 val=45,mystic_gloves_dark_4105
 val=46,mystic_boots_dark_4107
-val=47,hespori_seed_22875
+val=47,mystic_hat_dusk_23047
+val=48,mystic_robe_top_dusk_23050
+val=49,mystic_robe_bottom_dusk_23053
+val=50,mystic_gloves_dusk_23056
+val=51,mystic_boots_dusk_23059
+val=52,hespori_seed_22875
 
 [enum_2171]
 inputtype=int
