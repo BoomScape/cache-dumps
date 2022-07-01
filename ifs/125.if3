@@ -145,11 +145,12 @@ width=108
 height=60
 vposmode=^setpos_abs_centre
 layer=interface_125:2
-optionmask=1054
+optionmask=1566
 op1="Remove-1"
 op2="Remove-5"
 op3="Remove-All"
 op4="Remove-X"
+op9="*"
 op10="Examine"
 
 [interface_125:15]
@@ -170,11 +171,12 @@ width=108
 height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
-optionmask=1054
+optionmask=1566
 op1="Remove-1"
 op2="Remove-5"
 op3="Remove-All"
 op4="Remove-X"
+op9="*"
 op10="Examine"
 
 [interface_125:17]
@@ -184,11 +186,12 @@ width=108
 height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
-optionmask=1054
+optionmask=1566
 op1="Remove-1"
 op2="Remove-5"
 op3="Remove-All"
 op4="Remove-X"
+op9="*"
 op10="Examine"
 
 [interface_125:18]
@@ -198,11 +201,12 @@ width=108
 height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
-optionmask=1054
+optionmask=1566
 op1="Remove-1"
 op2="Remove-5"
 op3="Remove-All"
 op4="Remove-X"
+op9="*"
 op10="Examine"
 
 [interface_125:19]
@@ -212,10 +216,11 @@ width=108
 height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
-optionmask=1054
+optionmask=1566
 op1="Remove-1"
 op2="Remove-5"
 op3="Remove-All"
 op4="Remove-X"
+op9="*"
 op10="Examine"
 

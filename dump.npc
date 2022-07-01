@@ -151531,32 +151531,6 @@ drawpriority=yes
 ambient=10
 contrast=5
 
-[scavenger_runt_7546]
-name=Scavenger runt
-model1=witchs_experiment_2999
-readyanim=skavid_ready_257
-walkanim=skavid_walk_254
-resizeh=114
-resizev=114
-recol1s=9647
-recol1d=9647
-op2=Attack
-vislevel=0
-ambient=10
-contrast=5
-
-[scavenger_runt_7547]
-name=Scavenger runt
-model1=witchs_experiment_2999
-readyanim=skavid_ready_257
-walkanim=skavid_walk_254
-resizeh=108
-resizev=108
-recol1s=9647
-recol1d=12717
-op2=Attack
-vislevel=0
-
 [scavenger_beast_7548]
 name=Scavenger beast
 model1=witchs_experiment_2999
@@ -171692,12 +171666,6 @@ visonmap=no
 ambient=25
 contrast=25
 follower=yes
-
-[npc_8484]
-model1=snow_32248
-vislevel=0
-active=no
-visonmap=no
 
 [eek_8485]
 name=Eek

@@ -2686,3 +2686,19 @@ param=param_569,dragonfruit_pie_22795
 [struct_545]
 param=param_578,burnt_pie_2329
 
+[creature_creation_546]
+param=param_689,Creature Creation
+param=param_690,enum_2289
+
+[rooftop_agility_547]
+param=param_689,Rooftop Agility
+param=param_690,enum_2290
+
+[fossil_island_notes_548]
+param=param_689,Fossil Island Notes
+param=param_690,enum_2291
+
+[my_notes_549]
+param=param_689,My Notes
+param=param_690,enum_2292
+

@@ -158916,7 +158916,7 @@ manwear=angler_hat_29114,0
 womanwear=angler_hat_29411,0
 manhead=angler_hat_29415
 femalehead=angler_hat_29416
-cost=40
+cost=100
 2dzoom=842
 2dxof=1
 2dyof=-4
@@ -158933,7 +158933,7 @@ manwear=angler_top_29118,0
 manwear2=angler_top_29116
 womanwear=angler_top_29413,0
 womanwear2=angler_top_29412
-cost=60
+cost=100
 2dzoom=1284
 2dyof=5
 2dxan=579
@@ -158947,7 +158947,7 @@ name=Angler waders
 model=angler_waders_29420
 manwear=angler_waders_29113,0
 womanwear=angler_waders_29410,0
-cost=50
+cost=100
 2dzoom=2042
 2dyof=-1
 2dxan=1522
@@ -158961,7 +158961,7 @@ name=Angler boots
 model=angler_boots_29418
 manwear=angler_boots_29409,0
 womanwear=angler_boots_29414,0
-cost=30
+cost=100
 2dzoom=905
 2dxof=4
 2dyof=-4
@@ -217924,5 +217924,26 @@ placeholder=yes
 param=param_595,Extract
 
 [placeholder_nest_box_seeds_23063]
+placeholder=yes
+
+[jar_of_chemicals_23064]
+name=Jar of chemicals
+model=jar_of_dirt_28441
+2dzoom=590
+2dxof=13
+2dyof=60
+2dxan=280
+2dyan=1756
+recol1s=10401
+recol1d=-31784
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_jar_of_chemicals_23065]
+certificate=yes
+
+[placeholder_jar_of_chemicals_23066]
 placeholder=yes
 
