@@ -230727,7 +230727,6 @@ model=childs_blanket_2725
 2dyof=-100
 2dxan=268
 2dyan=512
-iop5=Destroy
 recol1s=127
 recol1d=-10814
 
@@ -230737,8 +230736,6 @@ model=crushed_gem_26831
 2dzoom=463
 2dxan=94
 2dyan=1158
-iop1=Ignite
-iop5=Destroy
 recol1s=5334
 recol1d=86
 recol2s=2613
@@ -230759,8 +230756,6 @@ model=cocktail_glass_17116
 2dyof=-7
 2dxan=166
 2dyan=2047
-op3=Steal
-iop5=Destroy
 
 [spooky_hood_24300]
 name=Spooky hood
@@ -230772,8 +230767,6 @@ femalehead=spooky_hood_5204
 2dzoom=600
 2dxan=396
 2dyan=2045
-iop2=Wear
-iop5=Destroy
 recol1s=-32682
 recol1d=6331
 
@@ -230785,8 +230778,6 @@ womanwear=spooky_robe_38929,0
 2dzoom=1370
 2dyof=7
 2dxan=536
-iop2=Wear
-iop5=Destroy
 recol1s=8741
 recol1d=6331
 
@@ -230798,8 +230789,6 @@ womanwear=spooky_skirt_38930,0
 2dzoom=1940
 2dyof=1
 2dxan=572
-iop2=Wear
-iop5=Destroy
 recol1s=25238
 recol1d=6331
 
@@ -230812,8 +230801,6 @@ womanwear=female_hands_353,0
 2dyof=-1
 2dxan=400
 2dyan=111
-iop2=Wear
-iop5=Destroy
 recol1s=4550
 recol1d=6331
 recol2s=-22464
@@ -230834,8 +230821,6 @@ cost=0
 2dyof=-6
 2dxan=152
 2dyan=160
-iop2=Wear
-iop5=Destroy
 recol1s=4626
 recol1d=6331
 recol2s=61
@@ -231117,10 +231102,171 @@ model=slice_of_birthday_cake_34576
 2dyof=-16
 2dxan=163
 2dyan=2021
-iop1=Eat
-iop2=Learn-more
+
+[birthday_cake_24332]
+name=Birthday cake
+model=slice_of_birthday_cake_34576
+2dzoom=1508
+2dxof=10
+2dyof=-16
+2dxan=163
+2dyan=2021
+stackable=yes
+
+[dagonhai_robes_set_24333]
+name=Dagon'hai robes set
+model=dagonhai_robes_set_38956
+cost=217000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dagonhai_robes_set_24334]
 certificate=yes
 
-[cert_birthday_cake_24332]
-certificate=yes
+[placeholder_dagonhai_robes_set_24335]
+placeholder=yes
+
+[bounty_target_teleport_24336]
+name=Bounty target teleport
+model=bounty_target_teleport_38923
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_bounty_target_teleport_24337]
+placeholder=yes
+
+[bounty_hunter_hat_tier_1_24338]
+name=Bounty hunter hat (tier 1)
+model=bounty_hunter_hat_tier_1_38954
+manwear=bounty_hunter_hat_tier_1_38934,0
+womanwear=bounty_hunter_hat_tier_1_38941,0
+manhead=bounty_hunter_hat_tier_1_38947
+femalehead=bounty_hunter_hat_tier_1_38947
+cost=0
+2dzoom=1312
+2dxof=-1
+2dyof=-10
+2dxan=152
+2dyan=156
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_152,1
+
+[placeholder_bounty_hunter_hat_tier_1_24339]
+placeholder=yes
+
+[bounty_hunter_hat_tier_2_24340]
+name=Bounty hunter hat (tier 2)
+model=bounty_hunter_hat_tier_2_38950
+manwear=bounty_hunter_hat_tier_2_38937,0
+womanwear=bounty_hunter_hat_tier_2_38943,0
+manhead=bounty_hunter_hat_tier_2_38944
+femalehead=bounty_hunter_hat_tier_2_38944
+cost=0
+2dzoom=1312
+2dxof=3
+2dyof=-10
+2dxan=152
+2dyan=156
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_152,25
+
+[placeholder_bounty_hunter_hat_tier_2_24341]
+placeholder=yes
+
+[bounty_hunter_hat_tier_3_24342]
+name=Bounty hunter hat (tier 3)
+model=bounty_hunter_hat_tier_3_38952
+manwear=bounty_hunter_hat_tier_3_38935,0
+womanwear=bounty_hunter_hat_tier_3_38942,0
+manhead=bounty_hunter_hat_tier_3_38945
+femalehead=bounty_hunter_hat_tier_3_38945
+cost=0
+2dzoom=1312
+2dxof=-1
+2dyof=-10
+2dxan=152
+2dyan=156
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_152,100
+
+[placeholder_bounty_hunter_hat_tier_3_24343]
+placeholder=yes
+
+[bounty_hunter_hat_tier_4_24344]
+name=Bounty hunter hat (tier 4)
+model=bounty_hunter_hat_tier_4_38955
+manwear=bounty_hunter_hat_tier_4_38932,0
+womanwear=bounty_hunter_hat_tier_4_38940,0
+manhead=bounty_hunter_hat_tier_4_38949
+femalehead=bounty_hunter_hat_tier_4_38949
+cost=0
+2dzoom=1312
+2dxof=2
+2dyof=-10
+2dxan=152
+2dyan=156
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_152,250
+
+[placeholder_bounty_hunter_hat_tier_4_24345]
+placeholder=yes
+
+[bounty_hunter_hat_tier_5_24346]
+name=Bounty hunter hat (tier 5)
+model=bounty_hunter_hat_tier_5_38951
+manwear=bounty_hunter_hat_tier_5_38936,0
+womanwear=bounty_hunter_hat_tier_5_38938,0
+manhead=bounty_hunter_hat_tier_5_38946
+femalehead=bounty_hunter_hat_tier_5_38946
+cost=0
+2dzoom=1312
+2dxof=3
+2dyof=-10
+2dxan=152
+2dyan=156
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_152,1000
+
+[placeholder_bounty_hunter_hat_tier_5_24347]
+placeholder=yes
+
+[bounty_hunter_hat_tier_6_24348]
+name=Bounty hunter hat (tier 6)
+model=bounty_hunter_hat_tier_6_38953
+manwear=bounty_hunter_hat_tier_6_38933,0
+womanwear=bounty_hunter_hat_tier_6_38939,0
+manhead=bounty_hunter_hat_tier_6_38948
+femalehead=bounty_hunter_hat_tier_6_38948
+cost=0
+2dzoom=1312
+2dxof=4
+2dyof=-10
+2dxan=152
+2dyan=156
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_152,2500
+
+[placeholder_bounty_hunter_hat_tier_6_24349]
+placeholder=yes
 

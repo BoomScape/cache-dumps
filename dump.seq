@@ -37081,12 +37081,12 @@ replayoff=1
 looptype=1
 framegroup1=1572
 
-[snailneck_walk_6180]
+[goblin_walk_6180]
 framecount=16
 looptype=1
 framegroup1=1576
 
-[snailneck_ready_6181]
+[goblin_ready_6181]
 framecount=16
 looptype=1
 framegroup1=1576

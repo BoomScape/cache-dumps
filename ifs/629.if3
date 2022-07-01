@@ -73,8 +73,9 @@ hposmode=^setpos_proportion_left
 hsizemode=^setsize_proportion
 vsizemode=^setsize_minus
 layer=interface_629:1
-optionmask=2
+optionmask=6
 op1="Adventure Paths"
+op2="*"
 
 [interface_629:8]
 type=^iftype_line
