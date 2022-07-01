@@ -5624,7 +5624,7 @@ drawpriority=yes
 name=Dark core
 model1=pet_dark_core_11069
 head1=pet_dark_core_11069
-readyanim=dark_core_ready_1688
+readyanim=dark_core_ready_7980
 walkanim=dark_core_walk_2417
 resizeh=83
 resizev=83
@@ -5651,7 +5651,7 @@ vislevel=785
 [dark_energy_core_320]
 name=Dark energy core
 model1=pet_dark_core_11069
-readyanim=dark_core_ready_1688
+readyanim=dark_energy_core_ready_1688
 op2=Attack
 vislevel=75
 drawpriority=yes
@@ -7247,7 +7247,7 @@ vislevel=0
 [dark_core_388]
 name=Dark Core
 model1=pet_dark_core_11069
-readyanim=dark_core_ready_1688
+readyanim=dark_energy_core_ready_1688
 walkanim=dark_core_walk_2417
 resizeh=83
 resizev=83

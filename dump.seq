@@ -10199,7 +10199,7 @@ framecount=5
 looptype=1
 framegroup1=461
 
-[dark_core_ready_1688]
+[dark_energy_core_ready_1688]
 framecount=8
 looptype=1
 framegroup1=475
@@ -27377,29 +27377,34 @@ framegroup1=1195
 
 [seq_4543]
 framecount=35
-stretches=yes
 looptype=1
 framegroup1=1196
 
 [seq_4544]
 framecount=31
+replayoff=1
 stretches=yes
+priority=6
 mainhand=0
 offhand=0
+exactmove=1
+movetype=2
 looptype=1
 framegroup1=1198
 
 [seq_4545]
 framecount=31
-stretches=yes
-mainhand=0
-offhand=0
 looptype=1
 framegroup1=1196
 
 [seq_4546]
 framecount=31
 stretches=yes
+priority=6
+mainhand=0
+offhand=0
+exactmove=2
+movetype=1
 looptype=1
 framegroup1=1198
 
@@ -48372,4 +48377,9 @@ framegroup1=2077
 framecount=37
 looptype=1
 framegroup1=2080
+
+[dark_core_ready_7980]
+framecount=8
+looptype=1
+framegroup1=475
 

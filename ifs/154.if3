@@ -177,11 +177,10 @@ type=^iftype_rectangle
 x=3
 width=500
 height=6
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:14
-colour=0xb70000
+colour=0x2d0000
 fill=yes
 
 [interface_154:17]
@@ -189,10 +188,11 @@ type=^iftype_rectangle
 x=3
 width=500
 height=6
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:14
-colour=0xbe00
+colour=0xb70000
 fill=yes
 
 [interface_154:18]
@@ -203,7 +203,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_154:14
 text="- / -"
-colour=0xf4f4f4
+colour=0xeaeaea
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -234,6 +234,7 @@ x=1
 y=1
 width=253
 height=26
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_154:8
 
@@ -243,7 +244,6 @@ x=1
 y=1
 width=253
 height=26
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_154:6
 
@@ -262,11 +262,10 @@ type=^iftype_rectangle
 x=3
 width=247
 height=6
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:22
-colour=0x382f
+colour=0x3171b
 fill=yes
 
 [interface_154:25]
@@ -274,10 +273,11 @@ type=^iftype_rectangle
 x=3
 width=247
 height=6
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:22
-colour=0x937e
+colour=0x1a88a2
 fill=yes
 
 [interface_154:26]
@@ -288,7 +288,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_154:22
 text="-%"
-colour=0xf4f4f4
+colour=0xeaeaea
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -319,7 +319,6 @@ x=1
 y=1
 width=253
 height=26
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_154:8
 
@@ -329,6 +328,7 @@ x=1
 y=1
 width=253
 height=26
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_154:6
 
@@ -347,11 +347,10 @@ type=^iftype_rectangle
 x=3
 width=247
 height=6
-hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:30
-colour=0x241a36
+colour=0x140d20
 fill=yes
 
 [interface_154:33]
@@ -359,10 +358,11 @@ type=^iftype_rectangle
 x=3
 width=247
 height=6
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:30
-colour=0x6a4d9d
+colour=0x563a8c
 fill=yes
 
 [interface_154:34]
@@ -373,7 +373,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_154:30
 text="- / -"
-colour=0xf4f4f4
+colour=0xeaeaea
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -417,7 +417,7 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:29
-colour=0x241a36
+colour=0x140d20
 fill=yes
 
 [interface_154:39]
@@ -428,7 +428,7 @@ height=6
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:29
-colour=0x6a4d9d
+colour=0x563a8c
 fill=yes
 
 [interface_154:40]
@@ -439,7 +439,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_154:29
 text="- / -"
-colour=0xf4f4f4
+colour=0xeaeaea
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -483,7 +483,7 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:21
-colour=0x382f
+colour=0x3171b
 fill=yes
 
 [interface_154:45]
@@ -494,7 +494,7 @@ height=6
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:21
-colour=0x937e
+colour=0x1a88a2
 fill=yes
 
 [interface_154:46]
@@ -505,7 +505,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_154:21
 text="-%"
-colour=0xf4f4f4
+colour=0xeaeaea
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -549,7 +549,7 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:13
-colour=0xb70000
+colour=0x2d0000
 fill=yes
 
 [interface_154:51]
@@ -560,7 +560,7 @@ height=6
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_154:13
-colour=0xbe00
+colour=0xb70000
 fill=yes
 
 [interface_154:52]
@@ -571,7 +571,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_154:13
 text="- / -"
-colour=0xf4f4f4
+colour=0xeaeaea
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre

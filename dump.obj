@@ -122955,6 +122955,7 @@ model=crackers_20589
 iop1=Drop
 iop5=Destroy
 members=yes
+shiftop=4
 
 [tofu_10514]
 name=Tofu
@@ -122965,6 +122966,7 @@ model=tofu_20590
 iop1=Drop
 iop5=Destroy
 members=yes
+shiftop=4
 
 [worms_10515]
 name=Worms
@@ -122975,6 +122977,7 @@ model=worms_20591
 iop1=Drop
 iop5=Destroy
 members=yes
+shiftop=4
 
 [attacker_horn_10516]
 name=Attacker horn
@@ -123185,6 +123188,7 @@ iop5=Destroy
 recol1s=4696
 recol1d=22412
 members=yes
+shiftop=4
 
 [red_egg_10532]
 name=Red egg
@@ -123198,6 +123202,7 @@ iop5=Destroy
 recol1s=4696
 recol1d=920
 members=yes
+shiftop=4
 
 [blue_egg_10533]
 name=Blue egg
@@ -123211,6 +123216,7 @@ iop5=Destroy
 recol1s=4696
 recol1d=-22380
 members=yes
+shiftop=4
 
 [yellow_egg_10534]
 name=Yellow egg
@@ -123220,9 +123226,11 @@ cost=100000000
 2dxof=1
 2dxan=144
 2dyan=68
+iop5=Destroy
 recol1s=4696
 recol1d=11069
 members=yes
+shiftop=4
 
 [poisoned_egg_10535]
 name=Poisoned egg
@@ -123233,9 +123241,11 @@ cost=100000000
 2dyof=3
 2dxan=78
 2dyan=1697
+iop5=Destroy
 recol1s=4696
 recol1d=11069
 members=yes
+shiftop=4
 
 [spiked_pois_egg_10536]
 name=Spiked/pois. egg
@@ -123245,9 +123255,11 @@ cost=100000000
 2dxof=-4
 2dxan=111
 2dyan=1787
+iop5=Destroy
 recol1s=4696
 recol1d=11069
 members=yes
+shiftop=4
 
 [omega_egg_10537]
 name=Omega egg
@@ -123257,9 +123269,11 @@ cost=100000000
 2dxof=-1
 2dxan=3
 2dyan=1850
+iop5=Destroy
 recol1s=4696
 recol1d=11069
 members=yes
+shiftop=4
 
 [defender_horn_10538]
 name=Defender horn
@@ -123287,6 +123301,7 @@ iop5=Destroy
 recol1s=119
 recol1d=-11097
 members=yes
+shiftop=4
 
 [poisoned_worms_10540]
 name=Poisoned worms
@@ -123300,6 +123315,7 @@ recol1d=12700
 recol2s=192
 recol2d=14876
 members=yes
+shiftop=4
 
 [poisoned_meat_10541]
 name=Poisoned meat
@@ -123314,6 +123330,7 @@ recol1d=21679
 recol2s=4506
 recol2d=21914
 members=yes
+shiftop=4
 
 [healing_vial_4_10542]
 name=Healing vial(4)
@@ -139284,12 +139301,11 @@ certificate=yes
 name=Godsword blade
 model=godsword_blade_28077
 cost=750000
-2dzoom=1040
-2dyof=-3
-2dxan=352
-2dyan=1156
-recol1s=61
-recol1d=5652
+2dzoom=1552
+2dxof=5
+2dyof=9
+2dxan=379
+2dyan=220
 members=yes
 stockmarket=yes
 certificate=yes
@@ -208623,4 +208639,163 @@ recol4s=15913
 recol4d=27173
 recol5s=14922
 recol5d=25028
+
+[infernal_defender_22322]
+name=Infernal defender
+model=dragon_defender_10422
+manwear=dragon_defender_10420,0
+womanwear=dragon_defender_10421,1
+cost=68007
+2dzoom=589
+2dxof=8
+2dyof=8
+2dxan=498
+2dyan=256
+iop2=Wield
+recol1s=-2112
+recol1d=-9762
+recol2s=924
+recol2d=-9762
+recol3s=960
+recol3d=-9762
+recol4s=933
+recol4d=-9762
+recol5s=935
+recol5d=-9762
+recol6s=947
+recol6d=-9762
+members=yes
+
+[sanguinesti_staff_22323]
+name=Sanguinesti staff
+model=staff_of_armadyl_2810
+manwear=staff_of_the_dead_5232,0
+womanwear=staff_of_the_dead_5232,0
+cost=1000005
+2dzoom=1490
+2dxof=-5
+2dyof=2
+2dxan=138
+2dyan=1300
+iop2=Wield
+recol1s=17467
+recol1d=-9762
+recol2s=-22419
+recol2d=-9762
+recol3s=7073
+recol3d=-9762
+recol4s=61
+recol4d=-9762
+recol5s=16582
+recol5d=-9762
+recol6s=16578
+recol6d=-9762
+members=yes
+
+[ghrazi_rapier_22324]
+name=Ghrazi rapier
+model=rapier_11144
+manwear=rapier_11203,0
+womanwear=rapier_11203,6
+cost=5000000
+2dzoom=1168
+2dxof=3
+2dyof=1
+2dxan=691
+2dyan=478
+iop2=Wield
+recol1s=90
+recol1d=-9762
+members=yes
+
+[scythe_of_vitur_22325]
+name=Scythe of vitur
+model=scythe_2511
+manwear=scythe_507,0
+womanwear=scythe_507,0
+2dzoom=1930
+2dxof=1
+2dyof=17
+2dxan=336
+2dyan=20
+iop2=Wield
+recol1s=7073
+recol1d=-9762
+recol2s=61
+recol2d=-9762
+members=yes
+
+[justiciar_faceguard_22326]
+name=Justiciar faceguard
+model=torags_helm_6592
+manwear=torags_helm_6656,0
+womanwear=torags_helm_6689,0
+manhead=torags_helm_6572
+femalehead=torags_helm_6576
+cost=103000
+2dzoom=660
+2dxof=11
+2dyan=212
+iop2=Wear
+recol1s=10394
+recol1d=-9762
+recol2s=6020
+recol2d=-9762
+members=yes
+
+[justiciar_chestguard_22327]
+name=Justiciar chestguard
+model=torags_platebody_6594
+manwear=torags_platebody_6676,0
+manwear2=torags_platebody_6644
+womanwear=torags_platebody_6701,0
+womanwear2=torags_platebody_6684
+cost=280000
+2dzoom=1310
+2dxof=2
+2dxan=432
+iop2=Wear
+recol1s=10394
+recol1d=-9762
+recol2s=10291
+recol2d=-9762
+members=yes
+
+[justiciar_leg_guards_22328]
+name=Justiciar leg guards
+model=torags_platelegs_6584
+manwear=torags_platelegs_6662,0
+womanwear=torags_platelegs_6693,0
+cost=275000
+2dzoom=1720
+2dyof=1
+2dxan=468
+iop2=Wear
+recol1s=10394
+recol1d=-9762
+recol2s=10407
+recol2d=-9762
+recol3s=10388
+recol3d=-9762
+members=yes
+
+[vampyrium_vambraces_22329]
+name=Vampyrium vambraces
+model=leather_vambraces_2656
+manwear=green_dhide_vamb_178,0
+womanwear=green_dhide_vamb_355,0
+cost=4320
+2dzoom=740
+2dxof=7
+2dyof=-33
+2dxan=196
+2dyan=1784
+iop2=Wear
+recol1s=8472
+recol1d=-9762
+recol2s=8720
+recol2d=-9762
+recol3s=22416
+recol3d=-9762
+members=yes
 

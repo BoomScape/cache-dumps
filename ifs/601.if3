@@ -125,14 +125,14 @@ graphic="overlay_multiway"
 [interface_601:16]
 type=^iftype_layer
 width=211
-height=166
+height=173
 hposmode=^setpos_abs_right
 
 [interface_601:17]
 type=^iftype_layer
+height=166
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_601:16
 
 [interface_601:18]
@@ -187,7 +187,7 @@ graphic="graphic_1177"
 [interface_601:23]
 type=^iftype_layer
 width=211
-height=156
+height=163
 vposmode=^setpos_abs_bottom
 layer=interface_601:16
 
