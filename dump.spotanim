@@ -336,6 +336,14 @@ contrast=156
 recol1s=123
 recol1d=28
 
+[spotanim_58]
+model=model_3151
+anim=seq_375
+recol1s=61
+recol1d=943
+recol2s=127
+recol2d=984
+
 [spotanim_59]
 model=whirlpool_2320
 anim=whirlpool_456
@@ -1741,7 +1749,7 @@ anim=fungi_on_log_1096
 
 [spotanim_261]
 model=model_3600
-anim=a_golden_pear_bush_1097
+anim=golden_pear_bush_1097
 
 [spotanim_262]
 model=model_3591
@@ -2150,19 +2158,19 @@ model=model_5075
 anim=seq_1543
 
 [spotanim_334]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1569
 resizeh=64
 resizev=64
 
 [spotanim_335]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
 
 [spotanim_336]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -3906,7 +3914,7 @@ model=tolna_14284
 anim=seq_3834
 
 [spotanim_633]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1569
 resizeh=64
 resizev=64
@@ -3914,7 +3922,7 @@ recol1s=17069
 recol1d=33457
 
 [spotanim_634]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
@@ -3922,7 +3930,7 @@ recol1s=17069
 recol1d=33457
 
 [spotanim_635]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -3930,7 +3938,7 @@ recol1s=17069
 recol1d=33457
 
 [spotanim_636]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1569
 resizeh=64
 resizev=64
@@ -3938,7 +3946,7 @@ recol1s=17069
 recol1d=55207
 
 [spotanim_637]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
@@ -3946,7 +3954,7 @@ recol1s=17069
 recol1d=55207
 
 [spotanim_638]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -3954,7 +3962,7 @@ recol1s=17069
 recol1d=55207
 
 [spotanim_639]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1569
 resizeh=64
 resizev=64
@@ -3962,7 +3970,7 @@ recol1s=17069
 recol1d=62375
 
 [spotanim_640]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
@@ -3970,7 +3978,7 @@ recol1s=17069
 recol1d=62375
 
 [spotanim_641]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -8342,7 +8350,7 @@ resizeh=70
 resizev=70
 
 [spotanim_1314]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=16
 resizev=16
@@ -8350,7 +8358,7 @@ recol1s=17069
 recol1d=2873
 
 [spotanim_1315]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=40
 resizev=40
@@ -8522,7 +8530,7 @@ resizeh=60
 resizev=60
 
 [spotanim_1341]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
@@ -8530,7 +8538,7 @@ recol1s=17069
 recol1d=47810
 
 [spotanim_1342]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -8538,7 +8546,7 @@ recol1s=17069
 recol1d=47810
 
 [spotanim_1343]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
@@ -8546,7 +8554,7 @@ recol1s=17069
 recol1d=22459
 
 [spotanim_1344]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -8554,7 +8562,7 @@ recol1s=17069
 recol1d=22459
 
 [spotanim_1345]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
@@ -8562,7 +8570,7 @@ recol1s=17069
 recol1d=691
 
 [spotanim_1346]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -9049,7 +9057,7 @@ model=model_19393
 anim=seq_7472
 
 [spotanim_1437]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=64
 resizev=64
@@ -9057,7 +9065,7 @@ recol1s=17069
 recol1d=46036
 
 [spotanim_1438]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=64
 resizev=64
@@ -9065,7 +9073,7 @@ recol1s=17069
 recol1d=46036
 
 [spotanim_1439]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 resizeh=100
 resizev=100
@@ -9073,7 +9081,7 @@ recol1s=17069
 recol1d=46036
 
 [spotanim_1440]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 resizeh=100
 resizev=100
@@ -9081,13 +9089,13 @@ recol1s=17069
 recol1d=46036
 
 [spotanim_1441]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1570
 recol1s=17069
 recol1d=46036
 
 [spotanim_1442]
-model=model_7412
+model=blood_orb_7412
 anim=seq_1571
 recol1s=17069
 recol1d=46036
@@ -11473,6 +11481,14 @@ anim=seq_4858
 ambient=50
 contrast=20
 
+[spotanim_1755]
+model=model_3149
+anim=seq_374
+recol1s=61
+recol1d=943
+recol2s=127
+recol2d=984
+
 [spotanim_1756]
 model=model_39130
 anim=seq_8538
@@ -11712,4 +11728,249 @@ contrast=10
 [spotanim_1783]
 model=model_39181
 anim=seq_8628
+
+[spotanim_1784]
+model=model_35034
+anim=seq_7884
+resizeh=56
+resizev=56
+recol1s=8125
+recol1d=931
+recol2s=5056
+recol2d=922
+recol3s=957
+recol3d=912
+
+[spotanim_1785]
+model=model_3088
+anim=seq_664
+resizeh=88
+resizev=88
+ambient=10
+contrast=10
+recol1s=6080
+recol1d=924
+recol2s=960
+recol2d=912
+
+[spotanim_1786]
+model=model_3088
+anim=seq_664
+resizeh=60
+resizev=60
+ambient=10
+contrast=10
+recol1s=6080
+recol1d=924
+recol2s=960
+recol2d=912
+
+[spotanim_1787]
+model=model_6403
+anim=seq_1980
+ambient=25
+contrast=40
+recol1s=43034
+recol1d=16344
+recol2s=28
+recol2d=16322
+
+[spotanim_1788]
+model=model_6403
+anim=seq_1980
+resizeh=64
+resizev=64
+ambient=25
+contrast=40
+recol1s=43034
+recol1d=16344
+recol2s=28
+recol2d=16322
+
+[spotanim_1789]
+model=model_6401
+anim=seq_1982
+ambient=25
+contrast=40
+recol1s=43034
+recol1d=16344
+recol2s=28
+recol2d=16322
+recol3s=10270
+recol3d=16344
+
+[spotanim_1790]
+model=model_2223
+anim=seq_465
+resizeh=64
+resizev=64
+recol1s=43237
+recol1d=10471
+
+[spotanim_1791]
+model=model_3116
+anim=seq_693
+resizeh=104
+resizev=104
+ambient=20
+contrast=30
+recol1s=7104
+recol1d=922
+recol2s=6080
+recol2d=920
+recol3s=960
+recol3d=937
+
+[spotanim_1792]
+model=model_7732
+anim=seq_1535
+resizeh=96
+resizev=96
+ambient=50
+contrast=50
+recol1s=51119
+recol1d=943
+recol2s=51003
+recol2d=953
+recol3s=51016
+recol3d=836
+recol4s=569
+recol4d=819
+recol5s=689
+recol5d=813
+
+[spotanim_1793]
+model=model_28081
+anim=seq_6971
+resizeh=112
+recol1s=33752
+recol1d=569
+recol2s=127
+recol2d=580
+recol3s=12859
+recol3d=941
+
+[spotanim_1794]
+model=model_40177
+anim=seq_8680
+ambient=10
+recol1s=32873
+recol1d=231
+recol2s=32887
+recol2d=109
+recol3s=33003
+recol3d=225
+recol4s=32993
+recol4d=346
+recol5s=32964
+recol5d=450
+recol6s=32976
+recol6d=462
+
+[spotanim_1795]
+model=model_39725
+anim=seq_6074
+
+[spotanim_1796]
+model=model_40177
+anim=seq_8677
+resizev=206
+ambient=60
+
+[spotanim_1797]
+model=model_40177
+anim=seq_8679
+resizev=206
+ambient=60
+
+[spotanim_1798]
+model=model_40177
+anim=seq_8680
+resizev=206
+ambient=60
+
+[spotanim_1799]
+model=model_40204
+anim=seq_8688
+ambient=80
+recol1s=49969
+recol1d=39880
+
+[spotanim_1800]
+model=model_40204
+anim=seq_8688
+ambient=80
+recol1s=49969
+recol1d=8012
+
+[spotanim_1801]
+model=model_40204
+anim=seq_8689
+ambient=80
+recol1s=49969
+recol1d=39880
+
+[spotanim_1802]
+model=model_40204
+anim=seq_8689
+ambient=80
+recol1s=49969
+recol1d=8012
+
+[spotanim_1803]
+model=model_40204
+anim=seq_8690
+ambient=80
+recol1s=49969
+recol1d=39880
+
+[spotanim_1804]
+model=model_40204
+anim=seq_8690
+ambient=80
+recol1s=49969
+recol1d=8012
+
+[spotanim_1805]
+model=model_5802
+anim=seq_1813
+ambient=100
+contrast=100
+recol1s=49969
+recol1d=39473
+
+[spotanim_1806]
+model=obelisk_14777
+anim=obelisk_3944
+ambient=80
+recol1s=55192
+recol1d=8012
+
+[spotanim_1807]
+model=model_39812
+anim=seq_8724
+
+[spotanim_1808]
+model=model_39813
+anim=seq_8730
+
+[spotanim_1809]
+model=model_39813
+anim=seq_8732
+
+[spotanim_1810]
+model=model_39813
+anim=seq_8736
+
+[spotanim_1811]
+model=model_39813
+anim=seq_8738
+
+[spotanim_1812]
+model=model_39813
+anim=seq_8742
+
+[spotanim_1813]
+model=model_39815
+anim=seq_8746
 

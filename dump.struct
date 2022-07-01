@@ -1056,15 +1056,6 @@ param=param_613,1
 param=param_614,1
 param=param_657,10
 
-[vampire_slayer_317]
-param=param_579,Vampire Slayer
-param=param_610,Vampire Slayer
-param=param_611,0
-param=param_612,0
-param=param_613,0
-param=param_614,3
-param=param_657,20
-
 [witchs_potion_318]
 param=param_579,Witch's Potion
 param=param_610,Witch's Potion
@@ -6889,4 +6880,26 @@ param=param_613,2
 [health_overlay_1277]
 param=param_939,Health Overlay
 param=param_940,"options_icons,57"
+
+[vampyre_slayer_1278]
+param=param_579,Vampyre Slayer
+param=param_610,Vampyre Slayer
+param=param_611,0
+param=param_612,0
+param=param_613,0
+param=param_614,3
+param=param_657,20
+
+[hallowed_sepulchre_1279]
+param=param_689,Hallowed Sepulchre
+param=param_690,enum_2862
+
+[struct_1280]
+param=param_569,cooked_mystery_meat_24785
+
+[struct_1281]
+param=param_569,burnt_meat_2146
+
+[struct_1282]
+param=param_578,burnt_meat_2146
 

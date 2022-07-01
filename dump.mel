@@ -3900,3 +3900,9 @@ graphic="mapfunction,124"
 vis=^mapelement_vis_both
 category=1425
 
+[mapelement_651]
+text=Icyene<br>Graveyard
+colour=^white
+mapfunction=no
+category=1129
+

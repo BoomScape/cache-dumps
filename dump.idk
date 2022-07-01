@@ -631,13 +631,13 @@ model1=female_legs_28359
 
 [idk_141]
 bodypart=^bodypart_female_hair
-head1=female_hair_14394
-model1=female_hair_32217
+head1=female_hair_39840
+model1=female_hair_39779
 
 [idk_142]
-bodypart=^bodypart_male_hair
-head1=male_hair_14392
-model1=male_hair_14390
+bodypart=^bodypart_female_hair
+head1=female_hair_39840
+model1=female_hair_39779
 
 [idk_143]
 bodypart=^bodypart_female_hair
@@ -678,4 +678,14 @@ model1=male_hair_32833
 bodypart=^bodypart_male_hair
 head1=male_hair_32842
 model1=male_hair_32830
+
+[idk_151]
+bodypart=^bodypart_male_hair
+head1=male_hair_39833
+model1=male_hair_39759
+
+[idk_152]
+bodypart=^bodypart_female_hair
+head1=female_hair_39840
+model1=female_hair_39779
 

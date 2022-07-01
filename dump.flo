@@ -527,6 +527,56 @@ colour=0x484838
 mapcolour=0x484838
 occlude=no
 
+[flo_140]
+colour=0x688080
+mapcolour=0x688080
+occlude=no
+
+[flo_141]
+colour=0xa0a8a8
+mapcolour=0xa0a8a8
+occlude=no
+
+[flo_142]
+colour=0x506060
+mapcolour=0x506060
+occlude=no
+
+[flo_143]
+colour=^magenta
+mapcolour=0xa0a8a8
+occlude=no
+
+[flo_144]
+colour=0x818173
+mapcolour=0x818173
+occlude=no
+
+[flo_145]
+colour=0xb0b0a6
+mapcolour=0xb0b0a6
+occlude=no
+
+[flo_146]
+colour=0x646459
+mapcolour=0x646459
+occlude=no
+
+[flo_147]
+colour=^magenta
+mapcolour=0xb0b0a6
+occlude=no
+
+[flo_148]
+colour=0x738173
+mapcolour=0x738173
+occlude=no
+
+[flo_149]
+colour=0xa6b0a6
+mapcolour=0xa6b0a6
+occlude=no
+
 [flo_150]
 colour=0x7296b7
 
@@ -585,6 +635,11 @@ occlude=no
 [flo_163]
 colour=0x505070
 
+[flo_164]
+colour=0x596459
+mapcolour=0x596459
+occlude=no
+
 [flo_165]
 colour=0xfafa45
 
@@ -596,6 +651,11 @@ colour=0xca7bc9
 
 [flo_168]
 colour=0x84b7c4
+
+[flo_169]
+colour=^magenta
+mapcolour=0xa6b0a6
+occlude=no
 
 [flo_170]
 colour=0x787060
@@ -609,4 +669,24 @@ colour=0x786848
 [flo_173]
 colour=^black
 texture=texture_43
+
+[flo_174]
+colour=0x648e90
+mapcolour=0x648e90
+occlude=no
+
+[flo_175]
+colour=0x9bbabb
+mapcolour=0x9bbabb
+occlude=no
+
+[flo_176]
+colour=0x4d6e6f
+mapcolour=0x4d6e6f
+occlude=no
+
+[flo_177]
+colour=^magenta
+mapcolour=0x4d6e6f
+occlude=no
 

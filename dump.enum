@@ -515,6 +515,7 @@ val=20,29
 val=21,36
 val=22,39
 val=23,46
+val=24,49
 
 [enum_284]
 inputtype=namedobj
@@ -679,6 +680,7 @@ val=graceful_hood_13591,Graceful outfit (Piscarilius)
 val=graceful_hood_13615,Graceful outfit (Shayzien)
 val=graceful_hood_13667,Graceful outfit (Kourend)
 val=graceful_hood_21061,Graceful outfit (Agility Arena)
+val=graceful_hood_24743,Graceful outfit (Hallowed)
 val=blue_tricorn_hat_8959,Blue naval attire
 val=green_tricorn_hat_8960,Green naval attire
 val=red_tricorn_hat_8961,Red naval attire
@@ -3016,7 +3018,7 @@ val=49,36
 inputtype=int
 outputtype=string
 default=?
-val=0,Vampire Slayer
+val=0,Vampyre Slayer
 val=1,What Lies Below
 val=2,Witch's House
 val=3,Mountain Daughter
@@ -3684,8 +3686,20 @@ val=623,Lair of the Basilisk
 val=624,Fight of the Basilisk
 val=625,Reign of the Basilisk
 val=626,Ballad of the Basilisk
+val=627,Arboretum
+val=628,Darkmeyer
+val=629,Upir Likhyi
+val=630,The Terrible Caverns
+val=631,The Terrible Tunnels
 val=632,The Bane of Ashihama
 val=633,The Everlasting Slumber
+val=634,Domain of the Vampyres
+val=635,Lament for the Hallowed
+val=636,Well Hallowed Air
+val=637,Morytanian Mystery
+val=638,Vampyre Assault
+val=639,You Have My Attention
+val=640,Watch Your Step
 
 [enum_814]
 inputtype=int
@@ -4362,8 +4376,20 @@ val=623,Lair of the Basilisk
 val=624,Fight of the Basilisk
 val=625,Reign of the Basilisk
 val=626,Ballad of the Basilisk
+val=627,Arboretum
+val=628,Darkmeyer
+val=629,Upir Likhyi
+val=630,"Terrible Caverns, The"
+val=631,"Terrible Tunnels, The"
 val=632,"Bane of Ashihama, The"
 val=633,"Everlasting Slumber, The"
+val=634,Domain of the Vampyres
+val=635,Lament for the Hallowed
+val=636,Well Hallowed Air
+val=637,Morytanian Mystery
+val=638,Vampyre Assault
+val=639,You Have My Attention
+val=640,Watch Your Step
 
 [enum_818]
 inputtype=int
@@ -4995,8 +5021,20 @@ val=622,623
 val=623,624
 val=624,625
 val=625,626
-val=626,632
-val=627,633
+val=626,627
+val=627,628
+val=628,629
+val=629,630
+val=630,631
+val=631,632
+val=632,633
+val=633,634
+val=634,635
+val=635,636
+val=636,637
+val=637,638
+val=638,639
+val=639,640
 
 [enum_819]
 inputtype=int
@@ -5628,8 +5666,20 @@ val=623,0_0_0_20_4
 val=624,0_0_0_20_5
 val=625,0_0_0_20_6
 val=626,0_0_0_20_7
+val=627,0_0_0_20_8
+val=628,0_0_0_20_9
+val=629,0_0_0_20_10
+val=630,0_0_0_20_11
+val=631,0_0_0_20_12
 val=632,0_0_0_20_13
 val=633,0_0_0_20_14
+val=634,0_0_0_20_15
+val=635,0_0_0_20_16
+val=636,0_0_0_20_17
+val=637,0_0_0_20_18
+val=638,0_0_0_20_19
+val=639,0_0_0_20_20
+val=640,0_0_0_20_21
 
 [enum_823]
 inputtype=component
@@ -5822,6 +5872,8 @@ val=45,Use more head
 val=46,Basilonger
 val=47,Basilocked
 val=48,Twisted Vision
+val=49,More at stake
+val=50,Actual Vampyre Slayer
 
 [enum_835]
 inputtype=int
@@ -5876,6 +5928,8 @@ val=45,Learn how to combine a Hydra head with your slayer helm to theme it like 
 val=46,"Whenever you get a Basilisk task, it will be a bigger task."
 val=47,"Konar, Duradel and Nieve will be able to assign Basilisks as your task."
 val=48,Learn how to combine Twisted Horns with your slayer helm to theme it like the Great Olm.
+val=49,"Whenever you get a Vampyre task, it will be a bigger task."
+val=50,"Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task."
 
 [enum_836]
 inputtype=int
@@ -5930,6 +5984,8 @@ val=45,1000
 val=46,100
 val=47,80
 val=48,1000
+val=49,100
+val=50,80
 
 [enum_837]
 inputtype=int
@@ -5984,6 +6040,8 @@ val=45,hydra_slayer_helmet_23073
 val=46,basilisk_4139
 val=47,basilisk_4139
 val=48,twisted_slayer_helmet_24370
+val=49,vampyre_24708
+val=50,vampyre_24708
 
 [enum_839]
 inputtype=int
@@ -6014,6 +6072,7 @@ val=21,43
 val=22,44
 val=23,47
 val=24,48
+val=25,50
 
 [enum_840]
 inputtype=int
@@ -6764,6 +6823,8 @@ val=41,yes
 val=44,yes
 val=46,yes
 val=47,yes
+val=49,yes
+val=50,yes
 
 [enum_859]
 inputtype=int
@@ -7200,7 +7261,7 @@ val=12,Samurai
 val=13,Princely
 val=14,Curtains
 val=15,Long curtains
-val=16,The Supreme Leader
+val=16,Front split
 val=17,Tousled
 val=18,Side wedge
 val=19,Front wedge
@@ -7229,7 +7290,7 @@ val=12,model_28378
 val=13,model_28381
 val=14,guildmaster_14371
 val=15,ignatius_vulcan_19101
-val=16,male_hair_14392
+val=16,male_hair_39833
 val=17,male_hair_32843
 val=18,male_hair_32840
 val=19,male_hair_32844
@@ -7308,7 +7369,7 @@ val=18,Layered
 val=19,Straight
 val=20,Straight braids
 val=21,Curtains
-val=22,The Supreme Leader
+val=22,Front split
 val=23,Two-back
 
 [enum_889]
@@ -7337,7 +7398,7 @@ val=18,model_28404
 val=19,model_28419
 val=20,model_28403
 val=21,model_28410
-val=22,female_hair_14394
+val=22,female_hair_39840
 val=23,female_hair_32846
 
 [enum_890]
@@ -7458,6 +7519,7 @@ val=rod_of_ivandis_3_7646,100
 val=rod_of_ivandis_2_7647,100
 val=rod_of_ivandis_1_7648,100
 val=ivandis_flail_22398,100
+val=blisterwood_flail_24699,100
 val=staff_of_the_dead_11791,1000
 val=staff_of_light_22296,1000
 val=staff_of_balance_24144,1000
@@ -16457,6 +16519,7 @@ val=rod_of_ivandis_3_7646,Retainer: Traps a vampyre juvenile or juvinate provide
 val=rod_of_ivandis_2_7647,Retainer: Traps a vampyre juvenile or juvinate provided they have 50% or less hitpoints remaining.
 val=rod_of_ivandis_1_7648,Retainer: Traps a vampyre juvenile or juvinate provided they have 50% or less hitpoints remaining.
 val=ivandis_flail_22398,Retainer: Traps a vampyre juvenile or juvinate provided they have 50% or less hitpoints remaining.
+val=blisterwood_flail_24699,Retainer: Traps a vampyre juvenile or juvinate provided they have 50% or less hitpoints remaining.
 val=staff_of_the_dead_11791,Power of Death: Reduce all melee damage you receive by 50% for the next minute while the staff remains equipped. Stacks with Protect from Melee.
 val=staff_of_light_22296,Power of Death: Reduce all melee damage you receive by 50% for the next minute while the staff remains equipped. Stacks with Protect from Melee.
 val=staff_of_balance_24144,Power of Death: Reduce all melee damage you receive by 50% for the next minute while the staff remains equipped. Stacks with Protect from Melee.
@@ -16892,6 +16955,10 @@ val=25,Shura's Item Retrieval Service
 val=26,Shura's Item Retrieval Service
 val=27,Sister Senga's Item Retrieval Service
 val=28,Sister Senga's Item Retrieval Service
+val=29,Mysterious Stranger's Item Retrieval Service
+val=30,Mysterious Stranger's Item Retrieval Service
+val=31,Veliaf's Item Retrieval Service
+val=32,Veliaf's Item Retrieval Service
 
 [enum_1756]
 inputtype=int
@@ -16911,6 +16978,8 @@ val=21,coins_995
 val=23,coins_995
 val=25,coins_995
 val=27,coins_995
+val=29,coins_995
+val=31,coins_995
 
 [enum_1757]
 inputtype=int
@@ -16930,6 +16999,8 @@ val=21,80000
 val=23,50000
 val=25,60000
 val=27,60000
+val=29,25000
+val=31,50000
 
 [enum_1771]
 inputtype=coordgrid
@@ -19019,9 +19090,9 @@ val=3,plaster_fragment_7628
 val=4,dusty_scroll_7629
 val=5,crate_7630
 val=6,temple_library_key_7632
-val=7,ancient_book_7633
-val=8,battered_tome_7634
-val=9,leather_book_7635
+val=7,the_sleeping_seven_7633
+val=8,histories_of_the_hallowland_7634
+val=9,modern_day_morytania_7635
 val=10,rod_dust_7636
 
 [enum_2037]
@@ -19035,7 +19106,7 @@ val=3,castle_sketch_3_9648
 val=4,message_9649
 val=5,blood_tithe_pouch_9650
 val=6,large_ornate_key_9651
-val=7,haemalchemy_9652
+val=7,haemalchemy_volume_1_9652
 val=8,sealed_message_9653
 val=9,door_key_9654
 val=10,ladder_top_9655
@@ -19592,7 +19663,7 @@ val=enum_2082,pirates_treasure_310
 val=enum_2084,romeo_juliet_313
 val=enum_2085,rune_mysteries_314
 val=enum_2086,shield_of_arrav_316
-val=enum_2087,vampire_slayer_317
+val=enum_2087,vampyre_slayer_1278
 val=enum_2088,witchs_potion_318
 
 [enum_2075]
@@ -19945,7 +20016,7 @@ val=14,romeo_juliet_313
 val=15,rune_mysteries_314
 val=16,sheep_shearer_315
 val=17,shield_of_arrav_316
-val=18,vampire_slayer_317
+val=18,vampyre_slayer_1278
 val=19,witchs_potion_318
 val=20,x_marks_the_spot_550
 
@@ -20174,13 +20245,14 @@ val=0,barbarian_assault_516
 val=1,castle_wars_514
 val=2,fishing_trawler_520
 val=3,gnome_restaurant_521
-val=4,magic_training_arena_515
-val=5,pest_control_518
-val=6,rogues_den_522
-val=7,shades_of_mortton_517
-val=8,temple_trekking_519
-val=9,tithe_farm_524
-val=10,trouble_brewing_523
+val=4,hallowed_sepulchre_1279
+val=5,magic_training_arena_515
+val=6,pest_control_518
+val=7,rogues_den_522
+val=8,shades_of_mortton_517
+val=9,temple_trekking_519
+val=10,tithe_farm_524
+val=11,trouble_brewing_523
 
 [enum_2107]
 inputtype=int
@@ -21188,7 +21260,7 @@ val=68,ankou_mask_20095
 val=69,ankou_top_20098
 val=70,ankou_gloves_20101
 val=71,ankou_socks_20107
-val=72,ankou_leggings_20104
+val=72,ankous_leggings_20104
 val=73,mummys_head_20080
 val=74,mummys_feet_20092
 val=75,mummys_hands_20086
@@ -21602,6 +21674,7 @@ val=63,basilisk_jaw_24268
 val=64,dagonhai_hat_24288
 val=65,dagonhai_robe_top_24291
 val=66,dagonhai_robe_bottom_24294
+val=67,blood_shard_24777
 
 [enum_2163]
 inputtype=int
@@ -23407,6 +23480,21 @@ val=5,interface_622:74
 val=6,interface_622:83
 val=7,interface_622:92
 val=8,interface_622:101
+
+[enum_2644]
+inputtype=int
+outputtype=component
+default=interface_665:19
+val=0,interface_665:19
+val=1,interface_665:20
+val=2,interface_665:21
+val=3,interface_665:22
+val=4,interface_665:23
+val=5,interface_665:26
+val=6,interface_665:27
+val=7,interface_665:28
+val=8,interface_665:29
+val=9,interface_665:30
 
 [enum_2648]
 inputtype=int
@@ -25409,4 +25497,47 @@ val=28,granite_clamp_12849
 val=29,ornate_maul_handle_24229
 val=30,bounty_teleport_scroll_12846
 val=31,hunters_honour_12855
+
+[enum_2860]
+inputtype=int
+outputtype=component
+default=interface_665:19
+val=0,interface_665:33
+val=1,interface_665:34
+val=2,interface_665:35
+val=3,interface_665:36
+val=4,interface_665:37
+val=5,interface_665:38
+val=6,interface_665:39
+val=7,interface_665:40
+val=8,interface_665:41
+val=9,interface_665:42
+
+[enum_2861]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,giant_squirrel_20659
+val=1,dark_squirrel_24701
+
+[enum_2862]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hallowed_mark_24711
+val=1,hallowed_token_24719
+val=2,hallowed_grapple_24721
+val=3,hallowed_focus_24723
+val=4,hallowed_symbol_24725
+val=5,hallowed_hammer_24727
+val=6,hallowed_ring_24731
+val=7,dark_dye_24729
+val=8,dark_acorn_24733
+val=9,strange_old_lockpick_full_24740
+val=10,ring_of_endurance_uncharged_24735
+val=11,mysterious_page_24763
+val=12,mysterious_page_24765
+val=13,mysterious_page_24767
+val=14,mysterious_page_24769
+val=15,mysterious_page_24771
 
