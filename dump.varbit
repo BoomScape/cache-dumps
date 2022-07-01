@@ -65403,6 +65403,11 @@ basevar=var_3180
 startbit=0
 endbit=11
 
+[varbit_13081]
+basevar=var_2898
+startbit=11
+endbit=11
+
 [varbit_13082]
 basevar=var_3154
 startbit=9

@@ -258931,7 +258931,7 @@ placeholder=yes
 [nihil_shard_26231]
 name=Nihil shard
 model=blood_shard_39672
-cost=500
+cost=5000
 2dzoom=1020
 2dxof=7
 2dyof=13
@@ -260222,7 +260222,7 @@ placeholder=yes
 [nihil_horn_26372]
 name=Nihil horn
 model=nihil_horn_43235
-cost=150000
+cost=2000000
 2dzoom=1358
 2dxof=-1
 2dyof=-1
@@ -260391,6 +260391,7 @@ placeholder=yes
 [ecumenical_key_shard_26388]
 name=Ecumenical key shard
 model=rune_shards_9121
+cost=1200
 2dzoom=1730
 2dyof=-20
 2dxan=180
@@ -260408,7 +260409,7 @@ placeholder=yes
 [blood_essence_26390]
 name=Blood essence
 model=blood_essence_43205
-cost=200000
+cost=100000
 2dzoom=764
 2dxof=-2
 2dyof=2
@@ -260428,7 +260429,7 @@ placeholder=yes
 [blood_essence_active_26392]
 name=Blood essence (active)
 model=blood_essence_active_43204
-cost=200000
+cost=100000
 2dzoom=764
 2dxof=-2
 2dyof=2

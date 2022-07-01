@@ -22226,6 +22226,7 @@ val=44,youngllef_23757
 val=45,little_nightmare_24491
 val=46,lil_creator_25348
 val=47,tiny_tempor_25602
+val=48,nexling_26348
 
 [enum_2159]
 inputtype=int
@@ -22980,6 +22981,7 @@ val=2,struct_1244
 val=3,struct_591
 val=4,struct_590
 val=5,struct_717
+val=6,struct_3770
 
 [enum_2321]
 inputtype=int
@@ -22991,6 +22993,7 @@ val=2,interface_109:82
 val=3,interface_109:83
 val=4,interface_109:84
 val=5,interface_109:85
+val=6,interface_109:86
 
 [enum_2322]
 inputtype=int
@@ -48033,6 +48036,7 @@ val=33,Vorkath
 val=34,Wintertodt
 val=35,Zalcano
 val=36,Zulrah
+val=37,Nex
 
 [enum_3810]
 inputtype=int

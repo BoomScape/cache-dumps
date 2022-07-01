@@ -529,6 +529,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+hide=yes
 layer=interface_109:21
 
 [interface_109:51]
@@ -825,7 +826,6 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-hide=yes
 layer=interface_109:21
 
 [interface_109:78]
@@ -899,6 +899,15 @@ optionmask=2
 op1="*"
 
 [interface_109:85]
+type=^iftype_layer
+width=182
+height=110
+hide=yes
+layer=interface_109:79
+optionmask=2
+op1="*"
+
+[interface_109:86]
 type=^iftype_layer
 width=182
 height=110
