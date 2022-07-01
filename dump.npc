@@ -15367,7 +15367,7 @@ model4=lunar_gloves_16497
 model5=lunar_boots_16495
 model6=lunar_cape_16507
 model7=lunar_amulet_16504
-model8=me_452
+model8=lunar_staff_39590
 model9=lunar_torso_16492
 head1=lunar_helm_16468
 readyanim=doomsayer_ready_813
@@ -166076,7 +166076,7 @@ name=Vespina
 model1=vespula_32689
 head1=vespina_35118
 readyanim=vespula_ready_7449
-walkanim=vespula_walk_7448
+walkanim=vespina_walk_8639
 resizeh=20
 resizev=20
 op1=Talk-to
@@ -194923,4 +194923,64 @@ multinpc=162,hanchen_the_hound_9506
 multinpc=163,hanchen_the_hound_9506
 multinpc=164,hanchen_the_hound_9506
 drawpriority=yes
+
+[enraged_tektiny_9511]
+name=Enraged Tektiny
+model1=tekton_32682
+head1=tektiny_34602
+readyanim=tekton_enraged_ready_7485
+walkanim=enraged_tektiny_walk_8637
+resizeh=25
+resizev=25
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=10
+contrast=5
+
+[flying_vespina_9512]
+name=Flying Vespina
+model1=vespula_32689
+head1=vespina_35118
+readyanim=vespula_ready_7453
+walkanim=vespula_ready_7453
+resizeh=20
+resizev=20
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+
+[enraged_tektiny_9513]
+name=Enraged Tektiny
+model1=tekton_32682
+head1=tektiny_34602
+readyanim=tekton_enraged_ready_7485
+walkanim=enraged_tektiny_walk_8637
+resizeh=25
+resizev=25
+op1=Talk-to
+op3=Metamorphosis
+op4=Pick-up
+vislevel=0
+visonmap=no
+ambient=10
+contrast=5
+follower=yes
+
+[flying_vespina_9514]
+name=Flying Vespina
+model1=vespula_32689
+head1=vespina_35118
+readyanim=vespula_ready_7453
+walkanim=vespina_walk_8639
+resizeh=20
+resizev=20
+op1=Talk-to
+op3=Metamorphosis
+op4=Pick-up
+vislevel=0
+visonmap=no
+follower=yes
 

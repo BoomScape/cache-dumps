@@ -45483,7 +45483,7 @@ framegroup1=1881
 soundeffect11=3317,1,15
 
 [tekton_enraged_ready_7485]
-framecount=4
+framecount=18
 looptype=1
 framegroup1=1881
 
@@ -52995,6 +52995,13 @@ framecount=16
 looptype=1
 framegroup1=2431
 
+[enraged_tektiny_walk_8637]
+framecount=20
+looptype=1
+framegroup1=1881
+soundeffect7=3834,1,15
+soundeffect17=3834,1,15
+
 [seq_8638]
 framecount=10
 stretches=yes
@@ -53003,6 +53010,11 @@ offhand=1719
 looptype=1
 framegroup1=207
 
+[vespina_walk_8639]
+framecount=24
+looptype=1
+framegroup1=1883
+
 [seq_8640]
 framecount=10
 stretches=yes
@@ -53010,8 +53022,20 @@ priority=6
 looptype=1
 framegroup1=2486
 
+[seq_8641]
+framecount=32
+replayoff=32
+looptype=1
+framegroup1=2487
+
 [seq_8642]
 framecount=12
 looptype=1
 framegroup1=2486
+
+[seq_8643]
+framecount=31
+replayoff=31
+looptype=1
+framegroup1=2487
 
