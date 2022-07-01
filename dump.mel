@@ -4969,3 +4969,9 @@ size=1
 mapfunction=no
 category=1129
 
+[mapelement_852]
+text=Greater<br>nechryael
+colour=^white
+mapfunction=no
+category=1129
+

@@ -219563,6 +219563,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_451,Check
 
 [cert_amulet_of_avarice_22558]
 certificate=yes
