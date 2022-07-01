@@ -266906,3 +266906,16 @@ members=yes
 ambient=30
 stackable=yes
 
+[message_26942]
+name=Message
+model=ballad_10137
+cost=30
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+iop5=Destroy
+members=yes
+
