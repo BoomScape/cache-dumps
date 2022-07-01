@@ -142576,6 +142576,7 @@ model=slice_of_birthday_cake_34576
 2dyof=-16
 2dxan=163
 2dyan=2021
+iop1=Eat
 certificate=yes
 
 [cert_slice_of_birthday_cake_11917]
@@ -232873,4 +232874,92 @@ placeholder=yes
 
 [placeholder_victors_cape_1000_24521]
 placeholder=yes
+
+[cat_ears_24522]
+name=Cat ears
+model=cat_ears_39522
+manwear=cat_ears_39515,0
+womanwear=cat_ears_39516,0
+manhead=cat_ears_39519
+femalehead=cat_ears_39518
+2dzoom=415
+2dxof=-1
+2dxan=229
+iop2=Wear
+iop5=Destroy
+
+[loose_cat_hair_24523]
+name=Loose cat hair
+model=loose_cat_hair_39521
+2dzoom=1221
+2dxof=-7
+2dyof=-1
+2dxan=498
+2dyan=404
+iop5=Destroy
+
+[gertrudes_comb_24524]
+name=Gertrude's comb
+model=ivory_comb_16380
+cost=10
+2dzoom=868
+2dxof=4
+2dyof=3
+2dxan=498
+2dyan=147
+iop5=Destroy
+recol1s=14445
+recol1d=-25960
+
+[cat_ears_24525]
+name=Cat ears
+model=cat_ears_39522
+manwear=cat_ears_39515,0
+womanwear=cat_ears_39516,0
+manhead=cat_ears_39519
+femalehead=cat_ears_39518
+2dzoom=415
+2dxof=-1
+2dxan=229
+iop2=Wear
+iop3=Chase
+iop5=Destroy
+placeholder=yes
+param=param_451,Chase
+
+[placeholder_cat_ears_24526]
+placeholder=yes
+
+[hell_cat_ears_24527]
+name=Hell cat ears
+model=cat_ears_39522
+manwear=cat_ears_39515,0
+womanwear=cat_ears_39516,0
+manhead=cat_ears_39519
+femalehead=cat_ears_39518
+2dzoom=415
+2dxof=-1
+2dxan=229
+iop2=Wear
+iop3=Revert
+iop5=Destroy
+recol1s=0
+recol1d=16
+recol2s=121
+recol2d=933
+
+[lamp_of_the_gatherer_24528]
+name=Lamp of the gatherer
+model=lamp_3348
+2dzoom=840
+2dxof=2
+2dyof=-2
+2dxan=28
+2dyan=228
+iop1=Rub
+iop5=Destroy
+recol1s=11191
+recol1d=19385
+recol2s=11183
+recol2d=20271
 

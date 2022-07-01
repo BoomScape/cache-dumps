@@ -155,26 +155,24 @@ layer=interface_165:0
 
 [interface_165:26]
 type=^iftype_layer
+width=1
+height=1
+layer=interface_165:0
+
+[interface_165:27]
+type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 onload="script901(event_com,1132)"
 
-[interface_165:27]
+[interface_165:28]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_165:26
+layer=interface_165:27
 fill=yes
-
-[interface_165:28]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_165:26
 
 [interface_165:29]
 type=^iftype_layer
@@ -182,5 +180,13 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_165:26
+layer=interface_165:27
+
+[interface_165:30]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_165:27
 

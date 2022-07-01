@@ -43375,6 +43375,12 @@ movetype=1
 looptype=1
 framegroup1=299
 
+[light_7175]
+framecount=36
+replayoff=36
+looptype=1
+framegroup1=380
+
 [seq_7176]
 framecount=13
 replayoff=4
@@ -52985,4 +52991,10 @@ framegroup1=2435
 framecount=16
 looptype=1
 framegroup1=2431
+
+[light_8637]
+framecount=36
+replayoff=36
+looptype=1
+framegroup1=380
 

@@ -245,3 +245,10 @@ height=1
 hide=yes
 layer=interface_80:12
 
+[interface_80:34]
+type=^iftype_layer
+width=1
+height=1
+hide=yes
+layer=interface_80:12
+
