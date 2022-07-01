@@ -10,7 +10,7 @@ height=314
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_658:0
-onload="script232(event_com,43122698,43122694,43122696,43122699,43122700,43122693,43122703,43122704,43122705,43122706,43122697)"
+onload="script232(event_com,43122700,43122694,43122697,43122698,43122696,43122701,43122702,43122693,43122705,43122706,43122707,43122708,43122699)"
 
 [interface_658:2]
 type=^iftype_layer
@@ -79,6 +79,18 @@ layer=interface_658:6
 
 [interface_658:9]
 type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_658:8
+
+[interface_658:10]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_658:8
+
+[interface_658:11]
+type=^iftype_layer
 x=2
 y=2
 width=16
@@ -87,7 +99,7 @@ hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
 layer=interface_658:6
 
-[interface_658:10]
+[interface_658:12]
 type=^iftype_text
 x=30
 y=4
@@ -101,7 +113,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_658:11]
+[interface_658:13]
 type=^iftype_layer
 x=30
 y=6
@@ -111,13 +123,13 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_658:4
 
-[interface_658:12]
+[interface_658:14]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_658:11
+layer=interface_658:13
 
-[interface_658:13]
+[interface_658:15]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -125,7 +137,7 @@ layer=interface_658:5
 fill=yes
 trans=128
 
-[interface_658:14]
+[interface_658:16]
 type=^iftype_layer
 width=400
 height=200
@@ -133,15 +145,15 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_658:5
 
-[interface_658:15]
+[interface_658:17]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_658:14
+layer=interface_658:16
 
-[interface_658:16]
+[interface_658:18]
 type=^iftype_text
 x=-4
 y=40
@@ -149,13 +161,13 @@ width=32
 height=112
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_658:14
+layer=interface_658:16
 colour=0xff981f
 font=p12_full
 paraheight=15
 shadowed=yes
 
-[interface_658:17]
+[interface_658:19]
 type=^iftype_layer
 x=56
 y=12
@@ -163,16 +175,16 @@ width=125
 height=30
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_658:14
+layer=interface_658:16
 optionmask=2
 op1="*"
 
-[interface_658:18]
+[interface_658:20]
 type=^iftype_layer
 x=56
 y=12
 width=125
 height=30
 vposmode=^setpos_abs_bottom
-layer=interface_658:14
+layer=interface_658:16
 

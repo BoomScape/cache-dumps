@@ -12,7 +12,7 @@ height=314
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_657:0
-onload="script3202(43057160,43057161,43057162,43057163,43057164,43057165,43057166,43057167,43057168,43057169,43057159,43057177,43057179,43057178,43057176)"
+onload="script3202(43057160,43057161,43057162,43057163,43057164,43057165,43057166,43057167,43057168,43057169,43057159,43057178,43057180,43057179,43057177)"
 
 [interface_657:2]
 type=^iftype_layer
@@ -31,7 +31,7 @@ layer=interface_657:1
 optionmask=2
 opbase="*"
 op1="*"
-onload="script3181(event_com,43057188,0,0)"
+onload="script3181(event_com,43057190,0,0)"
 
 [interface_657:4]
 type=^iftype_graphic
@@ -166,41 +166,50 @@ shadowed=yes
 
 [interface_657:20]
 type=^iftype_layer
-y=26
+y=24
 width=90
 height=39
 hposmode=^setpos_abs_centre
 layer=interface_657:18
-onload="script3207(2676,43057184,event_com,43057181,43057182)"
+onload="script3207(2676,43057185,event_com,43057182,43057183)"
 
 [interface_657:21]
 type=^iftype_layer
-y=77
+y=64
 width=90
 height=39
 hposmode=^setpos_abs_centre
 layer=interface_657:18
-onload="script3207(3413,43057185,event_com,43057181,43057182)"
+onload="script3207(3413,43057186,event_com,43057182,43057183)"
 
 [interface_657:22]
 type=^iftype_layer
-y=128
+y=104
 width=90
 height=39
 hposmode=^setpos_abs_centre
 layer=interface_657:18
-onload="script3207(3414,43057186,event_com,43057181,43057182)"
+onload="script3207(3414,43057187,event_com,43057182,43057183)"
 
 [interface_657:23]
 type=^iftype_layer
-y=179
+y=144
 width=90
 height=39
 hposmode=^setpos_abs_centre
 layer=interface_657:18
-onload="script3207(2677,43057187,event_com,43057181,43057182)"
+onload="script3207(4105,43057188,event_com,43057182,43057183)"
 
 [interface_657:24]
+type=^iftype_layer
+y=184
+width=90
+height=39
+hposmode=^setpos_abs_centre
+layer=interface_657:18
+onload="script3207(2677,43057189,event_com,43057182,43057183)"
+
+[interface_657:25]
 type=^iftype_layer
 x=3
 y=6
@@ -211,7 +220,7 @@ layer=interface_657:1
 optionmask=2
 op1="Close"
 
-[interface_657:25]
+[interface_657:26]
 type=^iftype_layer
 x=7
 y=7
@@ -219,7 +228,7 @@ width=21
 height=21
 layer=interface_657:1
 
-[interface_657:26]
+[interface_657:27]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -227,20 +236,11 @@ hide=yes
 layer=interface_657:1
 noclickthrough=yes
 
-[interface_657:27]
+[interface_657:28]
 type=^iftype_layer
 y=29
 width=80
 height=70
-layer=interface_657:1
-
-[interface_657:28]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-hide=yes
 layer=interface_657:1
 
 [interface_657:29]
@@ -250,36 +250,34 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_657:0
-noclickthrough=yes
+layer=interface_657:1
 
 [interface_657:30]
 type=^iftype_layer
-width=1
-height=1
-layer=interface_657:29
-noclickthrough=yes
-
-[interface_657:31]
-type=^iftype_graphic
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_657:30
-graphic="tradebacking"
-tiling=yes
-
-[interface_657:32]
-type=^iftype_layer
-width=4
-height=4
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
+layer=interface_657:0
+noclickthrough=yes
+
+[interface_657:31]
+type=^iftype_layer
+width=1
+height=1
 layer=interface_657:30
+noclickthrough=yes
+
+[interface_657:32]
+type=^iftype_graphic
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_657:31
+graphic="tradebacking"
+tiling=yes
 
 [interface_657:33]
 type=^iftype_layer
@@ -290,7 +288,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_657:30
+layer=interface_657:31
 
 [interface_657:34]
 type=^iftype_layer
@@ -301,7 +299,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_657:30
+layer=interface_657:31
 
 [interface_657:35]
 type=^iftype_layer
@@ -312,9 +310,31 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_657:30
+layer=interface_657:31
 
 [interface_657:36]
+type=^iftype_layer
+width=4
+height=4
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_657:31
+
+[interface_657:37]
+type=^iftype_layer
+width=4
+height=4
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_657:31
+
+[interface_657:38]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
