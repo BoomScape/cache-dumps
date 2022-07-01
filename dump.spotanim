@@ -9754,14 +9754,3 @@ recol4d=538
 recol5s=6024
 recol5d=528
 
-[spotanim_1529]
-model=model_2321
-anim=seq_457
-recol1s=61
-recol1d=4884
-
-[spotanim_1530]
-model=model_16941
-anim=seq_7997
-ambient=30
-

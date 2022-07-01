@@ -43,34 +43,6 @@ zoom=578
 [interface_553:4]
 type=^iftype_text
 y=40
-height=30
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_553:0
-text="This form is for reporting players who are breaking our rules. <br>Using it sends a snapshot of the last 60 secs of activity to us."
-colour=^white
-font=p11_full
-halign=^settextalign_centre
-paraheight=12
-shadowed=yes
-
-[interface_553:5]
-type=^iftype_text
-y=65
-height=16
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_553:0
-text="Please do not misuse this form."
-colour=0xff981f
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_553:6]
-type=^iftype_text
-y=80
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -82,9 +54,9 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_553:7]
+[interface_553:5]
 type=^iftype_text
-y=100
+y=58
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -92,6 +64,35 @@ layer=interface_553:0
 text="*"
 colour=^white
 font=b12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+onclick="script1980(0,12)"
+
+[interface_553:6]
+type=^iftype_text
+y=75
+height=30
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_553:0
+text="This form is for reporting players who are breaking our rules. <br>Using it sends a snapshot of the last 60 secs of activity to us."
+colour=^white
+font=p11_full
+halign=^settextalign_centre
+paraheight=12
+shadowed=yes
+
+[interface_553:7]
+type=^iftype_text
+y=102
+height=16
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_553:0
+text="Please do not misuse this form."
+colour=0xff981f
+font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes

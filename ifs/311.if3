@@ -5,7 +5,7 @@ height=166
 
 [interface_311:1]
 type=^iftype_graphic
-y=22
+y=7
 width=27
 height=27
 layer=interface_311:0
@@ -18,7 +18,7 @@ onload="script1039(event_com)"
 [interface_311:2]
 type=^iftype_layer
 x=60
-y=17
+y=2
 width=57
 height=34
 hposmode=^setpos_abs_right
@@ -107,7 +107,7 @@ graphic="orb_icon,0"
 
 [interface_311:12]
 type=^iftype_layer
-y=17
+y=2
 width=57
 height=34
 hposmode=^setpos_abs_right
@@ -183,7 +183,7 @@ graphic="orb_icon,1"
 [interface_311:20]
 type=^iftype_layer
 x=60
-y=53
+y=38
 width=57
 height=34
 hposmode=^setpos_abs_right
@@ -256,7 +256,7 @@ graphic="orb_icon,2"
 
 [interface_311:28]
 type=^iftype_layer
-y=53
+y=38
 width=57
 height=34
 hposmode=^setpos_abs_right
@@ -319,7 +319,7 @@ graphic="orb_icon,6"
 
 [interface_311:35]
 type=^iftype_graphic
-y=56
+y=41
 width=30
 height=30
 layer=interface_311:0
@@ -329,7 +329,7 @@ onload="script834(event_com,1)"
 [interface_311:36]
 type=^iftype_graphic
 x=4
-y=60
+y=45
 width=22
 height=22
 layer=interface_311:0

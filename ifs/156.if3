@@ -4,7 +4,7 @@ width=350
 height=320
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script1093(event_com,10223619,10223626,10223627,10223631,10223632,10223636,10223637,10223638)"
+onload="script1093(event_com,10223619,10223626,10223641,10223627,10223631,10223632,10223642,10223633,10223637,10223638,10223640,10223639)"
 
 [interface_156:1]
 type=^iftype_layer
@@ -125,11 +125,13 @@ shadowed=yes
 [interface_156:13]
 type=^iftype_layer
 y=41
-height=89
+height=90
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_156:11
 onload="script714(event_com)"
+onclick="script1980(0,80)"
 
 [interface_156:14]
 type=^iftype_graphic
@@ -151,6 +153,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_156:13
+onclick="script1980(0,80)"
 
 [interface_156:16]
 type=^iftype_layer
@@ -163,38 +166,47 @@ vsizemode=^setsize_minus
 layer=interface_156:13
 
 [interface_156:17]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_156:2
+
+[interface_156:18]
 type=^iftype_text
-y=135
 height=17
 hsizemode=^setsize_minus
-layer=interface_156:11
+layer=interface_156:17
 text="Please describe how to make the bug happen again."
 colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_156:18]
+[interface_156:19]
 type=^iftype_layer
-y=152
-height=187
+y=21
+height=70
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_156:11
+layer=interface_156:17
 onload="script714(event_com)"
+onclick="script1980(0,80)"
 
-[interface_156:19]
+[interface_156:20]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_156:18
+layer=interface_156:19
 graphic="tradebacking_light"
 tiling=yes
 trans=150
 
-[interface_156:20]
+[interface_156:21]
 type=^iftype_layer
 x=2
 width=20
@@ -202,9 +214,10 @@ height=4
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_156:18
+layer=interface_156:19
+onclick="script1980(0,80)"
 
-[interface_156:21]
+[interface_156:22]
 type=^iftype_layer
 x=2
 width=16
@@ -212,15 +225,47 @@ height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_156:18
+layer=interface_156:19
 
-[interface_156:22]
+[interface_156:23]
 type=^iftype_layer
+x=25
 width=120
 height=30
-hposmode=^setpos_abs_centre
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_156:17
+optionmask=2
+op1="Submit"
+
+[interface_156:24]
+type=^iftype_layer
+x=25
+width=120
+height=30
+vposmode=^setpos_abs_bottom
+layer=interface_156:17
+optionmask=2
+op1="Back"
+
+[interface_156:25]
+type=^iftype_layer
+x=25
+width=120
+height=30
 vposmode=^setpos_abs_bottom
 layer=interface_156:11
 optionmask=2
-op1="Submit"
+op1="Back"
+
+[interface_156:26]
+type=^iftype_layer
+x=25
+width=120
+height=30
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_156:11
+optionmask=2
+op1="Next"
 

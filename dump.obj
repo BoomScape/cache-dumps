@@ -113157,6 +113157,7 @@ recol6d=15252
 members=yes
 placeholder=yes
 param=param_451,Boost
+param=param_452,Commune
 
 [ranging_cape_t_9757]
 name=Ranging cape(t)
@@ -113184,6 +113185,7 @@ recol6d=15252
 members=yes
 placeholder=yes
 param=param_451,Boost
+param=param_452,Commune
 
 [ranging_hood_9758]
 name=Ranging hood
@@ -122903,6 +122905,7 @@ iop4=Commune
 iop5=Destroy
 members=yes
 placeholder=yes
+param=param_451,Commune
 
 [avas_accumulator_10499]
 name=Ava's accumulator
@@ -122920,6 +122923,7 @@ iop4=Commune
 iop5=Destroy
 members=yes
 placeholder=yes
+param=param_451,Commune
 
 [crone_made_amulet_10500]
 name=Crone-made amulet
@@ -152921,7 +152925,7 @@ model=santa_boots_29026
 manwear=santa_boots_28989,0
 womanwear=santa_boots_29007,0
 cost=0
-2dzoom=905
+2dzoom=653
 2dxan=54
 2dyan=1966
 iop2=Wear
@@ -152990,7 +152994,7 @@ model=antisanta_boots_29021
 manwear=antisanta_boots_28988,0
 womanwear=antisanta_boots_29006,0
 cost=0
-2dzoom=905
+2dzoom=653
 2dxan=54
 2dyan=1966
 iop2=Wear
@@ -155325,7 +155329,7 @@ cost=0
 2dzoom=1730
 2dxan=470
 iop2=Wear
-iop3=Teleport
+iop3=Ecto Teleport
 recol1s=61
 recol1d=33
 recol2s=41
@@ -155345,7 +155349,7 @@ cost=0
 2dzoom=1730
 2dxan=470
 iop2=Wear
-iop3=Teleport
+iop3=Ecto Teleport
 recol1s=61
 recol1d=33
 recol2s=41
@@ -155365,7 +155369,8 @@ cost=0
 2dzoom=1730
 2dxan=470
 iop2=Wear
-iop3=Teleport
+iop3=Ecto Teleport
+iop4=Burgh Teleport
 recol1s=61
 recol1d=33
 recol2s=41
@@ -155386,7 +155391,8 @@ cost=0
 2dzoom=1730
 2dxan=470
 iop2=Wear
-iop3=Teleport
+iop3=Ecto Teleport
+iop4=Burgh Teleport
 recol1s=61
 recol1d=33
 recol2s=41
@@ -155505,7 +155511,7 @@ cost=0
 2dxan=500
 2dyan=250
 iop2=Wear
-iop3=Teleport
+iop3=Monastery Teleport
 members=yes
 placeholder=yes
 param=param_451,Kandarin Monastery
@@ -155522,7 +155528,8 @@ cost=0
 2dxan=500
 2dyan=250
 iop2=Wear
-iop3=Teleport
+iop3=Monastery Teleport
+iop4=Farm Teleport
 members=yes
 placeholder=yes
 param=param_451,Kandarin Monastery
@@ -155540,7 +155547,8 @@ cost=0
 2dxan=500
 2dyan=250
 iop2=Wear
-iop3=Teleport
+iop3=Monastery Teleport
+iop4=Farm Teleport
 members=yes
 placeholder=yes
 param=param_451,Kandarin Monastery
@@ -155558,7 +155566,8 @@ cost=0
 2dxan=500
 2dyan=250
 iop2=Wear
-iop3=Teleport
+iop3=Monastery Teleport
+iop4=Farm Teleport
 members=yes
 placeholder=yes
 param=param_451,Kandarin Monastery
@@ -158112,6 +158121,7 @@ recol5s=673
 recol5d=103
 members=yes
 placeholder=yes
+param=param_451,Commune
 
 [accumulator_max_hood_13338]
 name=Accumulator max hood
@@ -192574,7 +192584,8 @@ cost=99000
 2dxan=687
 2dyan=27
 iop2=Wear
-iop3=Teleport
+iop3=Monastery Teleport
+iop4=Farm Teleport
 recol1s=668
 recol1d=-17759
 recol2s=675
@@ -200489,6 +200500,7 @@ recol1d=17825
 recol2s=7845
 recol2d=18004
 team=1
+param=param_451,Commune
 
 [wilderness_cape_21429]
 name=Wilderness cape
@@ -200506,6 +200518,7 @@ recol1d=274
 recol2s=7845
 recol2d=1831
 team=2
+param=param_451,Commune
 
 [wilderness_cape_21430]
 name=Wilderness cape
@@ -200525,6 +200538,7 @@ recol2d=-25037
 recol3s=7591
 recol3d=-26453
 team=3
+param=param_451,Commune
 
 [wilderness_cape_21431]
 name=Wilderness cape
@@ -200542,6 +200556,7 @@ recol1d=-2837
 recol2s=7845
 recol2d=-2519
 team=4
+param=param_451,Commune
 
 [wilderness_cape_21432]
 name=Wilderness cape
@@ -200559,6 +200574,7 @@ recol1d=8152
 recol2s=7845
 recol2d=6965
 team=5
+param=param_451,Commune
 
 [wilderness_champion_amulet_21433]
 name=Wilderness champion amulet
@@ -200593,6 +200609,7 @@ recol2d=18004
 recol3s=939
 recol3d=22443
 team=1
+param=param_451,Commune
 
 [wilderness_cape_21435]
 name=Wilderness cape
@@ -200612,6 +200629,7 @@ recol1d=274
 recol2s=7845
 recol2d=1831
 team=2
+param=param_451,Commune
 
 [wilderness_cape_21436]
 name=Wilderness cape
@@ -200635,6 +200653,7 @@ recol3d=-26453
 recol4s=939
 recol4d=-21589
 team=3
+param=param_451,Commune
 
 [wilderness_cape_21437]
 name=Wilderness cape
@@ -200656,6 +200675,7 @@ recol2d=-2519
 recol3s=939
 recol3d=-7208
 team=4
+param=param_451,Commune
 
 [wilderness_cape_21438]
 name=Wilderness cape
@@ -200677,6 +200697,7 @@ recol2d=6965
 recol3s=939
 recol3d=11187
 team=5
+param=param_451,Commune
 
 [champions_cape_21439]
 name=Champion's cape
@@ -204591,6 +204612,7 @@ iop2=Wear
 iop4=Commune
 members=yes
 placeholder=yes
+param=param_451,Commune
 
 [placeholder_assembler_max_cape_21899]
 placeholder=yes
@@ -206692,6 +206714,7 @@ iop2=Wear
 iop4=Commune
 members=yes
 placeholder=yes
+param=param_451,Commune
 
 [placeholder_avas_assembler_22110]
 placeholder=yes
@@ -209096,16 +209119,16 @@ param=param_451,Check
 [placeholder_starter_staff_22336]
 placeholder=yes
 
-[jam_22337]
-name=Jam
-model=jam_35120
+[dummy_holy_handegg_22337]
+name=Null
+model=holy_handegg_35126
 2dzoom=661
 2dxan=153
 2dyan=110
 
-[treacle_22338]
-name=Treacle
-model=jam_35120
+[dummy_holy_handegg_22338]
+name=Null
+model=holy_handegg_35126
 2dzoom=661
 2dxan=153
 2dyan=110
@@ -209116,9 +209139,9 @@ recol2d=3470
 recol3s=-1111
 recol3d=0
 
-[maple_syrup_22339]
-name=Maple syrup
-model=jam_35120
+[dummy_holy_handegg_22339]
+name=Null
+model=holy_handegg_35126
 2dzoom=661
 2dxan=153
 2dyan=110
@@ -209129,9 +209152,9 @@ recol2d=5037
 recol3s=-1111
 recol3d=4903
 
-[honey_22340]
-name=Honey
-model=jam_35120
+[dummy_holy_handegg_22340]
+name=Null
+model=holy_handegg_35126
 2dzoom=661
 2dxan=153
 2dyan=110
@@ -209142,9 +209165,9 @@ recol2d=7116
 recol3s=-1111
 recol3d=9164
 
-[sweet_herb_22341]
-name=Sweet herb
-model=jam_35120
+[dummy_holy_handegg_22341]
+name=Null
+model=holy_handegg_35126
 2dzoom=661
 2dxan=153
 2dyan=110
@@ -209155,32 +209178,32 @@ recol2d=26539
 recol3s=-1111
 recol3d=25511
 
-[idol_of_light_22342]
-name=Idol of light
-model=idol_of_light_35125
+[dummy_holy_handegg_22342]
+name=Null
+model=holy_handegg_35126
 2dzoom=1045
 2dxan=48
 2dyan=1924
 
-[idol_of_chaos_22343]
-name=Idol of chaos
-model=idol_of_chaos_35119
+[dummy_holy_handegg_22343]
+name=Null
+model=holy_handegg_35126
 2dzoom=912
 2dyof=-9
 2dxan=195
 2dyan=1861
 
-[idol_of_balance_22344]
-name=Idol of balance
-model=idol_of_balance_35122
+[dummy_holy_handegg_22344]
+name=Null
+model=holy_handegg_35126
 2dzoom=661
 2dyof=-3
 2dxan=147
 2dyan=1942
 
-[chocolate_chunks_22345]
-name=Chocolate chunks
-model=chocolate_chunks_35121
+[dummy_holy_handegg_22345]
+name=Null
+model=holy_handegg_35126
 cost=3
 2dzoom=1016
 2dxof=5
@@ -209190,20 +209213,18 @@ cost=3
 recol1s=7062
 recol1d=5652
 
-[nuggets_22346]
-name=Nuggets
-model=nuggets_35124
+[dummy_holy_handegg_22346]
+name=Null
+model=holy_handegg_35126
 2dzoom=1616
 2dxan=216
 2dyan=624
 recol1s=5790
 recol1d=7857
 
-[growth_potion_22347]
-name=Growth potion
-model=guam_potion_unf_2697
-manwear=holy_water_552,0
-womanwear=holy_water_552,0
+[dummy_holy_handegg_22347]
+name=Null
+model=holy_handegg_35126
 cost=3
 2dzoom=550
 2dyof=-1
@@ -209212,32 +209233,31 @@ cost=3
 recol1s=61
 recol1d=-32556
 
-[egg_mould_22348]
-name=Egg mould
-model=egg_mould_35123
+[dummy_holy_handegg_22348]
+name=Null
+model=holy_handegg_35126
 2dzoom=752
 2dxof=1
 2dyof=-5
 2dxan=296
 2dyan=1797
 
-[small_chocolate_egg_22349]
-name=Small chocolate egg
-model=small_chocolate_egg_35126
+[dummy_holy_handegg_22349]
+name=Null
+model=holy_handegg_35126
 2dzoom=630
 2dxof=1
 2dxan=144
 2dyan=68
 
-[kindling_22350]
-name=Kindling
+[dummy_damp_sticks_22350]
+name=Null
 model=damp_sticks_2402
 2dzoom=1104
 2dxof=-4
 2dyof=-11
 2dxan=267
 2dyan=1211
-op4=Light
 
 [eggshell_platebody_22351]
 name=Eggshell platebody
@@ -209273,7 +209293,7 @@ placeholder=yes
 
 [holy_handegg_22355]
 name=Holy handegg
-model=small_chocolate_egg_35126
+model=holy_handegg_35126
 manwear=holy_handegg_28545,0
 womanwear=holy_handegg_28545,6
 2dzoom=790
@@ -209301,7 +209321,7 @@ placeholder=yes
 
 [peaceful_handegg_22358]
 name=Peaceful handegg
-model=small_chocolate_egg_35126
+model=holy_handegg_35126
 manwear=holy_handegg_28545,0
 womanwear=holy_handegg_28545,6
 2dzoom=790
@@ -209329,7 +209349,7 @@ placeholder=yes
 
 [chaotic_handegg_22361]
 name=Chaotic handegg
-model=small_chocolate_egg_35126
+model=holy_handegg_35126
 manwear=holy_handegg_28545,0
 womanwear=holy_handegg_28545,6
 2dzoom=790
@@ -209354,4 +209374,15 @@ certificate=yes
 
 [placeholder_chaotic_handegg_22363]
 placeholder=yes
+
+[oculus_orb_22364]
+name=Oculus orb
+model=scrying_orb_7512
+2dzoom=510
+iop1=Scry
+iop5=Destroy
+recol1s=21584
+recol1d=-25394
+recol2s=28989
+recol2d=-29376
 

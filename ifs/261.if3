@@ -715,19 +715,20 @@ height=40
 hposmode=^setpos_abs_right
 layer=interface_261:55
 graphic="options_boxes,0"
-optionmask=2
+optionmask=6
 op1="Toggle Function-mode button"
+op2="Start Mobile controls guide"
 onload="script2147(event_com,17104984)"
 
 [interface_261:68]
 type=^iftype_graphic
-x=22
+x=24
 y=52
 width=32
 height=32
 hposmode=^setpos_abs_right
 layer=interface_261:55
-graphic="options_icons,26"
+graphic="windowmode_icons,2"
 
 [interface_261:69]
 type=^iftype_layer

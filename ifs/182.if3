@@ -131,6 +131,7 @@ font=b12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+onload="script2232"
 onmouseover="script45(event_com,16711680)"
 onmouseleave="script45(event_com,16249055)"
 
