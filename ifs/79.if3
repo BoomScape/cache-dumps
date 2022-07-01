@@ -120,7 +120,7 @@ op1="*"
 
 [interface_79:12]
 type=^iftype_layer
-x=113
+x=194
 y=-82
 width=72
 height=72
@@ -131,7 +131,7 @@ op1="*"
 
 [interface_79:13]
 type=^iftype_layer
-x=194
+x=113
 y=-82
 width=72
 height=72
