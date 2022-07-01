@@ -673,644 +673,6 @@ val=13,2500
 val=14,4000
 val=15,6000
 
-[enum_380]
-inputtype=obj
-outputtype=string
-default=Costume
-val=mystic_hat_10601,Mystic robes
-val=mystic_hat_dark_10602,Dark mystic robes
-val=mystic_hat_light_10603,Light mystic robes
-val=mystic_hat_dusk_23047,Dusk mystic robes
-val=skeletal_helm_10604,Skeletal
-val=infinity_top_10605,Infinity robes
-val=light_infinity_top_12420,Infinity robes (Light)
-val=dark_infinity_top_12458,Infinity robes (Dark)
-val=splitbark_helm_10606,Splitbark armour
-val=ghostly_boots_10607,Ghostly robes
-val=moonclan_hat_10608,Moonclan robes
-val=lunar_helm_10609,Lunar robes
-val=dagonhai_hat_24288,Dagon'hai robes
-val=graceful_hood_11850,Graceful outfit
-val=graceful_hood_13579,Graceful outfit (Arceuus)
-val=graceful_hood_13627,Graceful outfit (Hosidius)
-val=graceful_hood_13603,Graceful outfit (Lovakengj)
-val=graceful_hood_13591,Graceful outfit (Piscarilius)
-val=graceful_hood_13615,Graceful outfit (Shayzien)
-val=graceful_hood_13667,Graceful outfit (Kourend)
-val=graceful_hood_21061,Graceful outfit (Agility Arena)
-val=graceful_hood_24743,Graceful outfit (Hallowed)
-val=blue_tricorn_hat_8959,Blue naval attire
-val=green_tricorn_hat_8960,Green naval attire
-val=red_tricorn_hat_8961,Red naval attire
-val=brown_tricorn_hat_8962,Brown naval attire
-val=black_tricorn_hat_8963,Black naval attire
-val=purple_tricorn_hat_8964,Purple naval attire
-val=grey_tricorn_hat_8965,Grey naval attire
-val=elder_chaos_hood_20595,Elder chaos druid robes
-val=evil_chicken_head_20439,Evil chicken costume
-val=pyromancer_hood_20708,Pyromancer outfit
-val=golden_tench_22840,Golden Tench
-val=pearl_fishing_rod_22846,Pearl fishing rod
-val=pearl_barbarian_rod_22842,Pearl barbarian rod
-val=pearl_fly_fishing_rod_22844,Pearl fly fishing rod
-val=oily_pearl_fishing_rod_23122,Oily pearl fishing rod
-val=fish_sack_22838,Fish sack
-val=flippers_6666,Mudskipper flippers
-val=mudskipper_hat_6665,Mudskipper hat
-val=bounty_hunter_hat_tier_1_24338,Bounty Hunter hat (Tier 1)
-val=bounty_hunter_hat_tier_2_24340,Bounty Hunter hat (Tier 2)
-val=bounty_hunter_hat_tier_3_24342,Bounty Hunter hat (Tier 3)
-val=bounty_hunter_hat_tier_4_24344,Bounty Hunter hat (Tier 4)
-val=bounty_hunter_hat_tier_5_24346,Bounty Hunter hat (Tier 5)
-val=bounty_hunter_hat_tier_6_24348,Bounty Hunter hat (Tier 6)
-val=twisted_ancestral_hat_24664,Ancestral Robes (Twisted)
-val=ancestral_hat_21018,Ancestral robes
-val=carpenters_helmet_24872,Carpenter's outfit
-val=decorative_armour_10610,Castle Wars armour
-val=decorative_armour_11896,Castle Wars mage armour
-val=decorative_armour_11899,Castle Wars ranger armour
-val=void_knight_top_10611,Void Knight armour
-val=elite_void_top_13072,Elite Void armour
-val=rogue_mask_10612,Rogue armour
-val=spined_helm_10614,Spined armour
-val=rock_shell_helm_10613,Rockshell armour
-val=tribal_mask_10615,Tribal mask (poison)
-val=tribal_mask_10616,Tribal mask (disease)
-val=tribal_mask_10617,Tribal mask (combat)
-val=white_platebody_10618,White knight armour
-val=initiate_hauberk_10619,Temple Knight initiate armour
-val=proselyte_hauberk_10620,Temple Knight proselyte armour
-val=mourner_top_10621,Mourner gear
-val=graahk_top_10624,Graahk hunter gear
-val=larupia_top_10623,Larupia hunter gear
-val=kyatt_top_10622,Kyatt hunter gear
-val=polar_camo_top_10628,Polar camouflage gear
-val=jungle_camo_top_10626,Jungle camouflage gear
-val=wood_camo_top_10625,Wood camouflage gear
-val=desert_camo_top_10627,Desert camouflage gear
-val=hard_hat_10883,Builder's costume
-val=lumberjack_top_10945,Lumberjack costume
-val=bomber_jacket_11135,Bomber jacket costume
-val=ham_shirt_11274,H.A.M. robes
-val=void_melee_helm_11676,Void melee helm
-val=void_ranger_helm_11675,Void ranger helm
-val=void_mage_helm_11674,Void mage helm
-val=prospector_helmet_12013,Prospector kit
-val=angler_hat_13258,Angler's outfit
-val=farmers_strawhat_13646,Farmer's outfit
-val=farmers_strawhat_13647,Farmer's outfit
-val=shayzien_helm_1_13359,Shayzien armour (tier 1)
-val=shayzien_helm_2_13364,Shayzien armour (tier 2)
-val=shayzien_helm_3_13369,Shayzien armour (tier 3)
-val=shayzien_helm_4_13374,Shayzien armour (tier 4)
-val=shayzien_helm_5_13379,Shayzien armour (tier 5)
-val=xerician_hat_13385,Xerician armour
-val=clue_hunter_garb_19689,Clue hunter outfit
-val=corrupted_helm_20838,Corrupted armour
-val=obsidian_helmet_21298,Obsidian armour
-val=helm_of_raedwald_19687,Helm of Raedwald
-val=elder_chaos_top_20517,Elder chaos druid robes
-val=fighter_torso_10551,Penance Fighter torso
-val=runner_boots_10552,Penance Runner boots
-val=penance_gloves_10553,Penance gloves
-val=penance_skirt_10555,Penance skirt
-val=fighter_hat_10548,Penance Fighter hat
-val=ranger_hat_10550,Penance Ranger hat
-val=runner_hat_10549,Penance Runner hat
-val=healer_hat_10547,Penance Healer hat
-val=justiciar_faceguard_22326,Justiciar Armour
-val=ornate_helm_23101,Ornate Armour
-val=dragonstone_full_helm_24034,Dragonstone Armour
-val=ardougne_knight_helm_23785,Ardougne Knight Armour
-val=deadmans_chest_13317,Deadman Armour
-val=saradomin_halo_12637,Saradomin halo
-val=zamorak_halo_12638,Zamorak halo
-val=guthix_halo_12639,Guthix halo
-val=armadyl_halo_24192,Armadyl halo
-val=bandos_halo_24195,Bandos halo
-val=seren_halo_24198,Seren halo
-val=ancient_halo_24201,Ancient halo
-val=brassica_halo_24204,Brassica halo
-val=twisted_coat_t1_24407,Twisted Relichunter (T1)
-val=twisted_coat_t2_24399,Twisted Relichunter (T2)
-val=twisted_coat_t3_24389,Twisted Relichunter (T3)
-val=twisted_cane_24395,Twisted Cane
-val=inquisitors_great_helm_24419,Inquisitor's Armour
-val=vyre_noble_top_24676,Vyre Noble Outfit
-val=mime_mask_10629,Mime costume
-val=princess_blouse_10630,Royal frog costume
-val=frog_mask_10721,Frog mask
-val=zombie_shirt_10631,Zombie outfit
-val=camo_top_10632,Camo outfit
-val=lederhosen_top_10633,Lederhosen outfit
-val=shade_robe_10634,Shade robes
-val=stale_baguette_20590,Stale baguette
-val=cape_of_legends_10635,Legends cape
-val=obsidian_cape_10636,Obsidian cape
-val=fire_cape_10637,Fire cape
-val=team_1_cape_10638,Wilderness cape
-val=guthix_cape_2413,Guthix cape
-val=saradomin_cape_2412,Saradomin cape
-val=zamorak_cape_2414,Zamorak cape
-val=imbued_saradomin_cape_21791,Imbued Saradomin cape
-val=imbued_guthix_cape_21793,Imbued Guthix cape
-val=imbued_zamorak_cape_21795,Imbued Zamorak cape
-val=attack_cape_10639,Attack cape
-val=defence_cape_10641,Defence cape
-val=strength_cape_10640,Strength cape
-val=hitpoints_cape_10647,Hitpoints cape
-val=agility_cape_10648,Agility cape
-val=cooking_cape_10658,Cooking cape
-val=construct_cape_10654,Construction cape
-val=crafting_cape_10651,Crafting cape
-val=farming_cape_10661,Farming cape
-val=firemaking_cape_10659,Firemaking cape
-val=fishing_cape_10657,Fishing cape
-val=fletching_cape_10652,Fletching cape
-val=herblore_cape_10649,Herblore cape
-val=magic_cape_10644,Magic cape
-val=mining_cape_10655,Mining cape
-val=prayer_cape_10643,Prayer cape
-val=ranging_cape_10642,Ranging cape
-val=runecraft_cape_10645,Runecrafting cape
-val=slayer_cape_10653,Slayer cape
-val=smithing_cape_10656,Smithing cape
-val=thieving_cape_10650,Thieving cape
-val=woodcutting_cape_10660,Woodcutting cape
-val=hunter_cape_10646,Hunter cape
-val=quest_point_cape_10662,Quest point cape
-val=achievement_diary_cape_t_13069,Achievement Diary cape (t)
-val=achievement_diary_cape_19476,Achievement Diary cape
-val=music_cape_13224,Music cape
-val=max_cape_13282,Max cape
-val=infernal_cape_21295,Infernal Cape
-val=spotted_cape_10663,Spotted hunting cape
-val=spottier_cape_10664,Spottier hunting cape
-val=champions_cape_21439,Champion's cape
-val=mythical_cape_22114,Mythical cape
-val=xerics_guard_22388,Xeric's Guard
-val=xerics_warrior_22390,Xeric's Warrior
-val=xerics_sentinel_22392,Xeric's Sentinel
-val=xerics_general_22394,Xeric's General
-val=xerics_champion_22396,Xeric's Champion
-val=sinhaza_shroud_tier_1_22494,Sinhaza Shroud Tier 1
-val=sinhaza_shroud_tier_2_22496,Sinhaza Shroud Tier 2
-val=sinhaza_shroud_tier_3_22498,Sinhaza Shroud Tier 3
-val=sinhaza_shroud_tier_4_22500,Sinhaza Shroud Tier 4
-val=sinhaza_shroud_tier_5_22502,Sinhaza Shroud Tier 5
-val=gauntlet_cape_23859,Gauntlet cape
-val=victors_cape_1_24207,Victor's Cape (1)
-val=victors_cape_10_24209,Victor's Cape (10)
-val=victors_cape_50_24211,Victor's Cape (50)
-val=victors_cape_100_24213,Victor's Cape (100)
-val=victors_cape_500_24215,Victor's Cape (500)
-val=victors_cape_1000_24520,Victor's Cape (1000)
-val=mole_slippers_23285,Mole slippers
-val=frog_slippers_23288,Frog slippers
-val=bear_feet_23291,Bear feet
-val=demon_feet_23294,Demon feet
-val=jester_cape_23297,Jester cape
-val=shoulder_parrot_23300,Shoulder parrot
-val=monks_robe_top_t_23303,Monk's robe top (t)
-val=monks_robe_t_23306,Monk's robe (t)
-val=amulet_of_defence_t_23309,Amulet of Defence(t)
-val=sandwich_lady_hat_23312,Sandwich lady hat
-val=sandwich_lady_top_23315,Sandwich lady top
-val=sandwich_lady_bottom_23318,Sandwich lady bottom
-val=black_shield_h1_10665,Black heraldic kiteshield
-val=black_shield_h2_10668,Black heraldic kiteshield
-val=black_shield_h3_10671,Black heraldic kiteshield
-val=black_shield_h4_10674,Black heraldic kiteshield
-val=black_shield_h5_10677,Black heraldic kiteshield
-val=studded_body_g_10680,Gold-trimmed studded leather
-val=studded_body_t_10681,Fur-trimmed studded leather
-val=wizard_robe_g_10686,Blue wizard (gold)
-val=wizard_robe_t_10687,Blue wizard (trim)
-val=black_platebody_t_10690,Trimmed black armour
-val=black_platebody_g_10691,Gold-trimmed black armour
-val=highwayman_mask_10692,Highwayman mask
-val=blue_beret_10693,Blue beret
-val=black_beret_10694,Black beret
-val=white_beret_10695,White beret
-val=black_helm_h1_10699,Black heraldic helm
-val=black_helm_h2_10700,Black heraldic helm
-val=black_helm_h3_10701,Black heraldic helm
-val=black_helm_h4_10702,Black heraldic helm
-val=black_helm_h5_10703,Black heraldic helm
-val=amulet_of_magic_t_10738,Trimmed amulet of magic
-val=pantaloons_10744,Pantaloons
-val=a_powdered_wig_10740,Wig
-val=flared_trousers_10742,Flared pants
-val=sleeping_cap_10746,Sleeping cap
-val=bobs_red_shirt_10714,Bob the Cat shirt (red)
-val=bobs_blue_shirt_10715,Bob the Cat shirt (blue)
-val=bobs_green_shirt_10716,Bob the Cat shirt (green)
-val=bobs_black_shirt_10717,Bob the Cat shirt (black)
-val=bobs_purple_shirt_10718,Bob the Cat shirt (purple)
-val=red_elegant_shirt_10750,Elegant clothes (red)
-val=green_elegant_shirt_10754,Elegant clothes (green)
-val=blue_elegant_shirt_10752,Elegant clothes (blue)
-val=beret_mask_11278,Beret Mask
-val=bronze_platebody_t_12215,Bronze armour (trim)
-val=bronze_platebody_g_12205,Bronze armour (gold)
-val=iron_platebody_t_12225,Iron armour (trim)
-val=iron_platebody_g_12235,Iron armour (gold)
-val=beanie_12245,Beanie hat
-val=red_beret_12247,Red beret
-val=imp_mask_12249,Imp mask
-val=goblin_mask_12251,Goblin mask
-val=black_cane_12375,Black cane
-val=black_pickaxe_12297,Black pickaxe
-val=black_wizard_hat_g_12453,Black wizard (gold)
-val=black_wizard_hat_t_12455,Black wizard (trim)
-val=large_spade_20164,Large spade
-val=wooden_shield_g_20166,Wooden shield (g)
-val=golden_chefs_hat_20205,Golden Chef's Hat
-val=golden_apron_20208,Golden Apron
-val=steel_platebody_t_20184,Steel armour (trim)
-val=steel_platebody_g_20169,Steel armour (gold)
-val=monks_robe_top_g_20199,Monk robes (gold)
-val=cape_of_skulls_23351,Cape of Skulls
-val=amulet_of_power_t_23354,Amulet of power (t)
-val=rain_bow_23357,Rain Bow
-val=ham_joint_23360,Ham joint
-val=staff_of_bob_the_cat_23363,Staff of Bob the Cat
-val=leather_body_g_23381,Leather body (g)
-val=leather_chaps_g_23384,Leather chaps (g)
-val=black_platebody_h1_23366,Black Platebody (h1)
-val=black_platebody_h2_23369,Black Platebody (h2)
-val=black_platebody_h3_23372,Black Platebody (h3)
-val=black_platebody_h4_23375,Black Platebody (h4)
-val=black_platebody_h5_23378,Black Platebody (h5)
-val=red_boater_10758,Red straw boater
-val=orange_boater_10760,Orange straw boater
-val=green_boater_10762,Green straw boater
-val=blue_boater_10764,Blue straw boater
-val=black_boater_10766,Black straw boater
-val=adamant_shield_h1_10666,Adamant heraldic kiteshield
-val=adamant_shield_h2_10669,Adamant heraldic kiteshield
-val=adamant_shield_h3_10672,Adamant heraldic kiteshield
-val=adamant_shield_h4_10675,Adamant heraldic kiteshield
-val=adamant_shield_h5_10678,Adamant heraldic kiteshield
-val=dhide_body_g_10682,Green dragonhide (gold)
-val=dhide_body_t_10683,Green dragonhide (trim)
-val=ranger_boots_10696,Ranger boots
-val=adamant_platebody_t_10697,Trimmed adamantite armour
-val=adamant_platebody_g_10698,Gold-trimmed adamantite armour
-val=red_headband_10768,Red headband
-val=black_headband_10770,Black headband
-val=brown_headband_10772,Brown headband
-val=adamant_helm_h1_10709,Adamant heraldic helm
-val=adamant_helm_h2_10710,Adamant heraldic helm
-val=adamant_helm_h3_10711,Adamant heraldic helm
-val=adamant_helm_h4_10712,Adamant heraldic helm
-val=adamant_helm_h5_10713,Adamant heraldic helm
-val=strength_amulet_t_10736,Trimmed amulet of strength
-val=black_elegant_shirt_10748,Elegant clothes (black)
-val=purple_elegant_shirt_10756,Elegant clothes (purple)
-val=wizard_boots_10689,Wizard boots
-val=mithril_platebody_g_12277,Mithril armour (gold)
-val=mithril_platebody_t_12287,Mithril armour (trim)
-val=leprechaun_hat_12359,Leprechaun hat
-val=white_headband_12299,White headband
-val=blue_headband_12301,Blue headband
-val=gold_headband_12303,Gold headband
-val=pink_headband_12305,Pink headband
-val=green_headband_12307,Green headband
-val=pink_boater_12309,Pink boater
-val=purple_boater_12311,Purple boater
-val=white_boater_12313,White boater
-val=cat_mask_12361,Cat mask
-val=penguin_mask_12428,Penguin mask
-val=pink_elegant_shirt_12315,Elegant clothes (pink)
-val=gold_elegant_shirt_12347,Elegant clothes (gold)
-val=armadyl_robe_top_12253,Armadyl vestments
-val=ancient_robe_top_12193,Ancient vestments
-val=bandos_robe_top_12265,Bandos vestments
-val=adamant_cane_12377,Adamant cane
-val=holy_sandals_12598,Holy Sandals
-val=clueless_scroll_20249,Clueless scroll
-val=arceuus_banner_20251,Arceuus banner
-val=hosidius_banner_20254,Hosidius banner
-val=lovakengj_banner_20257,Lovakengj banner
-val=piscarilius_banner_20260,Piscarilius banner
-val=shayzien_banner_20263,Shayzien banner
-val=black_unicorn_mask_20266,Black Unicorn mask
-val=white_unicorn_mask_20269,White Unicorn mask
-val=crier_hat_12319,Town Crier hat
-val=crier_coat_20240,Town Crier coat
-val=crier_bell_20243,Town Crier bell
-val=black_leprechaun_hat_20246,Black leprechaun hat
-val=cabbage_round_shield_20272,Cabbage round shield
-val=spiked_manacles_23389,Spiked Manacles
-val=adamant_platebody_h1_23392,Adamant Platebody (h1)
-val=adamant_platebody_h2_23395,Adamant Platebody (h2)
-val=adamant_platebody_h3_23398,Adamant Platebody (h3)
-val=adamant_platebody_h4_23401,Adamant Platebody (h4)
-val=adamant_platebody_h5_23404,Adamant Platebody (h5)
-val=wolf_mask_23407,Wolf mask
-val=wolf_cloak_23410,Wolf cloak
-val=climbing_boots_g_23413,Climbing Boots (g)
-val=rune_shield_h1_10667,Rune heraldic kiteshield
-val=rune_shield_h2_10670,Rune heraldic kiteshield
-val=rune_shield_h3_10673,Rune heraldic kiteshield
-val=rune_shield_h4_10676,Rune heraldic kiteshield
-val=rune_shield_h5_10679,Rune heraldic kiteshield
-val=dhide_body_g_10684,Blue dragonhide (gold)
-val=dhide_body_t_10685,Blue dragonhide (trim)
-val=enchanted_top_10688,Enchanted robes
-val=robin_hood_hat_10796,Robin hood hat
-val=rune_platebody_g_10798,Gold-trimmed rune armour
-val=rune_platebody_t_10800,Trimmed rune armour
-val=tan_cavalier_10802,Brown cavalier
-val=dark_cavalier_10804,Dark brown cavalier
-val=black_cavalier_10806,Black cavalier
-val=pirates_hat_10774,Pirate hat
-val=zamorak_platebody_10776,Zamorak rune armour
-val=saradomin_plate_10778,Saradomin rune armour
-val=guthix_platebody_10780,Guthix rune armour
-val=gilded_platebody_10782,Gold-plated rune armour
-val=rune_helm_h1_10704,Rune heraldic helm
-val=rune_helm_h2_10705,Rune heraldic helm
-val=rune_helm_h3_10706,Rune heraldic helm
-val=rune_helm_h4_10707,Rune heraldic helm
-val=rune_helm_h5_10708,Rune heraldic helm
-val=amulet_of_glory_t_10719,Trimmed amulet of glory
-val=saradomin_robe_top_10784,Saradomin vestments
-val=guthix_robe_top_10788,Guthix vestments
-val=zamorak_robe_top_10786,Zamorak vestments
-val=saradomin_dhide_body_10792,Saradomin blessed dragonhide
-val=guthix_dragonhide_10794,Guthix blessed dragonhide
-val=zamorak_dhide_body_10790,Zamorak blessed dragonhide
-val=cavalier_mask_11277,Cavalier Mask
-val=red_dhide_body_g_12327,Red dragonhide (gold)
-val=red_dhide_body_t_12331,Red dragonhide (trim)
-val=red_cavalier_12323,Red cavalier
-val=navy_cavalier_12325,Blue cavalier
-val=white_cavalier_12321,White cavalier
-val=pith_helmet_12516,Pith helmet
-val=explorer_backpack_12514,Explorer backpack
-val=armadyl_platebody_12470,Armadyl rune armour
-val=bandos_platebody_12480,Bandos rune armour
-val=ancient_platebody_12460,Ancient rune armour
-val=armadyl_dhide_body_12508,Armadyl blessed dragonhide
-val=bandos_dhide_body_12500,Bandos blessed dragonhide
-val=ancient_dhide_body_12492,Ancient blessed dragonhide
-val=green_dragon_mask_12518,Green dragon mask
-val=blue_dragon_mask_12520,Blue dragon mask
-val=red_dragon_mask_12522,Red dragon mask
-val=black_dragon_mask_12524,Black dragon mask
-val=rune_cane_12379,Rune cane
-val=zombie_head_19912,Zombie head
-val=cyclops_head_19915,Cyclops head
-val=gilded_med_helm_20146,Gilded rune med helm
-val=gilded_chainbody_20149,Gilded rune chainbody
-val=gilded_sq_shield_20152,Gilded rune sq shield
-val=gilded_2h_sword_20155,Gilded rune 2h sword
-val=gilded_spear_20158,Gilded rune spear
-val=gilded_hasta_20161,Gilded rune hasta
-val=nunchaku_19918,Nunchaku
-val=saradomin_dhide_boots_19933,Saradomin dragonhide boots
-val=bandos_dhide_boots_19924,Bandos dragonhide boots
-val=armadyl_dhide_boots_19930,Armadyl dragonhide boots
-val=guthix_dhide_boots_19927,Guthix dragonhide boots
-val=zamorak_dhide_boots_19936,Zamorak dragonhide boots
-val=ancient_dhide_boots_19921,Ancient dragonhide boots
-val=rune_platebody_h1_23209,Rune PlateBody (h1)
-val=rune_platebody_h2_23212,Rune PlateBody (h2)
-val=rune_platebody_h3_23215,Rune PlateBody (h3)
-val=rune_platebody_h4_23218,Rune PlateBody (h4)
-val=rune_platebody_h5_23221,Rune PlateBody (h5)
-val=dual_sai_23206,Dual sai
-val=thieving_bag_23224,Thieving bag
-val=3rd_age_plateskirt_23242,3rd Age plateskirt
-val=3rd_age_range_top_10330,3rd Age ranger kit
-val=3rd_age_robe_top_10338,3rd Age mage robes
-val=3rd_age_platebody_10348,3rd Age armour
-val=guthix_dhide_shield_23188,Guthix d'hide shield
-val=saradomin_dhide_shield_23191,Saradomin d'hide shield
-val=zamorak_dhide_shield_23194,Zamorak d'hide shield
-val=ancient_dhide_shield_23197,Ancient d'hide shield
-val=armadyl_dhide_shield_23200,Armadyl d'hide shield
-val=bandos_dhide_shield_23203,Bandos d'hide shield
-val=dragon_cane_12373,Dragon cane
-val=briefcase_12335,Briefcase
-val=sagacious_spectacles_12337,Sagacious spectacles
-val=royal_gown_top_12393,Royal top
-val=bronze_dragon_mask_12363,Bronze dragon mask
-val=iron_dragon_mask_12365,Iron dragon mask
-val=steel_dragon_mask_12367,Steel dragon mask
-val=mithril_dragon_mask_12369,Mith dragon mask
-val=lava_dragon_mask_12371,Lava dragon mask
-val=afro_12430,Afro
-val=katana_12357,Katana
-val=big_pirate_hat_12355,Big pirate hat
-val=top_hat_12432,Top hat
-val=monocle_12353,Monocle
-val=black_dhide_body_g_12381,Black dragonhide (gold)
-val=black_dhide_body_t_12385,Black dragonhide (trim)
-val=musketeer_tabard_12441,Musketeer outfit
-val=partyhat_specs_12399,Partyhat & specs
-val=pirate_hat_patch_12412,Piratehat & patch
-val=top_hat_monocle_12434,Top hat & monocle
-val=deerstalker_12540,Deerstalker
-val=heavy_casket_19941,Heavy casket
-val=arceuus_scarf_19943,Arceuus scarf
-val=hosidius_scarf_19946,Hosidius scarf
-val=lovakengj_scarf_19949,Lovakengj scarf
-val=piscarilius_scarf_19952,Piscarilius scarf
-val=shayzien_scarf_19955,Shayzien scarf
-val=blacksmiths_helm_19988,Blacksmith's helm
-val=bucket_helm_19991,Bucket helm
-val=ranger_gloves_19994,Ranger gloves
-val=holy_wraps_19997,Holy wraps
-val=ring_of_nature_20005,Ring of Nature
-val=3rd_age_wand_12422,3rd Age wand
-val=3rd_age_bow_12424,3rd Age bow
-val=3rd_age_longsword_12426,3rd Age longsword
-val=3rd_age_cloak_12437,3rd Age cloak
-val=dark_bow_tie_19970,Dark tuxedo outfit
-val=light_bow_tie_19985,Light tuxedo outfit
-val=rangers_tunic_12596,Rangers' tunic
-val=fremennik_kilt_23246,Fremennik Kilt
-val=adamant_dragon_mask_23270,Adamant dragon mask
-val=rune_dragon_mask_23273,Rune dragon mask
-val=rangers_tights_23249,Rangers' tights
-val=gilded_coif_23258,Gilded Coif
-val=gilded_dhide_vambraces_23261,Gilded d'hide Vambraces
-val=gilded_dhide_body_23264,Gilded d'hide Body
-val=gilded_dhide_chaps_23267,Gilded d'hide Chaps
-val=gilded_boots_12391,Gilded boots
-val=gilded_scimitar_12389,Gilded scimitar
-val=gilded_pickaxe_23276,Gilded pickaxe
-val=gilded_axe_23279,Gilded axe
-val=gilded_spade_23282,Gilded spade
-val=uris_hat_23255,Uri's Hat
-val=giant_boot_23252,Giant boot
-val=fancy_tiara_20008,Fancy tiara
-val=3rd_age_axe_20011,3rd Age axe
-val=3rd_age_pickaxe_20014,3rd Age pickaxe
-val=ring_of_coins_20017,Ring of Coins
-val=lesser_demon_mask_20020,Lesser Demon mask
-val=greater_demon_mask_20023,Greater Demon mask
-val=black_demon_mask_20026,Black Demon mask
-val=old_demon_mask_20029,Old Demon mask
-val=jungle_demon_mask_20032,Jungle Demon mask
-val=obsidian_cape_r_20050,Obsidian cape (red)
-val=half_moon_spectacles_20053,Half moon spectacles
-val=ale_of_the_gods_20056,Ale of the Gods
-val=bucket_helm_g_20059,Bucket helm (gold)
-val=bowl_wig_20110,Bowl wig
-val=arceuus_hood_20113,Arceuus hood
-val=hosidius_hood_20116,Hosidius hood
-val=lovakengj_hood_20119,Lovakengj hood
-val=piscarilius_hood_20122,Piscarilius hood
-val=shayzien_hood_20125,Shayzien hood
-val=samurai_shirt_20038,Samurai outfit
-val=mummys_head_20080,Mummy costume
-val=ankou_mask_20095,Ankou costume
-val=hood_of_darkness_20128,Robes of Darkness
-val=left_eye_patch_19724,Left eye patch
-val=scroll_sack_22675,Scroll Sack
-val=3rd_age_druidic_robe_bottoms_23339,3rd Age Druidic Bottoms
-val=3rd_age_druidic_robe_top_23336,3rd Age Druidic Top
-val=3rd_age_druidic_staff_23342,3rd Age Druidic staff
-val=3rd_age_druidic_cloak_23345,3rd Age Druidic cloak
-val=ring_of_3rd_age_23185,Ring of 3rd Age
-val=bunny_ears_10734,Bunny ears (2003)
-val=scythe_10735,Scythe (2003)
-val=yo_yo_10733,Yo-yo (2004)
-val=rubber_chicken_10732,Rubber chicken (2005)
-val=zombie_head_10731,Zombie head (2005)
-val=easter_ring_10729,Ring of Egg (2006)
-val=jack_lantern_mask_10723,Pumpkin head (2006)
-val=skeleton_boots_10724,Spooky boots (2006)
-val=skeleton_gloves_10725,Spooky gloves (2006)
-val=skeleton_leggings_10726,Spooky legs (2006)
-val=skeleton_shirt_10727,Spooky body (2006)
-val=skeleton_mask_10728,Spooky head (2006)
-val=bobble_hat_9815,Bobble hat (2005)
-val=bobble_scarf_9816,Bobble scarf (2005)
-val=jester_hat_6858,Jester hat (2005)
-val=jester_scarf_6859,Jester scarf (2005)
-val=tri_jester_hat_6860,Tri-jester hat (2005)
-val=tri_jester_scarf_6861,Tri-jester scarf (2005)
-val=woolly_hat_6862,Woolly hat (2005)
-val=woolly_scarf_6863,Woolly scarf (2005)
-val=blue_marionette_10730,Blue marionette (2005)
-val=red_marionette_6867,Red marionette (2005)
-val=green_marionette_6866,Green marionette (2005)
-val=reindeer_hat_10722,Reindeer hat (2006)
-val=chicken_feet_11016,Chicken feet (2007)
-val=chicken_legs_11018,Chicken legs (2007)
-val=chicken_wings_11017,Chicken wings (2007)
-val=chicken_head_11015,Chicken head (2007)
-val=war_ship_795,Karamja warship (Classic)
-val=black_hween_mask_11847,Black Halloween Mask (2013)
-val=black_partyhat_11862,Black Party Hat (2013)
-val=rainbow_partyhat_11863,Rainbow Party Hat (2013)
-val=cow_mask_11919,Cow Mask (2014)
-val=cow_top_12956,Cow Top (2015)
-val=cow_trousers_12957,Cow Legs (2015)
-val=cow_gloves_12958,Cow Gloves (2015)
-val=cow_shoes_12959,Cow Shoes (2015)
-val=easter_basket_4565,Easter basket (2005)
-val=druidic_wreath_12600,Druidic wreath (2014)
-val=grim_reaper_hood_12845,Grim Reaper hood (2007)
-val=santa_mask_12887,Santa mask (2014)
-val=santa_jacket_12888,Santa jacket (2014)
-val=santa_pantaloons_12889,Santa pantaloons (2014)
-val=santa_gloves_12890,Santa gloves (2014)
-val=santa_boots_12891,Santa boots (2014)
-val=antisanta_mask_12892,Antisanta mask (2014)
-val=antisanta_jacket_12893,Antisanta jacket (2014)
-val=antisanta_pantaloons_12894,Antisanta pantaloons (2014)
-val=antisanta_gloves_12895,Antisanta gloves (2014)
-val=antisanta_boots_12896,Antisanta boots (2014)
-val=bunny_feet_13182,Bunny feet (2015)
-val=mask_of_balance_13203,Mask of Balance (2015)
-val=tiger_toy_13215,Toy tiger (2015)
-val=lion_toy_13216,Toy lion (2015)
-val=snow_leopard_toy_13217,Toy snow leopard (2015)
-val=amur_leopard_toy_13218,Toy amur leopard (2015)
-val=anti_panties_13288,Anti-panties (2015)
-val=gravedigger_mask_13283,Undead gravedigger hat (2015)
-val=gravedigger_top_13284,Undead gravedigger top (2015)
-val=gravedigger_leggings_13285,Undead gravedigger legs (2015)
-val=gravedigger_boots_13286,Undead gravedigger boots (2015)
-val=gravedigger_gloves_13287,Undead gravedigger gloves (2015)
-val=black_santa_hat_13343,Black santa hat (2015)
-val=inverted_santa_hat_13344,Inverted santa hat (2015)
-val=gnome_child_hat_13655,Gnome child hat (2016)
-val=bunny_top_13663,Bunny top (2016)
-val=bunny_legs_13664,Bunny legs (2016)
-val=bunny_paws_13665,Bunny paws (2016)
-val=cabbage_cape_13679,Cabbage cape (2016)
-val=cruciferous_codex_13681,Cruciferous Codex (2016)
-val=hornwood_helm_19699,Hornwood helm (2016)
-val=banshee_mask_20773,Banshee mask (2016)
-val=banshee_top_20775,Banshee top (2016)
-val=banshee_robe_20777,Banshee robe (2016)
-val=hunting_knife_20779,Hunting knife (2016)
-val=snow_globe_20832,Snow globe (2016)
-val=sack_of_presents_20834,Sack of Presents (2016)
-val=giant_present_20836,Giant Present (2016)
-val=4th_birthday_hat_21211,4th Birthday hat (2017)
-val=birthday_balloons_21209,Birthday balloons (2017)
-val=easter_egg_helm_21214,Easter Egg Helm (2017)
-val=rainbow_scarf_21314,Rainbow Scarf (2017)
-val=hand_fan_21354,Hand fan (2017)
-val=runefest_shield_21695,Runefest shield (2017)
-val=jonas_mask_21720,Jonas mask (2017)
-val=snow_imp_costume_head_21847,Imp costume head (2017)
-val=snow_imp_costume_body_21849,Imp costume body (2017)
-val=snow_imp_costume_legs_21851,Imp costume legs (2017)
-val=snow_imp_costume_tail_21853,Imp costume tail (2017)
-val=snow_imp_costume_gloves_21855,Imp costume gloves (2017)
-val=snow_imp_costume_feet_21857,Imp costume feet (2017)
-val=wise_old_mans_santa_hat_21859,Wise Old Man's Santa hat (2017)
-val=prop_sword_22316,Birthday prop sword (2018)
-val=eggshell_platebody_22351,Eggshell Torso (2018)
-val=eggshell_platelegs_22353,Eggshell Legs (2018)
-val=clown_mask_22689,Clown mask (2018)
-val=clown_gown_22695,Clown gown (2018)
-val=clown_bow_tie_22692,Clown bow tie (2018)
-val=clown_trousers_22698,Clown trousers (2018)
-val=clown_shoes_22701,Clown shoes (2018)
-val=eek_22684,Eek the Spider (2018)
-val=star_face_22713,Star-face (2018)
-val=tree_top_22715,Tree top (2018)
-val=tree_skirt_22717,Tree skirt (2018)
-val=candy_cane_22719,Candy cane (2018)
-val=birthday_cake_23108,Birthday cake (2019)
-val=giant_easter_egg_23446,Giant Easter Egg (2019)
-val=bunnyman_mask_23448,Bunny mask (2019)
-val=spooky_hood_24305,Spooky costume (2019)
-val=spookier_hood_24315,Spookier costume (2019)
-val=pumpkin_lantern_24325,Pumpkin lantern (2019)
-val=skeleton_lantern_24327,Skeleton lantern (2019)
-val=green_gingerbread_shield_24428,Gingerbread Gnome Shield (2019)
-val=red_gingerbread_shield_24430,Gingerbread Gnome Shield (2019)
-val=blue_gingerbread_shield_24431,Gingerbread Gnome Shield (2019)
-val=cat_ears_24525,Cat Ears (2020)
-val=hell_cat_ears_24527,Cat Ears (2020)
-val=magic_egg_ball_24535,Easter Magic Egg (2020)
-val=carrot_sword_24537,Easter Carrot Sword (2020)
-val=24_carat_sword_24539,Easter '24-carat' Sword (2020)
-val=jar_of_dirt_12007,Jar of Dirt (Kraken)
-val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
-val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
-val=jar_of_souls_13245,Jar of Souls (Cerberus)
-val=jar_of_miasma_13277,Jar of Miasma (Abyssal Sire)
-val=jar_of_darkness_19701,Jar of Darkness (Skotizo)
-val=jar_of_stone_21745,Jar of Stone (Grotesque Guardians)
-val=jar_of_decay_22106,Jar of Decay (Vorkath)
-val=jar_of_chemicals_23064,Jar of Chemicals (Alchemical Hydra)
-val=jar_of_eyes_23525,Jar of Eyes (Sarachnis)
-val=jar_of_dreams_24495,Jar of Dreams (Nightmare)
-val=more_10165,More...
-val=back_10166,Back...
-
 [enum_496]
 inputtype=obj
 outputtype=int
@@ -14213,7 +13575,6 @@ val=inconspicuous_rocks_master_multi_29053,0_0_0_3_6
 val=inconspicuous_hole_master_multi_29054,0_0_0_3_7
 val=inconspicuous_bush_master_multi_29055,0_0_0_3_8
 val=inconspicuous_hole_master_multi_29056,0_0_0_3_9
-val=inconspicuous_bush_master_multi_29060,0_0_0_3_11
 val=inconspicuous_hole_master_multi_34953,0_0_0_3_12
 val=inconspicuous_bush_beginner_multi_34736,0_0_0_3_14
 val=inconspicuous_bush_beginner_multi_34737,0_0_0_3_15
@@ -15116,6 +14477,7 @@ val=inconspicuous_crate_master_multi_29050,0_1_1_3_3
 val=inconspicuous_hole_master_multi_29052,0_1_1_4_5
 val=inconspicuous_hole_master_multi_29058,0_1_1_6_8
 val=inconspicuous_bush_master_multi_29059,0_1_1_9_11
+val=inconspicuous_bush_master_multi_29060,0_1_1_28_28
 val=inconspicuous_rocks_elite_multi_29032,0_1_1_12_14
 val=inconspicuous_hole_master_multi_34953,0_1_1_15_16
 val=inconspicuous_rocks_master_multi_29051,0_1_1_17_19
@@ -21471,7 +20833,7 @@ val=18,grey_naval_shirt_8958
 val=19,grey_tricorn_hat_8965
 val=20,grey_navy_slacks_8997
 val=21,cutthroat_flag_8966
-val=22,guilded_smile_flag_8967
+val=22,gilded_smile_flag_8967
 val=23,bronze_fist_flag_8968
 val=24,lucky_shot_flag_8969
 val=25,treasure_flag_8970
@@ -26607,6 +25969,7 @@ val=20,<col=ffffff>Pyromancer outfit:<br><br>XP from training Firemaking will be
 val=21,<col=ffffff>Shayzien armour:<br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.
 val=22,<col=ffffff>Rogue kit:<br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.
 val=23,<col=ffffff>Carpenter's outfit:<br><br>XP from training Construction will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.
+val=24,<col=ffffff>Crystal armour:<br><br>The full set gives a 30% accuracy bonus and 15% damage bonus when ranging with a crystal weapon. Incomplete sets give smaller bonuses.
 
 [enum_3048]
 inputtype=int
@@ -26954,4 +26317,3573 @@ val=4,carpenters_boots_24878
 val=5,amys_saw_24880
 val=6,plank_sack_24882
 val=7,hosidius_blueprints_24885
+
+[enum_3077]
+inputtype=obj
+outputtype=enum
+default=null
+val=mystic_hat_4089,enum_3078
+val=mystic_hat_dark_4099,enum_3079
+val=mystic_hat_light_4109,enum_3080
+val=mystic_hat_dusk_23047,enum_3081
+val=skeletal_helm_6137,enum_3082
+val=infinity_top_6916,enum_3083
+val=light_infinity_top_12420,enum_3084
+val=dark_infinity_top_12458,enum_3085
+val=splitbark_helm_3385,enum_3086
+val=ghostly_boots_6106,enum_3087
+val=moonclan_hat_9069,enum_3088
+val=lunar_helm_9096,enum_3089
+val=dagonhai_hat_24288,enum_3090
+val=graceful_hood_11850,enum_3091
+val=graceful_hood_13579,enum_3092
+val=graceful_hood_13627,enum_3093
+val=graceful_hood_13603,enum_3094
+val=graceful_hood_13591,enum_3095
+val=graceful_hood_13615,enum_3096
+val=graceful_hood_13667,enum_3097
+val=graceful_hood_21061,enum_3098
+val=graceful_hood_24743,enum_3099
+val=blue_tricorn_hat_8959,enum_3100
+val=green_tricorn_hat_8960,enum_3101
+val=red_tricorn_hat_8961,enum_3102
+val=brown_tricorn_hat_8962,enum_3103
+val=black_tricorn_hat_8963,enum_3104
+val=purple_tricorn_hat_8964,enum_3105
+val=grey_tricorn_hat_8965,enum_3106
+val=elder_chaos_hood_20595,enum_3107
+val=evil_chicken_head_20439,enum_3108
+val=pyromancer_hood_20708,enum_3109
+val=mudskipper_hat_6665,enum_3110
+val=carpenters_helmet_24872,enum_3111
+val=decorative_helm_4071,enum_3112
+val=decorative_helm_4506,enum_3113
+val=decorative_helm_4511,enum_3114
+val=decorative_armour_11896,enum_3115
+val=decorative_armour_11899,enum_3116
+val=void_knight_top_8839,enum_3117
+val=elite_void_top_13072,enum_3118
+val=rogue_mask_5554,enum_3119
+val=spined_helm_6131,enum_3120
+val=rock_shell_helm_6128,enum_3121
+val=white_platebody_6617,enum_3122
+val=initiate_hauberk_5575,enum_3123
+val=proselyte_hauberk_9674,enum_3124
+val=mourner_top_6065,enum_3125
+val=graahk_top_10049,enum_3126
+val=larupia_top_10043,enum_3127
+val=kyatt_top_10037,enum_3128
+val=polar_camo_top_10065,enum_3129
+val=jungle_camo_top_10057,enum_3130
+val=wood_camo_top_10053,enum_3131
+val=desert_camo_top_10061,enum_3132
+val=hard_hat_10862,enum_3133
+val=lumberjack_top_10939,enum_3134
+val=bomber_jacket_9944,enum_3135
+val=ham_shirt_4298,enum_3136
+val=prospector_helmet_12013,enum_3137
+val=angler_hat_13258,enum_3138
+val=shayzien_helm_1_13359,enum_3139
+val=shayzien_helm_2_13364,enum_3140
+val=shayzien_helm_3_13369,enum_3141
+val=shayzien_helm_4_13374,enum_3142
+val=shayzien_helm_5_13379,enum_3143
+val=xerician_hat_13385,enum_3144
+val=farmers_strawhat_13646,enum_3145
+val=clue_hunter_garb_19689,enum_3146
+val=corrupted_helm_20838,enum_3147
+val=ancestral_hat_21018,enum_3148
+val=twisted_ancestral_hat_24664,enum_3149
+val=obsidian_helmet_21298,enum_3150
+val=justiciar_faceguard_22326,enum_3151
+val=ornate_helm_23101,enum_3152
+val=dragonstone_full_helm_24034,enum_3153
+val=ardougne_knight_helm_23785,enum_3154
+val=deadmans_chest_13317,enum_3155
+val=twisted_coat_t1_24407,enum_3156
+val=twisted_coat_t2_24399,enum_3157
+val=twisted_coat_t3_24389,enum_3158
+val=inquisitors_great_helm_24419,enum_3159
+val=vyre_noble_top_24676,enum_3160
+val=snakeskin_bandana_6326,enum_3161
+val=mime_mask_3057,enum_3162
+val=frog_mask_6188,enum_3163
+val=zombie_shirt_7592,enum_3164
+val=camo_top_6654,enum_3165
+val=lederhosen_top_6180,enum_3166
+val=shade_robe_top_546,enum_3167
+val=attack_cape_9747,enum_3168
+val=defence_cape_9753,enum_3169
+val=strength_cape_9750,enum_3170
+val=hitpoints_cape_9768,enum_3171
+val=agility_cape_9771,enum_3172
+val=cooking_cape_9801,enum_3173
+val=construct_cape_9789,enum_3174
+val=crafting_cape_9780,enum_3175
+val=farming_cape_9810,enum_3176
+val=firemaking_cape_9804,enum_3177
+val=fishing_cape_9798,enum_3178
+val=fletching_cape_9783,enum_3179
+val=herblore_cape_9774,enum_3180
+val=magic_cape_9762,enum_3181
+val=mining_cape_9792,enum_3182
+val=prayer_cape_9759,enum_3183
+val=ranging_cape_9756,enum_3184
+val=runecraft_cape_9765,enum_3185
+val=slayer_cape_9786,enum_3186
+val=smithing_cape_9795,enum_3187
+val=thieving_cape_9777,enum_3188
+val=woodcutting_cape_9807,enum_3189
+val=hunter_cape_9948,enum_3190
+val=quest_point_cape_9813,enum_3191
+val=achievement_diary_cape_19476,enum_3192
+val=music_cape_13221,enum_3193
+val=max_cape_13280,enum_3194
+val=monks_robe_top_t_23303,enum_3195
+val=sandwich_lady_hat_23312,enum_3196
+val=studded_body_g_7362,enum_3197
+val=studded_body_t_7364,enum_3198
+val=blue_wizard_robe_g_7390,enum_3199
+val=blue_wizard_robe_t_7392,enum_3200
+val=black_platebody_t_2583,enum_3201
+val=black_platebody_g_2591,enum_3202
+val=red_elegant_shirt_10404,enum_3203
+val=green_elegant_shirt_10412,enum_3204
+val=blue_elegant_shirt_10408,enum_3205
+val=bronze_platebody_t_12215,enum_3206
+val=bronze_platebody_g_12205,enum_3207
+val=iron_platebody_t_12225,enum_3208
+val=iron_platebody_g_12235,enum_3209
+val=steel_platebody_t_20184,enum_3210
+val=steel_platebody_g_20169,enum_3211
+val=black_wizard_hat_g_12453,enum_3212
+val=black_wizard_hat_t_12455,enum_3213
+val=monks_robe_top_g_20199,enum_3214
+val=leather_body_g_23381,enum_3215
+val=green_dhide_body_g_7370,enum_3216
+val=green_dhide_body_t_7372,enum_3217
+val=adamant_platebody_t_2599,enum_3218
+val=adamant_platebody_g_2607,enum_3219
+val=black_elegant_shirt_10400,enum_3220
+val=purple_elegant_shirt_10416,enum_3221
+val=pink_elegant_shirt_12315,enum_3222
+val=gold_elegant_shirt_12347,enum_3223
+val=mithril_platebody_g_12277,enum_3224
+val=mithril_platebody_t_12287,enum_3225
+val=armadyl_robe_top_12253,enum_3226
+val=ancient_robe_top_12193,enum_3227
+val=bandos_robe_top_12265,enum_3228
+val=crier_hat_12319,enum_3229
+val=blue_dhide_body_g_7374,enum_3230
+val=blue_dhide_body_t_7376,enum_3231
+val=enchanted_top_7399,enum_3232
+val=rune_platebody_g_2615,enum_3233
+val=rune_platebody_t_2623,enum_3234
+val=zamorak_platebody_2653,enum_3235
+val=saradomin_platebody_2661,enum_3236
+val=guthix_platebody_2669,enum_3237
+val=gilded_platebody_3481,enum_3238
+val=saradomin_robe_top_10458,enum_3239
+val=guthix_robe_top_10462,enum_3240
+val=zamorak_robe_top_10460,enum_3241
+val=saradomin_dhide_body_10386,enum_3242
+val=guthix_dhide_body_10378,enum_3243
+val=zamorak_dhide_body_10370,enum_3244
+val=red_dhide_body_g_12327,enum_3245
+val=red_dhide_body_t_12331,enum_3246
+val=armadyl_platebody_12470,enum_3247
+val=bandos_platebody_12480,enum_3248
+val=ancient_platebody_12460,enum_3249
+val=armadyl_dhide_body_12508,enum_3250
+val=bandos_dhide_body_12500,enum_3251
+val=ancient_dhide_body_12492,enum_3252
+val=3rd_age_range_top_10330,enum_3253
+val=3rd_age_robe_top_10338,enum_3254
+val=3rd_age_platebody_10348,enum_3255
+val=rangers_tunic_12596,enum_3256
+val=royal_gown_top_12393,enum_3257
+val=black_dhide_body_g_12381,enum_3258
+val=black_dhide_body_t_12385,enum_3259
+val=musketeer_tabard_12441,enum_3260
+val=dark_bow_tie_19970,enum_3261
+val=light_bow_tie_19985,enum_3262
+val=dragon_full_helm_g_12417,enum_3263
+val=gilded_coif_23258,enum_3264
+val=samurai_shirt_20038,enum_3265
+val=mummys_head_20080,enum_3266
+val=ankou_mask_20095,enum_3267
+val=hood_of_darkness_20128,enum_3268
+val=3rd_age_druidic_robe_top_23336,enum_3269
+val=red_marionette_6867,enum_3270
+val=bobble_hat_6856,enum_3271
+val=bobble_scarf_6857,enum_3272
+val=skeleton_mask_9925,enum_3273
+val=chicken_head_11021,enum_3274
+val=cow_mask_11919,enum_3275
+val=santa_mask_12887,enum_3276
+val=antisanta_mask_12892,enum_3277
+val=tiger_toy_13215,enum_3278
+val=gravedigger_mask_13283,enum_3279
+val=bunny_top_13663,enum_3280
+val=banshee_mask_20773,enum_3281
+val=snow_imp_costume_head_21847,enum_3282
+val=eggshell_platebody_22351,enum_3283
+val=clown_mask_22689,enum_3284
+val=star_face_22713,enum_3285
+val=spooky_hood_24305,enum_3286
+val=spookier_hood_24315,enum_3287
+val=carrot_sword_24537,enum_3288
+
+[enum_3078]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mystic_hat_4089
+val=1,mystic_robe_top_4091
+val=2,mystic_robe_bottom_4093
+val=3,mystic_gloves_4095
+val=4,mystic_boots_4097
+
+[enum_3079]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mystic_hat_dark_4099
+val=1,mystic_robe_top_dark_4101
+val=2,mystic_robe_bottom_dark_4103
+val=3,mystic_gloves_dark_4105
+val=4,mystic_boots_dark_4107
+
+[enum_3080]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mystic_hat_light_4109
+val=1,mystic_robe_top_light_4111
+val=2,mystic_robe_bottom_light_4113
+val=3,mystic_gloves_light_4115
+val=4,mystic_boots_light_4117
+
+[enum_3081]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mystic_hat_dusk_23047
+val=1,mystic_robe_top_dusk_23050
+val=2,mystic_robe_bottom_dusk_23053
+val=3,mystic_gloves_dusk_23056
+val=4,mystic_boots_dusk_23059
+
+[enum_3082]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,skeletal_helm_6137
+val=1,skeletal_top_6139
+val=2,skeletal_bottoms_6141
+val=3,skeletal_boots_6147
+val=4,skeletal_gloves_6153
+
+[enum_3083]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,infinity_hat_6918
+val=1,infinity_top_6916
+val=2,infinity_bottoms_6924
+val=3,infinity_gloves_6922
+val=4,infinity_boots_6920
+
+[enum_3084]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,light_infinity_hat_12419
+val=1,light_infinity_top_12420
+val=2,light_infinity_bottoms_12421
+val=3,infinity_gloves_6922
+val=4,infinity_boots_6920
+
+[enum_3085]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,dark_infinity_hat_12457
+val=1,dark_infinity_top_12458
+val=2,dark_infinity_bottoms_12459
+val=3,infinity_gloves_6922
+val=4,infinity_boots_6920
+
+[enum_3086]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,splitbark_helm_3385
+val=1,splitbark_body_3387
+val=2,splitbark_legs_3389
+val=3,splitbark_gauntlets_3391
+val=4,splitbark_boots_3393
+
+[enum_3087]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ghostly_hood_6109
+val=1,ghostly_robe_6107
+val=2,ghostly_robe_6108
+val=3,ghostly_cloak_6111
+val=4,ghostly_gloves_6110
+val=5,ghostly_boots_6106
+
+[enum_3088]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,moonclan_hat_9069
+val=1,moonclan_helm_9068
+val=2,moonclan_armour_9070
+val=3,moonclan_skirt_9071
+val=4,moonclan_cape_9074
+val=5,moonclan_gloves_9072
+val=6,moonclan_boots_9073
+
+[enum_3089]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,lunar_helm_9096
+val=1,lunar_torso_9097
+val=2,lunar_legs_9098
+val=3,lunar_amulet_9102
+val=4,lunar_cape_9101
+val=5,lunar_gloves_9099
+val=6,lunar_ring_9104
+val=7,lunar_boots_9100
+
+[enum_3090]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,dagonhai_hat_24288
+val=1,dagonhai_robe_top_24291
+val=2,dagonhai_robe_bottom_24294
+
+[enum_3091]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_11850
+val=1,graceful_top_11854
+val=2,graceful_legs_11856
+val=3,graceful_cape_11852
+val=4,graceful_gloves_11858
+val=5,graceful_boots_11860
+
+[enum_3092]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_13579
+val=1,graceful_top_13583
+val=2,graceful_legs_13585
+val=3,graceful_cape_13581
+val=4,graceful_gloves_13587
+val=5,graceful_boots_13589
+
+[enum_3093]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_13627
+val=1,graceful_top_13631
+val=2,graceful_legs_13633
+val=3,graceful_cape_13629
+val=4,graceful_gloves_13635
+val=5,graceful_boots_13637
+
+[enum_3094]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_13603
+val=1,graceful_top_13607
+val=2,graceful_legs_13609
+val=3,graceful_cape_13605
+val=4,graceful_gloves_13611
+val=5,graceful_boots_13613
+
+[enum_3095]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_13591
+val=1,graceful_top_13595
+val=2,graceful_legs_13597
+val=3,graceful_cape_13593
+val=4,graceful_gloves_13599
+val=5,graceful_boots_13601
+
+[enum_3096]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_13615
+val=1,graceful_top_13619
+val=2,graceful_legs_13621
+val=3,graceful_cape_13617
+val=4,graceful_gloves_13623
+val=5,graceful_boots_13625
+
+[enum_3097]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_13667
+val=1,graceful_top_13671
+val=2,graceful_legs_13673
+val=3,graceful_cape_13669
+val=4,graceful_gloves_13675
+val=5,graceful_boots_13677
+
+[enum_3098]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_21061
+val=1,graceful_top_21067
+val=2,graceful_legs_21070
+val=3,graceful_cape_21064
+val=4,graceful_gloves_21073
+val=5,graceful_boots_21076
+
+[enum_3099]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graceful_hood_24743
+val=1,graceful_top_24749
+val=2,graceful_legs_24752
+val=3,graceful_cape_24746
+val=4,graceful_gloves_24755
+val=5,graceful_boots_24758
+
+[enum_3100]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,blue_tricorn_hat_8959
+val=1,blue_naval_shirt_8952
+val=2,blue_navy_slacks_8991
+
+[enum_3101]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,green_tricorn_hat_8960
+val=1,green_naval_shirt_8953
+val=2,green_navy_slacks_8992
+
+[enum_3102]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,red_tricorn_hat_8961
+val=1,red_naval_shirt_8954
+val=2,red_navy_slacks_8993
+
+[enum_3103]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,brown_tricorn_hat_8962
+val=1,brown_naval_shirt_8955
+val=2,brown_navy_slacks_8994
+
+[enum_3104]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_tricorn_hat_8963
+val=1,black_naval_shirt_8956
+val=2,black_navy_slacks_8995
+
+[enum_3105]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,purple_tricorn_hat_8964
+val=1,purple_naval_shirt_8957
+val=2,purple_navy_slacks_8996
+
+[enum_3106]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,grey_tricorn_hat_8965
+val=1,grey_naval_shirt_8958
+val=2,grey_navy_slacks_8997
+
+[enum_3107]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,elder_chaos_hood_20595
+val=1,elder_chaos_top_20517
+val=2,elder_chaos_robe_20520
+
+[enum_3108]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,evil_chicken_head_20439
+val=1,evil_chicken_wings_20436
+val=2,evil_chicken_legs_20442
+val=3,evil_chicken_feet_20433
+
+[enum_3109]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,pyromancer_hood_20708
+val=1,pyromancer_garb_20704
+val=2,pyromancer_robe_20706
+val=3,pyromancer_boots_20710
+
+[enum_3110]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mudskipper_hat_6665
+val=1,flippers_6666
+
+[enum_3111]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,carpenters_helmet_24872
+val=1,carpenters_shirt_24874
+val=2,carpenters_trousers_24876
+val=3,carpenters_boots_24878
+
+[enum_3112]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,decorative_helm_4071
+val=1,decorative_armour_4069
+val=2,decorative_armour_4070
+val=3,decorative_shield_4072
+
+[enum_3113]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,decorative_helm_4506
+val=1,decorative_armour_4504
+val=2,decorative_armour_4505
+val=3,decorative_shield_4507
+
+[enum_3114]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,decorative_helm_4511
+val=1,decorative_armour_4509
+val=2,decorative_armour_4510
+val=3,decorative_shield_4512
+
+[enum_3115]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,decorative_armour_11898
+val=1,decorative_armour_11896
+val=2,decorative_armour_11897
+
+[enum_3116]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,decorative_armour_11899
+val=1,decorative_armour_11900
+val=2,decorative_armour_11901
+
+[enum_3117]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,void_knight_top_8839
+val=1,void_knight_robe_8840
+val=2,void_knight_gloves_8842
+
+[enum_3118]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,elite_void_top_13072
+val=1,elite_void_robe_13073
+val=2,void_knight_gloves_8842
+
+[enum_3119]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,rogue_mask_5554
+val=1,rogue_top_5553
+val=2,rogue_trousers_5555
+val=3,rogue_gloves_5556
+val=4,rogue_boots_5557
+
+[enum_3120]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,spined_helm_6131
+val=1,spined_body_6133
+val=2,spined_chaps_6135
+val=3,spined_gloves_6149
+val=4,spined_boots_6143
+
+[enum_3121]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,rock_shell_helm_6128
+val=1,rock_shell_plate_6129
+val=2,rock_shell_legs_6130
+val=3,rock_shell_gloves_6151
+val=4,rock_shell_boots_6145
+
+[enum_3122]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,white_full_helm_6623
+val=1,white_platebody_6617
+val=2,white_platelegs_6625
+val=3,white_kiteshield_6633
+val=4,white_gloves_6629
+val=5,white_boots_6619
+
+[enum_3123]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,initiate_sallet_5574
+val=1,initiate_hauberk_5575
+val=2,initiate_cuisse_5576
+
+[enum_3124]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,proselyte_sallet_9672
+val=1,proselyte_hauberk_9674
+val=2,proselyte_cuisse_9676
+
+[enum_3125]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,gas_mask_1506
+val=1,mourner_top_6065
+val=2,mourner_trousers_6067
+val=3,mourner_cloak_6070
+val=4,mourner_gloves_6068
+val=5,mourner_boots_6069
+
+[enum_3126]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,graahk_headdress_10051
+val=1,graahk_top_10049
+val=2,graahk_legs_10047
+
+[enum_3127]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,larupia_hat_10045
+val=1,larupia_top_10043
+val=2,larupia_legs_10041
+
+[enum_3128]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,kyatt_hat_10039
+val=1,kyatt_top_10037
+val=2,kyatt_legs_10035
+
+[enum_3129]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,polar_camo_top_10065
+val=1,polar_camo_legs_10067
+
+[enum_3130]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,jungle_camo_top_10057
+val=1,jungle_camo_legs_10059
+
+[enum_3131]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,wood_camo_top_10053
+val=1,wood_camo_legs_10055
+
+[enum_3132]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,desert_camo_top_10061
+val=1,desert_camo_legs_10063
+
+[enum_3133]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hard_hat_10862
+val=1,builders_shirt_10863
+val=2,builders_trousers_10864
+val=3,builders_boots_10865
+
+[enum_3134]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,lumberjack_hat_10941
+val=1,lumberjack_top_10939
+val=2,lumberjack_legs_10940
+val=3,lumberjack_boots_10933
+
+[enum_3135]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bomber_cap_9945
+val=1,bomber_jacket_9944
+
+[enum_3136]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ham_hood_4302
+val=1,ham_shirt_4298
+val=2,ham_robe_4300
+val=3,ham_logo_4306
+val=4,ham_cloak_4304
+val=5,ham_gloves_4308
+val=6,ham_boots_4310
+
+[enum_3137]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,prospector_helmet_12013
+val=1,prospector_jacket_12014
+val=2,prospector_legs_12015
+val=3,prospector_boots_12016
+
+[enum_3138]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,angler_hat_13258
+val=1,angler_top_13259
+val=2,angler_waders_13260
+val=3,angler_boots_13261
+
+[enum_3139]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,shayzien_helm_1_13359
+val=1,shayzien_platebody_1_13361
+val=2,shayzien_greaves_1_13360
+val=3,shayzien_gloves_1_13357
+val=4,shayzien_boots_1_13358
+
+[enum_3140]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,shayzien_helm_2_13364
+val=1,shayzien_platebody_2_13366
+val=2,shayzien_greaves_2_13365
+val=3,shayzien_gloves_2_13362
+val=4,shayzien_boots_2_13363
+
+[enum_3141]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,shayzien_helm_3_13369
+val=1,shayzien_platebody_3_13371
+val=2,shayzien_greaves_3_13370
+val=3,shayzien_gloves_3_13367
+val=4,shayzien_boots_3_13368
+
+[enum_3142]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,shayzien_helm_4_13374
+val=1,shayzien_platebody_4_13376
+val=2,shayzien_greaves_4_13375
+val=3,shayzien_gloves_4_13372
+val=4,shayzien_boots_4_13373
+
+[enum_3143]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,shayzien_helm_5_13379
+val=1,shayzien_platebody_5_13381
+val=2,shayzien_greaves_5_13380
+val=3,shayzien_gloves_5_13377
+val=4,shayzien_boots_5_13378
+
+[enum_3144]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,xerician_hat_13385
+val=1,xerician_top_13387
+val=2,xerician_robe_13389
+
+[enum_3145]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,farmers_strawhat_13646
+val=1,farmers_jacket_13642
+val=2,farmers_boro_trousers_13640
+val=3,farmers_boots_13644
+
+[enum_3146]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,clue_hunter_garb_19689
+val=1,clue_hunter_trousers_19693
+val=2,clue_hunter_cloak_19697
+val=3,clue_hunter_gloves_19691
+val=4,clue_hunter_boots_19695
+
+[enum_3147]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,corrupted_helm_20838
+val=1,corrupted_platebody_20840
+val=2,corrupted_platelegs_20842
+val=3,corrupted_kiteshield_20846
+
+[enum_3148]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ancestral_hat_21018
+val=1,ancestral_robe_top_21021
+val=2,ancestral_robe_bottom_21024
+
+[enum_3149]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,twisted_ancestral_hat_24664
+val=1,twisted_ancestral_robe_top_24666
+val=2,twisted_ancestral_robe_bottom_24668
+
+[enum_3150]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,obsidian_helmet_21298
+val=1,obsidian_platebody_21301
+val=2,obsidian_platelegs_21304
+
+[enum_3151]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,justiciar_faceguard_22326
+val=1,justiciar_chestguard_22327
+val=2,justiciar_legguards_22328
+
+[enum_3152]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ornate_helm_23101
+val=1,ornate_top_23097
+val=2,ornate_legs_23095
+val=3,ornate_cape_23099
+val=4,ornate_gloves_23091
+val=5,ornate_boots_23093
+
+[enum_3153]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,dragonstone_full_helm_24034
+val=1,dragonstone_platebody_24037
+val=2,dragonstone_platelegs_24040
+val=3,dragonstone_gauntlets_24046
+val=4,dragonstone_boots_24043
+
+[enum_3154]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ardougne_knight_helm_23785
+val=1,ardougne_knight_platebody_23787
+val=2,ardougne_knight_platelegs_23789
+
+[enum_3155]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,deadmans_chest_13317
+val=1,deadmans_legs_13318
+val=2,deadmans_cape_13319
+
+[enum_3156]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,twisted_hat_t1_24405
+val=1,twisted_coat_t1_24407
+val=2,twisted_trousers_t1_24409
+val=3,twisted_boots_t1_24411
+
+[enum_3157]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,twisted_hat_t2_24397
+val=1,twisted_coat_t2_24399
+val=2,twisted_trousers_t2_24401
+val=3,twisted_boots_t2_24403
+
+[enum_3158]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,twisted_hat_t3_24387
+val=1,twisted_coat_t3_24389
+val=2,twisted_trousers_t3_24391
+val=3,twisted_boots_t3_24393
+
+[enum_3159]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,inquisitors_great_helm_24419
+val=1,inquisitors_hauberk_24420
+val=2,inquisitors_plateskirt_24421
+
+[enum_3160]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,vyre_noble_top_24676
+val=1,vyre_noble_legs_24678
+val=2,vyre_noble_shoes_24680
+
+[enum_3161]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,snakeskin_bandana_6326
+val=1,snakeskin_body_6322
+val=2,snakeskin_chaps_6324
+val=3,snakeskin_vambraces_6330
+val=4,snakeskin_boots_6328
+
+[enum_3162]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mime_mask_3057
+val=1,mime_top_3058
+val=2,mime_legs_3059
+val=3,mime_gloves_3060
+val=4,mime_boots_3061
+
+[enum_3163]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,frog_mask_6188
+val=1,prince_tunic_6184
+val=2,prince_leggings_6185
+
+[enum_3164]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,zombie_mask_7594
+val=1,zombie_shirt_7592
+val=2,zombie_trousers_7593
+val=3,zombie_gloves_7595
+val=4,zombie_boots_7596
+
+[enum_3165]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,camo_helmet_6656
+val=1,camo_top_6654
+val=2,camo_bottoms_6655
+
+[enum_3166]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,lederhosen_hat_6182
+val=1,lederhosen_top_6180
+val=2,lederhosen_shorts_6181
+
+[enum_3167]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,shade_robe_top_546
+val=1,shade_robe_548
+
+[enum_3168]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,attack_cape_9747
+val=1,attack_hood_9749
+
+[enum_3169]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,defence_cape_9753
+val=1,defence_hood_9755
+
+[enum_3170]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,strength_cape_9750
+val=1,strength_hood_9752
+
+[enum_3171]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hitpoints_cape_9768
+val=1,hitpoints_hood_9770
+
+[enum_3172]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,agility_cape_9771
+val=1,agility_hood_9773
+
+[enum_3173]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,cooking_cape_9801
+val=1,cooking_hood_9803
+
+[enum_3174]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,construct_cape_9789
+val=1,construct_hood_9791
+
+[enum_3175]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,crafting_cape_9780
+val=1,crafting_hood_9782
+
+[enum_3176]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,farming_cape_9810
+val=1,farming_hood_9812
+
+[enum_3177]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,firemaking_cape_9804
+val=1,firemaking_hood_9806
+
+[enum_3178]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,fishing_cape_9798
+val=1,fishing_hood_9800
+
+[enum_3179]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,fletching_cape_9783
+val=1,fletching_hood_9785
+
+[enum_3180]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,herblore_cape_9774
+val=1,herblore_hood_9776
+
+[enum_3181]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,magic_cape_9762
+val=1,magic_hood_9764
+
+[enum_3182]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mining_cape_9792
+val=1,mining_hood_9794
+
+[enum_3183]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,prayer_cape_9759
+val=1,prayer_hood_9761
+
+[enum_3184]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ranging_cape_9756
+val=1,ranging_hood_9758
+
+[enum_3185]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,runecraft_cape_9765
+val=1,runecraft_hood_9767
+
+[enum_3186]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,slayer_cape_9786
+val=1,slayer_hood_9788
+
+[enum_3187]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,smithing_cape_9795
+val=1,smithing_hood_9797
+
+[enum_3188]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,thieving_cape_9777
+val=1,thieving_hood_9779
+
+[enum_3189]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,woodcutting_cape_9807
+val=1,woodcutting_hood_9809
+
+[enum_3190]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hunter_cape_9948
+val=1,hunter_hood_9950
+
+[enum_3191]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,quest_point_cape_9813
+val=1,quest_point_hood_9814
+
+[enum_3192]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,achievement_diary_cape_19476
+val=1,achievement_diary_hood_13070
+
+[enum_3193]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,music_cape_13221
+val=1,music_hood_13223
+
+[enum_3194]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,max_cape_13280
+val=1,max_hood_13281
+
+[enum_3195]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,monks_robe_top_t_23303
+val=1,monks_robe_t_23306
+
+[enum_3196]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,sandwich_lady_hat_23312
+val=1,sandwich_lady_top_23315
+val=2,sandwich_lady_bottom_23318
+
+[enum_3197]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,studded_body_g_7362
+val=1,studded_chaps_g_7366
+
+[enum_3198]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,studded_body_t_7364
+val=1,studded_chaps_t_7368
+
+[enum_3199]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,blue_wizard_hat_g_7394
+val=1,blue_wizard_robe_g_7390
+val=2,blue_skirt_g_7386
+
+[enum_3200]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,blue_wizard_hat_t_7396
+val=1,blue_wizard_robe_t_7392
+val=2,blue_skirt_t_7388
+
+[enum_3201]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_full_helm_t_2587
+val=1,black_platebody_t_2583
+val=2,black_platelegs_t_2585
+val=3,black_kiteshield_t_2589
+
+[enum_3202]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_full_helm_g_2595
+val=1,black_platebody_g_2591
+val=2,black_platelegs_g_2593
+val=3,black_kiteshield_g_2597
+
+[enum_3203]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,red_elegant_shirt_10404
+val=1,red_elegant_legs_10406
+
+[enum_3204]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,green_elegant_shirt_10412
+val=1,green_elegant_legs_10414
+
+[enum_3205]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,blue_elegant_shirt_10408
+val=1,blue_elegant_legs_10410
+
+[enum_3206]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bronze_full_helm_t_12221
+val=1,bronze_platebody_t_12215
+val=2,bronze_platelegs_t_12217
+val=3,bronze_kiteshield_t_12223
+
+[enum_3207]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bronze_full_helm_g_12211
+val=1,bronze_platebody_g_12205
+val=2,bronze_platelegs_g_12207
+val=3,bronze_kiteshield_g_12213
+
+[enum_3208]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,iron_full_helm_t_12231
+val=1,iron_platebody_t_12225
+val=2,iron_platelegs_t_12227
+val=3,iron_kiteshield_t_12233
+
+[enum_3209]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,iron_full_helm_g_12241
+val=1,iron_platebody_g_12235
+val=2,iron_platelegs_g_12237
+val=3,iron_kiteshield_g_12243
+
+[enum_3210]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,steel_full_helm_t_20193
+val=1,steel_platebody_t_20184
+val=2,steel_platelegs_t_20187
+val=3,steel_kiteshield_t_20196
+
+[enum_3211]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,steel_full_helm_g_20178
+val=1,steel_platebody_g_20169
+val=2,steel_platelegs_g_20172
+val=3,steel_kiteshield_g_20181
+
+[enum_3212]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_wizard_hat_g_12453
+val=1,black_wizard_robe_g_12449
+val=2,black_skirt_g_12445
+
+[enum_3213]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_wizard_hat_t_12455
+val=1,black_wizard_robe_t_12451
+val=2,black_skirt_t_12447
+
+[enum_3214]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,monks_robe_top_g_20199
+val=1,monks_robe_g_20202
+
+[enum_3215]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,leather_body_g_23381
+val=1,leather_chaps_g_23384
+
+[enum_3216]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,green_dhide_body_g_7370
+val=1,green_dhide_chaps_g_7378
+
+[enum_3217]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,green_dhide_body_t_7372
+val=1,green_dhide_chaps_t_7380
+
+[enum_3218]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,adamant_full_helm_t_2605
+val=1,adamant_platebody_t_2599
+val=2,adamant_platelegs_t_2601
+val=3,adamant_kiteshield_t_2603
+
+[enum_3219]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,adamant_full_helm_g_2613
+val=1,adamant_platebody_g_2607
+val=2,adamant_platelegs_g_2609
+val=3,adamant_kiteshield_g_2611
+
+[enum_3220]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_elegant_shirt_10400
+val=1,black_elegant_legs_10402
+
+[enum_3221]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,purple_elegant_shirt_10416
+val=1,purple_elegant_legs_10418
+
+[enum_3222]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,pink_elegant_shirt_12315
+val=1,pink_elegant_legs_12317
+
+[enum_3223]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,gold_elegant_shirt_12347
+val=1,gold_elegant_legs_12349
+
+[enum_3224]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mithril_full_helm_g_12283
+val=1,mithril_platebody_g_12277
+val=2,mithril_platelegs_g_12279
+val=3,mithril_kiteshield_g_12281
+
+[enum_3225]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mithril_full_helm_t_12293
+val=1,mithril_platebody_t_12287
+val=2,mithril_platelegs_t_12289
+val=3,mithril_kiteshield_t_12291
+
+[enum_3226]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,armadyl_mitre_12259
+val=1,armadyl_robe_top_12253
+val=2,armadyl_robe_legs_12255
+val=3,armadyl_cloak_12261
+val=4,armadyl_stole_12257
+val=5,armadyl_crozier_12263
+
+[enum_3227]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ancient_mitre_12203
+val=1,ancient_robe_top_12193
+val=2,ancient_robe_legs_12195
+val=3,ancient_cloak_12197
+val=4,ancient_stole_12201
+val=5,ancient_crozier_12199
+
+[enum_3228]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bandos_mitre_12271
+val=1,bandos_robe_top_12265
+val=2,bandos_robe_legs_12267
+val=3,bandos_cloak_12273
+val=4,bandos_stole_12269
+val=5,bandos_crozier_12275
+
+[enum_3229]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,crier_hat_12319
+val=1,crier_coat_20240
+val=2,crier_bell_20243
+
+[enum_3230]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,blue_dhide_body_g_7374
+val=1,blue_dhide_chaps_g_7382
+
+[enum_3231]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,blue_dhide_body_t_7376
+val=1,blue_dhide_chaps_t_7384
+
+[enum_3232]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,enchanted_hat_7400
+val=1,enchanted_top_7399
+val=2,enchanted_robe_7398
+
+[enum_3233]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,rune_full_helm_g_2619
+val=1,rune_platebody_g_2615
+val=2,rune_platelegs_g_2617
+val=3,rune_kiteshield_g_2621
+
+[enum_3234]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,rune_full_helm_t_2627
+val=1,rune_platebody_t_2623
+val=2,rune_platelegs_t_2625
+val=3,rune_kiteshield_t_2629
+
+[enum_3235]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,zamorak_full_helm_2657
+val=1,zamorak_platebody_2653
+val=2,zamorak_platelegs_2655
+val=3,zamorak_kiteshield_2659
+
+[enum_3236]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,saradomin_full_helm_2665
+val=1,saradomin_platebody_2661
+val=2,saradomin_platelegs_2663
+val=3,saradomin_kiteshield_2667
+
+[enum_3237]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,guthix_full_helm_2673
+val=1,guthix_platebody_2669
+val=2,guthix_platelegs_2671
+val=3,guthix_kiteshield_2675
+
+[enum_3238]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,gilded_full_helm_3486
+val=1,gilded_platebody_3481
+val=2,gilded_platelegs_3483
+val=3,gilded_kiteshield_3488
+
+[enum_3239]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,saradomin_mitre_10452
+val=1,saradomin_robe_top_10458
+val=2,saradomin_robe_legs_10464
+val=3,saradomin_cloak_10446
+val=4,saradomin_stole_10470
+val=5,saradomin_crozier_10440
+
+[enum_3240]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,guthix_mitre_10454
+val=1,guthix_robe_top_10462
+val=2,guthix_robe_legs_10466
+val=3,guthix_cloak_10448
+val=4,guthix_stole_10472
+val=5,guthix_crozier_10442
+
+[enum_3241]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,zamorak_mitre_10456
+val=1,zamorak_robe_top_10460
+val=2,zamorak_robe_legs_10468
+val=3,zamorak_cloak_10450
+val=4,zamorak_stole_10474
+val=5,zamorak_crozier_10444
+
+[enum_3242]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,saradomin_coif_10390
+val=1,saradomin_dhide_body_10386
+val=2,saradomin_chaps_10388
+val=3,saradomin_bracers_10384
+
+[enum_3243]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,guthix_coif_10382
+val=1,guthix_dhide_body_10378
+val=2,guthix_chaps_10380
+val=3,guthix_bracers_10376
+
+[enum_3244]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,zamorak_coif_10374
+val=1,zamorak_dhide_body_10370
+val=2,zamorak_chaps_10372
+val=3,zamorak_bracers_10368
+
+[enum_3245]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,red_dhide_body_g_12327
+val=1,red_dhide_chaps_g_12329
+
+[enum_3246]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,red_dhide_body_t_12331
+val=1,red_dhide_chaps_t_12333
+
+[enum_3247]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,armadyl_full_helm_12476
+val=1,armadyl_platebody_12470
+val=2,armadyl_platelegs_12472
+val=3,armadyl_kiteshield_12478
+
+[enum_3248]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bandos_full_helm_12486
+val=1,bandos_platebody_12480
+val=2,bandos_platelegs_12482
+val=3,bandos_kiteshield_12488
+
+[enum_3249]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ancient_full_helm_12466
+val=1,ancient_platebody_12460
+val=2,ancient_platelegs_12462
+val=3,ancient_kiteshield_12468
+
+[enum_3250]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,armadyl_coif_12512
+val=1,armadyl_dhide_body_12508
+val=2,armadyl_chaps_12510
+val=3,armadyl_bracers_12506
+
+[enum_3251]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bandos_coif_12504
+val=1,bandos_dhide_body_12500
+val=2,bandos_chaps_12502
+val=3,bandos_bracers_12498
+
+[enum_3252]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ancient_coif_12496
+val=1,ancient_dhide_body_12492
+val=2,ancient_chaps_12494
+val=3,ancient_bracers_12490
+
+[enum_3253]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,3rd_age_range_coif_10334
+val=1,3rd_age_range_top_10330
+val=2,3rd_age_range_legs_10332
+val=3,3rd_age_vambraces_10336
+
+[enum_3254]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,3rd_age_mage_hat_10342
+val=1,3rd_age_robe_top_10338
+val=2,3rd_age_robe_10340
+val=3,3rd_age_amulet_10344
+
+[enum_3255]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,3rd_age_full_helmet_10350
+val=1,3rd_age_platebody_10348
+val=2,3rd_age_platelegs_10346
+val=3,3rd_age_kiteshield_10352
+
+[enum_3256]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,rangers_tunic_12596
+val=1,rangers_tights_23249
+val=2,ranger_gloves_19994
+
+[enum_3257]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,royal_crown_12397
+val=1,royal_gown_top_12393
+val=2,royal_gown_bottom_12395
+val=3,royal_sceptre_12439
+
+[enum_3258]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_dhide_body_g_12381
+val=1,black_dhide_chaps_g_12383
+
+[enum_3259]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_dhide_body_t_12385
+val=1,black_dhide_chaps_t_12387
+
+[enum_3260]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,musketeer_hat_12351
+val=1,musketeer_tabard_12441
+val=2,musketeer_pants_12443
+
+[enum_3261]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,dark_bow_tie_19970
+val=1,dark_tuxedo_jacket_19958
+val=2,dark_trousers_19964
+val=3,dark_tuxedo_cuffs_19961
+val=4,dark_tuxedo_shoes_19967
+
+[enum_3262]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,light_bow_tie_19985
+val=1,light_tuxedo_jacket_19973
+val=2,light_trousers_19979
+val=3,light_tuxedo_cuffs_19976
+val=4,light_tuxedo_shoes_19982
+
+[enum_3263]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,dragon_full_helm_g_12417
+val=1,dragon_chainbody_g_12414
+val=2,dragon_platelegs_g_12415
+val=3,dragon_sq_shield_g_12418
+
+[enum_3264]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,gilded_coif_23258
+val=1,gilded_dhide_vambraces_23261
+val=2,gilded_dhide_body_23264
+val=3,gilded_dhide_chaps_23267
+
+[enum_3265]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,samurai_kasa_20035
+val=1,samurai_shirt_20038
+val=2,samurai_greaves_20044
+val=3,samurai_gloves_20041
+val=4,samurai_boots_20047
+
+[enum_3266]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mummys_head_20080
+val=1,mummys_body_20083
+val=2,mummys_legs_20089
+val=3,mummys_hands_20086
+val=4,mummys_feet_20092
+
+[enum_3267]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ankou_mask_20095
+val=1,ankou_top_20098
+val=2,ankous_leggings_20104
+val=3,ankou_gloves_20101
+val=4,ankou_socks_20107
+
+[enum_3268]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hood_of_darkness_20128
+val=1,robe_top_of_darkness_20131
+val=2,robe_bottom_of_darkness_20137
+val=3,gloves_of_darkness_20134
+val=4,boots_of_darkness_20140
+
+[enum_3269]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,3rd_age_druidic_robe_top_23336
+val=1,3rd_age_druidic_robe_bottoms_23339
+val=2,3rd_age_druidic_staff_23342
+val=3,3rd_age_druidic_cloak_23345
+
+[enum_3270]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,red_marionette_6867
+val=1,blue_marionette_6865
+val=2,green_marionette_6866
+
+[enum_3271]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bobble_hat_6856
+val=1,jester_hat_6858
+val=2,tri_jester_hat_6860
+val=3,woolly_hat_6862
+
+[enum_3272]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bobble_scarf_6857
+val=1,jester_scarf_6859
+val=2,tri_jester_scarf_6861
+val=3,woolly_scarf_6863
+
+[enum_3273]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,skeleton_mask_9925
+val=1,skeleton_shirt_9924
+val=2,skeleton_leggings_9923
+val=3,skeleton_gloves_9922
+val=4,skeleton_boots_9921
+
+[enum_3274]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,chicken_head_11021
+val=1,chicken_wings_11020
+val=2,chicken_legs_11022
+val=3,chicken_feet_11019
+
+[enum_3275]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,cow_mask_11919
+val=1,cow_top_12956
+val=2,cow_trousers_12957
+val=3,cow_gloves_12958
+val=4,cow_shoes_12959
+
+[enum_3276]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,santa_mask_12887
+val=1,santa_jacket_12888
+val=2,santa_pantaloons_12889
+val=3,santa_gloves_12890
+val=4,santa_boots_12891
+
+[enum_3277]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,antisanta_mask_12892
+val=1,antisanta_jacket_12893
+val=2,antisanta_pantaloons_12894
+val=3,antisanta_gloves_12895
+val=4,antisanta_boots_12896
+
+[enum_3278]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,tiger_toy_13215
+val=1,lion_toy_13216
+val=2,snow_leopard_toy_13217
+val=3,amur_leopard_toy_13218
+
+[enum_3279]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,gravedigger_mask_13283
+val=1,gravedigger_top_13284
+val=2,gravedigger_leggings_13285
+val=3,gravedigger_gloves_13287
+val=4,gravedigger_boots_13286
+
+[enum_3280]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bunny_top_13663
+val=1,bunny_legs_13664
+val=2,bunny_paws_13665
+val=3,bunny_feet_13182
+
+[enum_3281]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,banshee_mask_20773
+val=1,banshee_top_20775
+val=2,banshee_robe_20777
+val=3,hunting_knife_20779
+
+[enum_3282]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,snow_imp_costume_head_21847
+val=1,snow_imp_costume_body_21849
+val=2,snow_imp_costume_legs_21851
+val=3,snow_imp_costume_tail_21853
+val=4,snow_imp_costume_gloves_21855
+val=5,snow_imp_costume_feet_21857
+
+[enum_3283]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,eggshell_platebody_22351
+val=1,eggshell_platelegs_22353
+
+[enum_3284]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,clown_mask_22689
+val=1,clown_gown_22695
+val=2,clown_bow_tie_22692
+val=3,clown_trousers_22698
+val=4,clown_shoes_22701
+
+[enum_3285]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,star_face_22713
+val=1,tree_top_22715
+val=2,tree_skirt_22717
+val=3,candy_cane_22719
+
+[enum_3286]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,spooky_hood_24305
+val=1,spooky_robe_24307
+val=2,spooky_skirt_24309
+val=3,spooky_gloves_24311
+val=4,spooky_boots_24313
+
+[enum_3287]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,spookier_hood_24315
+val=1,spookier_robe_24317
+val=2,spookier_skirt_24319
+val=3,spookier_gloves_24321
+val=4,spookier_boots_24323
+
+[enum_3288]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,carrot_sword_24537
+val=1,24_carat_sword_24539
+
+[enum_3289]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mystic_hat_4089
+val=1,mystic_hat_dark_4099
+val=2,mystic_hat_light_4109
+val=3,mystic_hat_dusk_23047
+val=4,skeletal_helm_6137
+val=5,infinity_top_6916
+val=6,light_infinity_top_12420
+val=7,dark_infinity_top_12458
+val=8,splitbark_helm_3385
+val=9,ghostly_boots_6106
+val=10,moonclan_hat_9069
+val=11,lunar_helm_9096
+val=12,dagonhai_hat_24288
+val=13,graceful_hood_11850
+val=14,graceful_hood_13579
+val=15,graceful_hood_13627
+val=16,graceful_hood_13603
+val=17,graceful_hood_13591
+val=18,graceful_hood_13615
+val=19,graceful_hood_13667
+val=20,graceful_hood_21061
+val=21,graceful_hood_24743
+val=22,blue_tricorn_hat_8959
+val=23,green_tricorn_hat_8960
+val=24,red_tricorn_hat_8961
+val=25,brown_tricorn_hat_8962
+val=26,black_tricorn_hat_8963
+val=27,purple_tricorn_hat_8964
+val=28,grey_tricorn_hat_8965
+val=29,elder_chaos_hood_20595
+val=30,evil_chicken_head_20439
+val=31,pyromancer_hood_20708
+val=32,golden_tench_22840
+val=33,pearl_fishing_rod_22846
+val=34,pearl_barbarian_rod_22842
+val=35,pearl_fly_fishing_rod_22844
+val=36,oily_pearl_fishing_rod_23122
+val=37,fish_sack_22838
+val=38,mudskipper_hat_6665
+val=39,bounty_hunter_hat_tier_1_24338
+val=40,bounty_hunter_hat_tier_2_24340
+val=41,bounty_hunter_hat_tier_3_24342
+val=42,bounty_hunter_hat_tier_4_24344
+val=43,bounty_hunter_hat_tier_5_24346
+val=44,bounty_hunter_hat_tier_6_24348
+val=45,ancestral_hat_21018
+val=46,twisted_ancestral_hat_24664
+val=47,cutthroat_flag_8966
+val=48,gilded_smile_flag_8967
+val=49,bronze_fist_flag_8968
+val=50,lucky_shot_flag_8969
+val=51,treasure_flag_8970
+val=52,phasmatys_flag_8971
+val=53,carpenters_helmet_24872
+val=54,amys_saw_24880
+
+[enum_3290]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,decorative_helm_4071
+val=1,decorative_helm_4506
+val=2,decorative_helm_4511
+val=3,decorative_armour_11896
+val=4,decorative_armour_11899
+val=5,void_knight_top_8839
+val=6,elite_void_top_13072
+val=7,void_melee_helm_11665
+val=8,void_ranger_helm_11664
+val=9,void_mage_helm_11663
+val=10,rogue_mask_5554
+val=11,spined_helm_6131
+val=12,rock_shell_helm_6128
+val=13,tribal_mask_6335
+val=14,tribal_mask_6337
+val=15,tribal_mask_6339
+val=16,white_platebody_6617
+val=17,initiate_hauberk_5575
+val=18,proselyte_hauberk_9674
+val=19,mourner_top_6065
+val=20,graahk_top_10049
+val=21,larupia_top_10043
+val=22,kyatt_top_10037
+val=23,polar_camo_top_10065
+val=24,jungle_camo_top_10057
+val=25,wood_camo_top_10053
+val=26,desert_camo_top_10061
+val=27,hard_hat_10862
+val=28,lumberjack_top_10939
+val=29,bomber_jacket_9944
+val=30,ham_shirt_4298
+val=31,prospector_helmet_12013
+val=32,angler_hat_13258
+val=33,shayzien_helm_1_13359
+val=34,shayzien_helm_2_13364
+val=35,shayzien_helm_3_13369
+val=36,shayzien_helm_4_13374
+val=37,shayzien_helm_5_13379
+val=38,xerician_hat_13385
+val=39,farmers_strawhat_13646
+val=40,clue_hunter_garb_19689
+val=41,corrupted_helm_20838
+val=42,obsidian_helmet_21298
+val=43,helm_of_raedwald_19687
+val=44,fighter_torso_10551
+val=45,runner_boots_10552
+val=46,penance_gloves_10553
+val=47,penance_skirt_10555
+val=48,fighter_hat_10548
+val=49,ranger_hat_10550
+val=50,runner_hat_10549
+val=51,healer_hat_10547
+val=52,justiciar_faceguard_22326
+val=53,ornate_helm_23101
+val=54,dragonstone_full_helm_24034
+val=55,ardougne_knight_helm_23785
+val=56,deadmans_chest_13317
+val=57,saradomin_halo_12637
+val=58,zamorak_halo_12638
+val=59,guthix_halo_12639
+val=60,armadyl_halo_24192
+val=61,bandos_halo_24195
+val=62,seren_halo_24198
+val=63,ancient_halo_24201
+val=64,brassica_halo_24204
+val=65,twisted_coat_t1_24407
+val=66,twisted_coat_t2_24399
+val=67,twisted_coat_t3_24389
+val=68,twisted_cane_24395
+val=69,inquisitors_great_helm_24419
+val=70,vyre_noble_top_24676
+val=71,snakeskin_bandana_6326
+
+[enum_3291]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mime_mask_3057
+val=1,frog_mask_6188
+val=2,zombie_shirt_7592
+val=3,camo_top_6654
+val=4,lederhosen_top_6180
+val=5,shade_robe_top_546
+val=6,stale_baguette_20590
+
+[enum_3292]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,cape_of_legends_1052
+val=1,obsidian_cape_6568
+val=2,fire_cape_6570
+val=3,team_1_cape_4315
+val=4,team_cape_zero_20211
+val=5,team_cape_x_20214
+val=6,team_cape_i_20217
+val=7,saradomin_cape_2412
+val=8,guthix_cape_2413
+val=9,zamorak_cape_2414
+val=10,attack_cape_9747
+val=11,defence_cape_9753
+val=12,strength_cape_9750
+val=13,hitpoints_cape_9768
+val=14,agility_cape_9771
+val=15,cooking_cape_9801
+val=16,construct_cape_9789
+val=17,crafting_cape_9780
+val=18,farming_cape_9810
+val=19,firemaking_cape_9804
+val=20,fishing_cape_9798
+val=21,fletching_cape_9783
+val=22,herblore_cape_9774
+val=23,magic_cape_9762
+val=24,mining_cape_9792
+val=25,prayer_cape_9759
+val=26,ranging_cape_9756
+val=27,runecraft_cape_9765
+val=28,slayer_cape_9786
+val=29,smithing_cape_9795
+val=30,thieving_cape_9777
+val=31,woodcutting_cape_9807
+val=32,hunter_cape_9948
+val=33,quest_point_cape_9813
+val=34,achievement_diary_cape_19476
+val=35,music_cape_13221
+val=36,spotted_cape_10069
+val=37,spottier_cape_10071
+val=38,max_cape_13280
+val=39,infernal_cape_21295
+val=40,champions_cape_21439
+val=41,imbued_saradomin_cape_21791
+val=42,imbued_guthix_cape_21793
+val=43,imbued_zamorak_cape_21795
+val=44,mythical_cape_22114
+val=45,xerics_guard_22388
+val=46,xerics_warrior_22390
+val=47,xerics_sentinel_22392
+val=48,xerics_general_22394
+val=49,xerics_champion_22396
+val=50,sinhaza_shroud_tier_1_22494
+val=51,sinhaza_shroud_tier_2_22496
+val=52,sinhaza_shroud_tier_3_22498
+val=53,sinhaza_shroud_tier_4_22500
+val=54,sinhaza_shroud_tier_5_22502
+val=55,gauntlet_cape_23859
+val=56,victors_cape_1_24207
+val=57,victors_cape_10_24209
+val=58,victors_cape_50_24211
+val=59,victors_cape_100_24213
+val=60,victors_cape_500_24215
+val=61,victors_cape_1000_24520
+
+[enum_3293]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,mole_slippers_23285
+val=1,frog_slippers_23288
+val=2,bear_feet_23291
+val=3,demon_feet_23294
+val=4,jester_cape_23297
+val=5,shoulder_parrot_23300
+val=6,monks_robe_top_t_23303
+val=7,amulet_of_defence_t_23309
+val=8,sandwich_lady_hat_23312
+
+[enum_3294]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,black_shield_h1_7332
+val=1,black_shield_h2_7338
+val=2,black_shield_h3_7344
+val=3,black_shield_h4_7350
+val=4,black_shield_h5_7356
+val=5,studded_body_g_7362
+val=6,studded_body_t_7364
+val=7,blue_wizard_robe_g_7390
+val=8,blue_wizard_robe_t_7392
+val=9,black_platebody_t_2583
+val=10,black_platebody_g_2591
+val=11,highwayman_mask_2631
+val=12,blue_beret_2633
+val=13,black_beret_2635
+val=14,white_beret_2637
+val=15,black_helm_h1_10306
+val=16,black_helm_h2_10308
+val=17,black_helm_h3_10310
+val=18,black_helm_h4_10312
+val=19,black_helm_h5_10314
+val=20,amulet_of_magic_t_10366
+val=21,pantaloons_10396
+val=22,a_powdered_wig_10392
+val=23,flared_trousers_10394
+val=24,sleeping_cap_10398
+val=25,bobs_red_shirt_10316
+val=26,bobs_blue_shirt_10318
+val=27,bobs_green_shirt_10320
+val=28,bobs_black_shirt_10322
+val=29,bobs_purple_shirt_10324
+val=30,red_elegant_shirt_10404
+val=31,green_elegant_shirt_10412
+val=32,blue_elegant_shirt_10408
+val=33,beret_mask_11282
+val=34,bronze_platebody_t_12215
+val=35,bronze_platebody_g_12205
+val=36,iron_platebody_t_12225
+val=37,iron_platebody_g_12235
+val=38,steel_platebody_t_20184
+val=39,steel_platebody_g_20169
+val=40,beanie_12245
+val=41,red_beret_12247
+val=42,imp_mask_12249
+val=43,goblin_mask_12251
+val=44,black_cane_12375
+val=45,black_pickaxe_12297
+val=46,black_wizard_hat_g_12453
+val=47,black_wizard_hat_t_12455
+val=48,large_spade_20164
+val=49,wooden_shield_g_20166
+val=50,golden_chefs_hat_20205
+val=51,golden_apron_20208
+val=52,monks_robe_top_g_20199
+val=53,cape_of_skulls_23351
+val=54,amulet_of_power_t_23354
+val=55,rain_bow_23357
+val=56,ham_joint_23360
+val=57,leather_body_g_23381
+val=58,staff_of_bob_the_cat_23363
+val=59,black_platebody_h1_23366
+val=60,black_platebody_h2_23369
+val=61,black_platebody_h3_23372
+val=62,black_platebody_h4_23375
+val=63,black_platebody_h5_23378
+val=64,peaceful_blessing_20226
+val=65,holy_blessing_20220
+val=66,unholy_blessing_20223
+val=67,honourable_blessing_20229
+val=68,war_blessing_20232
+val=69,ancient_blessing_20235
+val=70,armadyl_robe_top_12253
+val=71,ancient_robe_top_12193
+val=72,bandos_robe_top_12265
+val=73,saradomin_robe_top_10458
+val=74,guthix_robe_top_10462
+val=75,zamorak_robe_top_10460
+
+[enum_3295]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,red_boater_7319
+val=1,orange_boater_7321
+val=2,green_boater_7323
+val=3,blue_boater_7325
+val=4,black_boater_7327
+val=5,adamant_shield_h1_7334
+val=6,adamant_shield_h2_7340
+val=7,adamant_shield_h3_7346
+val=8,adamant_shield_h4_7352
+val=9,adamant_shield_h5_7358
+val=10,green_dhide_body_g_7370
+val=11,green_dhide_body_t_7372
+val=12,ranger_boots_2577
+val=13,adamant_platebody_t_2599
+val=14,adamant_platebody_g_2607
+val=15,red_headband_2645
+val=16,black_headband_2647
+val=17,brown_headband_2649
+val=18,adamant_helm_h1_10296
+val=19,adamant_helm_h2_10298
+val=20,adamant_helm_h3_10300
+val=21,adamant_helm_h4_10302
+val=22,adamant_helm_h5_10304
+val=23,strength_amulet_t_10364
+val=24,black_elegant_shirt_10400
+val=25,purple_elegant_shirt_10416
+val=26,pink_elegant_shirt_12315
+val=27,gold_elegant_shirt_12347
+val=28,wizard_boots_2579
+val=29,mithril_platebody_g_12277
+val=30,mithril_platebody_t_12287
+val=31,leprechaun_hat_12359
+val=32,black_leprechaun_hat_20246
+val=33,white_headband_12299
+val=34,blue_headband_12301
+val=35,gold_headband_12303
+val=36,pink_headband_12305
+val=37,green_headband_12307
+val=38,pink_boater_12309
+val=39,purple_boater_12311
+val=40,white_boater_12313
+val=41,cat_mask_12361
+val=42,penguin_mask_12428
+val=43,black_unicorn_mask_20266
+val=44,white_unicorn_mask_20269
+val=45,crier_hat_12319
+val=46,adamant_cane_12377
+val=47,holy_sandals_12598
+val=48,clueless_scroll_20249
+val=49,arceuus_banner_20251
+val=50,hosidius_banner_20254
+val=51,lovakengj_banner_20257
+val=52,piscarilius_banner_20260
+val=53,shayzien_banner_20263
+val=54,cabbage_round_shield_20272
+val=55,spiked_manacles_23389
+val=56,adamant_platebody_h1_23392
+val=57,adamant_platebody_h2_23395
+val=58,adamant_platebody_h3_23398
+val=59,adamant_platebody_h4_23401
+val=60,adamant_platebody_h5_23404
+val=61,wolf_mask_23407
+val=62,wolf_cloak_23410
+val=63,climbing_boots_g_23413
+
+[enum_3296]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,rune_shield_h1_7336
+val=1,rune_shield_h2_7342
+val=2,rune_shield_h3_7348
+val=3,rune_shield_h4_7354
+val=4,rune_shield_h5_7360
+val=5,blue_dhide_body_g_7374
+val=6,blue_dhide_body_t_7376
+val=7,enchanted_top_7399
+val=8,robin_hood_hat_2581
+val=9,rune_platebody_g_2615
+val=10,rune_platebody_t_2623
+val=11,tan_cavalier_2639
+val=12,dark_cavalier_2641
+val=13,black_cavalier_2643
+val=14,pirates_hat_2651
+val=15,zamorak_platebody_2653
+val=16,saradomin_platebody_2661
+val=17,guthix_platebody_2669
+val=18,gilded_platebody_3481
+val=19,rune_helm_h1_10286
+val=20,rune_helm_h2_10288
+val=21,rune_helm_h3_10290
+val=22,rune_helm_h4_10292
+val=23,rune_helm_h5_10294
+val=24,amulet_of_glory_t_10362
+val=25,saradomin_dhide_body_10386
+val=26,guthix_dhide_body_10378
+val=27,zamorak_dhide_body_10370
+val=28,cavalier_mask_11280
+val=29,red_dhide_body_g_12327
+val=30,red_dhide_body_t_12331
+val=31,red_cavalier_12323
+val=32,navy_cavalier_12325
+val=33,white_cavalier_12321
+val=34,pith_helmet_12516
+val=35,explorer_backpack_12514
+val=36,armadyl_platebody_12470
+val=37,bandos_platebody_12480
+val=38,ancient_platebody_12460
+val=39,armadyl_dhide_body_12508
+val=40,bandos_dhide_body_12500
+val=41,ancient_dhide_body_12492
+val=42,green_dragon_mask_12518
+val=43,blue_dragon_mask_12520
+val=44,red_dragon_mask_12522
+val=45,black_dragon_mask_12524
+val=46,rune_cane_12379
+val=47,zombie_head_19912
+val=48,cyclops_head_19915
+val=49,gilded_med_helm_20146
+val=50,gilded_chainbody_20149
+val=51,gilded_sq_shield_20152
+val=52,gilded_2h_sword_20155
+val=53,gilded_spear_20158
+val=54,gilded_hasta_20161
+val=55,nunchaku_19918
+val=56,saradomin_dhide_boots_19933
+val=57,bandos_dhide_boots_19924
+val=58,armadyl_dhide_boots_19930
+val=59,guthix_dhide_boots_19927
+val=60,zamorak_dhide_boots_19936
+val=61,ancient_dhide_boots_19921
+val=62,3rd_age_range_top_10330
+val=63,3rd_age_robe_top_10338
+val=64,3rd_age_platebody_10348
+val=65,guthix_dhide_shield_23188
+val=66,saradomin_dhide_shield_23191
+val=67,zamorak_dhide_shield_23194
+val=68,ancient_dhide_shield_23197
+val=69,armadyl_dhide_shield_23200
+val=70,bandos_dhide_shield_23203
+val=71,rune_platebody_h1_23209
+val=72,rune_platebody_h2_23212
+val=73,rune_platebody_h3_23215
+val=74,rune_platebody_h4_23218
+val=75,rune_platebody_h5_23221
+val=76,dual_sai_23206
+val=77,thieving_bag_23224
+
+[enum_3297]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,dragon_cane_12373
+val=1,briefcase_12335
+val=2,sagacious_spectacles_12337
+val=3,royal_gown_top_12393
+val=4,bronze_dragon_mask_12363
+val=5,iron_dragon_mask_12365
+val=6,steel_dragon_mask_12367
+val=7,mithril_dragon_mask_12369
+val=8,lava_dragon_mask_12371
+val=9,afro_12430
+val=10,katana_12357
+val=11,big_pirate_hat_12355
+val=12,top_hat_12432
+val=13,monocle_12353
+val=14,black_dhide_body_g_12381
+val=15,black_dhide_body_t_12385
+val=16,musketeer_tabard_12441
+val=17,partyhat_specs_12399
+val=18,pirate_hat_patch_12412
+val=19,top_hat_monocle_12434
+val=20,deerstalker_12540
+val=21,heavy_casket_19941
+val=22,arceuus_scarf_19943
+val=23,hosidius_scarf_19946
+val=24,lovakengj_scarf_19949
+val=25,piscarilius_scarf_19952
+val=26,shayzien_scarf_19955
+val=27,blacksmiths_helm_19988
+val=28,bucket_helm_19991
+val=29,rangers_tunic_12596
+val=30,holy_wraps_19997
+val=31,ring_of_nature_20005
+val=32,3rd_age_wand_12422
+val=33,3rd_age_bow_12424
+val=34,3rd_age_longsword_12426
+val=35,3rd_age_cloak_12437
+val=36,dark_bow_tie_19970
+val=37,light_bow_tie_19985
+val=38,fremennik_kilt_23246
+val=39,adamant_dragon_mask_23270
+val=40,rune_dragon_mask_23273
+val=41,gilded_coif_23258
+val=42,gilded_boots_12391
+val=43,gilded_scimitar_12389
+val=44,gilded_pickaxe_23276
+val=45,gilded_axe_23279
+val=46,gilded_spade_23282
+val=47,uris_hat_23255
+val=48,giant_boot_23252
+val=49,ring_of_3rd_age_23185
+val=50,dragon_full_helm_g_12417
+
+[enum_3298]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,fancy_tiara_20008
+val=1,3rd_age_axe_20011
+val=2,3rd_age_pickaxe_20014
+val=3,ring_of_coins_20017
+val=4,lesser_demon_mask_20020
+val=5,greater_demon_mask_20023
+val=6,black_demon_mask_20026
+val=7,old_demon_mask_20029
+val=8,jungle_demon_mask_20032
+val=9,obsidian_cape_r_20050
+val=10,half_moon_spectacles_20053
+val=11,left_eye_patch_19724
+val=12,ale_of_the_gods_20056
+val=13,bucket_helm_g_20059
+val=14,bowl_wig_20110
+val=15,shayzien_hood_20125
+val=16,hosidius_hood_20116
+val=17,arceuus_hood_20113
+val=18,piscarilius_hood_20122
+val=19,lovakengj_hood_20119
+val=20,samurai_shirt_20038
+val=21,mummys_head_20080
+val=22,ankou_mask_20095
+val=23,hood_of_darkness_20128
+val=24,scroll_sack_22675
+val=25,3rd_age_druidic_robe_top_23336
+
+[enum_3299]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,bunny_ears_1037
+val=1,scythe_1419
+val=2,war_ship_795
+val=3,yo_yo_4079
+val=4,rubber_chicken_4566
+val=5,zombie_head_6722
+val=6,red_marionette_6867
+val=7,bobble_hat_6856
+val=8,bobble_scarf_6857
+val=9,easter_ring_7927
+val=10,jack_lantern_mask_9920
+val=11,skeleton_mask_9925
+val=12,reindeer_hat_10507
+val=13,chicken_head_11021
+val=14,black_hween_mask_11847
+val=15,black_partyhat_11862
+val=16,rainbow_partyhat_11863
+val=17,cow_mask_11919
+val=18,easter_basket_4565
+val=19,druidic_wreath_12600
+val=20,grim_reaper_hood_12845
+val=21,santa_mask_12887
+val=22,antisanta_mask_12892
+val=23,bunny_top_13663
+val=24,mask_of_balance_13203
+val=25,tiger_toy_13215
+val=26,anti_panties_13288
+val=27,gravedigger_mask_13283
+val=28,black_santa_hat_13343
+val=29,inverted_santa_hat_13344
+val=30,gnome_child_hat_13655
+val=31,cabbage_cape_13679
+val=32,cruciferous_codex_13681
+val=33,hornwood_helm_19699
+val=34,banshee_mask_20773
+val=35,snow_globe_20832
+val=36,sack_of_presents_20834
+val=37,giant_present_20836
+val=38,4th_birthday_hat_21211
+val=39,birthday_balloons_21209
+val=40,easter_egg_helm_21214
+val=41,eggshell_platebody_22351
+val=42,rainbow_scarf_21314
+val=43,hand_fan_21354
+val=44,runefest_shield_21695
+val=45,jonas_mask_21720
+val=46,snow_imp_costume_head_21847
+val=47,wise_old_mans_santa_hat_21859
+val=48,prop_sword_22316
+val=49,clown_mask_22689
+val=50,eek_22684
+val=51,star_face_22713
+val=52,birthday_cake_23108
+val=53,giant_easter_egg_23446
+val=54,bunnyman_mask_23448
+val=55,spooky_hood_24305
+val=56,spookier_hood_24315
+val=57,pumpkin_lantern_24325
+val=58,skeleton_lantern_24327
+val=59,green_gingerbread_shield_24428
+val=60,cat_ears_24525
+val=61,magic_egg_ball_24535
+val=62,carrot_sword_24537
+
+[enum_3300]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,jar_of_dirt_12007
+val=1,jar_of_swamp_12936
+val=2,jar_of_sand_12885
+val=3,jar_of_souls_13245
+val=4,jar_of_miasma_13277
+val=5,jar_of_darkness_19701
+val=6,jar_of_stone_21745
+val=7,jar_of_decay_22106
+val=8,jar_of_chemicals_23064
+val=9,jar_of_eyes_23525
+val=10,jar_of_dreams_24495
+
+[enum_3301]
+inputtype=enum
+outputtype=string
+default=Costume Room
+val=enum_3289,Magic Wardrobe
+val=enum_3290,Armour Case
+val=enum_3292,Cape Rack
+val=enum_3291,Fancy Dress Box
+val=enum_3299,Toy Box
+val=enum_3293,Treasure Chest: Beginner rewards
+val=enum_3294,Treasure Chest: Easy rewards
+val=enum_3295,Treasure Chest: Medium rewards
+val=enum_3296,Treasure Chest: Hard rewards
+val=enum_3297,Treasure Chest: Elite rewards
+val=enum_3298,Treasure Chest: Master rewards
+val=enum_3300,Boss Lair Jars
+
+[enum_3302]
+inputtype=obj
+outputtype=string
+default=Costume
+val=mystic_hat_4089,Mystic robes
+val=mystic_hat_dark_4099,Dark mystic robes
+val=mystic_hat_light_4109,Light mystic robes
+val=mystic_hat_dusk_23047,Dusk mystic robes
+val=skeletal_helm_6137,Skeletal outfit
+val=infinity_top_6916,Infinity robes
+val=light_infinity_top_12420,Infinity robes (Light)
+val=dark_infinity_top_12458,Infinity robes (Dark)
+val=splitbark_helm_3385,Splitbark armour
+val=ghostly_boots_6106,Ghostly robes
+val=moonclan_hat_9069,Moonclan robes
+val=lunar_helm_9096,Lunar robes
+val=dagonhai_hat_24288,Dagon'hai robes
+val=graceful_hood_11850,Graceful outfit
+val=graceful_hood_13579,Graceful outfit (Arceuus)
+val=graceful_hood_13627,Graceful outfit (Hosidius)
+val=graceful_hood_13603,Graceful outfit (Lovakengj)
+val=graceful_hood_13591,Graceful outfit (Piscarilius)
+val=graceful_hood_13615,Graceful outfit (Shayzien)
+val=graceful_hood_13667,Graceful outfit (Kourend)
+val=graceful_hood_21061,Graceful outfit (Agility Arena)
+val=graceful_hood_24743,Graceful outfit (Hallowed)
+val=blue_tricorn_hat_8959,Blue naval attire
+val=green_tricorn_hat_8960,Green naval attire
+val=red_tricorn_hat_8961,Red naval attire
+val=brown_tricorn_hat_8962,Brown naval attire
+val=black_tricorn_hat_8963,Black naval attire
+val=purple_tricorn_hat_8964,Purple naval attire
+val=grey_tricorn_hat_8965,Grey naval attire
+val=elder_chaos_hood_20595,Elder chaos druid robes
+val=evil_chicken_head_20439,Evil chicken costume
+val=pyromancer_hood_20708,Pyromancer outfit
+val=golden_tench_22840,Golden Tench
+val=pearl_fishing_rod_22846,Pearl fishing rod
+val=pearl_barbarian_rod_22842,Pearl barbarian rod
+val=pearl_fly_fishing_rod_22844,Pearl fly fishing rod
+val=oily_pearl_fishing_rod_23122,Oily pearl fishing rod
+val=fish_sack_22838,Fish sack
+val=mudskipper_hat_6665,Mudskipper kit
+val=bounty_hunter_hat_tier_1_24338,Bounty Hunter hat (Tier 1)
+val=bounty_hunter_hat_tier_2_24340,Bounty Hunter hat (Tier 2)
+val=bounty_hunter_hat_tier_3_24342,Bounty Hunter hat (Tier 3)
+val=bounty_hunter_hat_tier_4_24344,Bounty Hunter hat (Tier 4)
+val=bounty_hunter_hat_tier_5_24346,Bounty Hunter hat (Tier 5)
+val=bounty_hunter_hat_tier_6_24348,Bounty Hunter hat (Tier 6)
+val=ancestral_hat_21018,Ancestral robes
+val=twisted_ancestral_hat_24664,Ancestral robes (Twisted)
+val=cutthroat_flag_8966,Cutthroat flag
+val=gilded_smile_flag_8967,Gilded Smile flag
+val=bronze_fist_flag_8968,Bronze Fist flag
+val=lucky_shot_flag_8969,Lucky Shot flag
+val=treasure_flag_8970,Treasure flag
+val=phasmatys_flag_8971,Phasmatys flag
+val=carpenters_helmet_24872,Carpenter's outfit
+val=amys_saw_24880,Amy's saw
+val=decorative_helm_4071,Castle Wars Decorative armour (1)
+val=decorative_helm_4506,Castle Wars Decorative armour (2)
+val=decorative_helm_4511,Castle Wars Decorative armour (3)
+val=decorative_armour_11896,Castle Wars Mage armour
+val=decorative_armour_11899,Castle Wars Ranger armour
+val=void_knight_top_8839,Void Knight armour
+val=elite_void_top_13072,Void Knight Elite armour
+val=rogue_mask_5554,Rogue armour
+val=spined_helm_6131,Spined armour
+val=rock_shell_helm_6128,Rockshell armour
+val=tribal_mask_6335,Tribal mask (poison)
+val=tribal_mask_6337,Tribal mask (disease)
+val=tribal_mask_6339,Tribal mask (combat)
+val=white_platebody_6617,White knight armour
+val=initiate_hauberk_5575,Temple Knight initiate armour
+val=proselyte_hauberk_9674,Temple Knight proselyte armour
+val=mourner_top_6065,Mourner gear
+val=graahk_top_10049,Graahk hunter gear
+val=larupia_top_10043,Larupia hunter gear
+val=kyatt_top_10037,Kyatt hunter gear
+val=polar_camo_top_10065,Polar camouflage gear
+val=jungle_camo_top_10057,Jungle camouflage gear
+val=wood_camo_top_10053,Wood camouflage gear
+val=desert_camo_top_10061,Desert camouflage gear
+val=hard_hat_10862,Builder's costume
+val=lumberjack_top_10939,Lumberjack costume
+val=bomber_jacket_9944,Bomber jacket costume
+val=ham_shirt_4298,H.A.M. robes
+val=void_melee_helm_11665,Void melee helm
+val=void_ranger_helm_11664,Void ranger helm
+val=void_mage_helm_11663,Void mage helm
+val=prospector_helmet_12013,Prospector kit
+val=angler_hat_13258,Angler's outfit
+val=farmers_strawhat_13646,Farmer's outfit
+val=farmers_strawhat_13647,Farmer's outfit
+val=shayzien_helm_1_13359,Shayzien armour (tier 1)
+val=shayzien_helm_2_13364,Shayzien armour (tier 2)
+val=shayzien_helm_3_13369,Shayzien armour (tier 3)
+val=shayzien_helm_4_13374,Shayzien armour (tier 4)
+val=shayzien_helm_5_13379,Shayzien armour (tier 5)
+val=xerician_hat_13385,Xerician armour
+val=clue_hunter_garb_19689,Clue hunter outfit
+val=corrupted_helm_20838,Corrupted armour
+val=obsidian_helmet_21298,Obsidian armour
+val=helm_of_raedwald_19687,Helm of Raedwald
+val=elder_chaos_top_20517,Elder chaos druid robes
+val=fighter_torso_10551,Penance Fighter torso
+val=runner_boots_10552,Penance Runner boots
+val=penance_gloves_10553,Penance gloves
+val=penance_skirt_10555,Penance skirt
+val=fighter_hat_10548,Penance Fighter hat
+val=ranger_hat_10550,Penance Ranger hat
+val=runner_hat_10549,Penance Runner hat
+val=healer_hat_10547,Penance Healer hat
+val=justiciar_faceguard_22326,Justiciar Armour
+val=ornate_helm_23101,Ornate Armour
+val=dragonstone_full_helm_24034,Dragonstone Armour
+val=ardougne_knight_helm_23785,Ardougne Knight Armour
+val=deadmans_chest_13317,Deadman Armour
+val=saradomin_halo_12637,Saradomin halo
+val=zamorak_halo_12638,Zamorak halo
+val=guthix_halo_12639,Guthix halo
+val=armadyl_halo_24192,Armadyl halo
+val=bandos_halo_24195,Bandos halo
+val=seren_halo_24198,Seren halo
+val=ancient_halo_24201,Ancient halo
+val=brassica_halo_24204,Brassica halo
+val=twisted_coat_t1_24407,Twisted Relichunter (T1)
+val=twisted_coat_t2_24399,Twisted Relichunter (T2)
+val=twisted_coat_t3_24389,Twisted Relichunter (T3)
+val=twisted_cane_24395,Twisted Cane
+val=inquisitors_great_helm_24419,Inquisitor's Armour
+val=vyre_noble_top_24676,Vyre Noble Outfit
+val=snakeskin_bandana_6326,Snakeskin Armour
+val=mime_mask_3057,Mime costume
+val=frog_mask_6188,Frog costume
+val=zombie_shirt_7592,Zombie outfit
+val=camo_top_6654,Camo outfit
+val=lederhosen_top_6180,Lederhosen outfit
+val=shade_robe_top_546,Shade robes
+val=stale_baguette_20590,Stale baguette
+val=cape_of_legends_1052,Legends cape
+val=obsidian_cape_6568,Obsidian cape
+val=fire_cape_6570,Fire cape
+val=team_1_cape_4315,Wilderness cape
+val=team_cape_zero_20211,Wilderness cape 0
+val=team_cape_x_20214,Wilderness cape X
+val=team_cape_i_20217,Wilderness cape I
+val=guthix_cape_2413,Guthix cape
+val=saradomin_cape_2412,Saradomin cape
+val=zamorak_cape_2414,Zamorak cape
+val=imbued_saradomin_cape_21791,Imbued Saradomin cape
+val=imbued_guthix_cape_21793,Imbued Guthix cape
+val=imbued_zamorak_cape_21795,Imbued Zamorak cape
+val=attack_cape_9747,Attack cape
+val=defence_cape_9753,Defence cape
+val=strength_cape_9750,Strength cape
+val=hitpoints_cape_9768,Hitpoints cape
+val=agility_cape_9771,Agility cape
+val=cooking_cape_9801,Cooking cape
+val=construct_cape_9789,Construction cape
+val=crafting_cape_9780,Crafting cape
+val=farming_cape_9810,Farming cape
+val=firemaking_cape_9804,Firemaking cape
+val=fishing_cape_9798,Fishing cape
+val=fletching_cape_9783,Fletching cape
+val=herblore_cape_9774,Herblore cape
+val=magic_cape_9762,Magic cape
+val=mining_cape_9792,Mining cape
+val=prayer_cape_9759,Prayer cape
+val=ranging_cape_9756,Ranging cape
+val=runecraft_cape_9765,Runecrafting cape
+val=slayer_cape_9786,Slayer cape
+val=smithing_cape_9795,Smithing cape
+val=thieving_cape_9777,Thieving cape
+val=woodcutting_cape_9807,Woodcutting cape
+val=hunter_cape_9948,Hunter cape
+val=quest_point_cape_9813,Quest Point cape
+val=achievement_diary_cape_19476,Achievement Diary cape
+val=music_cape_13221,Music cape
+val=max_cape_13280,Max cape
+val=infernal_cape_21295,Infernal Cape
+val=spotted_cape_10069,Spotted hunting cape
+val=spottier_cape_10071,Spottier hunting cape
+val=champions_cape_21439,Champion's cape
+val=mythical_cape_22114,Mythical cape
+val=xerics_guard_22388,Xeric's Guard
+val=xerics_warrior_22390,Xeric's Warrior
+val=xerics_sentinel_22392,Xeric's Sentinel
+val=xerics_general_22394,Xeric's General
+val=xerics_champion_22396,Xeric's Champion
+val=sinhaza_shroud_tier_1_22494,Sinhaza Shroud Tier 1
+val=sinhaza_shroud_tier_2_22496,Sinhaza Shroud Tier 2
+val=sinhaza_shroud_tier_3_22498,Sinhaza Shroud Tier 3
+val=sinhaza_shroud_tier_4_22500,Sinhaza Shroud Tier 4
+val=sinhaza_shroud_tier_5_22502,Sinhaza Shroud Tier 5
+val=gauntlet_cape_23859,Gauntlet cape
+val=victors_cape_1_24207,Victor's Cape (1)
+val=victors_cape_10_24209,Victor's Cape (10)
+val=victors_cape_50_24211,Victor's Cape (50)
+val=victors_cape_100_24213,Victor's Cape (100)
+val=victors_cape_500_24215,Victor's Cape (500)
+val=victors_cape_1000_24520,Victor's Cape (1000)
+val=mole_slippers_23285,Mole slippers
+val=frog_slippers_23288,Frog slippers
+val=bear_feet_23291,Bear feet
+val=demon_feet_23294,Demon feet
+val=jester_cape_23297,Jester cape
+val=shoulder_parrot_23300,Shoulder parrot
+val=monks_robe_top_t_23303,Monks robes (t)
+val=amulet_of_defence_t_23309,Amulet of Defence (t)
+val=sandwich_lady_hat_23312,Sandwich Lady costume
+val=black_shield_h1_7332,Black heraldic kiteshield (h1)
+val=black_shield_h2_7338,Black heraldic kiteshield (h2)
+val=black_shield_h3_7344,Black heraldic kiteshield (h3)
+val=black_shield_h4_7350,Black heraldic kiteshield (h4)
+val=black_shield_h5_7356,Black heraldic kiteshield (h5)
+val=studded_body_g_7362,Gold-trimmed studded leather
+val=studded_body_t_7364,Fur-trimmed studded leather
+val=blue_wizard_robe_g_7390,Blue wizard (gold)
+val=blue_wizard_robe_t_7392,Blue wizard (trim)
+val=black_platebody_t_2583,Trimmed black armour
+val=black_platebody_g_2591,Gold-trimmed black armour
+val=highwayman_mask_2631,Highwayman mask
+val=blue_beret_2633,Blue beret
+val=black_beret_2635,Black beret
+val=white_beret_2637,White beret
+val=black_helm_h1_10306,Black heraldic helm (h1)
+val=black_helm_h2_10308,Black heraldic helm (h2)
+val=black_helm_h3_10310,Black heraldic helm (h3)
+val=black_helm_h4_10312,Black heraldic helm (h4)
+val=black_helm_h5_10314,Black heraldic helm (h5)
+val=amulet_of_magic_t_10366,Trimmed amulet of magic
+val=pantaloons_10396,Pantaloons
+val=a_powdered_wig_10392,Wig
+val=flared_trousers_10394,Flared pants
+val=sleeping_cap_10398,Sleeping cap
+val=bobs_red_shirt_10316,Bob the Cat shirt (red)
+val=bobs_blue_shirt_10318,Bob the Cat shirt (blue)
+val=bobs_green_shirt_10320,Bob the Cat shirt (green)
+val=bobs_black_shirt_10322,Bob the Cat shirt (black)
+val=bobs_purple_shirt_10324,Bob the Cat shirt (purple)
+val=red_elegant_shirt_10404,Elegant clothes (red)
+val=green_elegant_shirt_10412,Elegant clothes (green)
+val=blue_elegant_shirt_10408,Elegant clothes (blue)
+val=beret_mask_11282,Beret Mask
+val=bronze_platebody_t_12215,Bronze armour (trim)
+val=bronze_platebody_g_12205,Bronze armour (gold)
+val=iron_platebody_t_12225,Iron armour (trim)
+val=iron_platebody_g_12235,Iron armour (gold)
+val=beanie_12245,Beanie hat
+val=red_beret_12247,Red beret
+val=imp_mask_12249,Imp mask
+val=goblin_mask_12251,Goblin mask
+val=black_cane_12375,Black cane
+val=black_pickaxe_12297,Black pickaxe
+val=black_wizard_hat_g_12453,Black wizard (gold)
+val=black_wizard_hat_t_12455,Black wizard (trim)
+val=large_spade_20164,Large spade
+val=wooden_shield_g_20166,Wooden shield (g)
+val=golden_chefs_hat_20205,Golden Chef's Hat
+val=golden_apron_20208,Golden Apron
+val=steel_platebody_t_20184,Steel armour (trim)
+val=steel_platebody_g_20169,Steel armour (gold)
+val=monks_robe_top_g_20199,Monk robes (gold)
+val=cape_of_skulls_23351,Cape of Skulls
+val=amulet_of_power_t_23354,Amulet of power (t)
+val=rain_bow_23357,Rain Bow
+val=ham_joint_23360,Ham joint
+val=staff_of_bob_the_cat_23363,Staff of Bob the Cat
+val=leather_body_g_23381,Leather armour (g)
+val=black_platebody_h1_23366,Black Platebody (h1)
+val=black_platebody_h2_23369,Black Platebody (h2)
+val=black_platebody_h3_23372,Black Platebody (h3)
+val=black_platebody_h4_23375,Black Platebody (h4)
+val=black_platebody_h5_23378,Black Platebody (h5)
+val=peaceful_blessing_20226,Peaceful blessing
+val=holy_blessing_20220,Holy blessing
+val=unholy_blessing_20223,Unholy blessing
+val=honourable_blessing_20229,Honourable blessing
+val=war_blessing_20232,War blessing
+val=ancient_blessing_20235,Ancient blessing
+val=red_boater_7319,Red straw boater
+val=orange_boater_7321,Orange straw boater
+val=green_boater_7323,Green straw boater
+val=blue_boater_7325,Blue straw boater
+val=black_boater_7327,Black straw boater
+val=adamant_shield_h1_7334,Adamant heraldic kiteshield (h1)
+val=adamant_shield_h2_7340,Adamant heraldic kiteshield (h2)
+val=adamant_shield_h3_7346,Adamant heraldic kiteshield (h3)
+val=adamant_shield_h4_7352,Adamant heraldic kiteshield (h4)
+val=adamant_shield_h5_7358,Adamant heraldic kiteshield (h5)
+val=green_dhide_body_g_7370,Green dragonhide (gold)
+val=green_dhide_body_t_7372,Green dragonhide (trim)
+val=ranger_boots_2577,Ranger boots
+val=adamant_platebody_t_2599,Trimmed adamantite armour
+val=adamant_platebody_g_2607,Gold-trimmed adamantite armour
+val=red_headband_2645,Red headband
+val=black_headband_2647,Black headband
+val=brown_headband_2649,Brown headband
+val=adamant_helm_h1_10296,Adamant heraldic helm (h1)
+val=adamant_helm_h2_10298,Adamant heraldic helm (h2)
+val=adamant_helm_h3_10300,Adamant heraldic helm (h3)
+val=adamant_helm_h4_10302,Adamant heraldic helm (h4)
+val=adamant_helm_h5_10304,Adamant heraldic helm (h5)
+val=strength_amulet_t_10364,Trimmed amulet of strength
+val=black_elegant_shirt_10400,Elegant clothes (black & white)
+val=purple_elegant_shirt_10416,Elegant clothes (purple)
+val=wizard_boots_2579,Wizard boots
+val=mithril_platebody_g_12277,Mithril armour (gold)
+val=mithril_platebody_t_12287,Mithril armour (trim)
+val=leprechaun_hat_12359,Leprechaun hat
+val=white_headband_12299,White headband
+val=blue_headband_12301,Blue headband
+val=gold_headband_12303,Gold headband
+val=pink_headband_12305,Pink headband
+val=green_headband_12307,Green headband
+val=pink_boater_12309,Pink boater
+val=purple_boater_12311,Purple boater
+val=white_boater_12313,White boater
+val=cat_mask_12361,Cat mask
+val=penguin_mask_12428,Penguin mask
+val=pink_elegant_shirt_12315,Elegant clothes (pink)
+val=gold_elegant_shirt_12347,Elegant clothes (gold)
+val=armadyl_robe_top_12253,Armadyl vestments
+val=ancient_robe_top_12193,Ancient vestments
+val=bandos_robe_top_12265,Bandos vestments
+val=adamant_cane_12377,Adamant cane
+val=holy_sandals_12598,Holy Sandals
+val=clueless_scroll_20249,Clueless scroll
+val=arceuus_banner_20251,Arceuus banner
+val=hosidius_banner_20254,Hosidius banner
+val=lovakengj_banner_20257,Lovakengj banner
+val=piscarilius_banner_20260,Piscarilius banner
+val=shayzien_banner_20263,Shayzien banner
+val=black_unicorn_mask_20266,Black Unicorn mask
+val=white_unicorn_mask_20269,White Unicorn mask
+val=crier_hat_12319,Town Crier
+val=black_leprechaun_hat_20246,Black leprechaun hat
+val=cabbage_round_shield_20272,Cabbage round shield
+val=spiked_manacles_23389,Spiked Manacles
+val=adamant_platebody_h1_23392,Adamant Platebody (h1)
+val=adamant_platebody_h2_23395,Adamant Platebody (h2)
+val=adamant_platebody_h3_23398,Adamant Platebody (h3)
+val=adamant_platebody_h4_23401,Adamant Platebody (h4)
+val=adamant_platebody_h5_23404,Adamant Platebody (h5)
+val=wolf_mask_23407,Wolf mask
+val=wolf_cloak_23410,Wolf cloak
+val=climbing_boots_g_23413,Climbing Boots (g)
+val=rune_shield_h1_7336,Rune heraldic kiteshield (h1)
+val=rune_shield_h2_7342,Rune heraldic kiteshield (h2)
+val=rune_shield_h3_7348,Rune heraldic kiteshield (h3)
+val=rune_shield_h4_7354,Rune heraldic kiteshield (h4)
+val=rune_shield_h5_7360,Rune heraldic kiteshield (h5)
+val=blue_dhide_body_g_7374,Blue dragonhide (gold)
+val=blue_dhide_body_t_7376,Blue dragonhide (trim)
+val=enchanted_top_7399,Enchanted robes
+val=robin_hood_hat_2581,Robin Hood hat
+val=rune_platebody_g_2615,Gold-trimmed rune armour
+val=rune_platebody_t_2623,Trimmed rune armour
+val=tan_cavalier_2639,Brown cavalier
+val=dark_cavalier_2641,Dark brown cavalier
+val=black_cavalier_2643,Black cavalier
+val=pirates_hat_2651,Pirate hat
+val=zamorak_platebody_2653,Zamorak rune armour
+val=saradomin_platebody_2661,Saradomin rune armour
+val=guthix_platebody_2669,Guthix rune armour
+val=gilded_platebody_3481,Gold-plated rune armour
+val=rune_helm_h1_10286,Rune heraldic helm (h1)
+val=rune_helm_h2_10288,Rune heraldic helm (h2)
+val=rune_helm_h3_10290,Rune heraldic helm (h3)
+val=rune_helm_h4_10292,Rune heraldic helm (h4)
+val=rune_helm_h5_10294,Rune heraldic helm (h5)
+val=amulet_of_glory_t_10362,Trimmed amulet of glory
+val=saradomin_robe_top_10458,Saradomin vestments
+val=guthix_robe_top_10462,Guthix vestments
+val=zamorak_robe_top_10460,Zamorak vestments
+val=saradomin_dhide_body_10386,Saradomin blessed dragonhide
+val=guthix_dhide_body_10378,Guthix blessed dragonhide
+val=zamorak_dhide_body_10370,Zamorak blessed dragonhide
+val=cavalier_mask_11280,Cavalier Mask
+val=red_dhide_body_g_12327,Red dragonhide (gold)
+val=red_dhide_body_t_12331,Red dragonhide (trim)
+val=red_cavalier_12323,Red cavalier
+val=navy_cavalier_12325,Blue cavalier
+val=white_cavalier_12321,White cavalier
+val=pith_helmet_12516,Pith helmet
+val=explorer_backpack_12514,Explorer backpack
+val=armadyl_platebody_12470,Armadyl rune armour
+val=bandos_platebody_12480,Bandos rune armour
+val=ancient_platebody_12460,Ancient rune armour
+val=armadyl_dhide_body_12508,Armadyl blessed dragonhide
+val=bandos_dhide_body_12500,Bandos blessed dragonhide
+val=ancient_dhide_body_12492,Ancient blessed dragonhide
+val=green_dragon_mask_12518,Green dragon mask
+val=blue_dragon_mask_12520,Blue dragon mask
+val=red_dragon_mask_12522,Red dragon mask
+val=black_dragon_mask_12524,Black dragon mask
+val=rune_cane_12379,Rune cane
+val=zombie_head_19912,Zombie head
+val=cyclops_head_19915,Cyclops head
+val=gilded_med_helm_20146,Gilded rune med helm
+val=gilded_chainbody_20149,Gilded rune chainbody
+val=gilded_sq_shield_20152,Gilded rune sq shield
+val=gilded_2h_sword_20155,Gilded rune 2h sword
+val=gilded_spear_20158,Gilded rune spear
+val=gilded_hasta_20161,Gilded rune hasta
+val=nunchaku_19918,Nunchaku
+val=saradomin_dhide_boots_19933,Saradomin dragonhide boots
+val=bandos_dhide_boots_19924,Bandos dragonhide boots
+val=armadyl_dhide_boots_19930,Armadyl dragonhide boots
+val=guthix_dhide_boots_19927,Guthix dragonhide boots
+val=zamorak_dhide_boots_19936,Zamorak dragonhide boots
+val=ancient_dhide_boots_19921,Ancient dragonhide boots
+val=rune_platebody_h1_23209,Rune PlateBody (h1)
+val=rune_platebody_h2_23212,Rune PlateBody (h2)
+val=rune_platebody_h3_23215,Rune PlateBody (h3)
+val=rune_platebody_h4_23218,Rune PlateBody (h4)
+val=rune_platebody_h5_23221,Rune PlateBody (h5)
+val=dual_sai_23206,Dual sai
+val=thieving_bag_23224,Thieving bag
+val=3rd_age_range_top_10330,3rd Age ranger kit
+val=3rd_age_robe_top_10338,3rd Age mage robes
+val=3rd_age_platebody_10348,3rd Age armour
+val=guthix_dhide_shield_23188,Guthix d'hide shield
+val=saradomin_dhide_shield_23191,Saradomin d'hide shield
+val=zamorak_dhide_shield_23194,Zamorak d'hide shield
+val=ancient_dhide_shield_23197,Ancient d'hide shield
+val=armadyl_dhide_shield_23200,Armadyl d'hide shield
+val=bandos_dhide_shield_23203,Bandos d'hide shield
+val=dragon_cane_12373,Dragon cane
+val=briefcase_12335,Briefcase
+val=sagacious_spectacles_12337,Sagacious spectacles
+val=royal_gown_top_12393,Royal attire
+val=bronze_dragon_mask_12363,Bronze dragon mask
+val=iron_dragon_mask_12365,Iron dragon mask
+val=steel_dragon_mask_12367,Steel dragon mask
+val=mithril_dragon_mask_12369,Mith dragon mask
+val=lava_dragon_mask_12371,Lava dragon mask
+val=afro_12430,Afro
+val=katana_12357,Katana
+val=big_pirate_hat_12355,Big pirate hat
+val=top_hat_12432,Top hat
+val=monocle_12353,Monocle
+val=black_dhide_body_g_12381,Black dragonhide (gold)
+val=black_dhide_body_t_12385,Black dragonhide (trim)
+val=musketeer_tabard_12441,Musketeer outfit
+val=partyhat_specs_12399,Partyhat & specs
+val=pirate_hat_patch_12412,Piratehat & patch
+val=top_hat_monocle_12434,Top hat & monocle
+val=deerstalker_12540,Deerstalker
+val=heavy_casket_19941,Heavy casket
+val=arceuus_scarf_19943,Arceuus scarf
+val=hosidius_scarf_19946,Hosidius scarf
+val=lovakengj_scarf_19949,Lovakengj scarf
+val=piscarilius_scarf_19952,Piscarilius scarf
+val=shayzien_scarf_19955,Shayzien scarf
+val=blacksmiths_helm_19988,Blacksmith's helm
+val=bucket_helm_19991,Bucket helm
+val=rangers_tunic_12596,3rd Age elite ranger kit
+val=holy_wraps_19997,Holy wraps
+val=ring_of_nature_20005,Ring of Nature
+val=3rd_age_wand_12422,3rd Age wand
+val=3rd_age_bow_12424,3rd Age bow
+val=3rd_age_longsword_12426,3rd Age longsword
+val=3rd_age_cloak_12437,3rd Age cloak
+val=dark_bow_tie_19970,Dark tuxedo outfit
+val=light_bow_tie_19985,Light tuxedo outfit
+val=fremennik_kilt_23246,Fremennik kilt
+val=adamant_dragon_mask_23270,Adamant dragon mask
+val=rune_dragon_mask_23273,Rune dragon mask
+val=gilded_coif_23258,Gilded dragonhide
+val=gilded_boots_12391,Gilded boots
+val=gilded_scimitar_12389,Gilded scimitar
+val=gilded_pickaxe_23276,Gilded pickaxe
+val=gilded_axe_23279,Gilded axe
+val=gilded_spade_23282,Gilded spade
+val=uris_hat_23255,Uri's hat
+val=giant_boot_23252,Giant boot
+val=dragon_full_helm_g_12417,Gold-plated dragon armour
+val=fancy_tiara_20008,Fancy tiara
+val=3rd_age_axe_20011,3rd Age axe
+val=3rd_age_pickaxe_20014,3rd Age pickaxe
+val=ring_of_coins_20017,Ring of Coins
+val=lesser_demon_mask_20020,Lesser Demon mask
+val=greater_demon_mask_20023,Greater Demon mask
+val=black_demon_mask_20026,Black Demon mask
+val=old_demon_mask_20029,Old Demon mask
+val=jungle_demon_mask_20032,Jungle Demon mask
+val=obsidian_cape_r_20050,Obsidian cape (red)
+val=half_moon_spectacles_20053,Half moon spectacles
+val=ale_of_the_gods_20056,Ale of the Gods
+val=bucket_helm_g_20059,Bucket helm (gold)
+val=bowl_wig_20110,Bowl wig
+val=arceuus_hood_20113,Arceuus hood
+val=hosidius_hood_20116,Hosidius hood
+val=lovakengj_hood_20119,Lovakengj hood
+val=piscarilius_hood_20122,Piscarilius hood
+val=shayzien_hood_20125,Shayzien hood
+val=samurai_shirt_20038,Samurai outfit
+val=mummys_head_20080,Mummy costume
+val=ankou_mask_20095,Ankou costume
+val=hood_of_darkness_20128,Robes of Darkness
+val=left_eye_patch_19724,Left eye patch
+val=scroll_sack_22675,Scroll Sack
+val=3rd_age_druidic_robe_top_23336,3rd Age Druidic robes
+val=ring_of_3rd_age_23185,Ring of 3rd Age
+val=bunny_ears_1037,2003: Bunny ears
+val=scythe_1419,2003: Scythe
+val=yo_yo_4079,2004: Yo-yo
+val=rubber_chicken_4566,2005: Rubber chicken
+val=zombie_head_6722,2005: Zombie head
+val=easter_ring_7927,2006: Ring of Egg
+val=jack_lantern_mask_9920,2006: Pumpkin head
+val=skeleton_mask_9925,2006: Spooky outfit
+val=bobble_hat_6856,2005: Woolly hats
+val=bobble_scarf_6857,2005: Woolly scarves
+val=red_marionette_6867,2005: Marionette
+val=reindeer_hat_10507,2006: Reindeer hat
+val=chicken_head_11021,2007: Chicken suit
+val=war_ship_795,Classic: Karamja warship
+val=black_hween_mask_11847,2013: Black Halloween Mask
+val=black_partyhat_11862,2013: Black Party Hat
+val=rainbow_partyhat_11863,2013: Rainbow Party Hat
+val=cow_mask_11919,2014-15: Cow suit
+val=easter_basket_4565,2005: Easter basket
+val=druidic_wreath_12600,2014: Druidic wreath
+val=grim_reaper_hood_12845,2007: Grim Reaper hood
+val=santa_mask_12887,2014: Santa costume
+val=antisanta_mask_12892,2014: Antisanta costume
+val=mask_of_balance_13203,2015: Mask of Balance
+val=tiger_toy_13215,2015: Toy animals
+val=anti_panties_13288,2015: Anti-panties
+val=gravedigger_mask_13283,2015: Undead gravedigger
+val=black_santa_hat_13343,2015: Black santa hat
+val=inverted_santa_hat_13344,2015: Inverted santa hat
+val=gnome_child_hat_13655,2016: Gnome child hat
+val=bunny_top_13663,2015-16: Bunny outfit
+val=cabbage_cape_13679,2016: Cabbage cape
+val=cruciferous_codex_13681,2016: Cruciferous Codex
+val=hornwood_helm_19699,2016: Hornwood helm
+val=banshee_mask_20773,2016: Masked killer
+val=snow_globe_20832,2016: Snow globe
+val=sack_of_presents_20834,2016: Sack of Presents
+val=giant_present_20836,2016: Giant Present
+val=4th_birthday_hat_21211,2017: 4th Birthday hat
+val=birthday_balloons_21209,2017: Birthday balloons
+val=easter_egg_helm_21214,2017: Easter Egg helm
+val=eggshell_platebody_22351,2018: Eggshell outfit
+val=rainbow_scarf_21314,2017: Rainbow Scarf
+val=hand_fan_21354,2017: Hand fan
+val=runefest_shield_21695,2017: Runefest shield
+val=jonas_mask_21720,2017: Jonas mask
+val=snow_imp_costume_head_21847,2017: Snow imp costume
+val=wise_old_mans_santa_hat_21859,2017: Wise Old Man's Santa hat
+val=prop_sword_22316,2018: Birthday prop sword
+val=clown_mask_22689,2018: Clown suit
+val=eek_22684,2018: Eek the Spider
+val=star_face_22713,2018: Christmas Tree suit
+val=birthday_cake_23108,2019: Birthday cake 
+val=giant_easter_egg_23446,2019: Giant Easter Egg
+val=bunnyman_mask_23448,2019: Bunny mask
+val=spooky_hood_24305,2019: Spooky costume
+val=spookier_hood_24315,2019: Spookier costume
+val=pumpkin_lantern_24325,2019: Pumpkin lantern
+val=skeleton_lantern_24327,2019: Skeleton lantern
+val=green_gingerbread_shield_24428,2019: Gingerbread Gnome Shield
+val=cat_ears_24525,2020: Cat Ears
+val=magic_egg_ball_24535,2020: Easter Magic Egg
+val=carrot_sword_24537,2020: Easter Carrot Swords
+val=jar_of_dirt_12007,Jar of Dirt (Kraken)
+val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
+val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
+val=jar_of_souls_13245,Jar of Souls (Cerberus)
+val=jar_of_miasma_13277,Jar of Miasma (Abyssal Sire)
+val=jar_of_darkness_19701,Jar of Darkness (Skotizo)
+val=jar_of_stone_21745,Jar of Stone (Grotesque Guardians)
+val=jar_of_decay_22106,Jar of Decay (Vorkath)
+val=jar_of_chemicals_23064,Jar of Chemicals (Alchemical Hydra)
+val=jar_of_eyes_23525,Jar of Eyes (Sarachnis)
+val=jar_of_dreams_24495,Jar of Dreams (Nightmare)
+
+[enum_3303]
+inputtype=obj
+outputtype=namedobj
+default=null
+val=bronze_platelegs_t_12217,bronze_plateskirt_t_12219
+val=bronze_platelegs_g_12207,bronze_plateskirt_g_12209
+val=iron_platelegs_t_12227,iron_plateskirt_t_12229
+val=iron_platelegs_g_12237,iron_plateskirt_g_12239
+val=steel_platelegs_t_20187,steel_plateskirt_t_20190
+val=steel_platelegs_g_20172,steel_plateskirt_g_20175
+val=black_platelegs_t_2585,black_plateskirt_t_3472
+val=black_platelegs_g_2593,black_plateskirt_g_3473
+val=mithril_platelegs_g_12279,mithril_plateskirt_g_12285
+val=mithril_platelegs_t_12289,mithril_plateskirt_t_12295
+val=adamant_platelegs_t_2601,adamant_plateskirt_t_3474
+val=adamant_platelegs_g_2609,adamant_plateskirt_g_3475
+val=rune_platelegs_t_2625,rune_plateskirt_t_3477
+val=rune_platelegs_g_2617,rune_plateskirt_g_3476
+val=zamorak_platelegs_2655,zamorak_plateskirt_3478
+val=guthix_platelegs_2671,guthix_plateskirt_3480
+val=saradomin_platelegs_2663,saradomin_plateskirt_3479
+val=gilded_platelegs_3483,gilded_plateskirt_3485
+val=proselyte_cuisse_9676,proselyte_tasset_9678
+val=white_platelegs_6625,white_plateskirt_6627
+val=bomber_cap_9945,cap_and_goggles_9946
+val=black_elegant_shirt_10400,white_elegant_blouse_10420
+val=black_elegant_legs_10402,white_elegant_skirt_10422
+val=red_elegant_shirt_10404,red_elegant_blouse_10424
+val=red_elegant_legs_10406,red_elegant_skirt_10426
+val=green_elegant_shirt_10412,green_elegant_blouse_10432
+val=green_elegant_legs_10414,green_elegant_skirt_10434
+val=blue_elegant_shirt_10408,blue_elegant_blouse_10428
+val=blue_elegant_legs_10410,blue_elegant_skirt_10430
+val=purple_elegant_shirt_10416,purple_elegant_blouse_10436
+val=purple_elegant_legs_10418,purple_elegant_skirt_10438
+val=pink_elegant_legs_12317,pink_elegant_skirt_12341
+val=gold_elegant_legs_12349,gold_elegant_skirt_12345
+val=pink_elegant_shirt_12315,pink_elegant_blouse_12339
+val=gold_elegant_shirt_12347,gold_elegant_blouse_12343
+val=armadyl_platelegs_12472,armadyl_plateskirt_12474
+val=bandos_platelegs_12482,bandos_plateskirt_12484
+val=ancient_platelegs_12462,ancient_plateskirt_12464
+val=3rd_age_platelegs_10346,3rd_age_plateskirt_23242
+val=dragon_platelegs_g_12415,dragon_plateskirt_g_12416
+val=corrupted_platelegs_20842,corrupted_plateskirt_20844
+val=farmers_boro_trousers_13640,farmers_boro_trousers_13641
+val=farmers_jacket_13642,farmers_shirt_13643
+val=farmers_boots_13644,farmers_boots_13645
+val=farmers_strawhat_13646,farmers_strawhat_13647
+val=ardougne_knight_platelegs_23789,steel_platelegs_1069
+val=fire_cape_6570,fire_cape_l_24223
+val=imbued_saradomin_cape_21791,imbued_saradomin_cape_l_24248
+val=imbued_zamorak_cape_21795,imbued_zamorak_cape_l_24250
+val=imbued_guthix_cape_21793,imbued_guthix_cape_l_24249
+val=infernal_cape_21295,infernal_cape_l_24224
+val=decorative_armour_4509,decorative_armour_l_24158
+val=decorative_helm_4511,decorative_helm_l_24160
+val=decorative_shield_4512,decorative_shield_l_24161
+val=decorative_armour_11896,decorative_armour_l_24163
+val=decorative_armour_11897,decorative_armour_l_24164
+val=decorative_armour_11898,decorative_armour_l_24165
+val=decorative_armour_11899,decorative_armour_l_24166
+val=decorative_armour_11900,decorative_armour_l_24167
+val=decorative_armour_11901,decorative_armour_l_24168
+val=void_knight_top_8839,void_knight_top_l_24177
+val=void_knight_robe_8840,void_knight_robe_l_24179
+val=elite_void_top_13072,elite_void_top_l_24178
+val=elite_void_robe_13073,elite_void_robe_l_24180
+val=void_knight_gloves_8842,void_knight_gloves_l_24182
+val=void_melee_helm_11665,void_melee_helm_l_24185
+val=void_mage_helm_11663,void_mage_helm_l_24183
+val=void_ranger_helm_11664,void_ranger_helm_l_24184
+val=fighter_torso_10551,fighter_torso_l_24175
+val=penance_skirt_10555,penance_skirt_l_24176
+val=fighter_hat_10548,fighter_hat_l_24173
+val=ranger_hat_10550,ranger_hat_l_24174
+val=runner_hat_10549,runner_hat_l_24533
+val=healer_hat_10547,healer_hat_l_24172
+val=saradomin_halo_12637,saradomin_halo_l_24169
+val=zamorak_halo_12638,zamorak_halo_l_24170
+val=guthix_halo_12639,guthix_halo_l_24171
+val=armadyl_halo_24192,armadyl_halo_l_24194
+val=bandos_halo_24195,bandos_halo_l_24197
+val=seren_halo_24198,seren_halo_l_24200
+val=ancient_halo_24201,ancient_halo_l_24203
+val=brassica_halo_24204,brassica_halo_l_24206
+val=attack_cape_9747,attack_cape_t_9748
+val=defence_cape_9753,defence_cape_t_9754
+val=strength_cape_9750,strength_cape_t_9751
+val=hitpoints_cape_9768,hitpoints_cape_t_9769
+val=agility_cape_9771,agility_cape_t_9772
+val=cooking_cape_9801,cooking_cape_t_9802
+val=construct_cape_9789,construct_cape_t_9790
+val=crafting_cape_9780,crafting_cape_t_9781
+val=farming_cape_9810,farming_cape_t_9811
+val=firemaking_cape_9804,firemaking_cape_t_9805
+val=fishing_cape_9798,fishing_cape_t_9799
+val=fletching_cape_9783,fletching_cape_t_9784
+val=herblore_cape_9774,herblore_cape_t_9775
+val=magic_cape_9762,magic_cape_t_9763
+val=mining_cape_9792,mining_cape_t_9793
+val=prayer_cape_9759,prayer_cape_t_9760
+val=ranging_cape_9756,ranging_cape_t_9757
+val=runecraft_cape_9765,runecraft_cape_t_9766
+val=slayer_cape_9786,slayer_cape_t_9787
+val=smithing_cape_9795,smithing_cape_t_9796
+val=thieving_cape_9777,thieving_cape_t_9778
+val=woodcutting_cape_9807,woodcut_cape_t_9808
+val=hunter_cape_9948,hunter_cape_t_9949
+val=fire_max_cape_13329,fire_max_cape_l_24134
+val=infernal_max_cape_21285,infernal_max_cape_l_24133
+val=imbued_saradomin_max_cape_21776,imbued_saradomin_max_cape_l_24232
+val=imbued_zamorak_max_cape_21780,imbued_zamorak_max_cape_l_24233
+val=imbued_guthix_max_cape_21784,imbued_guthix_max_cape_l_24234
+val=assembler_max_cape_21898,assembler_max_cape_l_24135
+val=quest_point_cape_9813,quest_point_cape_t_13068
+val=achievement_diary_cape_19476,achievement_diary_cape_t_13069
+val=music_cape_13221,music_cape_t_13222
+val=prince_tunic_6184,princess_blouse_6186
+val=prince_leggings_6185,princess_skirt_6187
+val=deadmans_chest_13317,deadmans_chest_24189
+val=deadmans_legs_13318,deadmans_legs_24190
+val=deadmans_cape_13319,deadmans_cape_24191
+val=cat_ears_24525,hell_cat_ears_24527
+
+[enum_3304]
+inputtype=obj
+outputtype=enum
+default=null
+val=max_cape_13280,enum_3306
+val=max_hood_13281,enum_3307
+val=decorative_armour_4510,enum_3308
+val=team_1_cape_4315,enum_3309
+val=green_gingerbread_shield_24428,enum_3311
+
+[enum_3305]
+inputtype=obj
+outputtype=boolean
+default=no
+val=attack_cape_9747,yes
+val=defence_cape_9753,yes
+val=strength_cape_9750,yes
+val=hitpoints_cape_9768,yes
+val=agility_cape_9771,yes
+val=cooking_cape_9801,yes
+val=construct_cape_9789,yes
+val=crafting_cape_9780,yes
+val=farming_cape_9810,yes
+val=firemaking_cape_9804,yes
+val=fishing_cape_9798,yes
+val=fletching_cape_9783,yes
+val=herblore_cape_9774,yes
+val=magic_cape_9762,yes
+val=mining_cape_9792,yes
+val=prayer_cape_9759,yes
+val=ranging_cape_9756,yes
+val=runecraft_cape_9765,yes
+val=slayer_cape_9786,yes
+val=smithing_cape_9795,yes
+val=thieving_cape_9777,yes
+val=woodcutting_cape_9807,yes
+val=hunter_cape_9948,yes
+val=quest_point_cape_9813,yes
+val=achievement_diary_cape_19476,yes
+val=music_cape_13221,yes
+val=prince_tunic_6184,yes
+val=prince_leggings_6185,yes
+val=farmers_boro_trousers_13640,yes
+val=farmers_jacket_13642,yes
+val=farmers_boots_13644,yes
+val=farmers_strawhat_13646,yes
+val=ardougne_knight_platelegs_23789,yes
+val=deadmans_chest_13317,yes
+val=deadmans_legs_13318,yes
+val=deadmans_cape_13319,yes
+val=team_1_cape_4315,yes
+val=green_gingerbread_shield_24428,yes
+val=cat_ears_24525,yes
+
+[enum_3306]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,fire_max_cape_13329
+val=1,fire_max_cape_l_24134
+val=2,saradomin_max_cape_13331
+val=3,zamorak_max_cape_13333
+val=4,guthix_max_cape_13335
+val=5,imbued_saradomin_max_cape_21776
+val=6,imbued_saradomin_max_cape_l_24232
+val=7,imbued_zamorak_max_cape_21780
+val=8,imbued_zamorak_max_cape_l_24233
+val=9,imbued_guthix_max_cape_21784
+val=10,imbued_guthix_max_cape_l_24234
+val=11,accumulator_max_cape_13337
+val=12,ardougne_max_cape_20760
+val=13,infernal_max_cape_21285
+val=14,infernal_max_cape_l_24133
+val=15,assembler_max_cape_21898
+val=16,assembler_max_cape_l_24135
+val=17,mythical_max_cape_24855
+
+[enum_3307]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,fire_max_hood_13330
+val=1,saradomin_max_hood_13332
+val=2,zamorak_max_hood_13334
+val=3,guthix_max_hood_13336
+val=4,imbued_saradomin_max_hood_21778
+val=5,imbued_zamorak_max_hood_21782
+val=6,imbued_guthix_max_hood_21786
+val=7,accumulator_max_hood_13338
+val=8,ardougne_max_hood_20764
+val=9,infernal_max_hood_21282
+val=10,assembler_max_hood_21900
+val=11,mythical_max_hood_24857
+
+[enum_3308]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,decorative_armour_l_24159
+val=1,decorative_armour_11895
+val=2,decorative_armour_l_24162
+
+[enum_3309]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,team_2_cape_4317
+val=1,team_3_cape_4319
+val=2,team_4_cape_4321
+val=3,team_5_cape_4323
+val=4,team_6_cape_4325
+val=5,team_7_cape_4327
+val=6,team_8_cape_4329
+val=7,team_9_cape_4331
+val=8,team_10_cape_4333
+val=9,team_11_cape_4335
+val=10,team_12_cape_4337
+val=11,team_13_cape_4339
+val=12,team_14_cape_4341
+val=13,team_15_cape_4343
+val=14,team_16_cape_4345
+val=15,team_17_cape_4347
+val=16,team_18_cape_4349
+val=17,team_19_cape_4351
+val=18,team_20_cape_4353
+val=19,team_21_cape_4355
+val=20,team_22_cape_4357
+val=21,team_23_cape_4359
+val=22,team_24_cape_4361
+val=23,team_25_cape_4363
+val=24,team_26_cape_4365
+val=25,team_27_cape_4367
+val=26,team_28_cape_4369
+val=27,team_29_cape_4371
+val=28,team_30_cape_4373
+val=29,team_31_cape_4375
+val=30,team_32_cape_4377
+val=31,team_33_cape_4379
+val=32,team_34_cape_4381
+val=33,team_35_cape_4383
+val=34,team_36_cape_4385
+val=35,team_37_cape_4387
+val=36,team_38_cape_4389
+val=37,team_39_cape_4391
+val=38,team_40_cape_4393
+val=39,team_41_cape_4395
+val=40,team_42_cape_4397
+val=41,team_43_cape_4399
+val=42,team_44_cape_4401
+val=43,team_45_cape_4403
+val=44,team_46_cape_4405
+val=45,team_47_cape_4407
+val=46,team_48_cape_4409
+val=47,team_49_cape_4411
+val=48,team_50_cape_4413
+
+[enum_3311]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,red_gingerbread_shield_24430
+val=1,blue_gingerbread_shield_24431
 
