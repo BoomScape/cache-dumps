@@ -10,18 +10,6 @@ clientcode=14
 [var_105]
 clientcode=15
 
-[var_166]
-clientcode=1
-
-[var_167]
-clientcode=2
-
-[var_168]
-clientcode=3
-
-[var_169]
-clientcode=4
-
 [var_170]
 clientcode=5
 
@@ -42,9 +30,6 @@ clientcode=17
 
 [var_804]
 clientcode=12
-
-[var_872]
-clientcode=10
 
 [var_1074]
 clientcode=11

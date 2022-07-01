@@ -16876,8 +16876,8 @@ param=setting_id_1077,15
 param=setting_type_1078,1
 param=setting_name_1086,Screen Brightness
 param=setting_search_keywords_1088,"Screen Brightness,Basic Display Settings"
-param=setting_slider_notches_1101,4
-param=param_1102,4
+param=setting_slider_notches_1101,21
+param=param_1102,5
 param=setting_desc_1096,Change the level of brightness to make the world look lighter or darker.
 param=setting_choose_transmit_1085,yes
 
@@ -17034,6 +17034,8 @@ param=setting_id_1077,30
 param=setting_type_1078,1
 param=setting_name_1086,Music volume
 param=setting_search_keywords_1088,"Music volume,sound volume,audio volume"
+param=setting_slider_notches_1101,21
+param=param_1102,5
 param=setting_choose_transmit_1085,yes
 
 [struct_2754]
@@ -17041,6 +17043,8 @@ param=setting_id_1077,31
 param=setting_type_1078,1
 param=setting_name_1086,Sound effect volume
 param=setting_search_keywords_1088,"Sound effect volume,Sound effect audio"
+param=setting_slider_notches_1101,21
+param=param_1102,5
 param=setting_choose_transmit_1085,yes
 
 [struct_2755]
@@ -17048,6 +17052,8 @@ param=setting_id_1077,32
 param=setting_type_1078,1
 param=setting_name_1086,Area sound volume
 param=setting_search_keywords_1088,"Area sound volume,Area sound audio"
+param=setting_slider_notches_1101,21
+param=param_1102,5
 param=setting_choose_transmit_1085,yes
 
 [struct_2756]
@@ -18520,7 +18526,7 @@ param=param_626,crafting
 param=param_627,38
 param=param_628,magic
 param=param_629,35
-param=param_657,60
+param=param_657,65
 
 [struct_2972]
 param=setting_type_1078,5
@@ -18914,7 +18920,7 @@ param=setting_id_1077,125
 param=setting_type_1078,0
 param=setting_name_1086,Home teleport cooldown
 param=setting_search_keywords_1088,buff bar
-param=setting_desc_1096,"When enabled, shows the Home teleport cooldown."
+param=setting_desc_1096,"When enabled, shows the home teleport cooldown."
 param=setting_enhanced_1157,yes
 param=setting_seemore_group_1090,2
 param=setting_toggle_inverse_1084,yes
@@ -18924,7 +18930,7 @@ param=setting_id_1077,126
 param=setting_type_1078,0
 param=setting_name_1086,Minigame teleport cooldown
 param=setting_search_keywords_1088,buff bar
-param=setting_desc_1096,"When enabled, shows the Home teleport cooldown."
+param=setting_desc_1096,"When enabled, shows the minigame teleport cooldown."
 param=setting_enhanced_1157,yes
 param=setting_seemore_group_1090,2
 param=setting_toggle_inverse_1084,yes
@@ -19052,7 +19058,7 @@ param=setting_toggle_inverse_1084,yes
 [struct_3034]
 param=setting_id_1077,141
 param=setting_type_1078,0
-param=setting_name_1086,Freeze/Entagled duration
+param=setting_name_1086,Freeze/Entangled duration
 param=setting_search_keywords_1088,buff bar
 param=setting_desc_1096,"When enabled, shows how long you are frozen/entangled for."
 param=setting_enhanced_1157,yes

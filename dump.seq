@@ -49708,7 +49708,7 @@ replayoff=32
 looptype=1
 framegroup1=2191
 
-[tile_8143]
+[seq_8143]
 framecount=30
 replayoff=30
 looptype=1
@@ -52602,7 +52602,7 @@ framecount=12
 looptype=1
 framegroup1=2467
 
-[parasite_ready_8553]
+[little_parasaite_ready_8553]
 framecount=24
 looptype=1
 framegroup1=2478
@@ -55432,6 +55432,12 @@ priority=6
 looptype=1
 framegroup1=2674
 
+[seq_8971]
+framecount=42
+replayoff=15
+looptype=1
+framegroup1=2442
+
 [seq_8972]
 framecount=12
 priority=6
@@ -56223,4 +56229,51 @@ mainhand=0
 offhand=0
 looptype=1
 framegroup1=207
+
+[seq_9102]
+framecount=34
+replayoff=2
+priority=6
+looptype=1
+framegroup1=2750
+
+[seq_9103]
+framecount=24
+replayoff=24
+priority=6
+looptype=1
+framegroup1=2751
+
+[seq_9104]
+framecount=24
+priority=6
+looptype=1
+framegroup1=2749
+
+[seq_9105]
+framecount=46
+replayoff=1
+priority=6
+looptype=1
+framegroup1=2753
+
+[seq_9106]
+framecount=42
+replayoff=28
+priority=6
+looptype=1
+framegroup1=2754
+
+[seq_9107]
+framecount=30
+priority=6
+looptype=1
+framegroup1=2752
+
+[seq_9108]
+framecount=32
+mainhand=0
+offhand=26360
+looptype=1
+framegroup1=2375
 
