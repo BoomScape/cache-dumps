@@ -47,8 +47,8 @@ layer=interface_261:4
 optionmask=6
 op1="Select"
 op2="Restore Default Zoom"
-onload="script831(17104901,17104902,17104903,17104910,17104911,17105005)"
-onop="script43(17104901,17104903,event_opindex,17105005)"
+onload="script831(17104901,17104902,17104903,17104910,17104911,17105013)"
+onop="script43(17104901,17104903,event_opindex,17105013)"
 
 [interface_261:6]
 type=^iftype_graphic
@@ -149,7 +149,7 @@ width=32
 height=32
 layer=interface_261:16
 graphic="options_icons,0"
-onload="script345(event_com,17104914,17104915,17104916,17104917,17105005)"
+onload="script345(event_com,17104914,17104915,17104916,17104917,17105013)"
 
 [interface_261:18]
 type=^iftype_graphic
@@ -215,7 +215,7 @@ width=32
 height=32
 layer=interface_261:22
 graphic="options_icons,51"
-onload="script2400(event_com,17104920,17104922,17104924,17104926,17105005)"
+onload="script2400(event_com,17104920,17104922,17104924,17104926,17105013)"
 
 [interface_261:24]
 type=^iftype_graphic
@@ -338,7 +338,7 @@ type=^iftype_layer
 width=62
 height=54
 layer=interface_261:32
-onload="script842(event_com,17104930,17105005)"
+onload="script842(event_com,17104930,17105013)"
 
 [interface_261:34]
 type=^iftype_layer
@@ -379,7 +379,7 @@ height=40
 vposmode=^setpos_abs_bottom
 layer=interface_261:36
 graphic="options_boxes,0"
-onload="script531(event_com,17105005)"
+onload="script531(event_com,17105013)"
 
 [interface_261:38]
 type=^iftype_graphic
@@ -402,7 +402,7 @@ layer=interface_261:36
 graphic="options_boxes,0"
 optionmask=2
 op1="Tap through chatbox"
-onload="script883(event_com,17105005)"
+onload="script883(event_com,17105013)"
 
 [interface_261:40]
 type=^iftype_graphic
@@ -426,7 +426,7 @@ layer=interface_261:36
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle store orb"
-onload="script2410(event_com,17105005)"
+onload="script2410(event_com,17105013)"
 
 [interface_261:42]
 type=^iftype_graphic
@@ -458,8 +458,8 @@ height=32
 layer=interface_261:43
 graphic="options_icons,1"
 onload="script349(event_com,17104941,17104942,17104943,17104944,17104945)"
-onmouseleave="script40(17105005)"
-onmouserepeat="script38(event_com,17105005,Adjust Music Volume,25,190)"
+onmouseleave="script40(17105013)"
+onmouserepeat="script38(event_com,17105013,Adjust Music Volume,25,190)"
 
 [interface_261:45]
 type=^iftype_graphic
@@ -524,8 +524,8 @@ height=32
 layer=interface_261:43
 graphic="options_icons,2"
 onload="script352(event_com,17104947,17104948,17104949,17104950,17104951)"
-onmouseleave="script40(17105005)"
-onmouserepeat="script38(event_com,17105005,Adjust Sound Effect Volume,25,190)"
+onmouseleave="script40(17105013)"
+onmouserepeat="script38(event_com,17105013,Adjust Sound Effect Volume,25,190)"
 
 [interface_261:51]
 type=^iftype_graphic
@@ -590,8 +590,8 @@ height=32
 layer=interface_261:43
 graphic="options_icons,14"
 onload="script355(event_com,17104953,17104954,17104955,17104956,17104957)"
-onmouseleave="script40(17105005)"
-onmouserepeat="script38(event_com,17105005,Adjust Area Sound Volume,25,190)"
+onmouseleave="script40(17105013)"
+onmouserepeat="script38(event_com,17105013,Adjust Area Sound Volume,25,190)"
 
 [interface_261:57]
 type=^iftype_graphic
@@ -669,7 +669,7 @@ layer=interface_261:62
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Chat Effects"
-onload="script363(event_com,17105005)"
+onload="script363(event_com,17105013)"
 
 [interface_261:64]
 type=^iftype_graphic
@@ -690,7 +690,7 @@ layer=interface_261:62
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Split Private Chat"
-onload="script367(event_com,17105005)"
+onload="script367(event_com,17105013)"
 
 [interface_261:66]
 type=^iftype_graphic
@@ -712,7 +712,7 @@ layer=interface_261:62
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Hide Private Chat"
-onload="script1107(event_com,17104964,17105005)"
+onload="script1107(event_com,17104964,17105013)"
 
 [interface_261:68]
 type=^iftype_graphic
@@ -734,7 +734,7 @@ layer=interface_261:62
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Profanity Filter"
-onload="script371(event_com,17105005)"
+onload="script371(event_com,17105013)"
 
 [interface_261:70]
 type=^iftype_graphic
@@ -755,9 +755,9 @@ layer=interface_261:62
 graphic="options_boxes,0"
 optionmask=2
 op1="Notifications"
-onmouseleave="script40(17105005)"
+onmouseleave="script40(17105013)"
 onop="script489(event_opindex,2)"
-onmouserepeat="script38(event_com,17105005,Configure certain game notifications.,25,150)"
+onmouserepeat="script38(event_com,17105013,Configure certain game notifications.,25,150)"
 
 [interface_261:72]
 type=^iftype_graphic
@@ -779,7 +779,7 @@ layer=interface_261:62
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Login/Logout notification timeout"
-onload="script1(event_com,17105005)"
+onload="script1(event_com,17105013)"
 
 [interface_261:74]
 type=^iftype_graphic
@@ -814,7 +814,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_261:2
-onload="script2363(event_com,17104896,17104985,17104986,17104998,17105000,17105002,17105003,17105004,17105005)"
+onload="script2363(event_com,17104896,17104993,17104994,17105006,17105008,17105010,17105011,17105012,17105013)"
 
 [interface_261:77]
 type=^iftype_graphic
@@ -826,7 +826,7 @@ layer=interface_261:76
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle number of Mouse Buttons"
-onload="script359(event_com,17104974,17105005)"
+onload="script359(event_com,17104974,17105013)"
 
 [interface_261:78]
 type=^iftype_graphic
@@ -847,7 +847,7 @@ layer=interface_261:76
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Mouse Camera"
-onload="script50(event_com,17105005)"
+onload="script50(event_com,17105013)"
 
 [interface_261:80]
 type=^iftype_graphic
@@ -869,7 +869,7 @@ layer=interface_261:76
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Follower options priority"
-onload="script1647(event_com,17104978,17105005)"
+onload="script1647(event_com,17104978,17105013)"
 
 [interface_261:82]
 type=^iftype_graphic
@@ -892,7 +892,7 @@ layer=interface_261:76
 graphic="options_boxes,0"
 optionmask=2
 op1="Keybinding"
-onload="script2004(event_com,17104980,17105005)"
+onload="script2004(event_com,17104980,17105013)"
 
 [interface_261:84]
 type=^iftype_graphic
@@ -915,7 +915,7 @@ layer=interface_261:76
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Shift Click Drop"
-onload="script1627(event_com,17104982,17105005)"
+onload="script1627(event_com,17104982,17105013)"
 
 [interface_261:86]
 type=^iftype_graphic
@@ -929,8 +929,8 @@ graphic="options_icons,36"
 
 [interface_261:87]
 type=^iftype_graphic
-x=35
-y=48
+x=66
+y=6
 width=40
 height=40
 hposmode=^setpos_abs_centre
@@ -938,12 +938,12 @@ layer=interface_261:76
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle function button"
-onload="script2147(event_com,17105005)"
+onload="script2147(event_com,17105013)"
 
 [interface_261:88]
 type=^iftype_graphic
-x=35
-y=52
+x=66
+y=10
 width=32
 height=32
 hposmode=^setpos_abs_centre
@@ -951,6 +951,80 @@ layer=interface_261:76
 graphic="options_icons,52"
 
 [interface_261:89]
+type=^iftype_layer
+y=48
+width=164
+height=40
+hposmode=^setpos_abs_centre
+hide=yes
+layer=interface_261:76
+onload="script575(event_com,17104991,17104992)"
+
+[interface_261:90]
+type=^iftype_graphic
+width=32
+height=32
+vposmode=^setpos_abs_centre
+layer=interface_261:89
+graphic="options_icons,53"
+
+[interface_261:91]
+type=^iftype_graphic
+x=96
+width=32
+height=16
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_261:89
+graphic="options_slider,0"
+
+[interface_261:92]
+type=^iftype_graphic
+x=64
+width=32
+height=16
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_261:89
+graphic="options_slider,1"
+
+[interface_261:93]
+type=^iftype_graphic
+x=32
+width=32
+height=16
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_261:89
+graphic="options_slider,2"
+
+[interface_261:94]
+type=^iftype_graphic
+width=32
+height=16
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_261:89
+graphic="options_slider,3"
+
+[interface_261:95]
+type=^iftype_layer
+x=8
+width=112
+height=16
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_261:89
+
+[interface_261:96]
+type=^iftype_graphic
+width=16
+height=16
+layer=interface_261:95
+graphic="slider_bobble"
+optionmask=131072
+
+[interface_261:97]
 type=^iftype_layer
 y=45
 width=16
@@ -960,7 +1034,7 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_261:76
 
-[interface_261:90]
+[interface_261:98]
 type=^iftype_layer
 y=6
 width=16
@@ -970,7 +1044,7 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_261:76
 
-[interface_261:91]
+[interface_261:99]
 type=^iftype_layer
 y=220
 width=190
@@ -978,108 +1052,108 @@ height=40
 layer=interface_261:0
 onload="script2356(event_com)"
 
-[interface_261:92]
+[interface_261:100]
 type=^iftype_graphic
 x=6
 width=40
 height=40
-layer=interface_261:91
+layer=interface_261:99
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Accept Aid"
-onload="script375(event_com,17105005)"
+onload="script375(event_com,17105013)"
 
-[interface_261:93]
+[interface_261:101]
 type=^iftype_graphic
 x=10
 y=4
 width=32
 height=33
-layer=interface_261:91
+layer=interface_261:99
 graphic="options_icons,6"
 
-[interface_261:94]
+[interface_261:102]
 type=^iftype_layer
 x=52
 width=40
 height=40
-layer=interface_261:91
+layer=interface_261:99
 
-[interface_261:95]
+[interface_261:103]
 type=^iftype_graphic
 width=40
 height=40
-layer=interface_261:94
+layer=interface_261:102
 graphic="options_boxes,0"
 optionmask=2
 op1="Toggle Run"
-onload="script379(event_com,17104993,17105005)"
+onload="script379(event_com,17105001,17105013)"
 
-[interface_261:96]
+[interface_261:104]
 type=^iftype_graphic
 x=11
 y=4
 width=17
 height=18
-layer=interface_261:94
+layer=interface_261:102
 graphic="options_icons_small,3"
 
-[interface_261:97]
+[interface_261:105]
 type=^iftype_text
 y=21
 width=40
 height=17
-layer=interface_261:94
+layer=interface_261:102
 colour=0xff9800
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_bottom
 shadowed=yes
 
-[interface_261:98]
+[interface_261:106]
 type=^iftype_graphic
 x=98
 width=40
 height=40
-layer=interface_261:91
+layer=interface_261:99
 graphic="options_boxes,0"
 optionmask=2
 op1="View House Options"
-onmouseleave="script40(17105005)"
-onmouserepeat="script526(event_com,-1,17105005,House Options,25,190)"
+onmouseleave="script40(17105013)"
+onmouserepeat="script526(event_com,-1,17105013,House Options,25,190)"
 
-[interface_261:99]
+[interface_261:107]
 type=^iftype_graphic
 x=102
 y=4
 width=32
 height=32
-layer=interface_261:91
+layer=interface_261:99
 graphic="options_icons,17"
 
-[interface_261:100]
+[interface_261:108]
 type=^iftype_graphic
 x=144
 width=40
 height=40
-layer=interface_261:91
+layer=interface_261:99
 graphic="options_boxes,0"
 optionmask=2
 op1="Open Bond Pouch"
-onload="script2358(event_com,17105005)"
+onload="script2358(event_com,17105013)"
 
-[interface_261:101]
+[interface_261:109]
 type=^iftype_graphic
 x=148
 y=4
 width=36
 height=32
-layer=interface_261:91
+layer=interface_261:99
 outline=1
 shadow=3355443
 onload="script718(event_com,13190,1)"
 
-[interface_261:102]
+[interface_261:110]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -1089,34 +1163,34 @@ hide=yes
 layer=interface_261:0
 noclickthrough=yes
 
-[interface_261:103]
+[interface_261:111]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_261:102
+layer=interface_261:110
 fill=yes
 trans=255
 
-[interface_261:104]
+[interface_261:112]
 type=^iftype_layer
 width=100
 height=50
-layer=interface_261:102
+layer=interface_261:110
 onload="script714(event_com)"
 
-[interface_261:105]
+[interface_261:113]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_261:104
+layer=interface_261:112
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_261:106]
+[interface_261:114]
 type=^iftype_layer
 x=2
 width=20
@@ -1124,9 +1198,9 @@ height=4
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_261:104
+layer=interface_261:112
 
-[interface_261:107]
+[interface_261:115]
 type=^iftype_layer
 x=2
 width=20
@@ -1134,9 +1208,9 @@ height=4
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_261:104
+layer=interface_261:112
 
-[interface_261:108]
+[interface_261:116]
 type=^iftype_layer
 x=2
 width=16
@@ -1144,9 +1218,9 @@ height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_261:104
+layer=interface_261:112
 
-[interface_261:109]
+[interface_261:117]
 type=^iftype_layer
 width=1
 height=1

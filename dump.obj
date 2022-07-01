@@ -129340,11 +129340,11 @@ placeholder=yes
 [cert_yak_hide_armour_10825]
 certificate=yes
 
-[fremennik_shield_10826]
-name=Fremennik shield
-model=fremennik_shield_21960
-manwear=fremennik_shield_19335,0
-womanwear=fremennik_shield_19335,6
+[neitiznot_shield_10826]
+name=Neitiznot shield
+model=neitiznot_shield_21960
+manwear=neitiznot_shield_19335,0
+womanwear=neitiznot_shield_19335,6
 cost=500
 2dzoom=1632
 2dyof=1
@@ -129362,7 +129362,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_fremennik_shield_10827]
+[cert_neitiznot_shield_10827]
 certificate=yes
 
 [helm_of_neitiznot_10828]
@@ -176890,7 +176890,7 @@ placeholder=yes
 [placeholder_yak_hide_armour_17666]
 placeholder=yes
 
-[placeholder_fremennik_shield_17667]
+[placeholder_neitiznot_shield_17667]
 placeholder=yes
 
 [placeholder_helm_of_neitiznot_17668]
@@ -230399,4 +230399,17 @@ womanwear=model_38860,0
 members=yes
 ambient=-50
 contrast=-50
+
+[basilisk_knight_24276]
+name=Basilisk knight
+model=basilisk_knight_38909
+2dzoom=8120
+2dxan=132
+2dyan=48
+recol1s=522
+recol1d=5002
+recol2s=908
+recol2d=6028
+recol3s=910
+recol3d=5006
 

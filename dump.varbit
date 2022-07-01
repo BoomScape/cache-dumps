@@ -47431,10 +47431,15 @@ endbit=23
 [varbit_9486]
 basevar=var_2598
 startbit=24
-endbit=31
+endbit=27
 
 [varbit_9487]
 basevar=var_2319
 startbit=16
 endbit=23
+
+[varbit_9488]
+basevar=var_2598
+startbit=28
+endbit=31
 
