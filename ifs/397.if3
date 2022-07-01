@@ -1,0 +1,33 @@
+[interface_397:0]
+type=^iftype_layer
+width=512
+height=334
+onload="script227(event_com,Furniture Creation Menu)"
+
+[interface_397:1]
+type=^iftype_text
+y=60
+height=16
+hsizemode=^setsize_minus
+text="Select a furniture category to see more"
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_397:2]
+type=^iftype_layer
+x=32
+y=80
+width=432
+height=222
+
+[interface_397:3]
+type=^iftype_layer
+x=32
+y=80
+width=16
+height=222
+hposmode=^setpos_abs_right
+

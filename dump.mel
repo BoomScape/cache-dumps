@@ -3942,3 +3942,66 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_658]
+text=Isle of Souls
+colour=0xff981f
+size=2
+mapfunction=no
+category=1129
+
+[mapelement_659]
+text=Soul Wars<br>Arena
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_660]
+text=Soul Wars<br>Lobby
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_661]
+text=Soul<br>Obelisk
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_662]
+text=Western<br>Graveyard
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_663]
+text=Eastern<br>Graveyard
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_664]
+text=Blue<br>Base
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_665]
+text=Red<br>Base
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_666]
+text=Avatar of<br>Creation
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_667]
+text=Avatar of<br>Destruction
+colour=^white
+mapfunction=no
+category=1129
+

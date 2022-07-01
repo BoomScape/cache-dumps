@@ -3815,6 +3815,7 @@ model2=king_black_dragon_17415
 model3=king_black_dragon_17429
 model4=king_black_dragon_17422
 model5=steel_dragon_17423
+model6=king_black_dragon_41464
 readyanim=king_black_dragon_ready_90
 walkanim=king_black_dragon_walk_4635
 op2=Attack
@@ -5621,6 +5622,7 @@ drawpriority=yes
 [dark_core_318]
 name=Dark core
 model1=pet_dark_core_11069
+model2=dark_core_41453
 head1=pet_dark_core_11069
 readyanim=dark_core_ready_7980
 walkanim=dark_core_walk_2417
@@ -5650,6 +5652,7 @@ drawpriority=yes
 [dark_energy_core_320]
 name=Dark energy core
 model1=pet_dark_core_11069
+model2=dark_core_41453
 readyanim=dark_energy_core_ready_1688
 op2=Attack
 vislevel=75
@@ -6977,6 +6980,7 @@ drawpriority=yes
 [phosanis_nightmare_377]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=phosanis_nightmare_ready_8613
 walkanim=phosanis_nightmare_ready_8613
 op1=Disturb
@@ -6989,6 +6993,7 @@ contrast=100
 [the_nightmare_378]
 name=The Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=phosanis_nightmare_ready_8613
 walkanim=phosanis_nightmare_ready_8613
 op1=Disturb
@@ -7229,6 +7234,7 @@ vislevel=0
 [dark_core_388]
 name=Dark Core
 model1=pet_dark_core_11069
+model2=dark_core_41453
 readyanim=dark_energy_core_ready_1688
 walkanim=dark_core_walk_2417
 resizeh=83
@@ -9066,6 +9072,7 @@ contrast=30
 [kraken_494]
 name=Kraken
 model1=cave_kraken_28231
+model2=kraken_41466
 readyanim=cave_kraken_ready_3989
 walkanim=cave_kraken_ready_3989
 resizeh=150
@@ -12912,6 +12919,7 @@ recol4s=-30283
 recol4d=912
 op1=Talk-to
 vislevel=0
+drawpriority=yes
 ambient=15
 
 [general_wartface_670]
@@ -12939,6 +12947,7 @@ recol4s=-30283
 recol4d=22410
 op1=Talk-to
 vislevel=0
+drawpriority=yes
 ambient=15
 
 [grubfoot_671]
@@ -18602,6 +18611,7 @@ headicon=6
 [hellpuppy_964]
 name=Hellpuppy
 model1=hellpuppy_29240
+model2=hellpuppy_41447
 head1=hellpuppy_29392
 readyanim=hellhound_6561
 walkanim=dog_walk_6560
@@ -40048,6 +40058,7 @@ drawpriority=yes
 [zulrah_2042]
 name=Zulrah
 model1=zulrah_14408
+model2=zulrah_41457
 readyanim=zulrah_ready_5070
 walkanim=zulrah_ready_5070
 op2=Attack
@@ -40057,6 +40068,7 @@ vislevel=725
 [zulrah_2043]
 name=Zulrah
 model1=zulrah_14409
+model2=zulrah_41455
 readyanim=zulrah_ready_5070
 walkanim=zulrah_ready_5070
 op2=Attack
@@ -40066,6 +40078,7 @@ vislevel=725
 [zulrah_2044]
 name=Zulrah
 model1=zulrah_14407
+model2=zulrah_41456
 readyanim=zulrah_ready_5070
 walkanim=zulrah_ready_5070
 op2=Attack
@@ -51866,6 +51879,7 @@ model2=king_black_dragon_17415
 model3=king_black_dragon_17429
 model4=king_black_dragon_17422
 model5=steel_dragon_17423
+model6=king_black_dragon_41464
 head1=king_black_dragon_17546
 readyanim=king_black_dragon_ready_90
 walkanim=king_black_dragon_walk_4635
@@ -57001,6 +57015,7 @@ name=Stray dog
 model1=stray_dog_18168
 model2=stray_dog_18170
 model3=stray_dog_18167
+model4=stray_dog_41465
 readyanim=stray_dog_ready_4777
 walkanim=stray_dog_walk_4773
 op4=Shoo-away
@@ -57314,6 +57329,7 @@ name=Stray dog
 model1=stray_dog_18168
 model2=stray_dog_18170
 model3=stray_dog_18167
+model4=stray_dog_41465
 readyanim=stray_dog_ready_4777
 walkanim=stray_dog_walk_4773
 recol1s=33
@@ -60764,6 +60780,7 @@ drawpriority=yes
 [hellpuppy_3099]
 name=Hellpuppy
 model1=hellpuppy_29240
+model2=hellpuppy_41447
 head1=hellpuppy_29392
 readyanim=hellhound_6561
 walkanim=dog_walk_6560
@@ -61399,6 +61416,7 @@ ambient=40
 [tztok_jad_3127]
 name=TzTok-Jad
 model1=tzrek_jad_9319
+model2=tztok_jad_41469
 readyanim=tztok_jad_ready_2650
 walkanim=tztok_jad_walk_2651
 op2=Attack
@@ -70852,11 +70870,10 @@ name=Boneguard
 model1=boneguard_10972
 head1=boneguard_11016
 readyanim=boneguard_ready_3073
-walkanim=boneguard_walk_3078
+walkanim=boneguard_ready_3073
 op2=Talk-to
 size=2
 vislevel=0
-turnspeed=0
 
 [pile_of_bones_3571]
 name=Pile of bones
@@ -70864,7 +70881,6 @@ model1=pile_of_bones_10874
 op1=Climb-over
 size=2
 vislevel=0
-turnspeed=0
 
 [desert_spirit_3572]
 name=Desert Spirit
@@ -76290,6 +76306,7 @@ name=Stray dog
 model1=stray_dog_18168
 model2=stray_dog_18169
 model3=stray_dog_18167
+model4=stray_dog_41465
 readyanim=stray_dog_ready_4777
 walkanim=stray_dog_walk_4773
 vislevel=0
@@ -76300,6 +76317,7 @@ name=Stray dog
 model1=stray_dog_18169
 model2=stray_dog_18168
 model3=stray_dog_18167
+model4=stray_dog_41465
 readyanim=stray_dog_ready_4777
 walkanim=stray_dog_walk_4773
 recol1s=33
@@ -103737,6 +103755,7 @@ vislevel=0
 [imp_5007]
 name=Imp
 model1=imp_19982
+model2=imp_41458
 head1=imp_20045
 readyanim=imp_ready_171
 walkanim=imp_walk_168
@@ -119850,6 +119869,7 @@ model1=giant_mole_12076
 model2=giant_mole_12075
 model3=giant_mole_12074
 model4=giant_mole_12077
+model5=giant_mole_41450
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=118
@@ -121268,6 +121288,7 @@ visonmap=no
 [cerberus_5862]
 name=Cerberus
 model1=cerberus_29270
+model2=cerberus_41449
 readyanim=cerberus_ready_4484
 walkanim=cerberus_walk_4488
 op2=Attack
@@ -121277,6 +121298,7 @@ vislevel=318
 [cerberus_5863]
 name=Cerberus
 model1=cerberus_29270
+model2=cerberus_41449
 readyanim=cerberus_ready_4485
 walkanim=cerberus_walk_4488
 size=5
@@ -121330,6 +121352,7 @@ drawpriority=yes
 [cerberus_5866]
 name=Cerberus
 model1=cerberus_29270
+model2=cerberus_41449
 readyanim=cerberus_ready_4484
 walkanim=cerberus_walk_4488
 size=5
@@ -121770,6 +121793,7 @@ drawpriority=yes
 [tzrek_jad_5892]
 name=TzRek-Jad
 model1=tzrek_jad_9319
+model2=tztok_jad_41469
 head1=tzrek_jad_29320
 readyanim=tztok_jad_ready_2650
 walkanim=tzrek_jad_walk_5805
@@ -121784,6 +121808,7 @@ ambient=60
 [tzrek_jad_5893]
 name=TzRek-Jad
 model1=tzrek_jad_9319
+model2=tztok_jad_41469
 head1=tzrek_jad_29320
 readyanim=tztok_jad_ready_2650
 walkanim=tzrek_jad_walk_5805
@@ -123227,6 +123252,7 @@ vislevel=0
 [pet_rock_5983]
 name=<col=ff9040>Pet rock</col>
 model1=pet_rock_4271
+model2=pet_rock_41452
 recol1s=-6242
 recol1d=41
 op1=Take
@@ -126023,18 +126049,60 @@ multinpc=2,chicken_3564
 
 [boneguard_multi_6144]
 readyanim=boneguard_ready_3073
+walkanim=boneguard_ready_3073
 vislevel=13
 multivar=varbit_1560
+multinpc=default,pile_of_bones_3571
 multinpc=0,boneguard_3570
+multinpc=1,boneguard_3570
+multinpc=2,boneguard_3570
+multinpc=3,boneguard_3570
+multinpc=4,boneguard_3570
+multinpc=5,boneguard_3570
+multinpc=6,boneguard_3570
+multinpc=7,boneguard_3570
+multinpc=8,boneguard_3570
+multinpc=9,boneguard_3570
 multinpc=10,boneguard_3570
+multinpc=11,boneguard_3570
+multinpc=12,boneguard_3570
+multinpc=13,boneguard_3570
+multinpc=14,boneguard_3570
+multinpc=15,boneguard_3570
+multinpc=16,boneguard_3570
+multinpc=17,boneguard_3570
+multinpc=18,boneguard_3570
+multinpc=19,boneguard_3570
 multinpc=20,boneguard_3570
+multinpc=21,boneguard_3570
+multinpc=22,boneguard_3570
+multinpc=23,boneguard_3570
+multinpc=24,boneguard_3570
+multinpc=25,boneguard_3570
+multinpc=26,boneguard_3570
+multinpc=27,boneguard_3570
+multinpc=28,boneguard_3570
+multinpc=29,boneguard_3570
 multinpc=30,boneguard_3570
+multinpc=31,boneguard_3570
+multinpc=32,boneguard_3570
+multinpc=33,boneguard_3570
+multinpc=34,boneguard_3570
+multinpc=35,boneguard_3570
+multinpc=36,boneguard_3570
+multinpc=37,boneguard_3570
+multinpc=38,boneguard_3570
+multinpc=39,boneguard_3570
 multinpc=40,boneguard_3570
-multinpc=50,pile_of_bones_3571
-multinpc=60,pile_of_bones_3571
-multinpc=65,pile_of_bones_3571
-multinpc=70,pile_of_bones_3571
-turnspeed=0
+multinpc=41,boneguard_3570
+multinpc=42,boneguard_3570
+multinpc=43,boneguard_3570
+multinpc=44,boneguard_3570
+multinpc=45,boneguard_3570
+multinpc=46,boneguard_3570
+multinpc=47,boneguard_3570
+multinpc=48,boneguard_3570
+multinpc=49,boneguard_3570
 
 [crust_of_ice_multi_6145]
 size=2
@@ -131480,6 +131548,7 @@ model1=giant_mole_12076
 model2=giant_mole_12075
 model3=giant_mole_12074
 model4=giant_mole_12077
+model5=giant_mole_41450
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=118
@@ -131519,6 +131588,7 @@ model2=king_black_dragon_17415
 model3=king_black_dragon_17429
 model4=king_black_dragon_17422
 model5=steel_dragon_17423
+model6=king_black_dragon_41464
 readyanim=king_black_dragon_ready_90
 walkanim=king_black_dragon_walk_4635
 op2=Attack
@@ -131561,6 +131631,7 @@ vislevel=305
 [tztok_jad_6506]
 name=TzTok-Jad
 model1=tzrek_jad_9319
+model2=tztok_jad_41469
 readyanim=tztok_jad_ready_2650
 walkanim=tztok_jad_walk_2651
 op2=Attack
@@ -133321,6 +133392,7 @@ ambient=25
 [mammoth_6604]
 name=Mammoth
 model1=mammoth_3005
+model2=mammoth_41463
 readyanim=mammoth_ready_306
 walkanim=mammoth_walk_303
 resizeh=125
@@ -133871,6 +133943,7 @@ follower=yes
 [baby_mole_6635]
 name=Baby Mole
 model1=baby_mole_12073
+model2=baby_mole_41451
 head1=baby_mole_28863
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
@@ -133891,6 +133964,7 @@ model2=king_black_dragon_17415
 model3=king_black_dragon_17429
 model4=king_black_dragon_17422
 model5=steel_dragon_17423
+model6=king_black_dragon_41464
 head1=prince_black_dragon_28865
 readyanim=king_black_dragon_ready_90
 walkanim=king_black_dragon_walk_4635
@@ -133962,6 +134036,7 @@ follower=yes
 [kraken_6640]
 name=Kraken
 model1=cave_kraken_28231
+model2=kraken_41466
 head1=kraken_28861
 readyanim=cave_kraken_ready_3989
 walkanim=cave_kraken_ready_3989
@@ -134226,6 +134301,7 @@ drawpriority=yes
 [baby_mole_6651]
 name=Baby Mole
 model1=baby_mole_12073
+model2=baby_mole_41451
 head1=baby_mole_28863
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
@@ -134245,6 +134321,7 @@ model2=king_black_dragon_17415
 model3=king_black_dragon_17429
 model4=king_black_dragon_17422
 model5=steel_dragon_17423
+model6=king_black_dragon_41464
 head1=prince_black_dragon_28865
 readyanim=king_black_dragon_ready_90
 walkanim=king_black_dragon_walk_4635
@@ -134309,6 +134386,7 @@ contrast=25
 [kraken_6656]
 name=Kraken
 model1=cave_kraken_28231
+model2=kraken_41466
 head1=kraken_28861
 readyanim=cave_kraken_ready_3989
 walkanim=cave_kraken_ready_3989
@@ -134324,6 +134402,7 @@ contrast=30
 [pet_rock_6657]
 name=Pet rock
 model1=pet_rock_4271
+model2=pet_rock_41452
 op3=Pick-up
 vislevel=0
 visonmap=no
@@ -148399,6 +148478,7 @@ vislevel=0
 [giant_squirrel_7334]
 name=Giant Squirrel
 model1=dark_squirrel_32206
+model2=giant_squirrel_41446
 head1=giant_squirrel_32209
 readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
@@ -148668,6 +148748,7 @@ visonmap=no
 [giant_squirrel_7351]
 name=Giant Squirrel
 model1=dark_squirrel_32206
+model2=giant_squirrel_41446
 head1=giant_squirrel_32209
 readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
@@ -152397,6 +152478,7 @@ vislevel=0
 [olmlet_7519]
 name=Olmlet
 model1=olmlet_32697
+model2=olmlet_41460
 head1=olmlet_32775
 readyanim=olmlet_ready_7396
 walkanim=olmlet_walk_7395
@@ -152410,6 +152492,7 @@ visonmap=no
 [olmlet_7520]
 name=Olmlet
 model1=olmlet_32697
+model2=olmlet_41460
 head1=olmlet_32775
 readyanim=olmlet_ready_7396
 walkanim=olmlet_walk_7395
@@ -155459,6 +155542,7 @@ vislevel=141
 [tzkal_zuk_7706]
 name=TzKal-Zuk
 model1=tzkal_zuk_33011
+model2=tzkal_zuk_41444
 readyanim=tzkal_zuk_ready_7564
 op2=Attack
 size=7
@@ -161805,6 +161889,7 @@ contrast=30
 [tzrek_zuk_8009]
 name=TzRek-Zuk
 model1=tzrek_zuk_34586
+model2=tzrek_zuk_41461
 head1=tzrek_zuk_34587
 readyanim=tzrek_zuk_ready_7975
 walkanim=tzrek_zuk_walk_7977
@@ -161837,6 +161922,7 @@ follower=yes
 [tzrek_zuk_8011]
 name=TzRek-Zuk
 model1=tzrek_zuk_34586
+model2=tzrek_zuk_41461
 head1=tzrek_zuk_34587
 readyanim=tzrek_zuk_ready_7975
 walkanim=tzrek_zuk_walk_7977
@@ -162071,6 +162157,7 @@ visonmap=no
 [vorki_8025]
 name=Vorki
 model1=vorki_35023
+model2=vorki_41468
 head1=vorki_35024
 readyanim=vorki_ready_7948
 walkanim=vorki_walk_7959
@@ -162140,6 +162227,7 @@ follower=yes
 [vorki_8029]
 name=Vorki
 model1=vorki_35023
+model2=vorki_41468
 head1=vorki_35024
 readyanim=vorki_ready_7948
 walkanim=vorki_walk_7959
@@ -162870,6 +162958,7 @@ vislevel=194
 [vorkath_8058]
 name=Vorkath
 model1=vorki_35023
+model2=vorki_41468
 readyanim=vorkath_ready_7946
 walkanim=vorkath_ready_7946
 resizeh=104
@@ -162882,6 +162971,7 @@ turnspeed=1024
 [vorkath_8059]
 name=Vorkath
 model1=vorki_35023
+model2=vorki_41468
 readyanim=vorkath_ready_7946
 walkanim=vorkath_ready_7946
 resizeh=104
@@ -162895,6 +162985,7 @@ turnspeed=1024
 [vorkath_8060]
 name=Vorkath
 model1=vorki_35023
+model2=vorki_41468
 readyanim=vorki_ready_7948
 walkanim=vorkath_walk_7947
 resizeh=104
@@ -162907,6 +162998,7 @@ drawpriority=yes
 [vorkath_8061]
 name=Vorkath
 model1=vorki_35023
+model2=vorki_41468
 readyanim=vorki_ready_7948
 walkanim=vorkath_walk_7947
 resizeh=104
@@ -190310,6 +190402,7 @@ vislevel=218
 [maz_9298]
 name=Maz
 model1=squirrel_11723
+model2=maz_41462
 head1=squirrel_34012
 readyanim=squirrel_3212
 walkanim=squirrel_walk_3210
@@ -192582,6 +192675,7 @@ multinpc=1,man_3106
 [little_nightmare_9398]
 name=Little Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 head1=little_nightmare_39193
 readyanim=little_nightmare_ready_8593
 walkanim=little_nightmare_walk_8634
@@ -192595,6 +192689,7 @@ visonmap=no
 [little_nightmare_9399]
 name=Little Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 head1=little_nightmare_39193
 readyanim=little_nightmare_ready_8593
 walkanim=little_nightmare_walk_8634
@@ -192900,6 +192995,7 @@ visonmap=no
 [phosanis_nightmare_9416]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39182
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -192914,6 +193010,7 @@ param=param_510,Phosani's Nightmare
 [phosanis_nightmare_9417]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39186
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -192928,6 +193025,7 @@ param=param_510,Phosani's Nightmare
 [phosanis_nightmare_9418]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39188
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -192942,6 +193040,7 @@ param=param_510,Phosani's Nightmare
 [phosanis_nightmare_9419]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -192956,6 +193055,7 @@ param=param_510,Phosani's Nightmare
 [phosanis_nightmare_9420]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39185
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -192970,6 +193070,7 @@ param=param_510,Phosani's Nightmare
 [phosanis_nightmare_9421]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39195
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -192998,6 +193099,7 @@ param=param_510,Phosani's Nightmare
 [phosanis_nightmare_9423]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=phosanis_nightmare_ready_8613
 walkanim=phosanis_nightmare_ready_8613
 size=5
@@ -193011,6 +193113,7 @@ param=param_510,Phosani's Nightmare
 [phosanis_nightmare_9424]
 name=Phosani's Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=phosanis_nightmare_ready_8613
 walkanim=phosanis_nightmare_ready_8613
 size=5
@@ -193022,6 +193125,7 @@ contrast=100
 [the_nightmare_9425]
 name=The Nightmare
 model1=phosanis_nightmare_39182
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -193036,6 +193140,7 @@ param=param_510,The Nightmare
 [the_nightmare_9426]
 name=The Nightmare
 model1=phosanis_nightmare_39186
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -193050,6 +193155,7 @@ param=param_510,The Nightmare
 [the_nightmare_9427]
 name=The Nightmare
 model1=phosanis_nightmare_39188
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -193064,6 +193170,7 @@ param=param_510,The Nightmare
 [the_nightmare_9428]
 name=The Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -193078,6 +193185,7 @@ param=param_510,The Nightmare
 [the_nightmare_9429]
 name=The Nightmare
 model1=phosanis_nightmare_39185
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -193092,6 +193200,7 @@ param=param_510,The Nightmare
 [the_nightmare_9430]
 name=The Nightmare
 model1=phosanis_nightmare_39195
+model2=phosanis_nightmare_41454
 readyanim=little_nightmare_ready_8593
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -193106,6 +193215,7 @@ param=param_510,The Nightmare
 [the_nightmare_9431]
 name=The Nightmare
 model1=phosanis_nightmare_39208
+model2=phosanis_nightmare_41454
 readyanim=phosanis_nightmare_ready_8603
 walkanim=phosanis_nightmare_walk_8592
 op2=Attack
@@ -193120,6 +193230,7 @@ param=param_510,The Nightmare
 [the_nightmare_9432]
 name=The Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=phosanis_nightmare_ready_8613
 walkanim=phosanis_nightmare_ready_8613
 size=5
@@ -193133,6 +193244,7 @@ param=param_510,The Nightmare
 [the_nightmare_9433]
 name=The Nightmare
 model1=phosanis_nightmare_39196
+model2=phosanis_nightmare_41454
 readyanim=phosanis_nightmare_ready_8613
 walkanim=phosanis_nightmare_ready_8613
 size=5
@@ -193437,6 +193549,7 @@ drawpriority=yes
 [the_nightmare_9460]
 name=The Nightmare
 model1=the_nightmare_39184
+model2=phosanis_nightmare_41454
 readyanim=the_nightmare_ready_8582
 walkanim=the_nightmare_ready_8582
 op1=Disturb
@@ -193451,6 +193564,7 @@ turnspeed=0
 [the_nightmare_9461]
 name=The Nightmare
 model1=the_nightmare_39190
+model2=phosanis_nightmare_41454
 readyanim=the_nightmare_ready_8574
 walkanim=the_nightmare_ready_8574
 op1=Disturb
@@ -193465,6 +193579,7 @@ turnspeed=0
 [the_nightmare_9462]
 name=The Nightmare
 model1=the_nightmare_39187
+model2=phosanis_nightmare_41454
 readyanim=the_nightmare_ready_8577
 walkanim=the_nightmare_ready_8577
 op1=Disturb
@@ -193480,6 +193595,7 @@ turnspeed=0
 [the_nightmare_9463]
 name=The Nightmare
 model1=the_nightmare_39192
+model2=phosanis_nightmare_41454
 readyanim=the_nightmare_ready_8578
 walkanim=the_nightmare_ready_8578
 op1=Disturb
@@ -193495,6 +193611,7 @@ turnspeed=0
 [the_nightmare_9464]
 name=The Nightmare
 model1=the_nightmare_39191
+model2=phosanis_nightmare_41454
 readyanim=the_nightmare_ready_8579
 walkanim=the_nightmare_ready_8579
 op1=Disturb
@@ -197385,6 +197502,7 @@ vislevel=0
 [dark_squirrel_9637]
 name=Dark Squirrel
 model1=dark_squirrel_32206
+model2=giant_squirrel_41446
 head1=giant_squirrel_32209
 readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
@@ -197412,6 +197530,7 @@ follower=yes
 [dark_squirrel_9638]
 name=Dark Squirrel
 model1=dark_squirrel_32206
+model2=giant_squirrel_41446
 head1=giant_squirrel_32209
 readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
@@ -197785,6 +197904,7 @@ vislevel=126
 [giant_squirrel_9666]
 name=Giant Squirrel
 model1=dark_squirrel_32206
+model2=giant_squirrel_41446
 head1=giant_squirrel_32209
 resizeh=110
 resizev=110
@@ -199217,6 +199337,7 @@ visonmap=no
 [frank_9749]
 name=Frank
 model1=bloodveld_5065
+model2=frank_41445
 readyanim=bloodveld_ready_1551
 walkanim=acidic_bloodveld_walk_8650
 resizeh=112
@@ -199231,6 +199352,8 @@ recol4s=2332
 recol4d=11160
 recol5s=3379
 recol5d=13619
+recol6s=933
+recol6d=12
 op1=Pet
 vislevel=0
 
@@ -208365,4 +208488,700 @@ op5=Remove
 vislevel=0
 visonmap=no
 turnspeed=1024
+
+[fishing_spot_10513]
+name=Fishing spot
+model1=fishing_spot_41238
+readyanim=fishing_spot_ready_7634
+walkanim=fishing_spot_ready_7634
+op1=Net
+op3=Bait
+op4=hidden
+op5=hidden
+vislevel=0
+visonmap=no
+ambient=20
+contrast=20
+
+[fishing_spot_10514]
+name=Fishing spot
+model1=fishing_spot_41238
+readyanim=fishing_spot_ready_7634
+walkanim=fishing_spot_ready_7634
+op1=Net
+op3=Harpoon
+op4=hidden
+op5=hidden
+vislevel=0
+visonmap=no
+ambient=20
+contrast=20
+
+[fishing_spot_10515]
+name=Fishing spot
+model1=fishing_spot_41238
+readyanim=fishing_spot_ready_7634
+walkanim=fishing_spot_ready_7634
+op1=Cage
+op3=Harpoon
+op4=hidden
+op5=hidden
+vislevel=0
+visonmap=no
+ambient=20
+contrast=20
+
+[nomad_10516]
+name=Nomad
+model1=nomad_28420
+head1=nomad_41425
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+op1=Talk-to
+op3=Leave-tutorial
+vislevel=0
+drawpriority=yes
+
+[zimberfizz_10517]
+name=Zimberfizz
+model1=zimberfizz_41237
+head1=zimberfizz_41426
+readyanim=imp_ready_171
+walkanim=imp_walk_168
+op2=Attack
+vislevel=0
+drawpriority=yes
+
+[zimberfizz_10518]
+name=Zimberfizz
+model1=zimberfizz_41237
+head1=zimberfizz_41426
+readyanim=imp_ready_171
+walkanim=imp_walk_168
+op2=Attack
+vislevel=0
+drawpriority=yes
+
+[zimberfizz_10519]
+name=Zimberfizz
+model1=zimberfizz_41237
+head1=zimberfizz_41426
+readyanim=imp_ready_171
+walkanim=imp_walk_168
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[avatar_of_creation_10520]
+name=Avatar of Creation
+model1=avatar_of_creation_41240
+readyanim=avatar_of_creation_ready_8842
+walkanim=avatar_of_creation_walk_8843
+size=5
+vislevel=525
+drawpriority=yes
+
+[avatar_of_destruction_10521]
+name=Avatar of Destruction
+model1=avatar_of_destruction_41242
+readyanim=avatar_of_destruction_ready_3079
+walkanim=avatar_of_destruction_walk_3082
+size=5
+vislevel=525
+drawpriority=yes
+
+[wolf_10522]
+name=Wolf
+model1=ice_wolf_26266
+readyanim=ice_wolf_6580
+walkanim=wolf_walk_6556
+recol1s=5268
+recol1d=24
+recol2s=5285
+recol2d=5161
+recol3s=5289
+recol3d=5165
+recol4s=5293
+recol4d=5169
+recol5s=8373
+recol5d=7232
+recol6s=8390
+recol6d=10314
+op1=Attack
+size=2
+vislevel=79
+
+[forgotten_soul_10523]
+name=Forgotten Soul
+model1=tormented_soul_36156
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op1=Attack
+vislevel=46
+ambient=20
+contrast=20
+
+[forgotten_soul_10524]
+name=Forgotten Soul
+model1=tormented_soul_36157
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op1=Attack
+vislevel=46
+ambient=20
+contrast=20
+
+[forgotten_soul_10525]
+name=Forgotten Soul
+model1=tormented_soul_36156
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op1=Attack
+vislevel=76
+ambient=20
+contrast=20
+
+[forgotten_soul_10526]
+name=Forgotten Soul
+model1=tormented_soul_36157
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op1=Attack
+vislevel=76
+ambient=20
+contrast=20
+
+[npc_10527]
+model1=ice_ledge_6318
+resizeh=1
+resizev=1
+vislevel=0
+active=no
+visonmap=no
+
+[nomad_10528]
+name=Nomad
+model1=nomad_28420
+head1=nomad_41425
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[nomad_10529]
+name=Nomad
+model1=nomad_28420
+head1=nomad_41425
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+op1=Talk-to
+op3=Trade
+vislevel=0
+drawpriority=yes
+
+[zimberfizz_10530]
+name=Zimberfizz
+model1=zimberfizz_41237
+head1=zimberfizz_41426
+readyanim=imp_ready_171
+walkanim=imp_walk_168
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[avatar_of_creation_10531]
+name=Avatar of Creation
+model1=avatar_of_creation_41240
+readyanim=avatar_of_creation_ready_8842
+walkanim=avatar_of_creation_walk_8843
+op2=Attack
+size=5
+vislevel=525
+drawpriority=yes
+
+[avatar_of_destruction_10532]
+name=Avatar of Destruction
+model1=avatar_of_destruction_41242
+readyanim=avatar_of_destruction_ready_3079
+walkanim=avatar_of_destruction_walk_3082
+op2=Attack
+size=5
+vislevel=525
+drawpriority=yes
+
+[wolf_10533]
+name=Wolf
+model1=ice_wolf_26266
+readyanim=ice_wolf_6580
+walkanim=wolf_walk_6556
+recol1s=5268
+recol1d=24
+recol2s=5285
+recol2d=5161
+recol3s=5289
+recol3d=5165
+recol4s=5293
+recol4d=5169
+recol5s=8373
+recol5d=7232
+recol6s=8390
+recol6d=10314
+op2=Attack
+size=2
+vislevel=79
+
+[forgotten_soul_10534]
+name=Forgotten Soul
+model1=tormented_soul_36156
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op2=Attack
+vislevel=46
+ambient=20
+contrast=20
+
+[forgotten_soul_10535]
+name=Forgotten Soul
+model1=tormented_soul_36157
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op2=Attack
+vislevel=46
+ambient=20
+contrast=20
+
+[forgotten_soul_10536]
+name=Forgotten Soul
+model1=tormented_soul_36156
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op2=Attack
+vislevel=76
+ambient=20
+contrast=20
+
+[forgotten_soul_10537]
+name=Forgotten Soul
+model1=tormented_soul_36157
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op2=Attack
+vislevel=76
+ambient=20
+contrast=20
+
+[ghost_10538]
+name=Ghost
+model1=ghost_21154
+head1=klenter_21394
+readyanim=ghost_ready_5538
+walkanim=ghost_walk_5539
+vislevel=0
+ambient=20
+contrast=20
+
+[barricade_10539]
+name=<col=00ffff>Barricade</col>
+model1=barricade_41257
+op2=Attack
+vislevel=0
+visonmap=no
+ambient=20
+
+[barricade_10540]
+name=<col=00ffff>Barricade</col>
+model1=barricade_41246
+op2=Attack
+vislevel=0
+visonmap=no
+ambient=20
+
+[bird_10541]
+name=Bird
+model1=bird_26849
+model2=gull_26844
+readyanim=gull_ready_6771
+walkanim=gull_walk_6773
+op2=Attack
+vislevel=5
+ambient=20
+turnspeed=64
+
+[npc_10542]
+model1=model_41438
+readyanim=wingman_skree_ready_6952
+walkanim=wingman_skree_walk_6953
+size=2
+vislevel=0
+active=no
+visonmap=no
+drawpriority=yes
+
+[npc_10543]
+model1=model_41236
+readyanim=ork_ready_4318
+walkanim=ork_walk_4319
+vislevel=0
+active=no
+visonmap=no
+drawpriority=yes
+
+[forgotten_soul_10544]
+name=Forgotten soul
+model1=ghost_21144
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op2=Attack
+vislevel=20
+ambient=20
+contrast=20
+
+[forgotten_soul_10545]
+name=Forgotten soul
+model1=ghost_21148
+readyanim=ghost_ready_5530
+walkanim=ghost_walk_5531
+op2=Attack
+vislevel=20
+ambient=20
+contrast=20
+
+[duck_10546]
+name=Duck
+model1=duck_26873
+readyanim=duck_ready_6818
+walkanim=duck_walk_6817
+vislevel=0
+visonmap=no
+
+[duck_10547]
+name=Duck
+model1=duck_26870
+readyanim=duck_ready_6818
+walkanim=duck_walk_6817
+vislevel=0
+visonmap=no
+
+[nomad_multi_10548]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=0
+multivar=varbit_3798
+multinpc=0,nomad_10516
+drawpriority=yes
+
+[nomad_multi_10549]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=0
+multivar=varbit_3798
+multinpc=1,nomad_10516
+drawpriority=yes
+
+[nomad_multi_10550]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=0
+multivar=varbit_3798
+multinpc=2,nomad_10516
+multinpc=3,nomad_10516
+multinpc=4,nomad_10516
+multinpc=5,nomad_10516
+drawpriority=yes
+
+[nomad_multi_10551]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=0
+multivar=varbit_3798
+multinpc=6,nomad_10516
+multinpc=7,nomad_10516
+multinpc=8,nomad_10516
+multinpc=9,nomad_10516
+multinpc=10,nomad_10516
+multinpc=11,nomad_10516
+multinpc=12,nomad_10516
+drawpriority=yes
+
+[nomad_multi_10552]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=0
+multivar=varbit_3798
+multinpc=13,nomad_10516
+drawpriority=yes
+
+[nomad_multi_10553]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=0
+multivar=varbit_3798
+multinpc=14,nomad_10516
+multinpc=15,nomad_10516
+multinpc=16,nomad_10516
+drawpriority=yes
+
+[zimberfizz_multi_10554]
+readyanim=imp_ready_171
+walkanim=imp_walk_168
+vislevel=1
+multivar=varbit_3798
+multinpc=9,zimberfizz_10519
+multinpc=10,zimberfizz_10519
+multinpc=11,zimberfizz_10519
+multinpc=12,zimberfizz_10519
+multinpc=13,zimberfizz_10519
+multinpc=14,zimberfizz_10519
+multinpc=15,zimberfizz_10519
+drawpriority=yes
+
+[nomad_multi_10555]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=1
+multivar=varbit_3804
+multinpc=default,nomad_10529
+multinpc=0,nomad_10528
+drawpriority=yes
+
+[scrubfoot_multi_10556]
+readyanim=goblin_ready_6181
+walkanim=goblin_walk_6180
+resizeh=108
+resizev=108
+recol1s=916
+recol1d=6798
+vislevel=0
+multivar=varbit_11718
+multinpc=0,scrubfoot_10558
+multinpc=1,scrubfoot_10558
+multinpc=2,scrubfoot_10558
+multinpc=3,scrubfoot_10558
+multinpc=4,scrubfoot_10558
+multinpc=5,scrubfoot_10558
+drawpriority=yes
+
+[scrubfoot_multi_10557]
+readyanim=goblin_ready_6181
+walkanim=goblin_walk_6180
+resizeh=108
+resizev=108
+recol1s=916
+recol1d=6798
+vislevel=0
+multivar=varbit_11726
+multinpc=0,scrubfoot_10558
+drawpriority=yes
+
+[scrubfoot_10558]
+name=Scrubfoot
+model1=goblin_24435
+model2=grubfoot_24442
+model3=goblin_24452
+model4=goblin_24455
+model5=goblin_24472
+model6=grubfoot_24487
+head1=goblin_24209
+readyanim=goblin_ready_6181
+walkanim=goblin_walk_6180
+resizeh=108
+resizev=108
+recol1s=6331
+recol1d=4932
+recol2s=6323
+recol2d=4923
+recol3s=6348
+recol3d=5068
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[scrubfoot_10559]
+name=Scrubfoot
+model1=goblin_24435
+model2=grubfoot_24442
+model3=goblin_24452
+model4=goblin_24455
+model5=goblin_24472
+model6=grubfoot_24487
+head1=goblin_24209
+readyanim=goblin_cook_ready_3401
+walkanim=goblin_cook_ready_3401
+resizeh=108
+resizev=108
+recol1s=6331
+recol1d=4932
+recol2s=6323
+recol2d=4923
+recol3s=6348
+recol3d=5068
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[red_fireflies_multi_10560]
+readyanim=giant_mosquito_ready_2395
+walkanim=giant_mosquito_walk_2396
+recol1s=6430
+recol1d=964
+recol2s=4506
+recol2d=929
+vislevel=0
+multivar=varbit_11726
+multinpc=2,red_fireflies_10562
+multinpc=3,red_fireflies_10561
+multinpc=4,red_fireflies_10561
+drawpriority=yes
+ambient=70
+contrast=70
+
+[red_fireflies_10561]
+name=Red fireflies
+model1=mosquito_swarm_8905
+readyanim=will_o_the_wisp_ready_1071
+walkanim=will_o_the_wisp_ready_1071
+recol1s=6430
+recol1d=964
+recol2s=4506
+recol2d=929
+vislevel=0
+drawpriority=yes
+ambient=70
+contrast=70
+
+[red_fireflies_10562]
+name=Red fireflies
+model1=mosquito_swarm_8905
+readyanim=will_o_the_wisp_ready_1071
+walkanim=will_o_the_wisp_ready_1071
+recol1s=6430
+recol1d=964
+recol2s=4506
+recol2d=929
+op1=Catch
+vislevel=0
+drawpriority=yes
+ambient=70
+contrast=70
+
+[green_fireflies_multi_10563]
+readyanim=giant_mosquito_ready_2395
+walkanim=giant_mosquito_walk_2396
+recol1s=6430
+recol1d=21454
+recol2s=4506
+recol2d=21415
+vislevel=0
+multivar=varbit_11726
+multinpc=2,green_fireflies_10565
+multinpc=3,green_fireflies_10564
+multinpc=4,green_fireflies_10564
+drawpriority=yes
+
+[green_fireflies_10564]
+name=Green fireflies
+model1=mosquito_swarm_8905
+readyanim=giant_mosquito_ready_2395
+walkanim=giant_mosquito_walk_2396
+recol1s=6430
+recol1d=21454
+recol2s=4506
+recol2d=21415
+vislevel=0
+drawpriority=yes
+
+[green_fireflies_10565]
+name=Green fireflies
+model1=mosquito_swarm_8905
+readyanim=giant_mosquito_ready_2395
+walkanim=giant_mosquito_walk_2396
+recol1s=6430
+recol1d=21454
+recol2s=4506
+recol2d=21415
+op1=Catch
+vislevel=0
+drawpriority=yes
+
+[goblin_10566]
+name=Goblin
+model1=goblin_24435
+model2=goblin_24441
+model3=goblin_24452
+model4=goblin_24455
+model5=goblin_24472
+model6=goblin_24485
+model7=goblin_24509
+head1=goblin_24209
+readyanim=goblin_ready_6186
+walkanim=goblin_walk_6187
+resizeh=130
+resizev=130
+recol1s=6331
+recol1d=22414
+recol2s=6323
+recol2d=22410
+recol3s=12060
+recol3d=9891
+recol4s=11941
+recol4d=9767
+vislevel=0
+ambient=15
+
+[goblin_10567]
+name=Goblin
+model1=goblin_24432
+model2=goblin_24443
+model3=goblin_24449
+model4=goblin_24465
+model5=goblin_24476
+model6=goblin_24483
+model7=goblin_24505
+model8=goblin_24506
+head1=goblin_24217
+readyanim=goblin_ready_6181
+walkanim=goblin_walk_6180
+resizeh=121
+resizev=121
+recol1s=6331
+recol1d=916
+recol2s=6323
+recol2d=912
+recol3s=11941
+recol3d=10782
+recol4s=11045
+recol4d=11038
+vislevel=0
+ambient=15
 

@@ -228,7 +228,7 @@ onload="script54(event_com)"
 
 [interface_370:18]
 type=^iftype_layer
-y=170
+y=205
 width=20
 height=36
 hposmode=^setpos_abs_centre
@@ -239,7 +239,7 @@ onload="script54(event_com)"
 
 [interface_370:19]
 type=^iftype_layer
-y=205
+y=170
 width=20
 height=36
 hposmode=^setpos_abs_centre

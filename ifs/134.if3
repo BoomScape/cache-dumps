@@ -208,6 +208,8 @@ vsizemode=^setsize_minus
 layer=interface_134:21
 fill=yes
 trans=255
+optionmask=2
+op1="Close dropdown"
 
 [interface_134:25]
 type=^iftype_layer
