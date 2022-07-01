@@ -41853,3 +41853,8 @@ basevar=var_1374
 startbit=25
 endbit=25
 
+[varbit_8371]
+basevar=var_675
+startbit=28
+endbit=28
+
