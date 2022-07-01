@@ -28027,6 +28027,8 @@ param=setting_search_keywords_1088,"xptracker,xp tracker,popout xp tracker,popou
 param=setting_desc_1096,"When enabled, you will be able to access the XP tracker through the popout panel."
 param=setting_enhanced_1157,yes
 param=setting_toggle_inverse_1084,yes
+param=param_1115,yes
+param=setting_choose_transmit_1085,yes
 
 [struct_3740]
 param=param_1275,42
@@ -33606,4 +33608,53 @@ param=param_1639,"Unlock this new mould for use in the Giants' Foundry. Higher t
 [giants_foundry_4359]
 param=param_689,Giants' Foundry
 param=param_690,enum_4381
+
+[struct_4360]
+param=setting_id_1077,251
+param=setting_type_1078,0
+param=setting_name_1086,Popout panel
+param=setting_search_keywords_1088,"popout penel,pop out panel"
+param=setting_desc_1096,"When enabled on desktop, show the popout panel. The panel will only be shown if there is a popout enabled."
+param=setting_enhanced_1157,yes
+param=param_739,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_4361]
+param=setting_id_1077,252
+param=setting_type_1078,0
+param=setting_name_1086,Popout panel
+param=setting_search_keywords_1088,"popout penel,pop out panel"
+param=param_1097,"When enabled on mobile, show the popout panel. The panel will only be shown if there is a popout enabled."
+param=setting_enhanced_1157,yes
+param=setting_mobile_740,yes
+
+[struct_4362]
+param=setting_id_1077,253
+param=setting_type_1078,0
+param=setting_name_1086,Show warning on Wilderness teleport levers
+param=setting_search_keywords_1088,"Show warning on Wilderness teleport levers,Edgeville,Ardougne,lever,gameplay,teleports"
+param=setting_choose_transmit_1085,yes
+param=setting_toggle_inverse_1084,yes
+param=setting_desc_1096,"When enabled, shows a warning before using this teleport."
+param=param_1119,yes
+
+[struct_4363]
+param=setting_id_1077,254
+param=setting_type_1078,0
+param=setting_name_1086,Show warning on Wilderness teleport levers on High Risk worlds
+param=setting_search_keywords_1088,"Show warning on Wilderness teleport levers on High Risk worlds,Edgeville,Ardougne,lever,risk,gameplay,teleports"
+param=setting_choose_transmit_1085,yes
+param=setting_toggle_inverse_1084,yes
+param=setting_desc_1096,"When enabled, shows a warning before using this teleport."
+param=param_1119,yes
+
+[struct_4364]
+param=setting_id_1077,255
+param=setting_type_1078,0
+param=setting_name_1086,Show warning on exiting Ferox Enclave
+param=setting_search_keywords_1088,"Show warning on exiting Ferox Enclave,Wilderness,hub,teleblock,safe,zone,gameplay"
+param=setting_choose_transmit_1085,yes
+param=setting_toggle_inverse_1084,yes
+param=setting_desc_1096,"When enabled, shows a warning before exiting Ferox Enclave."
+param=param_1119,yes
 

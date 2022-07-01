@@ -267865,7 +267865,7 @@ model=colossal_blade_44902
 manwear=colossal_blade_44795,0
 womanwear=colossal_blade_44794,0
 category=category_61
-cost=60000
+cost=225000
 2dxof=2
 2dyof=6
 2dxan=492
@@ -267990,4 +267990,88 @@ placeholder=yes
 
 [placeholder_giants_foundry_tester_27034]
 placeholder=yes
+
+[rainbow_flower_crown_27035]
+name=Rainbow flower crown
+model=rainbow_flower_crown_44933
+manwear=rainbow_flower_crown_44923,0
+womanwear=rainbow_flower_crown_44924,0
+manhead=rainbow_flower_crown_44929
+femalehead=rainbow_flower_crown_44930
+2dzoom=526
+2dyof=6
+2dxan=279
+2dyan=60
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_rainbow_flower_crown_27036]
+placeholder=yes
+
+[legendary_red_rose_seed_27037]
+name=Legendary red rose seed
+model=marigold_seed_7238
+cost=0
+2dzoom=730
+2dxof=3
+2dxan=272
+2dyan=1996
+iop5=Destroy
+recol1s=6577
+recol1d=1959
+recol2s=6461
+recol2d=1979
+recol3s=6457
+recol3d=3026
+
+[gorgeous_orange_lily_seed_27038]
+name=Gorgeous orange lily seed
+model=nasturtium_seed_7249
+cost=0
+2dzoom=730
+2dxof=3
+2dxan=272
+2dyan=1996
+iop5=Destroy
+recol1s=6445
+recol1d=7104
+
+[beautiful_yellow_pansy_seed_27039]
+name=Beautiful yellow pansy seed
+model=woad_seed_7347
+cost=0
+2dzoom=730
+2dxof=3
+2dxan=272
+2dyan=1996
+iop5=Destroy
+recol1s=7357
+recol1d=11187
+recol2s=7506
+recol2d=11216
+
+[tenacious_indigo_iris_seed_27040]
+name=Tenacious indigo iris seed
+model=rosemary_seed_7295
+cost=0
+2dzoom=730
+2dxof=3
+2dxan=272
+2dyan=1996
+iop5=Destroy
+recol1s=12700
+recol1d=-19801
+
+[quality_violet_tulip_seed_27041]
+name=Quality violet tulip seed
+model=limpwurt_seed_7222
+cost=0
+2dzoom=730
+2dxof=3
+2dxan=272
+2dyan=1996
+iop5=Destroy
+recol1s=8094
+recol1d=-14405
 
