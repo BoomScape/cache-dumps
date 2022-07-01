@@ -1,13 +1,25 @@
 [interface_131:0]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+
+[interface_131:1]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_131:0
+
+[interface_131:2]
 type=^iftype_text
-y=51
-width=480
+y=45
 height=20
 hposmode=^setpos_abs_centre
-text="Waiting for players to join the other team."
+hsizemode=^setsize_minus
+layer=interface_131:1
 colour=^white
 font=b12_full
 halign=^settextalign_centre
-onload="script883(event_com)"
-onvartransmit="script883(event_com){var_380}"
+onload="script2353(event_com,8585217)"
 

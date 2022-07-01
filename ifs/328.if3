@@ -2,14 +2,13 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1347(event_com,21495810,21495820)"
+onload="script1347(event_com,21495809,21495810,21495820)"
 
 [interface_328:1]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_328:0
-onload="script749(event_com)"
 
 [interface_328:2]
 type=^iftype_layer

@@ -102913,14 +102913,14 @@ placeholder=yes
 
 [lunar_staff_pt1_9091]
 name=Lunar staff - pt1
-model=staff_2648
-manwear=staff_534,0
-womanwear=staff_534,6
+model=dramen_staff_35763
+manwear=dramen_staff_30556,0
+womanwear=dramen_staff_31195,0
 cost=15
-2dzoom=1460
-2dyof=-23
-2dxan=196
-2dyan=1416
+2dzoom=1979
+2dyof=16
+2dxan=377
+2dyan=1481
 iop2=Wield
 iop5=Destroy
 members=yes
@@ -102928,14 +102928,14 @@ placeholder=yes
 
 [lunar_staff_pt2_9092]
 name=Lunar staff - pt2
-model=staff_2648
-manwear=staff_534,0
-womanwear=staff_534,6
+model=dramen_staff_35763
+manwear=dramen_staff_30556,0
+womanwear=dramen_staff_31195,0
 cost=15
-2dzoom=1460
-2dyof=-23
-2dxan=196
-2dyan=1416
+2dzoom=1979
+2dyof=16
+2dxan=377
+2dyan=1481
 iop2=Wield
 iop5=Destroy
 members=yes
@@ -102943,14 +102943,14 @@ placeholder=yes
 
 [lunar_staff_pt3_9093]
 name=Lunar staff - pt3
-model=staff_2648
-manwear=staff_534,0
-womanwear=staff_534,6
+model=dramen_staff_35763
+manwear=dramen_staff_30556,0
+womanwear=dramen_staff_31195,0
 cost=15
-2dzoom=1460
-2dyof=-23
-2dxan=196
-2dyan=1416
+2dzoom=1979
+2dyof=16
+2dxan=377
+2dyan=1481
 iop2=Wield
 iop5=Destroy
 members=yes
@@ -210714,6 +210714,7 @@ model=cabbage_8195
 2dyof=27
 2dxan=284
 2dyan=1800
+bought=yes
 
 [cabbage_22520]
 name=Cabbage
@@ -210723,6 +210724,7 @@ model=cabbage_8195
 2dyof=27
 2dxan=284
 2dyan=1800
+bought=yes
 
 [coin_pouch_22521]
 name=Coin pouch
@@ -211047,4 +211049,10 @@ recol3s=6798
 recol3d=8128
 members=yes
 stackable=yes
+
+[bought_cabbage_22539]
+bought=yes
+
+[bought_cabbage_22540]
+bought=yes
 

@@ -2,6 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script2374(11403266,11403267)"
 
 [interface_174:1]
 type=^iftype_rectangle
@@ -19,14 +20,12 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_174:0
-onload="script749(event_com)"
 
 [interface_174:3]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_174:2
-onload="script867(event_com)"
 
 [interface_174:4]
 type=^iftype_text

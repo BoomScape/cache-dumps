@@ -2,6 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script2383(event_com,25952257,25952258)"
 
 [interface_396:1]
 type=^iftype_layer
@@ -11,14 +12,15 @@ layer=interface_396:0
 
 [interface_396:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_396:0
+x=10
+y=25
+width=200
+height=135
+layer=interface_396:1
 
 [interface_396:3]
 type=^iftype_text
-x=10
-y=40
+y=15
 width=200
 height=18
 layer=interface_396:2
@@ -29,10 +31,9 @@ shadowed=yes
 
 [interface_396:4]
 type=^iftype_layer
-x=10
-y=60
 width=100
 height=100
+vposmode=^setpos_abs_bottom
 layer=interface_396:2
 
 [interface_396:5]
@@ -145,8 +146,6 @@ graphic="wint_icons,0"
 
 [interface_396:16]
 type=^iftype_layer
-x=10
-y=25
 width=200
 height=15
 layer=interface_396:2

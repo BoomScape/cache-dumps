@@ -90,12 +90,11 @@ shadowed=yes
 
 [interface_205:9]
 type=^iftype_layer
+y=40
 width=454
-height=40
+height=235
 hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_205:0
 onload="script695(event_com)"
 

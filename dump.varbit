@@ -28581,7 +28581,7 @@ endbit=12
 [varbit_5716]
 basevar=var_1572
 startbit=13
-endbit=15
+endbit=13
 
 [varbit_5717]
 basevar=var_1316
@@ -32437,4 +32437,24 @@ endbit=11
 basevar=var_1433
 startbit=22
 endbit=23
+
+[varbit_6488]
+basevar=var_1537
+startbit=21
+endbit=21
+
+[varbit_6489]
+basevar=var_1537
+startbit=22
+endbit=26
+
+[varbit_6490]
+basevar=var_1664
+startbit=28
+endbit=28
+
+[varbit_6491]
+basevar=var_1572
+startbit=14
+endbit=14
 

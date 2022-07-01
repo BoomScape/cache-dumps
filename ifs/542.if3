@@ -31,16 +31,22 @@ vsizemode=^setsize_minus
 layer=interface_542:2
 
 [interface_542:4]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_542:3
+
+[interface_542:5]
 type=^iftype_text
 width=85
 height=20
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_542:3
+layer=interface_542:4
 colour=^yellow
 font=b12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
-onload="script953(35520514,35520515,event_com)"
+onload="script953(35520514,35520515,35520516,event_com)"
 

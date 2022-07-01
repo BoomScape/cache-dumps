@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1215(event_com,16121857)"
+onload="script1215(event_com,16121857,16121858,16121893)"
 
 [interface_246:1]
 type=^iftype_layer
@@ -11,8 +11,6 @@ y=1
 width=120
 height=60
 layer=interface_246:0
-onmouseover="script1222(event_com,16121893)"
-onmouseleave="script1224(event_com,16121893)"
 
 [interface_246:2]
 type=^iftype_graphic
@@ -44,6 +42,7 @@ colour=0xff981f
 font=p11_full
 halign=^settextalign_right
 valign=^settextalign_centre
+shadowed=yes
 
 [interface_246:5]
 type=^iftype_text
@@ -58,6 +57,7 @@ colour=0xff981f
 font=p11_full
 halign=^settextalign_right
 valign=^settextalign_centre
+shadowed=yes
 
 [interface_246:6]
 type=^iftype_text
@@ -72,6 +72,7 @@ colour=0xff981f
 font=p11_full
 halign=^settextalign_right
 valign=^settextalign_centre
+shadowed=yes
 
 [interface_246:7]
 type=^iftype_text
@@ -86,6 +87,7 @@ colour=0xff981f
 font=p11_full
 halign=^settextalign_right
 valign=^settextalign_centre
+shadowed=yes
 
 [interface_246:8]
 type=^iftype_text
@@ -100,6 +102,7 @@ colour=0xff981f
 font=p11_full
 halign=^settextalign_right
 valign=^settextalign_centre
+shadowed=yes
 
 [interface_246:9]
 type=^iftype_layer

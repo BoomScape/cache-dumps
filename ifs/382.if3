@@ -4,16 +4,22 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1633(event_com,25034753)"
+onload="script1633(event_com,25034753,25034754)"
 
 [interface_382:1]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_382:0
+
+[interface_382:2]
 type=^iftype_layer
 width=70
 height=70
 hposmode=^setpos_abs_centre
-layer=interface_382:0
+layer=interface_382:1
 
-[interface_382:2]
+[interface_382:3]
 type=^iftype_graphic
 width=2
 height=2
@@ -21,18 +27,18 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_382:1
+layer=interface_382:2
 graphic="tradebacking"
 tiling=yes
 trans=100
 
-[interface_382:3]
+[interface_382:4]
 type=^iftype_model
 width=70
 height=40
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_382:1
+layer=interface_382:2
 model=empty_sack_7701
 originx=2
 originy=15

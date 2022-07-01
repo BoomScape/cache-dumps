@@ -36307,6 +36307,7 @@ framegroup1=1088
 
 [seq_6067]
 framecount=44
+priority=9
 looptype=1
 framegroup1=1530
 

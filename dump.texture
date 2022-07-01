@@ -291,3 +291,7 @@ animdir=1
 animspeed=1
 graphic="infernal_cape"
 
+[texture_60]
+colour=12818
+graphic="leafytree_tiled"
+

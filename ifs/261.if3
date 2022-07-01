@@ -447,7 +447,6 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_261:2
-onload="script2353"
 
 [interface_261:45]
 type=^iftype_graphic
