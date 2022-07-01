@@ -13,7 +13,7 @@ layer=interface_131:0
 
 [interface_131:2]
 type=^iftype_text
-y=45
+y=38
 height=20
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus

@@ -280,10 +280,10 @@ tiling=yes
 
 [interface_164:34]
 type=^iftype_layer
-width=231
+width=198
 height=36
 hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
+vposmode=^setpos_abs_centre
 layer=interface_164:32
 
 [interface_164:35]
@@ -307,7 +307,6 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_164:34
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -320,7 +319,6 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_164:34
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -333,7 +331,6 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_164:34
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -346,7 +343,6 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_164:34
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -364,61 +360,61 @@ op1="*"
 [interface_164:41]
 type=^iftype_graphic
 x=99
-y=1
-width=32
+width=33
 height=36
 hposmode=^setpos_abs_right
-layer=interface_164:34
-graphic="sideicons_new,14"
-
-[interface_164:42]
-type=^iftype_graphic
-x=131
-y=2
-width=32
-height=36
-hposmode=^setpos_abs_right
-layer=interface_164:34
-graphic="side_icons,21"
-
-[interface_164:43]
-type=^iftype_graphic
-x=164
-y=2
-width=32
-height=36
-hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
 layer=interface_164:34
 graphic="side_icons,7"
 
-[interface_164:44]
+[interface_164:42]
 type=^iftype_graphic
-x=65
-y=1
-width=32
+x=132
+width=33
 height=36
 hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
 layer=interface_164:34
-graphic="side_icons,10"
+graphic="side_icons,9"
+
+[interface_164:43]
+type=^iftype_graphic
+x=165
+width=33
+height=36
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_164:34
+graphic="side_icons,8"
+
+[interface_164:44]
+type=^iftype_graphic
+x=66
+width=33
+height=36
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_164:34
+graphic="side_icons,11"
 
 [interface_164:45]
 type=^iftype_graphic
 x=33
-y=3
-width=32
+width=33
 height=36
 hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
 layer=interface_164:34
-graphic="side_icons,11"
+graphic="side_icons,12"
 
 [interface_164:46]
 type=^iftype_graphic
-y=3
-width=32
+width=33
 height=36
 hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
 layer=interface_164:34
-graphic="side_icons,12"
+graphic="side_icons,13"
 
 [interface_164:47]
 type=^iftype_layer
@@ -442,8 +438,8 @@ tiling=yes
 type=^iftype_layer
 width=231
 height=36
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 layer=interface_164:47
 
 [interface_164:50]
@@ -462,7 +458,6 @@ width=33
 height=36
 layer=interface_164:49
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -473,7 +468,6 @@ width=33
 height=36
 layer=interface_164:49
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -484,7 +478,6 @@ width=33
 height=36
 layer=interface_164:49
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -495,7 +488,6 @@ width=33
 height=36
 layer=interface_164:49
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -506,7 +498,6 @@ width=33
 height=36
 layer=interface_164:49
 graphic="graphic_1181"
-tiling=yes
 optionmask=2
 op1="*"
 
@@ -522,44 +513,39 @@ op1="*"
 
 [interface_164:57]
 type=^iftype_graphic
-x=3
-y=1
-width=32
+width=33
 height=36
 layer=interface_164:49
 graphic="side_icons,0"
 
 [interface_164:58]
 type=^iftype_graphic
-x=32
-width=32
+x=33
+width=33
 height=36
 layer=interface_164:49
 graphic="side_icons,1"
 
 [interface_164:59]
 type=^iftype_graphic
-x=68
-y=1
-width=32
+x=66
+width=33
 height=36
 layer=interface_164:49
+graphic="side_icons,2"
 
 [interface_164:60]
 type=^iftype_graphic
-x=100
-y=2
-width=30
+x=99
+width=33
 height=36
-vposmode=^setpos_abs_bottom
 layer=interface_164:49
-graphic="sideicons_new,3"
+graphic="side_icons,3"
 
 [interface_164:61]
 type=^iftype_graphic
 x=132
-y=2
-width=32
+width=33
 height=36
 layer=interface_164:49
 graphic="side_icons,4"
@@ -567,7 +553,7 @@ graphic="side_icons,4"
 [interface_164:62]
 type=^iftype_graphic
 x=165
-width=32
+width=33
 height=36
 layer=interface_164:49
 graphic="side_icons,5"
@@ -575,8 +561,7 @@ graphic="side_icons,5"
 [interface_164:63]
 type=^iftype_graphic
 x=198
-y=1
-width=32
+width=33
 height=36
 layer=interface_164:49
 graphic="side_icons,6"

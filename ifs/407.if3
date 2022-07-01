@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2393(26673153)"
+onload="script2515(26673153,26673159,26673154)"
 
 [interface_407:1]
 type=^iftype_layer
@@ -14,54 +14,64 @@ layer=interface_407:0
 
 [interface_407:2]
 type=^iftype_layer
-x=14
-y=23
-width=251
-height=51
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_407:1
-onload="script2394(event_com)"
 
 [interface_407:3]
+type=^iftype_layer
+x=2
+width=251
+height=51
+layer=interface_407:2
+
+[interface_407:4]
 type=^iftype_text
 width=251
 height=17
-layer=interface_407:2
+layer=interface_407:3
 text="Next Departure: 5 min"
 colour=0xcccccc
 font=p12_full
 shadowed=yes
 
-[interface_407:4]
+[interface_407:5]
 type=^iftype_text
 y=17
 width=251
 height=17
-layer=interface_407:2
+layer=interface_407:3
 text="Players Ready: 5"
 colour=0x59d231
 font=p12_full
 shadowed=yes
 
-[interface_407:5]
+[interface_407:6]
 type=^iftype_text
 y=34
 width=251
 height=17
-layer=interface_407:2
+layer=interface_407:3
 text="Points: 100"
 colour=0x99ffff
 font=p12_full
 shadowed=yes
 
-[interface_407:6]
+[interface_407:7]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_407:0
+
+[interface_407:8]
 type=^iftype_layer
 width=117
 height=136
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_407:0
+layer=interface_407:7
 
-[interface_407:7]
+[interface_407:9]
 type=^iftype_model
 x=14
 y=6
@@ -69,13 +79,13 @@ width=32
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_407:6
+layer=interface_407:8
 model=novice_flag_27182
 xan=1972
 yan=132
 zoom=1296
 
-[interface_407:8]
+[interface_407:10]
 type=^iftype_layer
 x=3
 y=12
@@ -83,128 +93,128 @@ width=100
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_407:6
+layer=interface_407:8
 
-[interface_407:9]
+[interface_407:11]
 type=^iftype_rectangle
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=35
 
-[interface_407:10]
+[interface_407:12]
 type=^iftype_rectangle
 x=10
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=50
 
-[interface_407:11]
+[interface_407:13]
 type=^iftype_rectangle
 x=20
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=75
 
-[interface_407:12]
+[interface_407:14]
 type=^iftype_rectangle
 x=30
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=90
 
-[interface_407:13]
+[interface_407:15]
 type=^iftype_rectangle
 x=40
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=105
 
-[interface_407:14]
+[interface_407:16]
 type=^iftype_rectangle
 x=50
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=120
 
-[interface_407:15]
+[interface_407:17]
 type=^iftype_rectangle
 x=60
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=135
 
-[interface_407:16]
+[interface_407:18]
 type=^iftype_rectangle
 x=70
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=150
 
-[interface_407:17]
+[interface_407:19]
 type=^iftype_rectangle
 x=80
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=165
 
-[interface_407:18]
+[interface_407:20]
 type=^iftype_rectangle
 x=90
 width=10
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_407:8
+layer=interface_407:10
 colour=0x503800
 fill=yes
 trans=180
 
-[interface_407:19]
+[interface_407:21]
 type=^iftype_text
 x=3
 y=11
@@ -212,7 +222,7 @@ width=109
 height=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_407:6
+layer=interface_407:8
 colour=0xff9966
 font=p12_full
 halign=^settextalign_right

@@ -2,6 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script1998(39911427,39911425,39911426,39911428)"
 
 [interface_609:1]
 type=^iftype_layer
@@ -12,6 +13,33 @@ vsizemode=^setsize_minus
 layer=interface_609:0
 
 [interface_609:2]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_609:1
+
+[interface_609:3]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_609:2
+
+[interface_609:4]
+type=^iftype_layer
+width=204
+height=24
+hposmode=^setpos_abs_centre
+layer=interface_609:3
+
+[interface_609:5]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_609:0
+
+[interface_609:6]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -22,26 +50,24 @@ colour=^red
 fill=yes
 trans=255
 
-[interface_609:3]
+[interface_609:7]
 type=^iftype_layer
-y=20
+y=2
 width=200
 height=20
 hposmode=^setpos_abs_centre
-layer=interface_609:0
-onload="script1998(event_com)"
-onvartransmit="script1998(event_com){var_1227}"
+layer=interface_609:4
 
-[interface_609:4]
+[interface_609:8]
 type=^iftype_rectangle
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_609:3
+layer=interface_609:7
 colour=^red
 fill=yes
 
-[interface_609:5]
+[interface_609:9]
 type=^iftype_rectangle
 x=1
 y=1
@@ -49,33 +75,33 @@ width=100
 height=2
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_609:3
+layer=interface_609:7
 colour=0x66cc00
 fill=yes
 
-[interface_609:6]
+[interface_609:10]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_609:3
+layer=interface_609:7
 
-[interface_609:7]
+[interface_609:11]
 type=^iftype_text
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_609:3
+layer=interface_609:7
 text="Oxygen Level: "
 font=b12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
-onload="script1997(39911429,39911431,39911426)"
-onvartransmit="script1997(39911429,39911431,39911426){var_1633}"
+onload="script1997(39911433,39911435,39911430)"
+onvartransmit="script1997(39911433,39911435,39911430){var_1633}"
 
-[interface_609:8]
+[interface_609:12]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre

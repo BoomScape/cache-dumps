@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2405(13565953)"
+onload="script2405(13565953,13565958,13565954,13565959,13565956)"
 
 [interface_207:1]
 type=^iftype_layer
@@ -20,13 +20,41 @@ layer=interface_207:1
 
 [interface_207:3]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_207:2
 
 [interface_207:4]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_207:1
+
+[interface_207:5]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_207:4
+
+[interface_207:6]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_207:0
+
+[interface_207:7]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_207:6
+
+[interface_207:8]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_207:7
+
+[interface_207:9]
 type=^iftype_text
 width=1
 height=1

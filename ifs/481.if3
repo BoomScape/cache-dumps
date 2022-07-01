@@ -95,7 +95,7 @@ onop="script2486(event_com,31522847,31522850,31522851,31522848,31522816,31522818
 
 [interface_481:10]
 type=^iftype_graphic
-width=32
+width=33
 height=36
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -113,7 +113,7 @@ layer=interface_481:7
 
 [interface_481:12]
 type=^iftype_graphic
-width=32
+width=33
 height=36
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre

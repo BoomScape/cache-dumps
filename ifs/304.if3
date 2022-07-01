@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2378(event_com,19922945,19922946)"
+onload="script2378(19922945,19922946)"
 
 [interface_304:1]
 type=^iftype_layer
@@ -14,8 +14,6 @@ layer=interface_304:0
 
 [interface_304:2]
 type=^iftype_layer
-x=8
-y=20
 width=160
 height=55
 layer=interface_304:1
