@@ -1,3 +1,6 @@
+[levelrequire_23]
+type=int
+
 [param_31]
 autodisable=no
 
@@ -1868,6 +1871,7 @@ default=12303291
 
 [param_1277]
 type=int
+default=1
 
 [param_1278]
 type=graphic
@@ -2165,4 +2169,46 @@ default=null
 [param_1395]
 type=graphic
 default=null
+
+[param_1401]
+type=int
+
+[param_1402]
+type=int
+
+[param_1403]
+type=int
+
+[param_1404]
+type=int
+
+[param_1405]
+type=int
+
+[param_1406]
+type=int
+
+[param_1407]
+type=string
+default=
+
+[param_1408]
+type=boolean
+
+[param_1409]
+type=int
+
+[param_1410]
+type=int
+
+[param_1411]
+type=boolean
+
+[param_1412]
+type=graphic
+default=null
+
+[param_1413]
+type=string
+default=
 

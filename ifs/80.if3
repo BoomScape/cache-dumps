@@ -8,16 +8,15 @@ onload="script901(event_com,139)"
 
 [interface_80:1]
 type=^iftype_layer
-contenttype=1337
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 
 [interface_80:2]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
+contenttype=1337
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+layer=interface_80:1
 
 [interface_80:3]
 type=^iftype_layer
@@ -25,24 +24,24 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:2
+layer=interface_80:1
 
 [interface_80:4]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_80:3
+
+[interface_80:5]
 type=^iftype_layer
 width=215
 height=165
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:2
-
-[interface_80:5]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_80:2
+layer=interface_80:3
 
 [interface_80:6]
 type=^iftype_layer
@@ -50,7 +49,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:4
+layer=interface_80:5
 
 [interface_80:7]
 type=^iftype_layer
@@ -58,7 +57,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:4
+layer=interface_80:5
 
 [interface_80:8]
 type=^iftype_layer
@@ -66,6 +65,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+layer=interface_80:3
 
 [interface_80:9]
 type=^iftype_layer
@@ -73,225 +73,247 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:8
+layer=interface_80:1
 
 [interface_80:10]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_80:9
+
+[interface_80:11]
 type=^iftype_layer
 width=215
 height=165
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:8
+layer=interface_80:9
 
-[interface_80:11]
+[interface_80:12]
 type=^iftype_layer
 width=512
 height=334
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_80:10
+layer=interface_80:11
 
-[interface_80:12]
+[interface_80:13]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:10
-
-[interface_80:13]
-type=^iftype_layer
-width=1
-height=1
+layer=interface_80:11
 
 [interface_80:14]
 type=^iftype_layer
 width=1
 height=1
-hide=yes
-layer=interface_80:13
+layer=interface_80:1
 
 [interface_80:15]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:16]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:17]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:18]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:19]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:20]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:21]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:22]
+type=^iftype_layer
+width=1
+height=1
+hide=yes
+layer=interface_80:14
+
+[interface_80:23]
 type=^iftype_layer
 contenttype=1354
 width=1
 height=1
 hide=yes
-layer=interface_80:13
-
-[interface_80:23]
-type=^iftype_layer
-width=1
-height=1
-hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:24]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:25]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:26]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:27]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:28]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:29]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:30]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:31]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:32]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:33]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:34]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:35]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:36]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:37]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:38]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:39]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
 
 [interface_80:40]
 type=^iftype_layer
 width=1
 height=1
 hide=yes
-layer=interface_80:13
+layer=interface_80:14
+
+[interface_80:41]
+type=^iftype_layer
+width=1
+height=1
+hide=yes
+layer=interface_80:14
+
+[interface_80:42]
+type=^iftype_layer
+width=1
+height=1
+hide=yes
+layer=interface_80:14
+
+[interface_80:43]
+type=^iftype_layer
+width=300
+hposmode=^setpos_abs_right
+vsizemode=^setsize_minus
 

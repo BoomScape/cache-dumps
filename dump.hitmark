@@ -12,26 +12,36 @@ fadeat=0
 duration=50
 middle="hitmark,2"
 damageformat=%1
+damageyof=1
 
 [hitmark_3]
 duration=50
 middle="hitmark,3"
 damageformat=%1
+damageyof=1
 
 [hitmark_4]
 duration=50
 middle="hitmark,12"
 damageformat=%1
+damageyof=1
 
 [hitmark_5]
 duration=50
 middle="hitmark,11"
 damageformat=%1
+damageyof=1
 
 [hitmark_6]
 duration=50
 middle="hitmark,8"
 damageformat=%1
+
+[hitmark_7]
+duration=50
+middle="hitmark,18"
+damageformat=%1
+damageyof=2
 
 [hitmark_12]
 duration=50
@@ -121,21 +131,25 @@ multimark=1,hitmark_32
 duration=50
 middle="hitmark,0"
 damageformat=%1
+damageyof=1
 
 [hitmark_27]
 duration=50
 middle="hitmark,9"
 damageformat=%1
+damageyof=1
 
 [hitmark_28]
 duration=50
 middle="hitmark,1"
 damageformat=%1
+damageyof=1
 
 [hitmark_29]
 duration=50
 middle="hitmark,10"
 damageformat=%1
+damageyof=1
 
 [hitmark_30]
 duration=50
