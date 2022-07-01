@@ -10031,6 +10031,13 @@ anim=seq_8088
 model=model_35579
 anim=seq_8088
 
+[spotanim_1574]
+model=model_3473
+ambient=60
+contrast=60
+recol1s=21190
+recol1d=7126
+
 [spotanim_1575]
 model=model_3070
 anim=seq_8089
@@ -10330,4 +10337,17 @@ anim=seq_7616
 resizeh=200
 resizev=200
 ambient=60
+
+[spotanim_1611]
+model=model_3473
+anim=seq_366
+ambient=60
+contrast=60
+recol1s=21190
+recol1d=7126
+
+[spotanim_1612]
+model=model_35765
+anim=seq_7162
+ambient=20
 

@@ -149270,7 +149270,6 @@ femalehead=druidic_wreath_28821
 iop2=Wear
 iop3=Check rank
 iop5=Destroy
-members=yes
 placeholder=yes
 param=param_451,Check Rank
 
@@ -156520,7 +156519,6 @@ femalehead=mask_of_balance_29192
 iop2=Wear
 iop3=Check rank
 iop5=Destroy
-members=yes
 placeholder=yes
 param=param_451,Check Rank
 
@@ -182428,7 +182426,6 @@ cost=10
 2dyan=234
 iop2=Wear
 iop5=Destroy
-members=yes
 placeholder=yes
 
 [placeholder_hornwood_helm_19700]
@@ -199428,7 +199425,6 @@ cost=0
 2dyan=1842
 iop2=Chill
 iop5=Destroy
-members=yes
 placeholder=yes
 
 [placeholder_hand_fan_21355]
@@ -211055,4 +211051,175 @@ bought=yes
 
 [bought_cabbage_22540]
 bought=yes
+
+[rotten_strawberry_22541]
+name=Rotten strawberry
+model=strawberry_7307
+2dzoom=520
+2dxan=128
+2dyan=76
+iop1=Options
+iop2=Lumbridge
+iop3=Moss Giants
+iop4=King Black Dragon
+recol1s=15143
+recol1d=26411
+recol2s=13999
+recol2d=28203
+recol3s=815
+recol3d=433
+ambient=10
+
+[viggoras_chainmace_u_22542]
+name=Viggora's chainmace (u)
+model=viggoras_chainmace_u_35778
+manwear=viggoras_chainmace_u_35770,0
+womanwear=viggoras_chainmace_u_35770,6
+cost=120000
+2dzoom=1616
+2dxof=-1
+2dyof=-3
+2dxan=252
+2dyan=944
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_viggoras_chainmace_u_22543]
+certificate=yes
+
+[placeholder_viggoras_chainmace_u_22544]
+placeholder=yes
+
+[viggoras_chainmace_22545]
+name=Viggora's chainmace
+model=viggoras_chainmace_35780
+manwear=viggoras_chainmace_35771,0
+womanwear=viggoras_chainmace_35771,6
+cost=120000
+2dzoom=1616
+2dxof=-1
+2dyof=-3
+2dxan=252
+2dyan=944
+iop2=Wield
+iop3=Check
+iop5=Uncharge
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_viggoras_chainmace_22546]
+placeholder=yes
+
+[craws_bow_u_22547]
+name=Craw's bow (u)
+model=craws_bow_u_35777
+manwear=craws_bow_u_35768,0
+womanwear=craws_bow_u_35768,6
+cost=120000
+2dzoom=1979
+2dxof=-1
+2dyof=-3
+2dxan=1463
+2dyan=510
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_craws_bow_u_22548]
+certificate=yes
+
+[placeholder_craws_bow_u_22549]
+placeholder=yes
+
+[craws_bow_22550]
+name=Craw's bow
+model=craws_bow_35775
+manwear=craws_bow_35769,0
+womanwear=craws_bow_35769,6
+cost=120000
+2dzoom=1979
+2dxof=-1
+2dyof=-3
+2dxan=1463
+2dyan=510
+iop2=Wield
+iop3=Check
+iop5=Uncharge
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_craws_bow_22551]
+placeholder=yes
+
+[thammarons_sceptre_u_22552]
+name=Thammaron's sceptre (u)
+model=thammarons_sceptre_u_35776
+manwear=thammarons_sceptre_u_35772,0
+womanwear=thammarons_sceptre_u_35772,0
+cost=120000
+2dzoom=2105
+2dxan=400
+2dyan=1020
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_thammarons_sceptre_u_22553]
+certificate=yes
+
+[placeholder_thammarons_sceptre_u_22554]
+placeholder=yes
+
+[thammarons_sceptre_22555]
+name=Thammaron's sceptre
+model=thammarons_sceptre_35774
+manwear=thammarons_sceptre_35773,0
+womanwear=thammarons_sceptre_35773,0
+cost=120000
+2dzoom=2105
+2dxan=400
+2dyan=1020
+iop2=Wield
+iop3=Check
+iop5=Uncharge
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_thammarons_sceptre_22556]
+placeholder=yes
+
+[amulet_of_avarice_22557]
+name=Amulet of avarice
+model=amulet_of_avarice_35779
+manwear=amulet_of_avarice_35766,0
+womanwear=amulet_of_avarice_35767,0
+cost=45000
+2dzoom=420
+2dxof=-1
+2dyof=-5
+2dxan=191
+2dyan=86
+iop2=Wear
+recol1s=926
+recol1d=22193
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_amulet_of_avarice_22558]
+certificate=yes
+
+[placeholder_amulet_of_avarice_22559]
+placeholder=yes
 
