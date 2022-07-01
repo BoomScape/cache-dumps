@@ -542,6 +542,12 @@ default=null
 val=0,pet_dark_core_12816
 val=1,pet_corporeal_critter_22318
 
+[enum_335]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_589,20
+
 [enum_355]
 inputtype=obj
 outputtype=int
@@ -17982,6 +17988,7 @@ val=1,tap_through_chatbox_1272
 val=2,store_button_1270
 val=3,wiki_lookup_1271
 val=4,hitsplat_tinting_1273
+val=5,health_overlay_1277
 
 [enum_1937]
 inputtype=int
@@ -25555,4 +25562,18 @@ val=12,mysterious_page_24765
 val=13,mysterious_page_24767
 val=14,mysterious_page_24769
 val=15,mysterious_page_24771
+
+[enum_2945]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_589,10
+
+[enum_2946]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,rocky_20663
+val=1,red_24847
+val=2,ziggy_24849
 

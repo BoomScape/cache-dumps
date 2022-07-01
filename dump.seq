@@ -49249,6 +49249,7 @@ framegroup1=2176
 
 [seq_8097]
 framecount=27
+replayoff=1
 priority=10
 looptype=1
 framegroup1=2174

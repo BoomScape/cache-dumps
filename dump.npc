@@ -147848,7 +147848,7 @@ vislevel=0
 
 [falo_the_bard_7306]
 name=Falo the Bard
-model1=male_hair_214
+model1=male_hair_215
 model2=male_jaw_249
 model3=male_torso_292
 model4=male_arms_163
@@ -147856,7 +147856,7 @@ model5=cooking_gauntlets_179
 model6=banker_4226
 model7=banker_4218
 model8=fremennik_brown_shirt_4391
-model9=olaf_the_bard_4390
+model9=rick_turpentine_244
 model10=fremennik_cyan_cloak_317
 model11=prince_brand_4394
 head1=male_hair_53
@@ -152699,6 +152699,12 @@ walkanim=vanguard_ready_7439
 op2=Attack
 size=3
 vislevel=0
+param=param_509,1
+param=param_510,Vanguard - Melee
+param=param_945,1
+param=param_946,1
+param=param_947,1
+param=param_948,1
 
 [vanguard_7528]
 name=Vanguard
@@ -152708,6 +152714,12 @@ walkanim=vanguard_ready_7444
 op2=Attack
 size=3
 vislevel=0
+param=param_509,1
+param=param_510,Vanguard - Ranged
+param=param_945,1
+param=param_946,1
+param=param_947,1
+param=param_948,1
 
 [vanguard_7529]
 name=Vanguard
@@ -152717,6 +152729,12 @@ walkanim=vanguard_ready_7434
 op2=Attack
 size=3
 vislevel=0
+param=param_509,1
+param=param_510,Vanguard - Magic
+param=param_945,1
+param=param_946,1
+param=param_947,1
+param=param_948,1
 
 [vespula_7530]
 name=Vespula
@@ -152757,6 +152775,8 @@ resizev=256
 op2=Attack
 size=4
 vislevel=0
+param=param_509,1
+param=param_510,Abyssal Portal
 
 [lux_grub_7534]
 name=Lux grub
@@ -152833,6 +152853,8 @@ vislevel=0
 drawpriority=yes
 ambient=10
 contrast=5
+param=param_509,1
+param=param_510,Tekton
 
 [tekton_7542]
 name=Tekton
@@ -152845,6 +152867,8 @@ vislevel=0
 drawpriority=yes
 ambient=10
 contrast=5
+param=param_509,1
+param=param_510,Tekton
 
 [tekton_enraged_7543]
 name=Tekton (enraged)
@@ -152857,6 +152881,8 @@ vislevel=0
 drawpriority=yes
 ambient=15
 contrast=5
+param=param_509,1
+param=param_510,Tekton
 
 [tekton_enraged_7544]
 name=Tekton (enraged)
@@ -152869,6 +152895,8 @@ vislevel=0
 drawpriority=yes
 ambient=15
 contrast=5
+param=param_509,1
+param=param_510,Tekton
 
 [tekton_7545]
 name=Tekton
@@ -152881,6 +152909,8 @@ vislevel=0
 drawpriority=yes
 ambient=10
 contrast=5
+param=param_509,1
+param=param_510,Tekton
 
 [bartender_7546]
 name=Bartender
@@ -152978,6 +153008,9 @@ op2=Attack
 size=5
 vislevel=549
 visonmap=no
+param=param_509,1
+param=param_510,Great Olm - Right Hand
+param=param_945,1
 
 [great_olm_7554]
 name=Great Olm
@@ -152986,6 +153019,9 @@ op2=Attack
 size=5
 vislevel=1043
 visonmap=no
+param=param_509,1
+param=param_510,Great Olm - Head
+param=param_945,1
 
 [great_olm_left_claw_7555]
 name=Great Olm (Left claw)
@@ -152995,6 +153031,9 @@ op2=Attack
 size=5
 vislevel=750
 visonmap=no
+param=param_509,1
+param=param_510,Great Olm - Left Hand
+param=param_945,1
 
 [npc_7556]
 model1=great_olm_right_claw_32709
@@ -153105,6 +153144,8 @@ op2=Attack
 size=3
 vislevel=0
 drawpriority=yes
+param=param_509,1
+param=param_510,Baby Muttadile
 
 [muttadile_7563]
 name=Muttadile
@@ -153117,6 +153158,8 @@ op2=Attack
 size=5
 vislevel=0
 drawpriority=yes
+param=param_509,1
+param=param_510,Big Muttadile
 
 [meat_tree_7564]
 name=<col=00ffff>Meat tree</col>
@@ -153150,6 +153193,8 @@ vislevel=0
 drawpriority=yes
 ambient=10
 contrast=5
+param=param_509,1
+param=param_510,Vasa Nistirio
 
 [vasa_nistirio_7567]
 name=Vasa Nistirio
@@ -153162,6 +153207,8 @@ vislevel=0
 drawpriority=yes
 ambient=10
 contrast=5
+param=param_509,1
+param=param_510,Vasa Nistirio
 
 [glowing_crystal_7568]
 name=<col=00ffff>Glowing crystal</col>
@@ -187309,7 +187356,7 @@ drawpriority=yes
 
 [red_panda_9198]
 name=Red Panda
-model1=red_panda_37361
+model1=red_37361
 readyanim=rocky_ready_7315
 walkanim=rocky_walk_7316
 vislevel=0
@@ -197696,7 +197743,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=0
-visonmap=no
 
 [npc_9649]
 model1=knight_of_the_unicorn_39828
@@ -197717,7 +197763,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=0
-visonmap=no
 
 [npc_9651]
 model1=knight_of_the_wolf_39829
@@ -197738,7 +197783,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=0
-visonmap=no
 
 [npc_9653]
 model1=knight_of_the_lion_39824
@@ -197759,7 +197803,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=0
-visonmap=no
 
 [npc_9655]
 model1=archpriest_of_the_unicorn_39826
@@ -197780,7 +197823,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=0
-visonmap=no
 
 [darkmeyer_slave_9657]
 name=Darkmeyer Slave
@@ -197806,7 +197848,6 @@ recol5d=3604
 recol6s=3604
 recol6d=156
 vislevel=0
-visonmap=no
 
 [darkmeyer_slave_9658]
 name=Darkmeyer Slave
@@ -197822,7 +197863,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=0
-visonmap=no
 
 [mad_melvin96_9659]
 name=mad melvin96
@@ -197843,7 +197883,6 @@ recol2s=926
 recol2d=-17506
 op1=Talk-to
 vislevel=43
-visonmap=no
 
 [r2t2pnsh0ty_9660]
 name=r2t2pnsh0Ty
@@ -197857,7 +197896,6 @@ model7=graceful_gloves_28884
 resizeh=140
 resizev=140
 vislevel=94
-visonmap=no
 
 [jyn_9661]
 name=Jyn
@@ -197873,7 +197911,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=96
-visonmap=no
 
 [c4ssi4n_9662]
 name=c4ssi4n
@@ -197889,7 +197926,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=96
-visonmap=no
 
 [fishrunner82_9663]
 name=fishrunner82
@@ -197908,13 +197944,12 @@ recol2s=70
 recol2d=-27331
 op1=Talk-to
 vislevel=107
-visonmap=no
 
 [weast_side49_9664]
 name=weast side49
 model1=graceful_hood_28882
 model2=graceful_top_39766
-model3=graceful_top_28886
+model3=graceful_top_39772
 model4=graceful_legs_39773
 model5=graceful_gloves_28884
 model6=graceful_cape_28883
@@ -197924,7 +197959,6 @@ head2=female_hair_120
 resizeh=140
 resizev=140
 vislevel=102
-visonmap=no
 
 [c0lect0r890_9665]
 name=c0lect0r890
@@ -197942,7 +197976,6 @@ resizeh=140
 resizev=140
 op1=Talk-to
 vislevel=126
-visonmap=no
 
 [giant_squirrel_9666]
 name=Giant Squirrel
@@ -202631,4 +202664,64 @@ multinpc=135,child_9792
 multinpc=136,child_9792
 multinpc=137,child_9792
 multinpc=138,child_9792
+
+[red_9850]
+name=Red
+model1=red_37361
+head1=red_14392
+readyanim=rocky_ready_7315
+walkanim=rocky_walk_7316
+resizeh=110
+resizev=110
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+
+[ziggy_9851]
+name=Ziggy
+model1=ziggy_14390
+head1=ziggy_14394
+readyanim=rocky_ready_7315
+walkanim=rocky_walk_7316
+resizeh=110
+resizev=110
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+
+[red_9852]
+name=Red
+model1=red_37361
+head1=red_14392
+readyanim=rocky_ready_7315
+walkanim=rocky_walk_7316
+resizeh=110
+resizev=110
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+follower=yes
+
+[ziggy_9853]
+name=Ziggy
+model1=ziggy_14390
+head1=ziggy_14394
+readyanim=rocky_ready_7315
+walkanim=rocky_walk_7316
+resizeh=110
+resizev=110
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+follower=yes
+
+[npc_9854]
+model1=ice_ledge_6318
+resizev=1
+vislevel=10
+active=no
 

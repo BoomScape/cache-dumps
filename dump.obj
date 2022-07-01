@@ -143683,6 +143683,7 @@ recol2d=3619
 recol3s=5444
 recol3d=5805
 placeholder=yes
+param=param_983,enum_2945
 
 [soft_clay_pack_12010]
 name=Soft clay pack
@@ -182460,6 +182461,7 @@ recol4s=7223
 recol4d=29617
 members=yes
 placeholder=yes
+param=param_983,enum_335
 
 [placeholder_bag_full_of_gems_19474]
 placeholder=yes
@@ -235943,5 +235945,75 @@ placeholder=yes
 certificate=yes
 
 [placeholder_ring_of_endurance_uncharged_24846]
+placeholder=yes
+
+[red_24847]
+name=Red
+model=red_37361
+2dzoom=1872
+2dxan=195
+2dyan=333
+members=yes
+placeholder=yes
+
+[placeholder_red_24848]
+placeholder=yes
+
+[ziggy_24849]
+name=Ziggy
+model=ziggy_14390
+2dzoom=1872
+2dxan=195
+2dyan=333
+members=yes
+placeholder=yes
+
+[placeholder_ziggy_24850]
+placeholder=yes
+
+[soft_clay_pack_24851]
+name=Soft clay pack
+model=soft_clay_pack_21843
+cost=10
+2dzoom=1411
+2dxof=-3
+2dyof=-3
+2dyan=2047
+iop1=Open
+recol1s=5584
+recol1d=5805
+recol2s=5592
+recol2d=3619
+recol3s=5444
+recol3d=5805
+placeholder=yes
+param=param_983,enum_2945
+
+[placeholder_soft_clay_pack_24852]
+placeholder=yes
+
+[bag_full_of_gems_24853]
+name=Bag full of gems
+model=bag_full_of_gems_31223
+cost=40
+2dzoom=1095
+2dxof=3
+2dxan=189
+2dyan=337
+iop1=Open
+iop5=Destroy
+recol1s=6430
+recol1d=21305
+recol2s=7467
+recol2d=-28739
+recol3s=6798
+recol3d=-32597
+recol4s=7223
+recol4d=29617
+members=yes
+placeholder=yes
+param=param_983,enum_335
+
+[placeholder_bag_full_of_gems_24854]
 placeholder=yes
 

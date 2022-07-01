@@ -1211,3 +1211,8 @@ type=int
 [param_948]
 type=int
 
+[param_983]
+type=enum
+autodisable=no
+default=null
+
