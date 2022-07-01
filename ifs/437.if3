@@ -28,7 +28,7 @@ layer=interface_437:2
 
 [interface_437:4]
 type=^iftype_layer
-x=9
+x=8
 y=25
 width=261
 height=87

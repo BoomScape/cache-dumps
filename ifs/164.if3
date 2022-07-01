@@ -603,7 +603,7 @@ height=275
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 noclickthrough=yes
-onload="script712(event_com,1)"
+onload="script4125(event_com)"
 
 [interface_164:68]
 type=^iftype_graphic

@@ -1,3 +1,8 @@
+[hitmark_0]
+duration=50
+middle="hitmark,17"
+damageformat=%1
+
 [hitmark_2]
 duration=50
 middle="hitmark,2"

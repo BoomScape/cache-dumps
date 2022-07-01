@@ -136,6 +136,9 @@ colour=0x4f4a53
 [flu_45]
 colour=0x1b1222
 
+[flu_46]
+colour=0x1b2233
+
 [flu_47]
 colour=0x35720a
 
@@ -219,6 +222,9 @@ colour=0x995566
 
 [flu_74]
 colour=0x557799
+
+[flu_75]
+colour=0xa1122
 
 [flu_77]
 colour=0xd9bb93

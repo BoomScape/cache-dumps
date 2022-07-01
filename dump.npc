@@ -2235,6 +2235,7 @@ model1=dog_26253
 category=category_342
 readyanim=hellhound_6561
 walkanim=dog_walk_6560
+op1=Pet
 vislevel=0
 
 [wild_dog_112]
@@ -4967,7 +4968,7 @@ ambient=15
 contrast=15
 
 [town_crier_276]
-name=Town crier
+name=Town Crier
 model1=crier_hat_27149
 model2=town_crier_27153
 model3=town_crier_27140
@@ -4987,7 +4988,7 @@ vislevel=0
 drawpriority=yes
 
 [town_crier_277]
-name=Town crier
+name=Town Crier
 model1=crier_hat_27149
 model2=town_crier_27153
 model3=town_crier_27140
@@ -5019,7 +5020,7 @@ vislevel=0
 drawpriority=yes
 
 [town_crier_278]
-name=Town crier
+name=Town Crier
 model1=crier_hat_27149
 model2=town_crier_27153
 model3=town_crier_27140
@@ -5049,7 +5050,7 @@ vislevel=0
 drawpriority=yes
 
 [town_crier_279]
-name=Town crier
+name=Town Crier
 model1=crier_hat_27149
 model2=town_crier_27153
 model3=town_crier_27140
@@ -5079,7 +5080,7 @@ vislevel=0
 drawpriority=yes
 
 [town_crier_280]
-name=Town crier
+name=Town Crier
 model1=crier_hat_27149
 model2=town_crier_27153
 model3=town_crier_27140
@@ -21368,9 +21369,11 @@ walkanim_b=lumbridge_guide_walk_b_1206
 walkanim_r=lumbridge_guide_walk_r_1207
 walkanim_l=lumbridge_guide_walk_l_1208
 vislevel=1
-multivar=varbit_4897
-multinpc=default,veos_8630
-multinpc=0,veos_8484
+multivar=varbit_12148
+multinpc=1,veos_10723
+multinpc=2,veos_10724
+multinpc=3,veos_8484
+multinpc=4,veos_8630
 drawpriority=yes
 
 [captain_tock_multi_1064]
@@ -43195,25 +43198,17 @@ op5=hidden
 vislevel=0
 visonmap=no
 
-[veos_2147]
-name=Veos
-model1=veos_36936
+[veos_multi_2147]
 category=category_922
-head1=hooded_cloak_48
-head2=male_jaw_82
 readyanim=doomsayer_ready_813
 walkanim=lumbridge_guide_walk_1205
 walkanim_b=lumbridge_guide_walk_b_1206
 walkanim_r=lumbridge_guide_walk_r_1207
 walkanim_l=lumbridge_guide_walk_l_1208
-recol1s=8741
-recol1d=-32746
-recol2s=6798
-recol2d=-22440
-op1=Talk-to
-op3=Port Sarim
-op4=Land's End
-vislevel=0
+vislevel=1
+multivar=varbit_12146
+multinpc=1,veos_10727
+multinpc=2,veos_10726
 drawpriority=yes
 
 [grand_exchange_clerk_2148]
@@ -57230,7 +57225,7 @@ vislevel=27
 
 [veos_2850]
 name=Veos
-model1=veos_36936
+model1=veos_41983
 head1=hooded_cloak_48
 head2=male_jaw_82
 head3=veos_6461
@@ -124926,6 +124921,7 @@ model4=male_legs_28337
 model5=leather_vambraces_177
 model6=male_feet_181
 model7=bartender_11812
+category=category_922
 head1=male_hair_28384
 head2=adventurer_jon_18187
 readyanim=human_ready_808
@@ -125364,6 +125360,7 @@ vislevel=0
 name=Mark
 model1=sheepdog_7755
 readyanim=sheepdog_ready_2268
+op1=Pet
 vislevel=0
 
 [bigredjapan_5921]
@@ -140693,7 +140690,7 @@ multinpc=1,man_3106
 visonmap=no
 
 [town_crier_6823]
-name=Town crier
+name=Town Crier
 model1=crier_hat_27149
 model2=town_crier_27153
 model3=town_crier_27140
@@ -145228,6 +145225,7 @@ model6=shayzien_boots_2_29780
 model7=bronze_scimitar_490
 model8=bronze_kiteshield_486
 category=category_470
+head1=shayzien_helm_2_30947
 readyanim=human_ready_808
 walkanim=human_walk_819
 walkanim_b=human_walk_b_820
@@ -160964,6 +160962,7 @@ drawpriority=yes
 name=Dog
 model1=sheepdog_7755
 readyanim=sheepdog_ready_2268
+op1=Pet
 vislevel=0
 
 [peter_7772]
@@ -162991,6 +162990,7 @@ recol6s=908
 recol6d=520
 op1=Talk-to
 vislevel=0
+drawpriority=yes
 
 [elena_hosidius_7897]
 name=Elena Hosidius
@@ -163321,29 +163321,32 @@ recol4d=908
 op1=Talk-to
 vislevel=0
 
-[councillor_hughes_7910]
-name=Councillor Hughes
-model1=female_hair_391
-model2=female_torso_456
-model3=female_arms_332
-model4=maid_10706
+[sophia_hughes_7910]
+name=Sophia Hughes
+model1=female_hair_378
+model2=female_torso_471
+model3=female_arms_348
+model4=female_slave_19338
 model5=female_legs_419
-model6=female_feet_358
-model7=cook_414
-head1=female_hair_114
-head2=cook_131
+model6=female_slave_19337
+head1=female_hair_103
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
 recol1s=6798
-recol1d=9771
+recol1d=10545
 recol2s=4550
 recol2d=5588
 recol3s=25238
-recol3d=12
+recol3d=8363
 recol4s=8741
-recol4d=532
+recol4d=7331
 recol5s=4626
-recol5d=3594
+recol5d=5588
 recol6s=11146
-recol6d=4
+recol6d=7326
 op1=Talk-to
 vislevel=0
 
@@ -163722,9 +163725,8 @@ walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
 vislevel=1
-multivar=varbit_6027
-multinpc=10,artur_hosidius_7898
-multinpc=11,artur_hosidius_7898
+multivar=varbit_12153
+multinpc=1,artur_hosidius_7898
 
 [tomas_lawry_multi_7926]
 readyanim=human_ready_808
@@ -163756,8 +163758,8 @@ walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
 vislevel=1
-multivar=varbit_6037
-multinpc=13,tomas_lawry_7904
+multivar=varbit_12144
+multinpc=1,tomas_lawry_7904
 
 [conrad_king_multi_7928]
 readyanim=human_ready_808
@@ -163779,33 +163781,20 @@ walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
 vislevel=1
-multivar=varbit_6037
-multinpc=default,the_queen_of_thieves_7908
+multivar=varbit_12145
 multinpc=0,the_queen_of_thieves_7908
-multinpc=1,the_queen_of_thieves_7908
-multinpc=2,the_queen_of_thieves_7908
-multinpc=3,the_queen_of_thieves_7908
-multinpc=4,the_queen_of_thieves_7908
-multinpc=5,the_queen_of_thieves_7908
-multinpc=6,the_queen_of_thieves_7908
-multinpc=7,the_queen_of_thieves_7908
-multinpc=8,the_queen_of_thieves_7908
-multinpc=9,lady_shauna_piscarilius_7909
-multinpc=10,lady_shauna_piscarilius_7909
-multinpc=11,lady_shauna_piscarilius_7909
-multinpc=12,lady_shauna_piscarilius_7909
-multinpc=13,lady_shauna_piscarilius_7909
+multinpc=1,lady_shauna_piscarilius_7909
 drawpriority=yes
 
-[councillor_hughes_multi_7930]
+[sophia_hughes_multi_7930]
 readyanim=human_ready_808
 walkanim=human_walk_819
 walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
 vislevel=1
-multivar=varbit_6037
-multinpc=13,councillor_hughes_7910
+multivar=varbit_12143
+multinpc=1,sophia_hughes_7910
 drawpriority=yes
 
 [revenant_goblin_7931]
@@ -166725,6 +166714,7 @@ recol1s=8412
 recol1d=9540
 recol2s=8404
 recol2d=9548
+op1=Pet
 vislevel=0
 drawpriority=yes
 
@@ -177825,9 +177815,10 @@ name=Lord Trobin Arceuus
 model1=lord_trobin_arceuus_36354
 readyanim=lord_trobin_arceuus_ready_8203
 walkanim=lord_trobin_arceuus_ready_8203
-resizeh=168
-resizev=168
+resizeh=152
+resizev=152
 op1=Talk-to
+size=2
 vislevel=0
 
 [lord_trobin_arceuus_8505]
@@ -177836,8 +177827,8 @@ model1=lord_trobin_arceuus_36351
 head1=lord_trobin_arceuus_36355
 readyanim=lord_trobin_arceuus_ready_8202
 walkanim=lord_trobin_arceuus_ready_8202
-resizeh=168
-resizev=168
+resizeh=152
+resizev=152
 op1=Talk-to
 vislevel=0
 
@@ -179396,6 +179387,7 @@ ambient=30
 [cat_8594]
 name=Cat
 model1=cat_36451
+op1=Pet
 vislevel=0
 visonmap=no
 
@@ -179871,11 +179863,9 @@ drawpriority=yes
 category=category_922
 readyanim=lord_trobin_arceuus_ready_8202
 walkanim=lord_trobin_arceuus_ready_8202
-size=2
 vislevel=1
-multivar=varbit_7856
-multinpc=13,lord_trobin_arceuus_8505
-multinpc=14,lord_trobin_arceuus_8505
+multivar=varbit_12147
+multinpc=1,lord_trobin_arceuus_8505
 drawpriority=yes
 
 [undor_multi_8626]
@@ -180001,13 +179991,9 @@ walkanim_b=lumbridge_guide_walk_b_1206
 walkanim_r=lumbridge_guide_walk_r_1207
 walkanim_l=lumbridge_guide_walk_l_1208
 vislevel=1
-multivar=varbit_8063
-multinpc=0,veos_8484
-multinpc=1,veos_8484
+multivar=varbit_12151
+multinpc=1,veos_10723
 multinpc=2,veos_8484
-multinpc=3,veos_8484
-multinpc=4,veos_8484
-multinpc=5,veos_8484
 drawpriority=yes
 
 [the_mimic_8633]
@@ -180178,61 +180164,6 @@ model2=swamp_bubbles_7766
 vislevel=0
 active=no
 visonmap=no
-
-[captain_tock_multi_8643]
-readyanim=human_ready_808
-walkanim=human_walk_819
-walkanim_b=human_walk_b_820
-walkanim_r=human_walk_r_821
-walkanim_l=human_walk_l_822
-vislevel=0
-multivar=varbit_6071
-multinpc=default,dodgy_geezer_8644
-multinpc=0,captain_tock_716
-multinpc=1,captain_tock_716
-multinpc=2,captain_tock_716
-multinpc=3,captain_tock_716
-multinpc=4,captain_tock_716
-multinpc=5,captain_tock_716
-multinpc=6,captain_tock_716
-multinpc=7,captain_tock_716
-multinpc=8,captain_tock_716
-multinpc=9,captain_tock_716
-drawpriority=yes
-
-[dodgy_geezer_8644]
-name=Dodgy geezer
-model1=male_hair_203
-model2=rick_10304
-model3=stripy_pirate_shirt_11116
-model4=male_arms_167
-model5=dodgy_geezer_24555
-model6=pirate_leggings_11112
-model7=da_vinci_9617
-head1=male_hair_45
-head2=pirate_11187
-readyanim=human_ready_808
-walkanim=human_walk_819
-walkanim_b=human_walk_b_820
-walkanim_r=human_walk_r_821
-walkanim_l=human_walk_l_822
-resizeh=108
-resizev=108
-recol1s=6798
-recol1d=5281
-recol2s=8741
-recol2d=-27450
-recol3s=7719
-recol3d=-27450
-recol4s=9763
-recol4d=-5979
-recol5s=4550
-recol5d=4436
-recol6s=-22464
-recol6d=6709
-op1=Talk-to
-vislevel=0
-drawpriority=yes
 
 [npc_8645]
 model1=3rd_age_range_top_20250
@@ -181433,12 +181364,13 @@ size=2
 vislevel=68
 
 [knight_of_varlamore_multi_8716]
+category=category_922
 readyanim=knight_of_varlamore_ready_7332
 walkanim=human_walk_819
 walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
-vislevel=1
+vislevel=0
 multivar=varbit_8409
 multinpc=0,knight_of_varlamore_7477
 
@@ -217508,4 +217440,433 @@ multinpc=1,enormous_tentacle_10708
 multinpc=2,enormous_tentacle_10709
 multinpc=3,enormous_tentacle_10708
 turnspeed=1024
+
+[radimus_erkle_multi_10712]
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+vislevel=1
+multivar=var_139
+multinpc=0,radimus_erkle_3953
+multinpc=1,radimus_erkle_3953
+multinpc=2,radimus_erkle_3953
+multinpc=3,radimus_erkle_3953
+multinpc=4,radimus_erkle_3953
+multinpc=5,radimus_erkle_3953
+multinpc=6,radimus_erkle_3953
+multinpc=7,radimus_erkle_3953
+multinpc=8,radimus_erkle_3953
+multinpc=9,radimus_erkle_3953
+multinpc=10,radimus_erkle_3953
+multinpc=11,radimus_erkle_3953
+multinpc=12,radimus_erkle_3953
+multinpc=13,radimus_erkle_3953
+multinpc=14,radimus_erkle_3953
+multinpc=15,radimus_erkle_3953
+multinpc=16,radimus_erkle_3953
+multinpc=17,radimus_erkle_3953
+multinpc=18,radimus_erkle_3953
+multinpc=19,radimus_erkle_3953
+multinpc=20,radimus_erkle_3953
+multinpc=21,radimus_erkle_3953
+multinpc=22,radimus_erkle_3953
+multinpc=23,radimus_erkle_3953
+multinpc=24,radimus_erkle_3953
+multinpc=25,radimus_erkle_3953
+multinpc=26,radimus_erkle_3953
+multinpc=27,radimus_erkle_3953
+multinpc=28,radimus_erkle_3953
+multinpc=29,radimus_erkle_3953
+multinpc=30,radimus_erkle_3953
+multinpc=31,radimus_erkle_3953
+multinpc=32,radimus_erkle_3953
+multinpc=33,radimus_erkle_3953
+multinpc=34,radimus_erkle_3953
+multinpc=35,radimus_erkle_3953
+multinpc=36,radimus_erkle_3953
+multinpc=37,radimus_erkle_3953
+multinpc=38,radimus_erkle_3953
+multinpc=39,radimus_erkle_3953
+multinpc=40,radimus_erkle_3953
+multinpc=41,radimus_erkle_3953
+multinpc=42,radimus_erkle_3953
+multinpc=43,radimus_erkle_3953
+multinpc=44,radimus_erkle_3953
+multinpc=45,radimus_erkle_3953
+multinpc=46,radimus_erkle_3953
+multinpc=47,radimus_erkle_3953
+multinpc=48,radimus_erkle_3953
+multinpc=49,radimus_erkle_3953
+
+[radimus_erkle_multi_10713]
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+vislevel=1
+multivar=var_139
+multinpc=50,radimus_erkle_3953
+multinpc=51,radimus_erkle_3953
+multinpc=52,radimus_erkle_3953
+multinpc=53,radimus_erkle_3953
+multinpc=54,radimus_erkle_3953
+multinpc=55,radimus_erkle_3953
+multinpc=56,radimus_erkle_3953
+multinpc=57,radimus_erkle_3953
+multinpc=58,radimus_erkle_3953
+multinpc=59,radimus_erkle_3953
+multinpc=60,radimus_erkle_3953
+multinpc=61,radimus_erkle_3953
+multinpc=62,radimus_erkle_3953
+multinpc=63,radimus_erkle_3953
+multinpc=64,radimus_erkle_3953
+multinpc=65,radimus_erkle_3953
+multinpc=66,radimus_erkle_3953
+multinpc=67,radimus_erkle_3953
+multinpc=68,radimus_erkle_3953
+multinpc=69,radimus_erkle_3953
+multinpc=70,radimus_erkle_3953
+multinpc=71,radimus_erkle_3953
+multinpc=72,radimus_erkle_3953
+multinpc=73,radimus_erkle_3953
+multinpc=74,radimus_erkle_3953
+multinpc=75,radimus_erkle_3953
+multinpc=76,radimus_erkle_3953
+multinpc=77,radimus_erkle_3953
+multinpc=78,radimus_erkle_3953
+multinpc=79,radimus_erkle_3953
+multinpc=80,radimus_erkle_3953
+multinpc=81,radimus_erkle_3953
+multinpc=82,radimus_erkle_3953
+multinpc=83,radimus_erkle_3953
+multinpc=84,radimus_erkle_3953
+multinpc=85,radimus_erkle_3953
+multinpc=86,radimus_erkle_3953
+multinpc=87,radimus_erkle_3953
+multinpc=88,radimus_erkle_3953
+multinpc=89,radimus_erkle_3953
+multinpc=90,radimus_erkle_3953
+multinpc=91,radimus_erkle_3953
+multinpc=92,radimus_erkle_3953
+multinpc=93,radimus_erkle_3953
+multinpc=94,radimus_erkle_3953
+multinpc=95,radimus_erkle_3953
+multinpc=96,radimus_erkle_3953
+multinpc=97,radimus_erkle_3953
+multinpc=98,radimus_erkle_3953
+multinpc=99,radimus_erkle_3953
+multinpc=100,radimus_erkle_3953
+
+[ghostly_thrall_10714]
+name=Ghostly thrall
+model1=ghostly_thrall_41988
+category=category_1540
+readyanim=ghost_ready_5538
+walkanim=ghost_walk_5539
+vislevel=0
+
+[skeletal_thrall_10715]
+name=Skeletal thrall
+model1=skeletal_thrall_41989
+category=category_1540
+readyanim=skeleton_champion_ready_5510
+walkanim=skeleton_champion_walk_5511
+vislevel=0
+
+[zombie_thrall_10716]
+name=Zombie Thrall
+model1=zombie_thrall_41985
+category=category_1540
+readyanim=zombie_ready_5565
+walkanim=zombie_walk_5566
+walkanim_b=zombie_walk_b_5790
+walkanim_r=zombie_walk_r_5788
+walkanim_l=zombie_walk_l_5789
+vislevel=0
+
+[skeleton_10717]
+name=Skeleton
+model1=skeleton_21170
+model2=skeleton_21178
+model3=skeleton_21159
+model4=skeleton_21156
+model5=skeleton_21180
+model6=skeleton_21202
+model7=skeleton_21187
+category=category_257
+readyanim=bones_5483
+walkanim=skeleton_walk_5481
+op2=Attack
+vislevel=25
+
+[skeleton_10718]
+name=Skeleton
+model1=skeleton_21173
+model2=skeleton_21179
+model3=skeleton_21160
+model4=skeleton_21156
+model5=skeleton_21182
+model6=skeleton_21200
+model7=skeleton_21186
+category=category_257
+readyanim=bones_5483
+walkanim=skeleton_walk_5481
+op2=Attack
+vislevel=25
+
+[skeleton_10719]
+name=Skeleton
+model1=skeleton_21175
+model2=skeleton_21179
+model3=skeleton_21161
+model4=skeleton_21156
+model5=skeleton_21181
+model6=skeleton_21205
+model7=skeleton_21187
+category=category_257
+readyanim=bones_5483
+walkanim=skeleton_walk_5481
+op2=Attack
+vislevel=25
+
+[skeleton_10720]
+name=Skeleton
+model1=skeleton_21174
+model2=skeleton_21179
+model3=skeleton_21161
+model4=skeleton_21156
+model5=skeleton_21182
+model6=skeleton_21199
+model7=skeleton_21186
+category=category_257
+readyanim=bones_5483
+walkanim=skeleton_walk_5481
+op2=Attack
+vislevel=25
+
+[skeleton_10721]
+name=Skeleton
+model1=skeleton_21169
+model2=skeleton_21161
+model3=skeleton_21157
+model4=skeleton_21181
+model5=skeleton_21204
+model6=skeleton_21188
+category=category_257
+readyanim=bones_5483
+walkanim=skeleton_walk_5479
+op2=Attack
+vislevel=25
+
+[ice_spider_10722]
+name=Ice spider
+model1=ice_spider_20303
+model2=ice_spider_20304
+category=category_384
+readyanim=venenatis_spiderling_ready_5326
+walkanim=venenatis_spiderling_walk_5325
+op2=Attack
+vislevel=61
+visonmap=no
+
+[veos_10723]
+name=Veos
+model1=veos_41983
+head1=hooded_cloak_48
+head2=male_jaw_82
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+recol1s=8741
+recol1d=-32746
+recol2s=6798
+recol2d=-22440
+op1=Talk-to
+vislevel=0
+
+[veos_10724]
+name=Veos
+model1=veos_41983
+head1=hooded_cloak_48
+head2=male_jaw_82
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+recol1s=8741
+recol1d=-32746
+recol2s=6798
+recol2d=-22440
+op1=Talk-to
+op3=Port Piscarilius
+op4=Land's End
+vislevel=0
+
+[shayzien_sergeant_10725]
+name=Shayzien sergeant
+model1=shayzien_helm_5_29696
+model2=shayzien_platebody_5_29774
+model3=shayzien_platebody_5_29713
+model4=shayzien_gloves_5_29698
+model5=shayzien_greaves_5_29708
+model6=shayzien_boots_5_29783
+model7=bronze_scimitar_490
+model8=bronze_kiteshield_486
+head1=shayzien_helm_5_30948
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=61
+recol1d=-29403
+recol2s=57
+recol2d=7054
+op1=Talk-to
+vislevel=0
+
+[veos_10726]
+name=Veos
+model1=veos_36936
+category=category_922
+head1=hooded_cloak_48
+head2=male_jaw_82
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+recol1s=8741
+recol1d=-32746
+recol2s=6798
+recol2d=-22440
+op1=Talk-to
+op3=Port Sarim
+op4=Land's End
+vislevel=0
+drawpriority=yes
+
+[veos_10727]
+name=Veos
+model1=veos_41983
+category=category_922
+head1=hooded_cloak_48
+head2=male_jaw_82
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+recol1s=8741
+recol1d=-32746
+recol2s=6798
+recol2d=-22440
+op1=Talk-to
+op3=Port Sarim
+op4=Land's End
+vislevel=0
+drawpriority=yes
+
+[woman_10728]
+name=Woman
+model1=female_hair_390
+model2=female_torso_456
+model3=female_arms_332
+model4=female_hands_353
+model5=female_legs_421
+model6=female_feet_358
+category=category_492
+head1=female_hair_113
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=25238
+recol1d=10508
+recol2s=8741
+recol2d=-10342
+recol3s=-22464
+recol3d=4550
+op1=Talk-to
+op2=Attack
+op3=Pickpocket
+vislevel=2
+
+[kourend_guard_10729]
+name=Kourend guard
+model1=shayzien_helm_2_29786
+model2=shayzien_platebody_2_29808
+model3=shayzien_platebody_2_29802
+model4=shayzien_gloves_2_29792
+model5=shayzien_greaves_2_29799
+model6=shayzien_boots_2_29816
+model7=bronze_scimitar_490
+model8=bronze_kiteshield_486
+category=category_470
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=61
+recol1d=8
+recol2s=7054
+recol2d=796
+recol3s=9152
+recol3d=796
+recol4s=6798
+recol4d=3866
+recol5s=4550
+recol5d=4649
+op2=Attack
+op3=Pickpocket
+vislevel=21
+
+[kourend_head_guard_10730]
+name=Kourend head guard
+model1=shayzien_helm_5_29788
+model2=shayzien_platebody_5_29806
+model3=shayzien_platebody_5_29800
+model4=shayzien_gloves_5_29790
+model5=shayzien_greaves_5_29794
+model6=shayzien_boots_5_29815
+model7=dragon_longsword_564
+model8=dragon_sq_shield_565
+category=category_470
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+op2=Attack
+op3=Pickpocket
+vislevel=84
+
+[archer_10731]
+name=Archer
+model1=shayzien_helm_3_29787
+model2=shayzien_platebody_3_29811
+model3=shayzien_platebody_3_29804
+model4=shayzien_gloves_3_29789
+model5=shayzien_greaves_3_29797
+model6=shayzien_boots_3_29812
+model7=longbow_563
+category=category_922
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=6798
+recol1d=6806
+recol2s=4550
+recol2d=4533
+vislevel=0
 

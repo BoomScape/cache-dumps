@@ -103,6 +103,15 @@ full="standard_shield_120,0"
 empty="standard_shield_120,1"
 width=120
 
+[headbar_12]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+full="standard_health_70,0"
+empty="standard_health_70,1"
+width=70
+
 [headbar_13]
 showpriority=250
 hidepriority=250
@@ -343,4 +352,31 @@ duration=300
 full="standard_charge_160,0"
 empty="standard_charge_160,1"
 width=160
+
+[headbar_40]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+full="standard_shield_70,0"
+empty="standard_shield_70,1"
+width=70
+
+[headbar_41]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+full="standard_armour_70,0"
+empty="standard_armour_70,1"
+width=70
+
+[headbar_42]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+full="standard_charge_70,0"
+empty="standard_charge_70,1"
+width=70
 

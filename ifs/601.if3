@@ -662,7 +662,7 @@ height=275
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_601:14
-onload="script712(event_com,1)"
+onload="script4125(event_com)"
 
 [interface_601:72]
 type=^iftype_rectangle

@@ -1301,8 +1301,15 @@ param=param_610,The Depths of Despair
 param=param_611,1
 param=param_612,1
 param=param_613,0
+param=param_614,10
+param=param_615,13
+param=param_1159,4
 param=param_1162,11
 param=param_1160,1
+param=param_648,client_of_kourend_443
+param=param_616,agility
+param=param_617,18
+param=param_657,20
 
 [desert_treasure_345]
 param=param_579,Desert Treasure
@@ -1885,8 +1892,14 @@ param=param_610,The Queen of Thieves
 param=param_611,1
 param=param_612,1
 param=param_613,0
+param=param_614,9
+param=param_615,13
+param=param_1159,3
 param=param_1162,13
 param=param_1160,1
+param=param_648,client_of_kourend_443
+param=param_616,thieving
+param=param_617,20
 
 [rag_and_bone_man_i_410]
 param=param_579,Rag and Bone Man I
@@ -2085,8 +2098,17 @@ param=param_610,Tale of the Righteous
 param=param_611,1
 param=param_612,1
 param=param_613,1
+param=param_614,13
+param=param_615,13
+param=param_1159,7
 param=param_1162,17
 param=param_1160,1
+param=param_648,client_of_kourend_443
+param=param_616,strength
+param=param_617,16
+param=param_618,mining
+param=param_619,10
+param=param_657,20
 
 [a_taste_of_hope_432]
 param=param_579,"Taste of Hope, A"
@@ -2193,6 +2215,9 @@ param=param_610,Client of Kourend
 param=param_611,1
 param=param_612,0
 param=param_613,1
+param=param_614,9
+param=param_615,13
+param=param_1159,2
 param=param_1162,7
 param=param_1160,1
 
@@ -2976,8 +3001,15 @@ param=param_610,The Ascent of Arceuus
 param=param_611,1
 param=param_612,1
 param=param_613,0
+param=param_614,11
+param=param_615,13
+param=param_1159,5
 param=param_1162,14
 param=param_1160,1
+param=param_648,client_of_kourend_443
+param=param_616,hunter
+param=param_617,12
+param=param_657,20
 
 [the_forsaken_tower_543]
 param=param_579,"Forsaken Tower, The"
@@ -2985,8 +3017,12 @@ param=param_610,The Forsaken Tower
 param=param_611,1
 param=param_612,1
 param=param_613,0
+param=param_614,12
+param=param_615,13
+param=param_1159,6
 param=param_1162,11
 param=param_1160,1
+param=param_648,client_of_kourend_443
 
 [struct_544]
 param=param_569,dragonfruit_pie_22795
@@ -3017,6 +3053,8 @@ param=param_611,0
 param=param_612,0
 param=param_613,0
 param=param_614,0
+param=param_615,13
+param=param_1159,1
 param=param_1160,1
 param=param_1162,8
 
@@ -5780,7 +5818,7 @@ param=league_task_tier_876,3
 param=setting_search_keywords_1088,"Resizable mode - Transparent side-panel,side panel,side,panel,opaque,Resizable mode Transparent side-panel,Advanced Display Settings"
 param=setting_id_1077,2
 param=setting_type_1078,0
-param=setting_name_1086,Resizable mode - Transparent side-panel
+param=setting_name_1086,Resizable mode - Transparent side panel
 param=param_739,yes
 param=setting_toggle_inverse_1084,yes
 param=param_1082,enum_3502
@@ -5790,14 +5828,14 @@ param=setting_check_fail_mes_1116,You can only change this setting while playing
 param=setting_desc_1096,"When enabled, your side panel will be transparent."
 
 [struct_1053]
-param=setting_search_keywords_1088,"Modern Layout - Side-panels can be closed by the hotkeys,Modern Layout Side-panels can be closed by the hotkeys,Modern Layout - Side panels can be closed by the hotkeys,Modern Layout Side panels can be closed by the hotkeys,Advanced Display Settings"
+param=setting_search_keywords_1088,"Modern Layout - Side-panel can be closed by the hotkeys,Modern Layout Side-panel can be closed by the hotkeys,Modern Layout - Side panel can be closed by the hotkeys,Modern Layout Side panel can be closed by the hotkeys,Advanced Display Settings"
 param=setting_id_1077,54
 param=setting_type_1078,0
-param=setting_name_1086,Modern Layout - Side-panels can be closed by the hotkeys
+param=setting_name_1086,Modern Layout - Side panel can be closed by the hotkeys
 param=param_739,yes
 param=setting_toggle_inverse_1084,yes
-param=param_1080,enum_3496
-param=param_1081,enum_3497
+param=param_1080,enum_3743
+param=param_1081,enum_3744
 param=setting_check_fail_mes_1116,You can only change this setting while playing in the resizable - modern layout.
 param=setting_choose_transmit_1085,yes
 param=setting_desc_1096,"When enabled, pressing the hotkey assigned to an already open side panel will close it."
@@ -6967,25 +7005,6 @@ param=param_910,"ii_impling_icons,5"
 [struct_1244]
 param=param_729,Grand<br>Exchange
 
-[lumbridge_grave_1245]
-param=param_659,20
-param=param_660,Lumbridge Grave'
-param=param_661,portal_nexus_27106
-param=param_662,portal_nexus_37558
-param=param_663,portal_nexus_37570
-param=param_664,law_rune_563
-param=param_668,1000
-param=param_665,earth_rune_557
-param=param_669,2000
-param=param_672,magic
-param=param_673,6
-param=param_675,"magic_necro_on,22"
-param=param_677,"magic_necro_off,22"
-param=param_676,"2x_necro_spells_on,22"
-param=param_678,"2x_necro_spells_off,22"
-param=param_681,20
-param=param_674,1
-
 [draynor_manor_1246]
 param=param_659,21
 param=param_660,Draynor Manor
@@ -7000,10 +7019,10 @@ param=param_666,water_rune_555
 param=param_670,1000
 param=param_672,magic
 param=param_673,17
-param=param_675,"magic_necro_on,23"
-param=param_677,"magic_necro_off,23"
-param=param_676,"2x_necro_spells_on,23"
-param=param_678,"2x_necro_spells_off,23"
+param=param_675,"magic_necro_on,6"
+param=param_677,"magic_necro_off,6"
+param=param_676,"2x_necro_spells_on,6"
+param=param_678,"2x_necro_spells_off,6"
 param=param_681,21
 param=param_674,1
 
@@ -7021,10 +7040,10 @@ param=param_666,earth_rune_557
 param=param_670,1000
 param=param_672,magic
 param=param_673,23
-param=param_675,"magic_necro_on,31"
-param=param_677,"magic_necro_off,31"
-param=param_676,"2x_necro_spells_on,31"
-param=param_678,"2x_necro_spells_off,31"
+param=param_675,"magic_necro_on,8"
+param=param_677,"magic_necro_off,8"
+param=param_676,"2x_necro_spells_on,8"
+param=param_678,"2x_necro_spells_off,8"
 param=param_681,22
 param=param_674,1
 
@@ -7040,10 +7059,10 @@ param=param_665,mind_rune_558
 param=param_669,2000
 param=param_672,magic
 param=param_673,28
-param=param_675,"magic_necro_on,24"
-param=param_677,"magic_necro_off,24"
-param=param_676,"2x_necro_spells_on,24"
-param=param_678,"2x_necro_spells_off,24"
+param=param_675,"magic_necro_on,9"
+param=param_677,"magic_necro_off,9"
+param=param_676,"2x_necro_spells_on,9"
+param=param_678,"2x_necro_spells_off,9"
 param=param_681,23
 param=param_674,1
 
@@ -7059,10 +7078,10 @@ param=param_665,law_rune_563
 param=param_669,1000
 param=param_672,magic
 param=param_673,34
-param=param_675,"magic_necro_on,26"
-param=param_677,"magic_necro_off,26"
-param=param_676,"2x_necro_spells_on,26"
-param=param_678,"2x_necro_spells_off,26"
+param=param_675,"magic_necro_on,7"
+param=param_677,"magic_necro_off,7"
+param=param_676,"2x_necro_spells_on,7"
+param=param_678,"2x_necro_spells_off,7"
 param=param_681,24
 param=param_674,1
 
@@ -7080,10 +7099,10 @@ param=param_666,earth_rune_557
 param=param_670,1000
 param=param_672,magic
 param=param_673,48
-param=param_675,"magic_necro_on,27"
-param=param_677,"magic_necro_off,27"
-param=param_676,"2x_necro_spells_on,27"
-param=param_678,"2x_necro_spells_off,27"
+param=param_675,"magic_necro_on,12"
+param=param_677,"magic_necro_off,12"
+param=param_676,"2x_necro_spells_on,12"
+param=param_678,"2x_necro_spells_off,12"
 param=param_681,25
 param=param_674,1
 
@@ -7099,10 +7118,10 @@ param=param_665,law_rune_563
 param=param_669,2000
 param=param_672,magic
 param=param_673,61
-param=param_675,"magic_necro_on,28"
-param=param_677,"magic_necro_off,28"
-param=param_676,"2x_necro_spells_on,28"
-param=param_678,"2x_necro_spells_off,28"
+param=param_675,"magic_necro_on,13"
+param=param_677,"magic_necro_off,13"
+param=param_676,"2x_necro_spells_on,13"
+param=param_678,"2x_necro_spells_off,13"
 param=param_681,26
 param=param_674,1
 
@@ -7120,10 +7139,10 @@ param=param_666,nature_rune_561
 param=param_670,1000
 param=param_672,magic
 param=param_673,65
-param=param_675,"magic_necro_on,29"
-param=param_677,"magic_necro_off,29"
-param=param_676,"2x_necro_spells_on,29"
-param=param_678,"2x_necro_spells_off,29"
+param=param_675,"magic_necro_on,14"
+param=param_677,"magic_necro_off,14"
+param=param_676,"2x_necro_spells_on,14"
+param=param_678,"2x_necro_spells_off,14"
 param=param_681,27
 param=param_674,1
 
@@ -7141,10 +7160,10 @@ param=param_666,law_rune_563
 param=param_670,1000
 param=param_672,magic
 param=param_673,71
-param=param_675,"magic_necro_on,30"
-param=param_677,"magic_necro_off,30"
-param=param_676,"2x_necro_spells_on,30"
-param=param_678,"2x_necro_spells_off,30"
+param=param_675,"magic_necro_on,17"
+param=param_677,"magic_necro_off,17"
+param=param_676,"2x_necro_spells_on,17"
+param=param_678,"2x_necro_spells_off,17"
 param=param_681,28
 param=param_674,1
 
@@ -7162,10 +7181,10 @@ param=param_666,law_rune_563
 param=param_670,2000
 param=param_672,magic
 param=param_673,83
-param=param_675,"magic_necro_on,31"
-param=param_677,"magic_necro_off,31"
-param=param_676,"2x_necro_spells_on,31"
-param=param_678,"2x_necro_spells_off,31"
+param=param_675,"magic_necro_on,15"
+param=param_677,"magic_necro_off,15"
+param=param_676,"2x_necro_spells_on,15"
+param=param_678,"2x_necro_spells_off,15"
 param=param_681,29
 param=param_674,1
 
@@ -7183,10 +7202,10 @@ param=param_666,law_rune_563
 param=param_670,2000
 param=param_672,magic
 param=param_673,90
-param=param_675,"magic_necro_on,32"
-param=param_677,"magic_necro_off,32"
-param=param_676,"2x_necro_spells_on,32"
-param=param_678,"2x_necro_spells_off,32"
+param=param_675,"magic_necro_on,16"
+param=param_677,"magic_necro_off,16"
+param=param_676,"2x_necro_spells_on,16"
+param=param_678,"2x_necro_spells_off,16"
 param=param_681,30
 param=param_674,1
 
@@ -17852,4 +17871,37 @@ param=param_1185,1000
 [camdozaal_2885]
 param=param_689,Camdozaal
 param=param_690,enum_3740
+
+[struct_2886]
+param=setting_search_keywords_1088,"Modern Layout - Side-panel visual appearance,Modern Layout Side-panel visual appearance,Modern Layout Side panel visual appearance,Side-panel visual appearance,Side panel visual appearance,Advanced Display Settings"
+param=setting_id_1077,86
+param=setting_type_1078,2
+param=setting_name_1086,Modern Layout - Side panel visual appearance
+param=setting_name_mobile_1087,Side panel visual appearance
+param=setting_dropdown_list_1091,enum_3745
+param=param_1080,enum_3743
+param=param_1081,enum_3744
+param=param_1186,yes
+param=setting_choose_transmit_1085,yes
+param=setting_check_fail_mes_1116,You can only change this setting while playing in the resizable - modern layout.
+param=setting_desc_1096,Which visual appearance your side panel should take.
+
+[arceuus_library_2887]
+param=param_659,20
+param=param_660,Arceuus Library
+param=param_661,portal_nexus_41413
+param=param_662,portal_nexus_41414
+param=param_663,portal_nexus_41415
+param=param_664,law_rune_563
+param=param_668,1000
+param=param_665,earth_rune_557
+param=param_669,2000
+param=param_672,magic
+param=param_673,6
+param=param_675,"magic_necro_on,5"
+param=param_677,"magic_necro_off,5"
+param=param_676,"2x_necro_spells_on,5"
+param=param_678,"2x_necro_spells_off,5"
+param=param_681,20
+param=param_674,1
 
