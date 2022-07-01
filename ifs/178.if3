@@ -19,7 +19,6 @@ y=43
 width=358
 height=250
 layer=interface_178:0
-onload="script23(event_com,11665411)"
 
 [interface_178:3]
 type=^iftype_layer
@@ -43,7 +42,7 @@ x=42
 y=23
 width=130
 height=26
-colour=^yellow
+colour=0xff981f
 font=p12_full
 valign=^settextalign_centre
 shadowed=yes
