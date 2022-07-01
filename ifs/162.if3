@@ -353,9 +353,7 @@ layer=interface_162:30
 
 [interface_162:32]
 type=^iftype_layer
-y=6
-width=10
-height=16
+height=30
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus

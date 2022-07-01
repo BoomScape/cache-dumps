@@ -1976,7 +1976,6 @@ iop1=Drink
 iop4=Empty
 recol1s=61
 recol1d=18372
-members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -1996,7 +1995,6 @@ iop1=Drink
 iop4=Empty
 recol1s=61
 recol1d=18372
-members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -2016,7 +2014,6 @@ iop1=Drink
 iop4=Empty
 recol1s=61
 recol1d=18372
-members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -26509,7 +26506,6 @@ iop1=Drink
 iop4=Empty
 recol1s=61
 recol1d=18372
-members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
@@ -209434,4 +209430,74 @@ cost=50
 iop1=Read
 iop5=Destroy
 members=yes
+
+[bryophytas_staff_uncharged_22368]
+name=Bryophyta's staff (uncharged)
+model=bryophytas_staff_uncharged_29029
+manwear=bryophytas_staff_uncharged_28603,0
+womanwear=bryophytas_staff_uncharged_28603,6
+cost=65000
+2dzoom=1808
+2dxof=1
+2dyof=-18
+2dxan=1315
+2dyan=452
+iop2=Wield
+iop3=Check
+members=yes
+stockmarket=yes
+certificate=yes
+param=param_451,Check
+
+[cert_bryophytas_staff_uncharged_22369]
+certificate=yes
+
+[bryophytas_staff_22370]
+name=Bryophyta's staff
+model=bryophytas_staff_28613
+manwear=bryophytas_staff_28607,0
+womanwear=bryophytas_staff_28607,6
+cost=65000
+2dzoom=1808
+2dxof=1
+2dyof=-18
+2dxan=1315
+2dyan=452
+iop2=Wield
+iop3=Check
+iop4=Uncharge
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_bryophytas_staff_22371]
+placeholder=yes
+
+[bryophytas_essence_22372]
+name=Bryophyta's essence
+model=bryophytas_essence_29024
+cost=7000
+2dzoom=1864
+2dxof=3
+2dyof=13
+2dxan=392
+2dyan=2047
+members=yes
+stockmarket=yes
+certificate=yes
+
+[cert_bryophytas_essence_22373]
+certificate=yes
+
+[mossy_key_22374]
+name=Mossy key
+model=mossy_key_28612
+2dzoom=840
+2dxof=-1
+2dxan=788
+2dyan=473
+placeholder=yes
+
+[placeholder_mossy_key_22375]
+placeholder=yes
 

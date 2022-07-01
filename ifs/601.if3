@@ -1,16 +1,16 @@
 [interface_601:0]
 type=^iftype_layer
 y=80
-width=33
-height=270
+width=66
+height=300
 vposmode=^setpos_abs_centre
 layer=interface_601:18
 noclickthrough=yes
 
 [interface_601:1]
 type=^iftype_layer
-width=45
-height=45
+width=66
+height=66
 vposmode=^setpos_abs_bottom
 layer=interface_601:18
 noclickthrough=yes
@@ -25,8 +25,8 @@ noclickthrough=yes
 [interface_601:3]
 type=^iftype_layer
 y=80
-width=33
-height=270
+width=66
+height=300
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_601:18
@@ -130,10 +130,11 @@ layer=interface_601:25
 onload="script712(event_com,1)"
 
 [interface_601:15]
-type=^iftype_rectangle
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-fill=yes
 onload="script901(event_com,1745)"
 
 [interface_601:16]
@@ -211,7 +212,6 @@ vsizemode=^setsize_proportion
 [interface_601:26]
 type=^iftype_layer
 y=25
-width=215
 height=41
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -219,26 +219,24 @@ layer=interface_601:4
 
 [interface_601:27]
 type=^iftype_layer
-x=5
+x=35
 y=64
 width=512
 height=334
-hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_601:26
 
 [interface_601:28]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
+width=576
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_601:26
 
 [interface_601:29]
 type=^iftype_layer
 contenttype=1336
-x=10
+x=215
 y=7
 width=120
 height=100
@@ -460,12 +458,13 @@ graphic="side_icons,11"
 
 [interface_601:51]
 type=^iftype_graphic
-y=148
+x=1
+y=146
 width=32
 height=36
 hposmode=^setpos_abs_right
 layer=interface_601:11
-graphic="side_icons,12"
+graphic="sideicons_new,14"
 
 [interface_601:52]
 type=^iftype_graphic
@@ -594,11 +593,11 @@ layer=interface_601:13
 [interface_601:65]
 type=^iftype_graphic
 x=2
-y=147
+y=148
 width=32
 height=36
 layer=interface_601:13
-graphic="sideicons_new,14"
+graphic="side_icons,12"
 
 [interface_601:66]
 type=^iftype_graphic

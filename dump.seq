@@ -48373,6 +48373,15 @@ framecount=8
 looptype=1
 framegroup1=475
 
+[seq_7981]
+framecount=12
+priority=6
+offhand=22880
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=244
+
 [seq_7994]
 framecount=8
 priority=6
