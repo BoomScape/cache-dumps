@@ -48294,231 +48294,231 @@ model=pot_of_flour_2406
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4256]
-name=Bonemeal
+[bat_bonemeal_4256]
+name=Bat bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4257]
-name=Bonemeal
+[big_bonemeal_4257]
+name=Big bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4258]
-name=Bonemeal
+[burnt_bonemeal_4258]
+name=Burnt bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=28
 members=yes
 placeholder=yes
 
-[bonemeal_4259]
-name=Bonemeal
+[burnt_jogre_bonemeal_4259]
+name=Burnt jogre bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=28
 members=yes
 placeholder=yes
 
-[bonemeal_4260]
-name=Bonemeal
+[baby_dragon_bonemeal_4260]
+name=Baby dragon bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=70
 members=yes
 placeholder=yes
 
-[bonemeal_4261]
-name=Bonemeal
+[dragon_bonemeal_4261]
+name=Dragon bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=78
 members=yes
 placeholder=yes
 
-[bonemeal_4262]
-name=Bonemeal
+[wolf_bonemeal_4262]
+name=Wolf bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=82
 members=yes
 placeholder=yes
 
-[bonemeal_4263]
-name=Bonemeal
+[small_ninja_bonemeal_4263]
+name=Small ninja bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4264]
-name=Bonemeal
+[medium_ninja_bonemeal_4264]
+name=Medium ninja bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4265]
-name=Bonemeal
+[gorilla_bonemeal_4265]
+name=Gorilla bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4266]
-name=Bonemeal
+[bearded_gorilla_bonemeal_4266]
+name=Bearded gorilla bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4267]
-name=Bonemeal
+[monkey_bonemeal_4267]
+name=Monkey bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4268]
-name=Bonemeal
+[small_zombie_monkey_bonemeal_4268]
+name=Small zombie monkey bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4269]
-name=Bonemeal
+[large_zombie_monkey_bonemeal_4269]
+name=Large zombie monkey bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4270]
-name=Bonemeal
+[skeleton_bonemeal_4270]
+name=Skeleton bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4271]
-name=Bonemeal
+[jogre_bonemeal_4271]
+name=Jogre bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
@@ -55780,57 +55780,57 @@ placeholder=yes
 [cert_ogre_coffin_key_4851]
 certificate=yes
 
-[bonemeal_4852]
-name=Bonemeal
+[zogre_bonemeal_4852]
+name=Zogre bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4853]
-name=Bonemeal
+[fayrg_bonemeal_4853]
+name=Fayrg bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4854]
-name=Bonemeal
+[raurg_bonemeal_4854]
+name=Raurg bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
 placeholder=yes
 
-[bonemeal_4855]
-name=Bonemeal
+[ourg_bonemeal_4855]
+name=Ourg bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
@@ -65304,15 +65304,15 @@ members=yes
 ambient=-50
 contrast=-50
 
-[bonemeal_5615]
-name=Bonemeal
+[shaikahan_bonemeal_5615]
+name=Shaikahan bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=74
 members=yes
@@ -77965,15 +77965,15 @@ certificate=yes
 [cert_mystic_mud_staff_6727]
 certificate=yes
 
-[bonemeal_6728]
-name=Bonemeal
+[dagannoth_king_bonemeal_6728]
+name=Dagannoth-king bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=10295
 members=yes
@@ -79103,15 +79103,15 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[bonemeal_6810]
-name=Bonemeal
+[wyvern_bonemeal_6810]
+name=Wyvern bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=78
 members=yes
@@ -142618,15 +142618,15 @@ placeholder=yes
 [cert_dragon_pickaxe_11921]
 certificate=yes
 
-[bonemeal_11922]
-name=Bonemeal
+[lava_dragon_bonemeal_11922]
+name=Lava dragon bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=7397
 members=yes
@@ -151609,6 +151609,8 @@ cost=150000
 2dxan=228
 2dyan=141
 iop2=Wear
+recol1s=32704
+recol1d=-23600
 members=yes
 placeholder=yes
 
@@ -154451,7 +154453,6 @@ manwear=hunters_honour_21828,0
 womanwear=hunters_honour_21831,0
 manhead=hunters_honour_21833
 femalehead=hunters_honour_21833
-cost=40000
 2dzoom=1000
 2dxof=1
 2dyof=-15
@@ -154469,7 +154470,6 @@ manwear=rogues_revenge_21829,0
 womanwear=rogues_revenge_21830,0
 manhead=rogues_revenge_21834
 femalehead=rogues_revenge_21834
-cost=40000
 2dzoom=1000
 2dxof=1
 2dyof=-17
@@ -177395,76 +177395,76 @@ placeholder=yes
 [placeholder_bonemeal_17790]
 placeholder=yes
 
-[placeholder_bonemeal_17791]
+[placeholder_bat_bonemeal_17791]
 placeholder=yes
 
-[placeholder_bonemeal_17792]
+[placeholder_big_bonemeal_17792]
 placeholder=yes
 
-[placeholder_bonemeal_17793]
+[placeholder_burnt_bonemeal_17793]
 placeholder=yes
 
-[placeholder_bonemeal_17794]
+[placeholder_burnt_jogre_bonemeal_17794]
 placeholder=yes
 
-[placeholder_bonemeal_17795]
+[placeholder_baby_dragon_bonemeal_17795]
 placeholder=yes
 
-[placeholder_bonemeal_17796]
+[placeholder_dragon_bonemeal_17796]
 placeholder=yes
 
-[placeholder_bonemeal_17797]
+[placeholder_lava_dragon_bonemeal_17797]
 placeholder=yes
 
-[placeholder_bonemeal_17798]
+[placeholder_wolf_bonemeal_17798]
 placeholder=yes
 
-[placeholder_bonemeal_17799]
+[placeholder_small_ninja_bonemeal_17799]
 placeholder=yes
 
-[placeholder_bonemeal_17800]
+[placeholder_medium_ninja_bonemeal_17800]
 placeholder=yes
 
-[placeholder_bonemeal_17801]
+[placeholder_gorilla_bonemeal_17801]
 placeholder=yes
 
-[placeholder_bonemeal_17802]
+[placeholder_bearded_gorilla_bonemeal_17802]
 placeholder=yes
 
-[placeholder_bonemeal_17803]
+[placeholder_monkey_bonemeal_17803]
 placeholder=yes
 
-[placeholder_bonemeal_17804]
+[placeholder_small_zombie_monkey_bonemeal_17804]
 placeholder=yes
 
-[placeholder_bonemeal_17805]
+[placeholder_large_zombie_monkey_bonemeal_17805]
 placeholder=yes
 
-[placeholder_bonemeal_17806]
+[placeholder_skeleton_bonemeal_17806]
 placeholder=yes
 
-[placeholder_bonemeal_17807]
+[placeholder_jogre_bonemeal_17807]
 placeholder=yes
 
-[placeholder_bonemeal_17808]
+[placeholder_zogre_bonemeal_17808]
 placeholder=yes
 
-[placeholder_bonemeal_17809]
+[placeholder_fayrg_bonemeal_17809]
 placeholder=yes
 
-[placeholder_bonemeal_17810]
+[placeholder_raurg_bonemeal_17810]
 placeholder=yes
 
-[placeholder_bonemeal_17811]
+[placeholder_ourg_bonemeal_17811]
 placeholder=yes
 
-[placeholder_bonemeal_17812]
+[placeholder_shaikahan_bonemeal_17812]
 placeholder=yes
 
-[placeholder_bonemeal_17813]
+[placeholder_dagannoth_king_bonemeal_17813]
 placeholder=yes
 
-[placeholder_bonemeal_17814]
+[placeholder_wyvern_bonemeal_17814]
 placeholder=yes
 
 [placeholder_griffin_feather_17815]
@@ -192677,6 +192677,8 @@ model=saradomin_halo_28844
 2dxof=3
 2dxan=228
 2dyan=141
+recol1s=32704
+recol1d=-23600
 members=yes
 ambient=-25
 placeholder=yes
@@ -209300,21 +209302,21 @@ param=param_451,Teleport
 [placeholder_mythical_cape_22115]
 placeholder=yes
 
-[bonemeal_22116]
-name=Bonemeal
+[superior_dragon_bonemeal_22116]
+name=Superior dragon bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=31192
 members=yes
 placeholder=yes
 
-[placeholder_bonemeal_22117]
+[placeholder_superior_dragon_bonemeal_22117]
 placeholder=yes
 
 [wrath_talisman_22118]
@@ -215567,55 +215569,55 @@ placeholder=yes
 [placeholder_ikkle_hydra_22753]
 placeholder=yes
 
-[bonemeal_22754]
-name=Bonemeal
+[wyrm_bonemeal_22754]
+name=Wyrm bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=-30400
 members=yes
 placeholder=yes
 
-[placeholder_bonemeal_22755]
+[placeholder_wyrm_bonemeal_22755]
 placeholder=yes
 
-[bonemeal_22756]
-name=Bonemeal
+[drake_bonemeal_22756]
+name=Drake bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=15680
 members=yes
 placeholder=yes
 
-[placeholder_bonemeal_22757]
+[placeholder_drake_bonemeal_22757]
 placeholder=yes
 
-[bonemeal_22758]
-name=Bonemeal
+[hydra_bonemeal_22758]
+name=Hydra bonemeal
 model=pot_of_flour_2406
 2dzoom=990
 2dxof=-1
 2dyof=2
 2dxan=112
 2dyan=8
-iop2=Empty
+iop4=Empty
 recol1s=127
 recol1d=-576
 members=yes
 placeholder=yes
 
-[placeholder_bonemeal_22759]
+[placeholder_hydra_bonemeal_22759]
 placeholder=yes
 
 [lovakengj_favour_certificate_22760]
@@ -229273,6 +229275,8 @@ cost=150000
 2dxan=228
 2dyan=141
 iop2=Wear
+recol1s=32704
+recol1d=-23600
 members=yes
 
 [zamorak_halo_l_24170]
@@ -234093,8 +234097,8 @@ name=Twisted ancestral hat
 model=twisted_ancestral_hat_39587
 manwear=twisted_ancestral_hat_39531,0
 womanwear=twisted_ancestral_hat_39538,0
-manhead=ancestral_hat_32774
-femalehead=ancestral_hat_34263
+manhead=twisted_ancestral_hat_31182
+femalehead=twisted_ancestral_hat_31183
 cost=45000
 2dzoom=1236
 2dyof=-12

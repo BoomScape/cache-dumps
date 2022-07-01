@@ -838,8 +838,8 @@ val=thieving_cape_10650,Thieving cape
 val=woodcutting_cape_10660,Woodcutting cape
 val=hunter_cape_10646,Hunter cape
 val=quest_point_cape_10662,Quest point cape
-val=achievement_diary_cape_t_13069,Accomplishment cape (t)
-val=achievement_diary_cape_19476,Accomplishment cape
+val=achievement_diary_cape_t_13069,Achievement Diary cape (t)
+val=achievement_diary_cape_19476,Achievement Diary cape
 val=music_cape_13224,Music cape
 val=max_cape_13282,Max cape
 val=infernal_cape_21295,Infernal Cape
@@ -2383,6 +2383,7 @@ val=36,western_banner_3983
 val=37,radas_blessing_22803
 val=38,keris_10581
 val=39,bearhead_4502
+val=40,beacon_ring_11014
 
 [enum_768]
 inputtype=int
@@ -2428,6 +2429,7 @@ val=36,200
 val=37,200
 val=38,25000
 val=39,10000
+val=40,6000
 
 [enum_771]
 inputtype=int
@@ -6772,7 +6774,7 @@ val=8,-1
 val=6,-1
 val=12,330
 val=17,-1
-val=9,492
+val=9,-1
 val=20,323
 val=16,376
 
@@ -17249,6 +17251,7 @@ val=19,Enchant
 val=20,Buy
 val=21,Light
 val=22,Make
+val=23,Take
 
 [enum_1810]
 inputtype=int
