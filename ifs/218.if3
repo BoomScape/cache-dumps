@@ -8,9 +8,10 @@ onload="script2262(event_com,14286849,14286851,14287026,14286850,14287028,142870
 
 [interface_218:1]
 type=^iftype_layer
+width=6
+height=240
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-vsizemode=^setsize_minus
 layer=interface_218:0
 
 [interface_218:2]
@@ -1698,7 +1699,6 @@ height=17
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-hide=yes
 layer=interface_218:0
 
 [interface_218:185]

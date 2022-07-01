@@ -33518,6 +33518,11 @@ basevar=var_1808
 startbit=8
 endbit=9
 
+[varbit_6704]
+basevar=var_1795
+startbit=1
+endbit=1
+
 [varbit_6705]
 basevar=var_1782
 startbit=22
@@ -33567,4 +33572,19 @@ endbit=0
 basevar=var_1812
 startbit=0
 endbit=0
+
+[varbit_6715]
+basevar=var_1795
+startbit=2
+endbit=4
+
+[varbit_6716]
+basevar=var_1753
+startbit=17
+endbit=21
+
+[varbit_6717]
+basevar=var_621
+startbit=0
+endbit=30
 
