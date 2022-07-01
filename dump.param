@@ -2109,3 +2109,24 @@ type=int
 [param_1352]
 type=boolean
 
+[param_1371]
+type=int
+
+[param_1372]
+type=string
+default=
+
+[param_1373]
+type=string
+default=
+
+[param_1374]
+type=int
+
+[param_1375]
+type=int
+
+[param_1384]
+type=graphic
+default=null
+

@@ -738,3 +738,11 @@ colour=0x666547
 [flo_192]
 colour=0x8f8e4d
 
+[flo_193]
+colour=0x431d1b
+occlude=no
+
+[flo_194]
+colour=0x241a19
+occlude=no
+

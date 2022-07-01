@@ -3,7 +3,7 @@ type=^iftype_layer
 width=190
 height=261
 onload="script420"
-onvartransmit="script420{var_843,var_43}"
+onvartransmit="script420{var_843,var_43,var_1105}"
 
 [interface_593:1]
 type=^iftype_text

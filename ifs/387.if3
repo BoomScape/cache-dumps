@@ -361,6 +361,17 @@ op10="*"
 
 [interface_387:26]
 type=^iftype_layer
+x=18
+y=4
+width=36
+height=36
+layer=interface_387:0
+optionmask=2
+op1="*"
+onload="script5235(event_com)"
+
+[interface_387:27]
+type=^iftype_layer
 x=118
 y=4
 width=36

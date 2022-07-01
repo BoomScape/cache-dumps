@@ -1,7 +1,7 @@
 [interface_553:0]
 type=^iftype_layer
 width=488
-height=326
+height=330
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 
@@ -40,21 +40,21 @@ zoom=578
 
 [interface_553:4]
 type=^iftype_text
-y=40
-height=16
+y=39
+height=12
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_553:0
 text="First please enter the name of the offending player below:"
 colour=0xff981f
-font=p12_full
+font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
 [interface_553:5]
 type=^iftype_text
-y=58
+y=52
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -68,72 +68,35 @@ shadowed=yes
 
 [interface_553:6]
 type=^iftype_text
-y=75
-height=30
+y=69
+height=34
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_553:0
-text="This form is for reporting players who are breaking our rules. <br>Using it sends a snapshot of the last 60 secs of activity to us."
+text="This form is for reporting players who are breaking our rules. <br>Using it sends a snapshot of the last 60 secs of activity to us.<br><col=ff981f>Please do not misuse this form.</col>"
 colour=^white
 font=p11_full
 halign=^settextalign_centre
-paraheight=12
+valign=^settextalign_centre
+paraheight=11
 shadowed=yes
 
 [interface_553:7]
-type=^iftype_text
-y=99
-height=16
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_553:0
-text="Please do not misuse this form."
-colour=0xff981f
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_553:8]
-type=^iftype_text
-y=135
-height=28
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_553:0
-colour=0xff981f
-font=p11_full
-halign=^settextalign_centre
-paraheight=12
-shadowed=yes
-
-[interface_553:9]
 type=^iftype_layer
-y=10
-width=30
-height=152
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
-hsizemode=^setsize_minus
-layer=interface_553:0
-onload="script1120(event_com,36241416)"
-
-[interface_553:10]
-type=^iftype_layer
-y=110
+y=104
 width=8192
-height=30
+height=22
 hposmode=^setpos_abs_right
 hsizemode=^setsize_proportion
 layer=interface_553:0
 
-[interface_553:11]
+[interface_553:8]
 type=^iftype_text
 x=30
 width=150
-height=20
 vposmode=^setpos_abs_centre
-layer=interface_553:10
+vsizemode=^setsize_minus
+layer=interface_553:7
 text="Add player to the ignore list"
 colour=^white
 font=p11_full
@@ -141,39 +104,39 @@ valign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="Select"
-onmouseleave="script40(36241424)"
-onop="script1325(36241420)"
-onmouserepeat="script526(event_com,-1,36241424,Attempts to add the reported player to your ignore list.,30,200)"
+onmouseleave="script40(36241423)"
+onop="script1325(36241417)"
+onmouserepeat="script526(event_com,-1,36241423,Attempts to add the reported player to your ignore list.,30,200)"
 
-[interface_553:12]
+[interface_553:9]
 type=^iftype_graphic
 x=10
 width=16
 height=16
 vposmode=^setpos_abs_centre
-layer=interface_553:10
+layer=interface_553:7
 graphic="checkbox,2"
 optionmask=2
 op1="Select"
-onmouseleave="script40(36241424)"
-onop="script1325(36241420)"
-onmouserepeat="script526(event_com,-1,36241424,Attempts to add the reported player to your ignore list.,30,200)"
+onmouseleave="script40(36241423)"
+onop="script1325(36241417)"
+onmouserepeat="script526(event_com,-1,36241423,Attempts to add the reported player to your ignore list.,30,200)"
 
-[interface_553:13]
+[interface_553:10]
 type=^iftype_layer
-y=110
+y=104
 width=8192
-height=30
+height=22
 hsizemode=^setsize_proportion
 layer=interface_553:0
 
-[interface_553:14]
+[interface_553:11]
 type=^iftype_text
 width=160
-height=20
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_553:13
+vsizemode=^setsize_minus
+layer=interface_553:10
 text="Mute player (Moderators only)"
 colour=^white
 font=p11_full
@@ -181,25 +144,51 @@ valign=^settextalign_centre
 shadowed=yes
 optionmask=2
 op1="Select"
-onmouseleave="script40(36241424)"
-onop="script1324(36241423)"
-onmouserepeat="script526(event_com,-1,36241424,Only available to moderators - applies mute to the reported player.,30,200)"
+onmouseleave="script40(36241423)"
+onop="script1324(36241420)"
+onmouserepeat="script526(event_com,-1,36241423,Only available to moderators - applies mute to the reported player.,30,200)"
 
-[interface_553:15]
+[interface_553:12]
 type=^iftype_graphic
 x=64
 width=16
 height=16
 vposmode=^setpos_abs_centre
-layer=interface_553:13
+layer=interface_553:10
 graphic="checkbox,0"
 optionmask=2
 op1="Select"
-onmouseleave="script40(36241424)"
-onop="script1324(36241423)"
-onmouserepeat="script526(event_com,-1,36241424,Only available to moderators - applies mute to the reported player.,30,200)"
+onmouseleave="script40(36241423)"
+onop="script1324(36241420)"
+onmouserepeat="script526(event_com,-1,36241423,Only available to moderators - applies mute to the reported player.,30,200)"
 
-[interface_553:16]
+[interface_553:13]
+type=^iftype_text
+y=127
+height=23
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_553:0
+colour=0xff981f
+font=p11_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+paraheight=11
+shadowed=yes
+
+[interface_553:14]
+type=^iftype_layer
+y=8
+width=30
+height=159
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_553:0
+onload="script1120(event_com,36241421)"
+
+[interface_553:15]
 type=^iftype_layer
 width=5
 height=5
