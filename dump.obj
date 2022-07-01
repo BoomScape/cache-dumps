@@ -19722,6 +19722,8 @@ certificate=yes
 [soft_clay_1761]
 name=Soft clay
 model=soft_clay_2610
+manwear=soft_clay_41103,0
+womanwear=soft_clay_41103,6
 cost=2
 2dzoom=890
 2dxof=2
@@ -64833,10 +64835,9 @@ model=tiles_7546
 2dxan=424
 members=yes
 
-[dial_5572]
-name=Dial
-model=dial_7555
-members=yes
+[dummy_priest_gown_5572]
+name=Null
+model=priest_gown_2521
 
 [desert_amulet_5573]
 name=Desert amulet
@@ -237170,4 +237171,87 @@ model=bone_fragments_5_13627
 2dyan=534
 ambient=25
 stackable=yes
+
+[clay_head_25145]
+name=Clay head
+model=clay_head_41106
+cost=300
+2dzoom=1692
+2dxof=1
+2dyof=11
+2dxan=405
+2dyan=1862
+iop5=Destroy
+
+[fur_head_25146]
+name=Fur head
+model=fur_head_41108
+cost=300
+2dzoom=1692
+2dxof=1
+2dyof=11
+2dxan=405
+2dyan=1862
+iop5=Destroy
+
+[bloody_head_25147]
+name=Bloody head
+model=bloody_head_41107
+cost=300
+2dzoom=1692
+2dxof=1
+2dyof=11
+2dxan=405
+2dyan=1862
+iop5=Destroy
+
+[dummy_clay_head_25148]
+model=clay_head_41106
+2dzoom=1058
+2dxof=2
+2dyof=3
+2dxan=512
+2dyan=2047
+ambient=10
+
+[dummy_fur_head_25149]
+model=fur_head_41108
+2dzoom=1058
+2dxof=3
+2dyof=3
+2dxan=512
+2dyan=2047
+ambient=10
+
+[dummy_bloody_head_25150]
+model=bloody_head_41107
+2dzoom=1058
+2dxof=3
+2dyof=3
+2dxan=512
+2dyan=2047
+ambient=10
+
+[dummy_mounted_head_25151]
+model=mounted_head_41112
+2dzoom=1400
+2dxof=18
+2dyof=36
+2dxan=20
+2dyan=1912
+
+[neilans_journal_25152]
+name=Neilan's journal
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=16912
+members=yes
+placeholder=yes
+
+[placeholder_neilans_journal_25153]
+placeholder=yes
 

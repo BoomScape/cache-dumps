@@ -2745,97 +2745,104 @@ param=param_681,19
 param=param_689,Beginner Treasure Trails
 param=param_690,enum_2322
 
-[fruit blast_594]
-param=param_732,Fruit blast
-param=param_733,fruit_blast_2084
-param=param_734,6
-param=param_735,3
-param=param_736,pineapple_2114
-param=param_737,1
-param=param_738,lemon_2102
-param=param_739,1
-param=setting_mobile_740,orange_2108
-param=setting_noiron_741,1
+[struct_594]
+param=param_1056,0
+param=param_1057,fruit_blast_2084
+param=param_1060,6
+param=param_1062,3
+param=param_1063,pineapple_2114
+param=param_1064,1
+param=param_1065,lemon_2102
+param=param_1066,1
+param=param_1067,orange_2108
+param=param_1068,1
+param=param_1055,Fruit blast
 
-[pineapple punch_595]
-param=param_732,Pineapple punch
-param=param_733,pineapple_punch_2048
-param=param_734,8
-param=param_735,3
-param=param_736,pineapple_2114
-param=param_737,2
-param=param_738,lemon_2102
-param=param_739,1
-param=setting_mobile_740,orange_2108
-param=setting_noiron_741,1
+[struct_595]
+param=param_1056,1
+param=param_1057,pineapple_punch_2048
+param=param_1060,8
+param=param_1062,3
+param=param_1063,pineapple_2114
+param=param_1064,2
+param=param_1065,lemon_2102
+param=param_1066,1
+param=param_1067,orange_2108
+param=param_1068,1
+param=param_1055,Pineapple punch
 
-[wizard blizzard_596]
-param=param_732,Wizard blizzard
-param=param_733,wizard_blizzard_2054
-param=param_734,18
-param=param_735,5
-param=param_736,vodka_2015
-param=param_737,2
-param=param_738,gin_2019
-param=param_739,1
-param=setting_mobile_740,lime_2120
-param=setting_noiron_741,1
-param=setting_iron_742,lemon_2102
-param=setting_category_id_743,1
-param=setting_category_name_744,orange_2108
-param=setting_category_list_745,1
+[struct_596]
+param=param_1056,2
+param=param_1057,wizard_blizzard_2054
+param=param_1060,18
+param=param_1062,5
+param=param_1063,vodka_2015
+param=param_1064,2
+param=param_1065,gin_2019
+param=param_1066,1
+param=param_1067,lime_2120
+param=param_1068,1
+param=param_1069,lemon_2102
+param=param_1070,1
+param=param_1071,orange_2108
+param=param_1072,1
+param=param_1055,Wizard blizzard
 
-[short green guy_597]
-param=param_732,Short green guy
-param=param_733,short_green_guy_2080
-param=param_734,20
-param=param_735,2
-param=param_736,vodka_2015
-param=param_737,1
-param=param_738,lime_2120
-param=param_739,3
+[struct_597]
+param=param_1056,3
+param=param_1057,short_green_guy_2080
+param=param_1060,20
+param=param_1062,2
+param=param_1063,vodka_2015
+param=param_1064,1
+param=param_1065,lime_2120
+param=param_1066,3
+param=param_1055,Short green guy
 
-[drunk dragon_598]
-param=param_732,Drunk dragon
-param=param_733,drunk_dragon_2092
-param=param_734,32
-param=param_735,3
-param=param_736,vodka_2015
-param=param_737,1
-param=param_738,gin_2019
-param=param_739,1
-param=setting_mobile_740,dwellberries_2126
-param=setting_noiron_741,1
+[struct_598]
+param=param_1056,4
+param=param_1057,drunk_dragon_2092
+param=param_1060,32
+param=param_1062,3
+param=param_1063,vodka_2015
+param=param_1064,1
+param=param_1065,gin_2019
+param=param_1066,1
+param=param_1067,dwellberries_2126
+param=param_1068,1
+param=param_1055,Drunk dragon
 
-[chocolate saturday_599]
-param=param_732,Chocolate saturday
-param=param_733,choc_saturday_2074
-param=param_734,33
-param=param_735,4
-param=param_736,whisky_2017
-param=param_737,1
-param=param_738,chocolate_bar_1973
-param=param_739,1
-param=setting_mobile_740,equa_leaves_2128
-param=setting_noiron_741,1
-param=setting_iron_742,bucket_of_milk_1927
-param=setting_category_id_743,1
+[struct_599]
+param=param_1056,5
+param=param_1057,choc_saturday_2074
+param=param_1060,33
+param=param_1062,4
+param=param_1063,whisky_2017
+param=param_1064,1
+param=param_1065,chocolate_bar_1973
+param=param_1066,1
+param=param_1067,equa_leaves_2128
+param=param_1068,1
+param=param_1069,bucket_of_milk_1927
+param=param_1070,1
+param=param_1055,Chocolate saturday
 
-[blurberry special_600]
-param=param_732,Blurberry special
-param=param_733,blurberry_special_2064
-param=param_734,37
-param=param_735,5
-param=param_736,vodka_2015
-param=param_737,1
-param=param_738,brandy_2021
-param=param_739,1
-param=setting_mobile_740,gin_2019
-param=setting_noiron_741,1
-param=setting_iron_742,lemon_2102
-param=setting_category_id_743,2
-param=setting_category_name_744,orange_2108
-param=setting_category_list_745,1
+[struct_600]
+param=param_1056,6
+param=param_1057,blurberry_special_2064
+param=param_1060,37
+param=param_1062,5
+param=param_1063,vodka_2015
+param=param_1064,1
+param=param_1065,brandy_2021
+param=param_1066,1
+param=param_1067,gin_2019
+param=param_1068,1
+param=param_1069,lemon_2102
+param=param_1070,2
+param=param_1071,orange_2108
+param=param_1072,1
+param=param_1055,Blurberry special
 
 [sarachnis_601]
 param=param_689,Sarachnis
@@ -3554,6 +3561,185 @@ param=league_task_skill_1018,20
 param=league_task_area_1017,4
 param=league_task_category_1016,2
 
+[getting_ahead_752]
+param=param_579,Getting Ahead
+param=param_610,Getting Ahead
+param=param_611,1
+param=param_612,1
+param=param_613,0
+
+[struct_753]
+param=param_1056,7
+param=param_1057,fruit_batta_2277
+param=param_1061,dummy_unfinished_batta_9526
+param=param_1060,25
+param=param_1062,4
+param=param_1063,lime_chunks_2122
+param=param_1064,1
+param=param_1065,orange_chunks_2110
+param=param_1066,1
+param=param_1067,pineapple_chunks_2116
+param=param_1068,1
+param=param_1069,equa_leaves_2128
+param=param_1070,4
+param=param_1055,Fruit Batta
+
+[struct_754]
+param=param_1056,8
+param=param_1057,toad_batta_2255
+param=param_1061,dummy_unfinished_batta_9526
+param=param_1060,26
+param=param_1062,4
+param=param_1063,equa_leaves_2128
+param=param_1064,1
+param=param_1065,toads_legs_2152
+param=param_1066,1
+param=param_1067,gnome_spice_2169
+param=param_1068,1
+param=param_1069,cheese_1985
+param=param_1070,1
+param=param_1055,Toad Batta
+
+[struct_755]
+param=param_1056,9
+param=param_1057,worm_batta_2253
+param=param_1061,dummy_unfinished_batta_9526
+param=param_1060,27
+param=param_1062,3
+param=param_1063,gnome_spice_2169
+param=param_1064,1
+param=param_1065,king_worm_2162
+param=param_1066,1
+param=param_1067,cheese_1985
+param=param_1068,1
+param=param_1055,Worm Batta
+
+[struct_756]
+param=param_1056,10
+param=param_1057,vegetable_batta_2281
+param=param_1061,dummy_unfinished_batta_9526
+param=param_1060,28
+param=param_1062,5
+param=param_1063,tomato_1982
+param=param_1064,2
+param=param_1065,onion_1957
+param=param_1066,1
+param=param_1067,cabbage_1965
+param=param_1068,1
+param=param_1069,dwellberries_2126
+param=param_1070,1
+param=param_1071,cheese_1985
+param=param_1072,1
+param=param_1055,Vegetable Batta
+
+[struct_757]
+param=param_1056,11
+param=param_1057,cheese_tom_batta_2259
+param=param_1061,dummy_unfinished_batta_9526
+param=param_1060,29
+param=param_1062,2
+param=param_1063,tomato_1982
+param=param_1064,1
+param=param_1065,cheese_1985
+param=param_1066,1
+param=param_1055,Cheese & tomato Batta
+
+[struct_758]
+param=param_1056,12
+param=param_1057,worm_hole_2191
+param=param_1061,dummy_odd_gnomebowl_9546
+param=param_1060,30
+param=param_1062,3
+param=param_1063,king_worm_2162
+param=param_1064,4
+param=param_1065,onion_1957
+param=param_1066,2
+param=param_1067,gnome_spice_2169
+param=param_1068,1
+param=param_1055,Worm hole
+
+[struct_759]
+param=param_1056,13
+param=param_1057,veg_ball_2195
+param=param_1061,dummy_odd_gnomebowl_9546
+param=param_1060,35
+param=param_1062,3
+param=param_1063,onion_1957
+param=param_1064,2
+param=param_1065,potato_1942
+param=param_1066,2
+param=param_1067,gnome_spice_2169
+param=param_1068,1
+param=param_1055,Vegetable ball
+
+[struct_760]
+param=param_1056,14
+param=param_1057,tangled_toads_legs_2187
+param=param_1061,dummy_odd_gnomebowl_9546
+param=param_1060,40
+param=param_1062,5
+param=param_1063,toads_legs_2152
+param=param_1064,4
+param=param_1065,cheese_1985
+param=param_1066,2
+param=param_1067,equa_leaves_2128
+param=param_1068,2
+param=param_1069,gnome_spice_2169
+param=param_1070,1
+param=param_1071,dwellberries_2126
+param=param_1072,1
+param=param_1055,Tangled toads legs
+
+[struct_761]
+param=param_1056,15
+param=param_1057,chocolate_bomb_2185
+param=param_1061,dummy_odd_gnomebowl_9546
+param=param_1060,42
+param=param_1062,2
+param=param_1063,chocolate_bar_1973
+param=param_1064,4
+param=param_1065,equa_leaves_2128
+param=param_1066,1
+param=param_1055,Chocolate bomb
+
+[struct_762]
+param=param_1056,16
+param=param_1057,toad_crunchies_2217
+param=param_1061,dummy_odd_crunchies_9537
+param=param_1060,10
+param=param_1062,2
+param=param_1063,toads_legs_2152
+param=param_1064,2
+param=param_1065,gnome_spice_2169
+param=param_1066,1
+param=param_1055,Toad crunchies
+
+[struct_763]
+param=param_1056,17
+param=param_1057,spicy_crunchies_2213
+param=param_1061,dummy_odd_crunchies_9537
+param=param_1060,12
+param=param_1062,2
+param=param_1063,gnome_spice_2169
+param=param_1064,1
+param=param_1065,equa_leaves_2128
+param=param_1066,2
+param=param_1055,Spice crunchies
+
+[struct_764]
+param=param_1056,18
+param=param_1057,worm_crunchies_2205
+param=param_1061,dummy_odd_crunchies_9537
+param=param_1060,14
+param=param_1062,3
+param=param_1063,gnome_spice_2169
+param=param_1064,1
+param=param_1065,king_worm_2162
+param=param_1066,2
+param=param_1067,equa_leaves_2128
+param=param_1068,1
+param=param_1055,Worm crunchies
+
 [struct_765]
 param=league_task_id_873,26
 param=league_task_name_874,Level 20 Attack
@@ -3577,6 +3763,18 @@ param=league_task_id_873,29
 param=league_task_name_874,Level 80 Attack
 param=league_task_description_875,Reach level 80 in your Attack skill.
 param=league_task_tier_876,3
+
+[struct_769]
+param=param_1056,19
+param=param_1057,chocchip_crunchies_2209
+param=param_1061,dummy_odd_crunchies_9537
+param=param_1060,16
+param=param_1062,2
+param=param_1063,chocolate_bar_1973
+param=param_1064,2
+param=param_1065,gnome_spice_2169
+param=param_1066,1
+param=param_1055,Choc chip crunchies
 
 [struct_771]
 param=league_task_id_873,32
@@ -3788,6 +3986,22 @@ param=league_task_name_874,Level 80 Magic
 param=league_task_description_875,Reach level 80 in your Magic skill.
 param=league_task_tier_876,3
 
+[polar_camo_top_814]
+param=param_732,Polar camo top
+param=param_733,polar_kebbit_fur_10117
+param=param_735,2
+param=param_736,20
+param=param_737,polar_camo_top_10065
+param=param_738,Polar kebbit
+
+[polar_camo_legs_815]
+param=param_732,Polar camo legs
+param=param_733,polar_kebbit_fur_10117
+param=param_735,2
+param=param_736,20
+param=param_737,polar_camo_legs_10067
+param=param_738,Polar kebbit
+
 [struct_816]
 param=league_task_id_873,77
 param=league_task_name_874,50 Million Magic XP
@@ -3829,6 +4043,22 @@ param=league_task_id_873,83
 param=league_task_name_874,Level 80 Runecraft
 param=league_task_description_875,Reach level 80 in your Runecraft skill.
 param=league_task_tier_876,3
+
+[wood_camo_top_823]
+param=param_732,Wood camo top
+param=param_733,common_kebbit_fur_10121
+param=param_735,2
+param=param_736,20
+param=param_737,wood_camo_top_10053
+param=param_738,Common kebbit
+
+[wood_camo_legs_824]
+param=param_732,Wood camo legs
+param=param_733,common_kebbit_fur_10121
+param=param_735,2
+param=param_736,20
+param=param_737,wood_camo_legs_10055
+param=param_738,Common kebbit
 
 [struct_825]
 param=league_task_id_873,86
@@ -3872,6 +4102,22 @@ param=league_task_name_874,Level 80 Construction
 param=league_task_description_875,Reach level 80 in your Construction skill.
 param=league_task_tier_876,3
 
+[jungle_camo_top_832]
+param=param_732,Jungle camo top
+param=param_733,feldip_weasel_fur_10119
+param=param_735,2
+param=param_736,20
+param=param_737,jungle_camo_top_10057
+param=param_738,Feldip weasel
+
+[jungle_camo_legs_833]
+param=param_732,Jungle camo legs
+param=param_733,feldip_weasel_fur_10119
+param=param_735,2
+param=param_736,20
+param=param_737,jungle_camo_legs_10059
+param=param_738,Feldip weasel
+
 [struct_834]
 param=league_task_id_873,95
 param=league_task_name_874,50 Million Construction XP
@@ -3913,6 +4159,22 @@ param=league_task_id_873,101
 param=league_task_name_874,Level 80 Hitpoints
 param=league_task_description_875,Reach level 80 in your Hitpoints skill.
 param=league_task_tier_876,3
+
+[desert_camo_top_841]
+param=param_732,Desert camo top
+param=param_733,desert_devil_fur_10123
+param=param_735,2
+param=param_736,20
+param=param_737,desert_camo_top_10061
+param=param_738,Desert devil
+
+[desert_camo_legs_842]
+param=param_732,Desert camo legs
+param=param_733,desert_devil_fur_10123
+param=param_735,2
+param=param_736,20
+param=param_737,desert_camo_legs_10063
+param=param_738,Desert devil
 
 [struct_843]
 param=league_task_id_873,104
@@ -3956,6 +4218,24 @@ param=league_task_name_874,Level 80 Agility
 param=league_task_description_875,Reach level 80 in your Agility skill.
 param=league_task_tier_876,3
 
+[larupia_top_850]
+param=param_732,Larupia top
+param=param_733,larupia_fur_10095
+param=param_734,tatty_larupia_fur_10093
+param=param_735,1
+param=param_736,100
+param=param_737,larupia_top_10043
+param=param_738,Larupia
+
+[larupia_legs_851]
+param=param_732,Larupia legs
+param=param_733,larupia_fur_10095
+param=param_734,tatty_larupia_fur_10093
+param=param_735,1
+param=param_736,100
+param=param_737,larupia_legs_10041
+param=param_738,Larupia
+
 [struct_852]
 param=league_task_id_873,113
 param=league_task_name_874,50 Million Agility XP
@@ -3997,6 +4277,23 @@ param=league_task_id_873,119
 param=league_task_name_874,Level 80 Herblore
 param=league_task_description_875,Reach level 80 in your Herblore skill.
 param=league_task_tier_876,3
+
+[larupia_hat_859]
+param=param_732,Larupia hat
+param=param_733,larupia_fur_10095
+param=param_735,1
+param=param_736,500
+param=param_737,larupia_hat_10045
+param=param_738,Larupia
+
+[graahk_top_860]
+param=param_732,Graahk top
+param=param_733,graahk_fur_10099
+param=param_734,tatty_graahk_fur_10097
+param=param_735,1
+param=param_736,150
+param=param_737,graahk_top_10049
+param=param_738,Graahk
 
 [struct_861]
 param=league_task_id_873,122
@@ -4040,6 +4337,23 @@ param=league_task_name_874,Level 80 Thieving
 param=league_task_description_875,Reach level 80 in your Thieving skill.
 param=league_task_tier_876,3
 
+[graahk_legs_868]
+param=param_732,Graahk legs
+param=param_733,graahk_fur_10099
+param=param_734,tatty_graahk_fur_10097
+param=param_735,1
+param=param_736,150
+param=param_737,graahk_legs_10047
+param=param_738,Graahk
+
+[graahk_headdress_869]
+param=param_732,Graahk headdress
+param=param_733,graahk_fur_10099
+param=param_735,1
+param=param_736,750
+param=param_737,graahk_headdress_10051
+param=param_738,Graahk
+
 [struct_870]
 param=league_task_id_873,131
 param=league_task_name_874,50 Million Thieving XP
@@ -4081,6 +4395,24 @@ param=league_task_id_873,137
 param=league_task_name_874,Level 80 Crafting
 param=league_task_description_875,Reach level 80 in your Crafting skill.
 param=league_task_tier_876,3
+
+[kyatt_top_877]
+param=param_732,Kyatt top
+param=param_733,kyatt_fur_10103
+param=param_734,tatty_kyatt_fur_10101
+param=param_735,1
+param=param_736,200
+param=param_737,kyatt_top_10037
+param=param_738,Kyatt
+
+[kyatt_legs_878]
+param=param_732,Kyatt legs
+param=param_733,kyatt_fur_10103
+param=param_734,tatty_kyatt_fur_10101
+param=param_735,1
+param=param_736,200
+param=param_737,kyatt_legs_10035
+param=param_738,Kyatt
 
 [struct_879]
 param=league_task_id_873,140
@@ -4124,6 +4456,22 @@ param=league_task_name_874,Level 80 Fletching
 param=league_task_description_875,Reach level 80 in your Fletching skill.
 param=league_task_tier_876,3
 
+[kyatt_hat_886]
+param=param_732,Kyatt hat
+param=param_733,kyatt_fur_10103
+param=param_735,1
+param=param_736,1000
+param=param_737,kyatt_hat_10039
+param=param_738,Kyatt
+
+[kyatt_hat_887]
+param=param_732,Kyatt hat
+param=param_733,dark_kebbit_fur_10115
+param=param_735,2
+param=param_736,600
+param=param_737,gloves_of_silence_10075
+param=param_738,Dark kebbit
+
 [struct_888]
 param=league_task_id_873,149
 param=league_task_name_874,50 Million Fletching XP
@@ -4165,6 +4513,22 @@ param=league_task_id_873,155
 param=league_task_name_874,Level 80 Slayer
 param=league_task_description_875,Reach level 80 in your Slayer skill.
 param=league_task_tier_876,3
+
+[kyatt_hat_895]
+param=param_732,Kyatt hat
+param=param_733,spotted_kebbit_fur_10125
+param=param_735,2
+param=param_736,400
+param=param_737,spotted_cape_10069
+param=param_738,Spotted kebbit
+
+[kyatt_hat_896]
+param=param_732,Kyatt hat
+param=param_733,dashing_kebbit_fur_10127
+param=param_735,2
+param=param_736,800
+param=param_737,spottier_cape_10071
+param=param_738,Dashing kebbit
 
 [struct_897]
 param=league_task_id_873,158
@@ -10434,7 +10798,7 @@ param=league_task_category_1016,2
 [struct_2107]
 param=league_task_id_873,922
 param=league_task_name_874,Defeat Vorkath 5 Times Without Special Damage
-param=league_task_description_875,Defeat Vorkath on Ungael 5 times without taking any damage from his special attacks and without leaving his area.
+param=league_task_description_875,Defeat Vorkath on Ungael 5 times in a row without taking any damage from his special attacks and without leaving his area. Failing this task requires you to leave the instance to try again.
 param=league_task_tier_876,4
 param=league_task_skill_1018,0
 param=league_task_area_1017,8

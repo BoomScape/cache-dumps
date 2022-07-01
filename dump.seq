@@ -13683,8 +13683,9 @@ framegroup1=234
 
 [seq_2267]
 framecount=12
+priority=8
 looptype=1
-framegroup1=298
+framegroup1=342
 
 [sheepdog_ready_2268]
 framecount=8
@@ -14001,9 +14002,10 @@ framecount=44
 looptype=1
 framegroup1=701
 
-[seq_2308]
-framecount=32
-replayoff=32
+[headless_beast_hard_walk_2308]
+framecount=9
+replayoff=9
+priority=6
 looptype=1
 framegroup1=342
 
@@ -54324,6 +54326,53 @@ framegroup1=2563
 framecount=21
 mainhand=0
 offhand=0
+looptype=1
+framegroup1=294
+
+[seq_8834]
+framecount=10
+priority=2
+looptype=1
+framegroup1=342
+
+[seq_8835]
+framecount=26
+priority=9
+looptype=1
+framegroup1=342
+
+[seq_8836]
+framecount=70
+looptype=1
+framegroup1=2315
+
+[seq_8837]
+framecount=31
+stretches=yes
+priority=6
+mainhand=0
+offhand=2443
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=298
+
+[seq_8838]
+framecount=15
+replayoff=15
+mainhand=2273
+offhand=1458
+replaycount=2
+looptype=1
+framegroup1=295
+soundeffect5=2605,1,1
+soundeffect7=2605,1,1
+soundeffect9=2605,1,1
+
+[seq_8839]
+framecount=15
+mainhand=2273
+offhand=2245
 looptype=1
 framegroup1=294
 
