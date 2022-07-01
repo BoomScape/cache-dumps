@@ -27886,6 +27886,7 @@ cost=2025
 2dxan=322
 2dyan=135
 iop2=Wear
+iop4=Break
 recol1s=127
 recol1d=960
 stockmarket=yes
@@ -31739,7 +31740,7 @@ model=chompy_chick_26861
 2dxan=39
 2dyan=1784
 
-[dummy_priest_gown_2885]
+[reanimate_monkey_2885]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -36102,7 +36103,7 @@ model=cave_kraken_28231
 2dxan=170
 2dyan=1877
 
-[dummy_wall_3273]
+[wind_strike_3273]
 model=model_16238
 param=spell_name_601,Wind Strike
 param=spell_desc_602,A basic Air missile
@@ -36120,7 +36121,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,1
 
-[dummy_wall_3274]
+[confuse_3274]
 model=model_16238
 param=spell_name_601,Confuse
 param=spell_desc_602,Reduces your opponent's attack by 5%
@@ -36140,7 +36141,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,2
 
-[dummy_wall_3275]
+[water_strike_3275]
 model=model_16238
 param=spell_name_601,Water Strike
 param=spell_desc_602,A basic Water missile
@@ -36160,7 +36161,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,1
 
-[dummy_wall_3276]
+[lvl_1_enchant_3276]
 model=model_16238
 param=spell_name_601,Lvl-1 Enchant
 param=spell_desc_602,For use on sapphire and opal jewellery
@@ -36178,7 +36179,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,1
 
-[dummy_wall_3277]
+[earth_strike_3277]
 model=model_16238
 param=spell_name_601,Earth Strike
 param=spell_desc_602,A basic Earth missile
@@ -36198,7 +36199,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,1
 
-[dummy_wall_3278]
+[weaken_3278]
 model=model_16238
 param=spell_name_601,Weaken
 param=spell_desc_602,Reduces your opponent's<br>strength by 5%
@@ -36218,7 +36219,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,2
 
-[dummy_wall_3279]
+[fire_strike_3279]
 model=model_16238
 param=spell_name_601,Fire Strike
 param=spell_desc_602,A basic Fire missile
@@ -36238,7 +36239,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
 
-[dummy_wall_3280]
+[bones_to_bananas_3280]
 model=model_16238
 param=spell_name_601,Bones to Bananas
 param=spell_desc_602,Changes held bones into bananas
@@ -36258,7 +36259,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,2
 
-[dummy_wall_3281]
+[wind_bolt_3281]
 model=model_16238
 param=spell_name_601,Wind Bolt
 param=spell_desc_602,A low level Air missile
@@ -36276,7 +36277,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,2
 
-[dummy_wall_3282]
+[curse_3282]
 model=model_16238
 param=spell_name_601,Curse
 param=spell_desc_602,Reduces your opponent's<br>defence by 5%
@@ -36296,7 +36297,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,3
 
-[dummy_wall_3283]
+[bind_3283]
 model=model_16238
 param=spell_name_601,Bind
 param=spell_desc_602,Holds your opponent for 5 seconds
@@ -36316,7 +36317,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,3
 
-[dummy_wall_3284]
+[low_level_alchemy_3284]
 model=model_16238
 param=spell_name_601,Low Level Alchemy
 param=spell_desc_602,Converts an item into gold
@@ -36334,7 +36335,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,fire_rune_554
 param=magic_runecount_2_368,3
 
-[dummy_wall_3285]
+[water_bolt_3285]
 model=model_16238
 param=spell_name_601,Water Bolt
 param=spell_desc_602,A low level Water missile
@@ -36354,7 +36355,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
 
-[dummy_wall_3286]
+[varrock_teleport_3286]
 model=model_16238
 param=spell_name_601,Varrock Teleport
 param=spell_desc_602,Teleports you to Varrock
@@ -36374,7 +36375,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,1
 
-[dummy_wall_3287]
+[lvl_2_enchant_3287]
 model=model_16238
 param=spell_name_601,Lvl-2 Enchant
 param=spell_desc_602,For use on emerald and jade jewellery
@@ -36392,7 +36393,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,3
 
-[dummy_wall_3288]
+[earth_bolt_3288]
 model=model_16238
 param=spell_name_601,Earth Bolt
 param=spell_desc_602,A low level Earth missile
@@ -36412,7 +36413,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
 
-[dummy_wall_3289]
+[lumbridge_teleport_3289]
 model=model_16238
 param=spell_name_601,Lumbridge Teleport
 param=spell_desc_602,Teleports you to Lumbridge
@@ -36432,7 +36433,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,1
 
-[dummy_wall_3290]
+[telekinetic_grab_3290]
 model=model_16238
 param=spell_name_601,Telekinetic Grab
 param=spell_desc_602,Take an item you can see but can't reach
@@ -36450,7 +36451,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,1
 
-[dummy_wall_3291]
+[fire_bolt_3291]
 model=model_16238
 param=spell_name_601,Fire Bolt
 param=spell_desc_602,A low level Fire missile
@@ -36470,7 +36471,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,3
 
-[dummy_wall_3292]
+[falador_teleport_3292]
 model=model_16238
 param=spell_name_601,Falador Teleport
 param=spell_desc_602,Teleports you to Falador
@@ -36490,7 +36491,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,1
 
-[dummy_wall_3293]
+[crumble_undead_3293]
 model=model_16238
 param=spell_name_601,Crumble Undead
 param=spell_desc_602,"Hits skeletons, ghosts, shades & zombies hard"
@@ -36510,7 +36511,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
 
-[dummy_wall_3294]
+[wind_blast_3294]
 model=model_16238
 param=spell_name_601,Wind Blast
 param=spell_desc_602,A medium level Air missile
@@ -36528,7 +36529,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,3
 
-[dummy_wall_3295]
+[superheat_item_3295]
 model=model_16238
 param=spell_name_601,Superheat Item
 param=spell_desc_602,Smelt ore without a furnace
@@ -36546,7 +36547,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,fire_rune_554
 param=magic_runecount_2_368,4
 
-[dummy_wall_3296]
+[camelot_teleport_3296]
 model=model_16238
 param=spell_name_601,Camelot Teleport
 param=spell_desc_602,Teleports you to Camelot
@@ -36564,7 +36565,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,5
 
-[dummy_wall_3297]
+[water_blast_3297]
 model=model_16238
 param=spell_name_601,Water Blast
 param=spell_desc_602,A medium level Water missile
@@ -36584,7 +36585,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,3
 
-[dummy_wall_3298]
+[lvl_3_enchant_3298]
 model=model_16238
 param=spell_name_601,Lvl-3 Enchant
 param=spell_desc_602,For use on ruby and topaz jewellery
@@ -36602,7 +36603,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,fire_rune_554
 param=magic_runecount_2_368,5
 
-[dummy_wall_3299]
+[iban_blast_3299]
 model=model_16238
 param=spell_name_601,Iban Blast
 param=spell_desc_602,Summons the wrath of Iban
@@ -36622,7 +36623,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,5
 
-[dummy_wall_3300]
+[snare_3300]
 model=model_16238
 param=spell_name_601,Snare
 param=spell_desc_602,Holds your opponent for 10 seconds
@@ -36642,7 +36643,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,4
 
-[dummy_wall_3301]
+[ardougne_teleport_3301]
 model=model_16238
 param=spell_name_601,Ardougne Teleport
 param=spell_desc_602,Teleports you to Ardougne
@@ -36660,7 +36661,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,2
 
-[dummy_wall_3302]
+[earth_blast_3302]
 model=model_16238
 param=spell_name_601,Earth Blast
 param=spell_desc_602,A medium level Earth missile
@@ -36680,7 +36681,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,3
 
-[dummy_wall_3303]
+[high_level_alchemy_3303]
 model=model_16238
 param=spell_name_601,High Level Alchemy
 param=spell_desc_602,Converts an item into more gold
@@ -36698,7 +36699,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,fire_rune_554
 param=magic_runecount_2_368,5
 
-[dummy_wall_3304]
+[charge_water_orb_3304]
 model=model_16238
 param=spell_name_601,Charge Water Orb
 param=spell_desc_602,Needs to be cast on a water obelisk
@@ -36718,7 +36719,7 @@ param=magic_runecount_2_368,30
 param=magic_runetype_3_369,unpowered_orb_567
 param=magic_runecount_3_370,1
 
-[dummy_wall_3305]
+[lvl_4_enchant_3305]
 model=model_16238
 param=spell_name_601,Lvl-4 Enchant
 param=spell_desc_602,For use on diamond jewellery
@@ -36736,7 +36737,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,earth_rune_557
 param=magic_runecount_2_368,10
 
-[dummy_wall_3306]
+[watchtower_teleport_3306]
 model=model_16238
 param=spell_name_601,Watchtower Teleport
 param=spell_desc_602,Teleports you to the Watchtower
@@ -36754,7 +36755,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,earth_rune_557
 param=magic_runecount_2_368,2
 
-[dummy_wall_3307]
+[fire_blast_3307]
 model=model_16238
 param=spell_name_601,Fire Blast
 param=spell_desc_602,A medium level Fire missile
@@ -36774,7 +36775,7 @@ param=magic_runecount_2_368,5
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,4
 
-[dummy_wall_3308]
+[charge_earth_orb_3308]
 model=model_16238
 param=spell_name_601,Charge Earth Orb
 param=spell_desc_602,Needs to be cast on an earth obelisk
@@ -36794,7 +36795,7 @@ param=magic_runecount_2_368,30
 param=magic_runetype_3_369,unpowered_orb_567
 param=magic_runecount_3_370,1
 
-[dummy_wall_3309]
+[claws_of_guthix_3309]
 model=model_16238
 param=spell_name_601,Claws of Guthix
 param=spell_desc_602,Summons the power of Guthix
@@ -36816,7 +36817,7 @@ param=magic_runecount_3_370,4
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,1
 
-[dummy_wall_3310]
+[flames_of_zamorak_3310]
 model=model_16238
 param=spell_name_601,Flames of Zamorak
 param=spell_desc_602,Summons the power of Zamorak
@@ -36838,7 +36839,7 @@ param=magic_runecount_3_370,1
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,4
 
-[dummy_wall_3311]
+[saradomin_strike_3311]
 model=model_16238
 param=spell_name_601,Saradomin strike
 param=spell_desc_602,Summons the power of Saradomin
@@ -36860,7 +36861,7 @@ param=magic_runecount_3_370,4
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
 
-[dummy_wall_3312]
+[trollheim_teleport_3312]
 model=model_16238
 param=spell_name_601,Trollheim Teleport
 param=spell_desc_602,Teleports you to Trollheim
@@ -36878,7 +36879,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,fire_rune_554
 param=magic_runecount_2_368,2
 
-[dummy_wall_3313]
+[wind_wave_3313]
 model=model_16238
 param=spell_name_601,Wind Wave
 param=spell_desc_602,A high level Air missile
@@ -36896,7 +36897,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,5
 
-[dummy_wall_3314]
+[charge_fire_orb_3314]
 model=model_16238
 param=spell_name_601,Charge Fire Orb
 param=spell_desc_602,Needs to be cast on a fire obelisk
@@ -36916,7 +36917,7 @@ param=magic_runecount_2_368,30
 param=magic_runetype_3_369,unpowered_orb_567
 param=magic_runecount_3_370,1
 
-[dummy_wall_3315]
+[water_wave_3315]
 model=model_16238
 param=spell_name_601,Water Wave
 param=spell_desc_602,A high level Water missile
@@ -36936,7 +36937,7 @@ param=magic_runecount_2_368,7
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,5
 
-[dummy_wall_3316]
+[charge_air_orb_3316]
 model=model_16238
 param=spell_name_601,Charge Air Orb
 param=spell_desc_602,Needs to be cast on an air obelisk
@@ -36956,7 +36957,7 @@ param=magic_runecount_2_368,30
 param=magic_runetype_3_369,unpowered_orb_567
 param=magic_runecount_3_370,1
 
-[dummy_wall_3317]
+[vulnerability_3317]
 model=model_16238
 param=spell_name_601,Vulnerability
 param=spell_desc_602,Reduces your opponent's defence by 10%
@@ -36976,7 +36977,7 @@ param=magic_runecount_2_368,5
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,5
 
-[dummy_wall_3318]
+[lvl_5_enchant_3318]
 model=model_16238
 param=spell_name_601,Lvl-5 Enchant
 param=spell_desc_602,For use on dragonstone jewellery
@@ -36996,7 +36997,7 @@ param=magic_runecount_2_368,15
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,15
 
-[dummy_wall_3319]
+[earth_wave_3319]
 model=model_16238
 param=spell_name_601,Earth Wave
 param=spell_desc_602,A high level Earth missile
@@ -37016,7 +37017,7 @@ param=magic_runecount_2_368,7
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,5
 
-[dummy_wall_3320]
+[enfeeble_3320]
 model=model_16238
 param=spell_name_601,Enfeeble
 param=spell_desc_602,Reduces your opponent's strength by 10%
@@ -37036,7 +37037,7 @@ param=magic_runecount_2_368,8
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,8
 
-[dummy_wall_3321]
+[fire_wave_3321]
 model=model_16238
 param=spell_name_601,Fire Wave
 param=spell_desc_602,A high level Fire missile
@@ -37056,7 +37057,7 @@ param=magic_runecount_2_368,7
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,5
 
-[dummy_wall_3322]
+[entangle_3322]
 model=model_16238
 param=spell_name_601,Entangle
 param=spell_desc_602,Holds your opponent for 15 seconds
@@ -37076,7 +37077,7 @@ param=magic_runecount_2_368,5
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,5
 
-[dummy_wall_3323]
+[charge_3323]
 model=model_16238
 param=spell_name_601,Charge
 param=spell_desc_602,Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes
@@ -37096,7 +37097,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,3
 
-[dummy_wall_3324]
+[stun_3324]
 model=model_16238
 param=spell_name_601,Stun
 param=spell_desc_602,Reduces your opponent's attack by 10%
@@ -47320,7 +47321,7 @@ model=broad_arrows_2_5050
 recol1s=5012
 recol1d=5404
 
-[dummy_wall_4176]
+[magic_dart_4176]
 model=model_16238
 param=spell_name_601,Magic Dart
 param=spell_desc_602,A magic dart of slaying
@@ -51713,7 +51714,7 @@ placeholder=yes
 [cert_spiny_helmet_4552]
 certificate=yes
 
-[dummy_wall_4553]
+[teleother_lumbridge_4553]
 model=model_16238
 param=spell_name_601,Teleother Lumbridge
 param=spell_desc_602,Teleports target to Lumbridge
@@ -51733,7 +51734,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,1
 
-[dummy_wall_4554]
+[teleother_falador_4554]
 model=model_16238
 param=spell_name_601,Teleother Falador
 param=spell_desc_602,Teleports target to Falador
@@ -51753,7 +51754,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,1
 
-[dummy_wall_4555]
+[tele_block_4555]
 model=model_16238
 param=spell_name_601,Tele Block
 param=spell_desc_602,Stops your target from teleporting
@@ -51773,7 +51774,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,chaos_rune_562
 param=magic_runecount_3_370,1
 
-[dummy_wall_4556]
+[teleother_camelot_4556]
 model=model_16238
 param=spell_name_601,Teleother Camelot
 param=spell_desc_602,Teleports target to Camelot
@@ -52681,7 +52682,7 @@ placeholder=yes
 [cert_bandits_brew_4628]
 certificate=yes
 
-[dummy_wall_4629]
+[smoke_rush_4629]
 model=model_16238
 param=spell_name_601,Smoke Rush
 param=spell_desc_602,A single target smoke attack
@@ -52703,7 +52704,7 @@ param=magic_runecount_3_370,1
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,1
 
-[dummy_wall_4630]
+[shadow_rush_4630]
 model=model_16238
 param=spell_name_601,Shadow Rush
 param=spell_desc_602,A single target shadow attack
@@ -52725,7 +52726,7 @@ param=magic_runecount_3_370,1
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,1
 
-[dummy_wall_4631]
+[paddewwa_teleport_4631]
 model=model_16238
 param=spell_name_601,Paddewwa Teleport
 param=spell_desc_602,A teleportation spell
@@ -52745,7 +52746,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,1
 
-[dummy_wall_4632]
+[blood_rush_4632]
 model=model_16238
 param=spell_name_601,Blood Rush
 param=spell_desc_602,A single target blood attack
@@ -52765,7 +52766,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,1
 
-[dummy_wall_4633]
+[ice_rush_4633]
 model=model_16238
 param=spell_name_601,Ice Rush
 param=spell_desc_602,A single target ice attack
@@ -52785,7 +52786,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,2
 
-[dummy_wall_4634]
+[senntisten_teleport_4634]
 model=model_16238
 param=spell_name_601,Senntisten Teleport
 param=spell_desc_602,A teleportation spell
@@ -52803,7 +52804,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,soul_rune_566
 param=magic_runecount_2_368,1
 
-[dummy_wall_4635]
+[smoke_burst_4635]
 model=model_16238
 param=spell_name_601,Smoke Burst
 param=spell_desc_602,A multi-target smoke attack
@@ -52825,7 +52826,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
 
-[dummy_wall_4636]
+[shadow_burst_4636]
 model=model_16238
 param=spell_name_601,Shadow Burst
 param=spell_desc_602,A multi-target shadow attack
@@ -52847,7 +52848,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,1
 
-[dummy_wall_4637]
+[kharyrll_teleport_4637]
 model=model_16238
 param=spell_name_601,Kharyrll Teleport
 param=spell_desc_602,A teleportation spell
@@ -52865,7 +52866,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,1
 
-[dummy_wall_4638]
+[blood_burst_4638]
 model=model_16238
 param=spell_name_601,Blood Burst
 param=spell_desc_602,A multi-target blood attack
@@ -52885,7 +52886,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,2
 
-[dummy_wall_4639]
+[ice_burst_4639]
 model=model_16238
 param=spell_name_601,Ice Burst
 param=spell_desc_602,A multi-target ice attack
@@ -52905,7 +52906,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,4
 
-[dummy_wall_4640]
+[lassar_teleport_4640]
 model=model_16238
 param=spell_name_601,Lassar Teleport
 param=spell_desc_602,A teleportation spell
@@ -52923,7 +52924,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,4
 
-[dummy_wall_4641]
+[smoke_blitz_4641]
 model=model_16238
 param=spell_name_601,Smoke Blitz
 param=spell_desc_602,A single target strong smoke attack
@@ -52945,7 +52946,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
 
-[dummy_wall_4642]
+[shadow_blitz_4642]
 model=model_16238
 param=spell_name_601,Shadow Blitz
 param=spell_desc_602,A single target strong shadow attack
@@ -52967,7 +52968,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,2
 
-[dummy_wall_4643]
+[dareeyak_teleport_4643]
 model=model_16238
 param=spell_name_601,Dareeyak Teleport
 param=spell_desc_602,A teleportation spell
@@ -52987,7 +52988,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,3
 
-[dummy_wall_4644]
+[blood_blitz_4644]
 model=model_16238
 param=spell_name_601,Blood Blitz
 param=spell_desc_602,A single target strong blood attack
@@ -53005,7 +53006,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,4
 
-[dummy_wall_4645]
+[ice_blitz_4645]
 model=model_16238
 param=spell_name_601,Ice Blitz
 param=spell_desc_602,A single target strong ice attack
@@ -53025,7 +53026,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,3
 
-[dummy_wall_4646]
+[carrallangar_teleport_4646]
 model=model_16238
 param=spell_name_601,Carrallangar Teleport
 param=spell_desc_602,A teleportation spell
@@ -53043,7 +53044,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,soul_rune_566
 param=magic_runecount_2_368,2
 
-[dummy_wall_4647]
+[smoke_barrage_4647]
 model=model_16238
 param=spell_name_601,Smoke Barrage
 param=spell_desc_602,A multi-target strong smoke attack
@@ -53065,7 +53066,7 @@ param=magic_runecount_3_370,4
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,4
 
-[dummy_wall_4648]
+[shadow_barrage_4648]
 model=model_16238
 param=spell_name_601,Shadow Barrage
 param=spell_desc_602,A multi-target strong shadow attack
@@ -53087,7 +53088,7 @@ param=magic_runecount_3_370,3
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,4
 
-[dummy_wall_4649]
+[annakarl_teleport_4649]
 model=model_16238
 param=spell_name_601,Annakarl Teleport
 param=spell_desc_602,A teleportation spell
@@ -53105,7 +53106,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,2
 
-[dummy_wall_4650]
+[blood_barrage_4650]
 model=model_16238
 param=spell_name_601,Blood Barrage
 param=spell_desc_602,A multi-target strong blood attack
@@ -53125,7 +53126,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,soul_rune_566
 param=magic_runecount_3_370,1
 
-[dummy_wall_4651]
+[ice_barrage_4651]
 model=model_16238
 param=spell_name_601,Ice Barrage
 param=spell_desc_602,A multi-target strong ice attack
@@ -53145,7 +53146,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,6
 
-[dummy_wall_4652]
+[ghorrock_teleport_4652]
 model=model_16238
 param=spell_name_601,Ghorrock Teleport
 param=spell_desc_602,A teleportation spell
@@ -58533,7 +58534,7 @@ placeholder=yes
 [cert_veracs_plateskirt_0_4999]
 certificate=yes
 
-[dummy_wall_5000]
+[enchant_crossbow_bolt_5000]
 model=model_16238
 param=spell_name_601,Enchant Crossbow Bolt
 param=spell_desc_602,Minimum level 4 Magic Multiple other requirements
@@ -71791,7 +71792,7 @@ recol1s=-21568
 recol1d=960
 stackable=yes
 
-[dummy_priest_gown_6208]
+[reanimate_imp_6208]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -76031,7 +76032,7 @@ recol5s=10465
 recol5d=-14784
 stackable=yes
 
-[dummy_wall_6567]
+[lvl_6_enchant_6567]
 model=model_16238
 param=spell_name_601,Lvl-6 Enchant
 param=spell_desc_602,For use on onyx jewellery
@@ -79975,7 +79976,7 @@ iop1=Eat
 members=yes
 placeholder=yes
 
-[dummy_wall_6884]
+[bones_to_peaches_6884]
 model=model_16238
 param=spell_name_601,Bones to Peaches
 param=spell_desc_602,Turns Bones into Peaches
@@ -80071,7 +80072,7 @@ ambient=20
 placeholder=yes
 param=param_451,Talk-to
 
-[dummy_priest_gown_6888]
+[reanimate_minotaur_6888]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -87808,7 +87809,7 @@ model=item_13402
 name=Item
 model=item_13403
 
-[dummy_wall_7619]
+[ape_atoll_teleport_7619]
 model=model_16238
 param=spell_name_601,Ape Atoll Teleport
 param=spell_desc_602,Teleports you to Ape Atoll
@@ -93213,7 +93214,7 @@ model=small_landscape_12500
 ambient=100
 contrast=100
 
-[dummy_wall_8092]
+[respawn_teleport_8092]
 model=model_16238
 members=yes
 param=spell_name_601,Respawn Teleport
@@ -100776,7 +100777,7 @@ placeholder=yes
 [cert_saw_8795]
 certificate=yes
 
-[dummy_priest_gown_8796]
+[reanimate_elf_8796]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -100969,7 +100970,7 @@ model=model_12851
 manwear=model_12851,0
 womanwear=model_12851,0
 
-[dummy_wall_8828]
+[teleport_to_house_8828]
 model=model_16238
 param=spell_name_601,Teleport to House
 param=spell_desc_602,Teleports you to your house
@@ -104411,7 +104412,7 @@ recol1d=-4004
 members=yes
 placeholder=yes
 
-[dummy_wall_9107]
+[bake_pie_9107]
 model=model_16238
 param=spell_name_601,Bake Pie
 param=spell_desc_602,Bake pies without a stove
@@ -104431,7 +104432,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,5
 
-[dummy_wall_9108]
+[cure_plant_9108]
 model=model_16238
 param=spell_name_601,Cure Plant
 param=spell_desc_602,Cures disease on farming patch
@@ -104449,7 +104450,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,earth_rune_557
 param=magic_runecount_2_368,8
 
-[dummy_wall_9109]
+[npc_contact_9109]
 model=model_16238
 param=spell_name_601,NPC Contact
 param=spell_desc_602,Speak with various NPCs
@@ -104469,7 +104470,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
 
-[dummy_wall_9110]
+[cure_other_9110]
 model=model_16238
 param=spell_name_601,Cure Other
 param=spell_desc_602,Cure poisoned players
@@ -104489,7 +104490,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
 
-[dummy_wall_9111]
+[moonclan_teleport_9111]
 model=model_16238
 param=spell_name_601,Moonclan Teleport
 param=spell_desc_602,Teleports you to Moonclan Island
@@ -104509,7 +104510,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,2
 
-[dummy_wall_9112]
+[tele_group_moonclan_9112]
 model=model_16238
 param=spell_name_601,Tele Group Moonclan
 param=spell_desc_602,Teleports players to Moonclan Island
@@ -104529,7 +104530,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,4
 
-[dummy_wall_9113]
+[cure_me_9113]
 model=model_16238
 param=spell_name_601,Cure Me
 param=spell_desc_602,Cure Poison
@@ -104549,7 +104550,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,law_rune_563
 param=magic_runecount_3_370,1
 
-[dummy_wall_9114]
+[waterbirth_teleport_9114]
 model=model_16238
 param=spell_name_601,Waterbirth Teleport
 param=spell_desc_602,Teleports you to Waterbirth Island
@@ -104569,7 +104570,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,1
 
-[dummy_wall_9115]
+[tele_group_waterbirth_9115]
 model=model_16238
 param=spell_name_601,Tele Group Waterbirth
 param=spell_desc_602,Teleports players to Waterbirth Island
@@ -104589,7 +104590,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,5
 
-[dummy_wall_9116]
+[cure_group_9116]
 model=model_16238
 param=spell_name_601,Cure Group
 param=spell_desc_602,Cure poison on players
@@ -104609,7 +104610,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,law_rune_563
 param=magic_runecount_3_370,2
 
-[dummy_wall_9117]
+[barbarian_teleport_9117]
 model=model_16238
 param=spell_name_601,Barbarian Teleport
 param=spell_desc_602,Teleports you to the Barbarian Outpost
@@ -104629,7 +104630,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,3
 
-[dummy_wall_9118]
+[tele_group_barbarian_9118]
 model=model_16238
 param=spell_name_601,Tele Group Barbarian
 param=spell_desc_602,Teleports players to the Barbarian Outpost
@@ -104649,7 +104650,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,6
 
-[dummy_wall_9119]
+[superglass_make_9119]
 model=model_16238
 param=spell_name_601,Superglass Make
 param=spell_desc_602,Make glass without a furnace
@@ -104669,7 +104670,7 @@ param=magic_runecount_2_368,6
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,10
 
-[dummy_wall_9120]
+[khazard_teleport_9120]
 model=model_16238
 param=spell_name_601,Khazard Teleport
 param=spell_desc_602,Teleports you to Port Khazard
@@ -104689,7 +104690,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,4
 
-[dummy_wall_9121]
+[tele_group_khazard_9121]
 model=model_16238
 param=spell_name_601,Tele Group Khazard
 param=spell_desc_602,Teleports players to Port Khazard
@@ -104709,7 +104710,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,8
 
-[dummy_wall_9122]
+[string_jewellery_9122]
 model=model_16238
 param=spell_name_601,String Jewellery
 param=spell_desc_602,String amulets without wool
@@ -104729,7 +104730,7 @@ param=magic_runecount_2_368,5
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
 
-[dummy_wall_9123]
+[stat_restore_pot_share_9123]
 model=model_16238
 param=spell_name_601,Stat Restore Pot Share
 param=spell_desc_602,Shares a potion with up to 4 nearby players
@@ -104749,7 +104750,7 @@ param=magic_runecount_2_368,10
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
 
-[dummy_wall_9124]
+[magic_imbue_9124]
 model=model_16238
 param=spell_name_601,Magic Imbue
 param=spell_desc_602,Combine runes without a talisman
@@ -104769,7 +104770,7 @@ param=magic_runecount_2_368,7
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,7
 
-[dummy_wall_9125]
+[fertile_soil_9125]
 model=model_16238
 param=spell_name_601,Fertile Soil
 param=spell_desc_602,Fertilise a farming patch with super compost
@@ -104789,7 +104790,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,15
 
-[dummy_wall_9126]
+[boost_potion_share_9126]
 model=model_16238
 param=spell_name_601,Boost Potion Share
 param=spell_desc_602,Shares a potion with up to 4 nearby players
@@ -104809,7 +104810,7 @@ param=magic_runecount_2_368,10
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,12
 
-[dummy_wall_9127]
+[fishing_guild_teleport_9127]
 model=model_16238
 param=spell_name_601,Fishing Guild Teleport
 param=spell_desc_602,Teleports you to the Fishing Guild
@@ -104829,7 +104830,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,10
 
-[dummy_wall_9128]
+[tele_group_fishing_guild_9128]
 model=model_16238
 param=spell_name_601,Tele Group Fishing Guild
 param=spell_desc_602,Teleports players to the Fishing Guild
@@ -104849,7 +104850,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,14
 
-[dummy_wall_9129]
+[catherby_teleport_9129]
 model=model_16238
 param=spell_name_601,Catherby Teleport
 param=spell_desc_602,Teleports you to Catherby
@@ -104869,7 +104870,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,10
 
-[dummy_wall_9130]
+[tele_group_catherby_9130]
 model=model_16238
 param=spell_name_601,Tele Group Catherby
 param=spell_desc_602,Teleports players to Catherby
@@ -104889,7 +104890,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,15
 
-[dummy_wall_9131]
+[ice_plateau_teleport_9131]
 model=model_16238
 param=spell_name_601,Ice Plateau Teleport
 param=spell_desc_602,Teleports you to Ice Plateau
@@ -104909,7 +104910,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,8
 
-[dummy_wall_9132]
+[tele_group_ice_plateau_9132]
 model=model_16238
 param=spell_name_601,Tele Group Ice Plateau
 param=spell_desc_602,Teleports players to Ice Plateau
@@ -104929,7 +104930,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,16
 
-[dummy_wall_9133]
+[energy_transfer_9133]
 model=model_16238
 param=spell_name_601,Energy Transfer
 param=spell_desc_602,Spend Hitpoints and SA energy to give another SA and run energy
@@ -104949,7 +104950,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,nature_rune_561
 param=magic_runecount_3_370,1
 
-[dummy_wall_9134]
+[heal_other_9134]
 model=model_16238
 param=spell_name_601,Heal Other
 param=spell_desc_602,Transfers up to 75% of Hitpoints to another player
@@ -104969,7 +104970,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,1
 
-[dummy_wall_9135]
+[vengeance_other_9135]
 model=model_16238
 param=spell_name_601,Vengeance Other
 param=spell_desc_602,Allows another player to rebound damage to an opponent
@@ -104989,7 +104990,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
 
-[dummy_wall_9136]
+[vengeance_9136]
 model=model_16238
 param=spell_name_601,Vengeance
 param=spell_desc_602,Rebound damage to an opponent
@@ -105009,7 +105010,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
 
-[dummy_wall_9137]
+[heal_group_9137]
 model=model_16238
 param=spell_name_601,Heal Group
 param=spell_desc_602,Transfers up to 75% of Hitpoints to a group
@@ -114105,7 +114106,7 @@ recol5s=9550
 recol5d=117
 ambient=15
 
-[dummy_wall_9712]
+[lumbridge_home_teleport_9712]
 model=model_16238
 param=spell_name_601,Lumbridge Home Teleport
 param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
@@ -124669,7 +124670,7 @@ model=fremennik_sea_boots_29145
 cost=0
 2dzoom=720
 
-[dummy_priest_gown_10511]
+[reanimate_troll_10511]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -133174,7 +133175,7 @@ recol2s=11183
 recol2d=563
 members=yes
 
-[dummy_wall_11142]
+[edgeville_home_teleport_11142]
 model=model_16238
 param=spell_name_601,Edgeville Home Teleport
 param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
@@ -133188,7 +133189,7 @@ param=spell_graphic1_off_598,"magicoff2,37"
 param=spell_graphic2_on_599,"2x_standard_spells_on,70"
 param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
-[dummy_wall_11143]
+[lunar_home_teleport_11143]
 model=model_16238
 param=spell_name_601,Lunar Home Teleport
 param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
@@ -133202,7 +133203,7 @@ param=spell_graphic1_off_598,"magicoff2,37"
 param=spell_graphic2_on_599,"2x_standard_spells_on,70"
 param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
-[dummy_wall_11144]
+[monster_examine_11144]
 model=model_16238
 param=spell_name_601,Monster Examine
 param=spell_desc_602,Detect the combat statistics of a monster
@@ -133222,7 +133223,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,mind_rune_558
 param=magic_runecount_3_370,1
 
-[dummy_wall_11145]
+[humidify_11145]
 model=model_16238
 param=spell_name_601,Humidify
 param=spell_desc_602,Fills certain vessels with water
@@ -133242,7 +133243,7 @@ param=magic_runecount_2_368,3
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,1
 
-[dummy_wall_11146]
+[hunter_kit_11146]
 model=model_16238
 param=spell_name_601,Hunter Kit
 param=spell_desc_602,Get a kit of hunter gear
@@ -133260,7 +133261,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,earth_rune_557
 param=magic_runecount_2_368,2
 
-[dummy_wall_11147]
+[stat_spy_11147]
 model=model_16238
 param=spell_name_601,Stat Spy
 param=spell_desc_602,Cast on another player to see their skill levels
@@ -133280,7 +133281,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,body_rune_559
 param=magic_runecount_3_370,5
 
-[dummy_wall_11148]
+[dream_11148]
 model=model_16238
 param=spell_name_601,Dream
 param=spell_desc_602,Take a rest and restore Hitpoints 3 times faster
@@ -133300,7 +133301,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,body_rune_559
 param=magic_runecount_3_370,5
 
-[dummy_wall_11149]
+[plank_make_11149]
 model=model_16238
 param=spell_name_601,Plank Make
 param=spell_desc_602,Turn logs into planks
@@ -133320,7 +133321,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,15
 
-[dummy_wall_11150]
+[spellbook_swap_11150]
 model=model_16238
 param=spell_name_601,Spellbook Swap
 param=spell_desc_602,Change to another spellbook for 1 spell cast
@@ -164288,6 +164289,7 @@ placeholder=yes
 [clue_bottle_easy_13648]
 name=Clue bottle (easy)
 model=clue_bottle_easy_31044
+cost=20
 2dzoom=1114
 2dyan=1093
 iop1=Open
@@ -164297,6 +164299,7 @@ placeholder=yes
 [clue_bottle_medium_13649]
 name=Clue bottle (medium)
 model=clue_bottle_easy_31044
+cost=20
 2dzoom=1114
 2dyan=1093
 iop1=Open
@@ -164308,6 +164311,7 @@ placeholder=yes
 [clue_bottle_hard_13650]
 name=Clue bottle (hard)
 model=clue_bottle_easy_31044
+cost=20
 2dzoom=1114
 2dyan=1093
 iop1=Open
@@ -164319,6 +164323,7 @@ placeholder=yes
 [clue_bottle_elite_13651]
 name=Clue bottle (elite)
 model=clue_bottle_easy_31044
+cost=20
 2dzoom=1114
 2dyan=1093
 iop1=Open
@@ -169676,7 +169681,7 @@ placeholder=yes
 [placeholder_prince_black_dragon_15296]
 placeholder=yes
 
-[dummy_priest_gown_15297]
+[reanimate_scorpion_15297]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -169716,7 +169721,7 @@ placeholder=yes
 [placeholder_pet_snakeling_15302]
 placeholder=yes
 
-[dummy_priest_gown_15303]
+[reanimate_unicorn_15303]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -169743,7 +169748,7 @@ param=spell_graphic1_off_598,"magic_necro_off,13"
 param=spell_graphic2_on_599,"2x_necro_spells_on,13"
 param=spell_graphic2_off_600,"2x_necro_spells_off,13"
 
-[dummy_priest_gown_15304]
+[reanimate_dog_15304]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -169782,7 +169787,7 @@ placeholder=yes
 [placeholder_vetion_jr_15308]
 placeholder=yes
 
-[dummy_priest_gown_15309]
+[reanimate_bear_15309]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -169911,7 +169916,7 @@ placeholder=yes
 [placeholder_baby_chinchompa_15343]
 placeholder=yes
 
-[dummy_priest_gown_15344]
+[reanimate_chaos_druid_15344]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -169938,7 +169943,7 @@ param=spell_graphic1_off_598,"magic_necro_off,4"
 param=spell_graphic2_on_599,"2x_necro_spells_on,4"
 param=spell_graphic2_off_600,"2x_necro_spells_off,4"
 
-[dummy_priest_gown_15345]
+[reanimate_giant_15345]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -169965,7 +169970,7 @@ param=spell_graphic1_off_598,"magic_necro_off,8"
 param=spell_graphic2_on_599,"2x_necro_spells_on,8"
 param=spell_graphic2_off_600,"2x_necro_spells_off,8"
 
-[dummy_priest_gown_15346]
+[reanimate_ogre_15346]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -182424,7 +182429,7 @@ placeholder=yes
 [placeholder_bag_full_of_gems_19474]
 placeholder=yes
 
-[dummy_wall_19475]
+[lvl_7_enchant_19475]
 model=model_16238
 param=spell_name_601,Lvl-7 Enchant
 param=spell_desc_602,For use on zenyte jewellery
@@ -190917,7 +190922,7 @@ recol1d=4418
 recol2s=103
 recol2d=4517
 
-[dummy_priest_gown_20391]
+[resurrect_crops_20391]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -190946,7 +190951,7 @@ param=spell_graphic1_off_598,"magic_necro_off,33"
 param=spell_graphic2_on_599,"2x_necro_spells_on,33"
 param=spell_graphic2_off_600,"2x_necro_spells_off,33"
 
-[dummy_priest_gown_20392]
+[reanimate_demon_20392]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191037,7 +191042,7 @@ recol2d=5918
 recol3s=20
 recol3d=6938
 
-[dummy_priest_gown_20398]
+[reanimate_aviansie_20398]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191064,7 +191069,7 @@ param=spell_graphic1_off_598,"magic_necro_off,16"
 param=spell_graphic2_on_599,"2x_necro_spells_on,16"
 param=spell_graphic2_off_600,"2x_necro_spells_off,16"
 
-[dummy_priest_gown_20399]
+[reanimate_abyssal_creature_20399]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191091,7 +191096,7 @@ param=spell_graphic1_off_598,"magic_necro_off,18"
 param=spell_graphic2_on_599,"2x_necro_spells_on,18"
 param=spell_graphic2_off_600,"2x_necro_spells_off,18"
 
-[dummy_priest_gown_20400]
+[reanimate_dragon_20400]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191163,7 +191168,7 @@ iop2=Wield
 recol1s=6674
 recol1d=2250
 
-[dummy_priest_gown_20404]
+[barrows_teleport_20404]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191239,7 +191244,7 @@ cost=500
 2dyan=1034
 iop2=Wield
 
-[dummy_priest_gown_20409]
+[lumbridge_graveyard_teleport_20409]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191264,7 +191269,7 @@ param=spell_graphic1_off_598,"magic_necro_off,22"
 param=spell_graphic2_on_599,"2x_necro_spells_on,22"
 param=spell_graphic2_off_600,"2x_necro_spells_off,22"
 
-[dummy_priest_gown_20410]
+[draynor_manor_teleport_20410]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191291,7 +191296,7 @@ param=spell_graphic1_off_598,"magic_necro_off,23"
 param=spell_graphic2_on_599,"2x_necro_spells_on,23"
 param=spell_graphic2_off_600,"2x_necro_spells_off,23"
 
-[dummy_priest_gown_20411]
+[mind_altar_teleport_20411]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191316,7 +191321,7 @@ param=spell_graphic1_off_598,"magic_necro_off,24"
 param=spell_graphic2_on_599,"2x_necro_spells_on,24"
 param=spell_graphic2_off_600,"2x_necro_spells_off,24"
 
-[dummy_priest_gown_20412]
+[salve_graveyard_teleport_20412]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191341,7 +191346,7 @@ param=spell_graphic1_off_598,"magic_necro_off,26"
 param=spell_graphic2_on_599,"2x_necro_spells_on,26"
 param=spell_graphic2_off_600,"2x_necro_spells_off,26"
 
-[dummy_priest_gown_20413]
+[fenkenstrains_castle_teleport_20413]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191368,7 +191373,7 @@ param=spell_graphic1_off_598,"magic_necro_off,27"
 param=spell_graphic2_on_599,"2x_necro_spells_on,27"
 param=spell_graphic2_off_600,"2x_necro_spells_off,27"
 
-[dummy_priest_gown_20414]
+[west_ardougne_teleport_20414]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191460,7 +191465,7 @@ recol1d=-22248
 recol2s=22424
 recol2d=-22359
 
-[dummy_priest_gown_20419]
+[harmony_island_teleport_20419]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191487,7 +191492,7 @@ param=spell_graphic1_off_598,"magic_necro_off,29"
 param=spell_graphic2_on_599,"2x_necro_spells_on,29"
 param=spell_graphic2_off_600,"2x_necro_spells_off,29"
 
-[dummy_priest_gown_20420]
+[cemetery_teleport_20420]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -191609,7 +191614,7 @@ iop2=Wear
 ambient=30
 contrast=20
 
-[dummy_priest_gown_20427]
+[ape_atoll_teleport_20427]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -193294,7 +193299,7 @@ certificate=yes
 [cert_rope_20588]
 certificate=yes
 
-[dummy_wall_20589]
+[spin_flax_20589]
 model=model_16238
 param=spell_name_601,Spin Flax
 param=spell_desc_602,Turn flax into bowstring
@@ -194757,7 +194762,7 @@ certificate=yes
 [placeholder_hill_giant_club_20758]
 placeholder=yes
 
-[dummy_wall_20759]
+[ourania_teleport_20759]
 model=model_16238
 param=spell_name_601,Ourania Teleport
 param=spell_desc_602,Teleports you to the Ourania altar
@@ -194808,7 +194813,7 @@ param=param_452,Ardougne Farm
 [placeholder_ardougne_max_cape_20761]
 placeholder=yes
 
-[dummy_priest_gown_20762]
+[reanimate_horror_20762]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -194835,7 +194840,7 @@ param=spell_graphic1_off_598,"magic_necro_off,19"
 param=spell_graphic2_on_599,"2x_necro_spells_on,19"
 param=spell_graphic2_off_600,"2x_necro_spells_off,19"
 
-[dummy_priest_gown_20763]
+[reanimate_kalphite_20763]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195349,7 +195354,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20803]
+[thick_skin_20803]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195358,7 +195363,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20804]
+[burst_of_strength_20804]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195367,7 +195372,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20805]
+[clarity_of_thought_20805]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195376,7 +195381,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20806]
+[rock_skin_20806]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195385,7 +195390,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20807]
+[superhuman_strength_20807]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195394,7 +195399,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20808]
+[improved_reflexes_20808]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195403,7 +195408,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20809]
+[rapid_restore_20809]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195412,7 +195417,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20810]
+[rapid_heal_20810]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195421,7 +195426,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20811]
+[protect_item_20811]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195430,7 +195435,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20812]
+[steel_skin_20812]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195439,7 +195444,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20813]
+[ultimate_strength_20813]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195448,7 +195453,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20814]
+[incredible_reflexes_20814]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195457,7 +195462,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20815]
+[protect_from_magic_20815]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195466,7 +195471,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20816]
+[protect_from_missiles_20816]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195475,7 +195480,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20817]
+[protect_from_melee_20817]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195484,7 +195489,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20818]
+[retribution_20818]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195493,7 +195498,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20819]
+[redemption_20819]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195502,7 +195507,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20820]
+[smite_20820]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195511,7 +195516,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20821]
+[sharp_eye_20821]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195520,7 +195525,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20822]
+[mystic_will_20822]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195529,7 +195534,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20823]
+[hawk_eye_20823]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195538,7 +195543,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20824]
+[mystic_lore_20824]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195547,7 +195552,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20825]
+[eagle_eye_20825]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195556,7 +195561,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20826]
+[mystic_might_20826]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195565,7 +195570,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20827]
+[rigour_20827]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195574,7 +195579,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20828]
+[chivalry_20828]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195583,7 +195588,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20829]
+[piety_20829]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195592,7 +195597,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20830]
+[augury_20830]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -195601,7 +195606,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_20831]
+[preserve_20831]
 name=Null
 model=priest_gown_2521
 2dzoom=1940
@@ -206333,7 +206338,7 @@ recol1s=960
 recol1d=17341
 stackable=yes
 
-[dummy_wall_21835]
+[arceuus_home_teleport_21835]
 model=model_16238
 param=spell_name_601,Arceuus Home Teleport
 param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
@@ -206347,7 +206352,7 @@ param=spell_graphic1_off_598,"magicoff2,37"
 param=spell_graphic2_on_599,"2x_standard_spells_on,70"
 param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
-[dummy_wall_21836]
+[kourend_castle_teleport_21836]
 model=model_16238
 param=spell_name_601,Kourend Castle Teleport
 param=spell_desc_602,Teleports you to Kourend Castle
@@ -206719,7 +206724,7 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_wall_21876]
+[wind_surge_21876]
 model=model_16238
 param=spell_name_601,Wind Surge
 param=spell_desc_602,A very high level Air missile
@@ -206737,7 +206742,7 @@ param=magic_runecount_1_366,1
 param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,7
 
-[dummy_wall_21877]
+[water_surge_21877]
 model=model_16238
 param=spell_name_601,Water Surge
 param=spell_desc_602,A very high level Water missile
@@ -206757,7 +206762,7 @@ param=magic_runecount_2_368,10
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,7
 
-[dummy_wall_21878]
+[earth_surge_21878]
 model=model_16238
 param=spell_name_601,Earth Surge
 param=spell_desc_602,A very high level Earth missile
@@ -206777,7 +206782,7 @@ param=magic_runecount_2_368,10
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,7
 
-[dummy_wall_21879]
+[fire_surge_21879]
 model=model_16238
 param=spell_name_601,Fire Surge
 param=spell_desc_602,A very high level Fire missile
@@ -215508,7 +215513,7 @@ model=dark_altar_30837
 2dyan=1912
 members=yes
 
-[dummy_priest_gown_22779]
+[battlefront_teleport_22779]
 name=Null
 model=priest_gown_2521
 2dzoom=1940

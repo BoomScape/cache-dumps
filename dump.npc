@@ -171869,7 +171869,7 @@ name=Ikkle Hydra
 model1=ikkle_hydra_36185
 head1=ikkle_hydra_36197
 readyanim=ikkle_hydra_ready_8233
-walkanim=ikkle_hydra_walk_8232
+walkanim=ikkle_hydra_walk_8296
 resizeh=20
 resizev=20
 op1=Talk-to
@@ -171883,8 +171883,8 @@ follower=yes
 name=Ikkle Hydra
 model1=ikkle_hydra_36192
 head1=ikkle_hydra_36196
-readyanim=ikkle_hydra_ready_8240
-walkanim=ikkle_hydra_walk_8239
+readyanim=ikkle_hydra_ready_8298
+walkanim=ikkle_hydra_walk_8297
 resizeh=20
 resizev=20
 op1=Talk-to
@@ -171899,7 +171899,7 @@ name=Ikkle Hydra
 model1=ikkle_hydra_36188
 head1=ikkle_hydra_36195
 readyanim=ikkle_hydra_ready_8247
-walkanim=ikkle_hydra_walk_8246
+walkanim=ikkle_hydra_walk_8299
 resizeh=20
 resizev=20
 op1=Talk-to
@@ -171914,7 +171914,7 @@ name=Ikkle Hydra
 model1=ikkle_hydra_36191
 head1=ikkle_hydra_36198
 readyanim=ikkle_hydra_ready_8254
-walkanim=ikkle_hydra_walk_8253
+walkanim=ikkle_hydra_walk_8300
 resizeh=20
 resizev=20
 op1=Talk-to
@@ -173416,7 +173416,7 @@ contrast=100
 
 [flower_8584]
 name=Flower
-model1=flower_36463
+model1=blooming_hespori_sprout_36463
 readyanim=flower_ready_8227
 op2=Attack
 vislevel=0
@@ -173425,7 +173425,7 @@ turnspeed=0
 
 [flower_8585]
 name=<col=00ffff>Flower</col>
-model1=flower_36463
+model1=blooming_hespori_sprout_36463
 readyanim=flower_ready_8230
 vislevel=0
 visonmap=no

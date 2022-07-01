@@ -4,11 +4,11 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1010(event_com,8978433,8978435,8978436,8978478,8978479,8978480,8978490,8978438,8978482,8978439,8978483,8978440,8978484,8978441,8978485,8978442,8978486,8978443,8978487,8978444,8978488,8978445,8978489,8978446,8978448,8978449,8978450,8978452,8978456,8978464,8978453,8978457,8978465,8978461,8978469,8978473,8978460,8978468,8978472,8978462,8978470,8978474,8978476,8978477,8978491)"
+onload="script1010(event_com,8978433,8978435,8978436,8978479,8978480,8978481,8978492,8978438,8978483,8978439,8978484,8978441,8978485,8978442,8978486,8978443,8978487,8978444,8978488,8978445,8978489,8978440,8978490,8978446,8978491,8978447,8978449,8978450,8978451,8978453,8978457,8978465,8978454,8978458,8978466,8978462,8978470,8978474,8978461,8978469,8978473,8978463,8978471,8978475,8978477,8978478,8978493)"
 
 [interface_137:1]
 type=^iftype_layer
-width=426
+width=486
 height=330
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -56,25 +56,25 @@ tiling=yes
 type=^iftype_layer
 x=8
 y=8
-width=95
+width=115
 height=40
 layer=interface_137:4
 
 [interface_137:7]
 type=^iftype_layer
-x=108
+x=128
 y=8
-width=95
+width=110
 height=40
 layer=interface_137:4
 
 [interface_137:8]
 type=^iftype_layer
-x=8
+x=243
 y=8
-width=110
+width=366
 height=40
-hposmode=^setpos_abs_right
+hsizemode=^setsize_minus
 layer=interface_137:4
 
 [interface_137:9]
@@ -83,48 +83,58 @@ x=8
 y=8
 width=110
 height=40
-vposmode=^setpos_abs_bottom
+hposmode=^setpos_abs_right
 layer=interface_137:4
 
 [interface_137:10]
 type=^iftype_layer
-x=123
+x=8
 y=8
-width=110
+width=105
 height=40
 vposmode=^setpos_abs_bottom
 layer=interface_137:4
 
 [interface_137:11]
 type=^iftype_layer
-x=238
+x=118
 y=8
-width=321
+width=105
+height=40
+vposmode=^setpos_abs_bottom
+layer=interface_137:4
+
+[interface_137:12]
+type=^iftype_layer
+x=228
+y=8
+width=386
 height=40
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_137:4
 
-[interface_137:12]
+[interface_137:13]
 type=^iftype_layer
-x=8
+x=88
 y=8
-width=70
+width=65
 height=40
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_137:4
 
-[interface_137:13]
+[interface_137:14]
 type=^iftype_layer
-x=208
+x=8
 y=8
-width=331
+width=75
 height=40
-hsizemode=^setsize_minus
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
 layer=interface_137:4
 
-[interface_137:14]
+[interface_137:15]
 type=^iftype_layer
 height=107
 hposmode=^setpos_abs_centre
@@ -134,16 +144,16 @@ vsizemode=^setsize_minus
 layer=interface_137:3
 onload="script991(event_com,-1)"
 
-[interface_137:15]
+[interface_137:16]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:14
+layer=interface_137:15
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_137:16]
+[interface_137:17]
 type=^iftype_layer
 x=4
 width=24
@@ -151,9 +161,9 @@ height=8
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:14
+layer=interface_137:15
 
-[interface_137:17]
+[interface_137:18]
 type=^iftype_layer
 x=4
 width=16
@@ -161,9 +171,9 @@ height=8
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_137:14
+layer=interface_137:15
 
-[interface_137:18]
+[interface_137:19]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -172,39 +182,39 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_137:3
 
-[interface_137:19]
+[interface_137:20]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:18
+layer=interface_137:19
 graphic="tradebacking"
 tiling=yes
 
-[interface_137:20]
+[interface_137:21]
 type=^iftype_layer
 y=25
 width=10
 height=50
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_137:18
+layer=interface_137:19
 optionmask=2
 op1="None"
 
-[interface_137:21]
+[interface_137:22]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:20
+layer=interface_137:21
 colour=^white
 fill=yes
 trans=255
 
-[interface_137:22]
+[interface_137:23]
 type=^iftype_text
 x=3
 y=3
@@ -212,14 +222,14 @@ width=26
 height=17
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_137:20
+layer=interface_137:21
 text="No tracker or goal"
 colour=0xffb83f
 font=b12_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:23]
+[interface_137:24]
 type=^iftype_text
 x=3
 y=3
@@ -229,36 +239,36 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:20
+layer=interface_137:21
 text="When focused on this skill, the counter shows your <col=ffffff>current XP</col>, and the progress bar shows progress <col=ffffff>to the next level</col>."
 colour=0xff981f
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:24]
+[interface_137:25]
 type=^iftype_layer
 y=78
 width=10
 height=72
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_137:18
+layer=interface_137:19
 optionmask=2
 op1="Tracker"
 
-[interface_137:25]
+[interface_137:26]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:24
+layer=interface_137:25
 colour=^white
 fill=yes
 trans=255
 
-[interface_137:26]
+[interface_137:27]
 type=^iftype_text
 x=3
 y=3
@@ -266,25 +276,10 @@ width=26
 height=17
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_137:24
+layer=interface_137:25
 text="Tracker"
 colour=0xffb83f
 font=b12_full
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_137:27]
-type=^iftype_text
-x=3
-y=20
-width=26
-height=22
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_137:24
-text="Start point:"
-colour=0xff981f
-font=p12_full
 valign=^settextalign_centre
 shadowed=yes
 
@@ -296,35 +291,50 @@ width=26
 height=22
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_137:24
+layer=interface_137:25
+text="Start point:"
+colour=0xff981f
+font=p12_full
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_137:29]
+type=^iftype_text
+x=3
+y=20
+width=26
+height=22
+hposmode=^setpos_abs_right
+hsizemode=^setsize_minus
+layer=interface_137:25
 colour=0xffb83f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:29]
+[interface_137:30]
 type=^iftype_graphic
 x=3
 y=20
 width=85
 height=22
 hposmode=^setpos_abs_right
-layer=interface_137:24
+layer=interface_137:25
 graphic="combatboxesmed,0"
 optionmask=1216
 op6="*"
 op7="Set to XP value"
 op10="Set to current XP"
 
-[interface_137:30]
+[interface_137:31]
 type=^iftype_text
 x=3
 y=20
 width=85
 height=22
 hposmode=^setpos_abs_right
-layer=interface_137:24
+layer=interface_137:25
 text="Set..."
 colour=0x808080
 font=p11_full
@@ -332,7 +342,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:31]
+[interface_137:32]
 type=^iftype_text
 x=3
 y=3
@@ -342,36 +352,36 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:24
+layer=interface_137:25
 text="When focused on this skill, the counter shows <col=ffffff>XP above the start point</col>, and the progress bar shows progress to the next level."
 colour=0xff981f
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:32]
+[interface_137:33]
 type=^iftype_layer
 y=154
 width=10
 height=94
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_137:18
+layer=interface_137:19
 optionmask=2
 op1="Goal"
 
-[interface_137:33]
+[interface_137:34]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:32
+layer=interface_137:33
 colour=^white
 fill=yes
 trans=255
 
-[interface_137:34]
+[interface_137:35]
 type=^iftype_text
 x=3
 y=3
@@ -379,25 +389,10 @@ width=26
 height=17
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_137:32
+layer=interface_137:33
 text="Goal"
 colour=0xffb83f
 font=b12_full
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_137:35]
-type=^iftype_text
-x=3
-y=20
-width=26
-height=22
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_137:32
-text="Start point:"
-colour=0xff981f
-font=p12_full
 valign=^settextalign_centre
 shadowed=yes
 
@@ -409,54 +404,54 @@ width=26
 height=22
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_137:32
+layer=interface_137:33
+text="Start point:"
+colour=0xff981f
+font=p12_full
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_137:37]
+type=^iftype_text
+x=3
+y=20
+width=26
+height=22
+hposmode=^setpos_abs_right
+hsizemode=^setsize_minus
+layer=interface_137:33
 colour=0xffb83f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:37]
+[interface_137:38]
 type=^iftype_graphic
 x=3
 y=20
 width=85
 height=22
 hposmode=^setpos_abs_right
-layer=interface_137:32
+layer=interface_137:33
 graphic="combatboxesmed,0"
 optionmask=1216
 op6="*"
 op7="Set to XP value"
 op10="Set to current XP"
 
-[interface_137:38]
+[interface_137:39]
 type=^iftype_text
 x=3
 y=20
 width=85
 height=22
 hposmode=^setpos_abs_right
-layer=interface_137:32
+layer=interface_137:33
 text="Set..."
 colour=0x808080
 font=p11_full
 halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_137:39]
-type=^iftype_text
-x=3
-y=42
-width=26
-height=22
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_137:32
-text="End point:"
-colour=0xff981f
-font=p12_full
 valign=^settextalign_centre
 shadowed=yes
 
@@ -468,34 +463,49 @@ width=26
 height=22
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_137:32
+layer=interface_137:33
+text="End point:"
+colour=0xff981f
+font=p12_full
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_137:41]
+type=^iftype_text
+x=3
+y=42
+width=26
+height=22
+hposmode=^setpos_abs_right
+hsizemode=^setsize_minus
+layer=interface_137:33
 colour=0xffb83f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:41]
+[interface_137:42]
 type=^iftype_graphic
 x=3
 y=42
 width=85
 height=22
 hposmode=^setpos_abs_right
-layer=interface_137:32
+layer=interface_137:33
 graphic="combatboxesmed,0"
 optionmask=192
 op6="*"
 op7="Set to XP value"
 
-[interface_137:42]
+[interface_137:43]
 type=^iftype_text
 x=3
 y=42
 width=85
 height=22
 hposmode=^setpos_abs_right
-layer=interface_137:32
+layer=interface_137:33
 text="Set..."
 colour=0x808080
 font=p11_full
@@ -503,7 +513,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:43]
+[interface_137:44]
 type=^iftype_text
 x=3
 y=3
@@ -513,14 +523,14 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:32
+layer=interface_137:33
 text="When focused on this skill, the progress bar shows progress <col=ffffff>between the goal's start and end</col>, and the counter shows your current XP."
 colour=0xff981f
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_137:44]
+[interface_137:45]
 type=^iftype_layer
 x=70
 y=5
@@ -528,11 +538,11 @@ width=100
 height=256
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_137:18
+layer=interface_137:19
 optionmask=2
 op1="*"
 
-[interface_137:45]
+[interface_137:46]
 type=^iftype_layer
 x=70
 y=5
@@ -541,11 +551,11 @@ height=256
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_137:18
+layer=interface_137:19
 optionmask=2
 op1="*"
 
-[interface_137:46]
+[interface_137:47]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -554,42 +564,31 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_137:1
 
-[interface_137:47]
+[interface_137:48]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:46
+layer=interface_137:47
 fill=yes
 trans=255
 
-[interface_137:48]
+[interface_137:49]
 type=^iftype_layer
 width=150
 height=200
-layer=interface_137:46
+layer=interface_137:47
 onload="script714(event_com)"
 
-[interface_137:49]
+[interface_137:50]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_137:48
+layer=interface_137:49
 graphic="tradebacking_light"
-
-[interface_137:50]
-type=^iftype_layer
-x=2
-width=20
-height=4
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-hide=yes
-layer=interface_137:48
 
 [interface_137:51]
 type=^iftype_layer
@@ -600,7 +599,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_137:48
+layer=interface_137:49
 
 [interface_137:52]
 type=^iftype_layer
@@ -611,7 +610,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_137:48
+layer=interface_137:49
 
 [interface_137:53]
 type=^iftype_layer
@@ -622,7 +621,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_137:48
+layer=interface_137:49
 
 [interface_137:54]
 type=^iftype_layer
@@ -633,7 +632,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_137:48
+layer=interface_137:49
 
 [interface_137:55]
 type=^iftype_layer
@@ -644,7 +643,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_137:48
+layer=interface_137:49
 
 [interface_137:56]
 type=^iftype_layer
@@ -655,7 +654,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_137:48
+layer=interface_137:49
 
 [interface_137:57]
 type=^iftype_layer
@@ -666,9 +665,31 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_137:48
+layer=interface_137:49
 
 [interface_137:58]
+type=^iftype_layer
+x=2
+width=20
+height=4
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_137:49
+
+[interface_137:59]
+type=^iftype_layer
+x=2
+width=20
+height=4
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_137:49
+
+[interface_137:60]
 type=^iftype_layer
 x=2
 width=16
@@ -676,9 +697,9 @@ height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_137:48
+layer=interface_137:49
 
-[interface_137:59]
+[interface_137:61]
 type=^iftype_layer
 width=1
 height=1
