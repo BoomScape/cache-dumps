@@ -1,11 +1,15 @@
 [interface_611:0]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2016(40042499,40042522,40042498)"
+onload="script2016(40042500,40042523,40042498,40042499)"
 
 [interface_611:1]
 type=^iftype_rectangle
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_611:0
@@ -15,11 +19,19 @@ trans=255
 
 [interface_611:2]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_611:0
 
 [interface_611:3]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_611:2
+
+[interface_611:4]
 type=^iftype_layer
 width=4
 height=4
@@ -27,26 +39,26 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_611:2
+layer=interface_611:3
 
-[interface_611:4]
+[interface_611:5]
 type=^iftype_layer
 y=61
 width=96
 height=168
 vposmode=^setpos_abs_bottom
-layer=interface_611:3
+layer=interface_611:4
 
-[interface_611:5]
+[interface_611:6]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_611:4
+layer=interface_611:5
 trans=175
 
-[interface_611:6]
+[interface_611:7]
 type=^iftype_rectangle
 width=2
 height=2
@@ -54,125 +66,125 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_611:4
+layer=interface_611:5
 fill=yes
 trans=225
 
-[interface_611:7]
+[interface_611:8]
 type=^iftype_text
 x=3
 y=3
 height=15
 hsizemode=^setsize_minus
-layer=interface_611:4
+layer=interface_611:5
 text="Time Remaining"
 colour=0xff981f
-font=p12_full
-shadowed=yes
-
-[interface_611:8]
-type=^iftype_text
-x=3
-y=24
-height=15
-hsizemode=^setsize_minus
-layer=interface_611:4
-text="10:00"
-colour=^white
 font=p12_full
 shadowed=yes
 
 [interface_611:9]
 type=^iftype_text
 x=3
-y=45
+y=24
 height=15
 hsizemode=^setsize_minus
-layer=interface_611:4
-text="Points"
-colour=0xff981f
+layer=interface_611:5
+text="10:00"
+colour=^white
 font=p12_full
 shadowed=yes
 
 [interface_611:10]
 type=^iftype_text
 x=3
-y=66
+y=45
 height=15
 hsizemode=^setsize_minus
-layer=interface_611:4
-text="0"
-colour=^white
+layer=interface_611:5
+text="Points"
+colour=0xff981f
 font=p12_full
 shadowed=yes
 
 [interface_611:11]
 type=^iftype_text
 x=3
-y=87
+y=66
 height=15
 hsizemode=^setsize_minus
-layer=interface_611:4
-text="Mine Stability"
-colour=0xff981f
+layer=interface_611:5
+text="0"
+colour=^white
 font=p12_full
 shadowed=yes
 
 [interface_611:12]
 type=^iftype_text
 x=3
-y=108
+y=87
 height=15
 hsizemode=^setsize_minus
-layer=interface_611:4
-text="100%"
-colour=^white
+layer=interface_611:5
+text="Mine Stability"
+colour=0xff981f
 font=p12_full
 shadowed=yes
 
 [interface_611:13]
 type=^iftype_text
 x=3
-y=129
+y=108
 height=15
 hsizemode=^setsize_minus
-layer=interface_611:4
-text="Players in Mine"
-colour=0xff981f
+layer=interface_611:5
+text="100%"
+colour=^white
 font=p12_full
 shadowed=yes
 
 [interface_611:14]
 type=^iftype_text
 x=3
+y=129
+height=15
+hsizemode=^setsize_minus
+layer=interface_611:5
+text="Players in Mine"
+colour=0xff981f
+font=p12_full
+shadowed=yes
+
+[interface_611:15]
+type=^iftype_text
+x=3
 y=150
 height=15
 hsizemode=^setsize_minus
-layer=interface_611:4
+layer=interface_611:5
 text="0"
 colour=^white
 font=p12_full
 shadowed=yes
 
-[interface_611:15]
+[interface_611:16]
 type=^iftype_layer
 y=61
 width=96
 height=153
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_611:3
+layer=interface_611:4
 
-[interface_611:16]
+[interface_611:17]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_611:15
+layer=interface_611:16
 trans=175
 
-[interface_611:17]
+[interface_611:18]
 type=^iftype_rectangle
 width=2
 height=2
@@ -180,18 +192,18 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_611:15
+layer=interface_611:16
 fill=yes
 trans=225
 
-[interface_611:18]
+[interface_611:19]
 type=^iftype_text
 x=3
 y=3
 width=85
 height=15
 hposmode=^setpos_abs_right
-layer=interface_611:15
+layer=interface_611:16
 text="Vent Status"
 colour=0xff981f
 font=p12_full
@@ -199,29 +211,15 @@ halign=^settextalign_right
 shadowed=yes
 opbase="c"
 
-[interface_611:19]
+[interface_611:20]
 type=^iftype_text
 x=3
 y=23
 width=85
 height=15
 hposmode=^setpos_abs_right
-layer=interface_611:15
+layer=interface_611:16
 text="A: 50%"
-colour=^white
-font=p12_full
-halign=^settextalign_right
-shadowed=yes
-
-[interface_611:20]
-type=^iftype_text
-x=3
-y=41
-width=85
-height=15
-hposmode=^setpos_abs_right
-layer=interface_611:15
-text="B: 50%"
 colour=^white
 font=p12_full
 halign=^settextalign_right
@@ -230,12 +228,12 @@ shadowed=yes
 [interface_611:21]
 type=^iftype_text
 x=3
-y=59
+y=41
 width=85
 height=15
 hposmode=^setpos_abs_right
-layer=interface_611:15
-text="C: 50%"
+layer=interface_611:16
+text="B: 50%"
 colour=^white
 font=p12_full
 halign=^settextalign_right
@@ -244,11 +242,25 @@ shadowed=yes
 [interface_611:22]
 type=^iftype_text
 x=3
+y=59
+width=85
+height=15
+hposmode=^setpos_abs_right
+layer=interface_611:16
+text="C: 50%"
+colour=^white
+font=p12_full
+halign=^settextalign_right
+shadowed=yes
+
+[interface_611:23]
+type=^iftype_text
+x=3
 y=79
 width=85
 height=15
 hposmode=^setpos_abs_right
-layer=interface_611:15
+layer=interface_611:16
 text="Chamber Status"
 colour=0xff981f
 font=p12_full
@@ -256,29 +268,15 @@ halign=^settextalign_right
 shadowed=yes
 opbase="c"
 
-[interface_611:23]
+[interface_611:24]
 type=^iftype_text
 x=3
 y=99
 width=85
 height=15
 hposmode=^setpos_abs_right
-layer=interface_611:15
+layer=interface_611:16
 text="A: Unblocked"
-colour=^white
-font=p12_full
-halign=^settextalign_right
-shadowed=yes
-
-[interface_611:24]
-type=^iftype_text
-x=3
-y=117
-width=85
-height=15
-hposmode=^setpos_abs_right
-layer=interface_611:15
-text="B: Unblocked"
 colour=^white
 font=p12_full
 halign=^settextalign_right
@@ -287,18 +285,32 @@ shadowed=yes
 [interface_611:25]
 type=^iftype_text
 x=3
-y=135
+y=117
 width=85
 height=15
 hposmode=^setpos_abs_right
-layer=interface_611:15
-text="C: Unblocked"
+layer=interface_611:16
+text="B: Unblocked"
 colour=^white
 font=p12_full
 halign=^settextalign_right
 shadowed=yes
 
 [interface_611:26]
+type=^iftype_text
+x=3
+y=135
+width=85
+height=15
+hposmode=^setpos_abs_right
+layer=interface_611:16
+text="C: Unblocked"
+colour=^white
+font=p12_full
+halign=^settextalign_right
+shadowed=yes
+
+[interface_611:27]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus

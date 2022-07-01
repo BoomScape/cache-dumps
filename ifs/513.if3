@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1505(event_com,33619970,33619971)"
+onload="script1505(event_com,33619970,33619971,33619972)"
 
 [interface_513:1]
 type=^iftype_rectangle
@@ -18,14 +18,22 @@ fill=yes
 
 [interface_513:2]
 type=^iftype_layer
-width=500
-height=300
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_513:0
 
 [interface_513:3]
 type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_513:2
+
+[interface_513:4]
+type=^iftype_layer
 width=200
 height=50
 hposmode=^setpos_abs_centre
-layer=interface_513:2
+layer=interface_513:3
 

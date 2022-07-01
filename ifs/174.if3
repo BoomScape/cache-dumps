@@ -2,7 +2,6 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script867(event_com,11403266)"
 
 [interface_174:1]
 type=^iftype_rectangle
@@ -15,11 +14,21 @@ fill=yes
 
 [interface_174:2]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_174:0
+onload="script749(event_com)"
 
 [interface_174:3]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_174:2
+onload="script867(event_com)"
+
+[interface_174:4]
 type=^iftype_text
 y=3276
 width=35
@@ -27,7 +36,7 @@ height=75
 hposmode=^setpos_abs_centre
 vposmode=^setpos_proportion_top
 hsizemode=^setsize_minus
-layer=interface_174:2
+layer=interface_174:3
 text=" "
 colour=^white
 font=p12_full
