@@ -699,7 +699,7 @@ hposmode=^setpos_abs_centre
 hide=yes
 layer=interface_65:59
 optionmask=2
-opbase=": <ff9040>Premier Club</col>"
+opbase=": <col=ff9040>Premier Club</col>"
 op1="Info"
 onmouseover="script45(4259906,15658734)"
 onmouseleave="script45(4259906,16750623)"
@@ -763,7 +763,7 @@ hposmode=^setpos_abs_centre
 hide=yes
 layer=interface_65:59
 optionmask=2
-opbase=": <ff9040>Summer Special</col>"
+opbase=": <col=ff9040>Summer Special</col>"
 op1="Info"
 onmouseover="script45(4259912,15658734)"
 onmouseleave="script45(4259912,16750623)"

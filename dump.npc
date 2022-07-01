@@ -164739,9 +164739,10 @@ op3=Pick-up
 vislevel=0
 visonmap=no
 
-[tektonne_8197]
-name=Tektonne
+[tektiny_8197]
+name=Tektiny
 model1=tekton_32682
+head1=tektiny_34602
 readyanim=tekton_ready_7476
 walkanim=tekton_walk_7477
 resizeh=25
@@ -164756,6 +164757,7 @@ contrast=5
 [vanguard_8198]
 name=Vanguard
 model1=vanguard_32684
+head1=vanguard_34604
 readyanim=vanguard_ready_7430
 walkanim=vanguard_walk_7429
 resizeh=40
@@ -164765,9 +164767,10 @@ op3=Pick-up
 vislevel=0
 visonmap=no
 
-[mini_nistirio_8199]
-name=Mini Nistirio
+[vasa_minirio_8199]
+name=Vasa Minirio
 model1=rocks_32680
+head1=vasa_minirio_34597
 readyanim=vasa_nistirio_ready_7416
 walkanim=vasa_nistirio_walk_7411
 resizeh=20
@@ -164780,6 +164783,7 @@ visonmap=no
 [vespina_8200]
 name=Vespina
 model1=vespula_32689
+head1=vespina_35118
 readyanim=vespula_ready_7449
 walkanim=vespula_walk_7448
 resizeh=20

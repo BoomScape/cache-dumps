@@ -17,4 +17,5 @@ zoom=450
 anim=seq_6169
 viewportwid=512
 viewporthei=512
+onload="script2473(event_com)"
 

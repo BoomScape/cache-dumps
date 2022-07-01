@@ -65,7 +65,6 @@ font=b12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
-onclick="script1980(0,12)"
 
 [interface_553:6]
 type=^iftype_text

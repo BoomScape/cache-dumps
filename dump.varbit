@@ -39888,3 +39888,8 @@ basevar=var_2104
 startbit=0
 endbit=7
 
+[varbit_7978]
+basevar=var_1731
+startbit=27
+endbit=27
+
