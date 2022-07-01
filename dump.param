@@ -4,8 +4,10 @@ autodisable=no
 [param_59]
 autodisable=no
 
-[param_87]
+[param_148]
+type=int
 autodisable=no
+default=2
 
 [param_152]
 type=int

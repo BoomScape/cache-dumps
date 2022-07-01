@@ -21329,6 +21329,7 @@ iop1=Drink
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_148,-1
 
 [cert_beer_1918]
 certificate=yes
@@ -21732,6 +21733,7 @@ iop1=Eat
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_148,-1
 
 [cert_banana_1964]
 certificate=yes
@@ -21814,6 +21816,7 @@ iop1=Eat
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_148,-1
 
 [cert_chocolate_bar_1974]
 certificate=yes
@@ -35191,6 +35194,7 @@ womanwear=left_handed_banana_3875,6
 2dxan=280
 2dyan=1944
 certificate=yes
+param=param_148,-1
 
 [cert_left_handed_banana_3178]
 certificate=yes
@@ -48039,7 +48043,7 @@ cost=4
 2dzoom=910
 2dxan=204
 2dyan=1856
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=-21273
 recol1d=24914
@@ -48061,7 +48065,7 @@ cost=4
 2dzoom=910
 2dxan=204
 2dyan=1856
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=-21273
 recol1d=21793
@@ -48075,7 +48079,7 @@ cost=4
 2dzoom=910
 2dxan=204
 2dyan=1856
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=-21273
 recol1d=14507
@@ -48103,7 +48107,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=8101
 recol1d=21793
@@ -48119,7 +48123,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=8101
 recol1d=14507
@@ -48145,7 +48149,7 @@ cost=10
 2dyof=2
 2dxan=156
 2dyan=84
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=61
 recol1d=21793
@@ -48160,7 +48164,7 @@ cost=10
 2dyof=2
 2dxan=156
 2dyan=84
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=61
 recol1d=14507
@@ -89036,7 +89040,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=49
 recol1d=11148
@@ -89053,7 +89057,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=49
 recol1d=10547
@@ -89087,7 +89091,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=49
 recol1d=11148
@@ -89108,7 +89112,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=49
 recol1d=10547
@@ -89146,7 +89150,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=49
 recol1d=11148
@@ -89167,7 +89171,7 @@ cost=10
 2dyof=-2
 2dxan=156
 2dyan=1980
-iop2=Drink
+iop1=Drink
 iop3=Empty
 recol1s=49
 recol1d=10547
@@ -124448,6 +124452,7 @@ cost=10
 iop5=Destroy
 members=yes
 placeholder=yes
+param=param_148,-1
 
 [bar_magnet_10489]
 name=Bar magnet
@@ -141907,7 +141912,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [slayer_ring_7_11867]
 name=Slayer ring (7)
@@ -141929,7 +141933,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [slayer_ring_6_11868]
 name=Slayer ring (6)
@@ -141951,7 +141954,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [slayer_ring_5_11869]
 name=Slayer ring (5)
@@ -141973,7 +141975,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [slayer_ring_4_11870]
 name=Slayer ring (4)
@@ -141995,7 +141996,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [slayer_ring_3_11871]
 name=Slayer ring (3)
@@ -142017,7 +142017,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [slayer_ring_2_11872]
 name=Slayer ring (2)
@@ -142039,7 +142038,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [slayer_ring_1_11873]
 name=Slayer ring (1)
@@ -142062,7 +142060,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [broad_arrowheads_11874]
 name=Broad arrowheads
@@ -155149,6 +155146,7 @@ iop4=Dismantle
 members=yes
 stockmarket=yes
 certificate=yes
+param=param_148,-1
 
 [cert_toxic_blowpipe_empty_12925]
 certificate=yes
@@ -155205,6 +155203,7 @@ iop4=Dismantle
 members=yes
 stockmarket=yes
 certificate=yes
+param=param_148,-1
 
 [cert_serpentine_helm_uncharged_12930]
 certificate=yes
@@ -157409,11 +157408,11 @@ model=fremennik_sea_boots_1_29153
 manwear=fremennik_sea_boots_1_29013,0
 womanwear=fremennik_sea_boots_1_29073,0
 cost=0
-2dzoom=589
-2dxof=1
-2dyof=-3
-2dxan=67
-2dyan=13
+2dzoom=770
+2dxof=2
+2dyof=-6
+2dxan=152
+2dyan=160
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -157426,11 +157425,11 @@ model=fremennik_sea_boots_2_29135
 manwear=fremennik_sea_boots_2_29014,0
 womanwear=fremennik_sea_boots_2_29070,0
 cost=0
-2dzoom=589
-2dxof=1
-2dyof=-3
-2dxan=67
-2dyan=13
+2dzoom=770
+2dxof=2
+2dyof=-6
+2dxan=152
+2dyan=160
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -157443,11 +157442,11 @@ model=fremennik_sea_boots_29145
 manwear=fremennik_sea_boots_3_29011,0
 womanwear=fremennik_sea_boots_3_29072,0
 cost=0
-2dzoom=589
-2dxof=1
-2dyof=-3
-2dxan=67
-2dyan=13
+2dzoom=770
+2dxof=2
+2dyof=-6
+2dxan=152
+2dyan=160
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -157460,11 +157459,11 @@ model=fremennik_sea_boots_4_29140
 manwear=fremennik_sea_boots_4_29012,0
 womanwear=fremennik_sea_boots_4_29071,0
 cost=0
-2dzoom=589
-2dxof=1
-2dyof=-3
-2dxan=67
-2dyan=13
+2dzoom=770
+2dxof=2
+2dyof=-6
+2dxan=152
+2dyan=160
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -158164,6 +158163,7 @@ cost=110400
 2dyan=1724
 iop4=Restore
 members=yes
+param=param_148,-1
 
 [tanzanite_helm_13197]
 name=Tanzanite helm
@@ -158199,6 +158199,7 @@ cost=110400
 2dyan=1724
 iop4=Restore
 members=yes
+param=param_148,-1
 
 [magma_helm_13199]
 name=Magma helm
@@ -200952,7 +200953,6 @@ param=param_452,Teleport
 param=param_453,Master
 param=param_454,Partner
 param=param_455,Log
-param=param_595,Check
 
 [placeholder_slayer_ring_eternal_21269]
 placeholder=yes
@@ -232134,7 +232134,6 @@ cost=0
 2dyof=25
 2dxan=284
 2dyan=1988
-iop5=Destroy
 
 [festive_ginger_powder_24433]
 name=Festive ginger powder
@@ -232198,7 +232197,6 @@ cost=0
 2dyof=40
 2dxan=328
 2dyan=32
-iop2=Wield
 iop5=Destroy
 recol1s=61
 recol1d=5784
@@ -232214,7 +232212,6 @@ cost=0
 2dyof=40
 2dxan=328
 2dyan=32
-iop2=Wield
 iop5=Destroy
 recol1s=61
 recol1d=5784
@@ -232230,7 +232227,6 @@ cost=0
 2dyof=40
 2dxan=328
 2dyan=32
-iop2=Wield
 iop5=Destroy
 recol1s=61
 recol1d=5784
@@ -232246,7 +232242,6 @@ cost=0
 2dyof=40
 2dxan=328
 2dyan=32
-iop2=Wield
 iop5=Destroy
 recol1s=61
 recol1d=5784
@@ -232258,7 +232253,6 @@ cost=0
 2dzoom=465
 2dyof=-1
 2dxan=373
-iop4=Break
 iop5=Destroy
 stackable=yes
 
@@ -232283,6 +232277,5 @@ cost=0
 2dyof=40
 2dxan=328
 2dyan=32
-iop1=Eat
 iop5=Destroy
 

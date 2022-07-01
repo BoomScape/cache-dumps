@@ -50388,3 +50388,13 @@ basevar=var_2633
 startbit=25
 endbit=25
 
+[varbit_10078]
+basevar=var_19
+startbit=9
+endbit=9
+
+[varbit_10079]
+basevar=var_1141
+startbit=17
+endbit=17
+

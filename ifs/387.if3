@@ -4,6 +4,91 @@ width=190
 height=261
 
 [interface_387:1]
+type=^iftype_layer
+x=7
+y=208
+width=40
+height=40
+layer=interface_387:0
+optionmask=2
+op1="View equipment stats"
+onload="script92(event_com)"
+onmouseover="script94(event_com)"
+onmouseleave="script92(event_com)"
+
+[interface_387:2]
+type=^iftype_graphic
+x=10
+y=210
+width=32
+height=32
+graphic="options_icons,16"
+onload="script2641(event_com)"
+
+[interface_387:3]
+type=^iftype_layer
+x=52
+y=208
+width=40
+height=40
+layer=interface_387:0
+optionmask=2
+op1="View guide prices"
+onload="script92(event_com)"
+onmouseover="script94(event_com)"
+onmouseleave="script92(event_com)"
+
+[interface_387:4]
+type=^iftype_graphic
+x=56
+y=212
+width=32
+height=32
+graphic="options_icons,28"
+
+[interface_387:5]
+type=^iftype_layer
+x=97
+y=208
+width=40
+height=40
+layer=interface_387:0
+optionmask=2
+op1="View items kept on death"
+onload="script92(event_com)"
+onmouseover="script94(event_com)"
+onmouseleave="script92(event_com)"
+
+[interface_387:6]
+type=^iftype_graphic
+x=99
+y=211
+width=34
+height=34
+graphic="options_icons,18"
+
+[interface_387:7]
+type=^iftype_layer
+x=142
+y=208
+width=40
+height=40
+layer=interface_387:0
+optionmask=2
+op1="Call follower"
+onload="script92(event_com)"
+onmouseover="script94(event_com)"
+onmouseleave="script92(event_com)"
+
+[interface_387:8]
+type=^iftype_graphic
+x=145
+y=211
+width=32
+height=32
+graphic="whistle"
+
+[interface_387:9]
 type=^iftype_graphic
 x=77
 y=39
@@ -13,7 +98,7 @@ layer=interface_387:0
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_387:2]
+[interface_387:10]
 type=^iftype_graphic
 x=21
 y=118
@@ -23,7 +108,7 @@ layer=interface_387:0
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_387:3]
+[interface_387:11]
 type=^iftype_graphic
 x=133
 y=118
@@ -33,7 +118,7 @@ layer=interface_387:0
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_387:4]
+[interface_387:12]
 type=^iftype_graphic
 x=56
 y=81
@@ -43,7 +128,7 @@ layer=interface_387:0
 graphic="miscgraphics,3"
 tiling=yes
 
-[interface_387:5]
+[interface_387:13]
 type=^iftype_graphic
 x=71
 y=42
@@ -53,7 +138,7 @@ layer=interface_387:0
 graphic="miscgraphics,3"
 tiling=yes
 
-[interface_387:6]
+[interface_387:14]
 type=^iftype_layer
 x=77
 y=4
@@ -71,9 +156,9 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,0)"
+onload="script3281(2775,1)"
 
-[interface_387:7]
+[interface_387:15]
 type=^iftype_layer
 x=36
 y=43
@@ -91,9 +176,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,1)"
 
-[interface_387:8]
+[interface_387:16]
 type=^iftype_layer
 x=77
 y=43
@@ -111,9 +195,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,2)"
 
-[interface_387:9]
+[interface_387:17]
 type=^iftype_layer
 x=21
 y=82
@@ -131,9 +214,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,3)"
 
-[interface_387:10]
+[interface_387:18]
 type=^iftype_layer
 x=77
 y=82
@@ -151,9 +233,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,4)"
 
-[interface_387:11]
+[interface_387:19]
 type=^iftype_layer
 x=133
 y=82
@@ -171,9 +252,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,5)"
 
-[interface_387:12]
+[interface_387:20]
 type=^iftype_layer
 x=77
 y=122
@@ -191,9 +271,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,7)"
 
-[interface_387:13]
+[interface_387:21]
 type=^iftype_layer
 x=21
 y=162
@@ -211,9 +290,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,9)"
 
-[interface_387:14]
+[interface_387:22]
 type=^iftype_layer
 x=77
 y=162
@@ -231,9 +309,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,10)"
 
-[interface_387:15]
+[interface_387:23]
 type=^iftype_layer
 x=133
 y=162
@@ -251,9 +328,8 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,12)"
 
-[interface_387:16]
+[interface_387:24]
 type=^iftype_layer
 x=118
 y=43
@@ -271,90 +347,4 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,13)"
-
-[interface_387:17]
-type=^iftype_layer
-x=7
-y=208
-width=40
-height=40
-layer=interface_387:0
-optionmask=2
-op1="View equipment stats"
-onload="script92(event_com)"
-onmouseover="script94(event_com)"
-onmouseleave="script92(event_com)"
-
-[interface_387:18]
-type=^iftype_graphic
-x=10
-y=210
-width=32
-height=32
-graphic="options_icons,16"
-onload="script2641(event_com)"
-
-[interface_387:19]
-type=^iftype_layer
-x=52
-y=208
-width=40
-height=40
-layer=interface_387:0
-optionmask=2
-op1="View guide prices"
-onload="script92(event_com)"
-onmouseover="script94(event_com)"
-onmouseleave="script92(event_com)"
-
-[interface_387:20]
-type=^iftype_graphic
-x=56
-y=212
-width=32
-height=32
-graphic="options_icons,28"
-
-[interface_387:21]
-type=^iftype_layer
-x=97
-y=208
-width=40
-height=40
-layer=interface_387:0
-optionmask=2
-op1="View items kept on death"
-onload="script92(event_com)"
-onmouseover="script94(event_com)"
-onmouseleave="script92(event_com)"
-
-[interface_387:22]
-type=^iftype_graphic
-x=99
-y=211
-width=34
-height=34
-graphic="options_icons,18"
-
-[interface_387:23]
-type=^iftype_layer
-x=142
-y=208
-width=40
-height=40
-layer=interface_387:0
-optionmask=2
-op1="Call follower"
-onload="script92(event_com)"
-onmouseover="script94(event_com)"
-onmouseleave="script92(event_com)"
-
-[interface_387:24]
-type=^iftype_graphic
-x=145
-y=211
-width=32
-height=32
-graphic="whistle"
 

@@ -124,7 +124,7 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,0)"
+onload="script3281(2776,1)"
 
 [interface_84:12]
 type=^iftype_layer
@@ -144,7 +144,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,1)"
 
 [interface_84:13]
 type=^iftype_layer
@@ -164,7 +163,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,2)"
 
 [interface_84:14]
 type=^iftype_layer
@@ -184,7 +182,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,3)"
 
 [interface_84:15]
 type=^iftype_layer
@@ -204,7 +201,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,4)"
 
 [interface_84:16]
 type=^iftype_layer
@@ -224,7 +220,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,5)"
 
 [interface_84:17]
 type=^iftype_layer
@@ -244,7 +239,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,7)"
 
 [interface_84:18]
 type=^iftype_layer
@@ -264,7 +258,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,9)"
 
 [interface_84:19]
 type=^iftype_layer
@@ -284,7 +277,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,10)"
 
 [interface_84:20]
 type=^iftype_layer
@@ -304,7 +296,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,12)"
 
 [interface_84:21]
 type=^iftype_layer
@@ -324,7 +315,6 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
-onload="script544(event_com,13)"
 
 [interface_84:22]
 type=^iftype_text
