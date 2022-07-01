@@ -1271,6 +1271,9 @@ val=red_gingerbread_shield_24430,Gingerbread Gnome Shield (2019)
 val=blue_gingerbread_shield_24431,Gingerbread Gnome Shield (2019)
 val=cat_ears_24525,Cat Ears (2020)
 val=hell_cat_ears_24527,Cat Ears (2020)
+val=magic_egg_ball_24535,Easter Magic Egg (2020)
+val=carrot_sword_24537,Easter Carrot Sword (2020)
+val=24_carat_sword_24539,Easter '24-carat' Sword (2020)
 val=jar_of_dirt_12007,Jar of Dirt (Kraken)
 val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
 val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
@@ -2274,6 +2277,9 @@ val=121,spookier_gloves_24321
 val=122,spookier_boots_24323
 val=123,green_gingerbread_shield_24428
 val=124,cat_ears_24525
+val=125,magic_egg_ball_24535
+val=126,carrot_sword_24537
+val=127,24_carat_sword_24539
 val=-10,cert_pumpkin_1960
 val=-11,cert_red_halloween_mask_1058
 val=-12,cert_green_halloween_mask_1054
@@ -22308,6 +22314,7 @@ val=2,10 v 10
 val=3,15 v 15
 val=4,20 v 20
 val=5,30 v 30
+val=6,1 v 1
 
 [enum_2341]
 inputtype=int
@@ -22319,6 +22326,7 @@ val=2,Max team size: 10 v 10
 val=3,Max team size: 15 v 15
 val=4,Max team size: 20 v 20
 val=5,Max team size: 30 v 30
+val=6,Max team size: 1 v 1
 
 [enum_2343]
 inputtype=int

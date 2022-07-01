@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script114(event_com,1048579,1048578,1048583,1048596,1048607)"
+onload="script114(event_com,1048580,1048579,1048584,1048597,1048608)"
 
 [interface_16:1]
 type=^iftype_layer
@@ -17,21 +17,29 @@ layer=interface_16:0
 
 [interface_16:2]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_16:0
+
+[interface_16:3]
+type=^iftype_layer
 width=324
 height=232
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_16:0
 
-[interface_16:3]
+[interface_16:4]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_16:2
+layer=interface_16:3
 
-[interface_16:4]
+[interface_16:5]
 type=^iftype_layer
 y=10
 width=20
@@ -40,102 +48,102 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_16:2
+layer=interface_16:3
 
-[interface_16:5]
+[interface_16:6]
 type=^iftype_layer
 width=151
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_16:4
+layer=interface_16:5
 
-[interface_16:6]
+[interface_16:7]
 type=^iftype_layer
 width=32
 height=32
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,F1)"
 
-[interface_16:7]
+[interface_16:8]
 type=^iftype_text
 width=35
 height=32
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_16:5
+layer=interface_16:6
 text="Toggle this panel"
 colour=^white
 font=p12_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_16:8]
+[interface_16:9]
 type=^iftype_layer
 x=-18
 y=35
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,W)"
 
-[interface_16:9]
+[interface_16:10]
 type=^iftype_layer
 x=-50
 y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,A)"
 
-[interface_16:10]
+[interface_16:11]
 type=^iftype_layer
 x=-18
 y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,S)"
 
-[interface_16:11]
+[interface_16:12]
 type=^iftype_layer
 x=14
 y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,D)"
 
-[interface_16:12]
+[interface_16:13]
 type=^iftype_layer
 x=50
 y=35
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,R)"
 
-[interface_16:13]
+[interface_16:14]
 type=^iftype_layer
 x=50
 y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,F)"
 
-[interface_16:14]
+[interface_16:15]
 type=^iftype_text
 y=99
 height=15
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_16:5
+layer=interface_16:6
 text="WASD & RF: <col=ffffff>Move</col> camera"
 colour=0xff981f
 font=p11_full
@@ -143,32 +151,32 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_16:15]
+[interface_16:16]
 type=^iftype_layer
 y=124
 width=84
 height=32
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,PAGE DOWN)"
 
-[interface_16:16]
+[interface_16:17]
 type=^iftype_layer
 y=124
 width=84
 height=32
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_16:5
+layer=interface_16:6
 onload="script1661(event_com,PAGE UP)"
 
-[interface_16:17]
+[interface_16:18]
 type=^iftype_text
 height=156
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_16:5
+layer=interface_16:6
 text="Slower / Faster movement<br>Hold <col=ffffff>SHIFT</col> to go extra slow."
 colour=0xff981f
 font=p11_full
@@ -176,42 +184,33 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_16:18]
+[interface_16:19]
 type=^iftype_layer
 width=151
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_16:4
+layer=interface_16:5
 
-[interface_16:19]
+[interface_16:20]
 type=^iftype_layer
 width=32
 height=32
-layer=interface_16:18
+layer=interface_16:19
 onload="script1661(event_com,ESC)"
 
-[interface_16:20]
+[interface_16:21]
 type=^iftype_text
 width=35
 height=32
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_16:18
+layer=interface_16:19
 text="EXIT VIEWER"
 colour=^white
 font=p12_full
 valign=^settextalign_centre
 shadowed=yes
-
-[interface_16:21]
-type=^iftype_graphic
-y=35
-width=32
-height=32
-hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,47"
 
 [interface_16:22]
 type=^iftype_graphic
@@ -219,19 +218,18 @@ y=35
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,48"
-angle=16384
+layer=interface_16:19
+graphic="options_icons,47"
 
 [interface_16:23]
 type=^iftype_graphic
-x=-32
-y=67
+y=35
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,47"
+layer=interface_16:19
+graphic="options_icons,48"
+angle=16384
 
 [interface_16:24]
 type=^iftype_graphic
@@ -240,18 +238,19 @@ y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,48"
-angle=32768
+layer=interface_16:19
+graphic="options_icons,47"
 
 [interface_16:25]
 type=^iftype_graphic
+x=-32
 y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,47"
+layer=interface_16:19
+graphic="options_icons,48"
+angle=32768
 
 [interface_16:26]
 type=^iftype_graphic
@@ -259,19 +258,18 @@ y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,48"
-angle=49152
+layer=interface_16:19
+graphic="options_icons,47"
 
 [interface_16:27]
 type=^iftype_graphic
-x=32
 y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,47"
+layer=interface_16:19
+graphic="options_icons,48"
+angle=49152
 
 [interface_16:28]
 type=^iftype_graphic
@@ -280,16 +278,26 @@ y=67
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_16:18
-graphic="options_icons,48"
+layer=interface_16:19
+graphic="options_icons,47"
 
 [interface_16:29]
+type=^iftype_graphic
+x=32
+y=67
+width=32
+height=32
+hposmode=^setpos_abs_centre
+layer=interface_16:19
+graphic="options_icons,48"
+
+[interface_16:30]
 type=^iftype_text
 y=99
 height=25
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_16:18
+layer=interface_16:19
 text="Arrows / Drag scrollwheel:<br><col=ffffff>Rotate</col> camera"
 colour=0xff981f
 font=p11_full
@@ -297,36 +305,36 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_16:30]
+[interface_16:31]
 type=^iftype_layer
 y=124
 width=50
 height=32
-layer=interface_16:18
+layer=interface_16:19
 onload="script1661(event_com,SPACE)"
 
-[interface_16:31]
+[interface_16:32]
 type=^iftype_text
 y=124
 width=53
 height=32
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_16:18
+layer=interface_16:19
 text="Reset position"
 colour=^white
 font=p12_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_16:32]
+[interface_16:33]
 type=^iftype_text
 height=156
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_16:18
+layer=interface_16:19
 text="Press <col=ffffff>SPACE</col> to bring the camera back if it gets lost."
 colour=0xff981f
 font=p11_full
