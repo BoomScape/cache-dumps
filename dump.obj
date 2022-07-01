@@ -223692,7 +223692,6 @@ certificate=yes
 [dragon_javelin_23648]
 name=Dragon javelin
 model=dragon_javelin_31511
-cost=450
 2dzoom=1470
 2dxof=-2
 2dyof=63
@@ -223703,8 +223702,8 @@ recol1s=22451
 recol1d=10456
 stackable=yes
 
-[dragonstone_bolts_e_23649]
-name=Dragonstone bolts (e)
+[diamond_bolts_e_23649]
+name=Diamond bolts (e)
 model=opal_bolts_16856
 2dzoom=720
 2dxof=3
@@ -223713,23 +223712,22 @@ model=opal_bolts_16856
 2dyan=117
 iop2=Wield
 recol1s=17971
-recol1d=-31817
+recol1d=21559
 recol2s=5537
-recol2d=-29395
+recol2d=21559
 recol3s=5532
-recol3d=-29399
+recol3d=21555
 recol4s=5656
-recol4d=-29403
+recol4d=21679
 recol5s=5652
-recol5d=-29279
+recol5d=21675
 recol6s=10465
-recol6d=-14784
-ambient=25
+recol6d=127
 stackable=yes
-count1=dragonstone_bolts_e_2_9278,2
-count2=dragonstone_bolts_e_3_9279,3
-count3=dragonstone_bolts_e_4_9280,4
-count4=dragonstone_bolts_e_5_9281,5
+count1=diamond_bolts_e_2_9274,2
+count2=diamond_bolts_e_3_9275,3
+count3=diamond_bolts_e_4_9276,4
+count4=diamond_bolts_e_5_9277,5
 
 [rune_pouch_23650]
 name=Rune pouch
@@ -223743,4 +223741,51 @@ certificate=yes
 
 [cert_rune_pouch_23651]
 certificate=yes
+
+[mages_book_23652]
+name=Mage's book
+model=mages_book_10573
+manwear=mages_book_10698,0
+womanwear=mages_book_10699,0
+cost=300
+2dzoom=950
+2dxof=2
+2dyof=10
+2dxan=260
+2dyan=1948
+iop2=Wield
+ambient=15
+
+[ahrims_staff_23653]
+name=Ahrim's staff
+model=ahrims_staff_6590
+manwear=ahrims_staff_6706,0
+womanwear=ahrims_staff_6706,6
+cost=300
+2dzoom=1550
+2dxof=-4
+2dyof=-19
+2dxan=224
+2dyan=116
+iop2=Wield
+recol1s=14503
+recol1d=10512
+recol2s=14499
+recol2d=10508
+recol3s=14494
+recol3d=10760
+recol4s=14490
+recol4d=11140
+
+[occult_necklace_23654]
+name=Occult necklace
+model=occult_necklace_28438
+manwear=occult_necklace_28445,0
+womanwear=occult_necklace_28445,0
+2dzoom=589
+2dxof=3
+2dyof=21
+2dxan=431
+2dyan=81
+iop2=Wear
 
