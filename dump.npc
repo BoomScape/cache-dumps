@@ -73673,7 +73673,7 @@ name=Vampyre Juvinate
 model1=vampyre_juvinate_17968
 model2=vampyre_juvinate_17986
 head1=vampyre_juvinate_18046
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 vislevel=54
@@ -73684,7 +73684,7 @@ name=Vampyre Juvinate
 model1=vampyre_juvinate_17962
 model2=vampyre_juvinate_17980
 head1=vampyre_juvinate_18045
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 vislevel=54
@@ -73695,7 +73695,7 @@ name=Vampyre Juvenile
 model1=vampyre_juvenile_17967
 model2=vampyre_juvenile_17985
 head1=vampyre_juvenile_18044
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 op2=Attack
@@ -73707,7 +73707,7 @@ name=Vampyre Juvenile
 model1=vampyre_juvenile_17961
 model2=vampyre_juvenile_17979
 head1=vampyre_juvenile_18043
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 op2=Attack
@@ -73719,7 +73719,7 @@ name=Vampyre Juvinate
 model1=vampyre_juvinate_17968
 model2=vampyre_juvinate_17986
 head1=vampyre_juvinate_18046
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 recol1s=-11161
 recol1d=931
@@ -73733,7 +73733,7 @@ name=Vampyre Juvinate
 model1=vampyre_juvinate_17962
 model2=vampyre_juvinate_17980
 head1=vampyre_juvinate_18045
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 op2=Attack
@@ -73982,14 +73982,13 @@ vislevel=64
 
 [vyrewatch_3709]
 name=Vyrewatch
-model1=vyrewatch_17963
+model1=vyre_orator_17963
 model2=vyrewatch_18000
-model3=vyrewatch_17981
+model3=vyre_orator_17981
 head1=vyrewatch_18053
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=105
 drawpriority=yes
 ambient=-25
@@ -74000,10 +73999,9 @@ model1=vyrewatch_17960
 model2=vyrewatch_18000
 model3=vyrewatch_17978
 head1=vyrewatch_18052
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=110
 drawpriority=yes
 ambient=-25
@@ -74014,10 +74012,9 @@ model1=vyrewatch_17965
 model2=vyrewatch_18000
 model3=vyrewatch_17983
 head1=vyrewatch_18054
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=120
 drawpriority=yes
 ambient=-25
@@ -74028,10 +74025,9 @@ model1=vyrewatch_17966
 model2=vyrewatch_18000
 model3=vyrewatch_17984
 head1=vyrewatch_18055
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=125
 drawpriority=yes
 ambient=-25
@@ -74043,8 +74039,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18053
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=105
 drawpriority=yes
@@ -74057,8 +74051,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18052
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=110
 drawpriority=yes
@@ -74071,8 +74063,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18054
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=120
 drawpriority=yes
@@ -74085,8 +74075,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18055
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=125
 drawpriority=yes
@@ -74150,10 +74138,9 @@ model1=vyrewatch_17969
 model2=vyrewatch_18000
 model3=vyrewatch_17987
 head1=vyrewatch_18056
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=105
 drawpriority=yes
 ambient=-25
@@ -74164,10 +74151,9 @@ model1=vyrewatch_17970
 model2=vyrewatch_18000
 model3=vyrewatch_17988
 head1=vyrewatch_18057
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=110
 drawpriority=yes
 ambient=-25
@@ -74178,24 +74164,22 @@ model1=vyrewatch_17971
 model2=vyrewatch_18000
 model3=vyrewatch_17989
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=120
 drawpriority=yes
 ambient=-25
 
 [vyrewatch_3724]
 name=Vyrewatch
-model1=vyrewatch_17972
+model1=vyre_orator_17972
 model2=vyrewatch_18000
-model3=vyrewatch_17990
+model3=vyre_orator_17990
 head1=vyrewatch_18059
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=125
 drawpriority=yes
 ambient=-25
@@ -74207,8 +74191,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18056
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=105
 drawpriority=yes
@@ -74221,8 +74203,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18057
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=110
 drawpriority=yes
@@ -74235,8 +74215,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18058
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=120
 drawpriority=yes
@@ -74249,8 +74227,6 @@ model2=vyrewatch_17959
 model3=vyrewatch_17950
 head1=vyrewatch_18059
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=125
 drawpriority=yes
@@ -74313,7 +74289,7 @@ name=Vanstrom Klause
 model1=vanstrom_klause_17976
 model2=vanstrom_klause_17993
 head1=vanstrom_klause_18050
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=0
 
@@ -74322,7 +74298,7 @@ name=Vanstrom Klause
 model1=vanstrom_klause_17977
 model2=vanstrom_klause_17995
 head1=vanstrom_klause_18051
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=0
 
@@ -74331,7 +74307,7 @@ name=Vanstrom Klause
 model1=vanstrom_klause_17977
 model2=vanstrom_klause_17995
 head1=vanstrom_klause_18051
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op2=Attack
 vislevel=169
@@ -74341,7 +74317,7 @@ name=Vanstrom Klause
 model1=vanstrom_klause_17977
 model2=vanstrom_klause_17995
 head1=vanstrom_klause_18051
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=169
 
@@ -74379,7 +74355,7 @@ name=Vanescula Drakan
 model1=vanescula_drakan_17964
 model2=vanescula_drakan_17982
 head1=vanescula_drakan_18042
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4699
 vislevel=0
 
@@ -74388,7 +74364,7 @@ name=Vanescula Drakan
 model1=vanescula_drakan_17975
 model2=vanescula_drakan_17994
 head1=vanescula_drakan_18049
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 vislevel=0
 
@@ -74416,7 +74392,7 @@ name=Ranis Drakan
 model1=ranis_drakan_17974
 model2=ranis_drakan_17991
 head1=ranis_drakan_18048
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=0
 
@@ -74425,7 +74401,7 @@ name=Ranis Drakan
 model1=ranis_drakan_17973
 model2=ranis_drakan_17992
 head1=ranis_drakan_18047
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=0
 
@@ -74547,14 +74523,13 @@ vislevel=125
 
 [vyrewatch_3756]
 name=Vyrewatch
-model1=vyrewatch_17963
+model1=vyre_orator_17963
 model2=vyrewatch_18000
-model3=vyrewatch_17981
+model3=vyre_orator_17981
 head1=vyrewatch_18053
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=105
 drawpriority=yes
 ambient=-25
@@ -74565,10 +74540,9 @@ model1=vyrewatch_17960
 model2=vyrewatch_18000
 model3=vyrewatch_17978
 head1=vyrewatch_18052
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=110
 drawpriority=yes
 ambient=-25
@@ -74579,10 +74553,9 @@ model1=vyrewatch_17965
 model2=vyrewatch_18000
 model3=vyrewatch_17983
 head1=vyrewatch_18054
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=120
 drawpriority=yes
 ambient=-25
@@ -74593,10 +74566,9 @@ model1=vyrewatch_17966
 model2=vyrewatch_18000
 model3=vyrewatch_17984
 head1=vyrewatch_18055
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
-op2=Attack
 vislevel=125
 drawpriority=yes
 ambient=-25
@@ -74607,10 +74579,9 @@ model1=vyrewatch_17969
 model2=vyrewatch_18000
 model3=vyrewatch_17987
 head1=vyrewatch_18056
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=105
 drawpriority=yes
 ambient=-25
@@ -74621,10 +74592,9 @@ model1=vyrewatch_17969
 model2=vyrewatch_18000
 model3=vyrewatch_17987
 head1=vyrewatch_18057
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=110
 drawpriority=yes
 ambient=-25
@@ -74635,10 +74605,9 @@ model1=vyrewatch_17969
 model2=vyrewatch_18000
 model3=vyrewatch_17987
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=120
 drawpriority=yes
 ambient=-25
@@ -74649,10 +74618,9 @@ model1=vyrewatch_17969
 model2=vyrewatch_18000
 model3=vyrewatch_17987
 head1=vyrewatch_18059
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
-op2=Attack
 vislevel=125
 drawpriority=yes
 ambient=-25
@@ -74663,8 +74631,6 @@ model1=vyrewatch_17952
 model2=vyrewatch_17959
 head1=vyrewatch_18053
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=105
 drawpriority=yes
@@ -74676,8 +74642,6 @@ model1=vyrewatch_17951
 model2=vyrewatch_17959
 head1=vyrewatch_18052
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=110
 drawpriority=yes
@@ -74689,8 +74653,6 @@ model1=vyrewatch_17953
 model2=vyrewatch_17959
 head1=vyrewatch_18054
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=120
 drawpriority=yes
@@ -74702,8 +74664,6 @@ model1=vyrewatch_17954
 model2=vyrewatch_17959
 head1=vyrewatch_18055
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=125
 drawpriority=yes
@@ -74715,8 +74675,6 @@ model1=vyrewatch_17955
 model2=vyrewatch_17959
 head1=vyrewatch_18056
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=105
 drawpriority=yes
@@ -74728,8 +74686,6 @@ model1=vyrewatch_17956
 model2=vyrewatch_17959
 head1=vyrewatch_18057
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=110
 drawpriority=yes
@@ -74741,8 +74697,6 @@ model1=vyrewatch_17957
 model2=vyrewatch_17959
 head1=vyrewatch_18058
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=120
 drawpriority=yes
@@ -74754,8 +74708,6 @@ model1=vyrewatch_17958
 model2=vyrewatch_17959
 head1=vyrewatch_18059
 readyanim=vyrewatch_ready_4706
-op1=Talk-to
-op2=Attack
 size=3
 vislevel=125
 drawpriority=yes
@@ -165054,7 +165006,7 @@ name=Vyrelord
 model1=vyrewatch_17971
 model2=vyrewatch_17989
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=0
 ambient=-25
@@ -165064,7 +165016,7 @@ name=Vyrelady
 model1=vyrewatch_17960
 model2=vyrewatch_17978
 head1=vyrewatch_18052
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 vislevel=0
 ambient=-25
@@ -165737,7 +165689,7 @@ name=Vanstrom Klause
 model1=vanstrom_klause_17976
 model2=vanstrom_klause_17993
 head1=vanstrom_klause_18050
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vanstrom_klause_walk_8032
 vislevel=0
 
@@ -165746,7 +165698,7 @@ name=Vanstrom Klause
 model1=vanstrom_klause_17977
 model2=vanstrom_klause_17995
 head1=vanstrom_klause_18051
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vanstrom_klause_walk_8032
 vislevel=0
 
@@ -165839,7 +165791,7 @@ name=Vanescula Drakan
 model1=vanescula_drakan_17964
 model2=vanescula_drakan_17982
 head1=vanescula_drakan_18042
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4699
 vislevel=0
 
@@ -165858,7 +165810,7 @@ model1=vyrewatch_17971
 model2=vyrewatch_18000
 model3=vyrewatch_17989
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 vislevel=0
@@ -165866,11 +165818,11 @@ ambient=-25
 
 [vyrewatch_8252]
 name=Vyrewatch
-model1=vyrewatch_17963
+model1=vyre_orator_17963
 model2=vyrewatch_18000
-model3=vyrewatch_17981
+model3=vyre_orator_17981
 head1=vyrewatch_18053
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 vislevel=87
 visonmap=no
@@ -165882,7 +165834,7 @@ model1=vyrewatch_17971
 model2=vyrewatch_18000
 model3=vyrewatch_17989
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=87
 visonmap=no
@@ -165894,7 +165846,7 @@ model1=vyrewatch_17970
 model2=vyrewatch_18000
 model3=vyrewatch_17988
 head1=vyrewatch_18057
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 vislevel=87
 visonmap=no
@@ -165906,7 +165858,7 @@ model1=vyrewatch_17966
 model2=vyrewatch_18000
 model3=vyrewatch_17984
 head1=vyrewatch_18055
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 vislevel=87
 visonmap=no
@@ -165914,11 +165866,11 @@ ambient=-25
 
 [vyrewatch_8256]
 name=Vyrewatch
-model1=vyrewatch_17963
+model1=vyre_orator_17963
 model2=vyrewatch_18000
-model3=vyrewatch_17981
+model3=vyre_orator_17981
 head1=vyrewatch_18053
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op2=Attack
 vislevel=87
@@ -165930,7 +165882,7 @@ model1=vyrewatch_17971
 model2=vyrewatch_18000
 model3=vyrewatch_17989
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op2=Attack
 vislevel=87
@@ -165942,7 +165894,7 @@ model1=vyrewatch_17970
 model2=vyrewatch_18000
 model3=vyrewatch_17988
 head1=vyrewatch_18057
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op2=Attack
 vislevel=87
@@ -165954,7 +165906,7 @@ model1=vyrewatch_17966
 model2=vyrewatch_18000
 model3=vyrewatch_17984
 head1=vyrewatch_18055
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op2=Attack
 vislevel=87
@@ -166000,20 +165952,20 @@ op2=Attack
 size=2
 vislevel=149
 
-[nylocas_8263]
-name=Nylocas
-model1=nylocas_35183
-readyanim=nylocas_ready_8002
-walkanim=nylocas_walk_8003
+[nylocas_ischyros_8263]
+name=Nylocas Ischyros
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
 resizeh=43
 resizev=43
 vislevel=0
 
-[nylocas_8264]
-name=Nylocas
-model1=nylocas_35184
-readyanim=nylocas_ready_7993
-walkanim=nylocas_walk_7997
+[nylocas_toxobolos_8264]
+name=Nylocas Toxobolos
+model1=nylocas_toxobolos_35184
+readyanim=nylocas_toxobolos_ready_7993
+walkanim=nylocas_toxobolos_walk_7997
 resizeh=43
 resizev=43
 vislevel=0
@@ -166751,11 +166703,11 @@ visonmap=no
 
 [vyrewatch_8300]
 name=Vyrewatch
-model1=vyrewatch_17963
+model1=vyre_orator_17963
 model2=vyrewatch_18000
-model3=vyrewatch_17981
+model3=vyre_orator_17981
 head1=vyrewatch_18053
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 op2=Attack
@@ -166769,7 +166721,7 @@ model1=vyrewatch_17960
 model2=vyrewatch_18000
 model3=vyrewatch_17978
 head1=vyrewatch_18052
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 op2=Attack
@@ -166783,7 +166735,7 @@ model1=vyrewatch_17965
 model2=vyrewatch_18000
 model3=vyrewatch_17983
 head1=vyrewatch_18054
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 op2=Attack
@@ -166797,7 +166749,7 @@ model1=vyrewatch_17966
 model2=vyrewatch_18000
 model3=vyrewatch_17984
 head1=vyrewatch_18055
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 op2=Attack
@@ -166811,7 +166763,7 @@ model1=vyrewatch_17969
 model2=vyrewatch_18000
 model3=vyrewatch_17987
 head1=vyrewatch_18056
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 op2=Attack
@@ -166825,7 +166777,7 @@ model1=vyrewatch_17970
 model2=vyrewatch_18000
 model3=vyrewatch_17988
 head1=vyrewatch_18057
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 op2=Attack
@@ -166839,7 +166791,7 @@ model1=vyrewatch_17971
 model2=vyrewatch_18000
 model3=vyrewatch_17989
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 op2=Attack
@@ -166849,11 +166801,11 @@ ambient=-25
 
 [vyrewatch_8307]
 name=Vyrewatch
-model1=vyrewatch_17972
+model1=vyre_orator_17972
 model2=vyrewatch_18000
-model3=vyrewatch_17990
+model3=vyre_orator_17990
 head1=vyrewatch_18059
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 op2=Attack
@@ -167630,7 +167582,7 @@ name=Banker
 model1=vampyre_juvenile_17961
 model2=vampyre_juvenile_17979
 head1=banker_35318
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 op3=Bank
@@ -167643,7 +167595,7 @@ name=Banker
 model1=vampyre_juvenile_17967
 model2=vampyre_juvenile_17985
 head1=banker_35320
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 op3=Bank
@@ -167653,10 +167605,10 @@ ambient=-25
 
 [vyre_orator_8323]
 name=Vyre Orator
-model1=vyrewatch_17972
-model2=vyrewatch_17990
+model1=vyre_orator_17972
+model2=vyre_orator_17990
 head1=vyrewatch_18059
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 size=2
 vislevel=0
@@ -167664,10 +167616,10 @@ ambient=-25
 
 [vyre_orator_8324]
 name=Vyre Orator
-model1=vyrewatch_17963
-model2=vyrewatch_17981
+model1=vyre_orator_17963
+model2=vyre_orator_17981
 head1=vyrewatch_18053
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 size=2
 vislevel=0
@@ -167689,6 +167641,7 @@ recol2d=0
 recol3s=4888
 recol3d=12
 op1=Talk-to
+op3=Trade
 vislevel=0
 drawpriority=yes
 
@@ -167697,7 +167650,7 @@ name=Vampyre Juvenile
 model1=vampyre_juvenile_17967
 model2=vampyre_juvenile_17985
 head1=banker_35320
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 vislevel=0
@@ -167709,7 +167662,7 @@ name=Vampyre Juvenile
 model1=vampyre_juvenile_17961
 model2=vampyre_juvenile_17979
 head1=vampyre_juvenile_18043
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 vislevel=0
@@ -167833,7 +167786,7 @@ name=Vyrelord
 model1=vyrewatch_17971
 model2=vyrewatch_17989
 head1=vyrewatch_18058
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 vislevel=0
@@ -167844,7 +167797,7 @@ name=Vyrelady
 model1=vyrewatch_17960
 model2=vyrewatch_17978
 head1=vyrewatch_18052
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 vislevel=0
@@ -167855,7 +167808,7 @@ name=Vyrelord
 model1=vyrewatch_17969
 model2=vyrewatch_17987
 head1=vyrewatch_18056
-readyanim=vampyre_juvinate_ready_4702
+readyanim=vyre_orator_4702
 walkanim=vampyre_juvinate_walk_4699
 op1=Talk-to
 vislevel=0
@@ -167866,9 +167819,617 @@ name=Vyrelady
 model1=vyrewatch_17966
 model2=vyrewatch_17984
 head1=vyrewatch_18055
-readyanim=vampyre_juvenile_ready_4703
+readyanim=vyre_orator_4703
 walkanim=vampyre_juvinate_walk_4700
 op1=Talk-to
 vislevel=0
 ambient=-25
+
+[lil_zik_8336]
+name=Lil' Zik
+model1=lil_zik_35381
+head1=lil_zik_35380
+readyanim=lil_zik_ready_8120
+walkanim=lil_zik_walk_8122
+resizeh=20
+resizev=20
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+
+[lil_zik_8337]
+name=Lil' Zik
+model1=lil_zik_35381
+head1=lil_zik_35380
+readyanim=lil_zik_ready_8120
+walkanim=lil_zik_walk_8122
+resizeh=20
+resizev=20
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+follower=yes
+
+[xarpus_8338]
+name=Xarpus
+model1=xarpus_35383
+readyanim=xarpus_ready_8060
+walkanim=xarpus_ready_8060
+resizeh=64
+resizev=64
+size=3
+vislevel=960
+
+[xarpus_8339]
+name=Xarpus
+model1=xarpus_35383
+readyanim=xarpus_ready_8060
+walkanim=xarpus_ready_8060
+resizeh=64
+resizev=64
+size=3
+vislevel=960
+
+[xarpus_8340]
+name=Xarpus
+model1=xarpus_35383
+readyanim=xarpus_ready_8058
+walkanim=xarpus_ready_8058
+resizeh=64
+resizev=64
+op2=Attack
+size=5
+vislevel=960
+
+[xarpus_8341]
+name=Xarpus
+model1=xarpus_35382
+walkanim=xarpus_walk_8063
+resizeh=64
+resizev=64
+size=5
+vislevel=960
+
+[nylocas_ischyros_8342]
+name=Nylocas Ischyros
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
+resizeh=43
+resizev=43
+op2=Attack
+vislevel=162
+
+[nylocas_toxobolos_8343]
+name=Nylocas Toxobolos
+model1=nylocas_toxobolos_35184
+readyanim=nylocas_toxobolos_ready_7993
+walkanim=nylocas_toxobolos_walk_7997
+resizeh=43
+resizev=43
+op2=Attack
+vislevel=162
+
+[nylocas_hagios_8344]
+name=Nylocas Hagios
+model1=nylocas_hagios_35182
+readyanim=nylocas_hagios_ready_7988
+walkanim=nylocas_hagios_walk_7987
+resizeh=43
+resizev=43
+op2=Attack
+vislevel=162
+
+[nylocas_ischyros_8345]
+name=Nylocas Ischyros
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
+resizeh=80
+resizev=80
+op2=Attack
+size=2
+vislevel=260
+
+[nylocas_toxobolos_8346]
+name=Nylocas Toxobolos
+model1=nylocas_toxobolos_35184
+readyanim=nylocas_toxobolos_ready_7993
+walkanim=nylocas_toxobolos_walk_7997
+resizeh=80
+resizev=80
+op2=Attack
+size=2
+vislevel=260
+
+[nylocas_hagios_8347]
+name=Nylocas Hagios
+model1=nylocas_hagios_35182
+readyanim=nylocas_hagios_ready_7988
+walkanim=nylocas_hagios_walk_7987
+resizeh=80
+resizev=80
+op2=Attack
+size=2
+vislevel=260
+
+[nylocas_ischyros_8348]
+name=Nylocas Ischyros
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
+resizeh=43
+resizev=43
+op2=Attack
+vislevel=162
+
+[nylocas_toxobolos_8349]
+name=Nylocas Toxobolos
+model1=nylocas_toxobolos_35184
+readyanim=nylocas_toxobolos_ready_7993
+walkanim=nylocas_toxobolos_walk_7997
+resizeh=43
+resizev=43
+op2=Attack
+vislevel=162
+
+[nylocas_hagios_8350]
+name=Nylocas Hagios
+model1=nylocas_hagios_35182
+readyanim=nylocas_hagios_ready_7988
+walkanim=nylocas_hagios_walk_7987
+resizeh=43
+resizev=43
+op2=Attack
+vislevel=162
+
+[nylocas_ischyros_8351]
+name=Nylocas Ischyros
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
+resizeh=80
+resizev=80
+op2=Attack
+size=2
+vislevel=260
+
+[nylocas_toxobolos_8352]
+name=Nylocas Toxobolos
+model1=nylocas_toxobolos_35184
+readyanim=nylocas_toxobolos_ready_7993
+walkanim=nylocas_toxobolos_walk_7997
+resizeh=80
+resizev=80
+op2=Attack
+size=2
+vislevel=260
+
+[nylocas_hagios_8353]
+name=Nylocas Hagios
+model1=nylocas_hagios_35182
+readyanim=nylocas_hagios_ready_7988
+walkanim=nylocas_hagios_walk_7987
+resizeh=80
+resizev=80
+op2=Attack
+size=2
+vislevel=260
+
+[nylocas_vasilias_8354]
+name=Nylocas Vasilias
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
+resizeh=170
+resizev=170
+size=4
+vislevel=800
+
+[nylocas_vasilias_8355]
+name=Nylocas Vasilias
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
+resizeh=170
+resizev=170
+op2=Attack
+size=4
+vislevel=800
+
+[nylocas_vasilias_8356]
+name=Nylocas Vasilias
+model1=nylocas_hagios_35182
+readyanim=nylocas_hagios_ready_7988
+walkanim=nylocas_hagios_walk_7987
+resizeh=170
+resizev=170
+op2=Attack
+size=4
+vislevel=800
+
+[nylocas_vasilias_8357]
+name=Nylocas Vasilias
+model1=nylocas_toxobolos_35184
+readyanim=nylocas_toxobolos_ready_7993
+walkanim=nylocas_toxobolos_walk_7997
+resizeh=170
+resizev=170
+op2=Attack
+size=4
+vislevel=800
+
+[npc_8358]
+model1=skeletal_wyvern_21832
+resizeh=386
+resizev=1
+size=3
+vislevel=0
+active=no
+
+[pestilent_bloat_8359]
+name=Pestilent Bloat
+model1=pestilent_bloat_35404
+readyanim=pestilent_bloat_ready_8080
+walkanim=pestilent_bloat_walk_8081
+resizeh=132
+resizev=132
+op2=Attack
+size=5
+vislevel=870
+drawpriority=yes
+contrast=44
+slowmove=no
+
+[the_maiden_of_sugadinti_8360]
+name=The Maiden of Sugadinti
+model1=the_maiden_of_sugadinti_35385
+readyanim=the_maiden_of_sugadinti_8090
+walkanim=the_maiden_of_sugadinti_8090
+op2=Attack
+size=6
+vislevel=940
+ambient=30
+
+[the_maiden_of_sugadinti_8361]
+name=The Maiden of Sugadinti
+model1=the_maiden_of_sugadinti_35388
+readyanim=the_maiden_of_sugadinti_8090
+walkanim=the_maiden_of_sugadinti_8090
+op2=Attack
+size=6
+vislevel=940
+ambient=30
+
+[the_maiden_of_sugadinti_8362]
+name=The Maiden of Sugadinti
+model1=the_maiden_of_sugadinti_35387
+readyanim=the_maiden_of_sugadinti_8090
+walkanim=the_maiden_of_sugadinti_8090
+op2=Attack
+size=6
+vislevel=940
+ambient=30
+
+[the_maiden_of_sugadinti_8363]
+name=The Maiden of Sugadinti
+model1=the_maiden_of_sugadinti_35386
+readyanim=the_maiden_of_sugadinti_8090
+walkanim=the_maiden_of_sugadinti_8090
+op2=Attack
+size=6
+vislevel=940
+ambient=30
+
+[the_maiden_of_sugadinti_8364]
+name=The Maiden of Sugadinti
+model1=the_maiden_of_sugadinti_35384
+readyanim=the_maiden_of_sugadinti_8090
+walkanim=the_maiden_of_sugadinti_8090
+op2=Attack
+size=6
+vislevel=940
+ambient=30
+
+[the_maiden_of_sugadinti_8365]
+name=The Maiden of Sugadinti
+model1=the_maiden_of_sugadinti_35389
+readyanim=the_maiden_of_sugadinti_8090
+walkanim=the_maiden_of_sugadinti_8090
+op2=Attack
+size=6
+vislevel=940
+ambient=30
+turnspeed=0
+
+[nylocas_matomenos_8366]
+name=Nylocas Matomenos
+model1=nylocas_matomenos_35402
+readyanim=nylocas_matomenos_ready_8096
+walkanim=nylocas_matomenos_walk_8095
+recol1s=960
+recol1d=8088
+recol2s=-31808
+recol2d=9098
+recol3s=22443
+recol3d=8076
+recol4s=11200
+recol4d=10159
+recol5s=-9280
+recol5d=7700
+recol6s=-15437
+recol6d=7106
+op2=Attack
+size=2
+vislevel=115
+
+[blood_spawn_8367]
+name=Blood spawn
+model1=blood_spawn_35392
+readyanim=blood_spawn_ready_8102
+walkanim=blood_spawn_walk_8101
+op2=Attack
+vislevel=55
+drawpriority=yes
+ambient=10
+contrast=44
+
+[abigaila_8368]
+name=Abigaila
+model1=ingrid_hradson_24193
+model2=female_hair_403
+model3=citizen_top_8849
+model4=matilda_347
+model5=abigaila_24559
+model6=female_legs_438
+model7=sarius_guile_18106
+model8=abigaila_35370
+head1=ingrid_hradson_24174
+head2=female_hair_120
+readyanim=abigaila_ready_1824
+walkanim=abigaila_ready_1824
+recol1s=4550
+recol1d=5590
+recol2s=61
+recol2d=5590
+recol3s=25238
+recol3d=-24048
+recol4s=8741
+recol4d=3470
+recol5s=5427
+recol5d=16920
+recol6s=127
+recol6d=-25375
+op1=Talk-to
+op3=Scry
+vislevel=0
+drawpriority=yes
+
+[verzik_vitur_8369]
+name=Verzik Vitur
+model1=verzik_vitur_35179
+head1=verzik_vitur_35180
+readyanim=verzik_vitur_ready_8107
+op1=Talk-to
+size=5
+vislevel=1040
+drawpriority=yes
+turnspeed=0
+
+[verzik_vitur_8370]
+name=Verzik Vitur
+model1=verzik_vitur_35179
+head1=verzik_vitur_35180
+readyanim=verzik_vitur_ready_8107
+op2=Attack
+size=5
+vislevel=1040
+drawpriority=yes
+turnspeed=0
+
+[verzik_vitur_8371]
+name=Verzik Vitur
+model1=verzik_vitur_35378
+head1=verzik_vitur_35180
+readyanim=verzik_vitur_ready_8112
+walkanim=verzik_vitur_ready_8112
+size=5
+vislevel=1040
+drawpriority=yes
+
+[verzik_vitur_8372]
+name=Verzik Vitur
+model1=verzik_vitur_35378
+head1=verzik_vitur_35180
+readyanim=verzik_vitur_ready_8113
+walkanim=verzik_vitur_ready_8113
+op2=Attack
+size=3
+vislevel=1265
+drawpriority=yes
+
+[verzik_vitur_8373]
+name=Verzik Vitur
+model1=lil_zik_35381
+head1=verzik_vitur_35180
+readyanim=lil_zik_ready_8120
+walkanim=verzik_vitur_walk_8121
+size=7
+vislevel=1265
+drawpriority=yes
+
+[verzik_vitur_8374]
+name=Verzik Vitur
+model1=lil_zik_35381
+head1=verzik_vitur_35180
+readyanim=lil_zik_ready_8120
+walkanim=verzik_vitur_walk_8121
+op2=Attack
+size=7
+vislevel=1520
+drawpriority=yes
+
+[verzik_vitur_8375]
+name=Verzik Vitur
+model1=verzik_vitur_35379
+head1=verzik_vitur_35180
+readyanim=verzik_vitur_ready_8129
+walkanim=verzik_vitur_ready_8129
+size=3
+vislevel=1520
+drawpriority=yes
+
+[web_8376]
+name=<col=00ffff>Web</col>
+model1=skeletal_wyvern_21832
+resizeh=60
+resizev=42
+op2=Attack
+vislevel=0
+visonmap=no
+
+[collapsing_pillar_8377]
+name=<col=00ffff>Collapsing Pillar</col>
+model1=collapsing_pillar_35229
+size=5
+vislevel=0
+visonmap=no
+ambient=20
+
+[collapsing_pillar_8378]
+name=<col=00ffff>Collapsing Pillar</col>
+model1=collapsing_pillar_35230
+size=5
+vislevel=0
+visonmap=no
+ambient=20
+
+[supporting_pillar_8379]
+name=<col=00ffff>Supporting Pillar</col>
+model1=rocky_support_32999
+resizeh=90
+resizev=1
+size=3
+vislevel=0
+visonmap=no
+
+[npc_8380]
+model1=verziks_throne_35190
+size=3
+vislevel=0
+active=no
+visonmap=no
+
+[nylocas_ischyros_8381]
+name=Nylocas Ischyros
+model1=nylocas_ischyros_35183
+readyanim=nylocas_ischyros_ready_8002
+walkanim=nylocas_ischyros_walk_8003
+resizeh=70
+resizev=70
+op2=Attack
+size=2
+vislevel=162
+
+[nylocas_toxobolos_8382]
+name=Nylocas Toxobolos
+model1=nylocas_toxobolos_35184
+readyanim=nylocas_toxobolos_ready_7993
+walkanim=nylocas_toxobolos_walk_7997
+resizeh=70
+resizev=70
+op2=Attack
+size=2
+vislevel=162
+
+[nylocas_hagios_8383]
+name=Nylocas Hagios
+model1=nylocas_hagios_35182
+readyanim=nylocas_hagios_ready_7988
+walkanim=nylocas_hagios_walk_7987
+resizeh=70
+resizev=70
+op2=Attack
+size=2
+vislevel=162
+
+[nylocas_athanatos_8384]
+name=Nylocas Athanatos
+model1=nylocas_athanatos_35181
+readyanim=nylocas_athanatos_ready_8076
+walkanim=nylocas_athanatos_walk_8077
+resizeh=160
+resizev=160
+op2=Attack
+size=3
+vislevel=350
+
+[nylocas_matomenos_8385]
+name=Nylocas Matomenos
+model1=nylocas_matomenos_35402
+readyanim=nylocas_matomenos_ready_8096
+walkanim=nylocas_matomenos_walk_8095
+recol1s=960
+recol1d=8088
+recol2s=-31808
+recol2d=9098
+recol3s=22443
+recol3d=8076
+recol4s=11200
+recol4d=10159
+recol5s=-9280
+recol5d=7700
+recol6s=-15437
+recol6d=7106
+op2=Attack
+size=2
+vislevel=115
+
+[npc_8386]
+model1=model_35398
+readyanim=seq_8100
+walkanim=seq_8100
+recol1s=0
+recol1d=-19500
+vislevel=1
+active=no
+drawpriority=yes
+ambient=50
+contrast=50
+turnspeed=0
+
+[sotetseg_8387]
+name=Sotetseg
+model1=sotetseg_35403
+readyanim=sotetseg_ready_8137
+walkanim=sotetseg_walk_8136
+size=5
+vislevel=995
+
+[sotetseg_8388]
+name=Sotetseg
+model1=sotetseg_35403
+readyanim=sotetseg_ready_8137
+walkanim=sotetseg_walk_8136
+op2=Attack
+size=5
+vislevel=995
+
+[npc_8389]
+model1=model_35398
+readyanim=seq_8100
+walkanim=seq_8100
+resizeh=140
+resizev=140
+recol1s=0
+recol1d=929
+size=3
+vislevel=1
+active=no
+drawpriority=yes
+ambient=50
+contrast=50
+turnspeed=0
 

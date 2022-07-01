@@ -85,3 +85,26 @@ disposal=280
 duration=300
 width=80
 
+[headbar_12]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+full="orb_filler,12"
+empty="orb_filler,13"
+width=120
+
+[headbar_13]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+width=120
+
+[headbar_14]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+width=120
+

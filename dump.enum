@@ -671,6 +671,7 @@ val=fighter_hat_10548,Penance Fighter hat
 val=ranger_hat_10550,Penance Ranger hat
 val=runner_hat_10549,Penance Runner hat
 val=healer_hat_10547,Penance Healer hat
+val=justiciar_faceguard_22326,Justiciar Armour
 val=mime_mask_10629,Mime costume
 val=princess_blouse_10630,Royal frog costume
 val=frog_mask_10721,Frog mask
@@ -726,6 +727,11 @@ val=xerics_warrior_22390,Xeric's Warrior
 val=xerics_sentinel_22392,Xeric's Sentinel
 val=xerics_general_22394,Xeric's General
 val=xerics_champion_22396,Xeric's Champion
+val=sinhaza_shroud_tier_1_22494,Sinhaza Shroud Tier 1
+val=sinhaza_shroud_tier_2_22496,Sinhaza Shroud Tier 2
+val=sinhaza_shroud_tier_3_22498,Sinhaza Shroud Tier 3
+val=sinhaza_shroud_tier_4_22500,Sinhaza Shroud Tier 4
+val=sinhaza_shroud_tier_5_22502,Sinhaza Shroud Tier 5
 val=black_shield_h1_10665,Black heraldic kiteshield
 val=black_shield_h2_10668,Black heraldic kiteshield
 val=black_shield_h3_10671,Black heraldic kiteshield
@@ -3323,6 +3329,19 @@ val=560,Vanescula
 val=561,Bloodbath
 val=562,Welcome to the Theatre
 val=563,A Taste of Hope
+val=564,The Maiden's Sorrow
+val=565,The Maiden's Anger
+val=566,Welcome to my Nightmare
+val=567,The Nightmare Continues
+val=568,The Dark Beast Sotetseg
+val=569,Power of the Shadow Realm
+val=570,It's not over 'til...
+val=571,The Fat Lady Sings
+val=572,The Curtain Closes
+val=573,Dance of the Nylocas
+val=574,Arachnids of Vampyrium
+val=575,Predator Xarpus
+val=576,Last King of the Yarasa
 
 [enum_814]
 inputtype=int
@@ -3967,6 +3986,19 @@ val=560,Vanescula
 val=561,Bloodbath
 val=562,Welcome to the Theatre
 val=563,"Taste Of Hope, A"
+val=564,"Maidens Sorrow, The"
+val=565,"Maidens Anger, The"
+val=566,Welcome to my Nightmare
+val=567,"Nightmare Continues, The"
+val=568,"Dark Beast Sotetseg, The"
+val=569,Power of the Shadow Realm
+val=570,It's not over 'til...
+val=571,"Fat Lady Sings, The"
+val=572,"Curtain Closes, The"
+val=573,Dance of the Nylocas
+val=574,Arachnids of Vampyrium
+val=575,Predator Xarpus
+val=576,Last King of the Yarasa
 
 [enum_818]
 inputtype=int
@@ -4535,6 +4567,19 @@ val=559,560
 val=560,561
 val=561,562
 val=562,563
+val=563,564
+val=564,565
+val=565,566
+val=566,567
+val=567,568
+val=568,569
+val=569,570
+val=570,571
+val=571,572
+val=572,573
+val=573,574
+val=574,575
+val=575,576
 
 [enum_819]
 inputtype=int
@@ -5103,6 +5148,19 @@ val=560,0_0_0_18_6
 val=561,0_0_0_18_7
 val=562,0_0_0_18_8
 val=563,0_0_0_18_9
+val=564,0_0_0_18_10
+val=565,0_0_0_18_11
+val=566,0_0_0_18_12
+val=567,0_0_0_18_13
+val=568,0_0_0_18_14
+val=569,0_0_0_18_15
+val=570,0_0_0_18_16
+val=571,0_0_0_18_17
+val=572,0_0_0_18_18
+val=573,0_0_0_18_19
+val=574,0_0_0_18_20
+val=575,0_0_0_18_21
+val=576,0_0_0_18_22
 
 [enum_823]
 inputtype=component
@@ -6969,6 +7027,7 @@ val=dragon_sword_21206,400
 val=dragon_thrownaxe_21207,250
 val=granite_hammer_21742,600
 val=dragon_crossbow_21902,600
+val=dawnbringer_22516,350
 
 [enum_913]
 inputtype=int
@@ -7294,6 +7353,7 @@ val=36,jal_nib_rek_21291
 val=37,herbi_21509
 val=38,noon_21748
 val=39,vorki_21992
+val=40,lil_zik_22473
 
 [enum_987]
 inputtype=int
@@ -7851,6 +7911,7 @@ val=83,enum_1117
 val=84,enum_1118
 val=85,enum_1670
 val=86,enum_899
+val=87,enum_1921
 
 [enum_1034]
 inputtype=obj
@@ -7943,6 +8004,7 @@ val=partyhat_set_13173,enum_1117
 val=halloween_mask_set_13175,enum_1118
 val=ancestral_robes_set_21049,enum_1670
 val=obsidian_armour_set_21279,enum_899
+val=justiciar_armour_set_22438,enum_1921
 
 [enum_1035]
 inputtype=int
@@ -9007,6 +9069,14 @@ val=358,extended_antifire_4_11951
 val=359,super_antifire_potion_4_21978
 val=360,extended_super_antifire_4_22209
 val=361,guthix_rest_4_4417
+val=362,avernic_defender_22322
+val=363,sanguinesti_staff_22323
+val=364,justiciar_faceguard_22326
+val=365,justiciar_chestguard_22327
+val=366,justiciar_legguards_22328
+val=367,ghrazi_rapier_22324
+val=368,scythe_of_vitur_22325
+val=369,salve_amulet_ei_12018
 
 [enum_1125]
 inputtype=int
@@ -15839,6 +15909,7 @@ val=dragon_sword_21206,Wild Stab: Deal an attack which hits through Protect from
 val=dragon_thrownaxe_21207,Momentum Throw: Deal a fast attack with 25% improved accuracy.
 val=granite_hammer_21742,Hammer Blow: Deal an attack with 50% more accuracy and a guaranteed +5 damage.
 val=dragon_crossbow_21902,"Annihilate: Hit your target with 20% extra damage and in multicombat zones, hit all adjacent targets by 20% less damage."
+val=dawnbringer_22516,Pulsate: Fire an incredibly powerful burst of energy.
 
 [enum_1740]
 inputtype=int
@@ -16110,6 +16181,8 @@ val=5,Torfinn's Item Retrieval Service
 val=6,Torfinn's Item Retrieval Service
 val=7,Lunar Item Retrieval Service
 val=8,Lunar Item Retrieval Service
+val=11,Theatre of Blood Item Retrieval Service
+val=12,Theatre of Blood Item Retrieval Service
 val=9,Theatre of Blood Item Retrieval Service
 val=10,Theatre of Blood Item Retrieval Service
 
@@ -16121,6 +16194,7 @@ val=1,numulite_21555
 val=3,coins_995
 val=5,coins_995
 val=7,coins_995
+val=11,coins_995
 val=9,coins_995
 
 [enum_1757]
@@ -16131,6 +16205,7 @@ val=1,150
 val=3,50000
 val=5,100000
 val=7,100000
+val=11,100000
 val=9,20000
 
 [enum_1771]
@@ -16968,14 +17043,6 @@ val=47,games_necklace_8_3853
 val=48,xerics_talisman_inert_13392
 val=49,lizardman_fang_13391
 val=50,zamorak_brew_4_2450
-val=51,avernic_defender_22322
-val=52,sanguinesti_staff_22323
-val=53,vampyrium_vambraces_22329
-val=54,justiciar_faceguard_22326
-val=55,justiciar_chestguard_22327
-val=56,justiciar_leg_guards_22328
-val=57,ghrazi_rapier_22324
-val=58,scythe_of_vitur_22325
 
 [enum_1907]
 inputtype=component
@@ -17068,4 +17135,81 @@ val=10,10
 val=11,15
 val=12,23
 val=13,100
+
+[enum_1921]
+inputtype=int
+outputtype=namedobj
+default=null
+val=-1,justiciar_armour_set_22438
+val=0,justiciar_faceguard_22326
+val=1,justiciar_chestguard_22327
+val=2,justiciar_legguards_22328
+
+[enum_1937]
+inputtype=int
+outputtype=component
+default=null
+val=0,interface_364:17
+val=1,interface_364:18
+val=2,interface_364:19
+val=3,interface_364:20
+val=4,interface_364:21
+val=5,interface_364:22
+val=6,interface_364:23
+val=7,interface_364:24
+val=8,interface_364:25
+val=9,interface_364:26
+val=10,interface_364:27
+val=11,interface_364:28
+val=12,interface_364:29
+val=13,interface_364:30
+val=14,interface_364:31
+val=15,interface_364:32
+val=16,interface_364:33
+val=17,interface_364:34
+val=18,interface_364:35
+val=19,interface_364:36
+val=20,interface_364:37
+val=21,interface_364:38
+val=22,interface_364:39
+val=23,interface_364:40
+val=24,interface_364:41
+val=25,interface_364:42
+val=26,interface_364:43
+val=27,interface_364:44
+val=28,interface_364:45
+val=29,interface_364:46
+val=30,interface_364:47
+val=31,interface_364:48
+val=32,interface_364:49
+val=33,interface_364:50
+val=34,interface_364:51
+val=35,interface_364:52
+val=36,interface_364:53
+val=37,interface_364:54
+val=38,interface_364:55
+val=39,interface_364:56
+val=40,interface_364:57
+val=41,interface_364:58
+val=42,interface_364:59
+val=43,interface_364:60
+val=44,interface_364:61
+
+[enum_1938]
+inputtype=component
+outputtype=int
+default=null
+val=interface_364:63,0
+val=interface_364:65,1
+
+[enum_1939]
+inputtype=component
+outputtype=int
+default=null
+val=interface_50:42,0
+val=interface_50:8,1
+val=interface_50:46,2
+val=interface_50:47,3
+val=interface_50:51,4
+val=interface_50:55,5
 
