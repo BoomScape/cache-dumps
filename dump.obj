@@ -10038,6 +10038,7 @@ count1=adamant_arrow_2_928,2
 count2=adamant_arrow_3_927,3
 count3=adamant_arrow_4_926,4
 count4=adamant_arrow_5_929,5
+param=param_852,285
 
 [adamant_arrow_p_891]
 name=Adamant arrow(p)
@@ -10084,6 +10085,7 @@ count1=rune_arrow_2_936,2
 count2=rune_arrow_3_935,3
 count3=rune_arrow_4_934,4
 count4=rune_arrow_5_937,5
+param=param_852,285
 
 [rune_arrow_p_893]
 name=Rune arrow(p)
@@ -34404,6 +34406,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_852,30
 
 [cert_climbing_boots_3106]
 certificate=yes
@@ -46408,6 +46411,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_852,2
 
 [cert_mystic_hat_4090]
 certificate=yes
@@ -46468,6 +46472,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_852,3
 
 [cert_mystic_gloves_4096]
 certificate=yes
@@ -46487,6 +46492,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_852,3
 
 [cert_mystic_boots_4098]
 certificate=yes
@@ -54257,6 +54263,7 @@ count1=bolt_rack_2_4741,2
 count2=bolt_rack_3_4742,3
 count3=bolt_rack_4_4743,4
 count4=bolt_rack_5_4744,5
+param=param_852,300
 
 [bolt_rack_2_4741]
 model=bolt_rack_2_6600
@@ -153465,6 +153472,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [carrallangar_teleport_12776]
 name=Carrallangar teleport
@@ -153477,6 +153485,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [dareeyak_teleport_12777]
 name=Dareeyak teleport
@@ -153489,6 +153498,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [ghorrock_teleport_12778]
 name=Ghorrock teleport
@@ -153501,6 +153511,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [kharyrll_teleport_12779]
 name=Kharyrll teleport
@@ -153513,6 +153524,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [lassar_teleport_12780]
 name=Lassar teleport
@@ -153525,6 +153537,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [paddewwa_teleport_12781]
 name=Paddewwa teleport
@@ -153537,6 +153550,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [senntisten_teleport_12782]
 name=Senntisten teleport
@@ -153549,6 +153563,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_852,4
 
 [ring_of_wealth_scroll_12783]
 name=Ring of wealth scroll
@@ -201489,6 +201504,7 @@ count1=amethyst_arrow_2_4771,2
 count2=amethyst_arrow_3_4772,3
 count3=amethyst_arrow_4_4769,4
 count4=amethyst_arrow_5_4770,5
+param=param_852,50
 
 [placeholder_amethyst_arrow_21327]
 placeholder=yes
@@ -230636,4 +230652,431 @@ cost=50009
 members=yes
 ambient=15
 contrast=5
+
+[dagonhai_hat_24288]
+name=Dagon'hai hat
+model=dagonhai_hat_38918
+manwear=dagonhai_hat_38911,0
+womanwear=dagonhai_hat_38914,0
+manhead=dagonhai_hat_23911
+femalehead=dagonhai_hat_23911
+cost=17000
+2dzoom=1150
+2dxof=2
+2dxan=28
+2dyan=56
+iop2=Wear
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dagonhai_hat_24289]
+certificate=yes
+
+[placeholder_dagonhai_hat_24290]
+placeholder=yes
+
+[dagonhai_robe_top_24291]
+name=Dagon'hai robe top
+model=dagonhai_robe_top_38917
+manwear=dagonhai_robe_top_38912,0
+womanwear=dagonhai_robe_top_38915,0
+cost=140000
+2dzoom=1508
+2dxan=500
+iop2=Wear
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dagonhai_robe_top_24292]
+certificate=yes
+
+[placeholder_dagonhai_robe_top_24293]
+placeholder=yes
+
+[dagonhai_robe_bottom_24294]
+name=Dagon'hai robe bottom
+model=dagonhai_robe_bottom_38916
+manwear=dagonhai_robe_bottom_38910,0
+womanwear=dagonhai_robe_bottom_38913,0
+cost=90000
+2dzoom=2016
+2dyof=2
+2dxan=496
+2dyan=6
+iop2=Wear
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dagonhai_robe_bottom_24295]
+certificate=yes
+
+[placeholder_dagonhai_robe_bottom_24296]
+placeholder=yes
+
+[white_bed_sheets_24297]
+name=White bed sheets
+model=childs_blanket_2725
+2dzoom=1300
+2dxof=-5
+2dyof=-100
+2dxan=268
+2dyan=512
+iop5=Destroy
+recol1s=127
+recol1d=-10814
+
+[smoke_powder_24298]
+name=Smoke powder
+model=crushed_gem_26831
+2dzoom=463
+2dxan=94
+2dyan=1158
+iop1=Ignite
+iop5=Destroy
+recol1s=5334
+recol1d=86
+recol2s=2613
+recol2d=127
+recol3s=5421
+recol3d=86
+recol4s=12459
+recol4d=49
+recol5s=1455
+recol5d=86
+recol6s=2733
+recol6d=49
+
+[shiny_glass_24299]
+name=Shiny glass
+model=cocktail_glass_17116
+2dzoom=700
+2dyof=-7
+2dxan=166
+2dyan=2047
+op3=Steal
+iop5=Destroy
+
+[spooky_hood_24300]
+name=Spooky hood
+model=spooky_hood_38922
+manwear=spooky_hood_38928,0
+womanwear=spooky_hood_38931,0
+manhead=spooky_hood_5204
+femalehead=spooky_hood_5204
+2dzoom=600
+2dxan=396
+2dyan=2045
+iop2=Wear
+iop5=Destroy
+recol1s=-32682
+recol1d=6331
+
+[spooky_robe_24301]
+name=Spooky robe
+model=priest_gown_2786
+manwear=spooky_robe_38926,0
+womanwear=spooky_robe_38929,0
+2dzoom=1370
+2dyof=7
+2dxan=536
+iop2=Wear
+iop5=Destroy
+recol1s=8741
+recol1d=6331
+
+[spooky_skirt_24302]
+name=Spooky skirt
+model=priest_gown_2521
+manwear=spooky_skirt_38927,0
+womanwear=spooky_skirt_38930,0
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop2=Wear
+iop5=Destroy
+recol1s=25238
+recol1d=6331
+
+[spooky_gloves_24303]
+name=Spooky gloves
+model=granite_gloves_34247
+manwear=male_hands_176,0
+womanwear=female_hands_353,0
+2dzoom=789
+2dyof=-1
+2dxan=400
+2dyan=111
+iop2=Wear
+iop5=Destroy
+recol1s=4550
+recol1d=6331
+recol2s=-22464
+recol2d=6331
+recol3s=10275
+recol3d=6331
+recol4s=10283
+recol4d=6331
+
+[spooky_boots_24304]
+name=Spooky boots
+model=boots_of_lightness_2837
+manwear=boots_of_lightness_185,0
+womanwear=boots_of_lightness_361,0
+cost=0
+2dzoom=770
+2dxof=1
+2dyof=-6
+2dxan=152
+2dyan=160
+iop2=Wear
+iop5=Destroy
+recol1s=4626
+recol1d=6331
+recol2s=61
+recol2d=6331
+
+[spooky_hood_24305]
+name=Spooky hood
+model=spooky_hood_38922
+manwear=spooky_hood_38928,0
+womanwear=spooky_hood_38931,0
+manhead=spooky_hood_5204
+femalehead=spooky_hood_5204
+2dzoom=600
+2dxan=396
+2dyan=2045
+iop2=Wear
+iop5=Destroy
+recol1s=-32682
+recol1d=6331
+placeholder=yes
+
+[placeholder_spooky_hood_24306]
+placeholder=yes
+
+[spooky_robe_24307]
+name=Spooky robe
+model=priest_gown_2786
+manwear=spooky_robe_38926,0
+womanwear=spooky_robe_38929,0
+2dzoom=1370
+2dyof=7
+2dxan=536
+iop2=Wear
+iop5=Destroy
+recol1s=8741
+recol1d=6331
+placeholder=yes
+
+[placeholder_spooky_robe_24308]
+placeholder=yes
+
+[spooky_skirt_24309]
+name=Spooky skirt
+model=priest_gown_2521
+manwear=spooky_skirt_38927,0
+womanwear=spooky_skirt_38930,0
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop2=Wear
+iop5=Destroy
+recol1s=25238
+recol1d=6331
+placeholder=yes
+
+[placeholder_spooky_skirt_24310]
+placeholder=yes
+
+[spooky_gloves_24311]
+name=Spooky gloves
+model=granite_gloves_34247
+manwear=male_hands_176,0
+womanwear=female_hands_353,0
+2dzoom=789
+2dyof=-1
+2dxan=400
+2dyan=111
+iop2=Wear
+iop5=Destroy
+recol1s=4550
+recol1d=6331
+recol2s=-22464
+recol2d=6331
+recol3s=10275
+recol3d=6331
+recol4s=10283
+recol4d=6331
+placeholder=yes
+
+[placeholder_spooky_gloves_24312]
+placeholder=yes
+
+[spooky_boots_24313]
+name=Spooky boots
+model=boots_of_lightness_2837
+manwear=boots_of_lightness_185,0
+womanwear=boots_of_lightness_361,0
+cost=0
+2dzoom=770
+2dxof=1
+2dyof=-6
+2dxan=152
+2dyan=160
+iop2=Wear
+iop5=Destroy
+recol1s=4626
+recol1d=6331
+recol2s=61
+recol2d=6331
+placeholder=yes
+
+[placeholder_spooky_boots_24314]
+placeholder=yes
+
+[spookier_hood_24315]
+name=Spookier hood
+model=spooky_hood_38922
+manwear=spooky_hood_38928,0
+womanwear=spooky_hood_38931,0
+manhead=spooky_hood_5204
+femalehead=spooky_hood_5204
+2dzoom=600
+2dxan=396
+2dyan=2045
+iop2=Wear
+iop5=Destroy
+recol1s=-32682
+recol1d=27088
+recol2s=6331
+recol2d=27088
+placeholder=yes
+
+[placeholder_spookier_hood_24316]
+placeholder=yes
+
+[spookier_robe_24317]
+name=Spookier robe
+model=priest_gown_2786
+manwear=spooky_robe_38926,0
+womanwear=spooky_robe_38929,0
+2dzoom=1370
+2dyof=7
+2dxan=536
+iop2=Wear
+iop5=Destroy
+recol1s=8741
+recol1d=27088
+recol2s=6331
+recol2d=27088
+recol3s=7349
+recol3d=27088
+placeholder=yes
+
+[placeholder_spookier_robe_24318]
+placeholder=yes
+
+[spookier_skirt_24319]
+name=Spookier skirt
+model=priest_gown_2521
+manwear=spooky_skirt_38927,0
+womanwear=spooky_skirt_38930,0
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop2=Wear
+iop5=Destroy
+recol1s=25238
+recol1d=27088
+recol2s=6331
+recol2d=27088
+recol3s=7349
+recol3d=27088
+placeholder=yes
+
+[placeholder_spookier_skirt_24320]
+placeholder=yes
+
+[spookier_gloves_24321]
+name=Spookier gloves
+model=granite_gloves_34247
+manwear=male_hands_176,0
+womanwear=female_hands_353,0
+2dzoom=789
+2dyof=-1
+2dxan=400
+2dyan=111
+iop2=Wear
+iop5=Destroy
+recol1s=4550
+recol1d=27088
+recol2s=-22464
+recol2d=27088
+recol3s=10275
+recol3d=27088
+recol4s=10283
+recol4d=27088
+placeholder=yes
+
+[placeholder_spookier_gloves_24322]
+placeholder=yes
+
+[spookier_boots_24323]
+name=Spookier boots
+model=boots_of_lightness_2837
+manwear=boots_of_lightness_185,0
+womanwear=boots_of_lightness_361,0
+cost=0
+2dzoom=770
+2dxof=1
+2dyof=-6
+2dxan=152
+2dyan=160
+iop2=Wear
+iop5=Destroy
+recol1s=4626
+recol1d=27088
+recol2s=61
+recol2d=27088
+placeholder=yes
+
+[placeholder_spookier_boots_24324]
+placeholder=yes
+
+[pumpkin_lantern_24325]
+name=Pumpkin lantern
+model=pumpkin_lantern_38921
+manwear=pumpkin_lantern_38924,0
+womanwear=pumpkin_lantern_38924,6
+2dzoom=880
+2dxan=15
+2dyan=2036
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_pumpkin_lantern_24326]
+placeholder=yes
+
+[skeleton_lantern_24327]
+name=Skeleton lantern
+model=skeleton_lantern_38920
+manwear=skeleton_lantern_38925,0
+womanwear=skeleton_lantern_38925,6
+cost=0
+2dzoom=880
+2dxan=15
+2dyan=2036
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_skeleton_lantern_24328]
+placeholder=yes
 

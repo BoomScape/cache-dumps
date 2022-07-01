@@ -546,7 +546,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:60]
@@ -600,7 +600,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:66]
@@ -646,7 +646,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:71]
@@ -940,7 +940,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=4096
 targetverb="Cast"
 
 [interface_218:103]
@@ -959,7 +959,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:105]
@@ -1042,7 +1042,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:114]
@@ -1233,7 +1233,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:135]
@@ -1242,7 +1242,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:136]
@@ -1251,7 +1251,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 opbase="bb"
 targetverb="Cast"
 

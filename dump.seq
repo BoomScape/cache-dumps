@@ -37081,12 +37081,12 @@ replayoff=1
 looptype=1
 framegroup1=1572
 
-[goblin_walk_6180]
+[snailneck_walk_6180]
 framecount=16
 looptype=1
 framegroup1=1576
 
-[goblin_ready_6181]
+[snailneck_ready_6181]
 framecount=16
 looptype=1
 framegroup1=1576
@@ -52093,6 +52093,11 @@ offhand=0
 looptype=1
 framegroup1=239
 
+[seq_8492]
+framecount=5
+looptype=1
+framegroup1=2395
+
 [seq_8493]
 framecount=1
 priority=10
@@ -52276,4 +52281,16 @@ framegroup1=2385
 framecount=32
 looptype=1
 framegroup1=2391
+
+[seq_8521]
+framecount=5
+looptype=1
+framegroup1=2395
+
+[seq_8522]
+framecount=15
+mainhand=1462
+offhand=2245
+looptype=1
+framegroup1=294
 
