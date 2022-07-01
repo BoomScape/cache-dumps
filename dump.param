@@ -1642,3 +1642,9 @@ default=3
 [param_1155]
 autodisable=no
 
+[setting_enhanced_1157]
+type=boolean
+
+[param_1158]
+type=boolean
+

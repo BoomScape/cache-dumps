@@ -17344,3 +17344,57 @@ param=param_1042,Defeat the Theatre of Blood
 param=param_1044,31st Oct 2020
 param=param_1147,enum_3582
 
+[struct_2851]
+param=setting_search_keywords_1088,"function button mode, select function mode"
+param=setting_id_1077,78
+param=setting_type_1078,2
+param=setting_name_1086,Select function-mode
+param=setting_dropdown_list_1091,enum_3661
+param=setting_mobile_740,yes
+param=setting_choose_transmit_1085,yes
+param=setting_desc_1096,Choose what the your tap will be when the function button is active.
+
+[struct_2852]
+param=setting_id_1077,79
+param=setting_type_1078,1
+param=setting_name_1086,Interface scaling
+param=setting_search_keywords_1088,adjust interface scale
+param=setting_enhanced_1157,yes
+param=setting_slider_notches_1101,31
+param=param_1102,4
+param=setting_desc_1096,Scale your interface components between 100% and 400%.
+param=param_1103,enum_3660
+param=param_1158,yes
+param=setting_choose_transmit_1085,yes
+param=param_1082,enum_3502
+param=param_1083,enum_3503
+param=setting_check_fail_mes_1116,You can only change this setting while playing in resizable mode.
+
+[struct_2853]
+param=setting_id_1077,80
+param=setting_type_1078,6
+param=setting_name_1086,Reset interface scaling
+param=setting_search_keywords_1088,Reset interface scaling
+param=param_1100,44
+param=setting_enhanced_1157,yes
+param=param_1093,1
+param=param_1082,enum_3502
+param=param_1083,enum_3503
+param=setting_check_fail_mes_1116,You can only change this setting while playing in resizable mode.
+
+[struct_2854]
+param=setting_search_keywords_1088,"LMS,LMS fog,last man standing,last man standing fog,Advanced Display Settings"
+param=setting_id_1077,81
+param=setting_type_1078,2
+param=setting_name_1086,Last Man Standing fog colour
+param=setting_dropdown_list_1091,enum_3662
+param=setting_choose_transmit_1085,yes
+param=setting_desc_1096,Displays the chosen colour of the fog inside of Last Man Standing.
+
+[struct_2855]
+param=setting_id_1077,82
+param=setting_type_1078,0
+param=setting_name_1086,Enable precise timing
+param=setting_search_keywords_1088,"millisecond timing, exact timers, boss timers"
+param=setting_desc_1096,"When enabled, shows your timers to the nearest tenth of a second."
+

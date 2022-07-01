@@ -239684,7 +239684,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Open
 iop5=Destroy
 recol1s=7991
 recol1d=5656
@@ -239694,6 +239694,7 @@ members=yes
 placeholder=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Open
 param=param_1152,3
 
 [placeholder_bronze_coffin_25460]
@@ -239709,7 +239710,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Open
 iop5=Destroy
 recol1s=7991
 recol1d=61
@@ -239719,6 +239720,7 @@ members=yes
 placeholder=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Open
 param=param_1152,8
 
 [placeholder_steel_coffin_25462]
@@ -239734,7 +239736,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Open
 iop5=Destroy
 recol1s=7991
 recol1d=8
@@ -239744,6 +239746,7 @@ members=yes
 placeholder=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Open
 param=param_1152,14
 
 [placeholder_black_coffin_25464]
@@ -239759,7 +239762,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Open
 iop5=Destroy
 recol1s=7991
 recol1d=-22440
@@ -239769,6 +239772,7 @@ members=yes
 placeholder=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Open
 param=param_1152,20
 
 [placeholder_silver_coffin_25466]
@@ -239784,12 +239788,13 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Open
 iop5=Destroy
 members=yes
 placeholder=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Open
 param=param_1152,28
 
 [placeholder_gold_coffin_25468]
@@ -239805,7 +239810,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Close
 iop5=Destroy
 recol1s=7991
 recol1d=5656
@@ -239814,6 +239819,7 @@ recol2d=5652
 members=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Close
 param=param_1152,3
 
 [open_steel_coffin_25470]
@@ -239826,7 +239832,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Close
 iop5=Destroy
 recol1s=7991
 recol1d=61
@@ -239835,6 +239841,7 @@ recol2d=41
 members=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Close
 param=param_1152,8
 
 [open_black_coffin_25471]
@@ -239847,7 +239854,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Close
 iop5=Destroy
 recol1s=7991
 recol1d=8
@@ -239856,6 +239863,7 @@ recol2d=0
 members=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Close
 param=param_1152,14
 
 [open_silver_coffin_25472]
@@ -239868,7 +239876,7 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Close
 iop5=Destroy
 recol1s=7991
 recol1d=-22440
@@ -239877,6 +239885,7 @@ recol2d=-22460
 members=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Close
 param=param_1152,20
 
 [open_gold_coffin_25473]
@@ -239889,11 +239898,12 @@ womanwear=bronze_coffin_41750,0
 iop1=Fill
 iop2=Wear
 iop3=Configure
-iop4=Remove lock
+iop4=Close
 iop5=Destroy
 members=yes
 param=param_451,Fill
 param=param_452,Configure
+param=param_453,Close
 param=param_1152,28
 
 [tree_wizards_journal_25474]
@@ -240393,4 +240403,60 @@ cost=20
 2dyof=-8
 2dxan=248
 2dyan=132
+
+[dharoks_platebody_25515]
+name=Dharok's platebody
+model=dharoks_platebody_6582
+manwear=dharoks_platebody_6670,0
+manwear2=dharoks_platebody_6639
+womanwear=dharoks_platebody_6698,0
+womanwear2=dharoks_platebody_6681
+cost=500
+2dzoom=1260
+2dxof=1
+2dyof=4
+2dxan=464
+iop2=Wear
+recol1s=10394
+recol1d=10388
+recol2s=10291
+recol2d=10508
+
+[dharoks_greataxe_25516]
+name=Dharok's greataxe
+model=dharoks_greataxe_6579
+manwear=dharoks_greataxe_6702,0
+womanwear=dharoks_greataxe_39606,0
+2dzoom=1710
+2dyof=51
+2dxan=280
+2dyan=2004
+iop2=Wield
+
+[volatile_nightmare_staff_25517]
+name=Volatile nightmare staff
+model=volatile_nightmare_staff_39072
+manwear=volatile_nightmare_staff_39055,0
+womanwear=volatile_nightmare_staff_39066,0
+cost=500
+2dzoom=2064
+2dxof=-5
+2dyof=13
+2dxan=404
+2dyan=1050
+iop2=Wield
+
+[ancestral_hat_25518]
+name=Ancestral hat
+model=ancestral_hat_32794
+manwear=ancestral_hat_32655,0
+womanwear=ancestral_hat_32663,0
+manhead=ancestral_hat_32774
+femalehead=ancestral_hat_34263
+cost=500
+2dzoom=1236
+2dyof=-12
+2dxan=118
+2dyan=10
+iop2=Wear
 

@@ -792,21 +792,24 @@ val=2,struct_1768
 val=3,struct_2733
 val=4,struct_2734
 val=5,struct_2736
-val=6,struct_2735
-val=7,struct_931
-val=8,struct_2730
-val=9,struct_2768
-val=10,struct_997
-val=11,struct_1052
-val=12,struct_1053
-val=13,struct_1147
-val=14,struct_2154
-val=15,struct_2731
-val=16,struct_2232
-val=17,struct_2255
-val=18,struct_1055
-val=19,struct_1122
-val=20,struct_1233
+val=6,struct_2852
+val=7,struct_2853
+val=8,struct_2735
+val=9,struct_931
+val=10,struct_2730
+val=11,struct_2768
+val=12,struct_997
+val=13,struct_1052
+val=14,struct_1053
+val=15,struct_1147
+val=16,struct_2154
+val=17,struct_2731
+val=18,struct_2232
+val=19,struct_2255
+val=20,struct_1055
+val=21,struct_1122
+val=22,struct_1233
+val=23,struct_2854
 
 [enum_425]
 inputtype=int
@@ -6331,7 +6334,7 @@ val=18,-1
 val=9,-1
 val=21,323
 val=17,376
-val=16,350
+val=16,320
 
 [enum_852]
 inputtype=int
@@ -7180,6 +7183,7 @@ val=vestas_longsword_23615,250
 val=heavy_ballista_23630,650
 val=volatile_nightmare_staff_24424,550
 val=eldritch_nightmare_staff_24425,550
+val=volatile_nightmare_staff_25517,550
 
 [enum_907]
 inputtype=int
@@ -12698,6 +12702,31 @@ val=inconspicuous_bush_beginner_multi_34736,0_0_0_6_0
 val=inconspicuous_bush_beginner_multi_34737,0_0_0_6_1
 val=inconspicuous_bush_beginner_multi_34738,0_0_0_6_2
 
+[enum_1373]
+inputtype=int
+outputtype=string
+default=
+val=0,ANewHero
+val=1,CanoeBelieveIt
+val=2,RagsToRiches
+val=3,Swashbuckler
+val=4,HomeSweetHome
+val=5,OutForTheCount
+val=6,Demonstration
+val=7,Fashionscape
+val=8,TollDodger
+val=9,GetTheBoot
+val=10,GettingSomewhereStat
+val=11,TisButAScratch
+val=12,KillOrBeKilled
+val=13,DemocracyInAction
+val=14,UnlimitedPowerStat
+val=15,FishermansFriend
+val=16,BreathOfFreshAir
+val=17,ReadySteadyCook
+val=18,ShopaholicStat
+val=19,MightySlayer
+
 [enum_1374]
 inputtype=coordgrid
 outputtype=obj
@@ -15220,6 +15249,7 @@ val=11,struct_2765
 val=12,struct_2766
 val=13,struct_2783
 val=14,struct_2784
+val=15,struct_2855
 
 [enum_1562]
 inputtype=int
@@ -15233,8 +15263,9 @@ val=4,struct_2770
 val=5,struct_2772
 val=6,struct_2771
 val=7,struct_2773
-val=8,struct_2777
-val=9,struct_2774
+val=8,struct_2851
+val=9,struct_2777
+val=10,struct_2774
 
 [enum_1563]
 inputtype=int
@@ -16481,6 +16512,7 @@ val=vestas_longsword_23615,Feint: Deal an attack which treats your target's defe
 val=heavy_ballista_23630,"Concentrated Shot: Deal an attack with 25% increased accuracy and damage, but takes an additional 2.4 seconds to fire."
 val=volatile_nightmare_staff_24424,Immolate: Fire a powerful spell with 50% improved accuracy. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Costs no runes to use.
 val=eldritch_nightmare_staff_24425,"Invocate: Fire a powerful spell that restores your prayer points by 50% of the damage dealt. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Your prayer points can go above your level, to a maximum of 120. Costs no runes to use."
+val=volatile_nightmare_staff_25517,Immolate: Fire a powerful spell with 50% improved accuracy. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Costs no runes to use.
 
 [enum_1740]
 inputtype=int
@@ -26439,7 +26471,7 @@ val=23,<col=ffffff>Carpenter's outfit:<br><br>XP from training Construction will
 val=24,<col=ffffff>Crystal armour:<br><br>The full set gives a 30% accuracy bonus and 15% damage bonus when ranging with a crystal weapon. Incomplete sets give smaller bonuses.<br><br>
 val=25,"<col=ffffff>Swampbark armour:<br><br>The full set increases the duration of Bind, Snare and Entangle spells by 3 seconds<br><br>"
 val=26,<col=ffffff>Bloodbark armour:<br><br>The full set increases the amount healed by Blood spells by 32.5%.<br><br>
-val=27,"<col=ffffff>Zealot's prayer robes:<br><br>The full set grants a 5% chance of saving bones when burying or offering them, this stacks with the bonus at the Wilderness altar's own bone saving effect.<br><br>"
+val=27,<col=ffffff>Zealot's prayer robes:<br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them and saving bones when burying or offering them. This stacks with the Wilderness altar's bone saving effect.<br><br>
 
 [enum_3048]
 inputtype=int
@@ -34448,4 +34480,33 @@ val=28,volcanic_whip_mix_12771
 val=29,frozen_whip_mix_12769
 val=30,guthixian_icon_24217
 val=31,swift_blade_24219
+
+[enum_3660]
+inputtype=int
+outputtype=string
+default=100%
+val=0,100%
+val=1,200%
+val=2,300%
+val=3,400%
+
+[enum_3661]
+inputtype=int
+outputtype=string
+default=Tap-to-drop
+val=0,Disable
+val=1,Tap-to-drop
+val=2,Single-tap
+val=3,Keyboard
+
+[enum_3662]
+inputtype=int
+outputtype=string
+default=Default
+val=0,Default
+val=1,Green
+val=2,Yellow
+val=3,Red
+val=4,Blue
+val=5,White
 
