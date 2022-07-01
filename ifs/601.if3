@@ -343,8 +343,9 @@ height=39
 hposmode=^setpos_abs_centre
 layer=interface_601:36
 graphic="mobile_stones,1"
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 
 [interface_601:40]
 type=^iftype_graphic

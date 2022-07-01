@@ -508,8 +508,9 @@ width=33
 height=36
 layer=interface_164:49
 graphic="graphic_1181"
-optionmask=2
+optionmask=6
 op1="*"
+op2="*"
 
 [interface_164:57]
 type=^iftype_graphic
