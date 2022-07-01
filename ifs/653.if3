@@ -1,0 +1,13 @@
+[interface_653:0]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+
+[interface_653:1]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_653:0
+noclickthrough=yes
+

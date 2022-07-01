@@ -4,7 +4,7 @@ width=190
 height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script2262(event_com,14286849,14286851,14287027,14286850,14287029,14287032,14287033,14287034,14287035,14287036)"
+onload="script2262(event_com,14286849,14286851,14287028,14286850,14287030,14287033,14287034,14287035,14287036,14287037)"
 
 [interface_218:1]
 type=^iftype_layer
@@ -37,9 +37,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=1026
+optionmask=2
 op1="Cast"
-op10="*"
 
 [interface_218:5]
 type=^iftype_graphic
@@ -47,8 +46,9 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=1026
+op1="Cast"
+op10="*"
 
 [interface_218:6]
 type=^iftype_graphic
@@ -65,8 +65,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=20480
+targetverb="Cast"
 
 [interface_218:8]
 type=^iftype_graphic
@@ -74,8 +74,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:9]
 type=^iftype_graphic
@@ -83,7 +83,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:10]
@@ -92,7 +92,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=32768
 targetverb="Cast"
 
 [interface_218:11]
@@ -119,8 +119,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=20480
+targetverb="Cast"
 
 [interface_218:14]
 type=^iftype_graphic
@@ -128,8 +128,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:15]
 type=^iftype_graphic
@@ -155,8 +155,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=33792
-op10="Warnings"
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:18]
@@ -165,10 +164,20 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=33792
+op10="Warnings"
 targetverb="Cast"
 
 [interface_218:19]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=20480
+targetverb="Cast"
+
+[interface_218:20]
 type=^iftype_graphic
 width=24
 height=24
@@ -180,7 +189,7 @@ op2="Grand Exchange"
 op3="*"
 op10="Configure"
 
-[interface_218:20]
+[interface_218:21]
 type=^iftype_graphic
 width=24
 height=24
@@ -189,7 +198,7 @@ layer=interface_218:3
 optionmask=32768
 targetverb="Cast"
 
-[interface_218:21]
+[interface_218:22]
 type=^iftype_graphic
 width=24
 height=24
@@ -198,7 +207,7 @@ layer=interface_218:3
 optionmask=20480
 targetverb="Cast"
 
-[interface_218:22]
+[interface_218:23]
 type=^iftype_graphic
 width=24
 height=24
@@ -207,7 +216,7 @@ layer=interface_218:3
 optionmask=2
 op1="Cast"
 
-[interface_218:23]
+[interface_218:24]
 type=^iftype_graphic
 width=24
 height=24
@@ -216,7 +225,7 @@ layer=interface_218:3
 optionmask=6144
 targetverb="Cast"
 
-[interface_218:24]
+[interface_218:25]
 type=^iftype_graphic
 width=24
 height=24
@@ -225,7 +234,7 @@ layer=interface_218:3
 optionmask=20480
 targetverb="Cast"
 
-[interface_218:25]
+[interface_218:26]
 type=^iftype_graphic
 width=24
 height=24
@@ -234,7 +243,7 @@ layer=interface_218:3
 optionmask=2
 op1="Cast"
 
-[interface_218:26]
+[interface_218:27]
 type=^iftype_graphic
 width=24
 height=24
@@ -243,7 +252,7 @@ layer=interface_218:3
 optionmask=4096
 targetverb="Cast"
 
-[interface_218:27]
+[interface_218:28]
 type=^iftype_graphic
 width=24
 height=24
@@ -254,7 +263,7 @@ op1="*"
 op2="Outside"
 op3="*"
 
-[interface_218:28]
+[interface_218:29]
 type=^iftype_graphic
 width=24
 height=24
@@ -263,7 +272,7 @@ layer=interface_218:3
 optionmask=20480
 targetverb="Cast"
 
-[interface_218:29]
+[interface_218:30]
 type=^iftype_graphic
 width=24
 height=24
@@ -272,7 +281,7 @@ layer=interface_218:3
 optionmask=32768
 targetverb="Cast"
 
-[interface_218:30]
+[interface_218:31]
 type=^iftype_graphic
 width=24
 height=24
@@ -284,22 +293,13 @@ op2="Seers'"
 op3="*"
 op10="Configure"
 
-[interface_218:31]
-type=^iftype_graphic
-width=24
-height=24
-hide=yes
-layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
-
 [interface_218:32]
 type=^iftype_graphic
 width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:33]
@@ -308,7 +308,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=32768
 targetverb="Cast"
 
 [interface_218:34]
@@ -335,10 +335,19 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
+optionmask=20480
+targetverb="Cast"
+
+[interface_218:37]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
 optionmask=2
 op1="Cast"
 
-[interface_218:37]
+[interface_218:38]
 type=^iftype_graphic
 width=24
 height=24
@@ -347,7 +356,7 @@ layer=interface_218:3
 optionmask=20480
 targetverb="Cast"
 
-[interface_218:38]
+[interface_218:39]
 type=^iftype_graphic
 width=24
 height=24
@@ -357,7 +366,7 @@ optionmask=33792
 op10="Warnings"
 targetverb="Cast"
 
-[interface_218:39]
+[interface_218:40]
 type=^iftype_graphic
 width=24
 height=24
@@ -366,7 +375,7 @@ layer=interface_218:3
 optionmask=8192
 targetverb="Cast"
 
-[interface_218:40]
+[interface_218:41]
 type=^iftype_graphic
 width=24
 height=24
@@ -375,7 +384,7 @@ layer=interface_218:3
 optionmask=32768
 targetverb="Cast"
 
-[interface_218:41]
+[interface_218:42]
 type=^iftype_graphic
 width=24
 height=24
@@ -387,22 +396,13 @@ op2="Yanille"
 op3="*"
 op10="Configure"
 
-[interface_218:42]
-type=^iftype_graphic
-width=24
-height=24
-hide=yes
-layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
-
 [interface_218:43]
 type=^iftype_graphic
 width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=8192
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:44]
@@ -411,8 +411,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=8192
+targetverb="Cast"
 
 [interface_218:45]
 type=^iftype_graphic
@@ -420,8 +420,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:46]
 type=^iftype_graphic
@@ -447,8 +447,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=20480
+targetverb="Cast"
 
 [interface_218:49]
 type=^iftype_graphic
@@ -456,8 +456,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:50]
 type=^iftype_graphic
@@ -465,7 +465,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=8192
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:51]
@@ -474,8 +474,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=8192
+targetverb="Cast"
 
 [interface_218:52]
 type=^iftype_graphic
@@ -483,8 +483,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:53]
 type=^iftype_graphic
@@ -492,7 +492,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=8192
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:54]
@@ -501,7 +501,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=8192
 targetverb="Cast"
 
 [interface_218:55]
@@ -510,7 +510,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:56]
@@ -519,8 +519,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=32768
+targetverb="Cast"
 
 [interface_218:57]
 type=^iftype_graphic
@@ -528,8 +528,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:58]
 type=^iftype_graphic
@@ -546,7 +546,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=16384
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:60]
@@ -555,7 +555,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:61]
@@ -582,8 +582,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=20480
+targetverb="Cast"
 
 [interface_218:64]
 type=^iftype_graphic
@@ -591,8 +591,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:65]
 type=^iftype_graphic
@@ -600,7 +600,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=16384
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:66]
@@ -609,7 +609,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:67]
@@ -618,10 +618,19 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=16384
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:68]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=16384
+targetverb="Cast"
+
+[interface_218:69]
 type=^iftype_graphic
 width=24
 height=24
@@ -631,22 +640,13 @@ optionmask=1026
 op1="Cast"
 op10="*"
 
-[interface_218:69]
-type=^iftype_graphic
-width=24
-height=24
-hide=yes
-layer=interface_218:3
-optionmask=32768
-targetverb="Cast"
-
 [interface_218:70]
 type=^iftype_graphic
 width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=16384
+optionmask=32768
 targetverb="Cast"
 
 [interface_218:71]
@@ -655,7 +655,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=16384
 targetverb="Cast"
 
 [interface_218:72]
@@ -664,7 +664,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
+optionmask=20480
 targetverb="Cast"
 
 [interface_218:73]
@@ -673,7 +673,7 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=20480
+optionmask=32768
 targetverb="Cast"
 
 [interface_218:74]
@@ -826,8 +826,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=20480
+targetverb="Cast"
 
 [interface_218:91]
 type=^iftype_graphic
@@ -862,9 +862,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=1026
+optionmask=2
 op1="Cast"
-op10="*"
 
 [interface_218:95]
 type=^iftype_graphic
@@ -922,10 +921,20 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
+optionmask=1026
+op1="Cast"
+op10="*"
+
+[interface_218:101]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
 optionmask=2
 op1="Cast"
 
-[interface_218:101]
+[interface_218:102]
 type=^iftype_graphic
 width=24
 height=24
@@ -934,7 +943,7 @@ layer=interface_218:3
 optionmask=8192
 targetverb="Cast"
 
-[interface_218:102]
+[interface_218:103]
 type=^iftype_graphic
 width=24
 height=24
@@ -943,7 +952,7 @@ layer=interface_218:3
 optionmask=4096
 targetverb="Cast"
 
-[interface_218:103]
+[interface_218:104]
 type=^iftype_graphic
 width=24
 height=24
@@ -953,7 +962,7 @@ optionmask=6
 op1="Cast"
 op2="*"
 
-[interface_218:104]
+[interface_218:105]
 type=^iftype_graphic
 width=24
 height=24
@@ -962,7 +971,7 @@ layer=interface_218:3
 optionmask=16384
 targetverb="Cast"
 
-[interface_218:105]
+[interface_218:106]
 type=^iftype_graphic
 width=24
 height=24
@@ -971,15 +980,6 @@ layer=interface_218:3
 optionmask=4098
 op1="Cast"
 targetverb="Target"
-
-[interface_218:106]
-type=^iftype_graphic
-width=24
-height=24
-hide=yes
-layer=interface_218:3
-optionmask=2
-op1="Cast"
 
 [interface_218:107]
 type=^iftype_graphic
@@ -1007,7 +1007,6 @@ hide=yes
 layer=interface_218:3
 optionmask=2
 op1="Cast"
-targetverb="Cast"
 
 [interface_218:110]
 type=^iftype_graphic
@@ -1017,6 +1016,7 @@ hide=yes
 layer=interface_218:3
 optionmask=2
 op1="Cast"
+targetverb="Cast"
 
 [interface_218:111]
 type=^iftype_graphic
@@ -1042,8 +1042,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=16384
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:114]
 type=^iftype_graphic
@@ -1051,8 +1051,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=16384
+targetverb="Cast"
 
 [interface_218:115]
 type=^iftype_graphic
@@ -1078,9 +1078,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=6
+optionmask=2
 op1="Cast"
-op2="Setup"
 
 [interface_218:118]
 type=^iftype_graphic
@@ -1088,8 +1087,9 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
+optionmask=6
 op1="Cast"
+op2="Setup"
 
 [interface_218:119]
 type=^iftype_graphic
@@ -1108,7 +1108,6 @@ hide=yes
 layer=interface_218:3
 optionmask=2
 op1="Cast"
-targetverb="Cast"
 
 [interface_218:121]
 type=^iftype_graphic
@@ -1118,17 +1117,9 @@ hide=yes
 layer=interface_218:3
 optionmask=2
 op1="Cast"
-
-[interface_218:122]
-type=^iftype_graphic
-width=24
-height=24
-hide=yes
-layer=interface_218:3
-optionmask=32768
 targetverb="Cast"
 
-[interface_218:123]
+[interface_218:122]
 type=^iftype_graphic
 width=24
 height=24
@@ -1137,7 +1128,25 @@ layer=interface_218:3
 optionmask=2
 op1="Cast"
 
+[interface_218:123]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=32768
+targetverb="Cast"
+
 [interface_218:124]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=2
+op1="Cast"
+
+[interface_218:125]
 type=^iftype_graphic
 width=24
 height=24
@@ -1146,7 +1155,7 @@ layer=interface_218:3
 optionmask=8192
 targetverb="Cast"
 
-[interface_218:125]
+[interface_218:126]
 type=^iftype_graphic
 width=24
 height=24
@@ -1154,15 +1163,6 @@ hide=yes
 layer=interface_218:3
 optionmask=32768
 targetverb="Cast"
-
-[interface_218:126]
-type=^iftype_graphic
-width=24
-height=24
-hide=yes
-layer=interface_218:3
-optionmask=2
-op1="Cast"
 
 [interface_218:127]
 type=^iftype_graphic
@@ -1179,8 +1179,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=32768
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:129]
 type=^iftype_graphic
@@ -1188,8 +1188,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=32768
+targetverb="Cast"
 
 [interface_218:130]
 type=^iftype_graphic
@@ -1233,8 +1233,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=16384
-targetverb="Cast"
+optionmask=2
+op1="Cast"
 
 [interface_218:135]
 type=^iftype_graphic
@@ -1252,7 +1252,6 @@ height=24
 hide=yes
 layer=interface_218:3
 optionmask=16384
-opbase="bb"
 targetverb="Cast"
 
 [interface_218:137]
@@ -1261,8 +1260,9 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=16384
+opbase="bb"
+targetverb="Cast"
 
 [interface_218:138]
 type=^iftype_graphic
@@ -1279,12 +1279,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=30
+optionmask=2
 op1="Cast"
-op2="Standard"
-op3="Ancient"
-op4="Arceuus"
-targetverb="Cast"
 
 [interface_218:140]
 type=^iftype_graphic
@@ -1292,8 +1288,12 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
+optionmask=30
 op1="Cast"
+op2="Standard"
+op3="Ancient"
+op4="Arceuus"
+targetverb="Cast"
 
 [interface_218:141]
 type=^iftype_graphic
@@ -1319,9 +1319,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=1026
+optionmask=2
 op1="Cast"
-op10="*"
 
 [interface_218:144]
 type=^iftype_graphic
@@ -1329,8 +1328,9 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=1026
+op1="Cast"
+op10="*"
 
 [interface_218:145]
 type=^iftype_graphic
@@ -1338,8 +1338,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:146]
 type=^iftype_graphic
@@ -1347,8 +1347,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:147]
 type=^iftype_graphic
@@ -1374,8 +1374,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:150]
 type=^iftype_graphic
@@ -1383,8 +1383,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:151]
 type=^iftype_graphic
@@ -1419,8 +1419,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:155]
 type=^iftype_graphic
@@ -1428,8 +1428,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:156]
 type=^iftype_graphic
@@ -1437,8 +1437,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:157]
 type=^iftype_graphic
@@ -1446,8 +1446,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:158]
 type=^iftype_graphic
@@ -1455,8 +1455,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:159]
 type=^iftype_graphic
@@ -1464,8 +1464,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:160]
 type=^iftype_graphic
@@ -1491,8 +1491,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:163]
 type=^iftype_graphic
@@ -1500,8 +1500,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:164]
 type=^iftype_graphic
@@ -1518,8 +1518,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:166]
 type=^iftype_graphic
@@ -1527,8 +1527,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:167]
 type=^iftype_graphic
@@ -1545,8 +1545,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:169]
 type=^iftype_graphic
@@ -1554,8 +1554,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:170]
 type=^iftype_graphic
@@ -1563,8 +1563,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:171]
 type=^iftype_graphic
@@ -1572,8 +1572,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:172]
 type=^iftype_graphic
@@ -1590,8 +1590,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=8192
-targetverb="Resurrect"
+optionmask=34816
+targetverb="Reanimate"
 
 [interface_218:174]
 type=^iftype_graphic
@@ -1599,8 +1599,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
-op1="Cast"
+optionmask=8192
+targetverb="Resurrect"
 
 [interface_218:175]
 type=^iftype_graphic
@@ -1608,8 +1608,8 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=34816
-targetverb="Reanimate"
+optionmask=2
+op1="Cast"
 
 [interface_218:176]
 type=^iftype_graphic
@@ -1617,10 +1617,19 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
+optionmask=34816
+targetverb="Reanimate"
+
+[interface_218:177]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
 optionmask=2
 op1="Cast"
 
-[interface_218:177]
+[interface_218:178]
 type=^iftype_graphic
 width=24
 height=24
@@ -1629,7 +1638,7 @@ layer=interface_218:3
 optionmask=34816
 targetverb="Reanimate"
 
-[interface_218:178]
+[interface_218:179]
 type=^iftype_graphic
 width=24
 height=24
@@ -1638,7 +1647,7 @@ layer=interface_218:3
 optionmask=2
 op1="Cast"
 
-[interface_218:179]
+[interface_218:180]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -1647,20 +1656,20 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_218:3
 
-[interface_218:180]
+[interface_218:181]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:179
+layer=interface_218:180
 graphic="tradebacking"
 tiling=yes
 trans=225
 onload="script834(event_com,1)"
 onclick="script489(0,0)"
 
-[interface_218:181]
+[interface_218:182]
 type=^iftype_layer
 width=180
 height=154
@@ -1670,22 +1679,22 @@ hide=yes
 layer=interface_218:1
 onload="script991(event_com,26)"
 
-[interface_218:182]
+[interface_218:183]
 type=^iftype_graphic
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:181
+layer=interface_218:182
 graphic="tradebacking_dark"
 tiling=yes
 
-[interface_218:183]
+[interface_218:184]
 type=^iftype_text
 y=2
 height=129
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:181
+layer=interface_218:182
 text="Spell Filters"
 colour=0xff981f
 font=b12_full
@@ -1693,7 +1702,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_218:184]
+[interface_218:185]
 type=^iftype_layer
 y=2
 height=29
@@ -1701,9 +1710,9 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:181
+layer=interface_218:182
 
-[interface_218:185]
+[interface_218:186]
 type=^iftype_layer
 height=17
 hposmode=^setpos_abs_centre
@@ -1711,22 +1720,22 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_218:0
 
-[interface_218:186]
+[interface_218:187]
 type=^iftype_layer
 width=80
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_218:185
+layer=interface_218:186
 
-[interface_218:187]
+[interface_218:188]
 type=^iftype_layer
 width=80
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_218:185
+layer=interface_218:186
 
-[interface_218:188]
+[interface_218:189]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre

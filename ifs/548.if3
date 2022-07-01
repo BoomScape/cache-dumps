@@ -122,14 +122,17 @@ layer=interface_548:12
 
 [interface_548:16]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+x=1
+y=1
+width=435
+height=63
+vposmode=^setpos_abs_bottom
 layer=interface_548:12
 
 [interface_548:17]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_548:12
@@ -147,6 +150,12 @@ vsizemode=^setsize_minus
 layer=interface_548:12
 
 [interface_548:20]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_548:12
+
+[interface_548:21]
 type=^iftype_graphic
 x=15
 y=13
@@ -158,13 +167,13 @@ hide=yes
 layer=interface_548:12
 graphic="overlay_multiway"
 
-[interface_548:21]
+[interface_548:22]
 type=^iftype_layer
 width=512
 height=334
 layer=interface_548:12
 
-[interface_548:22]
+[interface_548:23]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -172,7 +181,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_548:12
 
-[interface_548:23]
+[interface_548:24]
 type=^iftype_layer
 contenttype=1336
 width=120
@@ -180,13 +189,13 @@ height=100
 hposmode=^setpos_abs_right
 layer=interface_548:12
 
-[interface_548:24]
+[interface_548:25]
 type=^iftype_layer
 y=338
 width=519
 height=165
 
-[interface_548:25]
+[interface_548:26]
 type=^iftype_graphic
 x=516
 y=205
@@ -194,7 +203,7 @@ width=31
 height=133
 graphic="side_background_left1"
 
-[interface_548:26]
+[interface_548:27]
 type=^iftype_graphic
 x=519
 y=338
@@ -202,7 +211,7 @@ width=28
 height=128
 graphic="side_background_left2"
 
-[interface_548:27]
+[interface_548:28]
 type=^iftype_graphic
 x=737
 y=205
@@ -210,53 +219,42 @@ width=28
 height=261
 graphic="side_background_right"
 
-[interface_548:28]
+[interface_548:29]
 type=^iftype_layer
 x=519
 y=466
 width=246
 height=37
 
-[interface_548:29]
+[interface_548:30]
 type=^iftype_graphic
 width=246
 height=37
-layer=interface_548:28
+layer=interface_548:29
 graphic="side_background_bottom"
 
-[interface_548:30]
+[interface_548:31]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_548:28
+layer=interface_548:29
 
-[interface_548:31]
+[interface_548:32]
 type=^iftype_graphic
 x=3
 width=38
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_stone_highlights,2"
-optionmask=2
-op1="*"
-
-[interface_548:32]
-type=^iftype_graphic
-x=74
-width=38
-height=36
-layer=interface_548:30
-graphic="side_stone_highlights,4"
-tiling=yes
 optionmask=2
 op1="*"
 
 [interface_548:33]
 type=^iftype_graphic
-x=41
-width=33
+x=74
+width=38
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -264,10 +262,10 @@ op1="*"
 
 [interface_548:34]
 type=^iftype_graphic
-x=107
+x=41
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -275,10 +273,10 @@ op1="*"
 
 [interface_548:35]
 type=^iftype_graphic
-x=140
+x=107
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -286,10 +284,10 @@ op1="*"
 
 [interface_548:36]
 type=^iftype_graphic
-x=173
+x=140
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -297,118 +295,118 @@ op1="*"
 
 [interface_548:37]
 type=^iftype_graphic
-x=206
-width=38
+x=173
+width=33
 height=36
-layer=interface_548:30
-graphic="side_stone_highlights,3"
+layer=interface_548:31
+graphic="side_stone_highlights,4"
+tiling=yes
 optionmask=2
 op1="*"
 
 [interface_548:38]
 type=^iftype_graphic
+x=206
+width=38
+height=36
+layer=interface_548:31
+graphic="side_stone_highlights,3"
+optionmask=2
+op1="*"
+
+[interface_548:39]
+type=^iftype_graphic
 x=7
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_icons,7"
 
-[interface_548:39]
+[interface_548:40]
 type=^iftype_graphic
 x=74
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_icons,22"
 
-[interface_548:40]
+[interface_548:41]
 type=^iftype_graphic
 x=41
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_icons,8"
 
-[interface_548:41]
+[interface_548:42]
 type=^iftype_graphic
 x=107
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_icons,10"
 
-[interface_548:42]
+[interface_548:43]
 type=^iftype_graphic
 x=140
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_icons,11"
 
-[interface_548:43]
+[interface_548:44]
 type=^iftype_graphic
 x=173
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_icons,12"
 
-[interface_548:44]
+[interface_548:45]
 type=^iftype_graphic
 x=207
 width=33
 height=36
-layer=interface_548:30
+layer=interface_548:31
 graphic="side_icons,13"
 
-[interface_548:45]
+[interface_548:46]
 type=^iftype_layer
 x=516
 y=167
 width=249
 height=38
 
-[interface_548:46]
+[interface_548:47]
 type=^iftype_graphic
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_548:45
+layer=interface_548:46
 graphic="side_background_top"
 
-[interface_548:47]
+[interface_548:48]
 type=^iftype_layer
 y=1
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_548:45
+layer=interface_548:46
 
-[interface_548:48]
+[interface_548:49]
 type=^iftype_graphic
 x=6
 width=38
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_stone_highlights,0"
-optionmask=2
-op1="*"
-
-[interface_548:49]
-type=^iftype_graphic
-x=44
-width=33
-height=36
-layer=interface_548:47
-graphic="side_stone_highlights,4"
-tiling=yes
 optionmask=2
 op1="*"
 
 [interface_548:50]
 type=^iftype_graphic
-x=77
-width=38
+x=44
+width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -416,10 +414,10 @@ op1="*"
 
 [interface_548:51]
 type=^iftype_graphic
-x=110
-width=33
+x=77
+width=38
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -427,10 +425,10 @@ op1="*"
 
 [interface_548:52]
 type=^iftype_graphic
-x=143
+x=110
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -438,10 +436,10 @@ op1="*"
 
 [interface_548:53]
 type=^iftype_graphic
-x=176
+x=143
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_stone_highlights,4"
 tiling=yes
 optionmask=2
@@ -449,108 +447,110 @@ op1="*"
 
 [interface_548:54]
 type=^iftype_graphic
+x=176
+width=33
+height=36
+layer=interface_548:48
+graphic="side_stone_highlights,4"
+tiling=yes
+optionmask=2
+op1="*"
+
+[interface_548:55]
+type=^iftype_graphic
 x=209
 width=38
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_stone_highlights,1"
 optionmask=6
 op1="*"
 op2="*"
 
-[interface_548:55]
+[interface_548:56]
 type=^iftype_graphic
 x=10
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_icons,0"
 
-[interface_548:56]
+[interface_548:57]
 type=^iftype_graphic
 x=44
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_icons,1"
 
-[interface_548:57]
+[interface_548:58]
 type=^iftype_graphic
 x=77
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_icons,2"
 
-[interface_548:58]
+[interface_548:59]
 type=^iftype_graphic
 x=110
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_icons,3"
 
-[interface_548:59]
+[interface_548:60]
 type=^iftype_graphic
 x=143
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_icons,4"
 
-[interface_548:60]
+[interface_548:61]
 type=^iftype_graphic
 x=176
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_icons,5"
 
-[interface_548:61]
+[interface_548:62]
 type=^iftype_graphic
 x=210
 width=33
 height=36
-layer=interface_548:47
+layer=interface_548:48
 graphic="side_icons,6"
 
-[interface_548:62]
+[interface_548:63]
 type=^iftype_layer
 x=547
 y=205
 width=190
 height=261
 
-[interface_548:63]
+[interface_548:64]
 type=^iftype_graphic
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_548:62
+layer=interface_548:63
 graphic="side_background"
 
-[interface_548:64]
+[interface_548:65]
 type=^iftype_layer
 contenttype=1354
 width=190
 height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_548:62
-
-[interface_548:65]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_548:62
+layer=interface_548:63
 
 [interface_548:66]
 type=^iftype_layer
-width=190
-height=261
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hide=yes
-layer=interface_548:65
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_548:63
 
 [interface_548:67]
 type=^iftype_layer
@@ -559,7 +559,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:68]
 type=^iftype_layer
@@ -568,7 +568,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:69]
 type=^iftype_layer
@@ -577,7 +577,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:70]
 type=^iftype_layer
@@ -586,7 +586,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:71]
 type=^iftype_layer
@@ -595,7 +595,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:72]
 type=^iftype_layer
@@ -604,7 +604,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:73]
 type=^iftype_layer
@@ -613,7 +613,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:74]
 type=^iftype_layer
@@ -622,7 +622,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:75]
 type=^iftype_layer
@@ -631,7 +631,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:76]
 type=^iftype_layer
@@ -640,7 +640,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:77]
 type=^iftype_layer
@@ -649,7 +649,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:78]
 type=^iftype_layer
@@ -658,7 +658,7 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
 
 [interface_548:79]
 type=^iftype_layer
@@ -667,5 +667,14 @@ height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hide=yes
-layer=interface_548:65
+layer=interface_548:66
+
+[interface_548:80]
+type=^iftype_layer
+width=190
+height=261
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hide=yes
+layer=interface_548:66
 

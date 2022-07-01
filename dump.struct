@@ -3261,3 +3261,3153 @@ param=param_854,Paints the Zamorak godsword's special attack gold.
 param=param_855,zamorak_hilt_11816
 param=param_856,100
 
+[struct_723]
+param=param_858,Twisted League
+param=param_864,0_25_57_43_26
+param=param_871,6469
+param=param_872,6530
+param=param_865,5
+param=param_866,enum_2731
+param=param_867,enum_2733
+param=param_868,enum_2729
+param=param_869,enum_2730
+param=param_870,enum_2734
+param=param_892,enum_2742
+param=param_893,enum_2743
+param=param_894,enum_2744
+param=param_895,enum_2745
+param=param_896,5
+param=param_888,enum_2740
+param=param_889,enum_2741
+param=param_890,enum_2746
+param=param_891,enum_2747
+
+[struct_724]
+param=param_879,Abyssal Accumulator
+param=param_880,- You have an 85% chance to not consume any ammuntion fired (chinchompas excluded).<br>- You have an 85% chance to not consume runes when casting any spell.
+param=param_884,"league_relics_large,2"
+param=param_882,"league_relics_tli,1"
+param=param_881,"league_relics,2"
+param=param_883,"league_relics,3"
+param=param_885,0
+
+[struct_725]
+param=param_879,Endless Endurance
+param=param_880,- Your run energy will never drain whilst running.<br>- Your hitpoints restore 4 times as quickly.
+param=param_884,"league_relics_large,4"
+param=param_882,"league_relics_tli,2"
+param=param_881,"league_relics,4"
+param=param_883,"league_relics,5"
+param=param_885,0
+
+[struct_726]
+param=param_879,Dark Altar Devotion
+param=param_880,"- Bones dropped by creatures are automatically buried and award 4x XP, this stacks with any existing XP multipliers.<br>- Ensouled heads now drop 2 at a time.<br>- Your prayer drains at 1/2 the speed."
+param=param_884,"league_relics_large,6"
+param=param_882,"league_relics_tli,3"
+param=param_881,"league_relics,6"
+param=param_883,"league_relics,7"
+param=param_885,0
+
+[struct_727]
+param=param_879,Hardcore Harvester
+param=param_880,"- You receive 3 times the normal amount of resources from Mining, Fishing, Woodcutting, Harvesting Herbs, Blast Mining and Farming Contracts. These additional resources do not grant bonus XP.<br>- You receive 3 times as many Molch Pearls from Aerial Fishing.<br>- Farming cycles occur every 1 minute instead of every 5 minutes."
+param=param_884,"league_relics_large,8"
+param=param_882,"league_relics_tli,4"
+param=param_881,"league_relics,8"
+param=param_883,"league_relics,9"
+param=param_885,1
+
+[struct_728]
+param=param_879,Arcane Courier
+param=param_880,"- All Wintertodt Crates and resources gathered from Mining, Fishing, Woodcutting, Harvesting Crops and Blast Mining are automatically sent to the bank."
+param=param_884,"league_relics_large,10"
+param=param_882,"league_relics_tli,5"
+param=param_881,"league_relics,10"
+param=param_883,"league_relics,11"
+param=param_885,1
+
+[struct_729]
+param=param_879,Unnatural Selection
+param=param_880,"- When receiving Slayer tasks and Farming contracts, you can now choose what you are assigned."
+param=param_884,"league_relics_large,12"
+param=param_882,"league_relics_tli,6"
+param=param_881,"league_relics,12"
+param=param_883,"league_relics,13"
+param=param_885,1
+
+[struct_730]
+param=param_879,Eye of the Artisan
+param=param_880,"- You receive 2x XP in Smithing, Cooking, Firemaking, Herblore, Fletching, Crafting and Construction.<br>- This stacks with any existing XP multipliers."
+param=param_884,"league_relics_large,14"
+param=param_882,"league_relics_tli,7"
+param=param_881,"league_relics,14"
+param=param_883,"league_relics,15"
+param=param_885,2
+
+[struct_731]
+param=param_879,Gift of the Gatherer
+param=param_880,"- You receive 2x XP in Mining, Fishing, Woodcutting, Hunter, Thieving, Farming and Runecraft.<br>- This stacks with any existing XP multipliers."
+param=param_884,"league_relics_large,16"
+param=param_882,"league_relics_tli,8"
+param=param_881,"league_relics,16"
+param=param_883,"league_relics,17"
+param=param_885,2
+
+[struct_732]
+param=param_879,Way of the Warrior
+param=param_880,"- You receive 2x XP in Attack, Strength, Defence, Hitpoints, Magic, Ranged and Prayer.<br>- This stacks with any existing XP multipliers."
+param=param_884,"league_relics_large,18"
+param=param_882,"league_relics_tli,9"
+param=param_881,"league_relics,18"
+param=param_883,"league_relics,19"
+param=param_885,2
+
+[struct_733]
+param=param_879,Spirit of Dinh
+param=param_880,"- You take 0 damage from the cold, braziers breaking and falling snow at the Wintertodt.<br>- The Wintertodt's cold aura will no longer interrupt actions which you are doing.<br>- Wintertodt crates now award 3x more loot."
+param=param_884,"league_relics_large,20"
+param=param_882,"league_relics_tli,10"
+param=param_881,"league_relics,20"
+param=param_883,"league_relics,21"
+param=param_885,3
+
+[struct_734]
+param=param_879,Konar's Blessing
+param=param_880,"- You gain 10% increased Accuracy and Damage with Melee, Magic and Ranged when fighting creatures.<br>- This boost increases to 30% when fighting creatures which are assigned to you as a slayer task."
+param=param_884,"league_relics_large,22"
+param=param_882,"league_relics_tli,11"
+param=param_881,"league_relics,22"
+param=param_883,"league_relics,23"
+param=param_885,3
+
+[struct_735]
+param=param_879,Treasure Seeker
+param=param_880,"- Creatures which drop clues now drop them at a 1/10 rate.<br>- Clue geodes, clue nests and clue bottles are now found 10x more often from all skilling activities from which they can be found.<br>- All un-started clues are stackable.<br>- All clues have the lowest number of steps for their tier."
+param=param_884,"league_relics_large,24"
+param=param_882,"league_relics_tli,12"
+param=param_881,"league_relics,24"
+param=param_883,"league_relics,25"
+param=param_885,3
+
+[struct_736]
+param=param_879,Xeric's Focus
+param=param_880,"- You will now attack slightly more often with all attack styles!<br>- When attacking with melee, ranged or magic, the delay between your attacks is reduced by 0.6 seconds. This delay will never be less than 0.6 seconds.<br>- Special attacks with instant attacks such as the Granite Maul or Dragon Throwing axes are unaffected."
+param=param_884,"league_relics_large,26"
+param=param_882,"league_relics_tli,13"
+param=param_881,"league_relics,26"
+param=param_883,"league_relics,27"
+param=param_885,4
+
+[struct_737]
+param=param_879,Xeric's Resilience
+param=param_880,- You take 50% less damage from all creatures.<br>- Your prayer restores at a rate of 1 point every 3.6 seconds.
+param=param_884,"league_relics_large,28"
+param=param_882,"league_relics_tli,14"
+param=param_881,"league_relics,28"
+param=param_883,"league_relics,29"
+param=param_885,4
+
+[struct_738]
+param=param_879,Xeric's Wisdom
+param=param_880,- You gain 2x XP in every skill.<br>- This stacks with any existing XP multipliers.
+param=param_884,"league_relics_large,30"
+param=param_882,"league_relics_tli,15"
+param=param_881,"league_relics,30"
+param=param_883,"league_relics,31"
+param=param_885,4
+
+[struct_739]
+param=league_task_id_873,0
+param=league_task_name_874,Client of Kourend
+param=league_task_description_875,Complete the quest "Client of Kourend".
+param=league_task_tier_876,1
+
+[struct_740]
+param=league_task_id_873,1
+param=league_task_name_874,Queen of Thieves
+param=league_task_description_875,Complete the quest "Queen of Thieves".
+param=league_task_tier_876,1
+
+[struct_741]
+param=league_task_id_873,2
+param=league_task_name_874,Forsaken Tower
+param=league_task_description_875,Complete the quest "Forsaken Tower".
+param=league_task_tier_876,1
+
+[struct_742]
+param=league_task_id_873,3
+param=league_task_name_874,Ascent of Arceuus
+param=league_task_description_875,Complete the quest "Ascent of Arceuus".
+param=league_task_tier_876,1
+
+[struct_743]
+param=league_task_id_873,4
+param=league_task_name_874,Depths of Despair
+param=league_task_description_875,Complete the quest "Depths of Despair".
+param=league_task_tier_876,2
+
+[struct_744]
+param=league_task_id_873,5
+param=league_task_name_874,Tale Of The Righteous
+param=league_task_description_875,Complete the quest "Tale of the Righteous".
+param=league_task_tier_876,2
+
+[struct_745]
+param=league_task_id_873,6
+param=league_task_name_874,In Search Of Knowledge
+param=league_task_description_875,Complete the mini-quest "In Search Of Knowledge".
+param=league_task_tier_876,2
+
+[struct_746]
+param=league_task_id_873,7
+param=league_task_name_874,Architectural Alliance
+param=league_task_description_875,Complete the mini-quest "Architectural Alliance".
+param=league_task_tier_876,2
+
+[struct_747]
+param=league_task_id_873,8
+param=league_task_name_874,250 Total Level
+param=league_task_description_875,Reach a total level of 250.
+param=league_task_tier_876,1
+
+[struct_748]
+param=league_task_id_873,9
+param=league_task_name_874,500 Total Level
+param=league_task_description_875,Reach a total level of 500.
+param=league_task_tier_876,1
+
+[struct_749]
+param=league_task_id_873,10
+param=league_task_name_874,750 Total Level
+param=league_task_description_875,Reach a total level of 750.
+param=league_task_tier_876,1
+
+[struct_750]
+param=league_task_id_873,11
+param=league_task_name_874,1000 Total Level
+param=league_task_description_875,Reach a total level of 1000.
+param=league_task_tier_876,2
+
+[struct_751]
+param=league_task_id_873,12
+param=league_task_name_874,1250 Total Level
+param=league_task_description_875,Reach a total level of 1250.
+param=league_task_tier_876,2
+
+[struct_752]
+param=league_task_id_873,13
+param=league_task_name_874,1500 Total Level
+param=league_task_description_875,Reach a total level of 1500.
+param=league_task_tier_876,3
+
+[struct_753]
+param=league_task_id_873,14
+param=league_task_name_874,1750 Total Level
+param=league_task_description_875,Reach a total level of 1750.
+param=league_task_tier_876,3
+
+[struct_754]
+param=league_task_id_873,15
+param=league_task_name_874,2000 Total Level
+param=league_task_description_875,Reach a total level of 2000.
+param=league_task_tier_876,4
+
+[struct_755]
+param=league_task_id_873,16
+param=league_task_name_874,2277 Total Level
+param=league_task_description_875,Reach a total level of 2277.
+param=league_task_tier_876,5
+
+[struct_756]
+param=league_task_id_873,17
+param=league_task_name_874,Base Level 10
+param=league_task_description_875,Reach a minimum of level 10 across all of your skills.
+param=league_task_tier_876,1
+
+[struct_757]
+param=league_task_id_873,18
+param=league_task_name_874,Base Level 20
+param=league_task_description_875,Reach a minimum of level 20 across all of your skills.
+param=league_task_tier_876,1
+
+[struct_758]
+param=league_task_id_873,19
+param=league_task_name_874,Base Level 30
+param=league_task_description_875,Reach a minimum of level 30 across all of your skills.
+param=league_task_tier_876,1
+
+[struct_759]
+param=league_task_id_873,20
+param=league_task_name_874,Base Level 40
+param=league_task_description_875,Reach a minimum of level 40 across all of your skills.
+param=league_task_tier_876,2
+
+[struct_760]
+param=league_task_id_873,21
+param=league_task_name_874,Base Level 50
+param=league_task_description_875,Reach a minimum of level 50 across all of your skills.
+param=league_task_tier_876,2
+
+[struct_761]
+param=league_task_id_873,22
+param=league_task_name_874,Base Level 60
+param=league_task_description_875,Reach a minimum of level 60 across all of your skills.
+param=league_task_tier_876,3
+
+[struct_762]
+param=league_task_id_873,23
+param=league_task_name_874,Base Level 70
+param=league_task_description_875,Reach a minimum of level 70 across all of your skills.
+param=league_task_tier_876,3
+
+[struct_763]
+param=league_task_id_873,24
+param=league_task_name_874,Base Level 80
+param=league_task_description_875,Reach a minimum of level 80 across all of your skills.
+param=league_task_tier_876,4
+
+[struct_764]
+param=league_task_id_873,25
+param=league_task_name_874,Base Level 90
+param=league_task_description_875,Reach a minimum of level 90 across all of your skills.
+param=league_task_tier_876,4
+
+[struct_765]
+param=league_task_id_873,26
+param=league_task_name_874,Level 20 Attack
+param=league_task_description_875,Reach level 20 in your Attack skill.
+param=league_task_tier_876,1
+
+[struct_766]
+param=league_task_id_873,27
+param=league_task_name_874,Level 40 Attack
+param=league_task_description_875,Reach level 40 in your Attack skill.
+param=league_task_tier_876,2
+
+[struct_767]
+param=league_task_id_873,28
+param=league_task_name_874,Level 60 Attack
+param=league_task_description_875,Reach level 60 in your Attack skill.
+param=league_task_tier_876,2
+
+[struct_768]
+param=league_task_id_873,29
+param=league_task_name_874,Level 80 Attack
+param=league_task_description_875,Reach level 80 in your Attack skill.
+param=league_task_tier_876,3
+
+[struct_769]
+param=league_task_id_873,30
+param=league_task_name_874,Level 99 Attack
+param=league_task_description_875,Reach level 99 in your Attack skill.
+param=league_task_tier_876,4
+
+[struct_770]
+param=league_task_id_873,31
+param=league_task_name_874,25 Million Attack XP
+param=league_task_description_875,Obtain 25 million experience in your Attack skill.
+param=league_task_tier_876,4
+
+[struct_771]
+param=league_task_id_873,32
+param=league_task_name_874,50 Million Attack XP
+param=league_task_description_875,Obtain 50 million experience in your Attack skill.
+param=league_task_tier_876,5
+
+[struct_772]
+param=league_task_id_873,33
+param=league_task_name_874,100 Million Attack XP
+param=league_task_description_875,Obtain 100 million experience in your Attack skill.
+param=league_task_tier_876,5
+
+[struct_773]
+param=league_task_id_873,34
+param=league_task_name_874,200 Million Attack XP
+param=league_task_description_875,Obtain 200 million experience in your Attack skill.
+param=league_task_tier_876,5
+
+[struct_774]
+param=league_task_id_873,35
+param=league_task_name_874,Level 20 Strength
+param=league_task_description_875,Reach level 20 in your Strength skill.
+param=league_task_tier_876,1
+
+[struct_775]
+param=league_task_id_873,36
+param=league_task_name_874,Level 40 Strength
+param=league_task_description_875,Reach level 40 in your Strength skill.
+param=league_task_tier_876,2
+
+[struct_776]
+param=league_task_id_873,37
+param=league_task_name_874,Level 60 Strength
+param=league_task_description_875,Reach level 60 in your Strength skill.
+param=league_task_tier_876,2
+
+[struct_777]
+param=league_task_id_873,38
+param=league_task_name_874,Level 80 Strength
+param=league_task_description_875,Reach level 80 in your Strength skill.
+param=league_task_tier_876,3
+
+[struct_778]
+param=league_task_id_873,39
+param=league_task_name_874,Level 99 Strength
+param=league_task_description_875,Reach level 99 in your Strength skill.
+param=league_task_tier_876,4
+
+[struct_779]
+param=league_task_id_873,40
+param=league_task_name_874,25 Million Strength XP
+param=league_task_description_875,Obtain 25 million experience in your Strength skill.
+param=league_task_tier_876,4
+
+[struct_780]
+param=league_task_id_873,41
+param=league_task_name_874,50 Million Strength XP
+param=league_task_description_875,Obtain 50 million experience in your Strength skill.
+param=league_task_tier_876,5
+
+[struct_781]
+param=league_task_id_873,42
+param=league_task_name_874,100 Million Strength XP
+param=league_task_description_875,Obtain 100 million experience in your Strength skill.
+param=league_task_tier_876,5
+
+[struct_782]
+param=league_task_id_873,43
+param=league_task_name_874,200 Million Strength XP
+param=league_task_description_875,Obtain 200 million experience in your Strength skill.
+param=league_task_tier_876,5
+
+[struct_783]
+param=league_task_id_873,44
+param=league_task_name_874,Level 20 Defence
+param=league_task_description_875,Reach level 20 in your Defence skill.
+param=league_task_tier_876,1
+
+[struct_784]
+param=league_task_id_873,45
+param=league_task_name_874,Level 40 Defence
+param=league_task_description_875,Reach level 40 in your Defence skill.
+param=league_task_tier_876,2
+
+[struct_785]
+param=league_task_id_873,46
+param=league_task_name_874,Level 60 Defence
+param=league_task_description_875,Reach level 60 in your Defence skill.
+param=league_task_tier_876,2
+
+[struct_786]
+param=league_task_id_873,47
+param=league_task_name_874,Level 80 Defence
+param=league_task_description_875,Reach level 80 in your Defence skill.
+param=league_task_tier_876,3
+
+[struct_787]
+param=league_task_id_873,48
+param=league_task_name_874,Level 99 Defence
+param=league_task_description_875,Reach level 99 in your Defence skill.
+param=league_task_tier_876,4
+
+[struct_788]
+param=league_task_id_873,49
+param=league_task_name_874,25 Million Defence XP
+param=league_task_description_875,Obtain 25 million experience in your Defence skill.
+param=league_task_tier_876,4
+
+[struct_789]
+param=league_task_id_873,50
+param=league_task_name_874,50 Million Defence XP
+param=league_task_description_875,Obtain 50 million experience in your Defence skill.
+param=league_task_tier_876,5
+
+[struct_790]
+param=league_task_id_873,51
+param=league_task_name_874,100 Million Defence XP
+param=league_task_description_875,Obtain 100 million experience in your Defence skill.
+param=league_task_tier_876,5
+
+[struct_791]
+param=league_task_id_873,52
+param=league_task_name_874,200 Million Defence XP
+param=league_task_description_875,Obtain 200 million experience in your Defence skill.
+param=league_task_tier_876,5
+
+[struct_792]
+param=league_task_id_873,53
+param=league_task_name_874,Level 20 Ranged
+param=league_task_description_875,Reach level 20 in your Ranged skill.
+param=league_task_tier_876,1
+
+[struct_793]
+param=league_task_id_873,54
+param=league_task_name_874,Level 40 Ranged
+param=league_task_description_875,Reach level 40 in your Ranged skill.
+param=league_task_tier_876,2
+
+[struct_794]
+param=league_task_id_873,55
+param=league_task_name_874,Level 60 Ranged
+param=league_task_description_875,Reach level 60 in your Ranged skill.
+param=league_task_tier_876,2
+
+[struct_795]
+param=league_task_id_873,56
+param=league_task_name_874,Level 80 Ranged
+param=league_task_description_875,Reach level 80 in your Ranged skill.
+param=league_task_tier_876,3
+
+[struct_796]
+param=league_task_id_873,57
+param=league_task_name_874,Level 99 Ranged
+param=league_task_description_875,Reach level 99 in your Ranged skill.
+param=league_task_tier_876,4
+
+[struct_797]
+param=league_task_id_873,58
+param=league_task_name_874,25 Million Ranged XP
+param=league_task_description_875,Obtain 25 million experience in your Ranged skill.
+param=league_task_tier_876,4
+
+[struct_798]
+param=league_task_id_873,59
+param=league_task_name_874,50 Million Ranged XP
+param=league_task_description_875,Obtain 50 million experience in your Ranged skill.
+param=league_task_tier_876,5
+
+[struct_799]
+param=league_task_id_873,60
+param=league_task_name_874,100 Million Ranged XP
+param=league_task_description_875,Obtain 100 million experience in your Ranged skill.
+param=league_task_tier_876,5
+
+[struct_800]
+param=league_task_id_873,61
+param=league_task_name_874,200 Million Ranged XP
+param=league_task_description_875,Obtain 200 million experience in your Ranged skill.
+param=league_task_tier_876,5
+
+[struct_801]
+param=league_task_id_873,62
+param=league_task_name_874,Level 20 Prayer
+param=league_task_description_875,Reach level 20 in your Prayer skill.
+param=league_task_tier_876,1
+
+[struct_802]
+param=league_task_id_873,63
+param=league_task_name_874,Level 40 Prayer
+param=league_task_description_875,Reach level 40 in your Prayer skill.
+param=league_task_tier_876,2
+
+[struct_803]
+param=league_task_id_873,64
+param=league_task_name_874,Level 60 Prayer
+param=league_task_description_875,Reach level 60 in your Prayer skill.
+param=league_task_tier_876,2
+
+[struct_804]
+param=league_task_id_873,65
+param=league_task_name_874,Level 80 Prayer
+param=league_task_description_875,Reach level 80 in your Prayer skill.
+param=league_task_tier_876,3
+
+[struct_805]
+param=league_task_id_873,66
+param=league_task_name_874,Level 99 Prayer
+param=league_task_description_875,Reach level 99 in your Prayer skill.
+param=league_task_tier_876,4
+
+[struct_806]
+param=league_task_id_873,67
+param=league_task_name_874,25 Million Prayer XP
+param=league_task_description_875,Obtain 25 million experience in your Prayer skill.
+param=league_task_tier_876,4
+
+[struct_807]
+param=league_task_id_873,68
+param=league_task_name_874,50 Million Prayer XP
+param=league_task_description_875,Obtain 50 million experience in your Prayer skill.
+param=league_task_tier_876,5
+
+[struct_808]
+param=league_task_id_873,69
+param=league_task_name_874,100 Million Prayer XP
+param=league_task_description_875,Obtain 100 million experience in your Prayer skill.
+param=league_task_tier_876,5
+
+[struct_809]
+param=league_task_id_873,70
+param=league_task_name_874,200 Million Prayer XP
+param=league_task_description_875,Obtain 200 million experience in your Prayer skill.
+param=league_task_tier_876,5
+
+[struct_810]
+param=league_task_id_873,71
+param=league_task_name_874,Level 20 Magic
+param=league_task_description_875,Reach level 20 in your Magic skill.
+param=league_task_tier_876,1
+
+[struct_811]
+param=league_task_id_873,72
+param=league_task_name_874,Level 40 Magic
+param=league_task_description_875,Reach level 40 in your Magic skill.
+param=league_task_tier_876,2
+
+[struct_812]
+param=league_task_id_873,73
+param=league_task_name_874,Level 60 Magic
+param=league_task_description_875,Reach level 60 in your Magic skill.
+param=league_task_tier_876,2
+
+[struct_813]
+param=league_task_id_873,74
+param=league_task_name_874,Level 80 Magic
+param=league_task_description_875,Reach level 80 in your Magic skill.
+param=league_task_tier_876,3
+
+[struct_814]
+param=league_task_id_873,75
+param=league_task_name_874,Level 99 Magic
+param=league_task_description_875,Reach level 99 in your Magic skill.
+param=league_task_tier_876,4
+
+[struct_815]
+param=league_task_id_873,76
+param=league_task_name_874,25 Million Magic XP
+param=league_task_description_875,Obtain 25 million experience in your Magic skill.
+param=league_task_tier_876,4
+
+[struct_816]
+param=league_task_id_873,77
+param=league_task_name_874,50 Million Magic XP
+param=league_task_description_875,Obtain 50 million experience in your Magic skill.
+param=league_task_tier_876,5
+
+[struct_817]
+param=league_task_id_873,78
+param=league_task_name_874,100 Million Magic XP
+param=league_task_description_875,Obtain 100 million experience in your Magic skill.
+param=league_task_tier_876,5
+
+[struct_818]
+param=league_task_id_873,79
+param=league_task_name_874,200 Million Magic XP
+param=league_task_description_875,Obtain 200 million experience in your Magic skill.
+param=league_task_tier_876,5
+
+[struct_819]
+param=league_task_id_873,80
+param=league_task_name_874,Level 20 Runecraft
+param=league_task_description_875,Reach level 20 in your Runecraft skill.
+param=league_task_tier_876,1
+
+[struct_820]
+param=league_task_id_873,81
+param=league_task_name_874,Level 40 Runecraft
+param=league_task_description_875,Reach level 40 in your Runecraft skill.
+param=league_task_tier_876,2
+
+[struct_821]
+param=league_task_id_873,82
+param=league_task_name_874,Level 60 Runecraft
+param=league_task_description_875,Reach level 60 in your Runecraft skill.
+param=league_task_tier_876,2
+
+[struct_822]
+param=league_task_id_873,83
+param=league_task_name_874,Level 80 Runecraft
+param=league_task_description_875,Reach level 80 in your Runecraft skill.
+param=league_task_tier_876,3
+
+[struct_823]
+param=league_task_id_873,84
+param=league_task_name_874,Level 99 Runecraft
+param=league_task_description_875,Reach level 99 in your Runecraft skill.
+param=league_task_tier_876,4
+
+[struct_824]
+param=league_task_id_873,85
+param=league_task_name_874,25 Million Runecraft XP
+param=league_task_description_875,Obtain 25 million experience in your Runecraft skill.
+param=league_task_tier_876,4
+
+[struct_825]
+param=league_task_id_873,86
+param=league_task_name_874,50 Million Runecraft XP
+param=league_task_description_875,Obtain 50 million experience in your Runecraft skill.
+param=league_task_tier_876,5
+
+[struct_826]
+param=league_task_id_873,87
+param=league_task_name_874,100 Million Runecraft XP
+param=league_task_description_875,Obtain 100 million experience in your Runecraft skill.
+param=league_task_tier_876,5
+
+[struct_827]
+param=league_task_id_873,88
+param=league_task_name_874,200 Million Runecraft XP
+param=league_task_description_875,Obtain 200 million experience in your Runecraft skill.
+param=league_task_tier_876,5
+
+[struct_828]
+param=league_task_id_873,89
+param=league_task_name_874,Level 20 Construction
+param=league_task_description_875,Reach level 20 in your Construction skill.
+param=league_task_tier_876,1
+
+[struct_829]
+param=league_task_id_873,90
+param=league_task_name_874,Level 40 Construction
+param=league_task_description_875,Reach level 40 in your Construction skill.
+param=league_task_tier_876,2
+
+[struct_830]
+param=league_task_id_873,91
+param=league_task_name_874,Level 60 Construction
+param=league_task_description_875,Reach level 60 in your Construction skill.
+param=league_task_tier_876,2
+
+[struct_831]
+param=league_task_id_873,92
+param=league_task_name_874,Level 80 Construction
+param=league_task_description_875,Reach level 80 in your Construction skill.
+param=league_task_tier_876,3
+
+[struct_832]
+param=league_task_id_873,93
+param=league_task_name_874,Level 99 Construction
+param=league_task_description_875,Reach level 99 in your Construction skill.
+param=league_task_tier_876,4
+
+[struct_833]
+param=league_task_id_873,94
+param=league_task_name_874,25 Million Construction XP
+param=league_task_description_875,Obtain 25 million experience in your Construction skill.
+param=league_task_tier_876,4
+
+[struct_834]
+param=league_task_id_873,95
+param=league_task_name_874,50 Million Construction XP
+param=league_task_description_875,Obtain 50 million experience in your Construction skill.
+param=league_task_tier_876,5
+
+[struct_835]
+param=league_task_id_873,96
+param=league_task_name_874,100 Million Construction XP
+param=league_task_description_875,Obtain 100 million experience in your Construction skill.
+param=league_task_tier_876,5
+
+[struct_836]
+param=league_task_id_873,97
+param=league_task_name_874,200 Million Construction XP
+param=league_task_description_875,Obtain 200 million experience in your Construction skill.
+param=league_task_tier_876,5
+
+[struct_837]
+param=league_task_id_873,98
+param=league_task_name_874,Level 20 Hitpoints
+param=league_task_description_875,Reach level 20 in your Hitpoints skill.
+param=league_task_tier_876,1
+
+[struct_838]
+param=league_task_id_873,99
+param=league_task_name_874,Level 40 Hitpoints
+param=league_task_description_875,Reach level 40 in your Hitpoints skill.
+param=league_task_tier_876,2
+
+[struct_839]
+param=league_task_id_873,100
+param=league_task_name_874,Level 60 Hitpoints
+param=league_task_description_875,Reach level 60 in your Hitpoints skill.
+param=league_task_tier_876,2
+
+[struct_840]
+param=league_task_id_873,101
+param=league_task_name_874,Level 80 Hitpoints
+param=league_task_description_875,Reach level 80 in your Hitpoints skill.
+param=league_task_tier_876,3
+
+[struct_841]
+param=league_task_id_873,102
+param=league_task_name_874,Level 99 Hitpoints
+param=league_task_description_875,Reach level 99 in your Hitpoints skill.
+param=league_task_tier_876,4
+
+[struct_842]
+param=league_task_id_873,103
+param=league_task_name_874,25 Million Hitpoints XP
+param=league_task_description_875,Obtain 25 million experience in your Hitpoints skill.
+param=league_task_tier_876,4
+
+[struct_843]
+param=league_task_id_873,104
+param=league_task_name_874,50 Million Hitpoints XP
+param=league_task_description_875,Obtain 50 million experience in your Hitpoints skill.
+param=league_task_tier_876,5
+
+[struct_844]
+param=league_task_id_873,105
+param=league_task_name_874,100 Million Hitpoints XP
+param=league_task_description_875,Obtain 100 million experience in your Hitpoints skill.
+param=league_task_tier_876,5
+
+[struct_845]
+param=league_task_id_873,106
+param=league_task_name_874,200 Million Hitpoints XP
+param=league_task_description_875,Obtain 200 million experience in your Hitpoints skill.
+param=league_task_tier_876,5
+
+[struct_846]
+param=league_task_id_873,107
+param=league_task_name_874,Level 20 Agility
+param=league_task_description_875,Reach level 20 in your Agility skill.
+param=league_task_tier_876,1
+
+[struct_847]
+param=league_task_id_873,108
+param=league_task_name_874,Level 40 Agility
+param=league_task_description_875,Reach level 40 in your Agility skill.
+param=league_task_tier_876,2
+
+[struct_848]
+param=league_task_id_873,109
+param=league_task_name_874,Level 60 Agility
+param=league_task_description_875,Reach level 60 in your Agility skill.
+param=league_task_tier_876,2
+
+[struct_849]
+param=league_task_id_873,110
+param=league_task_name_874,Level 80 Agility
+param=league_task_description_875,Reach level 80 in your Agility skill.
+param=league_task_tier_876,3
+
+[struct_850]
+param=league_task_id_873,111
+param=league_task_name_874,Level 99 Agility
+param=league_task_description_875,Reach level 99 in your Agility skill.
+param=league_task_tier_876,4
+
+[struct_851]
+param=league_task_id_873,112
+param=league_task_name_874,25 Million Agility XP
+param=league_task_description_875,Obtain 25 million experience in your Agility skill.
+param=league_task_tier_876,4
+
+[struct_852]
+param=league_task_id_873,113
+param=league_task_name_874,50 Million Agility XP
+param=league_task_description_875,Obtain 50 million experience in your Agility skill.
+param=league_task_tier_876,5
+
+[struct_853]
+param=league_task_id_873,114
+param=league_task_name_874,100 Million Agility XP
+param=league_task_description_875,Obtain 100 million experience in your Agility skill.
+param=league_task_tier_876,5
+
+[struct_854]
+param=league_task_id_873,115
+param=league_task_name_874,200 Million Agility XP
+param=league_task_description_875,Obtain 200 million experience in your Agility skill.
+param=league_task_tier_876,5
+
+[struct_855]
+param=league_task_id_873,116
+param=league_task_name_874,Level 20 Herblore
+param=league_task_description_875,Reach level 20 in your Herblore skill.
+param=league_task_tier_876,1
+
+[struct_856]
+param=league_task_id_873,117
+param=league_task_name_874,Level 40 Herblore
+param=league_task_description_875,Reach level 40 in your Herblore skill.
+param=league_task_tier_876,2
+
+[struct_857]
+param=league_task_id_873,118
+param=league_task_name_874,Level 60 Herblore
+param=league_task_description_875,Reach level 60 in your Herblore skill.
+param=league_task_tier_876,2
+
+[struct_858]
+param=league_task_id_873,119
+param=league_task_name_874,Level 80 Herblore
+param=league_task_description_875,Reach level 80 in your Herblore skill.
+param=league_task_tier_876,3
+
+[struct_859]
+param=league_task_id_873,120
+param=league_task_name_874,Level 99 Herblore
+param=league_task_description_875,Reach level 99 in your Herblore skill.
+param=league_task_tier_876,4
+
+[struct_860]
+param=league_task_id_873,121
+param=league_task_name_874,25 Million Herblore XP
+param=league_task_description_875,Obtain 25 million experience in your Herblore skill.
+param=league_task_tier_876,4
+
+[struct_861]
+param=league_task_id_873,122
+param=league_task_name_874,50 Million Herblore XP
+param=league_task_description_875,Obtain 50 million experience in your Herblore skill.
+param=league_task_tier_876,5
+
+[struct_862]
+param=league_task_id_873,123
+param=league_task_name_874,100 Million Herblore XP
+param=league_task_description_875,Obtain 100 million experience in your Herblore skill.
+param=league_task_tier_876,5
+
+[struct_863]
+param=league_task_id_873,124
+param=league_task_name_874,200 Million Herblore XP
+param=league_task_description_875,Obtain 200 million experience in your Herblore skill.
+param=league_task_tier_876,5
+
+[struct_864]
+param=league_task_id_873,125
+param=league_task_name_874,Level 20 Thieving
+param=league_task_description_875,Reach level 20 in your Thieving skill.
+param=league_task_tier_876,1
+
+[struct_865]
+param=league_task_id_873,126
+param=league_task_name_874,Level 40 Thieving
+param=league_task_description_875,Reach level 40 in your Thieving skill.
+param=league_task_tier_876,2
+
+[struct_866]
+param=league_task_id_873,127
+param=league_task_name_874,Level 60 Thieving
+param=league_task_description_875,Reach level 60 in your Thieving skill.
+param=league_task_tier_876,2
+
+[struct_867]
+param=league_task_id_873,128
+param=league_task_name_874,Level 80 Thieving
+param=league_task_description_875,Reach level 80 in your Thieving skill.
+param=league_task_tier_876,3
+
+[struct_868]
+param=league_task_id_873,129
+param=league_task_name_874,Level 99 Thieving
+param=league_task_description_875,Reach level 99 in your Thieving skill.
+param=league_task_tier_876,4
+
+[struct_869]
+param=league_task_id_873,130
+param=league_task_name_874,25 Million Thieving XP
+param=league_task_description_875,Obtain 25 million experience in your Thieving skill.
+param=league_task_tier_876,4
+
+[struct_870]
+param=league_task_id_873,131
+param=league_task_name_874,50 Million Thieving XP
+param=league_task_description_875,Obtain 50 million experience in your Thieving skill.
+param=league_task_tier_876,5
+
+[struct_871]
+param=league_task_id_873,132
+param=league_task_name_874,100 Million Thieving XP
+param=league_task_description_875,Obtain 100 million experience in your Thieving skill.
+param=league_task_tier_876,5
+
+[struct_872]
+param=league_task_id_873,133
+param=league_task_name_874,200 Million Thieving XP
+param=league_task_description_875,Obtain 200 million experience in your Thieving skill.
+param=league_task_tier_876,5
+
+[struct_873]
+param=league_task_id_873,134
+param=league_task_name_874,Level 20 Crafting
+param=league_task_description_875,Reach level 20 in your Crafting skill.
+param=league_task_tier_876,1
+
+[struct_874]
+param=league_task_id_873,135
+param=league_task_name_874,Level 40 Crafting
+param=league_task_description_875,Reach level 40 in your Crafting skill.
+param=league_task_tier_876,2
+
+[struct_875]
+param=league_task_id_873,136
+param=league_task_name_874,Level 60 Crafting
+param=league_task_description_875,Reach level 60 in your Crafting skill.
+param=league_task_tier_876,2
+
+[struct_876]
+param=league_task_id_873,137
+param=league_task_name_874,Level 80 Crafting
+param=league_task_description_875,Reach level 80 in your Crafting skill.
+param=league_task_tier_876,3
+
+[struct_877]
+param=league_task_id_873,138
+param=league_task_name_874,Level 99 Crafting
+param=league_task_description_875,Reach level 99 in your Crafting skill.
+param=league_task_tier_876,4
+
+[struct_878]
+param=league_task_id_873,139
+param=league_task_name_874,25 Million Crafting XP
+param=league_task_description_875,Obtain 25 million experience in your Crafting skill.
+param=league_task_tier_876,4
+
+[struct_879]
+param=league_task_id_873,140
+param=league_task_name_874,50 Million Crafting XP
+param=league_task_description_875,Obtain 50 million experience in your Crafting skill.
+param=league_task_tier_876,5
+
+[struct_880]
+param=league_task_id_873,141
+param=league_task_name_874,100 Million Crafting XP
+param=league_task_description_875,Obtain 100 million experience in your Crafting skill.
+param=league_task_tier_876,5
+
+[struct_881]
+param=league_task_id_873,142
+param=league_task_name_874,200 Million Crafting XP
+param=league_task_description_875,Obtain 200 million experience in your Crafting skill.
+param=league_task_tier_876,5
+
+[struct_882]
+param=league_task_id_873,143
+param=league_task_name_874,Level 20 Fletching
+param=league_task_description_875,Reach level 20 in your Fletching skill.
+param=league_task_tier_876,1
+
+[struct_883]
+param=league_task_id_873,144
+param=league_task_name_874,Level 40 Fletching
+param=league_task_description_875,Reach level 40 in your Fletching skill.
+param=league_task_tier_876,2
+
+[struct_884]
+param=league_task_id_873,145
+param=league_task_name_874,Level 60 Fletching
+param=league_task_description_875,Reach level 60 in your Fletching skill.
+param=league_task_tier_876,2
+
+[struct_885]
+param=league_task_id_873,146
+param=league_task_name_874,Level 80 Fletching
+param=league_task_description_875,Reach level 80 in your Fletching skill.
+param=league_task_tier_876,3
+
+[struct_886]
+param=league_task_id_873,147
+param=league_task_name_874,Level 99 Fletching
+param=league_task_description_875,Reach level 99 in your Fletching skill.
+param=league_task_tier_876,4
+
+[struct_887]
+param=league_task_id_873,148
+param=league_task_name_874,25 Million Fletching XP
+param=league_task_description_875,Obtain 25 million experience in your Fletching skill.
+param=league_task_tier_876,4
+
+[struct_888]
+param=league_task_id_873,149
+param=league_task_name_874,50 Million Fletching XP
+param=league_task_description_875,Obtain 50 million experience in your Fletching skill.
+param=league_task_tier_876,5
+
+[struct_889]
+param=league_task_id_873,150
+param=league_task_name_874,100 Million Fletching XP
+param=league_task_description_875,Obtain 100 million experience in your Fletching skill.
+param=league_task_tier_876,5
+
+[struct_890]
+param=league_task_id_873,151
+param=league_task_name_874,200 Million Fletching XP
+param=league_task_description_875,Obtain 200 million experience in your Fletching skill.
+param=league_task_tier_876,5
+
+[struct_891]
+param=league_task_id_873,152
+param=league_task_name_874,Level 20 Slayer
+param=league_task_description_875,Reach level 20 in your Slayer skill.
+param=league_task_tier_876,1
+
+[struct_892]
+param=league_task_id_873,153
+param=league_task_name_874,Level 40 Slayer
+param=league_task_description_875,Reach level 40 in your Slayer skill.
+param=league_task_tier_876,2
+
+[struct_893]
+param=league_task_id_873,154
+param=league_task_name_874,Level 60 Slayer
+param=league_task_description_875,Reach level 60 in your Slayer skill.
+param=league_task_tier_876,2
+
+[struct_894]
+param=league_task_id_873,155
+param=league_task_name_874,Level 80 Slayer
+param=league_task_description_875,Reach level 80 in your Slayer skill.
+param=league_task_tier_876,3
+
+[struct_895]
+param=league_task_id_873,156
+param=league_task_name_874,Level 99 Slayer
+param=league_task_description_875,Reach level 99 in your Slayer skill.
+param=league_task_tier_876,4
+
+[struct_896]
+param=league_task_id_873,157
+param=league_task_name_874,25 Million Slayer XP
+param=league_task_description_875,Obtain 25 million experience in your Slayer skill.
+param=league_task_tier_876,4
+
+[struct_897]
+param=league_task_id_873,158
+param=league_task_name_874,50 Million Slayer XP
+param=league_task_description_875,Obtain 50 million experience in your Slayer skill.
+param=league_task_tier_876,5
+
+[struct_898]
+param=league_task_id_873,159
+param=league_task_name_874,100 Million Slayer XP
+param=league_task_description_875,Obtain 100 million experience in your Slayer skill.
+param=league_task_tier_876,5
+
+[struct_899]
+param=league_task_id_873,160
+param=league_task_name_874,200 Million Slayer XP
+param=league_task_description_875,Obtain 200 million experience in your Slayer skill.
+param=league_task_tier_876,5
+
+[struct_900]
+param=league_task_id_873,161
+param=league_task_name_874,Level 20 Hunter
+param=league_task_description_875,Reach level 20 in your Hunter skill.
+param=league_task_tier_876,1
+
+[struct_901]
+param=league_task_id_873,162
+param=league_task_name_874,Level 40 Hunter
+param=league_task_description_875,Reach level 40 in your Hunter skill.
+param=league_task_tier_876,2
+
+[struct_902]
+param=league_task_id_873,163
+param=league_task_name_874,Level 60 Hunter
+param=league_task_description_875,Reach level 60 in your Hunter skill.
+param=league_task_tier_876,2
+
+[struct_903]
+param=league_task_id_873,164
+param=league_task_name_874,Level 80 Hunter
+param=league_task_description_875,Reach level 80 in your Hunter skill.
+param=league_task_tier_876,3
+
+[struct_904]
+param=league_task_id_873,165
+param=league_task_name_874,Level 99 Hunter
+param=league_task_description_875,Reach level 99 in your Hunter skill.
+param=league_task_tier_876,4
+
+[struct_905]
+param=league_task_id_873,166
+param=league_task_name_874,25 Million Hunter XP
+param=league_task_description_875,Obtain 25 million experience in your Hunter skill.
+param=league_task_tier_876,4
+
+[struct_906]
+param=league_task_id_873,167
+param=league_task_name_874,50 Million Hunter XP
+param=league_task_description_875,Obtain 50 million experience in your Hunter skill.
+param=league_task_tier_876,5
+
+[struct_907]
+param=league_task_id_873,168
+param=league_task_name_874,100 Million Hunter XP
+param=league_task_description_875,Obtain 100 million experience in your Hunter skill.
+param=league_task_tier_876,5
+
+[struct_908]
+param=league_task_id_873,169
+param=league_task_name_874,200 Million Hunter XP
+param=league_task_description_875,Obtain 200 million experience in your Hunter skill.
+param=league_task_tier_876,5
+
+[struct_909]
+param=league_task_id_873,170
+param=league_task_name_874,Level 20 Mining
+param=league_task_description_875,Reach level 20 in your Mining skill.
+param=league_task_tier_876,1
+
+[struct_910]
+param=league_task_id_873,171
+param=league_task_name_874,Level 40 Mining
+param=league_task_description_875,Reach level 40 in your Mining skill.
+param=league_task_tier_876,2
+
+[struct_911]
+param=league_task_id_873,172
+param=league_task_name_874,Level 60 Mining
+param=league_task_description_875,Reach level 60 in your Mining skill.
+param=league_task_tier_876,2
+
+[struct_912]
+param=league_task_id_873,173
+param=league_task_name_874,Level 80 Mining
+param=league_task_description_875,Reach level 80 in your Mining skill.
+param=league_task_tier_876,3
+
+[struct_913]
+param=league_task_id_873,174
+param=league_task_name_874,Level 99 Mining
+param=league_task_description_875,Reach level 99 in your Mining skill.
+param=league_task_tier_876,4
+
+[struct_914]
+param=league_task_id_873,175
+param=league_task_name_874,25 Million Mining XP
+param=league_task_description_875,Obtain 25 million experience in your Mining skill.
+param=league_task_tier_876,4
+
+[struct_915]
+param=league_task_id_873,176
+param=league_task_name_874,50 Million Mining XP
+param=league_task_description_875,Obtain 50 million experience in your Mining skill.
+param=league_task_tier_876,5
+
+[struct_916]
+param=league_task_id_873,177
+param=league_task_name_874,100 Million Mining XP
+param=league_task_description_875,Obtain 100 million experience in your Mining skill.
+param=league_task_tier_876,5
+
+[struct_917]
+param=league_task_id_873,178
+param=league_task_name_874,200 Million Mining XP
+param=league_task_description_875,Obtain 200 million experience in your Mining skill.
+param=league_task_tier_876,5
+
+[struct_918]
+param=league_task_id_873,179
+param=league_task_name_874,Level 20 Smithing
+param=league_task_description_875,Reach level 20 in your Smithing skill.
+param=league_task_tier_876,1
+
+[struct_919]
+param=league_task_id_873,180
+param=league_task_name_874,Level 40 Smithing
+param=league_task_description_875,Reach level 40 in your Smithing skill.
+param=league_task_tier_876,2
+
+[struct_920]
+param=league_task_id_873,181
+param=league_task_name_874,Level 60 Smithing
+param=league_task_description_875,Reach level 60 in your Smithing skill.
+param=league_task_tier_876,2
+
+[struct_921]
+param=league_task_id_873,182
+param=league_task_name_874,Level 80 Smithing
+param=league_task_description_875,Reach level 80 in your Smithing skill.
+param=league_task_tier_876,3
+
+[struct_922]
+param=league_task_id_873,183
+param=league_task_name_874,Level 99 Smithing
+param=league_task_description_875,Reach level 99 in your Smithing skill.
+param=league_task_tier_876,4
+
+[struct_923]
+param=league_task_id_873,184
+param=league_task_name_874,25 Million Smithing XP
+param=league_task_description_875,Obtain 25 million experience in your Smithing skill.
+param=league_task_tier_876,4
+
+[struct_924]
+param=league_task_id_873,185
+param=league_task_name_874,50 Million Smithing XP
+param=league_task_description_875,Obtain 50 million experience in your Smithing skill.
+param=league_task_tier_876,5
+
+[struct_925]
+param=league_task_id_873,186
+param=league_task_name_874,100 Million Smithing XP
+param=league_task_description_875,Obtain 100 million experience in your Smithing skill.
+param=league_task_tier_876,5
+
+[struct_926]
+param=league_task_id_873,187
+param=league_task_name_874,200 Million Smithing XP
+param=league_task_description_875,Obtain 200 million experience in your Smithing skill.
+param=league_task_tier_876,5
+
+[struct_927]
+param=league_task_id_873,188
+param=league_task_name_874,Level 20 Fishing
+param=league_task_description_875,Reach level 20 in your Fishing skill.
+param=league_task_tier_876,1
+
+[struct_928]
+param=league_task_id_873,189
+param=league_task_name_874,Level 40 Fishing
+param=league_task_description_875,Reach level 40 in your Fishing skill.
+param=league_task_tier_876,2
+
+[struct_929]
+param=league_task_id_873,190
+param=league_task_name_874,Level 60 Fishing
+param=league_task_description_875,Reach level 60 in your Fishing skill.
+param=league_task_tier_876,2
+
+[struct_930]
+param=league_task_id_873,191
+param=league_task_name_874,Level 80 Fishing
+param=league_task_description_875,Reach level 80 in your Fishing skill.
+param=league_task_tier_876,3
+
+[struct_931]
+param=league_task_id_873,192
+param=league_task_name_874,Level 99 Fishing
+param=league_task_description_875,Reach level 99 in your Fishing skill.
+param=league_task_tier_876,4
+
+[struct_932]
+param=league_task_id_873,193
+param=league_task_name_874,25 Million Fishing XP
+param=league_task_description_875,Obtain 25 million experience in your Fishing skill.
+param=league_task_tier_876,4
+
+[struct_933]
+param=league_task_id_873,194
+param=league_task_name_874,50 Million Fishing XP
+param=league_task_description_875,Obtain 50 million experience in your Fishing skill.
+param=league_task_tier_876,5
+
+[struct_934]
+param=league_task_id_873,195
+param=league_task_name_874,100 Million Fishing XP
+param=league_task_description_875,Obtain 100 million experience in your Fishing skill.
+param=league_task_tier_876,5
+
+[struct_935]
+param=league_task_id_873,196
+param=league_task_name_874,200 Million Fishing XP
+param=league_task_description_875,Obtain 200 million experience in your Fishing skill.
+param=league_task_tier_876,5
+
+[struct_936]
+param=league_task_id_873,197
+param=league_task_name_874,Level 20 Cooking
+param=league_task_description_875,Reach level 20 in your Cooking skill.
+param=league_task_tier_876,1
+
+[struct_937]
+param=league_task_id_873,198
+param=league_task_name_874,Level 40 Cooking
+param=league_task_description_875,Reach level 40 in your Cooking skill.
+param=league_task_tier_876,2
+
+[struct_938]
+param=league_task_id_873,199
+param=league_task_name_874,Level 60 Cooking
+param=league_task_description_875,Reach level 60 in your Cooking skill.
+param=league_task_tier_876,2
+
+[struct_939]
+param=league_task_id_873,200
+param=league_task_name_874,Level 80 Cooking
+param=league_task_description_875,Reach level 80 in your Cooking skill.
+param=league_task_tier_876,3
+
+[struct_940]
+param=league_task_id_873,201
+param=league_task_name_874,Level 99 Cooking
+param=league_task_description_875,Reach level 99 in your Cooking skill.
+param=league_task_tier_876,4
+
+[struct_941]
+param=league_task_id_873,202
+param=league_task_name_874,25 Million Cooking XP
+param=league_task_description_875,Obtain 25 million experience in your Cooking skill.
+param=league_task_tier_876,4
+
+[struct_942]
+param=league_task_id_873,203
+param=league_task_name_874,50 Million Cooking XP
+param=league_task_description_875,Obtain 50 million experience in your Cooking skill.
+param=league_task_tier_876,5
+
+[struct_943]
+param=league_task_id_873,204
+param=league_task_name_874,100 Million Cooking XP
+param=league_task_description_875,Obtain 100 million experience in your Cooking skill.
+param=league_task_tier_876,5
+
+[struct_944]
+param=league_task_id_873,205
+param=league_task_name_874,200 Million Cooking XP
+param=league_task_description_875,Obtain 200 million experience in your Cooking skill.
+param=league_task_tier_876,5
+
+[struct_945]
+param=league_task_id_873,206
+param=league_task_name_874,Level 20 Firemaking
+param=league_task_description_875,Reach level 20 in your Firemaking skill.
+param=league_task_tier_876,1
+
+[struct_946]
+param=league_task_id_873,207
+param=league_task_name_874,Level 40 Firemaking
+param=league_task_description_875,Reach level 40 in your Firemaking skill.
+param=league_task_tier_876,2
+
+[struct_947]
+param=league_task_id_873,208
+param=league_task_name_874,Level 60 Firemaking
+param=league_task_description_875,Reach level 60 in your Firemaking skill.
+param=league_task_tier_876,2
+
+[struct_948]
+param=league_task_id_873,209
+param=league_task_name_874,Level 80 Firemaking
+param=league_task_description_875,Reach level 80 in your Firemaking skill.
+param=league_task_tier_876,3
+
+[struct_949]
+param=league_task_id_873,210
+param=league_task_name_874,Level 99 Firemaking
+param=league_task_description_875,Reach level 99 in your Firemaking skill.
+param=league_task_tier_876,4
+
+[struct_950]
+param=league_task_id_873,211
+param=league_task_name_874,25 Million Firemaking XP
+param=league_task_description_875,Obtain 25 million experience in your Firemaking skill.
+param=league_task_tier_876,4
+
+[struct_951]
+param=league_task_id_873,212
+param=league_task_name_874,50 Million Firemaking XP
+param=league_task_description_875,Obtain 50 million experience in your Firemaking skill.
+param=league_task_tier_876,5
+
+[struct_952]
+param=league_task_id_873,213
+param=league_task_name_874,100 Million Firemaking XP
+param=league_task_description_875,Obtain 100 million experience in your Firemaking skill.
+param=league_task_tier_876,5
+
+[struct_953]
+param=league_task_id_873,214
+param=league_task_name_874,200 Million Firemaking XP
+param=league_task_description_875,Obtain 200 million experience in your Firemaking skill.
+param=league_task_tier_876,5
+
+[struct_954]
+param=league_task_id_873,215
+param=league_task_name_874,Level 20 Woodcutting
+param=league_task_description_875,Reach level 20 in your Woodcutting skill.
+param=league_task_tier_876,1
+
+[struct_955]
+param=league_task_id_873,216
+param=league_task_name_874,Level 40 Woodcutting
+param=league_task_description_875,Reach level 40 in your Woodcutting skill.
+param=league_task_tier_876,2
+
+[struct_956]
+param=league_task_id_873,217
+param=league_task_name_874,Level 60 Woodcutting
+param=league_task_description_875,Reach level 60 in your Woodcutting skill.
+param=league_task_tier_876,2
+
+[struct_957]
+param=league_task_id_873,218
+param=league_task_name_874,Level 80 Woodcutting
+param=league_task_description_875,Reach level 80 in your Woodcutting skill.
+param=league_task_tier_876,3
+
+[struct_958]
+param=league_task_id_873,219
+param=league_task_name_874,Level 99 Woodcutting
+param=league_task_description_875,Reach level 99 in your Woodcutting skill.
+param=league_task_tier_876,4
+
+[struct_959]
+param=league_task_id_873,220
+param=league_task_name_874,25 Million Woodcutting XP
+param=league_task_description_875,Obtain 25 million experience in your Woodcutting skill.
+param=league_task_tier_876,4
+
+[struct_960]
+param=league_task_id_873,221
+param=league_task_name_874,50 Million Woodcutting XP
+param=league_task_description_875,Obtain 50 million experience in your Woodcutting skill.
+param=league_task_tier_876,5
+
+[struct_961]
+param=league_task_id_873,222
+param=league_task_name_874,100 Million Woodcutting XP
+param=league_task_description_875,Obtain 100 million experience in your Woodcutting skill.
+param=league_task_tier_876,5
+
+[struct_962]
+param=league_task_id_873,223
+param=league_task_name_874,200 Million Woodcutting XP
+param=league_task_description_875,Obtain 200 million experience in your Woodcutting skill.
+param=league_task_tier_876,5
+
+[struct_963]
+param=league_task_id_873,224
+param=league_task_name_874,Level 20 Farming
+param=league_task_description_875,Reach level 20 in your Farming skill.
+param=league_task_tier_876,1
+
+[struct_964]
+param=league_task_id_873,225
+param=league_task_name_874,Level 40 Farming
+param=league_task_description_875,Reach level 40 in your Farming skill.
+param=league_task_tier_876,2
+
+[struct_965]
+param=league_task_id_873,226
+param=league_task_name_874,Level 60 Farming
+param=league_task_description_875,Reach level 60 in your Farming skill.
+param=league_task_tier_876,2
+
+[struct_966]
+param=league_task_id_873,227
+param=league_task_name_874,Level 80 Farming
+param=league_task_description_875,Reach level 80 in your Farming skill.
+param=league_task_tier_876,3
+
+[struct_967]
+param=league_task_id_873,228
+param=league_task_name_874,Level 99 Farming
+param=league_task_description_875,Reach level 99 in your Farming skill.
+param=league_task_tier_876,4
+
+[struct_968]
+param=league_task_id_873,229
+param=league_task_name_874,25 Million Farming XP
+param=league_task_description_875,Obtain 25 million experience in your Farming skill.
+param=league_task_tier_876,4
+
+[struct_969]
+param=league_task_id_873,230
+param=league_task_name_874,50 Million Farming XP
+param=league_task_description_875,Obtain 50 million experience in your Farming skill.
+param=league_task_tier_876,5
+
+[struct_970]
+param=league_task_id_873,231
+param=league_task_name_874,100 Million Farming XP
+param=league_task_description_875,Obtain 100 million experience in your Farming skill.
+param=league_task_tier_876,5
+
+[struct_971]
+param=league_task_id_873,232
+param=league_task_name_874,200 Million Farming XP
+param=league_task_description_875,Obtain 200 million experience in your Farming skill.
+param=league_task_tier_876,5
+
+[struct_972]
+param=league_task_id_873,233
+param=league_task_name_874,1 Wintertodt Kill
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt.
+param=league_task_tier_876,1
+
+[struct_973]
+param=league_task_id_873,234
+param=league_task_name_874,25 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 25 times.
+param=league_task_tier_876,1
+
+[struct_974]
+param=league_task_id_873,235
+param=league_task_name_874,50 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 50 times.
+param=league_task_tier_876,1
+
+[struct_975]
+param=league_task_id_873,236
+param=league_task_name_874,75 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 75 times.
+param=league_task_tier_876,1
+
+[struct_976]
+param=league_task_id_873,237
+param=league_task_name_874,100 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 100 times.
+param=league_task_tier_876,1
+
+[struct_977]
+param=league_task_id_873,238
+param=league_task_name_874,200 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 200 times.
+param=league_task_tier_876,2
+
+[struct_978]
+param=league_task_id_873,239
+param=league_task_name_874,300 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 300 times.
+param=league_task_tier_876,2
+
+[struct_979]
+param=league_task_id_873,240
+param=league_task_name_874,400 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 400 times.
+param=league_task_tier_876,2
+
+[struct_980]
+param=league_task_id_873,241
+param=league_task_name_874,500 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 500 times.
+param=league_task_tier_876,2
+
+[struct_981]
+param=league_task_id_873,242
+param=league_task_name_874,1000 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 1000 times.
+param=league_task_tier_876,3
+
+[struct_982]
+param=league_task_id_873,243
+param=league_task_name_874,1500 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 1500 times.
+param=league_task_tier_876,3
+
+[struct_983]
+param=league_task_id_873,244
+param=league_task_name_874,2000 Wintertodt Kills
+param=league_task_description_875,Help the pyromancers subdue the Wintertodt 2000 times.
+param=league_task_tier_876,4
+
+[struct_984]
+param=league_task_id_873,245
+param=league_task_name_874,Complete 1 Farming Contract
+param=league_task_description_875,Complete a farming contract for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,1
+
+[struct_985]
+param=league_task_id_873,246
+param=league_task_name_874,Complete 25 Farming Contracts
+param=league_task_description_875,Complete 25 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,1
+
+[struct_986]
+param=league_task_id_873,247
+param=league_task_name_874,Complete 50 Farming Contracts
+param=league_task_description_875,Complete 50 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,1
+
+[struct_987]
+param=league_task_id_873,248
+param=league_task_name_874,Complete 75 Farming Contracts
+param=league_task_description_875,Complete 75 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,1
+
+[struct_988]
+param=league_task_id_873,249
+param=league_task_name_874,Complete 100 Farming Contracts
+param=league_task_description_875,Complete 100 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,1
+
+[struct_989]
+param=league_task_id_873,250
+param=league_task_name_874,Complete 200 Farming Contracts
+param=league_task_description_875,Complete 200 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,2
+
+[struct_990]
+param=league_task_id_873,251
+param=league_task_name_874,Complete 300 Farming Contracts
+param=league_task_description_875,Complete 300 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,2
+
+[struct_991]
+param=league_task_id_873,252
+param=league_task_name_874,Complete 400 Farming Contracts
+param=league_task_description_875,Complete 400 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,2
+
+[struct_992]
+param=league_task_id_873,253
+param=league_task_name_874,Complete 500 Farming Contracts
+param=league_task_description_875,Complete 500 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,2
+
+[struct_993]
+param=league_task_id_873,254
+param=league_task_name_874,Complete 1000 Farming Contracts
+param=league_task_description_875,Complete 1000 farming contracts for Guildmaster Jane in the farming guild.
+param=league_task_tier_876,3
+
+[struct_994]
+param=league_task_id_873,255
+param=league_task_name_874,10 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 10 slayer tasks.
+param=league_task_tier_876,1
+
+[struct_995]
+param=league_task_id_873,256
+param=league_task_name_874,25 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 25 slayer tasks.
+param=league_task_tier_876,1
+
+[struct_996]
+param=league_task_id_873,257
+param=league_task_name_874,50 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 50 slayer tasks.
+param=league_task_tier_876,1
+
+[struct_997]
+param=league_task_id_873,258
+param=league_task_name_874,100 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 100 slayer tasks.
+param=league_task_tier_876,2
+
+[struct_998]
+param=league_task_id_873,259
+param=league_task_name_874,200 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 200 slayer tasks.
+param=league_task_tier_876,3
+
+[struct_999]
+param=league_task_id_873,260
+param=league_task_name_874,300 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 300 slayer tasks.
+param=league_task_tier_876,3
+
+[struct_1000]
+param=league_task_id_873,261
+param=league_task_name_874,400 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 400 slayer tasks.
+param=league_task_tier_876,3
+
+[struct_1001]
+param=league_task_id_873,262
+param=league_task_name_874,500 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 500 slayer tasks.
+param=league_task_tier_876,3
+
+[struct_1002]
+param=league_task_id_873,263
+param=league_task_name_874,1000 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 1000 slayer tasks.
+param=league_task_tier_876,4
+
+[struct_1003]
+param=league_task_id_873,264
+param=league_task_name_874,1500 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 1500 slayer tasks.
+param=league_task_tier_876,4
+
+[struct_1004]
+param=league_task_id_873,265
+param=league_task_name_874,2000 Slayer Tasks
+param=league_task_description_875,Receive and complete a total of 2000 slayer tasks.
+param=league_task_tier_876,4
+
+[struct_1005]
+param=league_task_id_873,266
+param=league_task_name_874,Friend of House Hosidius
+param=league_task_description_875,Achieve 100% favour with the Hosidius house.
+param=league_task_tier_876,1
+
+[struct_1006]
+param=league_task_id_873,267
+param=league_task_name_874,Friend of House Shayzien
+param=league_task_description_875,Achieve 100% favour with the Shayzien house.
+param=league_task_tier_876,1
+
+[struct_1007]
+param=league_task_id_873,268
+param=league_task_name_874,Friend of House Arceuus
+param=league_task_description_875,Achieve 100% favour with the Arceuus house.
+param=league_task_tier_876,1
+
+[struct_1008]
+param=league_task_id_873,269
+param=league_task_name_874,Friend of House Lovakengj
+param=league_task_description_875,Achieve 100% favour with the Lovakengj house.
+param=league_task_tier_876,1
+
+[struct_1009]
+param=league_task_id_873,270
+param=league_task_name_874,Friend of House piscarilius
+param=league_task_description_875,Achieve 100% favour with the piscarilius house.
+param=league_task_tier_876,1
+
+[struct_1010]
+param=league_task_id_873,271
+param=league_task_name_874,Steal a Golovanova Fruit Top
+param=league_task_description_875,Steal a Golovanova fruit top from a fruit stall in Hosidius.
+param=league_task_tier_876,1
+
+[struct_1011]
+param=league_task_id_873,272
+param=league_task_name_874,Plant 100 Golovanova Seeds
+param=league_task_description_875,Plant 100 Golovanova seeds in the Tithe Farm minigame.
+param=league_task_tier_876,2
+
+[struct_1012]
+param=league_task_id_873,273
+param=league_task_name_874,Plant 100 Bologano Seeds
+param=league_task_description_875,Plant 100 Bologano seeds in the Tithe Farm minigame.
+param=league_task_tier_876,3
+
+[struct_1013]
+param=league_task_id_873,274
+param=league_task_name_874,Plant 100 Logavano Seeds
+param=league_task_description_875,Plant 100 Logavano seeds in the Tithe Farm minigame.
+param=league_task_tier_876,4
+
+[struct_1014]
+param=league_task_id_873,275
+param=league_task_name_874,Enter the Farming Guild
+param=league_task_description_875,Enter the Farming Guild in the Kebos Lowlands.
+param=league_task_tier_876,2
+
+[struct_1015]
+param=league_task_id_873,276
+param=league_task_name_874,Enter the Farming Guild's Mid Tier
+param=league_task_description_875,Enter the mid tier of the Farming Guild in the Kebos Lowlands.
+param=league_task_tier_876,3
+
+[struct_1016]
+param=league_task_id_873,277
+param=league_task_name_874,Enter the Farming Guild's High Tier
+param=league_task_description_875,Enter the high tier of the Farming Guild in the Kebos Lowlands.
+param=league_task_tier_876,4
+
+[struct_1017]
+param=league_task_id_873,278
+param=league_task_name_874,Serve 20 Stews in the Mess Hall
+param=league_task_description_875,Make and serve 20 stews in the Mess Hall in Hosidius.
+param=league_task_tier_876,2
+
+[struct_1018]
+param=league_task_id_873,279
+param=league_task_name_874,Serve 20 Pizzas in the Mess Hall
+param=league_task_description_875,Make and serve 20 pineapple pizzas in the Mess Hall in Hosidius.
+param=league_task_tier_876,3
+
+[struct_1019]
+param=league_task_id_873,280
+param=league_task_name_874,Activate Smite
+param=league_task_description_875,Activate Smite in your prayer book.
+param=league_task_tier_876,2
+
+[struct_1020]
+param=league_task_id_873,281
+param=league_task_name_874,Pickpocket a Master Farmer
+param=league_task_description_875,Successfully pickpocket from a master farmer.
+param=league_task_tier_876,2
+
+[struct_1021]
+param=league_task_id_873,282
+param=league_task_name_874,Enter the Woodcutting Guild
+param=league_task_description_875,Enter the Woodcutting Guild in Hosidius.
+param=league_task_tier_876,2
+
+[struct_1022]
+param=league_task_id_873,283
+param=league_task_name_874,Obtain Adamantite Ore at the Blast Mine
+param=league_task_description_875,Obtain a piece of Adamantite ore while taking part in the Blast Mine.
+param=league_task_tier_876,3
+
+[struct_1023]
+param=league_task_id_873,284
+param=league_task_name_874,Obtain Runite Ore at the Blast Mine
+param=league_task_description_875,Obtain a piece of Runite ore while taking part in the Blast Mine.
+param=league_task_tier_876,4
+
+[struct_1024]
+param=league_task_id_873,285
+param=league_task_name_874,Chop a Magic Log at the Forsaken Tower
+param=league_task_description_875,Chop a log from the Magic trees around the Forsaken Tower.
+param=league_task_tier_876,3
+
+[struct_1025]
+param=league_task_id_873,286
+param=league_task_name_874,Cast Resurrect Crops
+param=league_task_description_875,Cast the spell Resurrect Crops from the Arceuus spellbook.
+param=league_task_tier_876,3
+
+[struct_1026]
+param=league_task_id_873,287
+param=league_task_name_874,Steal from a Gem Stall
+param=league_task_description_875,Successfully steal from a gem stall.
+param=league_task_tier_876,4
+
+[struct_1027]
+param=league_task_id_873,288
+param=league_task_name_874,Check the health of a Redwood Tree
+param=league_task_description_875,Check the health of a Redwood Tree after growing one in the Farming Guild.
+param=league_task_tier_876,4
+
+[struct_1028]
+param=league_task_id_873,289
+param=league_task_name_874,Complete a Sulphur Lizard Task
+param=league_task_description_875,Receive and complete a Sulphur Lizard slayer task.
+param=league_task_tier_876,1
+
+[struct_1029]
+param=league_task_id_873,290
+param=league_task_name_874,Complete a Troll Task
+param=league_task_description_875,Receive and complete a Troll slayer task.
+param=league_task_tier_876,1
+
+[struct_1030]
+param=league_task_id_873,291
+param=league_task_name_874,Complete a Temple Spider Task
+param=league_task_description_875,Receive and complete a Temple Spider slayer task.
+param=league_task_tier_876,1
+
+[struct_1031]
+param=league_task_id_873,292
+param=league_task_name_874,Complete a Banshee Task
+param=league_task_description_875,Receive and complete a Banshee slayer task.
+param=league_task_tier_876,1
+
+[struct_1032]
+param=league_task_id_873,293
+param=league_task_name_874,Complete a Lizardman Task
+param=league_task_description_875,Receive and complete a Lizardman slayer task.
+param=league_task_tier_876,1
+
+[struct_1033]
+param=league_task_id_873,294
+param=league_task_name_874,Complete a Greater Demon Task
+param=league_task_description_875,Receive and complete a Greater Demon slayer task.
+param=league_task_tier_876,1
+
+[struct_1034]
+param=league_task_id_873,295
+param=league_task_name_874,Complete a Fire Giant Task
+param=league_task_description_875,Receive and complete a Fire Giant slayer task.
+param=league_task_tier_876,1
+
+[struct_1035]
+param=league_task_id_873,296
+param=league_task_name_874,Complete a Moss Giant Task
+param=league_task_description_875,Receive and complete a Moss Giant slayer task.
+param=league_task_tier_876,1
+
+[struct_1036]
+param=league_task_id_873,297
+param=league_task_name_874,Complete a Jelly Task
+param=league_task_description_875,Receive and complete a Jelly slayer task.
+param=league_task_tier_876,1
+
+[struct_1037]
+param=league_task_id_873,298
+param=league_task_name_874,Complete a Metal Dragon Task
+param=league_task_description_875,Receive and complete an Iron Dragon or Steel Dragon slayer task.
+param=league_task_tier_876,1
+
+[struct_1038]
+param=league_task_id_873,299
+param=league_task_name_874,Complete an Undead Druid Task
+param=league_task_description_875,Receive and complete an Undead Druid slayer task.
+param=league_task_tier_876,1
+
+[struct_1039]
+param=league_task_id_873,300
+param=league_task_name_874,Complete an Aberrant Spectre Task
+param=league_task_description_875,Receive and complete an Aberrant Spectre slayer task.
+param=league_task_tier_876,1
+
+[struct_1040]
+param=league_task_id_873,301
+param=league_task_name_874,Complete a Bloodveld Task
+param=league_task_description_875,Receive and complete a Bloodveld slayer task.
+param=league_task_tier_876,1
+
+[struct_1041]
+param=league_task_id_873,302
+param=league_task_name_874,Complete a Dust Devil Task
+param=league_task_description_875,Receive and complete a Dust Devil slayer task.
+param=league_task_tier_876,1
+
+[struct_1042]
+param=league_task_id_873,303
+param=league_task_name_874,Complete a Wyrm Task
+param=league_task_description_875,Receive and complete a Wyrm slayer task.
+param=league_task_tier_876,1
+
+[struct_1043]
+param=league_task_id_873,304
+param=league_task_name_874,Complete a Drake Task
+param=league_task_description_875,Receive and complete a Drake slayer task.
+param=league_task_tier_876,3
+
+[struct_1044]
+param=league_task_id_873,305
+param=league_task_name_874,Complete a Black Demon Task
+param=league_task_description_875,Receive and complete a Black Demon slayer task.
+param=league_task_tier_876,2
+
+[struct_1045]
+param=league_task_id_873,306
+param=league_task_name_874,Complete a Hellhound Task
+param=league_task_description_875,Receive and complete a Hellhound slayer task.
+param=league_task_tier_876,2
+
+[struct_1046]
+param=league_task_id_873,307
+param=league_task_name_874,Complete a Blue Dragon Task
+param=league_task_description_875,Receive and complete a Blue Dragon slayer task.
+param=league_task_tier_876,2
+
+[struct_1047]
+param=league_task_id_873,308
+param=league_task_name_874,Complete a Red Dragon Task
+param=league_task_description_875,Receive and complete a Red Dragon slayer task.
+param=league_task_tier_876,2
+
+[struct_1048]
+param=league_task_id_873,309
+param=league_task_name_874,Complete a Brutal Black Dragon Task
+param=league_task_description_875,Receive and complete a Brutal Black Dragon slayer task.
+param=league_task_tier_876,2
+
+[struct_1049]
+param=league_task_id_873,310
+param=league_task_name_874,Complete an Abyssal Demon Task
+param=league_task_description_875,Receive and complete an Abyssal Demon slayer task.
+param=league_task_tier_876,3
+
+[struct_1050]
+param=league_task_id_873,311
+param=league_task_name_874,Complete a Nechryael Task
+param=league_task_description_875,Receive and complete a Nechryael slayer task.
+param=league_task_tier_876,2
+
+[struct_1051]
+param=league_task_id_873,312
+param=league_task_name_874,Complete a Hydra Task
+param=league_task_description_875,Receive and complete a Hydra slayer task.
+param=league_task_tier_876,3
+
+[struct_1052]
+param=league_task_id_873,313
+param=league_task_name_874,1 Superior Slayer Encounter
+param=league_task_description_875,Defeat a superior foe while on a slayer task.
+param=league_task_tier_876,1
+
+[struct_1053]
+param=league_task_id_873,314
+param=league_task_name_874,10 Superior Slayer Encounters
+param=league_task_description_875,Defeat 10 superior foes while on a slayer task.
+param=league_task_tier_876,2
+
+[struct_1054]
+param=league_task_id_873,315
+param=league_task_name_874,25 Superior Slayer Encounters
+param=league_task_description_875,Defeat 25 superior foes while on a slayer task.
+param=league_task_tier_876,2
+
+[struct_1055]
+param=league_task_id_873,316
+param=league_task_name_874,50 Superior Slayer Encounters
+param=league_task_description_875,Defeat 50 superior foes while on a slayer task.
+param=league_task_tier_876,2
+
+[struct_1056]
+param=league_task_id_873,317
+param=league_task_name_874,75 Superior Slayer Encounters
+param=league_task_description_875,Defeat 75 superior foes while on a slayer task.
+param=league_task_tier_876,2
+
+[struct_1057]
+param=league_task_id_873,318
+param=league_task_name_874,100 Superior Slayer Encounters
+param=league_task_description_875,Defeat 100 superior foes while on a slayer task.
+param=league_task_tier_876,2
+
+[struct_1058]
+param=league_task_id_873,319
+param=league_task_name_874,150 Superior Slayer Encounters
+param=league_task_description_875,Defeat 150 superior foes while on a slayer task.
+param=league_task_tier_876,3
+
+[struct_1059]
+param=league_task_id_873,320
+param=league_task_name_874,200 Superior Slayer Encounters
+param=league_task_description_875,Defeat 200 superior foes while on a slayer task.
+param=league_task_tier_876,3
+
+[struct_1060]
+param=league_task_id_873,321
+param=league_task_name_874,250 Superior Slayer Encounters
+param=league_task_description_875,Defeat 250 superior foes while on a slayer task.
+param=league_task_tier_876,3
+
+[struct_1061]
+param=league_task_id_873,322
+param=league_task_name_874,100 Lizardmen Shaman Kills
+param=league_task_description_875,Help the Shayzien house by killing 100 Lizardmen shamans.
+param=league_task_tier_876,2
+
+[struct_1062]
+param=league_task_id_873,323
+param=league_task_name_874,500 Lizardmen Shaman Kills
+param=league_task_description_875,Help the Shayzien house by killing 500 Lizardmen shamans.
+param=league_task_tier_876,2
+
+[struct_1063]
+param=league_task_id_873,324
+param=league_task_name_874,1000 Lizardmen Shaman Kills
+param=league_task_description_875,Help the Shayzien house by killing 1000 Lizardmen shamans.
+param=league_task_tier_876,2
+
+[struct_1064]
+param=league_task_id_873,325
+param=league_task_name_874,2500 Lizardmen Shaman Kills
+param=league_task_description_875,Help the Shayzien house by killing 2500 Lizardmen shamans.
+param=league_task_tier_876,3
+
+[struct_1065]
+param=league_task_id_873,326
+param=league_task_name_874,5000 Lizardmen Shaman Kills
+param=league_task_description_875,Help the Shayzien house by killing 5000 Lizardmen shamans.
+param=league_task_tier_876,3
+
+[struct_1066]
+param=league_task_id_873,327
+param=league_task_name_874,10000 Lizardmen Shaman Kills
+param=league_task_description_875,Help the Shayzien house by killing 10000 Lizardmen shamans.
+param=league_task_tier_876,4
+
+[struct_1067]
+param=league_task_id_873,328
+param=league_task_name_874,1 Sarachnis Kill
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon.
+param=league_task_tier_876,1
+
+[struct_1068]
+param=league_task_id_873,329
+param=league_task_name_874,25 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 25 times.
+param=league_task_tier_876,2
+
+[struct_1069]
+param=league_task_id_873,330
+param=league_task_name_874,50 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 50 times.
+param=league_task_tier_876,2
+
+[struct_1070]
+param=league_task_id_873,331
+param=league_task_name_874,75 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 75 times.
+param=league_task_tier_876,2
+
+[struct_1071]
+param=league_task_id_873,332
+param=league_task_name_874,100 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 100 times.
+param=league_task_tier_876,2
+
+[struct_1072]
+param=league_task_id_873,333
+param=league_task_name_874,250 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 250 times.
+param=league_task_tier_876,2
+
+[struct_1073]
+param=league_task_id_873,334
+param=league_task_name_874,500 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 500 times.
+param=league_task_tier_876,3
+
+[struct_1074]
+param=league_task_id_873,335
+param=league_task_name_874,1000 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 1000 times.
+param=league_task_tier_876,3
+
+[struct_1075]
+param=league_task_id_873,336
+param=league_task_name_874,1500 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 1500 times.
+param=league_task_tier_876,3
+
+[struct_1076]
+param=league_task_id_873,337
+param=league_task_name_874,2000 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 2000 times.
+param=league_task_tier_876,4
+
+[struct_1077]
+param=league_task_id_873,338
+param=league_task_name_874,2500 Sarachnis Kills
+param=league_task_description_875,Kill Sarachnis in the Forthos Dungeon 2500 times.
+param=league_task_tier_876,4
+
+[struct_1078]
+param=league_task_id_873,339
+param=league_task_name_874,1 Skotizo Kill
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend.
+param=league_task_tier_876,2
+
+[struct_1079]
+param=league_task_id_873,340
+param=league_task_name_874,10 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 10 times.
+param=league_task_tier_876,3
+
+[struct_1080]
+param=league_task_id_873,341
+param=league_task_name_874,25 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 25 times.
+param=league_task_tier_876,4
+
+[struct_1081]
+param=league_task_id_873,342
+param=league_task_name_874,50 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 50 times.
+param=league_task_tier_876,4
+
+[struct_1082]
+param=league_task_id_873,343
+param=league_task_name_874,75 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 75 times.
+param=league_task_tier_876,4
+
+[struct_1083]
+param=league_task_id_873,344
+param=league_task_name_874,100 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 100 times.
+param=league_task_tier_876,4
+
+[struct_1084]
+param=league_task_id_873,345
+param=league_task_name_874,150 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 150 times.
+param=league_task_tier_876,4
+
+[struct_1085]
+param=league_task_id_873,346
+param=league_task_name_874,200 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 200 times.
+param=league_task_tier_876,4
+
+[struct_1086]
+param=league_task_id_873,347
+param=league_task_name_874,250 Skotizo Kills
+param=league_task_description_875,Kill Skotizo beneath the Catacombs of Kourend 250 times.
+param=league_task_tier_876,4
+
+[struct_1087]
+param=league_task_id_873,348
+param=league_task_name_874,1 Alchemical Hydra Kill
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm.
+param=league_task_tier_876,2
+
+[struct_1088]
+param=league_task_id_873,349
+param=league_task_name_874,25 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 25 times.
+param=league_task_tier_876,2
+
+[struct_1089]
+param=league_task_id_873,350
+param=league_task_name_874,50 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 50 times.
+param=league_task_tier_876,2
+
+[struct_1090]
+param=league_task_id_873,351
+param=league_task_name_874,75 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 75 times.
+param=league_task_tier_876,2
+
+[struct_1091]
+param=league_task_id_873,352
+param=league_task_name_874,100 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 100 times.
+param=league_task_tier_876,2
+
+[struct_1092]
+param=league_task_id_873,353
+param=league_task_name_874,250 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 250 times.
+param=league_task_tier_876,3
+
+[struct_1093]
+param=league_task_id_873,354
+param=league_task_name_874,500 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 500 times.
+param=league_task_tier_876,3
+
+[struct_1094]
+param=league_task_id_873,355
+param=league_task_name_874,1000 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 1000 times.
+param=league_task_tier_876,3
+
+[struct_1095]
+param=league_task_id_873,356
+param=league_task_name_874,1500 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 1500 times.
+param=league_task_tier_876,3
+
+[struct_1096]
+param=league_task_id_873,357
+param=league_task_name_874,2000 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 2000 times.
+param=league_task_tier_876,4
+
+[struct_1097]
+param=league_task_id_873,358
+param=league_task_name_874,2500 Alchemical Hydra Kills
+param=league_task_description_875,Kill the Alchemical Hydra in Mount Karuulm 2500 times.
+param=league_task_tier_876,4
+
+[struct_1098]
+param=league_task_id_873,359
+param=league_task_name_874,1 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric.
+param=league_task_tier_876,3
+
+[struct_1099]
+param=league_task_id_873,360
+param=league_task_name_874,25 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 25 times.
+param=league_task_tier_876,3
+
+[struct_1100]
+param=league_task_id_873,361
+param=league_task_name_874,50 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 50 times.
+param=league_task_tier_876,3
+
+[struct_1101]
+param=league_task_id_873,362
+param=league_task_name_874,75 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 75 times.
+param=league_task_tier_876,3
+
+[struct_1102]
+param=league_task_id_873,363
+param=league_task_name_874,100 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 100 times.
+param=league_task_tier_876,3
+
+[struct_1103]
+param=league_task_id_873,364
+param=league_task_name_874,250 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 250 times.
+param=league_task_tier_876,4
+
+[struct_1104]
+param=league_task_id_873,365
+param=league_task_name_874,500 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 500 times.
+param=league_task_tier_876,4
+
+[struct_1105]
+param=league_task_id_873,366
+param=league_task_name_874,750 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 750 times.
+param=league_task_tier_876,5
+
+[struct_1106]
+param=league_task_id_873,367
+param=league_task_name_874,1000 Chambers of Xeric
+param=league_task_description_875,Complete the Chambers of Xeric 1000 times.
+param=league_task_tier_876,5
+
+[struct_1107]
+param=league_task_id_873,368
+param=league_task_name_874,1 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode.
+param=league_task_tier_876,3
+
+[struct_1108]
+param=league_task_id_873,369
+param=league_task_name_874,10 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 10 times.
+param=league_task_tier_876,3
+
+[struct_1109]
+param=league_task_id_873,370
+param=league_task_name_874,25 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 25 times.
+param=league_task_tier_876,4
+
+[struct_1110]
+param=league_task_id_873,371
+param=league_task_name_874,50 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 50 times.
+param=league_task_tier_876,4
+
+[struct_1111]
+param=league_task_id_873,372
+param=league_task_name_874,100 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 100 times.
+param=league_task_tier_876,4
+
+[struct_1112]
+param=league_task_id_873,373
+param=league_task_name_874,200 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 200 times.
+param=league_task_tier_876,5
+
+[struct_1113]
+param=league_task_id_873,374
+param=league_task_name_874,300 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 300 times.
+param=league_task_tier_876,5
+
+[struct_1114]
+param=league_task_id_873,375
+param=league_task_name_874,400 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 400 times.
+param=league_task_tier_876,5
+
+[struct_1115]
+param=league_task_id_873,376
+param=league_task_name_874,500 Chambers of Xeric Challenge Mode
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode 500 times.
+param=league_task_tier_876,5
+
+[struct_1116]
+param=league_task_id_873,377
+param=league_task_name_874,Receive 1 Chambers of Xeric Unique
+param=league_task_description_875,Receive a unique drop from completing the Chambers of Xeric.
+param=league_task_tier_876,3
+
+[struct_1117]
+param=league_task_id_873,378
+param=league_task_name_874,Receive 5 Chambers of Xeric Uniques
+param=league_task_description_875,Receive 5 unique drops from completing the Chambers of Xeric.
+param=league_task_tier_876,4
+
+[struct_1118]
+param=league_task_id_873,379
+param=league_task_name_874,Receive 10 Chambers of Xeric Uniques
+param=league_task_description_875,Receive 10 unique drops from completing the Chambers of Xeric.
+param=league_task_tier_876,4
+
+[struct_1119]
+param=league_task_id_873,380
+param=league_task_name_874,Receive 25 Chambers of Xeric Uniques
+param=league_task_description_875,Receive 25 unique drops from completing the Chambers of Xeric.
+param=league_task_tier_876,5
+
+[struct_1120]
+param=league_task_id_873,381
+param=league_task_name_874,Teleport to Xeric's Honour
+param=league_task_description_875,"Teleport to Xeric's Honour, using Xeric's talisman."
+param=league_task_tier_876,2
+
+[struct_1121]
+param=league_task_id_873,382
+param=league_task_name_874,Equip a Dragon Warhammer
+param=league_task_description_875,Obtain and equip a Dragon warhammer.
+param=league_task_tier_876,3
+
+[struct_1122]
+param=league_task_id_873,383
+param=league_task_name_874,Equip a Dragonfire Shield
+param=league_task_description_875,Obtain and equip a Dragonfire shield.
+param=league_task_tier_876,3
+
+[struct_1123]
+param=league_task_id_873,384
+param=league_task_name_874,Equip Boots of Brimstone
+param=league_task_description_875,Obtain and equip a pair of Boots of brimstone.
+param=league_task_tier_876,3
+
+[struct_1124]
+param=league_task_id_873,385
+param=league_task_name_874,Equip a Dust Battlestaff
+param=league_task_description_875,Obtain and equip a Dust battlestaff.
+param=league_task_tier_876,3
+
+[struct_1125]
+param=league_task_id_873,386
+param=league_task_name_874,Equip a Mist Battlestaff
+param=league_task_description_875,Obtain and equip a Mist battlestaff.
+param=league_task_tier_876,3
+
+[struct_1126]
+param=league_task_id_873,387
+param=league_task_name_874,Equip an Eternal Slayer Ring
+param=league_task_description_875,Craft and equip an Eternal slayer ring.
+param=league_task_tier_876,4
+
+[struct_1127]
+param=league_task_id_873,388
+param=league_task_name_874,Activate an Imbued Heart
+param=league_task_description_875,Obtain and activate an Imbued heart.
+param=league_task_tier_876,4
+
+[struct_1128]
+param=league_task_id_873,389
+param=league_task_name_874,Equip Ferocious Gloves
+param=league_task_description_875,Obtain and equip a pair of Ferocious gloves.
+param=league_task_tier_876,3
+
+[struct_1129]
+param=league_task_id_873,390
+param=league_task_name_874,Equip a Dragon Hunter Lance
+param=league_task_description_875,Obtain and equip a Dragon hunter lance.
+param=league_task_tier_876,4
+
+[struct_1130]
+param=league_task_id_873,391
+param=league_task_name_874,Equip a Brimstone Ring
+param=league_task_description_875,Obtain and equip a Brimstone ring.
+param=league_task_tier_876,2
+
+[struct_1131]
+param=league_task_id_873,392
+param=league_task_name_874,Equip a Twisted Bow
+param=league_task_description_875,Obtain and equip a Twisted bow.
+param=league_task_tier_876,5
+
+[struct_1132]
+param=league_task_id_873,393
+param=league_task_name_874,Equip an Elder Maul
+param=league_task_description_875,Obtain and equip an Elder maul.
+param=league_task_tier_876,5
+
+[struct_1133]
+param=league_task_id_873,394
+param=league_task_name_874,Equip a Kodai Wand
+param=league_task_description_875,Obtain and equip a Kodai wand.
+param=league_task_tier_876,5
+
+[struct_1134]
+param=league_task_id_873,395
+param=league_task_name_874,CM Chambers of Xeric in Target Time
+param=league_task_description_875,Complete the Chambers of Xeric Challenge Mode in the target time.
+param=league_task_tier_876,5
+
+[struct_1135]
+param=league_task_id_873,396
+param=league_task_name_874,Solo CM Chambers of Xeric in Target Time
+param=league_task_description_875,"Complete the Chambers of Xeric Challenge Mode in the target time, alone."
+param=league_task_tier_876,5
+
+[struct_1136]
+param=league_task_id_873,397
+param=league_task_name_874,30 Minutes Chambers of Xeric Solo
+param=league_task_description_875,"Complete the Chambers of Xeric in 30 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1137]
+param=league_task_id_873,398
+param=league_task_name_874,26 Minute Chambers of Xeric Solo
+param=league_task_description_875,"Complete the Chambers of Xeric in 26 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1138]
+param=league_task_id_873,399
+param=league_task_name_874,22 Minute Chambers of Xeric Solo
+param=league_task_description_875,"Complete the Chambers of Xeric in 22 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1139]
+param=league_task_id_873,400
+param=league_task_name_874,18 Minute Chambers of Xeric Solo
+param=league_task_description_875,"Complete the Chambers of Xeric in 18 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1140]
+param=league_task_id_873,401
+param=league_task_name_874,16 Minute Chambers of Xeric Solo
+param=league_task_description_875,"Complete the Chambers of Xeric in 16 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1141]
+param=league_task_id_873,402
+param=league_task_name_874,55 Minute Chambers of Xeric Challenge Mode Solo
+param=league_task_description_875,"Complete the Chambers of Xeric Challenge Mode in 55 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1142]
+param=league_task_id_873,403
+param=league_task_name_874,50 Minute Chambers of Xeric Challenge Mode Solo
+param=league_task_description_875,"Complete the Chambers of Xeric Challenge Mode in 50 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1143]
+param=league_task_id_873,404
+param=league_task_name_874,46 Minute Chambers of Xeric Challenge Mode Solo
+param=league_task_description_875,"Complete the Chambers of Xeric Challenge Mode in 46 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1144]
+param=league_task_id_873,405
+param=league_task_name_874,42 Minute Chambers of Xeric Challenge Mode Solo
+param=league_task_description_875,"Complete the Chambers of Xeric Challenge Mode in 42 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1145]
+param=league_task_id_873,406
+param=league_task_name_874,38 Minute Chambers of Xeric Challenge Mode Solo
+param=league_task_description_875,"Complete the Chambers of Xeric Challenge Mode in 38 minutes or less, alone."
+param=league_task_tier_876,5
+
+[struct_1146]
+param=league_task_id_873,407
+param=league_task_name_874,Receive All Chambers of Xeric Uniques
+param=league_task_description_875,Receive all unique drops from completing the Chambers of Xeric.
+param=league_task_tier_876,5
+
+[struct_1147]
+param=league_task_id_873,408
+param=league_task_name_874,Obtain a Boss Pet
+param=league_task_description_875,Receive any boss pet as a drop.
+param=league_task_tier_876,5
+
+[struct_1148]
+param=league_task_id_873,409
+param=league_task_name_874,Metamorphise the Olmlet
+param=league_task_description_875,"Use metamorphic dust on an Olmlet pet, to metamorphise it."
+param=league_task_tier_876,5
+
+[struct_1149]
+param=league_task_id_873,410
+param=league_task_name_874,Kourend and Kebos Easy Diary Tasks
+param=league_task_description_875,Complete all tasks in the easy tier of the Kourend and Kebos achievement diary.
+param=league_task_tier_876,1
+
+[struct_1150]
+param=league_task_id_873,411
+param=league_task_name_874,Kourend and Kebos Medium Diary Tasks
+param=league_task_description_875,Complete all tasks in the medium tier of the Kourend and Kebos achievement diary.
+param=league_task_tier_876,2
+
+[struct_1151]
+param=league_task_id_873,412
+param=league_task_name_874,Kourend and Kebos Hard Diary Tasks
+param=league_task_description_875,Complete all tasks in the hard tier of the Kourend and Kebos achievement diary.
+param=league_task_tier_876,3
+
+[struct_1152]
+param=league_task_id_873,413
+param=league_task_name_874,Kourend and Kebos Elite Diary Tasks
+param=league_task_description_875,Complete all tasks in the elite tier of the Kourend and Kebos achievement diary.
+param=league_task_tier_876,4
+
+[struct_1153]
+param=league_task_id_873,414
+param=league_task_name_874,Open 1 Grubby Chest
+param=league_task_description_875,Open the grubby chest in the Forthos Dungeon.
+param=league_task_tier_876,1
+
+[struct_1154]
+param=league_task_id_873,415
+param=league_task_name_874,Open 10 Grubby Chests
+param=league_task_description_875,Open the grubby chest in the Forthos Dungeon 10 times.
+param=league_task_tier_876,2
+
+[struct_1155]
+param=league_task_id_873,416
+param=league_task_name_874,Open 25 Grubby Chests
+param=league_task_description_875,Open the grubby chest in the Forthos Dungeon 25 times.
+param=league_task_tier_876,2
+
+[struct_1156]
+param=league_task_id_873,417
+param=league_task_name_874,Open 50 Grubby Chests
+param=league_task_description_875,Open the grubby chest in the Forthos Dungeon 50 times.
+param=league_task_tier_876,2
+
+[struct_1157]
+param=league_task_id_873,418
+param=league_task_name_874,Open 100 Grubby Chests
+param=league_task_description_875,Open the grubby chest in the Forthos Dungeon 100 times.
+param=league_task_tier_876,3
+
+[struct_1158]
+param=league_task_id_873,419
+param=league_task_name_874,Open 250 Grubby Chests
+param=league_task_description_875,Open the grubby chest in the Forthos Dungeon 250 times.
+param=league_task_tier_876,4
+
+[struct_1159]
+param=league_task_id_873,420
+param=league_task_name_874,Open 500 Grubby Chests
+param=league_task_description_875,Open the grubby chest in the Forthos Dungeon 500 times.
+param=league_task_tier_876,4
+
+[struct_1160]
+param=league_task_id_873,421
+param=league_task_name_874,Steal 1 Artefact
+param=league_task_description_875,"Steal an artefact for Captain Khaled, in Piscarilius."
+param=league_task_tier_876,1
+
+[struct_1161]
+param=league_task_id_873,422
+param=league_task_name_874,Steal 10 Artefacts
+param=league_task_description_875,"Steal 10 artefacts for Captain Khaled, in Piscarilius."
+param=league_task_tier_876,1
+
+[struct_1162]
+param=league_task_id_873,423
+param=league_task_name_874,Steal 25 Artefacts
+param=league_task_description_875,"Steal 25 artefacts for Captain Khaled, in Piscarilius."
+param=league_task_tier_876,2
+
+[struct_1163]
+param=league_task_id_873,424
+param=league_task_name_874,Steal 50 Artefacts
+param=league_task_description_875,"Steal 50 artefacts for Captain Khaled, in Piscarilius."
+param=league_task_tier_876,2
+
+[struct_1164]
+param=league_task_id_873,425
+param=league_task_name_874,Steal 100 Artefacts
+param=league_task_description_875,"Steal 100 artefacts for Captain Khaled, in Piscarilius."
+param=league_task_tier_876,2
+
+[struct_1165]
+param=league_task_id_873,426
+param=league_task_name_874,Steal 250 Artefacts
+param=league_task_description_875,"Steal 250 artefacts for Captain Khaled, in Piscarilius."
+param=league_task_tier_876,3
+
+[struct_1166]
+param=league_task_id_873,427
+param=league_task_name_874,Steal 500 Artefacts
+param=league_task_description_875,"Steal 500 artefacts for Captain Khaled, in Piscarilius."
+param=league_task_tier_876,4
+
+[struct_1167]
+param=league_task_id_873,428
+param=league_task_name_874,Turn in 1 Library Book
+param=league_task_description_875,Find and turn in a book in the Arceuus Library.
+param=league_task_tier_876,1
+
+[struct_1168]
+param=league_task_id_873,429
+param=league_task_name_874,Turn in 10 Library Books
+param=league_task_description_875,Find and turn in 10 books in the Arceuus Library.
+param=league_task_tier_876,1
+
+[struct_1169]
+param=league_task_id_873,430
+param=league_task_name_874,Turn in 25 Library Books
+param=league_task_description_875,Find and turn in 25 books in the Arceuus Library.
+param=league_task_tier_876,1
+
+[struct_1170]
+param=league_task_id_873,431
+param=league_task_name_874,Turn in 50 Library Books
+param=league_task_description_875,Find and turn in 50 books in the Arceuus Library.
+param=league_task_tier_876,1
+
+[struct_1171]
+param=league_task_id_873,432
+param=league_task_name_874,Turn in 100 Library Books
+param=league_task_description_875,Find and turn in 100 books in the Arceuus Library.
+param=league_task_tier_876,1
+
+[struct_1172]
+param=league_task_id_873,433
+param=league_task_name_874,Turn in 250 Library Books
+param=league_task_description_875,Find and turn in 250 books in the Arceuus Library.
+param=league_task_tier_876,2
+
+[struct_1173]
+param=league_task_id_873,434
+param=league_task_name_874,Turn in 500 Library Books
+param=league_task_description_875,Find and turn in 500 books in the Arceuus Library.
+param=league_task_tier_876,3
+
+[struct_1174]
+param=league_task_id_873,435
+param=league_task_name_874,1 Easy Clue Scroll
+param=league_task_description_875,Open a reward casket for completing an easy clue scroll.
+param=league_task_tier_876,1
+
+[struct_1175]
+param=league_task_id_873,436
+param=league_task_name_874,10 Easy Clue Scrolls
+param=league_task_description_875,Open 10 reward caskets for completing easy clue scrolls.
+param=league_task_tier_876,1
+
+[struct_1176]
+param=league_task_id_873,437
+param=league_task_name_874,25 Easy Clue Scrolls
+param=league_task_description_875,Open 25 reward caskets for completing easy clue scrolls.
+param=league_task_tier_876,2
+
+[struct_1177]
+param=league_task_id_873,438
+param=league_task_name_874,50 Easy Clue Scrolls
+param=league_task_description_875,Open 50 reward caskets for completing easy clue scrolls.
+param=league_task_tier_876,2
+
+[struct_1178]
+param=league_task_id_873,439
+param=league_task_name_874,100 Easy Clue Scrolls
+param=league_task_description_875,Open 100 reward caskets for completing easy clue scrolls.
+param=league_task_tier_876,2
+
+[struct_1179]
+param=league_task_id_873,440
+param=league_task_name_874,250 Easy Clue Scrolls
+param=league_task_description_875,Open 250 reward caskets for completing easy clue scrolls.
+param=league_task_tier_876,3
+
+[struct_1180]
+param=league_task_id_873,441
+param=league_task_name_874,500 Easy Clue Scrolls
+param=league_task_description_875,Open 500 reward caskets for completing easy clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1181]
+param=league_task_id_873,442
+param=league_task_name_874,1 Medium Clue Scroll
+param=league_task_description_875,Open a reward casket for completing a medium clue scroll.
+param=league_task_tier_876,1
+
+[struct_1182]
+param=league_task_id_873,443
+param=league_task_name_874,10 Medium Clue Scrolls
+param=league_task_description_875,Open 10 reward caskets for completing medium clue scrolls.
+param=league_task_tier_876,2
+
+[struct_1183]
+param=league_task_id_873,444
+param=league_task_name_874,25 Medium Clue Scrolls
+param=league_task_description_875,Open 25 reward caskets for completing medium clue scrolls.
+param=league_task_tier_876,2
+
+[struct_1184]
+param=league_task_id_873,445
+param=league_task_name_874,50 Medium Clue Scrolls
+param=league_task_description_875,Open 50 reward caskets for completing medium clue scrolls.
+param=league_task_tier_876,2
+
+[struct_1185]
+param=league_task_id_873,446
+param=league_task_name_874,100 Medium Clue Scrolls
+param=league_task_description_875,Open 100 reward caskets for completing medium clue scrolls.
+param=league_task_tier_876,3
+
+[struct_1186]
+param=league_task_id_873,447
+param=league_task_name_874,250 Medium Clue Scrolls
+param=league_task_description_875,Open 250 reward caskets for completing medium clue scrolls.
+param=league_task_tier_876,3
+
+[struct_1187]
+param=league_task_id_873,448
+param=league_task_name_874,500 Medium Clue Scrolls
+param=league_task_description_875,Open 500 reward caskets for completing medium clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1188]
+param=league_task_id_873,449
+param=league_task_name_874,1 Hard Clue Scroll
+param=league_task_description_875,Open a reward casket for completing a hard clue scroll.
+param=league_task_tier_876,2
+
+[struct_1189]
+param=league_task_id_873,450
+param=league_task_name_874,10 Hard Clue Scrolls
+param=league_task_description_875,Open 10 reward caskets for completing hard clue scrolls.
+param=league_task_tier_876,2
+
+[struct_1190]
+param=league_task_id_873,451
+param=league_task_name_874,25 Hard Clue Scrolls
+param=league_task_description_875,Open 25 reward caskets for completing hard clue scrolls.
+param=league_task_tier_876,3
+
+[struct_1191]
+param=league_task_id_873,452
+param=league_task_name_874,50 Hard Clue Scrolls
+param=league_task_description_875,Open 50 reward caskets for completing hard clue scrolls.
+param=league_task_tier_876,3
+
+[struct_1192]
+param=league_task_id_873,453
+param=league_task_name_874,100 Hard Clue Scrolls
+param=league_task_description_875,Open 100 reward caskets for completing hard clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1193]
+param=league_task_id_873,454
+param=league_task_name_874,250 Hard Clue Scrolls
+param=league_task_description_875,Open 250 reward caskets for completing hard clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1194]
+param=league_task_id_873,455
+param=league_task_name_874,500 Hard Clue Scrolls
+param=league_task_description_875,Open 500 reward caskets for completing hard clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1195]
+param=league_task_id_873,456
+param=league_task_name_874,1 Elite Clue Scroll
+param=league_task_description_875,Open a reward casket for completing an elite clue scroll.
+param=league_task_tier_876,2
+
+[struct_1196]
+param=league_task_id_873,457
+param=league_task_name_874,10 Elite Clue Scrolls
+param=league_task_description_875,Open 10 reward caskets for completing elite clue scrolls.
+param=league_task_tier_876,3
+
+[struct_1197]
+param=league_task_id_873,458
+param=league_task_name_874,25 Elite Clue Scrolls
+param=league_task_description_875,Open 25 reward caskets for completing elite clue scrolls.
+param=league_task_tier_876,3
+
+[struct_1198]
+param=league_task_id_873,459
+param=league_task_name_874,50 Elite Clue Scrolls
+param=league_task_description_875,Open 50 reward caskets for completing elite clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1199]
+param=league_task_id_873,460
+param=league_task_name_874,100 Elite Clue Scrolls
+param=league_task_description_875,Open 100 reward caskets for completing elite clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1200]
+param=league_task_id_873,461
+param=league_task_name_874,250 Elite Clue Scrolls
+param=league_task_description_875,Open 250 reward caskets for completing elite clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1201]
+param=league_task_id_873,462
+param=league_task_name_874,500 Elite Clue Scrolls
+param=league_task_description_875,Open 500 reward caskets for completing elite clue scrolls.
+param=league_task_tier_876,5
+
+[struct_1202]
+param=league_task_id_873,463
+param=league_task_name_874,1 Master Clue Scroll
+param=league_task_description_875,Open a reward casket for completing a master clue scroll.
+param=league_task_tier_876,3
+
+[struct_1203]
+param=league_task_id_873,464
+param=league_task_name_874,10 Master Clue Scrolls
+param=league_task_description_875,Open 10 reward caskets for completing master clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1204]
+param=league_task_id_873,465
+param=league_task_name_874,25 Master Clue Scrolls
+param=league_task_description_875,Open 25 reward caskets for completing master clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1205]
+param=league_task_id_873,466
+param=league_task_name_874,50 Master Clue Scrolls
+param=league_task_description_875,Open 50 reward caskets for completing master clue scrolls.
+param=league_task_tier_876,4
+
+[struct_1206]
+param=league_task_id_873,467
+param=league_task_name_874,100 Master Clue Scrolls
+param=league_task_description_875,Open 100 reward caskets for completing master clue scrolls.
+param=league_task_tier_876,5
+
+[struct_1207]
+param=league_task_id_873,468
+param=league_task_name_874,250 Master Clue Scrolls
+param=league_task_description_875,Open 250 reward caskets for completing master clue scrolls.
+param=league_task_tier_876,5
+
+[struct_1208]
+param=league_task_id_873,469
+param=league_task_name_874,500 Master Clue Scrolls
+param=league_task_description_875,Open 500 reward caskets for completing master clue scrolls.
+param=league_task_tier_876,5
+
+[struct_1209]
+param=league_task_id_873,470
+param=league_task_name_874,1 Mimic Kill
+param=league_task_description_875,Kill the Mimic as part of a treasure trail.
+param=league_task_tier_876,3
+
+[struct_1210]
+param=league_task_id_873,471
+param=league_task_name_874,5 Mimic Kills
+param=league_task_description_875,Kill the Mimic as part of a treasure trail 5 times.
+param=league_task_tier_876,3
+
+[struct_1211]
+param=league_task_id_873,472
+param=league_task_name_874,25 Mimic Kills
+param=league_task_description_875,Kill the Mimic as part of a treasure trail 25 times.
+param=league_task_tier_876,4
+
+[struct_1212]
+param=league_task_id_873,473
+param=league_task_name_874,50 Mimic Kills
+param=league_task_description_875,Kill the Mimic as part of a treasure trail 50 times.
+param=league_task_tier_876,4
+
+[struct_1213]
+param=league_task_id_873,474
+param=league_task_name_874,100 Mimic Kills
+param=league_task_description_875,Kill the Mimic as part of a treasure trail 100 times.
+param=league_task_tier_876,5
+
+[struct_1214]
+param=league_task_id_873,475
+param=league_task_name_874,Enter Level 3 of the Chasm of Fire
+param=league_task_description_875,Enter the 3rd level of the Chasm of Fire in Shayzien.
+param=league_task_tier_876,1
+
+[struct_1215]
+param=league_task_id_873,476
+param=league_task_name_874,Receive a Konar Slayer Task
+param=league_task_description_875,Have a slayer task assigned by Konar.
+param=league_task_tier_876,1
+
+[struct_1216]
+param=league_task_id_873,477
+param=league_task_name_874,Bank at Land's End
+param=league_task_description_875,Open your bank using the bank at Land's End.
+param=league_task_tier_876,1
+
+[struct_1217]
+param=league_task_id_873,478
+param=league_task_name_874,Bank at Mount Quidamortem
+param=league_task_description_875,Open your bank using the bank at Mount Quidamortem.
+param=league_task_tier_876,1
+
+[struct_1218]
+param=league_task_id_873,479
+param=league_task_name_874,Travel to Molch Island
+param=league_task_description_875,Take one of the boats around Lake Molch to Molch Island.
+param=league_task_tier_876,1
+
+[struct_1219]
+param=league_task_id_873,480
+param=league_task_name_874,Equip Tier 5 Shayzien Armour
+param=league_task_description_875,Equip a full set of tier 5 Shayzien armour.
+param=league_task_tier_876,1
+
+[struct_1220]
+param=league_task_id_873,481
+param=league_task_name_874,Unlock All Catacombs Entrances
+param=league_task_description_875,"Unlock all entrances to the Catacombs of Kourend, around the kingdom."
+param=league_task_tier_876,1
+
+[struct_1221]
+param=league_task_id_873,482
+param=league_task_name_874,Equip Xeric's Talisman
+param=league_task_description_875,Obtain and equip Xeric's talisman.
+param=league_task_tier_876,2
+
+[struct_1222]
+param=league_task_id_873,483
+param=league_task_name_874,Cast Kourend Castle Teleport
+param=league_task_description_875,Cast the spell Kourend Castle Teleport after unlocking it by reading transportation incantations.
+param=league_task_tier_876,2
+
+[struct_1223]
+param=league_task_id_873,484
+param=league_task_name_874,Obtain the Temple Key
+param=league_task_description_875,Obtain the Temple key in the Forthos Dungeon.
+param=league_task_tier_876,2
+
+[struct_1224]
+param=league_task_id_873,485
+param=league_task_name_874,Purchase Gricoller's Can
+param=league_task_description_875,Purchase Gricoller's can from the Tithe Farm minigame.
+param=league_task_tier_876,2
+
+[struct_1225]
+param=league_task_id_873,486
+param=league_task_name_874,Purchase a Seed Box
+param=league_task_description_875,Purchase a Seed box from the Tithe Farm minigame.
+param=league_task_tier_876,2
+
+[struct_1226]
+param=league_task_id_873,487
+param=league_task_name_874,Equip the Farmer's Outfit
+param=league_task_description_875,"Equip a full set of the farmer's outfit, purchased from the Tithe Farm minigame."
+param=league_task_tier_876,3
+
+[struct_1227]
+param=league_task_id_873,488
+param=league_task_name_874,Equip the Angler's Outfit
+param=league_task_description_875,"Equip a full set of the angler's outfit, purchased from Alry on Molch Island."
+param=league_task_tier_876,3
+
+[struct_1228]
+param=league_task_id_873,489
+param=league_task_name_874,Equip the Pyromancer's Garb
+param=league_task_description_875,"Equip a full set of pyromancer's garb, rewarded from the Wintertodt."
+param=league_task_tier_876,3
+
+[struct_1229]
+param=league_task_id_873,490
+param=league_task_name_874,Equip a Pearl Fishing Rod
+param=league_task_description_875,"Equip a Pearl fishing rod, purchased from Alry on Molch Island."
+param=league_task_tier_876,2
+
+[struct_1230]
+param=league_task_id_873,491
+param=league_task_name_874,Equip a Pearl Barbarian Rod
+param=league_task_description_875,"Equip a Pearl barbarian rod, purchased from Alry on Molch Island."
+param=league_task_tier_876,2
+
+[struct_1231]
+param=league_task_id_873,492
+param=league_task_name_874,Equip a Fish Sack
+param=league_task_description_875,"Equip a Fish sack, purchased from Alry on Molch Island."
+param=league_task_tier_876,4
+
+[struct_1232]
+param=league_task_id_873,493
+param=league_task_name_874,Equip a Golden Tench
+param=league_task_description_875,"Equip a Golden tench, caught by aerial fishing on Molch Island."
+param=league_task_tier_876,5
+
+[struct_1233]
+param=league_task_id_873,494
+param=league_task_name_874,Obtain a Skilling Pet
+param=league_task_description_875,Obtain any of the available skilling pets.
+param=league_task_tier_876,5
+
+[struct_1234]
+param=param_877,0
+param=param_878,enum_2735
+
+[struct_1235]
+param=param_877,400
+param=param_878,enum_2736
+
+[struct_1236]
+param=param_877,1200
+param=param_878,enum_2737
+
+[struct_1237]
+param=param_877,2500
+param=param_878,enum_2738
+
+[struct_1238]
+param=param_877,5000
+param=param_878,enum_2739
+
+[struct_1239]
+param=param_886,enum_2727
+param=param_887,enum_2728
+
