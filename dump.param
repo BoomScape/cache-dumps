@@ -2598,3 +2598,10 @@ default=1
 [param_1602]
 type=boolean
 
+[param_1608]
+type=boolean
+
+[param_1609]
+type=npc
+default=null
+

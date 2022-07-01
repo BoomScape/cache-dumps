@@ -2581,7 +2581,7 @@ framecount=17
 looptype=1
 framegroup1=884
 
-[speartrap_459]
+[trap_459]
 framecount=13
 looptype=1
 framegroup1=881
@@ -11807,6 +11807,8 @@ framegroup1=581
 
 [seq_1946]
 framecount=10
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=581
 
@@ -11817,11 +11819,15 @@ framegroup1=581
 
 [seq_1948]
 framecount=16
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=581
 
 [seq_1949]
 framecount=17
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=581
 
@@ -12088,20 +12094,21 @@ framecount=7
 looptype=1
 framegroup1=680
 
-[seq_1998]
+[wall_1998]
 framecount=7
 looptype=1
 framegroup1=680
 
-[doorway_1999]
+[seq_1999]
 framecount=6
 replayoff=1
+priority=10
 looptype=1
 framegroup1=681
 
 [seq_2000]
 framecount=6
-replayoff=1
+priority=8
 looptype=1
 framegroup1=681
 
@@ -16652,7 +16659,8 @@ looptype=1
 framegroup1=213
 
 [seq_2755]
-framecount=8
+framecount=9
+replayoff=1
 looptype=1
 framegroup1=1425
 
@@ -16665,7 +16673,7 @@ looptype=1
 framegroup1=213
 
 [seq_2757]
-framecount=8
+framecount=9
 looptype=1
 framegroup1=1425
 
@@ -28460,13 +28468,13 @@ framecount=14
 looptype=1
 framegroup1=1229
 
-[slave_ready_4709]
+[citizen_ready_4709]
 framecount=51
 replayoff=51
 looptype=1
 framegroup1=1234
 
-[seq_4710]
+[citizen_walk_4710]
 framecount=29
 replayoff=29
 looptype=1
@@ -39926,7 +39934,7 @@ framecount=60
 looptype=1
 framegroup1=1683
 
-[fire_6645]
+[furnace_6645]
 framecount=13
 replayoff=13
 looptype=1
@@ -55935,7 +55943,7 @@ framecount=4
 looptype=1
 framegroup1=2696
 
-[seq_9056]
+[head_menaphite_guard_ready_9056]
 framecount=1
 replayoff=1
 priority=4
@@ -56551,6 +56559,8 @@ framecount=12
 priority=6
 mainhand=0
 offhand=0
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=233
 
@@ -56559,6 +56569,8 @@ framecount=9
 priority=6
 mainhand=0
 offhand=0
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=2024
 
@@ -58355,4 +58367,173 @@ looptype=1
 framegroup1=2906
 soundeffect2=5546,1,5
 soundeffect9=5519,1,5
+
+[seq_9415]
+framecount=11
+replayoff=11
+priority=4
+looptype=1
+framegroup1=2673
+
+[seq_9416]
+framecount=13
+looptype=1
+framegroup1=992
+
+[seq_9417]
+framecount=12
+stretches=yes
+mainhand=0
+offhand=0
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=298
+
+[scabaras_ready_9418]
+framecount=0
+looptype=1
+skeletal=2911,2
+skeletalrange=0,360
+
+[seq_9419]
+framecount=0
+looptype=1
+skeletal=2911,3
+skeletalrange=0,90
+
+[seq_9420]
+framecount=0
+looptype=1
+skeletal=2911,0
+skeletalrange=0,270
+
+[scabaras_walk_9421]
+framecount=0
+looptype=1
+skeletal=2911,1
+skeletalrange=0,90
+
+[seq_9422]
+framecount=9
+exactmove=2
+movetype=2
+looptype=1
+framegroup1=700
+
+[seq_9423]
+framecount=16
+looptype=1
+framegroup1=2908
+
+[seq_9424]
+framecount=8
+looptype=1
+framegroup1=2908
+
+[menaphite_akh_walk_9425]
+framecount=24
+looptype=1
+framegroup1=2908
+framegroup2=207
+
+[menaphite_akh_ready_9426]
+framecount=11
+replayoff=11
+priority=4
+looptype=1
+framegroup1=2673
+soundeffect2=5599,1,12
+
+[seq_9427]
+framecount=10
+stretches=yes
+priority=6
+looptype=1
+framegroup1=2910
+
+[seq_9428]
+framecount=9
+priority=6
+looptype=1
+framegroup1=2909
+
+[seq_9429]
+framecount=46
+priority=6
+looptype=1
+framegroup1=2753
+
+[shadow_rift_ready_9430]
+framecount=28
+replayoff=28
+priority=4
+looptype=1
+framegroup1=2754
+
+[seq_9431]
+framecount=16
+replayoff=1
+priority=10
+looptype=1
+framegroup1=2752
+
+[menaphite_akh_ready_9432]
+framecount=1
+looptype=1
+framegroup1=1425
+
+[seq_9433]
+framecount=24
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=2693
+
+[seq_9434]
+framecount=30
+replayoff=6
+mainhand=0
+offhand=0
+replaycount=255
+looptype=1
+framegroup1=2693
+
+[head_menaphite_guard_ready_9435]
+framecount=6
+replayoff=6
+priority=4
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=2693
+
+[door_9436]
+framecount=1
+replayoff=1
+priority=4
+looptype=1
+framegroup1=681
+
+[seq_9437]
+framecount=27
+looptype=1
+framegroup1=866
+
+[head_menaphite_guard_ready_9438]
+framecount=1
+replayoff=1
+priority=10
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=207
+
+[seq_9439]
+framecount=11
+priority=10
+exactmove=2
+movetype=2
+looptype=1
+framegroup1=198
 

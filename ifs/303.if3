@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2099(19857408,19857410,19857412,19857413,19857416,19857418,19857426,19857420,19857421,19857417,19857414,19857415,19857419,19857424,19857425,19857422,19857423,19857411)"
+onload="script2099(19857408,19857410,19857412,19857413,19857416,19857418,19857427,19857420,19857421,19857422,19857417,19857414,19857415,19857419,19857425,19857426,19857423,19857424,19857411)"
 
 [interface_303:1]
 type=^iftype_layer
@@ -138,19 +138,20 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_303:10
-colour=0xcc00
+colour=0x9500
 fill=yes
 trans=255
 
 [interface_303:14]
 type=^iftype_rectangle
-x=1
-width=2
+x=2
+width=4
 height=4
 vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_303:10
-colour=0x191511
+colour=0xcc00
 fill=yes
 trans=255
 
@@ -161,13 +162,25 @@ width=2
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-hide=yes
 layer=interface_303:10
 colour=0x191511
 fill=yes
 trans=255
 
 [interface_303:16]
+type=^iftype_rectangle
+x=1
+width=2
+height=4
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_303:10
+colour=0x191511
+fill=yes
+trans=255
+
+[interface_303:17]
 type=^iftype_graphic
 width=3
 height=4
@@ -178,7 +191,7 @@ layer=interface_303:10
 graphic="hud_brackets,0"
 trans=255
 
-[interface_303:17]
+[interface_303:18]
 type=^iftype_graphic
 width=3
 height=4
@@ -190,7 +203,7 @@ layer=interface_303:10
 graphic="hud_brackets,1"
 trans=255
 
-[interface_303:18]
+[interface_303:19]
 type=^iftype_text
 y=1
 hposmode=^setpos_abs_centre

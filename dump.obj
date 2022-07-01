@@ -27102,11 +27102,13 @@ placeholder=yes
 [bronze_key_2418]
 name=Bronze key
 model=shiny_key_2372
+cost=30
 2dzoom=700
 2dxof=-3
 2dyof=5
 2dxan=328
 2dyan=20
+iop5=Destroy
 recol1s=8128
 recol1d=5652
 placeholder=yes
@@ -27114,11 +27116,15 @@ placeholder=yes
 [wig_2419]
 name=Wig
 model=wig_2783
+cost=30
 2dzoom=630
 2dxof=3
 2dyof=16
 2dxan=320
 2dyan=120
+iop5=Destroy
+recol1s=10050
+recol1d=7869
 placeholder=yes
 
 [buchu_seed_5_2420]
@@ -27135,11 +27141,13 @@ stackable=yes
 [wig_2421]
 name=Wig
 model=wig_2783
+cost=30
 2dzoom=630
 2dxof=3
 2dyof=16
 2dxan=320
 2dyan=120
+iop5=Destroy
 recol1s=10050
 recol1d=10326
 placeholder=yes
@@ -27163,22 +27171,25 @@ recol1d=-21568
 [key_print_2423]
 name=Key print
 model=key_print_2389
+cost=30
 2dzoom=900
 2dyof=-9
 2dxan=268
 2dyan=1988
+iop5=Destroy
 placeholder=yes
 
 [paste_2424]
 name=Paste
 model=blamish_snail_slime_2705
-cost=5
+cost=30
 2dzoom=760
 2dyof=-2
 2dxan=124
 2dyan=1920
+iop5=Destroy
 recol1s=61
-recol1d=3550
+recol1d=3511
 placeholder=yes
 
 [vorkaths_head_2425]
@@ -55174,6 +55185,7 @@ placeholder=yes
 name=Canopic jar
 model=canopic_jar_6445
 category=category_89
+cost=50
 2dzoom=1210
 2dyof=-6
 2dxan=136
@@ -55184,6 +55196,7 @@ members=yes
 name=Canopic jar
 model=canopic_jar_6443
 category=category_89
+cost=50
 2dzoom=1210
 2dyof=-6
 2dxan=136
@@ -55194,6 +55207,7 @@ members=yes
 name=Canopic jar
 model=canopic_jar_6446
 category=category_89
+cost=50
 2dzoom=1210
 2dyof=-6
 2dxan=136
@@ -55204,6 +55218,7 @@ members=yes
 name=Canopic jar
 model=canopic_jar_6444
 category=category_89
+cost=50
 2dzoom=1210
 2dyof=-6
 2dxan=136
@@ -55213,6 +55228,7 @@ members=yes
 [holy_symbol_4682]
 name=Holy symbol
 model=holy_symbol_6441
+cost=50
 2dzoom=460
 2dxof=3
 2dyof=4
@@ -55223,6 +55239,7 @@ members=yes
 [unholy_symbol_4683]
 name=Unholy symbol
 model=unholy_symbol_6442
+cost=50
 2dzoom=430
 2dyof=-3
 2dxan=424
@@ -55328,8 +55345,8 @@ recol1d=11072
 members=yes
 placeholder=yes
 
-[full_bucket_4693]
-name=Full bucket
+[bucket_of_saltwater_4693]
+name=Bucket of saltwater
 model=bucket_of_wax_2504
 cost=6
 2dzoom=1020
@@ -107800,112 +107817,117 @@ placeholder=yes
 [cert_stone_seal_9043]
 certificate=yes
 
-[pharaohs_sceptre_3_9044]
-name=Pharaoh's sceptre (3)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_9044]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-stockmarket=yes
-certificate=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
 
-[cert_pharaohs_sceptre_3_9045]
-certificate=yes
-
-[pharaohs_sceptre_2_9046]
-name=Pharaoh's sceptre (2)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_9045]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_15
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
 members=yes
-certificate=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
+stackable=yes
 
-[cert_pharaohs_sceptre_2_9047]
-certificate=yes
-
-[pharaohs_sceptre_1_9048]
-name=Pharaoh's sceptre (1)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_9046]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-certificate=yes
-placeholder=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
 
-[cert_pharaohs_sceptre_1_9049]
-certificate=yes
+[pharaohs_sceptre_9047]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_15
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+members=yes
+stackable=yes
+
+[pharaohs_sceptre_9048]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+iop1=Convert
+members=yes
+
+[pharaohs_sceptre_9049]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_15
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+members=yes
+stackable=yes
 
 [pharaohs_sceptre_9050]
 name=Pharaoh's sceptre
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-ambient=-25
-stockmarket=yes
-certificate=yes
-placeholder=yes
-param=param_451,Teleport
-param=param_148,1
 
-[cert_pharaohs_sceptre_9051]
-certificate=yes
+[pharaohs_sceptre_9051]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_15
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+members=yes
+stackable=yes
 
 [locust_meat_9052]
 name=Locust meat
@@ -160352,116 +160374,75 @@ iop2=Wear
 members=yes
 placeholder=yes
 
-[pharaohs_sceptre_8_13074]
-name=Pharaoh's sceptre (8)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_13074]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-placeholder=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
 
-[pharaohs_sceptre_7_13075]
-name=Pharaoh's sceptre (7)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_13075]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
 
-[pharaohs_sceptre_6_13076]
-name=Pharaoh's sceptre (6)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_13076]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
 
-[pharaohs_sceptre_5_13077]
-name=Pharaoh's sceptre (5)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_13077]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
 
-[pharaohs_sceptre_4_13078]
-name=Pharaoh's sceptre (4)
-model=pharaohs_sceptre_3_16379
-manwear=pharaohs_sceptre_3_16348,0
-womanwear=pharaohs_sceptre_3_39613,0
-category=category_92
-cost=83334
+[pharaohs_sceptre_13078]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+cost=100
 2dzoom=1744
 2dxof=-1
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Wield
-iop2=Jalsavrah
-iop3=Jaleustrophos
-iop4=Jaldraocht
+iop1=Convert
 members=yes
-param=param_451,Jalsavrah
-param=param_452,Jaleustrophos
-param=param_453,Jaldraocht
-param=param_148,1
 
 [enchanted_lyre_5_13079]
 name=Enchanted lyre(5)
@@ -176716,8 +176697,19 @@ placeholder=yes
 [placeholder_stone_seal_16175]
 placeholder=yes
 
-[placeholder_pharaohs_sceptre_8_16176]
-placeholder=yes
+[pharaohs_sceptre_16176]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_15
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+members=yes
+stackable=yes
 
 [placeholder_locust_meat_16177]
 placeholder=yes
@@ -179284,7 +179276,7 @@ placeholder=yes
 [placeholder_gold_leaf_17008]
 placeholder=yes
 
-[placeholder_full_bucket_17009]
+[placeholder_bucket_of_saltwater_17009]
 placeholder=yes
 
 [placeholder_silver_necklace_17010]
@@ -208408,11 +208400,33 @@ placeholder=yes
 [placeholder_amulet_of_glory_t1_21444]
 placeholder=yes
 
-[placeholder_pharaohs_sceptre_1_21445]
-placeholder=yes
+[pharaohs_sceptre_21445]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_15
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+members=yes
+stackable=yes
 
-[placeholder_pharaohs_sceptre_21446]
-placeholder=yes
+[pharaohs_sceptre_21446]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_15
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+members=yes
+stackable=yes
 
 [placeholder_castle_wars_bracelet_1_21447]
 placeholder=yes
@@ -255312,16 +255326,16 @@ recol1d=-2608
 
 [keris_partisan_25979]
 name=Keris partisan
-model=keris_partisan_42879
-manwear=keris_partisan_42875,0
-womanwear=keris_partisan_42875,6
+model=keris_partisan_44613
+manwear=keris_partisan_44195,0
+womanwear=keris_partisan_44187,0
 category=category_1588
-cost=1000000
-2dzoom=1490
-2dxof=7
-2dyof=-4
-2dxan=1960
-2dyan=112
+cost=60000
+2dzoom=1600
+2dxof=2
+2dyof=18
+2dxan=326
+2dyan=40
 iop2=Wield
 members=yes
 placeholder=yes
@@ -255331,9 +255345,9 @@ placeholder=yes
 
 [keris_partisan_of_breaching_25981]
 name=Keris partisan of breaching
-model=keris_partisan_42879
-manwear=keris_partisan_42875,0
-womanwear=keris_partisan_42875,6
+model=keris_partisan_of_breaching_42879
+manwear=keris_partisan_of_breaching_42875,0
+womanwear=keris_partisan_of_breaching_42875,6
 category=category_1588
 cost=1000000
 2dzoom=1490
@@ -266918,4 +266932,457 @@ cost=30
 iop1=Read
 iop5=Destroy
 members=yes
+
+[clue_scroll_elite_26943]
+name=Clue scroll (elite)
+model=clue_scroll_elite_37167
+category=category_750
+cost=20
+2dzoom=1010
+2dxof=1
+2dxan=360
+2dyan=672
+iop1=Read
+iop2=Check steps
+members=yes
+
+[clue_scroll_elite_26944]
+name=Clue scroll (elite)
+model=clue_scroll_elite_37167
+category=category_750
+cost=20
+2dzoom=1010
+2dxof=1
+2dxan=360
+2dyan=672
+iop1=Read
+iop2=Check steps
+members=yes
+
+[pharaohs_sceptre_uncharged_26945]
+name=Pharaoh's sceptre (uncharged)
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_92
+cost=83334
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+iop1=Wield
+iop4=Check
+members=yes
+ambient=-25
+stockmarket=yes
+certificate=yes
+placeholder=yes
+param=param_148,1
+
+[cert_pharaohs_sceptre_uncharged_26946]
+certificate=yes
+
+[placeholder_pharaohs_sceptre_uncharged_26947]
+placeholder=yes
+
+[pharaohs_sceptre_26948]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_92
+cost=83334
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+iop1=Wield
+iop2=Teleport
+iop3=Last-Teleport
+iop4=Check
+iop5=Uncharge
+members=yes
+ambient=-25
+placeholder=yes
+param=param_148,1
+param=param_451,Jalsavrah
+param=param_452,Jaleustrophos
+param=param_453,Jaldraocht
+param=param_454,Jaltevas
+param=param_455,Check
+
+[placeholder_pharaohs_sceptre_26949]
+placeholder=yes
+
+[pharaohs_sceptre_26950]
+name=Pharaoh's sceptre
+model=pharaohs_sceptre_16379
+manwear=pharaohs_sceptre_16348,0
+womanwear=pharaohs_sceptre_39613,0
+category=category_92
+cost=83334
+2dzoom=1744
+2dxof=-1
+2dyof=46
+2dxan=285
+2dyan=1508
+iop1=Wield
+iop2=Teleport
+iop3=Last-Teleport
+iop4=Check
+iop5=Uncharge
+members=yes
+ambient=-25
+placeholder=yes
+param=param_148,1
+param=param_451,Jalsavrah
+param=param_452,Jaleustrophos
+param=param_453,Jaldraocht
+param=param_454,Jaltevas
+param=param_455,Check
+
+[placeholder_pharaohs_sceptre_26951]
+placeholder=yes
+
+[scarab_mould_26952]
+name=Scarab mould
+model=scarab_mould_44769
+cost=30
+2dzoom=2156
+2dxof=-5
+2dyof=11
+2dxan=349
+2dyan=93
+iop5=Destroy
+members=yes
+
+[scarab_emblem_26953]
+name=Scarab emblem
+model=scarab_emblem_44767
+cost=30
+2dzoom=1104
+2dxof=-1
+2dyof=1
+2dxan=518
+iop5=Destroy
+members=yes
+
+[stone_tablet_26954]
+name=Stone tablet
+model=stone_tablet_2627
+cost=30
+2dzoom=1370
+2dyof=-16
+2dxan=180
+2dyan=1888
+iop1=Read
+iop5=Destroy
+recol1s=47
+recol1d=5268
+recol2s=35
+recol2d=10760
+members=yes
+
+[chest_26955]
+name=Chest
+model=casket_14976
+cost=30
+2dzoom=720
+2dxan=135
+2dyan=1640
+iop1=Open
+iop5=Destroy
+members=yes
+
+[scarab_emblem_26956]
+name=Scarab emblem
+model=scarab_emblem_44766
+category=category_1626
+cost=30
+2dzoom=1414
+2dxof=-1
+2dxan=424
+iop5=Destroy
+members=yes
+
+[human_emblem_26957]
+name=Human emblem
+model=human_emblem_44764
+category=category_1626
+cost=30
+2dzoom=1414
+2dxof=-1
+2dxan=424
+iop5=Destroy
+members=yes
+
+[baboon_emblem_26958]
+name=Baboon emblem
+model=baboon_emblem_44762
+category=category_1626
+cost=30
+2dzoom=1414
+2dxof=-1
+2dxan=424
+iop5=Destroy
+members=yes
+
+[crocodile_emblem_26959]
+name=Crocodile emblem
+model=crocodile_emblem_44768
+category=category_1626
+cost=30
+2dzoom=1414
+2dxof=-1
+2dxan=424
+iop5=Destroy
+members=yes
+
+[rusty_key_26960]
+name=Rusty key
+model=shiny_key_2372
+cost=30
+2dzoom=700
+2dxof=-3
+2dyof=5
+2dxan=328
+2dyan=20
+iop5=Destroy
+recol1s=8128
+recol1d=2731
+members=yes
+
+[lily_of_the_elid_26961]
+name=Lily of the elid
+model=lily_of_the_elid_44770
+cost=30
+2dzoom=1488
+2dxof=2
+2dyof=-87
+2dxan=239
+2dyan=55
+iop5=Destroy
+members=yes
+ambient=20
+contrast=20
+
+[cure_crate_26962]
+name=Cure crate
+model=bounty_crate_3815
+cost=30
+2dzoom=2400
+2dyof=12
+2dxan=94
+2dyan=148
+iop5=Destroy
+members=yes
+ambient=10
+contrast=10
+
+[odd_spectacles_26963]
+name=Odd spectacles
+model=odd_spectacles_44763
+manwear=odd_spectacles_44180,0
+womanwear=odd_spectacles_20830,0
+manhead=odd_spectacles_20828
+femalehead=odd_spectacles_20828
+cost=30
+2dzoom=975
+2dxof=6
+2dyof=-10
+2dxan=188
+2dyan=1429
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_odd_spectacles_26964]
+placeholder=yes
+
+[bottle_of_tonic_26965]
+name=Bottle of 'tonic'
+model=bottle_of_tonic_44765
+cost=30
+2dzoom=970
+2dyof=13
+2dxan=104
+2dyan=1888
+members=yes
+placeholder=yes
+
+[placeholder_bottle_of_tonic_26966]
+placeholder=yes
+
+[circlet_of_water_uncharged_26967]
+name=Circlet of water (uncharged)
+model=catalytic_tiara_43978
+manwear=catalytic_tiara_43892,0
+womanwear=catalytic_tiara_43900,0
+manhead=catalytic_tiara_44077
+femalehead=catalytic_tiara_44077
+category=category_1627
+cost=10000
+2dzoom=526
+2dyof=-34
+2dxan=236
+2dyan=148
+iop2=Wear
+iop4=Charge
+recol1s=7106
+recol1d=-32556
+recol2s=7128
+recol2d=-32671
+recol3s=6067
+recol3d=-32570
+recol4s=125
+recol4d=-30277
+members=yes
+placeholder=yes
+
+[placeholder_circlet_of_water_uncharged_26968]
+placeholder=yes
+
+[circlet_of_water_26969]
+name=Circlet of water
+model=catalytic_tiara_43978
+manwear=catalytic_tiara_43892,0
+womanwear=catalytic_tiara_43900,0
+manhead=catalytic_tiara_44077
+femalehead=catalytic_tiara_44077
+category=category_1627
+cost=10000
+2dzoom=526
+2dyof=-34
+2dxan=236
+2dyan=148
+iop2=Wear
+iop3=Check
+iop4=Charge
+iop5=Uncharge
+recol1s=7106
+recol1d=-32556
+recol2s=7128
+recol2d=-32671
+recol3s=6067
+recol3d=-32570
+recol4s=125
+recol4d=-30277
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_circlet_of_water_26970]
+placeholder=yes
+
+[cabbage_26971]
+name=Cabbage
+model=cabbage_8195
+2dzoom=1730
+2dxof=1
+2dyof=27
+2dxan=284
+2dyan=1800
+stackable=yes
+bought=yes
+
+[bought_cabbage_26972]
+bought=yes
+
+[cabbage_26973]
+name=Cabbage
+model=cabbage_8195
+2dzoom=1730
+2dxof=1
+2dyof=27
+2dxan=284
+2dyan=1800
+stackable=yes
+bought=yes
+
+[bought_cabbage_26974]
+bought=yes
+
+[cabbage_26975]
+name=Cabbage
+model=cabbage_8195
+2dzoom=1730
+2dxof=1
+2dyof=27
+2dxan=284
+2dyan=1800
+stackable=yes
+bought=yes
+
+[bought_cabbage_26976]
+bought=yes
+
+[cabbage_26977]
+name=Cabbage
+model=cabbage_8195
+2dzoom=1730
+2dxof=1
+2dyof=27
+2dxan=284
+2dyan=1800
+stackable=yes
+bought=yes
+
+[bought_cabbage_26978]
+bought=yes
+
+[cabbage_26979]
+name=Cabbage
+model=cabbage_8195
+2dzoom=1730
+2dxof=1
+2dyof=27
+2dxan=284
+2dyan=1800
+stackable=yes
+bought=yes
+
+[bought_cabbage_26980]
+bought=yes
+
+[lion_helm_26981]
+name=Lion helm
+model=veracs_helm_6597
+manwear=lion_helm_44178,0
+womanwear=lion_helm_44186,0
+manhead=veracs_helm_6573
+femalehead=veracs_helm_6573
+category=category_2
+cost=103000
+2dzoom=810
+2dxof=5
+2dyof=1
+2dxan=28
+2dyan=208
+iop2=Wear
+iop3=Check
+recol1s=10411
+recol1d=10388
+recol2s=10403
+recol2d=10512
+recol3s=10394
+recol3d=10508
+recol4s=10518
+recol4d=10760
+recol5s=10514
+recol5d=11140
+recol6s=10638
+recol6d=11138
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+param=param_451,Check
+
+[cert_lion_helm_26982]
+certificate=yes
+
+[placeholder_lion_helm_26983]
+placeholder=yes
 

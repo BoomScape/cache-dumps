@@ -440,3 +440,11 @@ colour=32
 repeat=yes
 graphic="graphic_4377"
 
+[texture_96]
+colour=9404
+graphic="graphic_1635"
+
+[texture_97]
+colour=9404
+graphic="graphic_3592"
+

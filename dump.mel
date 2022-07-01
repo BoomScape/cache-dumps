@@ -1376,6 +1376,7 @@ category=1129
 [mapelement_235]
 text=Ruins of<br>Uzer
 colour=^white
+size=1
 mapfunction=no
 category=1129
 
@@ -1489,6 +1490,7 @@ category=1129
 [mapelement_253]
 text=Nardah
 colour=^white
+size=1
 mapfunction=no
 category=1129
 
@@ -4981,6 +4983,24 @@ vis=^mapelement_vis_both
 category=1056
 
 [mapelement_854]
+graphic="mapfunction,6"
+vis=^mapelement_vis_both
+category=1056
+
+[mapelement_855]
+text=Ruins of<br>Ullek
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_856]
+text=Necropolis
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_857]
 graphic="mapfunction,6"
 vis=^mapelement_vis_both
 category=1056

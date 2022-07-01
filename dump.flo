@@ -17,6 +17,7 @@ texture=texture_3
 [flo_5]
 colour=^black
 texture=texture_1
+mapcolour=0x687daa
 
 [flo_6]
 colour=^black
@@ -457,6 +458,7 @@ occlude=no
 
 [flo_122]
 colour=0xb8b098
+mapcolour=0xb8b098
 
 [flo_123]
 colour=^magenta
@@ -506,7 +508,7 @@ occlude=no
 
 [flo_135]
 colour=^magenta
-mapcolour=0x6377a6
+mapcolour=0x687daa
 occlude=no
 
 [flo_136]
@@ -579,6 +581,7 @@ occlude=no
 
 [flo_150]
 colour=0x7296b7
+mapcolour=0x687daa
 
 [flo_151]
 colour=^magenta
@@ -779,4 +782,80 @@ occlude=no
 [flo_203]
 colour=0x649075
 occlude=no
+
+[flo_204]
+colour=0x6f673e
+mapcolour=0x6b633c
+
+[flo_205]
+colour=0x8d8653
+mapcolour=0x878150
+
+[flo_206]
+colour=^black
+texture=texture_35
+mapcolour=0x7e7444
+
+[flo_207]
+colour=^magenta
+mapcolour=0x6b633c
+occlude=no
+
+[flo_208]
+colour=^magenta
+mapcolour=0x878150
+occlude=no
+
+[flo_209]
+colour=^magenta
+mapcolour=0x6f6314
+occlude=no
+
+[flo_210]
+colour=0x96633d
+mapcolour=0x96633d
+
+[flo_211]
+colour=^magenta
+mapcolour=0x96633d
+occlude=no
+
+[flo_212]
+colour=0x805534
+mapcolour=0x805534
+
+[flo_213]
+colour=^magenta
+mapcolour=0x805534
+occlude=no
+
+[flo_214]
+colour=0xb3986c
+mapcolour=0x967d54
+
+[flo_215]
+colour=^magenta
+mapcolour=0x967d54
+
+[flo_216]
+colour=0xa29976
+mapcolour=0x9c936d
+
+[flo_217]
+colour=^magenta
+mapcolour=0x9c936d
+
+[flo_218]
+colour=0x2e2e42
+
+[flo_219]
+colour=^magenta
+mapcolour=0x2e2e42
+occlude=no
+
+[flo_220]
+colour=^green
+
+[flo_221]
+colour=0xff1eff
 

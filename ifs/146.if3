@@ -4,20 +4,15 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script943(event_com,9568257)"
 
 [interface_146:1]
-type=^iftype_model
+type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_146:0
-model=model_1739
-xan=512
-yan=36
-zoom=232
-anim=seq_2008
-viewportwid=512
-viewporthei=512
+colour=0x321b1b
+fill=yes
+trans=120
 
