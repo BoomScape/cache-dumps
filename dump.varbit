@@ -61163,3 +61163,13 @@ basevar=var_620
 startbit=2
 endbit=2
 
+[varbit_12233]
+basevar=var_19
+startbit=10
+endbit=10
+
+[varbit_12234]
+basevar=var_3020
+startbit=6
+endbit=6
+

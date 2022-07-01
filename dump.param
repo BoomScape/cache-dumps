@@ -1603,6 +1603,10 @@ default=Input value
 type=string
 default="2,147,483,647 coins"
 
+[param_1115]
+type=boolean
+default=null
+
 [setting_check_fail_mes_1116]
 type=string
 default=You can't change this setting at the moment.

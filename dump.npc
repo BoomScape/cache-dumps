@@ -218593,3 +218593,14 @@ op3=Items
 vislevel=0
 drawpriority=yes
 
+[stray_dog_10760]
+name=Stray dog
+model1=stray_dog_18168
+model2=stray_dog_18169
+category=category_469
+readyanim=stray_dog_ready_4777
+walkanim=stray_dog_walk_4773
+op5=Pet
+vislevel=0
+ambient=20
+
