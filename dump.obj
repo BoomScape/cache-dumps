@@ -153295,6 +153295,8 @@ iop5=Destroy
 members=yes
 ambient=15
 contrast=5
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [blue_dark_bow_paint_12757]
@@ -219428,6 +219430,7 @@ cost=20
 iop1=Feel
 recol1s=569
 recol1d=962
+placeholder=yes
 
 [mimic_23184]
 name=Mimic
@@ -222235,4 +222238,10 @@ womanwear=healer_icon_20520,0
 iop2=Equip
 recol1s=22439
 recol1d=22451
+
+[cert_mysterious_emblem_tier_10_23487]
+certificate=yes
+
+[placeholder_strange_device_23488]
+placeholder=yes
 

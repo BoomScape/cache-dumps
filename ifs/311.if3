@@ -33,7 +33,7 @@ width=57
 height=34
 hposmode=^setpos_abs_right
 layer=interface_311:1
-onload="script446(event_com,20381702,20381706,20381703,20381704,20381705,20381700,20381701)"
+onload="script446(event_com,20381702,20381706,20381707,20381703,20381704,20381705,20381700,20381701)"
 
 [interface_311:4]
 type=^iftype_graphic
