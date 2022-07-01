@@ -6854,3 +6854,24 @@ param=param_938,A hint arrow has been placed near some ore rocks. The ore should
 param=param_829,2047
 param=param_831,"no_path"
 
+[remove_roof_1269]
+param=param_939,Remove roof
+param=param_940,"options_icons,24"
+
+[store_button_1270]
+param=param_939,Store button
+param=param_940,"ring_34,0"
+param=param_941,34
+
+[wiki_lookup_1271]
+param=param_939,Wiki lookup
+param=param_940,"options_icons,55"
+
+[tap_through_chatbox_1272]
+param=param_939,Tap through chatbox
+param=param_940,"options_icons,50"
+
+[hitsplat_tinting_1273]
+param=param_939,Hitsplat tinting
+param=param_940,"options_icons,56"
+

@@ -129412,7 +129412,7 @@ model=documents_3374
 2dxof=1
 2dxan=360
 2dyan=672
-iop1=Open note
+iop1=Open
 iop5=Destroy
 members=yes
 
@@ -140375,8 +140375,8 @@ recol1d=22416
 members=yes
 placeholder=yes
 
-[opened_herb_box_11739]
-name=Opened herb box
+[open_herb_box_11739]
+name=Open herb box
 model=research_package_2426
 cost=30
 2dzoom=1180
@@ -142577,10 +142577,16 @@ model=slice_of_birthday_cake_34576
 2dxan=163
 2dyan=2021
 iop1=Eat
-certificate=yes
 
-[cert_slice_of_birthday_cake_11917]
-certificate=yes
+[slice_of_birthday_cake_11917]
+name=Slice of birthday cake
+model=slice_of_birthday_cake_34576
+2dzoom=1508
+2dxof=10
+2dyof=-16
+2dxan=163
+2dyan=2021
+stackable=yes
 
 [birthday_present_11918]
 name=Birthday present
@@ -172416,7 +172422,7 @@ placeholder=yes
 [placeholder_herb_box_16155]
 placeholder=yes
 
-[placeholder_opened_herb_box_16156]
+[placeholder_open_herb_box_16156]
 placeholder=yes
 
 [placeholder_scroll_of_redirection_16157]
@@ -232564,8 +232570,8 @@ model=spice_rack_39141
 2dxan=67
 2dyan=337
 
-[opened_coal_bag_24480]
-name=Opened coal bag
+[open_coal_bag_24480]
+name=Open coal bag
 model=looting_bag_35815
 cost=100
 2dzoom=779
@@ -232589,8 +232595,8 @@ members=yes
 shiftop=3
 param=param_595,Empty
 
-[opened_gem_bag_24481]
-name=Opened gem bag
+[open_gem_bag_24481]
+name=Open gem bag
 model=looting_bag_35815
 cost=100
 2dzoom=1095
@@ -232879,41 +232885,35 @@ placeholder=yes
 [placeholder_victors_cape_1000_24521]
 placeholder=yes
 
-[cat_ears_24522]
-name=Cat ears
-model=cat_ears_39522
-manwear=cat_ears_39515,0
-womanwear=cat_ears_39516,0
-manhead=cat_ears_39519
-femalehead=cat_ears_39518
-2dzoom=415
-2dxof=-1
-2dxan=229
-iop2=Wear
-iop5=Destroy
+[dummy_priest_gown_24522]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
 
-[loose_cat_hair_24523]
-name=Loose cat hair
-model=loose_cat_hair_39521
-2dzoom=1221
-2dxof=-7
-2dyof=-1
-2dxan=498
-2dyan=404
-iop5=Destroy
+[dummy_priest_gown_24523]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
 
-[gertrudes_comb_24524]
-name=Gertrude's comb
-model=ivory_comb_16380
-cost=10
-2dzoom=868
-2dxof=4
-2dyof=3
-2dxan=498
-2dyan=147
-iop5=Destroy
-recol1s=14445
-recol1d=-25960
+[dummy_priest_gown_24524]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
 
 [cat_ears_24525]
 name=Cat ears
@@ -232966,4 +232966,19 @@ recol1s=11191
 recol1d=19385
 recol2s=11183
 recol2d=20271
+
+[harmony_24529]
+name=Harmony
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=31667
+members=yes
+placeholder=yes
+
+[placeholder_harmony_24530]
+placeholder=yes
 

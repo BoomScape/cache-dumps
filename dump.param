@@ -1177,3 +1177,15 @@ default=A hint arrow has been added to the world to show you where to go for thi
 type=string
 default=A hint arrow has been added to the world to show you where to go for this task.
 
+[param_939]
+type=string
+default=
+
+[param_940]
+type=graphic
+default=null
+
+[param_941]
+type=int
+default=32
+

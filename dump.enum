@@ -16849,6 +16849,8 @@ val=23,Brundt the Chieftain's Item Retrieval Service
 val=24,Brundt the Chieftain's Item Retrieval Service
 val=25,Shura's Item Retrieval Service
 val=26,Shura's Item Retrieval Service
+val=27,Sister Senga's Item Retrieval Service
+val=28,Sister Senga's Item Retrieval Service
 
 [enum_1756]
 inputtype=int
@@ -16867,6 +16869,7 @@ val=19,coins_995
 val=21,coins_995
 val=23,coins_995
 val=25,coins_995
+val=27,coins_995
 
 [enum_1757]
 inputtype=int
@@ -16885,6 +16888,7 @@ val=19,80000
 val=21,80000
 val=23,50000
 val=25,60000
+val=27,60000
 
 [enum_1771]
 inputtype=coordgrid
@@ -17852,6 +17856,16 @@ val=-1,justiciar_armour_set_22438
 val=0,justiciar_faceguard_22326
 val=1,justiciar_chestguard_22327
 val=2,justiciar_legguards_22328
+
+[enum_1922]
+inputtype=int
+outputtype=struct
+default=null
+val=0,remove_roof_1269
+val=1,tap_through_chatbox_1272
+val=2,store_button_1270
+val=3,wiki_lookup_1271
+val=4,hitsplat_tinting_1273
 
 [enum_1937]
 inputtype=int

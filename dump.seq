@@ -16185,7 +16185,7 @@ replayoff=5
 looptype=1
 framegroup1=2024
 
-[pool_of_dreams_2686]
+[pool_of_nightmares_2686]
 framecount=16
 replayoff=16
 looptype=1
@@ -43370,12 +43370,6 @@ movetype=1
 looptype=1
 framegroup1=299
 
-[light_7175]
-framecount=36
-replayoff=36
-looptype=1
-framegroup1=380
-
 [seq_7176]
 framecount=13
 replayoff=4
@@ -45852,7 +45846,7 @@ framecount=16
 looptype=1
 framegroup1=1898
 
-[potted_fern_7543]
+[seq_7543]
 framecount=16
 replayoff=16
 looptype=1
@@ -52709,7 +52703,7 @@ replayoff=17
 looptype=1
 framegroup1=2404
 
-[the_nightmare_walk_8592]
+[phosanis_nightmare_walk_8592]
 framecount=24
 looptype=1
 framegroup1=2428
@@ -52774,7 +52768,7 @@ priority=7
 looptype=1
 framegroup1=2469
 
-[the_nightmare_ready_8603]
+[phosanis_nightmare_ready_8603]
 framecount=22
 priority=4
 looptype=1
@@ -52837,7 +52831,7 @@ movetype=2
 looptype=1
 framegroup1=2436
 
-[the_nightmare_ready_8613]
+[phosanis_nightmare_ready_8613]
 framecount=1
 priority=9
 looptype=1
@@ -52986,12 +52980,6 @@ framegroup1=2435
 framecount=16
 looptype=1
 framegroup1=2431
-
-[light_8637]
-framecount=36
-replayoff=36
-looptype=1
-framegroup1=380
 
 [seq_8638]
 framecount=10
