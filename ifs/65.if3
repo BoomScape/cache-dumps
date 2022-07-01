@@ -78,172 +78,178 @@ layer=interface_65:1
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+layer=interface_65:1
+
+[interface_65:10]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 hide=yes
 layer=interface_65:8
 
-[interface_65:10]
+[interface_65:11]
 type=^iftype_text
 height=18
 hsizemode=^setsize_minus
-layer=interface_65:9
+layer=interface_65:10
 text="My Bonds"
 colour=0xff981f
 font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:11]
+[interface_65:12]
 type=^iftype_text
 y=18
 height=46
 hsizemode=^setsize_minus
-layer=interface_65:9
+layer=interface_65:10
 text="Though you can keep bonds here in your pouch for safe keeping, to trade them either on the <col=ffffff>Grand Exchange</col> or with <col=ffffff>other players</col> you will need to withdraw them to your inventory.<br>If you have any <col=ffffff>untradeable</col> bonds, you will also need to pay a fee on them to make them <col=ffffff>tradeable</col> again, if you wish to do so."
 colour=0xff981f
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:12]
+[interface_65:13]
 type=^iftype_layer
 width=228
 height=64
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_65:9
+layer=interface_65:10
 
-[interface_65:13]
+[interface_65:14]
 type=^iftype_layer
 width=228
 height=64
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_65:9
+layer=interface_65:10
 
-[interface_65:14]
+[interface_65:15]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_65:8
 
-[interface_65:15]
+[interface_65:16]
 type=^iftype_layer
 width=456
 height=94
-layer=interface_65:14
-
-[interface_65:16]
-type=^iftype_line
-y=98
-hsizemode=^setsize_minus
-layer=interface_65:14
-colour=0x383023
+layer=interface_65:15
 
 [interface_65:17]
 type=^iftype_line
-y=99
+y=98
 hsizemode=^setsize_minus
-layer=interface_65:14
-colour=0x5a5245
+layer=interface_65:15
+colour=0x383023
 
 [interface_65:18]
+type=^iftype_line
+y=99
+hsizemode=^setsize_minus
+layer=interface_65:15
+colour=0x5a5245
+
+[interface_65:19]
 type=^iftype_layer
 width=456
 height=124
 vposmode=^setpos_abs_bottom
-layer=interface_65:14
+layer=interface_65:15
 
-[interface_65:19]
+[interface_65:20]
 type=^iftype_text
 height=18
 hsizemode=^setsize_minus
-layer=interface_65:15
+layer=interface_65:16
 text="Buy Bonds"
 colour=0xff981f
 font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:20]
+[interface_65:21]
 type=^iftype_text
 y=18
 height=36
 hsizemode=^setsize_minus
-layer=interface_65:15
+layer=interface_65:16
 text="You may purchase bonds using the <col=ffffff>store button</col> found here, or may buy them from either the <col=ffffff>Grand Exchange</col> or <col=ffffff>other players</col> in game<br>If you are looking to purchase <col=ffffff>membership</col>, you may also do this from the <col=ffffff>store directly</col>."
 colour=0xff981f
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:21]
+[interface_65:22]
 type=^iftype_layer
 x=34
 width=160
 height=30
 vposmode=^setpos_abs_bottom
-layer=interface_65:15
+layer=interface_65:16
 
-[interface_65:22]
+[interface_65:23]
 type=^iftype_layer
 x=34
 width=160
 height=30
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_65:15
+layer=interface_65:16
 
-[interface_65:23]
+[interface_65:24]
 type=^iftype_text
 height=18
 hsizemode=^setsize_minus
-layer=interface_65:18
+layer=interface_65:19
 text="Redeem Bonds"
 colour=0xff981f
 font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:24]
+[interface_65:25]
 type=^iftype_layer
 y=18
 width=228
 height=18
 vsizemode=^setsize_minus
-layer=interface_65:18
+layer=interface_65:19
 
-[interface_65:25]
+[interface_65:26]
 type=^iftype_text
 height=18
 hsizemode=^setsize_minus
-layer=interface_65:24
+layer=interface_65:25
 text="Membership Packages"
 colour=0xff981f
 font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:26]
+[interface_65:27]
 type=^iftype_layer
 y=18
 height=55
 hsizemode=^setsize_minus
-layer=interface_65:24
+layer=interface_65:25
 
-[interface_65:27]
+[interface_65:28]
 type=^iftype_layer
 width=228
 vsizemode=^setsize_minus
-layer=interface_65:26
+layer=interface_65:27
 
-[interface_65:28]
+[interface_65:29]
 type=^iftype_text
 x=-35
 width=60
 hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_65:27
+layer=interface_65:28
 text="14, 29 or 45 days."
 colour=0xff981f
 font=p11_full
@@ -251,37 +257,37 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:29]
+[interface_65:30]
 type=^iftype_graphic
 x=25
 width=39
 height=39
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:27
+layer=interface_65:28
 graphic="membership_icon_medium"
 
-[interface_65:30]
+[interface_65:31]
 type=^iftype_layer
 width=160
 hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_65:26
+layer=interface_65:27
 
-[interface_65:31]
+[interface_65:32]
 type=^iftype_text
 width=154
 height=22
 hposmode=^setpos_abs_centre
-layer=interface_65:30
+layer=interface_65:31
 text="Premier Club"
 colour=0xff981f
 font=q8_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:32]
+[interface_65:33]
 type=^iftype_graphic
 x=61
 y=1
@@ -289,46 +295,46 @@ width=15
 height=15
 hposmode=^setpos_abs_centre
 hide=yes
-layer=interface_65:30
+layer=interface_65:31
 graphic="mapfunction_infoicon"
 
-[interface_65:33]
+[interface_65:34]
 type=^iftype_graphic
 x=-40
 width=40
 height=40
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_65:30
+layer=interface_65:31
 graphic="iron_icons,5"
 
-[interface_65:34]
+[interface_65:35]
 type=^iftype_graphic
 width=40
 height=40
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_65:30
+layer=interface_65:31
 graphic="graphic_1409"
 
-[interface_65:35]
+[interface_65:36]
 type=^iftype_graphic
 x=40
 width=40
 height=40
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_65:30
+layer=interface_65:31
 graphic="graphic_1410"
 
-[interface_65:36]
+[interface_65:37]
 type=^iftype_layer
 width=228
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_65:26
+layer=interface_65:27
 
-[interface_65:37]
+[interface_65:38]
 type=^iftype_text
 x=33
 y=-7
@@ -336,7 +342,7 @@ width=145
 height=20
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:36
+layer=interface_65:37
 text="Summer Special"
 colour=0xff981f
 font=q8_full
@@ -344,7 +350,7 @@ shadowed=yes
 onmouseleave="script45(event_com,16750623)"
 onmouserepeat="script45(event_com,15658734)"
 
-[interface_65:38]
+[interface_65:39]
 type=^iftype_graphic
 x=80
 y=-7
@@ -352,10 +358,10 @@ width=15
 height=15
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:36
+layer=interface_65:37
 graphic="mapfunction_infoicon"
 
-[interface_65:39]
+[interface_65:40]
 type=^iftype_text
 x=40
 y=12
@@ -363,13 +369,13 @@ width=132
 height=20
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:36
+layer=interface_65:37
 text="3 Months for 5 Bonds"
 colour=^white
 font=p11_full
 shadowed=yes
 
-[interface_65:40]
+[interface_65:41]
 type=^iftype_model
 x=-70
 y=3
@@ -377,48 +383,48 @@ width=32
 height=32
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:36
+layer=interface_65:37
 model=old_school_bond_29210
 xan=244
 yan=233
 zoom=1500
 
-[interface_65:41]
+[interface_65:42]
 type=^iftype_layer
 width=160
 height=30
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_65:24
+layer=interface_65:25
 
-[interface_65:42]
+[interface_65:43]
 type=^iftype_layer
 y=18
 width=228
 height=18
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
-layer=interface_65:18
+layer=interface_65:19
 
-[interface_65:43]
+[interface_65:44]
 type=^iftype_text
 height=18
 hsizemode=^setsize_minus
-layer=interface_65:42
+layer=interface_65:43
 text="Early Namechange"
 colour=0xff981f
 font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:44]
+[interface_65:45]
 type=^iftype_text
 y=18
 width=10
 height=55
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_65:42
+layer=interface_65:43
 text="Spend <col=ffffff>1 bond</col> to enable an early namechange."
 colour=0xff981f
 font=p11_full
@@ -426,42 +432,42 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:45]
+[interface_65:46]
 type=^iftype_layer
 height=30
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_65:42
+layer=interface_65:43
 
-[interface_65:46]
+[interface_65:47]
 type=^iftype_layer
 width=160
 height=30
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_65:42
+layer=interface_65:43
 
-[interface_65:47]
+[interface_65:48]
 type=^iftype_model
 x=33
 y=28
 width=32
 height=32
-layer=interface_65:12
+layer=interface_65:13
 model=old_school_bond_29210
 xan=512
 zoom=1024
 orthog=yes
 
-[interface_65:48]
+[interface_65:49]
 type=^iftype_text
 x=98
 y=8
 width=108
 height=22
-layer=interface_65:12
+layer=interface_65:13
 text="Total tradeable:"
 colour=0xff981f
 font=b12_full
@@ -469,41 +475,41 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:49]
+[interface_65:50]
 type=^iftype_graphic
 x=99
 y=30
 width=4
 height=20
-layer=interface_65:12
+layer=interface_65:13
 graphic="graphic_1123"
 
-[interface_65:50]
+[interface_65:51]
 type=^iftype_graphic
 x=103
 y=30
 width=99
 height=20
-layer=interface_65:12
+layer=interface_65:13
 graphic="graphic_1124"
 tiling=yes
 
-[interface_65:51]
+[interface_65:52]
 type=^iftype_graphic
 x=202
 y=30
 width=4
 height=20
-layer=interface_65:12
+layer=interface_65:13
 graphic="graphic_1125"
 
-[interface_65:52]
+[interface_65:53]
 type=^iftype_text
 x=99
 y=33
 width=107
 height=15
-layer=interface_65:12
+layer=interface_65:13
 text="_"
 colour=^white
 font=q8_full
@@ -511,33 +517,33 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:53]
+[interface_65:54]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_65:12
+layer=interface_65:13
 
-[interface_65:54]
+[interface_65:55]
 type=^iftype_text
 x=6
 y=89
 width=64
 height=13
-layer=interface_65:53
+layer=interface_65:54
 text="Bank"
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:55]
+[interface_65:56]
 type=^iftype_text
 x=6
 y=102
 width=64
 height=18
-layer=interface_65:53
+layer=interface_65:54
 text="_"
 colour=0xffb83f
 font=p11_full
@@ -545,26 +551,26 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:56]
+[interface_65:57]
 type=^iftype_text
 y=89
 width=64
 height=13
 hposmode=^setpos_abs_centre
-layer=interface_65:12
+layer=interface_65:13
 text="Inventory"
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:57]
+[interface_65:58]
 type=^iftype_text
 y=102
 width=64
 height=18
 hposmode=^setpos_abs_centre
-layer=interface_65:12
+layer=interface_65:13
 text="_"
 colour=0xffb83f
 font=p11_full
@@ -572,28 +578,28 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:58]
+[interface_65:59]
 type=^iftype_text
 x=6
 y=89
 width=64
 height=13
 hposmode=^setpos_abs_right
-layer=interface_65:12
+layer=interface_65:13
 text="Pouch"
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:59]
+[interface_65:60]
 type=^iftype_text
 x=6
 y=102
 width=64
 height=18
 hposmode=^setpos_abs_right
-layer=interface_65:12
+layer=interface_65:13
 text="_"
 colour=0xffb83f
 font=p11_full
@@ -601,42 +607,42 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:60]
+[interface_65:61]
 type=^iftype_layer
 y=126
 width=64
 height=30
 hposmode=^setpos_abs_centre
-layer=interface_65:12
+layer=interface_65:13
 
-[interface_65:61]
+[interface_65:62]
 type=^iftype_layer
 x=6
 y=126
 width=64
 height=30
 hposmode=^setpos_abs_right
-layer=interface_65:12
+layer=interface_65:13
 
-[interface_65:62]
+[interface_65:63]
 type=^iftype_model
 x=33
 y=28
 width=32
 height=32
-layer=interface_65:13
+layer=interface_65:14
 model=old_school_bond_untradeable_29209
 xan=512
 zoom=1024
 orthog=yes
 
-[interface_65:63]
+[interface_65:64]
 type=^iftype_text
 x=99
 y=8
 width=107
 height=22
-layer=interface_65:13
+layer=interface_65:14
 text="Total untradeable:"
 colour=0xff981f
 font=b12_full
@@ -644,41 +650,41 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:64]
+[interface_65:65]
 type=^iftype_graphic
 x=100
 y=30
 width=4
 height=20
-layer=interface_65:13
+layer=interface_65:14
 graphic="graphic_1123"
 
-[interface_65:65]
+[interface_65:66]
 type=^iftype_graphic
 x=103
 y=30
 width=99
 height=20
-layer=interface_65:13
+layer=interface_65:14
 graphic="graphic_1124"
 tiling=yes
 
-[interface_65:66]
+[interface_65:67]
 type=^iftype_graphic
 x=202
 y=30
 width=4
 height=20
-layer=interface_65:13
+layer=interface_65:14
 graphic="graphic_1125"
 
-[interface_65:67]
+[interface_65:68]
 type=^iftype_text
 x=99
 y=33
 width=107
 height=15
-layer=interface_65:13
+layer=interface_65:14
 text="_"
 colour=^white
 font=q8_full
@@ -686,33 +692,33 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:68]
+[interface_65:69]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_65:13
+layer=interface_65:14
 
-[interface_65:69]
+[interface_65:70]
 type=^iftype_text
 x=6
 y=89
 width=64
 height=13
-layer=interface_65:68
+layer=interface_65:69
 text="Bank"
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:70]
+[interface_65:71]
 type=^iftype_text
 x=6
 y=102
 width=64
 height=18
-layer=interface_65:68
+layer=interface_65:69
 text="_"
 colour=0xffb83f
 font=p11_full
@@ -720,26 +726,26 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:71]
+[interface_65:72]
 type=^iftype_text
 y=89
 width=64
 height=13
 hposmode=^setpos_abs_centre
-layer=interface_65:13
+layer=interface_65:14
 text="Inventory"
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:72]
+[interface_65:73]
 type=^iftype_text
 y=102
 width=64
 height=18
 hposmode=^setpos_abs_centre
-layer=interface_65:13
+layer=interface_65:14
 text="_"
 colour=0xffb83f
 font=p11_full
@@ -747,28 +753,28 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:73]
+[interface_65:74]
 type=^iftype_text
 x=6
 y=89
 width=64
 height=13
 hposmode=^setpos_abs_right
-layer=interface_65:13
+layer=interface_65:14
 text="Pouch"
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_65:74]
+[interface_65:75]
 type=^iftype_text
 x=6
 y=102
 width=64
 height=18
 hposmode=^setpos_abs_right
-layer=interface_65:13
+layer=interface_65:14
 text="_"
 colour=0xffb83f
 font=p11_full
@@ -776,36 +782,36 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:75]
-type=^iftype_layer
-width=106
-height=30
-layer=interface_65:123
-optionmask=2
-opbase="Bonds to Tradeable"
-op1="Convert"
-onmouseover="script720(4259917,0,8,255,40)"
-onmouseleave="script720(4259917,0,8,0,40)"
-
 [interface_65:76]
 type=^iftype_layer
 width=106
 height=30
-layer=interface_65:123
-onload="script93(event_com)"
+layer=interface_65:124
+optionmask=2
+opbase="Bonds to Tradeable"
+op1="Convert"
+onmouseover="script720(4259918,0,8,255,40)"
+onmouseleave="script720(4259918,0,8,0,40)"
 
 [interface_65:77]
 type=^iftype_layer
 width=106
 height=30
-layer=interface_65:123
-onload="script97(event_com)"
+layer=interface_65:124
+onload="script93(event_com)"
 
 [interface_65:78]
+type=^iftype_layer
+width=106
+height=30
+layer=interface_65:124
+onload="script97(event_com)"
+
+[interface_65:79]
 type=^iftype_text
 width=106
 height=30
-layer=interface_65:123
+layer=interface_65:124
 text="Convert"
 colour=^white
 font=q8_full
@@ -813,28 +819,19 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:79]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-hide=yes
-layer=interface_65:41
-optionmask=2
-opbase="membership"
-op1="Redeem"
-onmouseover="script720(4259921,0,8,255,40)"
-onmouseleave="script720(4259921,0,8,0,40)"
-
 [interface_65:80]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:41
-onload="script93(event_com)"
+hide=yes
+layer=interface_65:42
+optionmask=2
+opbase="membership"
+op1="Redeem"
+onmouseover="script720(4259922,0,8,255,40)"
+onmouseleave="script720(4259922,0,8,0,40)"
 
 [interface_65:81]
 type=^iftype_layer
@@ -842,8 +839,8 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:41
-onload="script97(event_com)"
+layer=interface_65:42
+onload="script93(event_com)"
 
 [interface_65:82]
 type=^iftype_layer
@@ -851,16 +848,25 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:41
-onload="script772(event_com)"
+layer=interface_65:42
+onload="script97(event_com)"
 
 [interface_65:83]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_65:42
+onload="script772(event_com)"
+
+[interface_65:84]
 type=^iftype_text
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:41
+layer=interface_65:42
 text="___"
 colour=0xff981f
 font=q8_full
@@ -868,48 +874,48 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:84]
+[interface_65:85]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:46
+layer=interface_65:47
 optionmask=2
 opbase="name change"
 op1="Redeem"
-onmouseover="script720(4259926,0,8,255,40)"
-onmouseleave="script720(4259926,0,8,0,40)"
+onmouseover="script720(4259927,0,8,255,40)"
+onmouseleave="script720(4259927,0,8,0,40)"
 onop="script1343"
-
-[interface_65:85]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_65:46
-onload="script93(event_com)"
 
 [interface_65:86]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:46
-onload="script97(event_com)"
+layer=interface_65:47
+onload="script93(event_com)"
 
 [interface_65:87]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_65:47
+onload="script97(event_com)"
+
+[interface_65:88]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:46
+layer=interface_65:47
 onload="script772(event_com)"
 
-[interface_65:88]
+[interface_65:89]
 type=^iftype_text
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:46
+layer=interface_65:47
 text="___"
 colour=0xff981f
 font=q8_full
@@ -917,27 +923,13 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:89]
+[interface_65:90]
 type=^iftype_layer
 x=20
 width=85
 height=30
 hposmode=^setpos_abs_right
-layer=interface_65:45
-
-[interface_65:90]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_65:89
-optionmask=2
-opbase="name change"
-op1="Redeem"
-onmouseover="script720(4259932,0,8,255,40)"
-onmouseleave="script720(4259932,0,8,0,40)"
-onop="script1344"
+layer=interface_65:46
 
 [interface_65:91]
 type=^iftype_layer
@@ -945,8 +937,13 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:89
-onload="script93(event_com)"
+layer=interface_65:90
+optionmask=2
+opbase="name change"
+op1="Redeem"
+onmouseover="script720(4259933,0,8,255,40)"
+onmouseleave="script720(4259933,0,8,0,40)"
+onop="script1344"
 
 [interface_65:92]
 type=^iftype_layer
@@ -954,16 +951,25 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:89
-onload="script97(event_com)"
+layer=interface_65:90
+onload="script93(event_com)"
 
 [interface_65:93]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_65:90
+onload="script97(event_com)"
+
+[interface_65:94]
 type=^iftype_text
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:89
+layer=interface_65:90
 text="Confirm"
 colour=^white
 font=q8_full
@@ -971,26 +977,12 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:94]
+[interface_65:95]
 type=^iftype_layer
 x=20
 width=85
 height=30
-layer=interface_65:45
-
-[interface_65:95]
-type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_65:94
-optionmask=2
-opbase="name change"
-op1="Don't redeem"
-onmouseover="script720(4259937,0,8,255,40)"
-onmouseleave="script720(4259937,0,8,0,40)"
-onop="script1344"
+layer=interface_65:46
 
 [interface_65:96]
 type=^iftype_layer
@@ -998,23 +990,37 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:94
-onload="script93(event_com)"
+layer=interface_65:95
+optionmask=2
+opbase="name change"
+op1="Don't redeem"
+onmouseover="script720(4259938,0,8,255,40)"
+onmouseleave="script720(4259938,0,8,0,40)"
+onop="script1344"
 
 [interface_65:97]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:94
-onload="script97(event_com)"
+layer=interface_65:95
+onload="script93(event_com)"
 
 [interface_65:98]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_65:95
+onload="script97(event_com)"
+
+[interface_65:99]
 type=^iftype_text
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:94
+layer=interface_65:95
 text="Cancel"
 colour=^white
 font=q8_full
@@ -1022,36 +1028,36 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:99]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_65:22
-optionmask=2
-opbase="Old School Bonds"
-op1="Buy"
-onmouseover="script720(4259941,0,8,255,40)"
-onmouseleave="script720(4259941,0,8,0,40)"
-
 [interface_65:100]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:22
-onload="script93(event_com)"
+layer=interface_65:23
+optionmask=2
+opbase="Old School Bonds"
+op1="Buy"
+onmouseover="script720(4259942,0,8,255,40)"
+onmouseleave="script720(4259942,0,8,0,40)"
 
 [interface_65:101]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:22
-onload="script97(event_com)"
+layer=interface_65:23
+onload="script93(event_com)"
 
 [interface_65:102]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_65:23
+onload="script97(event_com)"
+
+[interface_65:103]
 type=^iftype_text
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:22
+layer=interface_65:23
 text="Buy bonds"
 colour=^white
 font=q8_full
@@ -1059,17 +1065,8 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:103]
-type=^iftype_layer
-width=96
-vsizemode=^setsize_minus
-layer=interface_65:3
-optionmask=2
-op1="View"
-
 [interface_65:104]
 type=^iftype_layer
-x=96
 width=96
 vsizemode=^setsize_minus
 layer=interface_65:3
@@ -1078,34 +1075,43 @@ op1="View"
 
 [interface_65:105]
 type=^iftype_layer
-hsizemode=^setsize_minus
+x=96
+width=96
 vsizemode=^setsize_minus
-layer=interface_65:21
+layer=interface_65:3
 optionmask=2
-opbase="Old School Membership"
-op1="Buy"
-onmouseover="script720(4259947,0,8,255,40)"
-onmouseleave="script720(4259947,0,8,0,40)"
+op1="View"
 
 [interface_65:106]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:21
-onload="script93(event_com)"
+layer=interface_65:22
+optionmask=2
+opbase="Old School Membership"
+op1="Buy"
+onmouseover="script720(4259948,0,8,255,40)"
+onmouseleave="script720(4259948,0,8,0,40)"
 
 [interface_65:107]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_65:21
-onload="script97(event_com)"
+layer=interface_65:22
+onload="script93(event_com)"
 
 [interface_65:108]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_65:22
+onload="script97(event_com)"
+
+[interface_65:109]
 type=^iftype_text
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:21
+layer=interface_65:22
 text="Buy membership"
 colour=^white
 font=q8_full
@@ -1113,171 +1119,171 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_65:109]
-type=^iftype_layer
-height=30
-hsizemode=^setsize_minus
-layer=interface_65:61
-optionmask=14
-op1="Withdraw-1"
-op2="Withdraw-X"
-op3="Withdraw-All"
-onmouseover="script720(4259951,0,8,255,40)"
-onmouseleave="script720(4259951,0,8,0,40)"
-
 [interface_65:110]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:61
-onload="script93(event_com)"
+layer=interface_65:62
+optionmask=14
+op1="Withdraw-1"
+op2="Withdraw-X"
+op3="Withdraw-All"
+onmouseover="script720(4259952,0,8,255,40)"
+onmouseleave="script720(4259952,0,8,0,40)"
 
 [interface_65:111]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:61
-onload="script97(event_com)"
+layer=interface_65:62
+onload="script93(event_com)"
 
 [interface_65:112]
+type=^iftype_layer
+height=30
+hsizemode=^setsize_minus
+layer=interface_65:62
+onload="script97(event_com)"
+
+[interface_65:113]
 type=^iftype_graphic
 width=30
 height=23
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:61
+layer=interface_65:62
 graphic="ge_backbutton"
-
-[interface_65:113]
-type=^iftype_layer
-height=30
-hsizemode=^setsize_minus
-layer=interface_65:60
-optionmask=14
-op1="Deposit-1"
-op2="Deposit-X"
-op3="Deposit-All"
-onmouseover="script720(4259955,0,8,255,40)"
-onmouseleave="script720(4259955,0,8,0,40)"
 
 [interface_65:114]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:60
-onload="script93(event_com)"
+layer=interface_65:61
+optionmask=14
+op1="Deposit-1"
+op2="Deposit-X"
+op3="Deposit-All"
+onmouseover="script720(4259956,0,8,255,40)"
+onmouseleave="script720(4259956,0,8,0,40)"
 
 [interface_65:115]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:60
-onload="script97(event_com)"
+layer=interface_65:61
+onload="script93(event_com)"
 
 [interface_65:116]
+type=^iftype_layer
+height=30
+hsizemode=^setsize_minus
+layer=interface_65:61
+onload="script97(event_com)"
+
+[interface_65:117]
 type=^iftype_graphic
 width=30
 height=23
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:60
+layer=interface_65:61
 graphic="ge_backbutton"
 fliph=yes
-
-[interface_65:117]
-type=^iftype_layer
-height=30
-hsizemode=^setsize_minus
-layer=interface_65:121
-optionmask=14
-op1="Deposit-1"
-op2="Depost-X"
-op3="Deposit-All"
-onmouseover="script720(4259959,0,8,255,40)"
-onmouseleave="script720(4259959,0,8,0,40)"
 
 [interface_65:118]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:121
-onload="script93(event_com)"
+layer=interface_65:122
+optionmask=14
+op1="Deposit-1"
+op2="Depost-X"
+op3="Deposit-All"
+onmouseover="script720(4259960,0,8,255,40)"
+onmouseleave="script720(4259960,0,8,0,40)"
 
 [interface_65:119]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:121
-onload="script97(event_com)"
+layer=interface_65:122
+onload="script93(event_com)"
 
 [interface_65:120]
+type=^iftype_layer
+height=30
+hsizemode=^setsize_minus
+layer=interface_65:122
+onload="script97(event_com)"
+
+[interface_65:121]
 type=^iftype_graphic
 width=30
 height=23
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:121
+layer=interface_65:122
 graphic="ge_backbutton"
 fliph=yes
 
-[interface_65:121]
+[interface_65:122]
 type=^iftype_layer
 y=126
 width=64
 height=30
 hposmode=^setpos_abs_centre
-layer=interface_65:13
+layer=interface_65:14
 
-[interface_65:122]
+[interface_65:123]
 type=^iftype_layer
 x=6
 y=126
 width=64
 height=30
 hposmode=^setpos_abs_right
-layer=interface_65:13
+layer=interface_65:14
 
-[interface_65:123]
+[interface_65:124]
 type=^iftype_layer
 x=100
 y=55
 width=106
 height=30
 hide=yes
-layer=interface_65:13
-
-[interface_65:124]
-type=^iftype_layer
-height=30
-hsizemode=^setsize_minus
-layer=interface_65:122
-optionmask=14
-op1="Withdraw-1"
-op2="Withdraw-X"
-op3="Withdraw-All"
-onmouseover="script720(4259966,0,8,255,40)"
-onmouseleave="script720(4259966,0,8,0,40)"
+layer=interface_65:14
 
 [interface_65:125]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:122
-onload="script93(event_com)"
+layer=interface_65:123
+optionmask=14
+op1="Withdraw-1"
+op2="Withdraw-X"
+op3="Withdraw-All"
+onmouseover="script720(4259967,0,8,255,40)"
+onmouseleave="script720(4259967,0,8,0,40)"
 
 [interface_65:126]
 type=^iftype_layer
 height=30
 hsizemode=^setsize_minus
-layer=interface_65:122
-onload="script97(event_com)"
+layer=interface_65:123
+onload="script93(event_com)"
 
 [interface_65:127]
+type=^iftype_layer
+height=30
+hsizemode=^setsize_minus
+layer=interface_65:123
+onload="script97(event_com)"
+
+[interface_65:128]
 type=^iftype_graphic
 width=30
 height=23
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_65:122
+layer=interface_65:123
 graphic="ge_backbutton"
 

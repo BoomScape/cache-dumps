@@ -56544,3 +56544,19 @@ framecount=8
 looptype=1
 framegroup1=2767
 
+[seq_9144]
+framecount=12
+priority=6
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=233
+
+[seq_9145]
+framecount=9
+priority=6
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=2024
+
