@@ -7,6 +7,7 @@ walkanim=tool_leprechaun_walk_189
 op1=Talk-to
 op3=Exchange
 vislevel=0
+drawpriority=yes
 
 [molanisk_1]
 name=Molanisk
@@ -14266,7 +14267,7 @@ size=2
 vislevel=132
 ambient=70
 
-[cute_creature_716]
+[captain_tock_716]
 model1=ice_ledge_6318
 resizeh=1
 resizev=1
@@ -21447,61 +21448,85 @@ vislevel=45
 ambient=30
 contrast=30
 
-[angry_giant_rat_1063]
-name=Angry giant rat
-model1=reacher_18892
-model2=reacher_18890
-model3=reacher_18895
-model4=angry_giant_rat_18887
-readyanim=angry_giant_rat_ready_4932
-walkanim=angry_giant_rat_walk_4931
-resizeh=64
-resizev=64
-recol1s=10295
-recol1d=3387
-recol2s=10291
-recol2d=3387
-recol3s=10287
-recol3d=3383
-recol4s=10283
-recol4d=3387
-recol5s=10279
-recol5d=3383
-recol6s=10275
-recol6d=3379
-op2=Attack
-size=2
-vislevel=45
-ambient=30
-contrast=30
+[veos_multi_1063]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=1
+multivar=varbit_4897
+multinpc=default,veos_8630
+multinpc=0,veos_8484
+drawpriority=yes
 
-[angry_giant_rat_1064]
-name=Angry giant rat
-model1=angry_giant_rat_18893
-model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
-model4=angry_giant_rat_18887
-readyanim=angry_giant_rat_ready_4932
-walkanim=angry_giant_rat_walk_4931
-resizeh=64
-resizev=64
-recol1s=10295
-recol1d=4529
-recol2s=10291
-recol2d=3379
-recol3s=10287
-recol3d=4529
-recol4s=10283
-recol4d=3379
-recol5s=10279
-recol5d=4525
-recol6s=10275
-recol6d=4649
-op2=Attack
-size=2
-vislevel=45
-ambient=30
-contrast=30
+[captain_tock_multi_1064]
+readyanim=human_ready_808
+walkanim=human_ready_808
+vislevel=0
+multivar=varbit_6071
+multinpc=default,cabin_boy_colin_7967
+multinpc=0,captain_tock_716
+multinpc=1,captain_tock_716
+multinpc=2,captain_tock_716
+multinpc=3,captain_tock_716
+multinpc=4,captain_tock_716
+multinpc=5,captain_tock_716
+multinpc=6,captain_tock_716
+multinpc=7,captain_tock_716
+multinpc=8,captain_tock_716
+multinpc=9,captain_tock_716
+multinpc=10,captain_tock_7956
+multinpc=11,captain_tock_7956
+multinpc=12,captain_tock_7956
+multinpc=13,captain_tock_7956
+multinpc=14,captain_tock_7956
+multinpc=15,captain_tock_7958
+multinpc=16,captain_tock_7958
+multinpc=17,captain_tock_7958
+multinpc=18,captain_tock_7958
+multinpc=19,captain_tock_7958
+multinpc=20,captain_tock_7958
+multinpc=21,captain_tock_7958
+multinpc=22,captain_tock_7958
+multinpc=23,captain_tock_7958
+multinpc=24,captain_tock_7958
+multinpc=25,captain_tock_7958
+multinpc=26,captain_tock_7958
+multinpc=27,captain_tock_7958
+multinpc=28,captain_tock_7958
+multinpc=29,captain_tock_7958
+multinpc=30,captain_tock_7958
+multinpc=31,captain_tock_7958
+multinpc=32,captain_tock_7958
+multinpc=33,captain_tock_7958
+multinpc=34,captain_tock_7958
+multinpc=35,captain_tock_7958
+multinpc=36,captain_tock_7958
+multinpc=37,captain_tock_7958
+multinpc=38,captain_tock_7958
+multinpc=39,captain_tock_7958
+multinpc=40,captain_tock_7958
+multinpc=41,captain_tock_7958
+multinpc=42,captain_tock_7958
+multinpc=43,captain_tock_7958
+multinpc=44,captain_tock_7958
+multinpc=45,captain_tock_7958
+multinpc=46,captain_tock_7958
+multinpc=47,captain_tock_7958
+multinpc=48,captain_tock_7958
+multinpc=49,captain_tock_7958
+multinpc=50,captain_tock_7958
+multinpc=51,captain_tock_7958
+multinpc=52,captain_tock_7958
+multinpc=53,captain_tock_7958
+multinpc=54,captain_tock_7958
+multinpc=55,captain_tock_7958
+multinpc=56,captain_tock_7958
+multinpc=57,captain_tock_7958
+multinpc=58,captain_tock_7958
+multinpc=59,captain_tock_7958
+drawpriority=yes
 
 [angry_goblin_1065]
 name=Angry goblin
@@ -25403,7 +25428,7 @@ vislevel=0
 multivar=varbit_2504
 multinpc=0,cute_creature_1240
 multinpc=1,evil_creature_1241
-multinpc=2,cute_creature_716
+multinpc=2,captain_tock_716
 
 [cute_creature_1240]
 name=Cute creature
@@ -25425,7 +25450,7 @@ vislevel=1
 multivar=varbit_2505
 multinpc=0,cute_creature_1243
 multinpc=1,evil_creature_1244
-multinpc=2,cute_creature_716
+multinpc=2,captain_tock_716
 
 [cute_creature_1243]
 name=Cute creature
@@ -25447,7 +25472,7 @@ vislevel=1
 multivar=varbit_2506
 multinpc=0,cute_creature_1246
 multinpc=1,evil_creature_1247
-multinpc=2,cute_creature_716
+multinpc=2,captain_tock_716
 
 [cute_creature_1246]
 name=Cute creature
@@ -25469,7 +25494,7 @@ vislevel=1
 multivar=varbit_2507
 multinpc=0,cute_creature_1249
 multinpc=1,evil_creature_1250
-multinpc=2,cute_creature_716
+multinpc=2,captain_tock_716
 
 [cute_creature_1249]
 name=Cute creature
@@ -25491,7 +25516,7 @@ vislevel=1
 multivar=varbit_2508
 multinpc=0,cute_creature_1252
 multinpc=1,evil_creature_1253
-multinpc=2,cute_creature_716
+multinpc=2,captain_tock_716
 
 [cute_creature_1252]
 name=Cute creature
@@ -25513,7 +25538,7 @@ vislevel=1
 multivar=varbit_2509
 multinpc=0,cute_creature_1255
 multinpc=1,evil_creature_1256
-multinpc=2,cute_creature_716
+multinpc=2,captain_tock_716
 
 [cute_creature_1255]
 name=Cute creature
@@ -34121,9 +34146,9 @@ vislevel=76
 
 [giant_crypt_rat_1682]
 name=Giant crypt rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -50217,9 +50242,9 @@ vislevel=26
 
 [giant_rat_2512]
 name=Giant rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -55873,16 +55898,6 @@ walkanim=treasure_fairy_walk_106
 op1=Talk-to
 vislevel=0
 
-[leprechaun_2830]
-name=Leprechaun
-model1=hudo_2909
-model2=shamus_2896
-model3=hudo_2915
-readyanim=hudo_ready_195
-walkanim=tool_leprechaun_walk_189
-op2=Attack
-vislevel=12
-
 [lizard_man_2831]
 name=Lizard man
 model1=lizard_man_2888
@@ -56270,9 +56285,9 @@ vislevel=3
 
 [giant_rat_2858]
 name=Giant rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -56342,9 +56357,9 @@ vislevel=3
 
 [giant_rat_2861]
 name=Giant rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -56402,9 +56417,9 @@ vislevel=6
 
 [giant_rat_2864]
 name=Giant rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -56474,9 +56489,9 @@ vislevel=12
 
 [dungeon_rat_2867]
 name=Dungeon rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -65650,9 +65665,9 @@ vislevel=3
 
 [giant_rat_3315]
 name=Giant rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -71667,9 +71682,9 @@ vislevel=12
 
 [dungeon_rat_3609]
 name=Dungeon rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -80395,9 +80410,9 @@ ambient=15
 
 [zombie_rat_3971]
 name=Zombie rat
-model1=angry_giant_rat_18893
+model1=giant_crypt_rat_18893
 model2=angry_giant_rat_18889
-model3=angry_giant_rat_18896
+model3=giant_crypt_rat_18896
 model4=reacher_18888
 readyanim=angry_giant_rat_ready_4932
 walkanim=angry_giant_rat_walk_4931
@@ -155165,6 +155180,7 @@ readyanim=tool_leprechaun_ready_7649
 op1=Talk-to
 op3=Exchange
 vislevel=0
+drawpriority=yes
 turnspeed=0
 
 [mernia_7758]
@@ -159878,95 +159894,27 @@ multinpc=254,arsen_the_thief_7976
 multinpc=255,arsen_the_thief_7976
 drawpriority=yes
 
-[cute_creature_multi_7979]
+[captain_tock_multi_7980]
 readyanim=human_ready_808
 walkanim=human_ready_808
 vislevel=0
 multivar=varbit_6071
 multinpc=default,cabin_boy_colin_7967
-multinpc=0,cute_creature_716
-multinpc=1,cute_creature_716
-multinpc=2,cute_creature_716
-multinpc=3,cute_creature_716
-multinpc=4,cute_creature_716
-multinpc=5,cute_creature_716
-multinpc=6,cute_creature_716
-multinpc=7,cute_creature_716
-multinpc=8,cute_creature_716
-multinpc=9,cute_creature_716
-multinpc=10,captain_tock_7956
-multinpc=11,captain_tock_7956
-multinpc=12,captain_tock_7956
-multinpc=13,captain_tock_7956
-multinpc=14,captain_tock_7956
-multinpc=15,captain_tock_7958
-multinpc=16,captain_tock_7958
-multinpc=17,captain_tock_7958
-multinpc=18,captain_tock_7958
-multinpc=19,captain_tock_7958
-multinpc=20,captain_tock_7958
-multinpc=21,captain_tock_7958
-multinpc=22,captain_tock_7958
-multinpc=23,captain_tock_7958
-multinpc=24,captain_tock_7958
-multinpc=25,captain_tock_7958
-multinpc=26,captain_tock_7958
-multinpc=27,captain_tock_7958
-multinpc=28,captain_tock_7958
-multinpc=29,captain_tock_7958
-multinpc=30,captain_tock_7958
-multinpc=31,captain_tock_7958
-multinpc=32,captain_tock_7958
-multinpc=33,captain_tock_7958
-multinpc=34,captain_tock_7958
-multinpc=35,captain_tock_7958
-multinpc=36,captain_tock_7958
-multinpc=37,captain_tock_7958
-multinpc=38,captain_tock_7958
-multinpc=39,captain_tock_7958
-multinpc=40,captain_tock_7958
-multinpc=41,captain_tock_7958
-multinpc=42,captain_tock_7958
-multinpc=43,captain_tock_7958
-multinpc=44,captain_tock_7958
-multinpc=45,captain_tock_7958
-multinpc=46,captain_tock_7958
-multinpc=47,captain_tock_7958
-multinpc=48,captain_tock_7958
-multinpc=49,captain_tock_7958
-multinpc=50,captain_tock_7958
-multinpc=51,captain_tock_7958
-multinpc=52,captain_tock_7958
-multinpc=53,captain_tock_7958
-multinpc=54,captain_tock_7958
-multinpc=55,captain_tock_7958
-multinpc=56,captain_tock_7958
-multinpc=57,captain_tock_7958
-multinpc=58,captain_tock_7958
-multinpc=59,captain_tock_7958
-drawpriority=yes
-
-[cute_creature_multi_7980]
-readyanim=human_ready_808
-walkanim=human_ready_808
-vislevel=0
-multivar=varbit_6071
-multinpc=default,cabin_boy_colin_7967
-multinpc=0,cute_creature_716
-multinpc=1,cute_creature_716
-multinpc=2,cute_creature_716
-multinpc=3,cute_creature_716
-multinpc=4,cute_creature_716
-multinpc=5,cute_creature_716
-multinpc=6,cute_creature_716
-multinpc=7,cute_creature_716
-multinpc=8,cute_creature_716
-multinpc=9,cute_creature_716
-multinpc=10,cute_creature_716
-multinpc=11,cute_creature_716
-multinpc=12,cute_creature_716
-multinpc=13,cute_creature_716
-multinpc=14,cute_creature_716
+multinpc=0,captain_tock_716
+multinpc=1,captain_tock_716
+multinpc=2,captain_tock_716
+multinpc=3,captain_tock_716
+multinpc=4,captain_tock_716
+multinpc=5,captain_tock_716
+multinpc=6,captain_tock_716
+multinpc=7,captain_tock_716
+multinpc=8,captain_tock_716
+multinpc=9,captain_tock_716
+multinpc=10,captain_tock_716
+multinpc=11,captain_tock_716
+multinpc=12,captain_tock_716
+multinpc=13,captain_tock_716
+multinpc=14,captain_tock_716
 multinpc=15,captain_tock_7958
 multinpc=16,captain_tock_7958
 multinpc=17,captain_tock_7958
@@ -169398,17 +169346,17 @@ multinpc=255,drunken_dwarfs_leg_760
 drawpriority=yes
 turnspeed=0
 
-[cute_creature_multi_8421]
+[captain_tock_multi_8421]
 readyanim=troll_286
 walkanim=troll_walk_283
 vislevel=0
 multivar=varbit_6528
 multinpc=default,drunken_dwarfs_leg_8419
-multinpc=0,cute_creature_716
-multinpc=1,cute_creature_716
-multinpc=2,cute_creature_716
-multinpc=3,cute_creature_716
-multinpc=4,cute_creature_716
+multinpc=0,captain_tock_716
+multinpc=1,captain_tock_716
+multinpc=2,captain_tock_716
+multinpc=3,captain_tock_716
+multinpc=4,captain_tock_716
 drawpriority=yes
 
 [squirrel_8422]
@@ -169428,14 +169376,14 @@ recol5s=30
 recol5d=5223
 vislevel=0
 
-[cute_creature_multi_8423]
+[captain_tock_multi_8423]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
 multinpc=default,wolfbone_8424
-multinpc=0,cute_creature_716
+multinpc=0,captain_tock_716
 drawpriority=yes
 
 [wolfbone_8424]
@@ -169443,7 +169391,7 @@ name=Wolfbone
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op1=Talk-to
 size=2
 vislevel=0
@@ -169454,7 +169402,7 @@ name=Mother
 model1=mother_35830
 head1=mother_35838
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op1=Talk-to
 size=3
 vislevel=0
@@ -169474,7 +169422,7 @@ drawpriority=yes
 
 [mother_multi_8427]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=3
 vislevel=0
 multivar=varbit_6528
@@ -169525,7 +169473,7 @@ name=Mother
 model1=mother_35830
 head1=mother_35838
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op2=Attack
 size=3
 vislevel=198
@@ -169537,7 +169485,7 @@ name=Mother
 model1=mother_35830
 head1=mother_35838
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op2=Attack
 size=3
 vislevel=198
@@ -169549,7 +169497,7 @@ name=Mother
 model1=mother_35830
 head1=mother_35838
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op2=Attack
 size=3
 vislevel=198
@@ -169955,7 +169903,7 @@ name=Boulder
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 resizeh=96
 resizev=96
 recol1s=-31443
@@ -169975,7 +169923,7 @@ drawpriority=yes
 
 [boulder_multi_8443]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op1=Talk-to
 size=2
 vislevel=0
@@ -170053,7 +170001,7 @@ name=Root
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=29103
 recol2s=-30551
@@ -170074,7 +170022,7 @@ name=Root
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=29103
 recol2s=-30551
@@ -170094,7 +170042,7 @@ name=Icicle
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op1=Talk-to
 size=2
 vislevel=0
@@ -170105,7 +170053,7 @@ name=Icicle
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 drawpriority=yes
@@ -170115,7 +170063,7 @@ name=Driftwood
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-30434
 recol1d=27934
 recol2s=-30429
@@ -170136,7 +170084,7 @@ name=Driftwood
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-30434
 recol1d=27934
 recol2s=-30429
@@ -170156,7 +170104,7 @@ name=Pebble
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op1=Talk-to
 size=2
 vislevel=0
@@ -170167,7 +170115,7 @@ name=Pebble
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 drawpriority=yes
@@ -170177,7 +170125,7 @@ name=Goat Poo
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=-15305
 recol2s=-30551
@@ -170198,7 +170146,7 @@ name=Goat Poo
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=-15305
 recol2s=-30551
@@ -170218,7 +170166,7 @@ name=Yellow Snow
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-30434
 recol1d=295
 recol2s=-30429
@@ -170239,7 +170187,7 @@ name=Yellow Snow
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-30434
 recol1d=295
 recol2s=-30429
@@ -170259,7 +170207,7 @@ name=Butterfly
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=5289
 recol2s=-30551
@@ -170277,7 +170225,7 @@ drawpriority=yes
 
 [butterfly_multi_8457]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
@@ -170300,7 +170248,7 @@ drawpriority=yes
 
 [butterfly_multi_8458]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
@@ -170552,7 +170500,7 @@ name=Butterfly
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=5289
 recol2s=-30551
@@ -170572,7 +170520,7 @@ name=Odd Stone
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-30434
 recol1d=70
 recol2s=-30429
@@ -170590,7 +170538,7 @@ drawpriority=yes
 
 [odd_stone_multi_8461]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
@@ -170613,7 +170561,7 @@ drawpriority=yes
 
 [odd_stone_multi_8462]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
@@ -170865,7 +170813,7 @@ name=Odd Stone
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-30434
 recol1d=70
 recol2s=-30429
@@ -170885,7 +170833,7 @@ name=Squirrel
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=70
 recol2s=-30551
@@ -170903,7 +170851,7 @@ drawpriority=yes
 
 [squirrel_multi_8465]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
@@ -170926,7 +170874,7 @@ drawpriority=yes
 
 [squirrel_multi_8466]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
@@ -171093,7 +171041,7 @@ name=Squirrel
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=70
 recol2s=-30551
@@ -171110,7 +171058,7 @@ drawpriority=yes
 
 [boulder_multi_8468]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 multivar=varbit_6528
@@ -171304,7 +171252,7 @@ drawpriority=yes
 
 [dont_know_what_multi_8469]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=3
 vislevel=0
 multivar=varbit_6528
@@ -171385,7 +171333,7 @@ name=Troll
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 
@@ -171394,7 +171342,7 @@ name=Troll
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 size=2
 vislevel=0
 
@@ -171403,7 +171351,7 @@ name=Troll
 model1=driftwood_35829
 head1=wolfbone_35840
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-30434
 recol1d=27934
 recol2s=-30429
@@ -171422,7 +171370,7 @@ name=Troll
 model1=boulder_35833
 head1=boulder_35836
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 recol1s=-31443
 recol1d=5289
 recol2s=-30551
@@ -171577,7 +171525,7 @@ drawpriority=yes
 
 [mother_multi_8478]
 readyanim=mother_8154
-walkanim=cute_creature_walk_8150
+walkanim=captain_tock_walk_8150
 op2=Attack
 size=3
 vislevel=198
@@ -174175,18 +174123,6 @@ multinpc=2,veos_8484
 multinpc=3,veos_8484
 multinpc=4,veos_8484
 multinpc=5,veos_8484
-drawpriority=yes
-
-[veos_multi_8633]
-readyanim=doomsayer_ready_813
-walkanim=lumbridge_guide_walk_1205
-walkanim_b=lumbridge_guide_walk_b_1206
-walkanim_r=lumbridge_guide_walk_r_1207
-walkanim_l=lumbridge_guide_walk_l_1208
-vislevel=1
-multivar=varbit_4897
-multinpc=default,veos_8630
-multinpc=0,veos_8484
 drawpriority=yes
 
 [alchemical_hydra_8634]

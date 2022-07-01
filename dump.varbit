@@ -40333,3 +40333,13 @@ basevar=var_2111
 startbit=20
 endbit=20
 
+[varbit_8067]
+basevar=var_309
+startbit=5
+endbit=7
+
+[varbit_8068]
+basevar=var_1317
+startbit=30
+endbit=30
+

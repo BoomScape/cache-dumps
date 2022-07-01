@@ -968,8 +968,9 @@ width=24
 height=24
 hide=yes
 layer=interface_218:3
-optionmask=2
+optionmask=4098
 op1="Cast"
+targetverb="Target"
 
 [interface_218:106]
 type=^iftype_graphic
