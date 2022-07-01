@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script200(event_com,38600719,38600721,38600722,38600723)"
+onload="script200(event_com,38600719,38600722,38600723,38600724,38600721)"
 
 [interface_589:1]
 type=^iftype_text
@@ -190,26 +190,32 @@ shadowed=yes
 
 [interface_589:17]
 type=^iftype_layer
-y=28
 width=50
-height=25
+height=53
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_589:5
-optionmask=2
-op1="*"
 
 [interface_589:18]
 type=^iftype_layer
-width=50
 height=25
-vposmode=^setpos_abs_bottom
+hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_589:5
+layer=interface_589:17
 optionmask=2
 op1="*"
 
 [interface_589:19]
+type=^iftype_layer
+height=25
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+layer=interface_589:17
+optionmask=2
+op1="*"
+
+[interface_589:20]
 type=^iftype_layer
 width=47
 height=53

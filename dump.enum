@@ -2458,11 +2458,10 @@ val=21,treasure_map_4277
 val=22,petition_form_4283
 val=23,bedsheet_4284
 val=24,bedsheet_4285
-val=25,bucket_of_slime_4286
-val=26,raw_beef_4287
-val=27,raw_chicken_4289
-val=28,cooked_chicken_4291
-val=29,cooked_meat_4293
+val=25,raw_beef_4287
+val=26,raw_chicken_4289
+val=27,cooked_chicken_4291
+val=28,cooked_meat_4293
 
 [enum_794]
 inputtype=int
@@ -17187,13 +17186,13 @@ val=interface_12:61,4
 inputtype=int
 outputtype=component
 default=null
-val=1,interface_378:6
-val=2,interface_378:12
-val=3,interface_378:19
-val=4,interface_378:22
-val=5,interface_378:35
-val=6,interface_378:41
-val=7,interface_378:48
+val=1,interface_378:9
+val=2,interface_378:15
+val=3,interface_378:22
+val=4,interface_378:25
+val=5,interface_378:38
+val=6,interface_378:44
+val=7,interface_378:51
 
 [enum_1912]
 inputtype=int
@@ -18134,7 +18133,7 @@ default=null
 val=0,griffin_feather_11196
 val=1,miazrqas_pendant_11197
 val=2,music_sheet_11198
-val=3,dwarven_helmet_11200
+val=3,ruperts_helmet_11199
 val=4,shrinking_recipe_11202
 val=5,to_do_list_11203
 val=6,shrink_me_quick_11204
@@ -18266,6 +18265,7 @@ val=18,holy_force_748
 val=19,yommi_totem_749
 val=20,gilded_totem_750
 val=21,rock_968
+val=22,sketch_720
 
 [enum_2026]
 inputtype=int
@@ -18350,6 +18350,8 @@ val=11,monkey_19556
 val=12,elysian_spirit_shield_19559
 val=13,charged_onyx_19560
 val=14,deconstructed_onyx_19562
+val=15,mspeak_amulet_4021
+val=16,mspeak_amulet_4022
 
 [enum_2032]
 inputtype=int
@@ -18396,6 +18398,8 @@ val=20,naphtha_apple_mix_6095
 val=21,toxic_naphtha_6096
 val=22,sieve_6097
 val=23,toxic_powder_6098
+val=24,barrel_of_naphtha_3221
+val=25,barrel_of_coal_tar_3220
 
 [enum_2034]
 inputtype=int
@@ -18517,6 +18521,7 @@ val=2,clockwork_book_10594
 val=3,mission_report_10597
 val=4,mission_report_10598
 val=5,mission_report_10599
+val=6,kgp_id_card_10600
 
 [enum_2042]
 inputtype=int
@@ -18560,9 +18565,9 @@ val=5,pot_of_quicklime_3214
 val=6,ground_sulphur_3215
 val=7,barrel_bomb_3218
 val=8,barrel_bomb_3219
-val=9,barrel_of_naphtha_3221
-val=10,naphtha_mix_3222
-val=11,naphtha_mix_3223
+val=9,naphtha_mix_3222
+val=10,naphtha_mix_3223
+val=11,big_book_of_bangs_3230
 
 [enum_2046]
 inputtype=int
@@ -18997,6 +19002,8 @@ val=85,enum_2067
 val=86,enum_2068
 val=87,enum_2069
 val=88,enum_2089
+val=89,enum_2090
+val=90,enum_2091
 
 [enum_2074]
 inputtype=enum
@@ -19108,6 +19115,8 @@ val=enum_2067,91
 val=enum_2068,7
 val=enum_2069,81
 val=enum_2089,69
+val=enum_2090,96
+val=enum_2091,115
 
 [enum_2076]
 inputtype=int
@@ -19256,4 +19265,18 @@ val=32,raw_stuffed_snake_7577
 val=33,odd_stuffed_snake_7578
 val=34,stuffed_snake_7579
 val=35,snake_over_cooked_7580
+
+[enum_2090]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,history_of_iban_1494
+val=1,doll_of_iban_1492
+
+[enum_2091]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,catspeak_amulet_4677
+val=1,catspeak_amulet_e_6544
 

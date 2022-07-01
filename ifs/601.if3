@@ -258,9 +258,8 @@ vposmode=^setpos_abs_centre
 layer=interface_601:12
 noclickthrough=yes
 optionmask=6
-opbase="Fn-mode"
-op1="Toggle"
-op2="Set"
+op1="Toggle Function"
+op2="Set Function"
 
 [interface_601:31]
 type=^iftype_graphic

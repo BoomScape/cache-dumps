@@ -35,7 +35,7 @@ y=8
 width=106
 height=22
 layer=interface_64:3
-text="Untradeable Old School bonds:"
+text="Untradeable Old School Bonds:"
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
@@ -169,7 +169,7 @@ y=96
 width=452
 height=20
 layer=interface_64:1
-text="How many Old School bonds would you like to make tradeable?"
+text="How many Old School Bonds would you like to make tradeable?"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -184,7 +184,7 @@ y=115
 width=452
 height=16
 layer=interface_64:1
-text="You can only convert bonds that are in your inventory."
+text="You can only convert Bonds that are in your inventory."
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
@@ -277,12 +277,12 @@ shadowed=yes
 
 [interface_64:27]
 type=^iftype_text
-x=200
+x=190
 y=176
 width=150
 height=16
 layer=interface_64:1
-text="Price per bond:"
+text="Price per Bond:"
 colour=0xffb83f
 font=p11_full
 halign=^settextalign_right
@@ -291,7 +291,7 @@ shadowed=yes
 
 [interface_64:28]
 type=^iftype_graphic
-x=353
+x=343
 y=173
 width=4
 height=20
@@ -300,7 +300,7 @@ graphic="graphic_1123"
 
 [interface_64:29]
 type=^iftype_graphic
-x=357
+x=347
 y=173
 width=107
 height=20
@@ -310,7 +310,7 @@ tiling=yes
 
 [interface_64:30]
 type=^iftype_graphic
-x=464
+x=454
 y=173
 width=4
 height=20
@@ -319,7 +319,7 @@ graphic="graphic_1125"
 
 [interface_64:31]
 type=^iftype_text
-x=353
+x=343
 y=176
 width=115
 height=16

@@ -110,10 +110,10 @@ colour=0x2e2b23
 
 [interface_12:12]
 type=^iftype_layer
+x=1
 y=39
-width=374
+width=460
 height=81
-hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
 layer=interface_12:9
@@ -614,8 +614,6 @@ width=204
 height=103
 hposmode=^setpos_abs_centre
 layer=interface_12:48
-optionmask=2
-op1="*"
 onload="script2207(event_com)"
 
 [interface_12:54]

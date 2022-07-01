@@ -65564,8 +65564,8 @@ op1=Talk-to
 vislevel=0
 drawpriority=yes
 
-[financial_advisor_3310]
-name=Financial Advisor
+[account_guide_3310]
+name=Account Guide
 model1=male_hair_215
 model2=male_jaw_247
 model3=male_torso_292
@@ -164782,11 +164782,12 @@ op2=Attack
 size=3
 vislevel=128
 
-[dogadile_8196]
-name=Dogadile
+[puppadile_8196]
+name=Puppadile
 model1=muttadile_32681
+head1=puppadile_34598
 readyanim=muttadile_ready_7417
-walkanim=muttadile_walk_7419
+walkanim=puppadile_walk_7982
 resizeh=45
 resizev=45
 op1=Talk-to
