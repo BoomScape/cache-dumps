@@ -5005,3 +5005,36 @@ graphic="mapfunction,6"
 vis=^mapelement_vis_both
 category=1056
 
+[mapelement_858]
+graphic="mapfunction,129"
+vis=^mapelement_vis_both
+category=1641
+
+[mapelement_859]
+graphic="mapfunction,130"
+vis=^mapelement_vis_both
+category=1642
+
+[mapelement_860]
+graphic="mapfunction,131"
+vis=^mapelement_vis_both
+category=1643
+
+[mapelement_861]
+text=Kovac
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_862]
+text=Giants' Plateau
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_863]
+graphic="mapfunction,6"
+vis=^mapelement_vis_both
+category=1056
+

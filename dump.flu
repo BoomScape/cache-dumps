@@ -265,6 +265,12 @@ colour=0x1b6f88
 [flu_88]
 colour=0x83245
 
+[flu_89]
+colour=0x85665f
+
+[flu_90]
+colour=0x9b664e
+
 [flu_91]
 colour=0x5c5444
 
@@ -291,6 +297,9 @@ colour=0x276d27
 
 [flu_99]
 colour=0x396215
+
+[flu_100]
+colour=0x705650
 
 [flu_102]
 colour=0x111e1a

@@ -18288,6 +18288,7 @@ recol2s=5532
 recol2d=-30246
 members=yes
 placeholder=yes
+param=param_1641,1
 
 [blamish_snail_slime_1581]
 name=Blamish snail slime
@@ -265377,6 +265378,7 @@ recol2s=-11328
 recol2d=5066
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2097
 
 [placeholder_abyssal_lantern_normal_logs_26825]
 placeholder=yes
@@ -265404,6 +265406,7 @@ recol2s=-11328
 recol2d=-26676
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2098
 
 [placeholder_abyssal_lantern_blue_logs_26827]
 placeholder=yes
@@ -265431,6 +265434,7 @@ recol2s=-11328
 recol2d=960
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2099
 
 [placeholder_abyssal_lantern_red_logs_26829]
 placeholder=yes
@@ -265458,6 +265462,7 @@ recol2s=-11328
 recol2d=127
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2100
 
 [placeholder_abyssal_lantern_white_logs_26831]
 placeholder=yes
@@ -265485,6 +265490,7 @@ recol2s=-11328
 recol2d=-14632
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2101
 
 [placeholder_abyssal_lantern_purple_logs_26833]
 placeholder=yes
@@ -265512,6 +265518,7 @@ recol2s=-11328
 recol2d=22476
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2102
 
 [placeholder_abyssal_lantern_green_logs_26835]
 placeholder=yes
@@ -265539,6 +265546,7 @@ recol2s=-11328
 recol2d=8130
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2103
 
 [placeholder_abyssal_lantern_oak_logs_26837]
 placeholder=yes
@@ -265566,6 +265574,7 @@ recol2s=-11328
 recol2d=11200
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2104
 
 [placeholder_abyssal_lantern_willow_logs_26839]
 placeholder=yes
@@ -265593,6 +265602,7 @@ recol2s=-11328
 recol2d=-13860
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2105
 
 [placeholder_abyssal_lantern_maple_logs_26841]
 placeholder=yes
@@ -265620,6 +265630,7 @@ recol2s=-11328
 recol2d=13252
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2106
 
 [placeholder_abyssal_lantern_yew_logs_26843]
 placeholder=yes
@@ -265647,6 +265658,7 @@ recol2s=-11328
 recol2d=125
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2107
 
 [placeholder_abyssal_lantern_blisterwood_logs_26845]
 placeholder=yes
@@ -265674,6 +265686,7 @@ recol2s=-11328
 recol2d=31680
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2108
 
 [placeholder_abyssal_lantern_magic_logs_26847]
 placeholder=yes
@@ -265701,6 +265714,7 @@ recol2s=-11328
 recol2d=1984
 members=yes
 placeholder=yes
+param=param_1642,spotanim_2109
 
 [placeholder_abyssal_lantern_redwood_logs_26849]
 placeholder=yes
@@ -267755,4 +267769,225 @@ recol1d=6057
 recol2s=74
 recol2d=7114
 members=yes
+
+[preform_27010]
+name=Preform
+model=preform_44901
+manwear=preform_44793,0
+womanwear=preform_44796,0
+cost=80
+2dxof=2
+2dyof=6
+2dxan=492
+2dyan=3
+members=yes
+ambient=15
+contrast=35
+placeholder=yes
+
+[placeholder_preform_27011]
+placeholder=yes
+
+[double_ammo_mould_27012]
+name=Double ammo mould
+model=double_ammo_mould_44895
+cost=5
+2dzoom=2160
+2dxof=2
+2dyof=8
+2dxan=386
+2dyan=181
+members=yes
+placeholder=yes
+
+[placeholder_double_ammo_mould_27013]
+placeholder=yes
+
+[kovacs_grog_27014]
+name=Kovac's grog
+model=kovacs_grog_44900
+manwear=beer_6098,0
+womanwear=beer_6098,0
+cost=5
+2dzoom=1428
+2dxof=12
+2dyof=-18
+2dxan=140
+2dyan=1904
+iop1=Drink
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_kovacs_grog_27015]
+certificate=yes
+
+[placeholder_kovacs_grog_27016]
+placeholder=yes
+
+[smithing_catalyst_27017]
+name=Smithing catalyst
+model=smithing_catalyst_44896
+cost=100
+2dzoom=1466
+2dxof=2
+2dyof=-8
+2dxan=147
+2dyan=2024
+members=yes
+placeholder=yes
+
+[placeholder_smithing_catalyst_27018]
+placeholder=yes
+
+[ore_pack_27019]
+name=Ore pack
+model=ore_pack_44899
+cost=40
+2dzoom=1252
+2dxof=4
+2dxan=106
+2dyan=477
+iop1=Open
+iop5=Destroy
+members=yes
+ambient=30
+contrast=30
+placeholder=yes
+
+[placeholder_ore_pack_27020]
+placeholder=yes
+
+[colossal_blade_27021]
+name=Colossal blade
+model=colossal_blade_44902
+manwear=colossal_blade_44795,0
+womanwear=colossal_blade_44794,0
+category=category_61
+cost=60000
+2dxof=2
+2dyof=6
+2dxan=492
+2dyan=3
+iop2=Wield
+members=yes
+ambient=15
+contrast=35
+placeholder=yes
+
+[placeholder_colossal_blade_27022]
+placeholder=yes
+
+[smiths_tunic_27023]
+name=Smiths tunic
+model=smiths_tunic_44916
+manwear=smiths_tunic_44786,0
+womanwear=smiths_tunic_44791,0
+cost=380
+2dzoom=1167
+2dxof=-1
+2dxan=526
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_1640,2
+
+[placeholder_smiths_tunic_27024]
+placeholder=yes
+
+[smiths_trousers_27025]
+name=Smiths trousers
+model=smiths_trousers_44918
+manwear=smiths_trousers_44785,0
+womanwear=smiths_trousers_44790,0
+cost=340
+2dzoom=1697
+2dxof=-2
+2dyof=-1
+2dxan=553
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_1640,2
+
+[placeholder_smiths_trousers_27026]
+placeholder=yes
+
+[smiths_boots_27027]
+name=Smiths boots
+model=smiths_boots_44920
+manwear=smiths_boots_44787,0
+womanwear=smiths_boots_44792,0
+cost=280
+2dzoom=833
+2dxof=2
+2dyof=-15
+2dxan=198
+2dyan=171
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_1640,2
+
+[placeholder_smiths_boots_27028]
+placeholder=yes
+
+[smiths_gloves_27029]
+name=Smiths gloves
+model=smiths_gloves_44917
+manwear=smiths_gloves_44784,0
+womanwear=smiths_gloves_44789,0
+cost=390
+2dzoom=833
+2dxof=-3
+2dyof=-1
+2dxan=1665
+2dyan=1167
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_1640,2
+
+[placeholder_smiths_gloves_27030]
+placeholder=yes
+
+[smiths_gloves_i_27031]
+name=Smiths gloves (i)
+model=smiths_gloves_i_44919
+manwear=smiths_gloves_i_44783,0
+womanwear=smiths_gloves_i_44788,0
+cost=390
+2dzoom=833
+2dxof=-3
+2dyof=-1
+2dxan=1665
+2dyan=1167
+iop2=Wear
+iop3=Dismantle
+members=yes
+placeholder=yes
+param=param_1640,2
+param=param_1641,1
+
+[placeholder_smiths_gloves_i_27032]
+placeholder=yes
+
+[giants_foundry_tester_27033]
+name=Giants foundry tester
+model=radas_blessing_36134
+cost=0
+2dzoom=1246
+2dxof=-7
+2dyof=54
+2dxan=264
+2dyan=1716
+iop1=Setup
+iop2=Game
+iop3=Scoreing
+iop4=Quest
+placeholder=yes
+
+[placeholder_giants_foundry_tester_27034]
+placeholder=yes
 

@@ -4,6 +4,7 @@ width=492
 height=300
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
+onload="script6124"
 
 [interface_446:1]
 type=^iftype_layer

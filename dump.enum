@@ -3611,6 +3611,7 @@ val=719,Ruins of Isolation
 val=720,The Forgotten Tomb
 val=721,Thrall of the Devourer
 val=722,The Pharaoh
+val=723,The Foundry
 
 [enum_814]
 inputtype=int
@@ -4386,6 +4387,7 @@ val=719,Ruins of Isolation
 val=720,"Forgotten Tomb, The"
 val=721,Thrall of the Devourer
 val=722,"Pharaoh, The"
+val=723,"Foundry, The"
 
 [enum_818]
 inputtype=int
@@ -5105,6 +5107,7 @@ val=710,719
 val=711,720
 val=712,721
 val=713,722
+val=714,723
 
 [enum_819]
 inputtype=int
@@ -5832,6 +5835,7 @@ val=719,0_0_0_22_23
 val=720,0_0_0_22_24
 val=721,0_0_0_22_25
 val=722,0_0_0_22_26
+val=723,0_0_0_22_27
 
 [enum_823]
 inputtype=component
@@ -6845,24 +6849,25 @@ val=2,Blast Furnace
 val=4,Castle Wars
 val=7,Fishing Trawler
 val=3,Burthorpe Games Room
-val=11,Nightmare Zone
-val=12,Pest Control
-val=14,Rat Pits
-val=15,Shades of Mort'ton
-val=21,Trouble Brewing
-val=22,TzHaar Fight Pit
-val=16,Shield of Arrav
+val=12,Nightmare Zone
+val=13,Pest Control
+val=15,Rat Pits
+val=16,Shades of Mort'ton
+val=22,Trouble Brewing
+val=23,TzHaar Fight Pit
+val=17,Shield of Arrav
 val=5,Clan Wars
-val=8,God Wars
-val=9,Guardians of the Rift
+val=8,Giants' Foundry
+val=9,God Wars
+val=10,Guardians of the Rift
 val=6,Dagannoth Kings
-val=13,Player Owned Houses
-val=20,Tithe Farm
-val=10,Last Man Standing
-val=23,Volcanic Mine
-val=19,Theatre of Blood
-val=18,Soul Wars
-val=17,Shooting Stars
+val=14,Player Owned Houses
+val=21,Tithe Farm
+val=11,Last Man Standing
+val=24,Volcanic Mine
+val=20,Theatre of Blood
+val=19,Soul Wars
+val=18,Shooting Stars
 
 [enum_849]
 inputtype=int
@@ -6873,24 +6878,25 @@ val=2,osrs bf
 val=4,osrs castle
 val=7,osrs ft
 val=3,osrs bgr
-val=11,osrs nmz
-val=12,osrs pc
-val=14,osrs ratpits
-val=15,osrs shades
-val=21,osrs tb
-val=22,osrs tfp
-val=16,osrs soa
+val=12,osrs nmz
+val=13,osrs pc
+val=15,osrs ratpits
+val=16,osrs shades
+val=22,osrs tb
+val=23,osrs tfp
+val=17,osrs soa
 val=5,osrs clw
-val=8,osrs gwd
-val=9,osrs gotr cc
+val=8,osrs gf cc
+val=9,osrs gwd
+val=10,osrs gotr cc
 val=6,osrs dkings
-val=13,osrs poh
-val=20,osrs tithe
-val=10,osrs lms cc
-val=23,os volcmine
-val=19,osrs tob cc
-val=18,osrs sw cc
-val=17,osrs star cc
+val=14,osrs poh
+val=21,osrs tithe
+val=11,osrs lms cc
+val=24,os volcmine
+val=20,osrs tob cc
+val=19,osrs sw cc
+val=18,osrs star cc
 
 [enum_850]
 inputtype=int
@@ -6907,18 +6913,19 @@ val=8,-1
 val=9,-1
 val=10,-1
 val=11,-1
-val=12,344
-val=13,330
-val=14,377
+val=12,-1
+val=13,344
+val=14,330
 val=15,377
-val=16,-1
-val=18,320
-val=19,376
-val=20,-1
-val=21,304
-val=22,362
-val=23,323
+val=16,377
 val=17,-1
+val=19,320
+val=20,376
+val=21,-1
+val=22,304
+val=23,362
+val=24,323
+val=18,-1
 
 [enum_852]
 inputtype=int
@@ -11438,6 +11445,14 @@ val=cert_compost_6033,1
 val=cert_supercompost_6035,5
 val=grape_seed_13657,2
 val=bologas_blessing_20747,1
+val=farmers_strawhat_13647,75
+val=farmers_strawhat_13646,75
+val=farmers_shirt_13643,150
+val=farmers_jacket_13642,150
+val=farmers_boro_trousers_13641,125
+val=farmers_boro_trousers_13640,125
+val=farmers_boots_13645,50
+val=farmers_boots_13644,50
 
 [enum_1264]
 inputtype=int
@@ -16405,6 +16420,7 @@ val=37,wma_34
 val=38,wma_35
 val=39,wma_37
 val=40,wma_40
+val=41,wma_41
 
 [enum_1701]
 inputtype=int
@@ -16566,6 +16582,9 @@ val=107,category_1459
 val=108,category_1499
 val=109,category_1551
 val=110,category_1579
+val=111,category_1641
+val=112,category_1642
+val=113,category_1643
 
 [enum_1711]
 inputtype=int
@@ -16695,6 +16714,9 @@ val=category_1459,"mapfunction,125"
 val=category_1499,"mapfunction,126"
 val=category_1551,"mapfunction,127"
 val=category_1579,"mapfunction,128"
+val=category_1641,"mapfunction,129"
+val=category_1642,"mapfunction,130"
+val=category_1643,"mapfunction,131"
 
 [enum_1713]
 inputtype=category
@@ -16811,6 +16833,9 @@ val=category_1459,Death's Office
 val=category_1499,Distraction & Diversion
 val=category_1551,Clan Hub
 val=category_1579,Combat Achievements
+val=category_1641,Trip Hammer
+val=category_1642,Grindstone
+val=category_1643,Polishing wheel
 
 [enum_1714]
 inputtype=category
@@ -16927,6 +16952,9 @@ val=category_1459,0
 val=category_1499,0
 val=category_1551,0
 val=category_1579,0
+val=category_1641,2
+val=category_1642,2
+val=category_1643,2
 
 [enum_1715]
 inputtype=int
@@ -21102,20 +21130,21 @@ val=0,barbarian_assault_516
 val=1,brimhaven_agility_arena_2873
 val=2,castle_wars_514
 val=3,fishing_trawler_520
-val=4,gnome_restaurant_521
-val=5,guardians_of_the_rift_4274
-val=6,hallowed_sepulchre_1279
-val=7,last_man_standing_1720
-val=8,magic_training_arena_515
-val=9,mahogany_homes_1689
-val=10,pest_control_518
-val=11,rogues_den_522
-val=12,shades_of_mortton_517
-val=13,soul_wars_2825
-val=14,temple_trekking_519
-val=15,tithe_farm_524
-val=16,trouble_brewing_523
-val=17,volcanic_mine_2872
+val=4,giants_foundry_4359
+val=5,gnome_restaurant_521
+val=6,guardians_of_the_rift_4274
+val=7,hallowed_sepulchre_1279
+val=8,last_man_standing_1720
+val=9,magic_training_arena_515
+val=10,mahogany_homes_1689
+val=11,pest_control_518
+val=12,rogues_den_522
+val=13,shades_of_mortton_517
+val=14,soul_wars_2825
+val=15,temple_trekking_519
+val=16,tithe_farm_524
+val=17,trouble_brewing_523
+val=18,volcanic_mine_2872
 
 [enum_2107]
 inputtype=int
@@ -27246,6 +27275,7 @@ val=36,<col=ffffff>Maoma's Elite set<br><br>Gain a +30% boost to your melee accu
 val=37,<col=ffffff>Koriff's coif set:<br><br>Gain a +25% boost to your ranged accuracy.<br>Gain a +12.5% boost to your ranged damage.
 val=38,<col=ffffff>Saika's shroud<br><br>Gain a +60% boost to your magic accuracy.<br>Gain a +5% boost to your magic damage.
 val=39,<col=ffffff>Raiments of the Eye:<br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>
+val=40,<col=ffffff>Smiths Uniform:<br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>
 
 [enum_3048]
 inputtype=int
@@ -27833,6 +27863,7 @@ val=robe_top_of_the_eye_26852,enum_4239
 val=robe_top_of_the_eye_red_26860,enum_4240
 val=robe_top_of_the_eye_green_26866,enum_4241
 val=robe_top_of_the_eye_blue_26872,enum_4242
+val=smiths_tunic_27023,enum_4369
 
 [enum_3078]
 inputtype=int
@@ -29758,6 +29789,7 @@ val=69,robe_top_of_the_eye_26852
 val=70,robe_top_of_the_eye_red_26860
 val=71,robe_top_of_the_eye_green_26866
 val=72,robe_top_of_the_eye_blue_26872
+val=73,smiths_tunic_27023
 
 [enum_3290]
 inputtype=int
@@ -30492,6 +30524,7 @@ val=robe_top_of_the_eye_26852,Raiments of the Eye
 val=robe_top_of_the_eye_green_26866,Raiments of the Eye (Green)
 val=robe_top_of_the_eye_red_26860,Raiments of the Eye (Red)
 val=robe_top_of_the_eye_blue_26872,Raiments of the Eye (Blue)
+val=smiths_tunic_27023,Smiths' Uniform
 val=decorative_helm_4071,Castle Wars Decorative armour (1)
 val=decorative_helm_4506,Castle Wars Decorative armour (2)
 val=decorative_helm_4511,Castle Wars Decorative armour (3)
@@ -31218,6 +31251,7 @@ val=deadmans_cape_13319,deadmans_cape_24191
 val=cat_ears_24525,hell_cat_ears_24527
 val=soul_cape_25346,soul_cape_25344
 val=ugly_halloween_jumper_orange_26256,ugly_halloween_jumper_black_26258
+val=smiths_gloves_27029,smiths_gloves_i_27031
 
 [enum_3304]
 inputtype=obj
@@ -50755,6 +50789,7 @@ val=mapelement_850,zogre_flesh_eaters_449
 val=mapelement_853,land_of_the_goblins_4135
 val=mapelement_854,temple_of_the_eye_4273
 val=mapelement_857,beneath_cursed_sands_4287
+val=mapelement_863,sleeping_giants_4290
 
 [enum_3997]
 inputtype=int
@@ -57089,6 +57124,7 @@ val=165,the_frozen_door_3768
 val=166,hopespears_will_4136
 val=167,temple_of_the_eye_4273
 val=168,beneath_cursed_sands_4287
+val=169,sleeping_giants_4290
 
 [enum_4286]
 inputtype=inv
@@ -58033,4 +58069,126 @@ inputtype=int
 outputtype=struct
 default=null
 val=1,struct_4288
+
+[enum_4369]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,smiths_tunic_27023
+val=1,smiths_trousers_27025
+val=2,smiths_boots_27027
+val=3,smiths_gloves_27029
+
+[enum_4372]
+inputtype=int
+outputtype=string
+default=
+val=1,Narrow
+val=2,Light
+val=3,Flat
+val=4,Broad
+val=5,Heavy
+val=6,Spiked
+
+[enum_4373]
+inputtype=int
+outputtype=struct
+default=null
+val=1,struct_4291
+val=2,struct_4292
+val=3,struct_4293
+val=4,struct_4294
+val=5,struct_4295
+val=6,struct_4296
+val=7,struct_4297
+val=8,struct_4298
+val=9,struct_4299
+val=10,struct_4300
+val=11,struct_4301
+
+[enum_4374]
+inputtype=int
+outputtype=struct
+default=null
+val=1,struct_4302
+val=2,struct_4303
+val=3,struct_4304
+val=4,struct_4305
+val=5,struct_4306
+val=6,struct_4307
+val=7,struct_4308
+val=8,struct_4309
+val=9,struct_4310
+val=10,struct_4311
+val=11,struct_4312
+
+[enum_4375]
+inputtype=int
+outputtype=struct
+default=null
+val=1,struct_4313
+val=2,struct_4314
+val=3,struct_4315
+val=4,struct_4316
+val=5,struct_4317
+val=6,struct_4318
+val=7,struct_4319
+val=8,struct_4320
+val=9,struct_4321
+val=10,struct_4322
+val=11,struct_4323
+
+[enum_4379]
+inputtype=int
+outputtype=struct
+default=null
+val=1,struct_4335
+val=2,struct_4336
+val=3,struct_4337
+val=4,struct_4338
+val=5,struct_4339
+val=6,struct_4340
+val=7,struct_4341
+val=8,struct_4342
+val=9,struct_4343
+val=10,struct_4344
+val=11,struct_4345
+val=12,struct_4346
+val=13,struct_4347
+val=14,struct_4348
+val=15,struct_4349
+val=16,struct_4350
+val=17,struct_4351
+val=18,struct_4352
+val=19,struct_4353
+val=20,struct_4354
+val=21,struct_4355
+val=22,struct_4356
+val=23,struct_4357
+val=24,struct_4358
+
+[enum_4380]
+inputtype=int
+outputtype=string
+default=Show all
+val=0,Show all
+val=1,Show all items
+val=2,Show all moulds
+val=3,Show forte moulds
+val=4,Show blade moulds
+val=5,Show tip moulds
+
+[enum_4381]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,smiths_tunic_27023
+val=1,smiths_trousers_27025
+val=2,smiths_boots_27027
+val=3,smiths_gloves_27029
+val=4,colossal_blade_27021
+val=5,double_ammo_mould_27012
+val=6,kovacs_grog_27014
+val=7,smithing_catalyst_27017
+val=8,ore_pack_27019
 

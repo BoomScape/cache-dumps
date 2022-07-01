@@ -859,3 +859,15 @@ colour=^green
 [flo_221]
 colour=0xff1eff
 
+[flo_222]
+colour=0x85665f
+occlude=no
+
+[flo_223]
+colour=0x9b664e
+occlude=no
+
+[flo_224]
+colour=0x705650
+occlude=no
+
