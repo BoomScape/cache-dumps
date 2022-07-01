@@ -54,7 +54,7 @@ zoom=500
 [interface_539:5]
 type=^iftype_layer
 x=125
-width=36
+width=85
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_539:2

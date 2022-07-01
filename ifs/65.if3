@@ -30,8 +30,8 @@ onload="script703(event_com,Old School Bonds,0)"
 
 [interface_65:4]
 type=^iftype_layer
-x=16
-y=40
+x=14
+y=39
 width=215
 height=125
 layer=interface_65:2
@@ -256,8 +256,8 @@ colour=0x383023
 
 [interface_65:24]
 type=^iftype_layer
-x=16
-y=169
+x=14
+y=168
 width=215
 height=125
 layer=interface_65:2
@@ -575,7 +575,7 @@ shadowed=yes
 [interface_65:54]
 type=^iftype_layer
 y=160
-width=140
+width=160
 height=30
 hposmode=^setpos_abs_centre
 layer=interface_65:60
@@ -637,10 +637,11 @@ shadowed=yes
 
 [interface_65:60]
 type=^iftype_layer
-x=234
-y=40
+x=14
+y=39
 width=238
 height=195
+hposmode=^setpos_abs_right
 layer=interface_65:2
 
 [interface_65:61]
@@ -706,10 +707,11 @@ y=90
 width=160
 height=63
 hposmode=^setpos_abs_centre
+hide=yes
 layer=interface_65:60
 optionmask=2
 opbase=": <ff9040>Premier Club</col>"
-op1="Click here for info"
+op1="Info"
 onmouseover="script45(4259907,15658734)"
 onmouseleave="script45(4259907,16750623)"
 
@@ -765,13 +767,15 @@ graphic="graphic_1410"
 
 [interface_65:72]
 type=^iftype_layer
-y=48
+y=46
 width=212
 height=40
 hposmode=^setpos_abs_centre
 hide=yes
 layer=interface_65:60
+optionmask=2
 opbase=": <ff9040>Summer Special</col>"
+op1="Info"
 onmouseover="script45(4259913,15658734)"
 onmouseleave="script45(4259913,16750623)"
 
@@ -782,7 +786,6 @@ width=67
 height=20
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-hide=yes
 layer=interface_65:72
 text="Summer Special"
 colour=0xff981f
@@ -798,7 +801,6 @@ y=5
 width=15
 height=15
 hposmode=^setpos_abs_right
-hide=yes
 layer=interface_65:72
 graphic="mapfunction_infoicon"
 
@@ -809,7 +811,6 @@ width=80
 height=20
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-hide=yes
 layer=interface_65:72
 text="3 Months for 5 Bonds"
 colour=^white
@@ -823,7 +824,6 @@ y=1
 width=32
 height=32
 vposmode=^setpos_abs_bottom
-hide=yes
 layer=interface_65:72
 model=old_school_bond_29210
 xan=244
@@ -832,10 +832,11 @@ zoom=1500
 
 [interface_65:77]
 type=^iftype_layer
-x=234
-y=238
+x=14
+y=237
 width=238
 height=56
+hposmode=^setpos_abs_right
 layer=interface_65:2
 
 [interface_65:78]
@@ -875,7 +876,7 @@ shadowed=yes
 [interface_65:81]
 type=^iftype_layer
 y=22
-width=140
+width=160
 height=30
 hposmode=^setpos_abs_centre
 layer=interface_65:77
