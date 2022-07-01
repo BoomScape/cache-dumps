@@ -5,6 +5,15 @@ duration=300
 full="standard_health_30,0"
 empty="standard_health_30,1"
 
+[headbar_1]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+full="graphic_2967"
+empty="graphic_2968"
+width=50
+
 [headbar_2]
 showpriority=250
 hidepriority=250

@@ -69,7 +69,7 @@ layer=interface_640:1
 [interface_640:6]
 type=^iftype_layer
 width=336
-height=898
+height=899
 hposmode=^setpos_abs_centre
 layer=interface_640:5
 

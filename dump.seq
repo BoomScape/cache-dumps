@@ -1003,13 +1003,13 @@ framegroup1=2595
 soundeffect10=4921,1,15
 soundeffect11=630,1,15
 
-[bamboo_monkey_trap_177]
+[seq_177]
 framecount=16
 replayoff=16
 looptype=1
 framegroup1=2597
 
-[caged_monkey_bob_178]
+[seq_178]
 framecount=48
 replayoff=48
 looptype=1
@@ -1033,7 +1033,7 @@ movetype=1
 looptype=1
 framegroup1=207
 
-[monkey_on_cow_ready_180]
+[cow_ready_180]
 framecount=89
 priority=4
 looptype=1
@@ -1291,7 +1291,7 @@ priority=10
 looptype=1
 framegroup1=908
 
-[monkey_on_cow_walk_229]
+[cow_walk_229]
 framecount=16
 looptype=1
 framegroup1=2583
@@ -28113,12 +28113,6 @@ priority=10
 looptype=1
 framegroup1=1208
 
-[bob_ready_4645]
-framecount=18
-priority=4
-looptype=1
-framegroup1=406
-
 [seq_4646]
 framecount=16
 priority=4
@@ -54558,6 +54552,50 @@ framegroup1=2599
 framecount=16
 looptype=1
 framegroup1=2599
+
+[seq_8861]
+framecount=55
+replayoff=1
+priority=4
+looptype=1
+framegroup1=2601
+
+[seq_8862]
+framecount=64
+replayoff=64
+priority=10
+looptype=1
+framegroup1=2602
+
+[crashed_star_8863]
+framecount=46
+replayoff=1
+looptype=1
+framegroup1=2601
+
+[star_sprite_ready_8864]
+framecount=152
+priority=4
+looptype=1
+framegroup1=2600
+soundeffect26=4926,1,5
+soundeffect57=4928,1,5
+soundeffect73=4934,1,5
+soundeffect80=4941,1,5
+soundeffect114=4926,1,5
+soundeffect142=4937,1,5
+
+[seq_8865]
+framecount=46
+priority=10
+looptype=1
+framegroup1=2601
+
+[seq_8866]
+framecount=30
+priority=10
+looptype=1
+framegroup1=2600
 
 [seq_8885]
 framecount=52

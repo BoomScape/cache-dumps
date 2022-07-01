@@ -139,6 +139,17 @@ graphic="miscgraphics,3"
 tiling=yes
 
 [interface_387:14]
+type=^iftype_graphic
+x=118
+y=19
+width=36
+height=45
+hide=yes
+layer=interface_387:0
+graphic="miscgraphics,2"
+tiling=yes
+
+[interface_387:15]
 type=^iftype_layer
 x=77
 y=4
@@ -158,7 +169,7 @@ op9="*"
 op10="*"
 onload="script3281(2775,1)"
 
-[interface_387:15]
+[interface_387:16]
 type=^iftype_layer
 x=36
 y=43
@@ -177,7 +188,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_387:16]
+[interface_387:17]
 type=^iftype_layer
 x=77
 y=43
@@ -196,28 +207,9 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_387:17]
-type=^iftype_layer
-x=21
-y=82
-width=36
-height=36
-layer=interface_387:0
-optionmask=2046
-op1="*"
-op2="*"
-op3="*"
-op4="*"
-op5="*"
-op6="*"
-op7="*"
-op8="*"
-op9="*"
-op10="*"
-
 [interface_387:18]
 type=^iftype_layer
-x=77
+x=21
 y=82
 width=36
 height=36
@@ -236,7 +228,7 @@ op10="*"
 
 [interface_387:19]
 type=^iftype_layer
-x=133
+x=77
 y=82
 width=36
 height=36
@@ -255,6 +247,25 @@ op10="*"
 
 [interface_387:20]
 type=^iftype_layer
+x=133
+y=82
+width=36
+height=36
+layer=interface_387:0
+optionmask=2046
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op5="*"
+op6="*"
+op7="*"
+op8="*"
+op9="*"
+op10="*"
+
+[interface_387:21]
+type=^iftype_layer
 x=77
 y=122
 width=36
@@ -272,7 +283,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_387:21]
+[interface_387:22]
 type=^iftype_layer
 x=21
 y=162
@@ -291,7 +302,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_387:22]
+[interface_387:23]
 type=^iftype_layer
 x=77
 y=162
@@ -310,7 +321,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_387:23]
+[interface_387:24]
 type=^iftype_layer
 x=133
 y=162
@@ -329,7 +340,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_387:24]
+[interface_387:25]
 type=^iftype_layer
 x=118
 y=43
@@ -347,4 +358,15 @@ op7="*"
 op8="*"
 op9="*"
 op10="*"
+
+[interface_387:26]
+type=^iftype_layer
+x=118
+y=4
+width=36
+height=36
+layer=interface_387:0
+optionmask=2
+op1="*"
+onload="script4037(event_com,25362446)"
 
