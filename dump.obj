@@ -7958,6 +7958,7 @@ model=shiny_key_2372
 2dyof=5
 2dxan=328
 2dyan=20
+iop4=Inspect
 certificate=yes
 placeholder=yes
 
@@ -8054,6 +8055,7 @@ cost=4
 2dxan=483
 2dyan=1815
 iop2=Wield
+iop4=Inspect
 recol1s=6447
 recol1d=6439
 recol2s=6443
@@ -11931,11 +11933,11 @@ placeholder=yes
 [cert_leather_vambraces_1064]
 certificate=yes
 
-[green_dhide_vamb_1065]
-name=Green d'hide vamb
+[green_dhide_vambraces_1065]
+name=Green d'hide vambraces
 model=leather_vambraces_2656
-manwear=green_dhide_vamb_178,0
-womanwear=green_dhide_vamb_355,0
+manwear=green_dhide_vambraces_178,0
+womanwear=green_dhide_vambraces_355,0
 cost=2500
 2dzoom=740
 2dxof=7
@@ -11951,7 +11953,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_green_dhide_vamb_1066]
+[cert_green_dhide_vambraces_1066]
 certificate=yes
 
 [iron_platelegs_1067]
@@ -17602,6 +17604,7 @@ cost=5
 2dyof=-3
 2dxan=184
 2dyan=1628
+iop4=Inspect
 members=yes
 certificate=yes
 placeholder=yes
@@ -17712,6 +17715,7 @@ model=shiny_key_2372
 2dyof=5
 2dxan=328
 2dyan=20
+iop4=Inspect
 recol1s=8128
 recol1d=7087
 members=yes
@@ -26957,11 +26961,11 @@ placeholder=yes
 [cert_grimy_lantadyme_2486]
 certificate=yes
 
-[blue_dhide_vamb_2487]
-name=Blue d'hide vamb
+[blue_dhide_vambraces_2487]
+name=Blue d'hide vambraces
 model=leather_vambraces_2656
-manwear=green_dhide_vamb_178,0
-womanwear=green_dhide_vamb_355,0
+manwear=green_dhide_vambraces_178,0
+womanwear=green_dhide_vambraces_355,0
 cost=3000
 2dzoom=740
 2dxof=7
@@ -26980,14 +26984,14 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_blue_dhide_vamb_2488]
+[cert_blue_dhide_vambraces_2488]
 certificate=yes
 
-[red_dhide_vamb_2489]
-name=Red d'hide vamb
+[red_dhide_vambraces_2489]
+name=Red d'hide vambraces
 model=leather_vambraces_2656
-manwear=green_dhide_vamb_178,0
-womanwear=green_dhide_vamb_355,0
+manwear=green_dhide_vambraces_178,0
+womanwear=green_dhide_vambraces_355,0
 cost=3600
 2dzoom=740
 2dxof=7
@@ -27006,14 +27010,14 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_red_dhide_vamb_2490]
+[cert_red_dhide_vambraces_2490]
 certificate=yes
 
-[black_dhide_vamb_2491]
-name=Black d'hide vamb
+[black_dhide_vambraces_2491]
+name=Black d'hide vambraces
 model=leather_vambraces_2656
-manwear=green_dhide_vamb_178,0
-womanwear=green_dhide_vamb_355,0
+manwear=green_dhide_vambraces_178,0
+womanwear=green_dhide_vambraces_355,0
 cost=4320
 2dzoom=740
 2dxof=7
@@ -27032,7 +27036,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_black_dhide_vamb_2492]
+[cert_black_dhide_vambraces_2492]
 certificate=yes
 
 [blue_dhide_chaps_2493]
@@ -119414,8 +119418,8 @@ placeholder=yes
 [cert_spiky_vambraces_10078]
 certificate=yes
 
-[green_spiky_vambs_10079]
-name=Green spiky vambs
+[green_spiky_vambraces_10079]
+name=Green spiky vambraces
 model=spiky_vambraces_11397
 manwear=spiky_vambraces_11328,0
 womanwear=spiky_vambraces_11350,0
@@ -119435,11 +119439,11 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_green_spiky_vambs_10080]
+[cert_green_spiky_vambraces_10080]
 certificate=yes
 
-[blue_spiky_vambs_10081]
-name=Blue spiky vambs
+[blue_spiky_vambraces_10081]
+name=Blue spiky vambraces
 model=spiky_vambraces_11397
 manwear=spiky_vambraces_11328,0
 womanwear=spiky_vambraces_11350,0
@@ -119461,11 +119465,11 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_blue_spiky_vambs_10082]
+[cert_blue_spiky_vambraces_10082]
 certificate=yes
 
-[red_spiky_vambs_10083]
-name=Red spiky vambs
+[red_spiky_vambraces_10083]
+name=Red spiky vambraces
 model=spiky_vambraces_11397
 manwear=spiky_vambraces_11328,0
 womanwear=spiky_vambraces_11350,0
@@ -119487,11 +119491,11 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_red_spiky_vambs_10084]
+[cert_red_spiky_vambraces_10084]
 certificate=yes
 
-[black_spiky_vambs_10085]
-name=Black spiky vambs
+[black_spiky_vambraces_10085]
+name=Black spiky vambraces
 model=spiky_vambraces_11397
 manwear=spiky_vambraces_11328,0
 womanwear=spiky_vambraces_11350,0
@@ -119513,7 +119517,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_black_spiky_vambs_10086]
+[cert_black_spiky_vambraces_10086]
 certificate=yes
 
 [stripy_feather_10087]
@@ -122941,13 +122945,13 @@ placeholder=yes
 [cert_zamorak_bracers_10369]
 certificate=yes
 
-[zamorak_dhide_10370]
-name=Zamorak d'hide
-model=zamorak_dhide_20233
-manwear=zamorak_dhide_20157,0
-manwear2=zamorak_dhide_20121
-womanwear=zamorak_dhide_20213,0
-womanwear2=zamorak_dhide_20177
+[zamorak_dhide_body_10370]
+name=Zamorak d'hide body
+model=zamorak_dhide_body_20233
+manwear=zamorak_dhide_body_20157,0
+manwear2=zamorak_dhide_body_20121
+womanwear=zamorak_dhide_body_20213,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -122971,7 +122975,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_zamorak_dhide_10371]
+[cert_zamorak_dhide_body_10371]
 certificate=yes
 
 [zamorak_chaps_10372]
@@ -123067,13 +123071,13 @@ placeholder=yes
 [cert_guthix_bracers_10377]
 certificate=yes
 
-[guthix_dhide_10378]
-name=Guthix d'hide
-model=guthix_dhide_20232
-manwear=guthix_dhide_20155,0
-manwear2=zamorak_dhide_20121
-womanwear=guthix_dhide_20211,0
-womanwear2=zamorak_dhide_20177
+[guthix_dhide_body_10378]
+name=Guthix d'hide body
+model=guthix_dhide_body_20232
+manwear=guthix_dhide_body_20155,0
+manwear2=zamorak_dhide_body_20121
+womanwear=guthix_dhide_body_20211,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -123091,7 +123095,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_guthix_dhide_10379]
+[cert_guthix_dhide_body_10379]
 certificate=yes
 
 [guthix_chaps_10380]
@@ -123175,13 +123179,13 @@ placeholder=yes
 [cert_saradomin_bracers_10385]
 certificate=yes
 
-[saradomin_dhide_10386]
-name=Saradomin d'hide
-model=saradomin_dhide_20224
-manwear=saradomin_dhide_20156,0
-manwear2=zamorak_dhide_20121
-womanwear=saradomin_dhide_20212,0
-womanwear2=zamorak_dhide_20177
+[saradomin_dhide_body_10386]
+name=Saradomin d'hide body
+model=saradomin_dhide_body_20224
+manwear=saradomin_dhide_body_20156,0
+manwear2=zamorak_dhide_body_20121
+womanwear=saradomin_dhide_body_20212,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -123205,7 +123209,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_saradomin_dhide_10387]
+[cert_saradomin_dhide_body_10387]
 certificate=yes
 
 [saradomin_chaps_10388]
@@ -128984,13 +128988,13 @@ certificate=yes
 [cert_guthix_robe_top_10789]
 certificate=yes
 
-[zamorak_dhide_10790]
-name=Zamorak d'hide
-model=zamorak_dhide_20233
-manwear=zamorak_dhide_20157,0
-manwear2=zamorak_dhide_20121
-womanwear=zamorak_dhide_20213,0
-womanwear2=zamorak_dhide_20177
+[zamorak_dhide_body_10790]
+name=Zamorak d'hide body
+model=zamorak_dhide_body_20233
+manwear=zamorak_dhide_body_20157,0
+manwear2=zamorak_dhide_body_20121
+womanwear=zamorak_dhide_body_20213,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -129011,16 +129015,16 @@ recol6d=1967
 members=yes
 certificate=yes
 
-[cert_zamorak_dhide_10791]
+[cert_zamorak_dhide_body_10791]
 certificate=yes
 
-[saradomin_dhide_10792]
-name=Saradomin d'hide
-model=saradomin_dhide_20224
-manwear=saradomin_dhide_20156,0
-manwear2=zamorak_dhide_20121
-womanwear=saradomin_dhide_20212,0
-womanwear2=zamorak_dhide_20177
+[saradomin_dhide_body_10792]
+name=Saradomin d'hide body
+model=saradomin_dhide_body_20224
+manwear=saradomin_dhide_body_20156,0
+manwear2=zamorak_dhide_body_20121
+womanwear=saradomin_dhide_body_20212,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -129041,16 +129045,16 @@ recol6d=-27983
 members=yes
 certificate=yes
 
-[cert_saradomin_dhide_10793]
+[cert_saradomin_dhide_body_10793]
 certificate=yes
 
 [guthix_dragonhide_10794]
 name=Guthix dragonhide
-model=guthix_dhide_20232
-manwear=guthix_dhide_20155,0
-manwear2=zamorak_dhide_20121
-womanwear=guthix_dhide_20211,0
-womanwear2=zamorak_dhide_20177
+model=guthix_dhide_body_20232
+manwear=guthix_dhide_body_20155,0
+manwear2=zamorak_dhide_body_20121
+womanwear=guthix_dhide_body_20211,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -133612,6 +133616,7 @@ cost=4
 2dxan=290
 2dyan=1079
 iop2=Wield
+iop4=Inspect
 certificate=yes
 placeholder=yes
 
@@ -133629,6 +133634,7 @@ cost=4
 2dxan=332
 2dyan=1132
 iop2=Wield
+iop4=Inspect
 recol1s=5656
 recol1d=5652
 recol2s=7446
@@ -133678,6 +133684,7 @@ model=half_certificate_25769
 2dxan=309
 2dyan=192
 iop1=Read
+iop4=Inspect
 iop5=Destroy
 stackable=yes
 placeholder=yes
@@ -133691,6 +133698,7 @@ model=half_certificate_25770
 2dxan=309
 2dyan=147
 iop1=Read
+iop4=Inspect
 iop5=Destroy
 stackable=yes
 placeholder=yes
@@ -149685,13 +149693,13 @@ placeholder=yes
 [cert_ancient_bracers_12491]
 certificate=yes
 
-[ancient_dhide_12492]
-name=Ancient d'hide
-model=ancient_dhide_28670
-manwear=ancient_dhide_28543,0
-manwear2=zamorak_dhide_20121
-womanwear=ancient_dhide_28601,0
-womanwear2=zamorak_dhide_20177
+[ancient_dhide_body_12492]
+name=Ancient d'hide body
+model=ancient_dhide_body_28670
+manwear=ancient_dhide_body_28543,0
+manwear2=zamorak_dhide_body_20121
+womanwear=ancient_dhide_body_28601,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -149715,7 +149723,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_ancient_dhide_12493]
+[cert_ancient_dhide_body_12493]
 certificate=yes
 
 [ancient_chaps_12494]
@@ -149811,13 +149819,13 @@ placeholder=yes
 [cert_bandos_bracers_12499]
 certificate=yes
 
-[bandos_dhide_12500]
-name=Bandos d'hide
-model=bandos_dhide_28748
-manwear=bandos_dhide_28539,0
-manwear2=zamorak_dhide_20121
-womanwear=bandos_dhide_28615,0
-womanwear2=zamorak_dhide_20177
+[bandos_dhide_body_12500]
+name=Bandos d'hide body
+model=bandos_dhide_body_28748
+manwear=bandos_dhide_body_28539,0
+manwear2=zamorak_dhide_body_20121
+womanwear=bandos_dhide_body_28615,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -149841,7 +149849,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_bandos_dhide_12501]
+[cert_bandos_dhide_body_12501]
 certificate=yes
 
 [bandos_chaps_12502]
@@ -149937,13 +149945,13 @@ placeholder=yes
 [cert_armadyl_bracers_12507]
 certificate=yes
 
-[armadyl_dhide_12508]
-name=Armadyl d'hide
-model=armadyl_dhide_28668
-manwear=armadyl_dhide_28530,0
-manwear2=zamorak_dhide_20121
-womanwear=armadyl_dhide_28610,0
-womanwear2=zamorak_dhide_20177
+[armadyl_dhide_body_12508]
+name=Armadyl d'hide body
+model=armadyl_dhide_body_28668
+manwear=armadyl_dhide_body_28530,0
+manwear2=zamorak_dhide_body_20121
+womanwear=armadyl_dhide_body_28610,0
+womanwear2=zamorak_dhide_body_20177
 cost=13000
 2dzoom=1180
 2dxof=-1
@@ -149965,7 +149973,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_armadyl_dhide_12509]
+[cert_armadyl_dhide_body_12509]
 certificate=yes
 
 [armadyl_chaps_12510]
@@ -166396,16 +166404,16 @@ placeholder=yes
 [placeholder_leather_vambraces_14199]
 placeholder=yes
 
-[placeholder_green_dhide_vamb_14200]
+[placeholder_green_dhide_vambraces_14200]
 placeholder=yes
 
-[placeholder_blue_dhide_vamb_14201]
+[placeholder_blue_dhide_vambraces_14201]
 placeholder=yes
 
-[placeholder_red_dhide_vamb_14202]
+[placeholder_red_dhide_vambraces_14202]
 placeholder=yes
 
-[placeholder_black_dhide_vamb_14203]
+[placeholder_black_dhide_vambraces_14203]
 placeholder=yes
 
 [placeholder_music_cape_14204]
@@ -170149,16 +170157,16 @@ placeholder=yes
 [placeholder_spiky_vambraces_15394]
 placeholder=yes
 
-[placeholder_green_spiky_vambs_15395]
+[placeholder_green_spiky_vambraces_15395]
 placeholder=yes
 
-[placeholder_blue_spiky_vambs_15396]
+[placeholder_blue_spiky_vambraces_15396]
 placeholder=yes
 
-[placeholder_red_spiky_vambs_15397]
+[placeholder_red_spiky_vambraces_15397]
 placeholder=yes
 
-[placeholder_black_spiky_vambs_15398]
+[placeholder_black_spiky_vambraces_15398]
 placeholder=yes
 
 [placeholder_kebbit_spike_15399]
@@ -171907,7 +171915,7 @@ placeholder=yes
 [placeholder_ancient_bracers_15980]
 placeholder=yes
 
-[placeholder_ancient_dhide_15981]
+[placeholder_ancient_dhide_body_15981]
 placeholder=yes
 
 [placeholder_ancient_chaps_15982]
@@ -171919,7 +171927,7 @@ placeholder=yes
 [placeholder_bandos_bracers_15984]
 placeholder=yes
 
-[placeholder_bandos_dhide_15985]
+[placeholder_bandos_dhide_body_15985]
 placeholder=yes
 
 [placeholder_bandos_chaps_15986]
@@ -171931,7 +171939,7 @@ placeholder=yes
 [placeholder_armadyl_bracers_15988]
 placeholder=yes
 
-[placeholder_armadyl_dhide_15989]
+[placeholder_armadyl_dhide_body_15989]
 placeholder=yes
 
 [placeholder_armadyl_chaps_15990]
@@ -172249,7 +172257,7 @@ placeholder=yes
 [placeholder_zamorak_bracers_16094]
 placeholder=yes
 
-[placeholder_zamorak_dhide_16095]
+[placeholder_zamorak_dhide_body_16095]
 placeholder=yes
 
 [placeholder_zamorak_chaps_16096]
@@ -172261,7 +172269,7 @@ placeholder=yes
 [placeholder_guthix_bracers_16098]
 placeholder=yes
 
-[placeholder_guthix_dhide_16099]
+[placeholder_guthix_dhide_body_16099]
 placeholder=yes
 
 [placeholder_guthix_chaps_16100]
@@ -172273,7 +172281,7 @@ placeholder=yes
 [placeholder_saradomin_bracers_16102]
 placeholder=yes
 
-[placeholder_saradomin_dhide_16103]
+[placeholder_saradomin_dhide_body_16103]
 placeholder=yes
 
 [placeholder_saradomin_chaps_16104]
@@ -220172,8 +220180,8 @@ certificate=yes
 [placeholder_gilded_coif_23260]
 placeholder=yes
 
-[gilded_dhide_vambs_23261]
-name=Gilded d'hide vambs
+[gilded_dhide_vambraces_23261]
+name=Gilded d'hide vambraces
 model=spiky_vambraces_11397
 manwear=spiky_vambraces_11328,0
 womanwear=spiky_vambraces_11350,0
@@ -220198,10 +220206,10 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_gilded_dhide_vambs_23262]
+[cert_gilded_dhide_vambraces_23262]
 certificate=yes
 
-[placeholder_gilded_dhide_vambs_23263]
+[placeholder_gilded_dhide_vambraces_23263]
 placeholder=yes
 
 [gilded_dhide_body_23264]
@@ -227384,7 +227392,6 @@ iop3=Check
 iop4=Uncharge
 members=yes
 placeholder=yes
-param=param_451,Check
 
 [placeholder_blade_of_saeldor_23996]
 placeholder=yes
@@ -233184,4 +233191,61 @@ placeholder=yes
 
 [placeholder_cake_24550]
 placeholder=yes
+
+[blade_of_saeldor_i_24551]
+name=Blade of saeldor (i)
+model=blade_of_saeldor_37980
+manwear=blade_of_saeldor_38270,0
+womanwear=blade_of_saeldor_38280,0
+cost=5000000
+2dzoom=1876
+2dxof=15
+2dyof=-3
+2dxan=438
+2dyan=40
+iop2=Wield
+iop4=Uncharge
+recol1s=-32535
+recol1d=827
+recol2s=-32541
+recol2d=957
+members=yes
+placeholder=yes
+
+[placeholder_blade_of_saeldor_i_24552]
+placeholder=yes
+
+[blade_of_saeldor_i_24553]
+name=Blade of saeldor (i)
+model=blade_of_saeldor_37980
+2dzoom=1876
+2dxof=15
+2dyof=-3
+2dxan=438
+2dyan=40
+recol1s=-32535
+recol1d=827
+recol2s=-32541
+recol2d=957
+
+[pyromancer_set_24554]
+name=Pyromancer set
+model=pyromancer_set_39565
+2dzoom=2020
+2dxof=-1
+2dyof=-6
+2dxan=112
+2dyan=232
+recol1s=6443
+recol1d=16687
+recol2s=6439
+recol2d=-32630
+recol3s=6563
+recol3d=-32738
+recol4s=6558
+recol4d=16687
+recol5s=6682
+recol5d=-32738
+recol6s=6806
+recol6d=-32630
 

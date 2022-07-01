@@ -52063,7 +52063,7 @@ name=R4ng3rNo0b889
 model1=shortbow_512
 model2=green_dhide_body_314
 model3=green_dhide_chaps_258
-model4=green_dhide_vamb_178
+model4=green_dhide_vambraces_178
 model5=ranger_boots_4929
 model6=robin_hood_hat_3378
 model7=male_jaw_251
@@ -68457,7 +68457,7 @@ model2=male_jaw_252
 model3=black_platebody_t_3379
 model4=fremennik_cyan_cloak_317
 model5=iron_platebody_164
-model6=green_dhide_vamb_178
+model6=green_dhide_vambraces_178
 model7=bronze_sword_519
 model8=iron_platelegs_268
 model9=male_feet_181
@@ -108996,7 +108996,7 @@ head1=monkey_4661
 readyanim=monkey_ready_222
 walkanim=monkey_walk_219
 op1=Talk-to
-vislevel=3
+vislevel=0
 
 [monkey_5280]
 name=Monkey
@@ -109005,7 +109005,7 @@ head1=monkey_4661
 readyanim=monkey_ready_222
 walkanim=monkey_walk_219
 op1=Talk-to
-vislevel=3
+vislevel=0
 
 [monkey_zombie_5281]
 name=Monkey Zombie
@@ -183408,8 +183408,10 @@ recol5d=920
 recol6s=-3250
 recol6d=918
 op1=Talk-to
+op2=Trade
 op3=Pickpocket
 vislevel=0
+drawpriority=yes
 
 [miriel_9054]
 name=Miriel
