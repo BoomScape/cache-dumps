@@ -5348,6 +5348,7 @@ val=40,Ada'mind some more
 val=41,RUUUUUNE
 val=42,Undead head
 val=43,Stop the Wyvern
+val=44,Double Trouble
 
 [enum_835]
 inputtype=int
@@ -5397,6 +5398,7 @@ val=40,"Whenever you get an Adamant Dragon task, it will be a bigger task."
 val=41,"Whenever you get a Rune Dragon task, it will be a bigger task."
 val=42,Learn how to combine Vorkath's head with your slayer helm to colour it turquoise.
 val=43,"Stops you getting Fossil Island Wyvern tasks, without counting towards your blocked task limit."
+val=44,Slaying Dusk and Dawn now counts for two kills towards your task rather than one.
 
 [enum_836]
 inputtype=int
@@ -5446,6 +5448,7 @@ val=40,100
 val=41,100
 val=42,1000
 val=43,500
+val=44,500
 
 [enum_837]
 inputtype=int
@@ -5495,6 +5498,7 @@ val=40,dummy_baby_red_dragon_7621
 val=41,dummy_baby_red_dragon_8797
 val=42,turquoise_slayer_helmet_21888
 val=43,wyvern_bones_6812
+val=44,midnight_21750
 
 [enum_839]
 inputtype=int
@@ -5521,6 +5525,7 @@ val=17,38
 val=18,42
 val=19,37
 val=20,43
+val=21,44
 
 [enum_840]
 inputtype=int
@@ -6265,6 +6270,7 @@ val=36,yes
 val=39,yes
 val=40,yes
 val=41,yes
+val=44,yes
 
 [enum_859]
 inputtype=int
@@ -16960,18 +16966,18 @@ val=3,<img=10>
 inputtype=component
 outputtype=int
 default=0
-val=interface_182:20,1
-val=interface_182:16,2
+val=interface_182:21,1
+val=interface_182:17,2
 
 [enum_1896]
 inputtype=component
 outputtype=int
 default=0
-val=interface_182:25,1
-val=interface_182:28,2
-val=interface_182:31,3
-val=interface_182:34,4
-val=interface_182:37,5
+val=interface_182:26,1
+val=interface_182:29,2
+val=interface_182:32,3
+val=interface_182:35,4
+val=interface_182:38,5
 
 [enum_1904]
 inputtype=int

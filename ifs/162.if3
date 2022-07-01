@@ -394,9 +394,10 @@ graphic="close_buttons,2"
 
 [interface_162:36]
 type=^iftype_text
-y=36
+y=-8
 height=40
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_162:33
 font=b12_full
@@ -405,9 +406,10 @@ valign=^settextalign_centre
 
 [interface_162:37]
 type=^iftype_text
-y=76
+y=22
 height=20
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_162:33
 colour=0x80

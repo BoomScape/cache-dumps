@@ -8098,14 +8098,14 @@ placeholder=yes
 
 [dramen_staff_772]
 name=Dramen staff
-model=dramen_staff_2648
-manwear=dramen_staff_534,0
-womanwear=dramen_staff_534,6
+model=dramen_staff_35763
+manwear=dramen_staff_30556,0
+womanwear=dramen_staff_31195,0
 cost=15
-2dzoom=1460
-2dyof=-23
-2dxan=196
-2dyan=1416
+2dzoom=1979
+2dyof=16
+2dxan=377
+2dyan=1481
 iop2=Wield
 members=yes
 placeholder=yes
@@ -15366,9 +15366,9 @@ certificate=yes
 
 [staff_1379]
 name=Staff
-model=dramen_staff_2648
-manwear=dramen_staff_534,0
-womanwear=dramen_staff_534,6
+model=staff_2648
+manwear=staff_534,0
+womanwear=staff_534,6
 cost=15
 2dzoom=1158
 2dxof=-3
@@ -15385,9 +15385,9 @@ certificate=yes
 [staff_of_air_1381]
 name=Staff of air
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=1500
 2dzoom=1490
@@ -15406,9 +15406,9 @@ certificate=yes
 [staff_of_water_1383]
 name=Staff of water
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=1500
 2dzoom=1490
@@ -15429,9 +15429,9 @@ certificate=yes
 [staff_of_earth_1385]
 name=Staff of earth
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=1500
 2dzoom=1490
@@ -15452,9 +15452,9 @@ certificate=yes
 [staff_of_fire_1387]
 name=Staff of fire
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=1500
 2dzoom=1490
@@ -15475,9 +15475,9 @@ certificate=yes
 [magic_staff_1389]
 name=Magic staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=200
 2dzoom=1490
@@ -15497,9 +15497,9 @@ certificate=yes
 
 [battlestaff_1391]
 name=Battlestaff
-model=dramen_staff_2648
-manwear=dramen_staff_534,0
-womanwear=dramen_staff_534,6
+model=staff_2648
+manwear=staff_534,0
+womanwear=staff_534,6
 cost=7000
 2dzoom=1490
 2dxof=-5
@@ -15518,9 +15518,9 @@ certificate=yes
 [fire_battlestaff_1393]
 name=Fire battlestaff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=15500
 2dzoom=1490
@@ -15542,9 +15542,9 @@ certificate=yes
 [water_battlestaff_1395]
 name=Water battlestaff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=15500
 2dzoom=1490
@@ -15566,9 +15566,9 @@ certificate=yes
 [air_battlestaff_1397]
 name=Air battlestaff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=15500
 2dzoom=1490
@@ -15588,9 +15588,9 @@ certificate=yes
 [earth_battlestaff_1399]
 name=Earth battlestaff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=15500
 2dzoom=1490
@@ -15612,9 +15612,9 @@ certificate=yes
 [mystic_fire_staff_1401]
 name=Mystic fire staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=42500
 2dzoom=1490
@@ -15636,9 +15636,9 @@ certificate=yes
 [mystic_water_staff_1403]
 name=Mystic water staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=42500
 2dzoom=1490
@@ -15660,9 +15660,9 @@ certificate=yes
 [mystic_air_staff_1405]
 name=Mystic air staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=42500
 2dzoom=1490
@@ -15682,9 +15682,9 @@ certificate=yes
 [mystic_earth_staff_1407]
 name=Mystic earth staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=42500
 2dzoom=1490
@@ -33785,9 +33785,9 @@ certificate=yes
 [lava_battlestaff_3053]
 name=Lava battlestaff
 model=lava_battlestaff_3666
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=lava_battlestaff_3665
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=lava_battlestaff_3665
 cost=17000
 2dzoom=1490
@@ -33804,9 +33804,9 @@ placeholder=yes
 [mystic_lava_staff_3054]
 name=Mystic lava staff
 model=lava_battlestaff_3666
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=lava_battlestaff_3665
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=lava_battlestaff_3665
 cost=45000
 2dzoom=1490
@@ -75365,9 +75365,9 @@ certificate=yes
 [white_magic_staff_6603]
 name=White magic staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=200
 2dzoom=1490
@@ -102913,9 +102913,9 @@ placeholder=yes
 
 [lunar_staff_pt1_9091]
 name=Lunar staff - pt1
-model=dramen_staff_2648
-manwear=dramen_staff_534,0
-womanwear=dramen_staff_534,6
+model=staff_2648
+manwear=staff_534,0
+womanwear=staff_534,6
 cost=15
 2dzoom=1460
 2dyof=-23
@@ -102928,9 +102928,9 @@ placeholder=yes
 
 [lunar_staff_pt2_9092]
 name=Lunar staff - pt2
-model=dramen_staff_2648
-manwear=dramen_staff_534,0
-womanwear=dramen_staff_534,6
+model=staff_2648
+manwear=staff_534,0
+womanwear=staff_534,6
 cost=15
 2dzoom=1460
 2dyof=-23
@@ -102943,9 +102943,9 @@ placeholder=yes
 
 [lunar_staff_pt3_9093]
 name=Lunar staff - pt3
-model=dramen_staff_2648
-manwear=dramen_staff_534,0
-womanwear=dramen_staff_534,6
+model=staff_2648
+manwear=staff_534,0
+womanwear=staff_534,6
 cost=15
 2dzoom=1460
 2dyof=-23
@@ -138118,9 +138118,9 @@ placeholder=yes
 [cursed_goblin_staff_11709]
 name=Cursed goblin staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=30
 2dzoom=1490
@@ -139304,9 +139304,9 @@ certificate=yes
 [steam_battlestaff_11787]
 name=Steam battlestaff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=17000
 2dzoom=1490
@@ -139328,9 +139328,9 @@ certificate=yes
 [mystic_steam_staff_11789]
 name=Mystic steam staff
 model=staff_of_armadyl_2810
-manwear=dramen_staff_534,0
+manwear=staff_534,0
 manwear2=staff_of_air_567
-womanwear=dramen_staff_534,6
+womanwear=staff_534,6
 womanwear2=staff_of_air_567
 cost=45000
 2dzoom=1490
@@ -150059,8 +150059,9 @@ placeholder=yes
 [pet_general_graardor_12650]
 name=Pet general graardor
 model=pet_general_graardor_28874
-2dzoom=1872
-2dxof=-3
+2dzoom=2105
+2dxof=1
+2dyof=-4
 members=yes
 placeholder=yes
 
@@ -209091,9 +209092,9 @@ placeholder=yes
 
 [starter_staff_22335]
 name=Starter staff
-model=dramen_staff_2648
-manwear=dramen_staff_534,0
-womanwear=dramen_staff_534,6
+model=staff_2648
+manwear=staff_534,0
+womanwear=staff_534,6
 cost=500
 2dzoom=1158
 2dxof=-3
@@ -210722,4 +210723,328 @@ model=cabbage_8195
 2dyof=27
 2dxan=284
 2dyan=1800
+
+[coin_pouch_22521]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22522]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22523]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22524]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22525]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22526]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22527]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22528]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22529]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22530]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22531]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22532]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22533]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22534]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22535]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22536]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22537]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
+
+[coin_pouch_22538]
+name=Coin pouch
+model=small_pouch_7510
+2dzoom=520
+2dxan=210
+2dyan=1787
+iop1=Open-all
+iop2=Open
+iop5=Destroy
+recol1s=6430
+recol1d=7442
+recol2s=7467
+recol2d=8478
+recol3s=6798
+recol3d=8128
+members=yes
+stackable=yes
 
