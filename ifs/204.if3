@@ -17,6 +17,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:2]
 type=^iftype_layer
@@ -38,6 +39,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:4]
 type=^iftype_layer
@@ -59,6 +61,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:6]
 type=^iftype_layer
@@ -81,6 +84,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:8]
 type=^iftype_layer
@@ -102,6 +106,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:10]
 type=^iftype_layer
@@ -124,6 +129,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:12]
 type=^iftype_layer
@@ -145,6 +151,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:14]
 type=^iftype_layer
@@ -167,6 +174,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:16]
 type=^iftype_layer
@@ -188,6 +196,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:18]
 type=^iftype_layer
@@ -210,6 +219,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:20]
 type=^iftype_layer
@@ -231,6 +241,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:22]
 type=^iftype_layer
@@ -253,6 +264,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:24]
 type=^iftype_layer
@@ -274,6 +286,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:26]
 type=^iftype_layer
@@ -296,6 +309,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:28]
 type=^iftype_layer
@@ -317,6 +331,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:30]
 type=^iftype_layer
@@ -339,6 +354,7 @@ zoom=354
 anim=seq_5062
 viewportwid=600
 viewporthei=600
+onload="script2473(event_com)"
 
 [interface_204:32]
 type=^iftype_rectangle

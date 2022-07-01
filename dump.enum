@@ -1082,6 +1082,10 @@ val=clown_bow_tie_22692,Clown bow tie (2018)
 val=clown_trousers_22698,Clown trousers (2018)
 val=clown_shoes_22701,Clown shoes (2018)
 val=eek_22684,Eek the Spider (2018)
+val=star_face_22713,Star-face (2018)
+val=tree_top_22715,Tree top (2018)
+val=tree_skirt_22717,Tree skirt (2018)
+val=candy_cane_22719,Candy cane (2018)
 val=jar_of_dirt_12007,Jar of Dirt (Kraken)
 val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
 val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
@@ -2003,6 +2007,10 @@ val=100,clown_bow_tie_22692
 val=101,clown_trousers_22698
 val=102,clown_shoes_22701
 val=103,eek_22684
+val=104,star_face_22713
+val=105,tree_top_22715
+val=106,tree_skirt_22717
+val=107,candy_cane_22719
 val=-10,cert_pumpkin_1960
 val=-11,cert_red_halloween_mask_1058
 val=-12,cert_green_halloween_mask_1054
@@ -19432,15 +19440,17 @@ default=null
 val=0,all_pets_535
 val=1,champions_challenge_528
 val=2,chaos_druids_533
-val=3,cyclopes_532
-val=4,gloughs_experiments_526
-val=5,motherlode_mine_530
-val=6,revenants_525
-val=7,shayzien_armour_531
-val=8,skilling_pets_529
-val=9,slayer_527
-val=10,tzhaar_536
-val=11,miscellaneous_534
+val=3,chompy_bird_hunting_537
+val=4,cyclopes_532
+val=5,gloughs_experiments_526
+val=6,motherlode_mine_530
+val=7,random_events_538
+val=8,revenants_525
+val=9,shayzien_armour_531
+val=10,skilling_pets_529
+val=11,slayer_527
+val=12,tzhaar_536
+val=13,miscellaneous_534
 
 [enum_2108]
 inputtype=namedobj
@@ -19568,6 +19578,7 @@ outputtype=namedobj
 default=null
 val=0,odium_shard_2_11929
 val=1,malediction_shard_2_11932
+val=2,fedora_11990
 
 [enum_2119]
 inputtype=int
@@ -19602,6 +19613,8 @@ inputtype=int
 outputtype=namedobj
 default=null
 val=0,baby_mole_12646
+val=1,mole_skin_7418
+val=2,mole_claw_7416
 
 [enum_2122]
 inputtype=int
@@ -19612,6 +19625,8 @@ val=1,black_tourmaline_core_21730
 val=2,granite_gloves_21736
 val=3,granite_ring_21739
 val=4,granite_hammer_21742
+val=5,jar_of_stone_21745
+val=6,granite_dust_21726
 
 [enum_2123]
 inputtype=int
@@ -19690,6 +19705,7 @@ val=1,jar_of_darkness_19701
 val=2,dark_claw_21275
 val=3,dark_totem_19685
 val=4,uncut_onyx_6571
+val=5,ancient_shard_19677
 
 [enum_2131]
 inputtype=int
@@ -19771,7 +19787,8 @@ val=5,serpentine_visage_12927
 val=6,tanzanite_fang_12922
 val=7,zul_andra_teleport_12938
 val=8,uncut_onyx_6571
-val=9,zulrahs_scales_12934
+val=9,crystal_seed_4207
+val=10,zulrahs_scales_12934
 
 [enum_2139]
 inputtype=int
@@ -19944,6 +19961,7 @@ val=114,blue_elegant_legs_10410
 val=115,blue_elegant_skirt_10430
 val=116,amulet_of_magic_t_10366
 val=117,willow_comp_bow_10280
+val=118,black_pickaxe_12297
 
 [enum_2142]
 inputtype=int
@@ -20496,7 +20514,8 @@ val=5,fighter_torso_10551
 val=6,penance_skirt_10555
 val=7,runner_boots_10552
 val=8,penance_gloves_10553
-val=9,granite_body_10564
+val=9,granite_helm_10589
+val=10,granite_body_10564
 
 [enum_2150]
 inputtype=int
@@ -20842,11 +20861,78 @@ val=14,dragon_full_helm_11335
 val=15,shield_left_half_2366
 val=16,dragon_metal_slice_22100
 val=17,dragon_metal_lump_22103
-val=18,amulet_of_eternal_glory_19707
-val=19,pirates_hook_2997
-val=20,shaman_mask_21838
-val=21,evil_chicken_head_20439
-val=22,evil_chicken_wings_20436
-val=23,evil_chicken_legs_20442
-val=24,evil_chicken_feet_20433
+val=18,dragon_limbs_21918
+val=19,dragon_spear_1249
+val=20,amulet_of_eternal_glory_19707
+val=21,pirates_hook_2997
+val=22,shaman_mask_21838
+val=23,granite_helm_10589
+val=24,evil_chicken_head_20439
+val=25,evil_chicken_wings_20436
+val=26,evil_chicken_legs_20442
+val=27,evil_chicken_feet_20433
+val=28,mining_gloves_21343
+val=29,superior_mining_gloves_21345
+val=30,expert_mining_gloves_21392
+val=31,right_skull_half_9007
+val=32,left_skull_half_9008
+val=33,top_of_sceptre_9010
+val=34,bottom_of_sceptre_9011
+val=35,mossy_key_22374
+val=36,giant_key_20754
+val=37,mystic_hat_light_4109
+val=38,mystic_robe_top_light_4111
+val=39,mystic_robe_bottom_light_4113
+val=40,mystic_gloves_light_4115
+val=41,mystic_boots_light_4117
+val=42,mystic_hat_dark_4099
+val=43,mystic_robe_top_dark_4101
+val=44,mystic_robe_bottom_dark_4103
+val=45,mystic_gloves_dark_4105
+val=46,mystic_boots_dark_4107
+
+[enum_2171]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,chompy_bird_hat_2978
+val=1,chompy_bird_hat_2979
+val=2,chompy_bird_hat_2980
+val=3,chompy_bird_hat_2981
+val=4,chompy_bird_hat_2982
+val=5,chompy_bird_hat_2983
+val=6,chompy_bird_hat_2984
+val=7,chompy_bird_hat_2985
+val=8,chompy_bird_hat_2986
+val=9,chompy_bird_hat_2987
+val=10,chompy_bird_hat_2988
+val=11,chompy_bird_hat_2989
+val=12,chompy_bird_hat_2990
+val=13,chompy_bird_hat_2991
+val=14,chompy_bird_hat_2992
+val=15,chompy_bird_hat_2993
+val=16,chompy_bird_hat_2994
+val=17,chompy_bird_hat_2995
+
+[enum_2172]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,camo_top_6654
+val=1,camo_bottoms_6655
+val=2,camo_helmet_6656
+val=3,lederhosen_top_6180
+val=4,lederhosen_shorts_6181
+val=5,lederhosen_hat_6182
+val=6,zombie_shirt_7592
+val=7,zombie_trousers_7593
+val=8,zombie_mask_7594
+val=9,zombie_gloves_7595
+val=10,mime_mask_3057
+val=11,mime_top_3058
+val=12,mime_legs_3059
+val=13,mime_gloves_3060
+val=14,mime_boots_3061
+val=15,frog_token_6183
+val=16,stale_baguette_20590
 

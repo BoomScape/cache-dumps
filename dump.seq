@@ -49802,3 +49802,9 @@ framecount=39
 looptype=1
 framegroup1=2218
 
+[hans_ready_8186]
+framecount=1
+replayoff=1
+looptype=1
+framegroup1=240
+
