@@ -4188,3 +4188,14 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_697]
+graphic="mapfunction,128"
+vis=^mapelement_vis_both
+category=1579
+
+[mapelement_698]
+text=Sire
+colour=^white
+mapfunction=no
+category=1129
+

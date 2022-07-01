@@ -94,3 +94,6 @@ type=int
 [varclansetting_31]
 type=int
 
+[varclansetting_32]
+type=int
+

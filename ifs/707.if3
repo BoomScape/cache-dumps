@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script4471(event_com,46333955,46333956,46333957)"
+onload="script4471(event_com,46333955,46333956,46333957,46333958)"
 
 [interface_707:1]
 type=^iftype_layer
@@ -22,8 +22,8 @@ colour=0x5d5848
 
 [interface_707:3]
 type=^iftype_layer
-x=-62
-width=59
+x=-69
+width=44
 hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_707:1
@@ -32,7 +32,8 @@ op1="*"
 
 [interface_707:4]
 type=^iftype_layer
-width=58
+x=-23
+width=44
 hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_707:1
@@ -41,8 +42,8 @@ op1="*"
 
 [interface_707:5]
 type=^iftype_layer
-x=63
-width=59
+x=23
+width=44
 hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_707:1
@@ -50,6 +51,16 @@ optionmask=2
 op1="*"
 
 [interface_707:6]
+type=^iftype_layer
+x=69
+width=44
+hposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_707:1
+optionmask=2
+op1="*"
+
+[interface_707:7]
 type=^iftype_layer
 width=6
 height=24
@@ -59,13 +70,13 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_707:0
 
-[interface_707:7]
+[interface_707:8]
 type=^iftype_text
 y=20
 width=65
 height=15
 hposmode=^setpos_abs_right
-layer=interface_707:6
+layer=interface_707:7
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre

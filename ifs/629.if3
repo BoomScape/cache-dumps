@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2797(event_com,41222145,41222147,41222152,41222157,41222162,41222167,41222172,41222151,41222148,41222149,41222150,41222156,41222153,41222154,41222155,41222161,41222158,41222159,41222160,41222166,41222163,41222164,41222165,41222171,41222168,41222169,41222170,41222176,41222173,41222174,41222175,41222177)"
+onload="script2797(event_com,41222145,41222152,41222157,41222147,41222162,41222167,41222172,41222151,41222148,41222149,41222150,41222156,41222153,41222154,41222155,41222161,41222158,41222159,41222160,41222166,41222163,41222164,41222165,41222171,41222168,41222169,41222170,41222176,41222173,41222174,41222175,41222177)"
 
 [interface_629:1]
 type=^iftype_layer
@@ -28,7 +28,7 @@ hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_629:1
 optionmask=2
-op1="Quest List"
+op1="Character Summary"
 
 [interface_629:4]
 type=^iftype_graphic
@@ -65,7 +65,7 @@ height=18
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_629:3
-graphic="achievement_diary_icons,0"
+graphic="achievement_diary_icons,9"
 
 [interface_629:8]
 type=^iftype_layer
@@ -75,7 +75,7 @@ hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_629:1
 optionmask=2
-op1="Achievement Diaries"
+op1="Quest List"
 
 [interface_629:9]
 type=^iftype_graphic
@@ -112,7 +112,7 @@ height=18
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_629:8
-graphic="achievement_diary_icons,1"
+graphic="achievement_diary_icons,0"
 
 [interface_629:13]
 type=^iftype_layer
@@ -121,7 +121,7 @@ hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_629:1
 optionmask=2
-op1="Minigame List"
+op1="Achievement Diaries"
 
 [interface_629:14]
 type=^iftype_graphic
@@ -158,7 +158,7 @@ height=18
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_629:13
-graphic="achievement_diary_icons,2"
+graphic="achievement_diary_icons,1"
 
 [interface_629:18]
 type=^iftype_layer

@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2917(41943044,41943045,41943046,41943067,41943047,41943048,41943049,41943050,41943051,41943052,41943053,41943054,41943055,41943056,41943057,41943058,41943059,41943060,41943061,41943062,41943063,41943064,41943065,41943066)"
+onload="script2917(41943044,41943045,41943046,41943069,41943047,41943048,41943049,41943050,41943051,41943052,41943053,41943054,41943055,41943056,41943057,41943058,41943059,41943060,41943061,41943062,41943063,41943064,41943065,41943066,41943067,41943068)"
 
 [interface_640:1]
 type=^iftype_layer
@@ -69,7 +69,7 @@ layer=interface_640:1
 [interface_640:6]
 type=^iftype_layer
 width=336
-height=899
+height=995
 hposmode=^setpos_abs_centre
 layer=interface_640:5
 
@@ -234,6 +234,22 @@ hposmode=^setpos_abs_centre
 layer=interface_640:6
 
 [interface_640:27]
+type=^iftype_layer
+y=901
+width=336
+height=41
+hposmode=^setpos_abs_centre
+layer=interface_640:6
+
+[interface_640:28]
+type=^iftype_layer
+y=946
+width=336
+height=41
+hposmode=^setpos_abs_centre
+layer=interface_640:6
+
+[interface_640:29]
 type=^iftype_layer
 x=84
 y=55
