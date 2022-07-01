@@ -192969,6 +192969,12 @@ op3=Collect
 vislevel=0
 drawpriority=yes
 
+[acorn_9415]
+name=Acorn
+model1=twisted_bow_32799
+vislevel=0
+visonmap=no
+
 [the_nightmare_9425]
 name=The Nightmare
 model1=the_nightmare_39182

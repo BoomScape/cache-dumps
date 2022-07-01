@@ -2493,11 +2493,6 @@ framecount=15
 looptype=1
 framegroup1=859
 
-[seq_451]
-framecount=10
-looptype=1
-framegroup1=207
-
 [seq_452]
 framecount=17
 looptype=1
@@ -45857,7 +45852,7 @@ framecount=16
 looptype=1
 framegroup1=1898
 
-[party_balloons_7543]
+[potted_fern_7543]
 framecount=16
 replayoff=16
 looptype=1
@@ -52997,4 +52992,12 @@ framecount=36
 replayoff=36
 looptype=1
 framegroup1=380
+
+[seq_8638]
+framecount=10
+stretches=yes
+priority=6
+offhand=1719
+looptype=1
+framegroup1=207
 
