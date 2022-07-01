@@ -64145,18 +64145,18 @@ model=medium_pouch_7507
 cost=300
 2dzoom=650
 2dxan=188
-2dyan=64
+2dyan=1899
 iop1=Fill
 iop2=Empty
 iop3=Check
 recol1s=6430
-recol1d=5268
+recol1d=138
 recol2s=7467
-recol2d=6558
+recol2d=7566
 recol3s=7223
-recol3d=10407
+recol3d=10258
 recol4s=6798
-recol4d=11144
+recol4d=11140
 members=yes
 shiftop=1
 param=param_595,Fill
@@ -64184,18 +64184,18 @@ cost=600
 2dzoom=760
 2dyof=2
 2dxan=132
-2dyan=96
+2dyan=1872
 iop1=Fill
 iop2=Empty
 iop3=Check
 recol1s=6430
-recol1d=5268
+recol1d=138
 recol2s=7467
-recol2d=6558
+recol2d=7566
 recol3s=7223
-recol3d=10407
+recol3d=10258
 recol4s=6798
-recol4d=11144
+recol4d=11140
 members=yes
 shiftop=1
 param=param_595,Fill
@@ -64220,17 +64220,18 @@ model=coal_bag_7508
 cost=1200
 2dzoom=760
 2dxan=128
+2dyan=1872
 iop1=Fill
 iop2=Empty
 iop3=Check
 recol1s=6430
-recol1d=5268
+recol1d=138
 recol2s=7467
-recol2d=6558
+recol2d=7566
 recol3s=7223
-recol3d=10407
+recol3d=10258
 recol4s=6798
-recol4d=11144
+recol4d=11140
 members=yes
 shiftop=1
 param=param_595,Fill
@@ -94887,7 +94888,7 @@ model=anti_dragon_shield_12154
 
 [amulet_of_glory_8283]
 name=Amulet of glory
-model=amulet_of_glory_12153
+model=amulet_of_glory_36036
 2dzoom=919
 2dxof=39
 2dyof=99
@@ -193415,8 +193416,8 @@ count2=rune_arrow_3_935,3
 count3=rune_arrow_4_934,4
 count4=rune_arrow_5_937,5
 
-[elder_maul_20601]
-name=Elder maul
+[dummy_tzhaar_ket_om_20601]
+name=Null
 model=tzhaar_ket_om_9351
 manwear=tzhaar_ket_om_9344,0
 womanwear=tzhaar_ket_om_9344,6
@@ -193425,26 +193426,18 @@ womanwear=tzhaar_ket_om_9344,6
 2dyof=-4
 2dxan=396
 2dyan=952
-iop2=Wield
-recol1s=24
-recol1d=-5166
-recol2s=33
-recol2d=-7214
-recol3s=8
-recol3d=-4142
 members=yes
-ambient=-106
 certificate=yes
 placeholder=yes
 
-[cert_elder_maul_20602]
+[dummy_drogo_dwarf_20602]
 certificate=yes
 
-[placeholder_elder_maul_20603]
+[dummy_drogo_dwarf_20603]
 placeholder=yes
 
-[elder_wand_20604]
-name=Elder wand
+[dummy_master_wand_20604]
+name=Null
 model=master_wand_10565
 manwear=master_wand_10702,0
 womanwear=master_wand_10702,0
@@ -193453,27 +193446,14 @@ womanwear=master_wand_10702,0
 2dyof=-7
 2dxan=68
 2dyan=1092
-iop2=Wield
-recol1s=7050
-recol1d=-4142
-recol2s=5652
-recol2d=-4142
-recol3s=8877
-recol3d=-6190
-recol4s=9015
-recol4d=-6190
-recol5s=3614
-recol5d=-7214
-recol6s=9024
-recol6d=-7214
 members=yes
 certificate=yes
 placeholder=yes
 
-[cert_elder_wand_20605]
+[dummy_drogo_dwarf_20605]
 certificate=yes
 
-[placeholder_elder_wand_20606]
+[dummy_drogo_dwarf_20606]
 placeholder=yes
 
 [rune_arrow_pack_20607]
@@ -214541,83 +214521,77 @@ placeholder=yes
 [placeholder_scroll_sack_22676]
 placeholder=yes
 
-[crypt_key_22677]
-name=Crypt key
+[dummy_shed_key_22677]
+name=Null
 model=shed_key_5156
 cost=0
 2dzoom=653
 2dyof=3
 2dxan=512
 2dyan=552
-iop5=Destroy
 recol1s=8128
 recol1d=7227
 
-[cow_blood_22678]
-name=Cow blood
+[dummy_blamish_snail_slime_22678]
+name=Null
 model=blamish_snail_slime_2705
 cost=0
 2dzoom=710
 2dxan=169
 2dyan=205
-iop5=Destroy
 recol1s=61
 recol1d=939
 
-[hettys_empty_cauldron_22679]
-name=Hetty's empty cauldron
+[dummy_cooking_pot_22679]
+name=Null
 model=cooking_pot_2241
 cost=0
 2dzoom=2168
 2dyof=7
 2dxan=135
 2dyan=162
-iop5=Destroy
 recol1s=22435
 recol1d=37
 recol2s=22420
 recol2d=37
 
-[cauldron_of_cabbages_22680]
-name=Cauldron of cabbages
+[dummy_cooking_pot_22680]
+name=Null
 model=cooking_pot_2241
 cost=0
 2dzoom=2168
 2dyof=7
 2dxan=135
 2dyan=162
-iop5=Destroy
 recol1s=22435
 recol1d=37
 recol2s=22420
 recol2d=37
 
-[cauldron_of_water_22681]
-name=Cauldron of water
+[dummy_cooking_pot_22681]
+name=Null
 model=cooking_pot_2241
 cost=0
 2dzoom=2168
 2dyof=7
 2dxan=135
 2dyan=162
-iop5=Destroy
 recol1s=22435
 recol1d=-28755
 recol2s=22420
 recol2d=-26711
 
-[cauldron_of_water_cabbages_22682]
-name=Cauldron of water & cabbages
+[dummy_cooking_pot_22682]
+name=Null
 model=cooking_pot_2241
 cost=0
 2dzoom=2168
 2dyof=7
 2dxan=135
 2dyan=162
-iop5=Destroy
 
-[eek_22683]
-name=Eek
+[dummy_eek_22683]
+name=Null
 model=eek_24613
 cost=0
 2dzoom=1284
@@ -214625,7 +214599,6 @@ cost=0
 2dyof=-3
 2dxan=1520
 2dyan=1769
-iop5=Release
 
 [eek_22684]
 name=Eek
@@ -214647,15 +214620,14 @@ param=param_451,Talk-to
 [placeholder_eek_22685]
 placeholder=yes
 
-[dead_person_22686]
-name=Dead person
+[dummy_skeleton_guard_22686]
+name=Null
 model=skeleton_guard_21198
 cost=0
 2dzoom=2800
 2dxof=-29
 2dyof=25
 2dxan=323
-iop5=Destroy
 recol1s=10308
 recol1d=103
 recol2s=10299
@@ -214669,23 +214641,22 @@ recol5d=103
 recol6s=10287
 recol6d=103
 
-[church_lectern_22687]
-name=Church lectern
-model=church_lectern_36042
+[obj_22687]
+name=Null
+model=model_12117
 cost=0
 2dzoom=2500
 2dxof=-20
 2dyof=-11
 2dxan=94
 2dyan=781
-iop5=Destroy
 recol1s=4510
 recol1d=6044
 recol2s=4502
 recol2d=5014
 
-[clown_mask_22688]
-name=Clown mask
+[dummy_clown_mask_22688]
+name=Null
 model=clown_mask_36046
 manwear=clown_mask_28478,0
 womanwear=clown_mask_36028,0
@@ -214693,9 +214664,8 @@ manhead=male_hair_63
 manhead2=clown_mask_36039
 femalehead=female_hair_120
 femalehead=clown_mask_36039
+cost=0
 2dzoom=600
-iop2=Wear
-iop5=Destroy
 
 [clown_mask_22689]
 name=Clown mask
@@ -214714,16 +214684,15 @@ placeholder=yes
 [placeholder_clown_mask_22690]
 placeholder=yes
 
-[clown_bow_tie_22691]
-name=Clown bow tie
+[dummy_clown_bow_tie_22691]
+name=Null
 model=clown_bow_tie_36047
 manwear=clown_bow_tie_28479,0
 womanwear=clown_bow_tie_36029,0
+cost=0
 2dzoom=578
 2dxof=1
 2dxan=550
-iop2=Wear
-iop5=Destroy
 
 [clown_bow_tie_22692]
 name=Clown bow tie
@@ -214740,16 +214709,15 @@ placeholder=yes
 [placeholder_clown_bow_tie_22693]
 placeholder=yes
 
-[clown_gown_22694]
-name=Clown gown
+[dummy_clown_gown_22694]
+name=Null
 model=clown_gown_36045
 manwear=clown_gown_36025,0
 womanwear=clown_gown_36031,0
+cost=0
 2dzoom=1542
 2dyof=-7
 2dxan=700
-iop2=Wear
-iop5=Destroy
 
 [clown_gown_22695]
 name=Clown gown
@@ -214766,16 +214734,15 @@ placeholder=yes
 [placeholder_clown_gown_22696]
 placeholder=yes
 
-[clown_trousers_22697]
-name=Clown trousers
+[dummy_clown_trousers_22697]
+name=Null
 model=clown_trousers_36044
 manwear=clown_trousers_36024,0
 womanwear=clown_trousers_36030,0
+cost=0
 2dzoom=1650
 2dxan=611
 2dyan=5
-iop2=Wear
-iop5=Destroy
 
 [clown_trousers_22698]
 name=Clown trousers
@@ -214792,8 +214759,8 @@ placeholder=yes
 [placeholder_clown_trousers_22699]
 placeholder=yes
 
-[clown_shoes_22700]
-name=Clown shoes
+[dummy_clown_shoes_22700]
+name=Null
 model=clown_shoes_36048
 manwear=clown_shoes_36026,0
 womanwear=clown_shoes_36032,0
@@ -214802,8 +214769,6 @@ cost=0
 2dyof=-100
 2dxan=229
 2dyan=2047
-iop2=Wear
-iop5=Destroy
 
 [clown_shoes_22701]
 name=Clown shoes
@@ -214828,4 +214793,70 @@ model=model_36049
 2dxof=-5
 2dyof=2
 2dxan=588
+
+[portal_nexus_22704]
+name=Portal nexus
+model=portal_nexus_36052
+cost=200000
+2dzoom=5459
+2dxof=1
+2dyof=-65
+2dxan=225
+2dyan=1877
+
+[marble_portal_nexus_22705]
+name=Marble portal nexus
+model=marble_portal_nexus_36050
+2dzoom=9033
+2dyof=-60
+2dxan=93
+2dyan=1859
+
+[gilded_portal_nexus_22706]
+name=Gilded portal nexus
+model=gilded_portal_nexus_36053
+2dzoom=9033
+2dyof=-60
+2dxan=93
+2dyan=1859
+
+[crystalline_portal_nexus_22707]
+name=Crystalline portal nexus
+model=portal_nexus_36052
+2dzoom=9033
+2dyof=-60
+2dxan=93
+2dyan=1859
+
+[mounted_xerics_talisman_22708]
+name=Mounted xeric's talisman
+model=mounted_xerics_talisman_36038
+2dzoom=919
+2dxof=39
+2dyof=99
+2dxan=55
+2dyan=277
+ambient=25
+contrast=25
+
+[mounted_digsite_pendant_22709]
+name=Mounted digsite pendant
+model=mounted_digsite_pendant_36040
+2dzoom=919
+2dxof=39
+2dyof=99
+2dxan=55
+2dyan=277
+ambient=25
+contrast=25
+
+[curators_medallion_22710]
+name=Curator's medallion
+model=curators_medallion_36037
+cost=0
+2dzoom=784
+2dxan=404
+2dyan=1508
+iop5=Destroy
+members=yes
 

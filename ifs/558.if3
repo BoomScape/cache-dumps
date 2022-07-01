@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2573(event_com,36569098,36569099)"
+onload="script2573(event_com,36569105,36569106)"
 
 [interface_558:1]
 type=^iftype_layer
@@ -18,7 +18,7 @@ noclickthrough=yes
 [interface_558:2]
 type=^iftype_layer
 width=350
-height=210
+height=246
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_558:0
@@ -87,39 +87,6 @@ graphic="graphic_1124"
 tiling=yes
 
 [interface_558:9]
-type=^iftype_text
-y=107
-height=18
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_558:4
-colour=0xff981f
-font=p12_full
-halign=^settextalign_centre
-shadowed=yes
-
-[interface_558:10]
-type=^iftype_layer
-x=25
-y=128
-width=120
-height=30
-layer=interface_558:4
-optionmask=2
-op1="Look up name"
-
-[interface_558:11]
-type=^iftype_layer
-x=25
-y=128
-width=120
-height=30
-hposmode=^setpos_abs_right
-layer=interface_558:4
-optionmask=2
-op1="Set name"
-
-[interface_558:12]
 type=^iftype_graphic
 width=4
 height=20
@@ -127,7 +94,7 @@ vposmode=^setpos_abs_centre
 layer=interface_558:7
 graphic="graphic_1123"
 
-[interface_558:13]
+[interface_558:10]
 type=^iftype_graphic
 width=4
 height=20
@@ -136,7 +103,7 @@ vposmode=^setpos_abs_centre
 layer=interface_558:7
 graphic="graphic_1125"
 
-[interface_558:14]
+[interface_558:11]
 type=^iftype_text
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -147,4 +114,95 @@ font=b12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+
+[interface_558:12]
+type=^iftype_text
+y=116
+height=36
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_558:4
+text="Please enter a name to see whether it is available."
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_558:13]
+type=^iftype_layer
+y=135
+height=26
+hsizemode=^setsize_minus
+hide=yes
+layer=interface_558:4
+
+[interface_558:14]
+type=^iftype_text
+width=110
+vsizemode=^setsize_minus
+layer=interface_558:13
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="Set name"
+onmouseleave="script45(event_com,16750623)"
+onmouserepeat="script45(event_com,16777215)"
+
+[interface_558:15]
+type=^iftype_text
+width=110
+hposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_558:13
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="Set name"
+onmouseleave="script45(event_com,16750623)"
+onmouserepeat="script45(event_com,16777215)"
+
+[interface_558:16]
+type=^iftype_text
+width=110
+hposmode=^setpos_abs_right
+vsizemode=^setsize_minus
+layer=interface_558:13
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="Set name"
+onmouseleave="script45(event_com,16750623)"
+onmouserepeat="script45(event_com,16777215)"
+
+[interface_558:17]
+type=^iftype_layer
+x=25
+y=164
+width=120
+height=30
+layer=interface_558:4
+optionmask=2
+op1="Look up name"
+
+[interface_558:18]
+type=^iftype_layer
+x=25
+y=2
+width=120
+height=30
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_558:4
+optionmask=2
+op1="Set name"
 

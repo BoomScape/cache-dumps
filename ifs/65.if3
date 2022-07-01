@@ -692,7 +692,7 @@ graphic="membership_icon_large"
 
 [interface_65:65]
 type=^iftype_layer
-y=90
+y=70
 width=160
 height=63
 hposmode=^setpos_abs_centre

@@ -2023,14 +2023,11 @@ framecount=6
 looptype=1
 framegroup1=544
 
-[seq_367]
-framecount=12
-mainhand=0
-offhand=1102
-exactmove=1
-movetype=1
+[portal_nexus_367]
+framecount=40
+replayoff=40
 looptype=1
-framegroup1=239
+framegroup1=313
 
 [seq_368]
 framecount=12
@@ -9903,13 +9900,6 @@ framegroup1=752
 [seq_1637]
 framecount=40
 replayoff=12
-looptype=1
-framegroup1=81
-
-[spirit_ready_1638]
-framecount=40
-ifframecount=24
-replayoff=40
 looptype=1
 framegroup1=81
 
@@ -32308,6 +32298,8 @@ framecount=26
 stretches=yes
 mainhand=11000
 offhand=2859
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=1396
 
@@ -38280,12 +38272,12 @@ priority=10
 looptype=1
 framegroup1=1639
 
-[skeleton_walk_6378]
+[seq_6378]
 framecount=32
 looptype=1
 framegroup1=1056
 
-[skeleton_ready_6379]
+[seq_6379]
 framecount=16
 looptype=1
 framegroup1=1056

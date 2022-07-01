@@ -976,6 +976,7 @@ y=220
 width=190
 height=40
 layer=interface_261:0
+onload="script2356(event_com)"
 
 [interface_261:92]
 type=^iftype_graphic
