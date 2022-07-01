@@ -7,8 +7,8 @@ vsizemode=^setsize_minus
 
 [interface_60:1]
 type=^iftype_layer
-width=311
-height=200
+width=348
+height=194
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_60:0
@@ -32,7 +32,7 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_60:1
-onload="script115(event_com,3932165,3932177,3932180)"
+onload="script115(event_com,3932167,3932179,3932182,3932165)"
 
 [interface_60:4]
 type=^iftype_graphic
@@ -41,8 +41,8 @@ height=40
 layer=interface_60:3
 graphic="options_boxes,0"
 optionmask=2
-op1="Transparent side-panel"
-onload="script856(event_com,3932182)"
+op1="Chatbox scrollbar"
+onload="script2258(event_com,3932184)"
 
 [interface_60:5]
 type=^iftype_graphic
@@ -51,169 +51,191 @@ y=4
 width=32
 height=32
 layer=interface_60:3
-graphic="options_icons,31"
+graphic="options_icons,49"
 
 [interface_60:6]
 type=^iftype_graphic
-x=51
+x=48
+width=40
+height=40
+layer=interface_60:3
+graphic="options_boxes,0"
+optionmask=2
+op1="Transparent side-panel"
+onload="script856(event_com,3932184)"
+
+[interface_60:7]
+type=^iftype_graphic
+x=52
+y=4
+width=32
+height=32
+layer=interface_60:3
+graphic="options_icons,31"
+
+[interface_60:8]
+type=^iftype_graphic
+x=96
 width=40
 height=40
 layer=interface_60:3
 graphic="options_boxes,0"
 optionmask=2
 op1="'Remaining XP' tooltips"
-onload="script535(event_com,3932182)"
+onload="script535(event_com,3932184)"
 
-[interface_60:7]
+[interface_60:9]
 type=^iftype_graphic
-x=55
+x=100
 y=4
 width=32
 height=32
 layer=interface_60:3
 graphic="options_icons,25"
 
-[interface_60:8]
+[interface_60:10]
 type=^iftype_graphic
-x=101
+x=144
 width=40
 height=40
 layer=interface_60:3
 graphic="options_boxes,0"
 optionmask=2
 op1="Prayer tooltips"
-onload="script1958(event_com,3932182)"
+onload="script1958(event_com,3932184)"
 
-[interface_60:9]
+[interface_60:11]
 type=^iftype_graphic
-x=105
+x=148
 y=4
 width=32
 height=32
 layer=interface_60:3
 graphic="options_icons,38"
 
-[interface_60:10]
+[interface_60:12]
 type=^iftype_graphic
-x=151
+x=192
 width=40
 height=40
 layer=interface_60:3
 graphic="options_boxes,0"
 optionmask=2
 op1="Special attack tooltips"
-onload="script1962(event_com,3932182)"
+onload="script1962(event_com,3932184)"
 
-[interface_60:11]
+[interface_60:13]
 type=^iftype_graphic
-x=155
+x=196
 y=4
 width=32
 height=32
 layer=interface_60:3
 graphic="options_icons,39"
 
-[interface_60:12]
+[interface_60:14]
 type=^iftype_graphic
-x=201
+x=240
 width=40
 height=40
 layer=interface_60:3
 graphic="options_boxes,0"
-onload="script531(event_com,3932182)"
+onload="script531(event_com,3932184)"
 
-[interface_60:13]
+[interface_60:15]
 type=^iftype_graphic
-x=205
+x=244
 y=4
 width=32
 height=32
 layer=interface_60:3
 graphic="options_icons,24"
 
-[interface_60:14]
+[interface_60:16]
 type=^iftype_graphic
-x=251
+x=288
 width=40
 height=40
 layer=interface_60:3
 graphic="options_boxes,0"
 optionmask=2
 op1="Data orbs"
-onload="script439(event_com,3932182)"
+onload="script439(event_com,3932184)"
 
-[interface_60:15]
+[interface_60:17]
 type=^iftype_graphic
-x=255
+x=292
 y=4
 width=32
 height=32
 layer=interface_60:3
 graphic="options_icons,20"
 
-[interface_60:16]
+[interface_60:18]
 type=^iftype_graphic
-y=55
 width=40
 height=40
+vposmode=^setpos_abs_centre
 layer=interface_60:3
 graphic="options_boxes,0"
 optionmask=2
 op1="*"
-onload="script852(event_com,3932178,3932182)"
-
-[interface_60:17]
-type=^iftype_graphic
-x=4
-y=59
-width=32
-height=32
-layer=interface_60:3
-graphic="options_icons,30"
-
-[interface_60:18]
-type=^iftype_layer
-y=57
-width=45
-height=36
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_60:3
-optionmask=2
-op1="*"
+onload="script852(event_com,3932180,3932184)"
 
 [interface_60:19]
 type=^iftype_graphic
-y=110
-width=40
-height=40
-layer=interface_60:3
-graphic="options_boxes,0"
-optionmask=2
-op1="*"
-onload="script848(event_com,3932181,3932182)"
-
-[interface_60:20]
-type=^iftype_graphic
 x=4
-y=114
 width=32
 height=32
+vposmode=^setpos_abs_centre
 layer=interface_60:3
-graphic="options_icons,29"
+graphic="options_icons,30"
 
-[interface_60:21]
+[interface_60:20]
 type=^iftype_layer
-y=112
 width=45
 height=36
 hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_60:3
 optionmask=2
 op1="*"
 
+[interface_60:21]
+type=^iftype_graphic
+width=40
+height=40
+vposmode=^setpos_abs_bottom
+layer=interface_60:3
+graphic="options_boxes,0"
+optionmask=2
+op1="*"
+onload="script848(event_com,3932183,3932184)"
+
 [interface_60:22]
+type=^iftype_graphic
+x=4
+y=4
+width=32
+height=32
+vposmode=^setpos_abs_bottom
+layer=interface_60:3
+graphic="options_icons,29"
+
+[interface_60:23]
+type=^iftype_layer
+y=2
+width=45
+height=36
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+hsizemode=^setsize_minus
+layer=interface_60:3
+optionmask=2
+op1="*"
+
+[interface_60:24]
 type=^iftype_layer
 width=1
 height=1
