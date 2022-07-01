@@ -17453,10 +17453,10 @@ val=61,bottled_dragonbreath_23002
 inputtype=component
 outputtype=int
 default=0
-val=interface_12:55,1
-val=interface_12:58,2
-val=interface_12:60,3
-val=interface_12:62,4
+val=interface_12:56,1
+val=interface_12:59,2
+val=interface_12:61,3
+val=interface_12:63,4
 
 [enum_1911]
 inputtype=int
@@ -20468,8 +20468,8 @@ default=null
 val=0,ranger_boots_2577
 val=1,wizard_boots_2579
 val=2,holy_sandals_12598
-val=3,spiked_manacles_23389
-val=4,climbing_boots_g_23413
+val=3,climbing_boots_g_23413
+val=4,spiked_manacles_23389
 val=5,adamant_full_helm_t_2605
 val=6,adamant_platebody_t_2599
 val=7,adamant_platelegs_t_2601

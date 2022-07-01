@@ -10,7 +10,7 @@ height=330
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_12:0
-onload="script274(event_com,786434,786435,786441,786442,786481,786445,786446,786447,786449,786451,786470,786454,786456,786472,786436,786437,786443,786478,786479,786488,786460,786462,786464,786466,786468,786458)"
+onload="script274(event_com,786434,786435,786441,786442,786481,786445,786446,786447,786449,786451,786470,786454,786456,786472,786436,786437,786443,786478,786479,786489,786460,786462,786464,786466,786468,786458,786474,786475,786476,786477)"
 
 [interface_12:2]
 type=^iftype_layer
@@ -593,7 +593,7 @@ hposmode=^setpos_abs_centre
 layer=interface_12:49
 optionmask=2
 op1="*"
-onload="script1428(event_com,786484)"
+onload="script1428(event_com,786484,786485)"
 
 [interface_12:52]
 type=^iftype_layer
@@ -607,6 +607,16 @@ op1="*"
 
 [interface_12:53]
 type=^iftype_layer
+y=109
+width=200
+height=17
+hposmode=^setpos_abs_centre
+layer=interface_12:49
+optionmask=2
+op1="*"
+
+[interface_12:54]
+type=^iftype_layer
 y=133
 width=200
 height=36
@@ -616,7 +626,7 @@ optionmask=64
 op6="*"
 onload="script1270(event_com)"
 
-[interface_12:54]
+[interface_12:55]
 type=^iftype_layer
 y=178
 width=204
@@ -625,31 +635,31 @@ hposmode=^setpos_abs_centre
 layer=interface_12:49
 onload="script2207(event_com)"
 
-[interface_12:55]
+[interface_12:56]
 type=^iftype_graphic
 x=6
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="1"
 onload="script2208(event_com,1)"
 
-[interface_12:56]
+[interface_12:57]
 type=^iftype_layer
 width=1
 height=1
 layer=interface_12:0
 
-[interface_12:57]
+[interface_12:58]
 type=^iftype_text
 x=6
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="1"
 colour=0xf7f0df
 font=b12_full
@@ -659,25 +669,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:58]
+[interface_12:59]
 type=^iftype_graphic
 x=45
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="10"
 onload="script2208(event_com,10)"
 
-[interface_12:59]
+[interface_12:60]
 type=^iftype_text
 x=45
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="10"
 colour=0xf7f0df
 font=b12_full
@@ -687,25 +697,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:60]
+[interface_12:61]
 type=^iftype_graphic
 x=84
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="50"
 onload="script2208(event_com,50)"
 
-[interface_12:61]
+[interface_12:62]
 type=^iftype_text
 x=84
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="50"
 colour=0xf7f0df
 font=b12_full
@@ -715,25 +725,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:62]
+[interface_12:63]
 type=^iftype_graphic
 x=123
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="X"
 onload="script2208(event_com,X)"
 
-[interface_12:63]
+[interface_12:64]
 type=^iftype_text
 x=123
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="X"
 colour=0xf7f0df
 font=b12_full
@@ -743,25 +753,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:64]
+[interface_12:65]
 type=^iftype_graphic
 x=162
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="All"
 onload="script2208(event_com,All)"
 
-[interface_12:65]
+[interface_12:66]
 type=^iftype_text
 x=162
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="All"
 colour=0xf7f0df
 font=b12_full
@@ -771,7 +781,7 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:66]
+[interface_12:67]
 type=^iftype_layer
 x=4
 y=4
@@ -779,7 +789,7 @@ width=8
 height=36
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_12:54
+layer=interface_12:55
 optionmask=2
 op1="*"
 onload="script2211(event_com)"

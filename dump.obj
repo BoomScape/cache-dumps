@@ -122725,7 +122725,7 @@ certificate=yes
 name=3rd age kiteshield
 model=3rd_age_kiteshield_20222
 manwear=3rd_age_kiteshield_20167,0
-womanwear=3rd_age_kiteshield_20167,6
+womanwear=3rd_age_kiteshield_37258,0
 cost=180000
 2dzoom=2030
 2dxof=3
@@ -211680,15 +211680,12 @@ model=holy_handegg_35126
 2dxan=144
 2dyan=68
 
-[kindling_22350]
-name=Kindling
-model=damp_sticks_2402
-2dzoom=1104
-2dxof=-4
-2dyof=-11
-2dxan=267
-2dyan=1211
-op4=Light
+[dummy_holy_handegg_22350]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
 [eggshell_platebody_22351]
 name=Eggshell platebody
@@ -221581,108 +221578,59 @@ placeholder=yes
 [placeholder_bunnyman_mask_23449]
 placeholder=yes
 
-[dried_cocoa_23450]
-name=Dried cocoa
-model=dried_cocoa_37252
-2dzoom=1082
-2dxof=-4
+[dummy_holy_handegg_23450]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
 2dxan=153
-2dyan=1487
-iop5=Destroy
-shiftop=4
+2dyan=110
 
-[hosidius_milk_23451]
-name=Hosidius milk
-model=hosidius_milk_37251
-2dzoom=1916
-2dyof=7
-2dxan=201
-2dyan=1474
-iop5=Destroy
-shiftop=4
+[dummy_holy_handegg_23451]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
-[special_spices_23452]
-name=Special spices
-model=special_spices_37249
-2dzoom=710
-2dyof=-1
-2dxan=310
-2dyan=79
-iop5=Destroy
-shiftop=4
+[dummy_holy_handegg_23452]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
-[crate_of_baskets_23453]
-name=Crate of baskets
-model=crate_of_baskets_37247
-2dzoom=2020
-2dxof=-1
-2dyof=-6
-2dxan=112
-2dyan=232
-iop5=Destroy
-shiftop=4
+[dummy_holy_handegg_23453]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
-[fine_silk_23454]
-name=Fine silk
-model=fine_silk_37253
-2dzoom=1488
-2dxof=5
-2dyof=-10
-2dxan=185
-2dyan=129
-iop5=Destroy
-shiftop=4
+[dummy_holy_handegg_23454]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
-[fine_red_silk_23455]
-name=Fine red silk
-model=fine_silk_37253
-2dzoom=1488
-2dxof=5
-2dyof=-10
-2dxan=185
-2dyan=129
-iop5=Destroy
-recol1s=127
-recol1d=960
-recol2s=103
-recol2d=951
-recol3s=78
-recol3d=945
-recol4s=70
-recol4d=811
-shiftop=4
+[dummy_holy_handegg_23455]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
-[chocolate_mixture_u_23456]
-name=Chocolate mixture(u)
-model=hosidius_milk_37251
-2dzoom=1916
-2dyof=7
-2dxan=201
-2dyan=1474
-iop5=Destroy
-recol1s=119
-recol1d=4572
-recol2s=111
-recol2d=5431
-ambient=15
-contrast=15
-shiftop=4
+[dummy_holy_handegg_23456]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
-[choco_serum_23457]
-name=Choco serum
-model=hosidius_milk_37251
-2dzoom=1916
-2dyof=7
-2dxan=201
-2dyan=1474
-iop5=Destroy
-recol1s=127
-recol1d=2590
-recol2s=119
-recol2d=3734
-recol3s=111
-recol3d=4750
-ambient=15
-contrast=15
-shiftop=4
+[dummy_holy_handegg_23457]
+name=Null
+model=holy_handegg_35126
+2dzoom=661
+2dxan=153
+2dyan=110
 
