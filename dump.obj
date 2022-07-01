@@ -105026,10 +105026,10 @@ model=model_12809
 manwear=model_12809,0
 womanwear=model_12809,0
 
-[dummy_elsie_8800]
-model=elsie_12805
-manwear=elsie_12805,0
-womanwear=elsie_12805,0
+[dummy_iffie_8800]
+model=iffie_12805
+manwear=iffie_12805,0
+womanwear=iffie_12805,0
 
 [obj_8801]
 model=model_12801

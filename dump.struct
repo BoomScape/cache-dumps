@@ -27354,3 +27354,13 @@ param=param_1411,yes
 param=param_1412,"popout_icons,2"
 param=param_1413,XP Tracker
 
+[struct_3743]
+param=setting_id_1077,192
+param=setting_type_1078,0
+param=setting_name_1086,Show confirmation when paying for items from gravestone
+param=setting_search_keywords_1088,"Show confirmation when paying for items from gravestone,confirmation,gravestone,items,pay,gold"
+param=setting_toggle_inverse_1084,yes
+param=setting_choose_transmit_1085,yes
+param=setting_desc_1096,"When enabled, you will get a confirmation before paying for your items from a gravestone."
+param=param_1119,no
+

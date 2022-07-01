@@ -65563,3 +65563,13 @@ basevar=var_3172
 startbit=18
 endbit=21
 
+[varbit_13113]
+basevar=var_2675
+startbit=0
+endbit=0
+
+[varbit_13114]
+basevar=var_2883
+startbit=30
+endbit=30
+

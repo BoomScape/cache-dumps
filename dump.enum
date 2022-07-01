@@ -15728,6 +15728,7 @@ default=null
 val=0,struct_3635
 val=1,struct_2777
 val=2,struct_2861
+val=3,struct_3743
 
 [enum_1565]
 inputtype=int
