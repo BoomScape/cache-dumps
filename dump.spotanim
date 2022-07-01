@@ -11974,3 +11974,21 @@ anim=seq_8742
 model=model_39815
 anim=seq_8746
 
+[spotanim_1814]
+model=model_35345
+anim=seq_8115
+resizeh=100
+resizev=100
+ambient=60
+contrast=88
+recol1s=5239
+recol1d=48088
+recol2s=43117
+recol2d=48088
+recol3s=6257
+recol3d=48088
+recol4s=10462
+recol4d=48088
+recol5s=10836
+recol5d=48088
+

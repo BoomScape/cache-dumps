@@ -125630,6 +125630,7 @@ recol5d=4626
 op1=Glider
 op3=Talk-to
 vislevel=0
+drawpriority=yes
 
 [captain_bleemadge_6090]
 name=Captain Bleemadge
@@ -125652,6 +125653,7 @@ recol5d=4626
 op1=Glider
 op3=Talk-to
 vislevel=0
+drawpriority=yes
 
 [captain_errdo_6091]
 name=Captain Errdo
@@ -125674,6 +125676,7 @@ recol5d=4626
 op1=Glider
 op3=Talk-to
 vislevel=0
+drawpriority=yes
 
 [captain_klemfoodle_6092]
 name=Captain Klemfoodle
@@ -125696,6 +125699,7 @@ recol5d=4626
 op1=Glider
 op3=Talk-to
 vislevel=0
+drawpriority=yes
 
 [nigel_multi_6093]
 readyanim=nigel_ready_7053
@@ -206072,4 +206076,69 @@ vislevel=1
 multivar=varbit_4153
 multinpc=0,mercenary_10390
 multinpc=1,financial_wizard_10391
+
+[spiked_turoth_10397]
+name=Spiked Turoth
+model1=spiked_turoth_27761
+readyanim=turoth_ready_1594
+walkanim=turoth_walk_1593
+op2=Attack
+size=3
+vislevel=244
+
+[shadow_wyrm_10398]
+name=Shadow Wyrm
+model1=shadow_wyrm_31180
+readyanim=wyrm_ready_8266
+walkanim=wyrm_ready_8266
+resizeh=170
+resizev=170
+op2=Attack
+size=5
+vislevel=267
+
+[shadow_wyrm_10399]
+name=Shadow Wyrm
+model1=shadow_wyrm_31181
+readyanim=wyrm_ready_8267
+walkanim=wyrm_ready_8267
+resizeh=170
+resizev=170
+op2=Attack
+size=5
+vislevel=267
+
+[guardian_drake_10400]
+name=Guardian Drake
+model1=guardian_drake_28913
+readyanim=drake_ready_8274
+walkanim=drake_walk_8273
+resizeh=164
+resizev=164
+op2=Attack
+size=5
+vislevel=386
+contrast=44
+
+[guardian_drake_10401]
+name=Guardian Drake
+model1=guardian_drake_28912
+resizeh=164
+resizev=164
+size=5
+vislevel=386
+contrast=44
+
+[colossal_hydra_10402]
+name=Colossal Hydra
+model1=colossal_hydra_28910
+readyanim=colossal_hydra_ready_7002
+walkanim=colossal_hydra_walk_7006
+resizeh=86
+resizev=86
+op2=Attack
+size=5
+vislevel=309
+ambient=30
+contrast=44
 

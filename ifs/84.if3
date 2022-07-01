@@ -10,7 +10,6 @@ y=5
 width=500
 height=324
 layer=interface_84:0
-onload="script392(event_com)"
 
 [interface_84:2]
 type=^iftype_graphic
@@ -21,32 +20,14 @@ graphic="tradebacking"
 tiling=yes
 
 [interface_84:3]
-type=^iftype_text
-x=11
-y=10
-width=280
-height=20
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_84:1
-text="Equip Your Character..."
-colour=0xff981f
-font=b12_full
-shadowed=yes
+onload="script227(5505027,Equip Your Character...)"
 
 [interface_84:4]
-type=^iftype_graphic
-x=471
-y=6
-width=26
-height=23
-layer=interface_84:1
-graphic="close_buttons,0"
-optionmask=2
-op1="Close"
-onmouseover="script44(event_com,536)"
-onmouseleave="script44(event_com,535)"
-onop="script29"
-
-[interface_84:5]
 type=^iftype_model
 contenttype=328
 x=189
@@ -56,7 +37,7 @@ height=168
 layer=interface_84:1
 zoom=550
 
-[interface_84:6]
+[interface_84:5]
 type=^iftype_graphic
 x=71
 y=97
@@ -66,7 +47,7 @@ layer=interface_84:1
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_84:7]
+[interface_84:6]
 type=^iftype_graphic
 x=15
 y=176
@@ -76,7 +57,7 @@ layer=interface_84:1
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_84:8]
+[interface_84:7]
 type=^iftype_graphic
 x=127
 y=176
@@ -86,7 +67,7 @@ layer=interface_84:1
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_84:9]
+[interface_84:8]
 type=^iftype_graphic
 x=50
 y=139
@@ -96,7 +77,7 @@ layer=interface_84:1
 graphic="miscgraphics,3"
 tiling=yes
 
-[interface_84:10]
+[interface_84:9]
 type=^iftype_graphic
 x=65
 y=100
@@ -106,7 +87,7 @@ layer=interface_84:1
 graphic="miscgraphics,3"
 tiling=yes
 
-[interface_84:11]
+[interface_84:10]
 type=^iftype_layer
 x=71
 y=62
@@ -126,7 +107,7 @@ op9="*"
 op10="*"
 onload="script3281(2776,1)"
 
-[interface_84:12]
+[interface_84:11]
 type=^iftype_layer
 x=30
 y=101
@@ -145,7 +126,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_84:13]
+[interface_84:12]
 type=^iftype_layer
 x=71
 y=101
@@ -164,9 +145,28 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_84:14]
+[interface_84:13]
 type=^iftype_layer
 x=15
+y=140
+width=36
+height=36
+layer=interface_84:1
+optionmask=2046
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op5="*"
+op6="*"
+op7="*"
+op8="*"
+op9="*"
+op10="*"
+
+[interface_84:14]
+type=^iftype_layer
+x=71
 y=140
 width=36
 height=36
@@ -185,7 +185,7 @@ op10="*"
 
 [interface_84:15]
 type=^iftype_layer
-x=71
+x=127
 y=140
 width=36
 height=36
@@ -204,25 +204,6 @@ op10="*"
 
 [interface_84:16]
 type=^iftype_layer
-x=127
-y=140
-width=36
-height=36
-layer=interface_84:1
-optionmask=2046
-op1="*"
-op2="*"
-op3="*"
-op4="*"
-op5="*"
-op6="*"
-op7="*"
-op8="*"
-op9="*"
-op10="*"
-
-[interface_84:17]
-type=^iftype_layer
 x=71
 y=180
 width=36
@@ -240,7 +221,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_84:18]
+[interface_84:17]
 type=^iftype_layer
 x=15
 y=220
@@ -259,7 +240,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_84:19]
+[interface_84:18]
 type=^iftype_layer
 x=71
 y=220
@@ -278,7 +259,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_84:20]
+[interface_84:19]
 type=^iftype_layer
 x=127
 y=220
@@ -297,7 +278,7 @@ op8="*"
 op9="*"
 op10="*"
 
-[interface_84:21]
+[interface_84:20]
 type=^iftype_layer
 x=112
 y=101
@@ -316,275 +297,355 @@ op8="*"
 op9="*"
 op10="*"
 
+[interface_84:21]
+type=^iftype_layer
+width=501
+height=324
+layer=interface_84:1
+onload="script3517(5505046,5505045,5505067,1,-1,-1)"
+
 [interface_84:22]
+type=^iftype_layer
+contenttype=6556
+x=55
+y=288
+width=70
+height=26
+layer=interface_84:21
+
+[interface_84:23]
 type=^iftype_text
 x=345
-y=22
+y=38
 width=155
 height=15
-layer=interface_84:1
+layer=interface_84:21
 text="Attack bonus"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_84:23]
-type=^iftype_text
-x=353
-y=36
-width=147
-height=14
-layer=interface_84:1
-colour=0xff981f
-font=p12_full
-shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting successfully when you attack.,25,250)"
-
 [interface_84:24]
 type=^iftype_text
-x=353
-y=49
+x=1
+y=52
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of hitting successfully when you attack.,25,250)"
 
 [interface_84:25]
 type=^iftype_text
-x=353
-y=62
+x=1
+y=65
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of hitting successfully when you attack.,25,250)"
 
 [interface_84:26]
 type=^iftype_text
-x=353
-y=75
+x=1
+y=78
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of hitting successfully when you attack.,25,250)"
 
 [interface_84:27]
 type=^iftype_text
-x=353
-y=88
+x=1
+y=91
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of hitting successfully when you attack.,25,250)"
 
 [interface_84:28]
 type=^iftype_text
+x=1
+y=104
+width=147
+height=14
+hposmode=^setpos_abs_right
+layer=interface_84:21
+colour=0xff981f
+font=p12_full
+shadowed=yes
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of hitting successfully when you attack.,25,250)"
+
+[interface_84:29]
+type=^iftype_text
 x=345
-y=107
+y=120
 width=155
 height=15
-layer=interface_84:1
+layer=interface_84:21
 text="Defence bonus"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_84:29]
-type=^iftype_text
-x=353
-y=121
-width=147
-height=14
-layer=interface_84:1
-colour=0xff981f
-font=p12_full
-shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking an attack.,25,250)"
-
 [interface_84:30]
 type=^iftype_text
-x=353
+x=1
 y=134
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of blocking an attack.,25,250)"
 
 [interface_84:31]
 type=^iftype_text
-x=353
+x=1
 y=147
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of blocking an attack.,25,250)"
 
 [interface_84:32]
 type=^iftype_text
-x=353
+x=1
 y=160
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of blocking an attack.,25,250)"
 
 [interface_84:33]
 type=^iftype_text
-x=353
+x=1
 y=173
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of blocking an attack.,25,250)"
 
 [interface_84:34]
 type=^iftype_text
+x=1
+y=186
+width=147
+height=14
+hposmode=^setpos_abs_right
+layer=interface_84:21
+colour=0xff981f
+font=p12_full
+shadowed=yes
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your chance of blocking an attack.,25,250)"
+
+[interface_84:35]
+type=^iftype_text
 x=345
-y=192
+y=202
 width=155
 height=15
-layer=interface_84:1
+layer=interface_84:21
 text="Other bonuses"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_84:35]
-type=^iftype_text
-x=353
-y=206
-width=147
-height=14
-layer=interface_84:1
-colour=0xff981f
-font=p12_full
-shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your max hit for melee.,25,250)"
-
 [interface_84:36]
 type=^iftype_text
-x=353
-y=219
+x=1
+y=216
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your max hit when ranging.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your max hit for melee.,25,250)"
 
 [interface_84:37]
 type=^iftype_text
-x=353
-y=232
+x=1
+y=229
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases the max hit of your Magic attacks.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your max hit when ranging.,25,250)"
 
 [interface_84:38]
 type=^iftype_text
-x=353
-y=245
+x=1
+y=242
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Reduces the rate at which your prayer points drain while you are praying.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases the max hit of your Magic attacks.,25,250)"
 
 [interface_84:39]
 type=^iftype_text
+x=1
+y=255
+width=147
+height=14
+hposmode=^setpos_abs_right
+layer=interface_84:21
+colour=0xff981f
+font=p12_full
+shadowed=yes
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Reduces the rate at which your prayer points drain while you are praying.,25,250)"
+
+[interface_84:40]
+type=^iftype_text
 x=345
-y=264
+y=271
 width=155
 height=15
-layer=interface_84:1
+layer=interface_84:21
 text="Target-specific"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_84:40]
-type=^iftype_text
-x=353
-y=278
-width=147
-height=14
-layer=interface_84:1
-colour=0xff981f
-font=p12_full
-shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,"Increases your effective accuracy and damage against undead creatures. For multi-target Ranged and Magic attacks, this applies only to the primary target. It does not stack with the Slayer multiplier.",25,250)"
-
 [interface_84:41]
 type=^iftype_text
-x=353
-y=291
+x=1
+y=285
 width=147
 height=14
-layer=interface_84:1
+hposmode=^setpos_abs_right
+layer=interface_84:21
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(5505068)"
-onmouserepeat="script526(event_com,-1,5505068,Increases your effective accuracy and damage against your Slayer target. This does not stack with the Undead multiplier.,25,250)"
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,"Increases your effective accuracy and damage against undead creatures. For multi-target Ranged and Magic attacks, this applies only to the primary target. It does not stack with the Slayer multiplier.",25,250)"
 
 [interface_84:42]
+type=^iftype_text
+x=1
+y=299
+width=147
+height=14
+hposmode=^setpos_abs_right
+layer=interface_84:21
+colour=0xff981f
+font=p12_full
+shadowed=yes
+onmouseleave="script40(5505074)"
+onmouserepeat="script526(event_com,-1,5505074,Increases your effective accuracy and damage against your Slayer target. This does not stack with the Undead multiplier.,25,250)"
+
+[interface_84:43]
+type=^iftype_layer
+contenttype=9586
+width=500
+height=324
+hide=yes
+layer=interface_84:1
+onload="script3517(5505071,5505045,5505067,0,5505069,5505070)"
+
+[interface_84:44]
+type=^iftype_text
+y=38
+width=155
+height=15
+hposmode=^setpos_abs_right
+layer=interface_84:43
+text="Set Effect Bonus"
+colour=0xff981f
+font=b12_full
+shadowed=yes
+
+[interface_84:45]
+type=^iftype_layer
+x=25
+y=65
+width=125
+height=248
+hposmode=^setpos_abs_right
+layer=interface_84:43
+onload="script3521(5505069,5505070)"
+
+[interface_84:46]
+type=^iftype_layer
+x=5
+y=65
+width=16
+height=248
+hposmode=^setpos_abs_right
+layer=interface_84:43
+
+[interface_84:47]
+type=^iftype_layer
+x=55
+y=288
+width=70
+height=26
+layer=interface_84:43
+
+[interface_84:48]
 type=^iftype_graphic
 x=61
-y=276
+y=266
 width=17
 height=18
 layer=interface_84:1
 graphic="options_icons_small,0"
 
-[interface_84:43]
+[interface_84:49]
 type=^iftype_text
 x=82
-y=277
+y=266
 width=62
 height=17
 layer=interface_84:1
@@ -595,7 +656,7 @@ shadowed=yes
 onload="script547(event_com)"
 oninvtransmit="script547(event_com){inv,worn}"
 
-[interface_84:44]
+[interface_84:50]
 type=^iftype_layer
 width=1
 height=1

@@ -24160,11 +24160,15 @@ framegroup1=1051
 
 [seq_4023]
 framecount=21
+replayoff=1
+movetype=1
 looptype=1
 framegroup1=1050
 
 [seq_4024]
 framecount=21
+replayoff=1
+movetype=1
 looptype=1
 framegroup1=1050
 
@@ -42334,6 +42338,12 @@ replayoff=33
 looptype=1
 framegroup1=1753
 
+[colossal_hydra_ready_7002]
+framecount=16
+priority=4
+looptype=1
+framegroup1=2517
+
 [seq_7003]
 framecount=14
 looptype=1
@@ -42350,15 +42360,34 @@ framecount=7
 looptype=1
 framegroup1=1780
 
+[colossal_hydra_walk_7006]
+framecount=32
+looptype=1
+framegroup1=2516
+
 [seq_7007]
 framecount=13
 looptype=1
 framegroup1=1781
 
+[seq_7008]
+framecount=18
+priority=6
+looptype=1
+framegroup1=2519
+soundeffect9=4089,1,15
+
 [seq_7009]
 framecount=8
 looptype=1
 framegroup1=1779
+
+[seq_7010]
+framecount=18
+priority=6
+looptype=1
+framegroup1=2519
+soundeffect9=4103,1,15
 
 [seq_7011]
 framecount=8
@@ -50430,6 +50459,7 @@ replayoff=1
 priority=10
 looptype=1
 framegroup1=2285
+soundeffect7=4075,1,15
 
 [seq_8265]
 framecount=32
@@ -50492,6 +50522,7 @@ framegroup1=2225
 
 [drake_ready_8274]
 framecount=14
+priority=4
 looptype=1
 framegroup1=2227
 
@@ -53706,4 +53737,36 @@ priority=7
 looptype=1
 framegroup1=1982
 framegroup2=1980
+
+[seq_8759]
+framecount=23
+priority=6
+looptype=1
+framegroup1=2520
+soundeffect7=4114,1,7
+soundeffect14=4114,1,7
+
+[seq_8760]
+framecount=37
+replayoff=1
+priority=10
+looptype=1
+framegroup1=2518
+soundeffect3=4075,1,15
+soundeffect22=4106,1,15
+soundeffect26=4106,1,15
+
+[seq_8761]
+framecount=19
+priority=8
+looptype=1
+framegroup1=2233
+soundeffect1=4127,1,7
+soundeffect2=4114,1,7
+
+[seq_8762]
+framecount=24
+priority=6
+looptype=1
+framegroup1=2521
 
