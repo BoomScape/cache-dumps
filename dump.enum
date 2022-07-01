@@ -2105,6 +2105,8 @@ val=150,festive_elf_hat_26312
 val=151,snowman_ring_26314
 val=152,secret_santa_present_red_26316
 val=153,skis_26649
+val=154,easter_hat_26937
+val=155,crate_ring_26939
 val=-10,cert_pumpkin_1960
 val=-11,cert_red_halloween_mask_1058
 val=-12,cert_green_halloween_mask_1054
@@ -30166,6 +30168,8 @@ val=78,secret_santa_present_red_26316
 val=79,festive_elf_slippers_26310
 val=80,festive_elf_hat_26312
 val=81,skis_26649
+val=82,easter_hat_26937
+val=83,crate_ring_26939
 
 [enum_3300]
 inputtype=int
@@ -30849,6 +30853,8 @@ val=secret_santa_present_red_26316,2021: Secret Santa Present
 val=festive_elf_slippers_26310,2021: Festive Slippers
 val=festive_elf_hat_26312,2021: Festive Hat
 val=skis_26649,2022: Sand Skis
+val=easter_hat_26937,2022: Easter Hat
+val=crate_ring_26939,2022: Easter Crate Ring
 val=jar_of_dirt_12007,Jar of Dirt (Kraken)
 val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
 val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)

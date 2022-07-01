@@ -13523,3 +13523,15 @@ recol1d=61369
 recol2s=6080
 recol2d=61394
 
+[spotanim_2070]
+model=model_44156
+anim=seq_9407
+ambient=10
+contrast=10
+
+[spotanim_2071]
+model=model_44156
+anim=seq_9412
+ambient=10
+contrast=10
+
