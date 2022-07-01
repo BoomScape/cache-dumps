@@ -3206,26 +3206,28 @@ certificate=yes
 [research_package_290]
 name=Research package
 model=research_package_2426
-cost=2
+cost=30
 2dzoom=1180
 2dyof=-14
 2dxan=160
 2dyan=172
+iop5=Destroy
 recol1s=2999
 recol1d=-22211
 recol2s=22410
 recol2d=-10978
 placeholder=yes
 
-[notes_291]
-name=Notes
-model=notes_2600
-cost=5
+[research_notes_291]
+name=Research notes
+model=research_notes_2600
+cost=30
 2dzoom=1040
 2dxof=1
 2dyof=7
 2dxan=380
 2dyan=120
+iop5=Destroy
 placeholder=yes
 
 [book_on_baxtorian_292]
@@ -4677,7 +4679,7 @@ placeholder=yes
 
 [pirate_message_433]
 name=Pirate message
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -6326,7 +6328,7 @@ placeholder=yes
 
 [tattered_scroll_607]
 name=Tattered scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -6340,7 +6342,7 @@ placeholder=yes
 
 [crumpled_scroll_608]
 name=Crumpled scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -6530,7 +6532,7 @@ placeholder=yes
 
 [bervirius_notes_624]
 name=Bervirius notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -7576,7 +7578,7 @@ recol1d=-2608
 
 [radimus_notes_714]
 name=Radimus notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -7593,7 +7595,7 @@ placeholder=yes
 
 [radimus_notes_715]
 name=Radimus notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -7691,7 +7693,7 @@ placeholder=yes
 
 [sketch_720]
 name=Sketch
-model=notes_2600
+model=research_notes_2600
 cost=10
 2dzoom=1040
 2dxof=1
@@ -8189,7 +8191,7 @@ certificate=yes
 
 [intel_report_761]
 name=Intel report
-model=notes_2600
+model=research_notes_2600
 cost=5
 2dzoom=1040
 2dxof=1
@@ -8543,7 +8545,7 @@ placeholder=yes
 
 [hazelmeres_scroll_786]
 name=Hazelmere's scroll
-model=notes_2600
+model=research_notes_2600
 cost=2
 2dzoom=1040
 2dxof=1
@@ -8556,7 +8558,7 @@ placeholder=yes
 
 [lumber_order_787]
 name=Lumber order
-model=notes_2600
+model=research_notes_2600
 cost=2
 2dzoom=1040
 2dxof=1
@@ -8633,7 +8635,7 @@ placeholder=yes
 
 [invasion_plans_794]
 name=Invasion plans
-model=notes_2600
+model=research_notes_2600
 cost=2
 2dzoom=1040
 2dxof=1
@@ -11240,7 +11242,7 @@ certificate=yes
 
 [flyer_956]
 name=Flyer
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -16590,6 +16592,7 @@ iop4=Locate
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4286
 
 [cert_air_talisman_1439]
 certificate=yes
@@ -16607,6 +16610,7 @@ iop4=Locate
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4288
 
 [cert_earth_talisman_1441]
 certificate=yes
@@ -16624,6 +16628,7 @@ iop4=Locate
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4289
 
 [cert_fire_talisman_1443]
 certificate=yes
@@ -16641,6 +16646,7 @@ iop4=Locate
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4287
 
 [cert_water_talisman_1445]
 certificate=yes
@@ -16658,6 +16664,7 @@ iop4=Locate
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4291
 
 [cert_body_talisman_1447]
 certificate=yes
@@ -16675,27 +16682,29 @@ iop4=Locate
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4290
 
 [cert_mind_talisman_1449]
 certificate=yes
 
-[dummy_priest_gown_1450]
-name=Null
-model=priest_gown_2521
-category=category_15
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
-recol1s=25238
-recol1d=-2608
+[blood_talisman_1450]
+name=Blood talisman
+model=blood_talisman_2475
+cost=4
+2dzoom=1160
+2dxof=2
+2dyof=20
+2dxan=352
+2dyan=160
+iop4=Locate
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+param=param_983,enum_4297
 
-[obj_1451]
-model=model_32299
-2dzoom=4379
-2dyof=-12
-2dxan=81
-2dyan=1872
+[cert_blood_talisman_1451]
+certificate=yes
 
 [chaos_talisman_1452]
 name=Chaos talisman
@@ -16711,6 +16720,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4292
 
 [cert_chaos_talisman_1453]
 certificate=yes
@@ -16729,6 +16739,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4293
 
 [cert_cosmic_talisman_1455]
 certificate=yes
@@ -16747,6 +16758,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4296
 
 [cert_death_talisman_1457]
 certificate=yes
@@ -16764,6 +16776,7 @@ iop4=Locate
 iop5=Destroy
 members=yes
 placeholder=yes
+param=param_983,enum_4295
 
 [dummy_priest_gown_1459]
 name=Null
@@ -16809,6 +16822,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_983,enum_4294
 
 [cert_nature_talisman_1463]
 certificate=yes
@@ -17289,7 +17303,7 @@ placeholder=yes
 
 [ardougne_teleport_scroll_1505]
 name=Ardougne teleport scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -18318,7 +18332,7 @@ placeholder=yes
 
 [id_papers_1584]
 name=Id papers
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -26752,7 +26766,7 @@ placeholder=yes
 
 [spell_scroll_2396]
 name=Spell scroll
-model=notes_2600
+model=research_notes_2600
 cost=5
 2dzoom=1040
 2dxof=1
@@ -26854,7 +26868,7 @@ placeholder=yes
 
 [hazeel_scroll_2403]
 name=Hazeel scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -36180,7 +36194,7 @@ certificate=yes
 
 [crafting_manual_3161]
 name=Crafting manual
-model=notes_2600
+model=research_notes_2600
 cost=5
 2dzoom=1040
 2dxof=1
@@ -46927,7 +46941,7 @@ placeholder=yes
 
 [narnodes_orders_4005]
 name=Narnode's orders
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -51970,7 +51984,7 @@ placeholder=yes
 
 [animate_rock_scroll_4428]
 name=Animate rock scroll
-model=notes_2600
+model=research_notes_2600
 cost=50
 2dzoom=1040
 2dxof=1
@@ -53879,7 +53893,7 @@ certificate=yes
 
 [note_4597]
 name=Note
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -53893,7 +53907,7 @@ placeholder=yes
 
 [note_4598]
 name=Note
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -53964,7 +53978,7 @@ placeholder=yes
 
 [receipt_4603]
 name=Receipt
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -66417,16 +66431,20 @@ certificate=yes
 [scrying_orb_5518]
 name=Scrying orb
 model=scrying_orb_7512
+cost=30
 2dzoom=540
 2dyof=-1
+iop5=Destroy
 members=yes
 placeholder=yes
 
 [scrying_orb_5519]
 name=Scrying orb
 model=scrying_orb_7511
+cost=30
 2dzoom=540
 2dyof=-1
+iop5=Destroy
 members=yes
 placeholder=yes
 
@@ -66510,6 +66528,7 @@ manwear=air_tiara_7480,0
 womanwear=air_tiara_7494,0
 manhead=air_tiara_7466
 femalehead=air_tiara_7466
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66531,6 +66550,7 @@ manwear=mind_tiara_7489,0
 womanwear=mind_tiara_7503,0
 manhead=mind_tiara_7475
 femalehead=mind_tiara_7475
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66552,6 +66572,7 @@ manwear=water_tiara_7492,0
 womanwear=water_tiara_7506,0
 manhead=water_tiara_7478
 femalehead=water_tiara_7478
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66573,6 +66594,7 @@ manwear=body_tiara_7482,0
 womanwear=body_tiara_7496,0
 manhead=body_tiara_7468
 femalehead=body_tiara_7468
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66594,6 +66616,7 @@ manwear=earth_tiara_7486,0
 womanwear=earth_tiara_7500,0
 manhead=earth_tiara_7472
 femalehead=earth_tiara_7472
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66615,6 +66638,7 @@ manwear=fire_tiara_7487,0
 womanwear=fire_tiara_7501,0
 manhead=fire_tiara_7473
 femalehead=fire_tiara_7473
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66636,6 +66660,7 @@ manwear=cosmic_tiara_7484,0
 womanwear=cosmic_tiara_7498,0
 manhead=cosmic_tiara_7470
 femalehead=cosmic_tiara_7470
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66658,6 +66683,7 @@ manwear=nature_tiara_7490,0
 womanwear=nature_tiara_7504,0
 manhead=nature_tiara_7476
 femalehead=nature_tiara_7476
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66680,6 +66706,7 @@ manwear=chaos_tiara_7483,0
 womanwear=chaos_tiara_7497,0
 manhead=chaos_tiara_7469
 femalehead=chaos_tiara_7469
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66702,6 +66729,7 @@ manwear=law_tiara_7488,0
 womanwear=law_tiara_7502,0
 manhead=law_tiara_7474
 femalehead=law_tiara_7474
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66731,6 +66759,7 @@ manwear=death_tiara_7485,0
 womanwear=death_tiara_7499,0
 manhead=death_tiara_7471
 femalehead=death_tiara_7471
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -66746,27 +66775,28 @@ placeholder=yes
 [cert_death_tiara_5548]
 certificate=yes
 
-[dummy_priest_gown_5549]
-name=Null
-model=priest_gown_2521
-category=category_15
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
-recol1s=25238
-recol1d=-2608
+[blood_tiara_5549]
+name=Blood tiara
+model=blood_tiara_7524
+manwear=blood_tiara_7481,0
+womanwear=blood_tiara_7495,0
+manhead=blood_tiara_7467
+femalehead=blood_tiara_7467
+category=category_1611
+cost=500
+2dzoom=480
+2dyof=-25
+2dxan=232
+iop2=Wear
+recol1s=-22440
+recol1d=-4004
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
 
-[dummy_priest_gown_5550]
-name=Null
-model=priest_gown_2521
-category=category_15
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
-recol1s=25238
-recol1d=-2608
+[cert_blood_tiara_5550]
+certificate=yes
 
 [dummy_priest_gown_5551]
 name=Null
@@ -79644,7 +79674,7 @@ contrast=40
 
 [item_list_6648]
 name=Item list
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -80934,7 +80964,7 @@ placeholder=yes
 
 [scroll_6758]
 name=Scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -81072,7 +81102,7 @@ placeholder=yes
 
 [music_scroll_6769]
 name=Music scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -81085,7 +81115,7 @@ placeholder=yes
 
 [directions_6770]
 name=Directions
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -108702,6 +108732,7 @@ manwear=astral_tiara_7491,0
 womanwear=astral_tiara_7505,0
 manhead=astral_tiara_7477
 femalehead=astral_tiara_7477
+category=category_1611
 cost=100
 2dzoom=480
 2dyof=-25
@@ -118238,7 +118269,7 @@ placeholder=yes
 
 [door_transcription_9682]
 name=Door transcription
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -118763,7 +118794,7 @@ placeholder=yes
 
 [scroll_9721]
 name=Scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -129639,7 +129670,7 @@ param=param_1189,a_kingdom_divided_2971
 
 [scroll_10512]
 name=Scroll
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -132965,7 +132996,7 @@ members=yes
 
 [royal_decree_10830]
 name=Royal decree
-model=notes_2600
+model=research_notes_2600
 2dzoom=1049
 2dxan=216
 2dyan=174
@@ -133321,7 +133352,7 @@ contrast=20
 
 [sin_seers_note_10856]
 name=Sin seer's note
-model=notes_2600
+model=research_notes_2600
 cost=5
 2dzoom=1040
 2dxof=1
@@ -135483,7 +135514,7 @@ placeholder=yes
 
 [svens_last_map_11034]
 name=Sven's last map
-model=notes_2600
+model=research_notes_2600
 cost=0
 2dzoom=1310
 2dxof=5
@@ -157948,7 +157979,7 @@ category=category_15
 
 [will_and_testament_12838]
 name=Will and testament
-model=notes_2600
+model=research_notes_2600
 category=category_15
 2dzoom=1040
 2dxof=1
@@ -181447,7 +181478,7 @@ placeholder=yes
 [placeholder_research_package_17731]
 placeholder=yes
 
-[placeholder_notes_17732]
+[placeholder_research_notes_17732]
 placeholder=yes
 
 [placeholder_safety_guarantee_17733]
@@ -199914,7 +199945,7 @@ recol1d=-22242
 
 [notes_20770]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -199925,7 +199956,7 @@ iop5=Destroy
 
 [notes_20771]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -199936,7 +199967,7 @@ iop5=Destroy
 
 [notes_20772]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -203724,7 +203755,7 @@ recol1d=-22242
 
 [notes_21056]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -203735,7 +203766,7 @@ iop5=Destroy
 
 [notes_21057]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -203746,7 +203777,7 @@ iop5=Destroy
 
 [notes_21058]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -210565,7 +210596,7 @@ placeholder=yes
 
 [death_note_21710]
 name=Death note
-model=notes_2600
+model=research_notes_2600
 category=category_15
 2dzoom=1040
 2dxof=1
@@ -210632,7 +210663,7 @@ recol4d=10467
 
 [note_21715]
 name=Note
-model=notes_2600
+model=research_notes_2600
 category=category_15
 2dzoom=1040
 2dxof=1
@@ -210672,7 +210703,7 @@ cost=0
 
 [traiborn_note_21718]
 name=Traiborn note
-model=notes_2600
+model=research_notes_2600
 category=category_15
 2dzoom=1040
 2dxof=1
@@ -211018,7 +211049,7 @@ members=yes
 
 [hosidius_favour_certificate_21759]
 name=Hosidius favour certificate
-model=notes_2600
+model=research_notes_2600
 cost=50
 2dzoom=1040
 2dxof=1
@@ -211180,7 +211211,7 @@ members=yes
 
 [piscarilius_favour_certificate_21775]
 name=Piscarilius favour certificate
-model=notes_2600
+model=research_notes_2600
 cost=50
 2dzoom=1040
 2dxof=1
@@ -214874,6 +214905,7 @@ manwear=astral_tiara_7491,0
 womanwear=astral_tiara_7505,0
 manhead=astral_tiara_7477
 femalehead=astral_tiara_7477
+category=category_1611
 cost=500
 2dzoom=480
 2dyof=-25
@@ -217639,7 +217671,7 @@ recol2d=-29376
 
 [shayzien_favour_certificate_22365]
 name=Shayzien favour certificate
-model=notes_2600
+model=research_notes_2600
 cost=50
 2dzoom=1040
 2dxof=1
@@ -217669,7 +217701,7 @@ members=yes
 
 [kourend_favour_certificate_22367]
 name=Kourend favour certificate
-model=notes_2600
+model=research_notes_2600
 cost=50
 2dzoom=1040
 2dxof=1
@@ -221425,7 +221457,7 @@ placeholder=yes
 
 [lovakengj_favour_certificate_22760]
 name=Lovakengj favour certificate
-model=notes_2600
+model=research_notes_2600
 cost=50
 2dzoom=1040
 2dxof=1
@@ -221635,7 +221667,7 @@ placeholder=yes
 
 [arceuus_favour_certificate_22777]
 name=Arceuus favour certificate
-model=notes_2600
+model=research_notes_2600
 cost=50
 2dzoom=1040
 2dxof=1
@@ -230176,7 +230208,7 @@ placeholder=yes
 
 [flyer_23670]
 name=Flyer
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -253158,7 +253190,7 @@ members=yes
 
 [delivery_confirmation_25796]
 name=Delivery confirmation
-model=notes_2600
+model=research_notes_2600
 category=category_1560
 cost=30
 2dzoom=1040
@@ -259062,20 +259094,12 @@ recol3s=61
 recol3d=4416
 placeholder=yes
 
-[dummy_uncooked_apple_pie_26248]
-name=Null
-model=uncooked_apple_pie_2767
-category=category_15
-2dzoom=950
-2dyof=-9
-2dxan=192
-2dyan=104
-recol1s=8670
-recol1d=5689
-recol2s=5006
-recol2d=3623
-recol3s=61
-recol3d=4416
+[obj_26248]
+model=model_32299
+2dzoom=4379
+2dyof=-12
+2dxan=81
+2dyan=1872
 
 [placeholder_pumpkin_pie_26249]
 placeholder=yes
@@ -259098,7 +259122,7 @@ placeholder=yes
 
 [ad_coupon_26252]
 name=Ad coupon
-model=notes_2600
+model=research_notes_2600
 2dzoom=1040
 2dxof=1
 2dyof=7
@@ -259298,7 +259322,7 @@ placeholder=yes
 
 [notes_26276]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 category=category_15
 cost=0
 2dzoom=950
@@ -262362,7 +262386,7 @@ members=yes
 
 [notes_26596]
 name=Notes
-model=notes_2600
+model=research_notes_2600
 cost=0
 2dzoom=950
 2dyof=-9
@@ -264945,4 +264969,1593 @@ iop4=Uncharge
 recol1s=-3504
 recol1d=-25664
 members=yes
+
+[placeholder_blood_talisman_26783]
+placeholder=yes
+
+[colossal_pouch_26784]
+name=Colossal pouch
+model=colossal_pouch_44094
+cost=1200
+2dzoom=888
+2dxan=128
+iop1=Fill
+iop2=Empty
+iop3=Check
+members=yes
+shiftop=1
+placeholder=yes
+param=param_595,Fill
+
+[placeholder_colossal_pouch_26785]
+placeholder=yes
+
+[colossal_pouch_26786]
+name=Colossal pouch
+model=colossal_pouch_44094
+cost=1200
+2dzoom=888
+2dxan=128
+iop1=Fill
+iop2=Empty
+iop3=Check
+members=yes
+ambient=-45
+contrast=15
+shiftop=1
+placeholder=yes
+param=param_595,Fill
+
+[placeholder_colossal_pouch_26787]
+placeholder=yes
+
+[gold_tiara_26788]
+name=Gold tiara
+model=tiara_7522
+manwear=tiara_7479,0
+womanwear=tiara_7493,0
+manhead=tiara_7465
+femalehead=tiara_7465
+cost=100
+2dzoom=480
+2dyof=-25
+2dxan=232
+iop2=Wear
+recol1s=-22440
+recol1d=8128
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_gold_tiara_26789]
+certificate=yes
+
+[placeholder_gold_tiara_26790]
+placeholder=yes
+
+[placeholder_blood_tiara_26791]
+placeholder=yes
+
+[abyssal_pearls_26792]
+name=Abyssal pearls
+model=molch_pearl_36129
+cost=50
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+recol1s=-11155
+recol1d=553
+members=yes
+stackable=yes
+placeholder=yes
+count1=abyssal_pearls_2_26794,2
+count2=abyssal_pearls_3_26795,3
+count3=abyssal_pearls_4_26796,4
+count4=abyssal_pearls_5_26797,5
+
+[placeholder_abyssal_pearls_26793]
+placeholder=yes
+
+[abyssal_pearls_2_26794]
+model=molch_pearl_2_36105
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+recol1s=-11155
+recol1d=553
+stackable=yes
+
+[abyssal_pearls_3_26795]
+model=molch_pearl_3_36118
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+recol1s=-11155
+recol1d=553
+stackable=yes
+
+[abyssal_pearls_4_26796]
+model=molch_pearl_4_36153
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+recol1s=-11155
+recol1d=553
+stackable=yes
+
+[abyssal_pearls_5_26797]
+model=molch_pearl_5_36131
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+recol1s=-11155
+recol1d=553
+stackable=yes
+
+[catalytic_talisman_26798]
+name=Catalytic talisman
+model=catalytic_talisman_43975
+cost=2000
+2dzoom=1416
+2dxof=2
+2dyof=20
+2dxan=334
+2dyan=121
+iop4=Locate
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_catalytic_talisman_26799]
+certificate=yes
+
+[placeholder_catalytic_talisman_26800]
+placeholder=yes
+
+[catalytic_tiara_26801]
+name=Catalytic tiara
+model=catalytic_tiara_43978
+manwear=catalytic_tiara_43892,0
+womanwear=catalytic_tiara_43900,0
+manhead=catalytic_tiara_44077
+femalehead=catalytic_tiara_44077
+category=category_1611
+cost=100
+2dzoom=480
+2dyof=-25
+2dxan=232
+iop2=Wear
+recol1s=125
+recol1d=8
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_catalytic_tiara_26802]
+certificate=yes
+
+[placeholder_catalytic_tiara_26803]
+placeholder=yes
+
+[elemental_tiara_26804]
+name=Elemental tiara
+model=catalytic_tiara_43978
+manwear=catalytic_tiara_43892,0
+womanwear=catalytic_tiara_43900,0
+manhead=catalytic_tiara_44077
+femalehead=catalytic_tiara_44077
+category=category_1611
+cost=100
+2dzoom=480
+2dyof=-25
+2dxan=232
+iop2=Wear
+recol1s=125
+recol1d=125
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_elemental_tiara_26805]
+certificate=yes
+
+[placeholder_elemental_tiara_26806]
+placeholder=yes
+
+[abyssal_green_dye_26807]
+name=Abyssal green dye
+model=dark_dye_39657
+cost=3000
+2dzoom=760
+2dyof=1
+2dxan=124
+2dyan=1920
+recol1s=939
+recol1d=22443
+recol2s=547
+recol2d=22051
+recol3s=278
+recol3d=21782
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_green_dye_26808]
+placeholder=yes
+
+[abyssal_blue_dye_26809]
+name=Abyssal blue dye
+model=dark_dye_39657
+cost=3000
+2dzoom=760
+2dyof=1
+2dxan=124
+2dyan=1920
+recol1s=939
+recol1d=-21589
+recol2s=547
+recol2d=-21981
+recol3s=278
+recol3d=-22250
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_blue_dye_26810]
+placeholder=yes
+
+[abyssal_red_dye_26811]
+name=Abyssal red dye
+model=dark_dye_39657
+cost=3000
+2dzoom=760
+2dyof=1
+2dxan=124
+2dyan=1920
+recol1s=939
+recol1d=-4181
+recol2s=547
+recol2d=-5597
+recol3s=278
+recol3d=-6890
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_red_dye_26812]
+placeholder=yes
+
+[abyssal_needle_26813]
+name=Abyssal needle
+model=needle_2770
+cost=3000
+2dzoom=850
+2dxof=2
+2dyof=4
+2dxan=377
+2dyan=471
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_needle_26814]
+placeholder=yes
+
+[ring_of_the_elements_26815]
+name=Ring of the elements
+model=ring_of_the_elements_44124
+cost=2000
+2dzoom=789
+2dxof=-5
+2dyof=-27
+2dxan=322
+2dyan=186
+iop2=Wear
+iop3=Rub
+members=yes
+ambient=-20
+stockmarket=yes
+certificate=yes
+placeholder=yes
+param=param_983,enum_4298
+
+[cert_ring_of_the_elements_26816]
+certificate=yes
+
+[placeholder_ring_of_the_elements_26817]
+placeholder=yes
+
+[ring_of_the_elements_26818]
+name=Ring of the elements
+model=ring_of_the_elements_44108
+cost=2000
+2dzoom=789
+2dxof=-5
+2dyof=-27
+2dxan=322
+2dyan=186
+iop2=Wear
+iop3=Rub
+iop4=Last Destination
+iop5=Check
+members=yes
+ambient=25
+placeholder=yes
+param=param_451,Last Destination
+param=param_452,Air Altar
+param=param_453,Water Altar
+param=param_454,Earth Altar
+param=param_455,Fire Altar
+param=param_983,enum_4298
+
+[placeholder_ring_of_the_elements_26819]
+placeholder=yes
+
+[guardians_eye_26820]
+name=Guardian's eye
+model=scrying_orb_7512
+cost=3000
+2dzoom=510
+recol1s=21584
+recol1d=21710
+recol2s=28989
+recol2d=20923
+members=yes
+placeholder=yes
+
+[placeholder_guardians_eye_26821]
+placeholder=yes
+
+[abyssal_lantern_26822]
+name=Abyssal lantern
+model=abyssal_lantern_43976
+manwear=abyssal_lantern_43909,0
+womanwear=abyssal_lantern_43907,0
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+recol1s=-11810
+recol1d=13539
+recol2s=-11328
+recol2d=13648
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_26823]
+placeholder=yes
+
+[abyssal_lantern_normal_logs_26824]
+name=Abyssal lantern (normal logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=6697
+recol2s=-11328
+recol2d=5066
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_normal_logs_26825]
+placeholder=yes
+
+[abyssal_lantern_blue_logs_26826]
+name=Abyssal lantern (blue logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=-27081
+recol2s=-11328
+recol2d=-26676
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_blue_logs_26827]
+placeholder=yes
+
+[abyssal_lantern_red_logs_26828]
+name=Abyssal lantern (red logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=567
+recol2s=-11328
+recol2d=960
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_red_logs_26829]
+placeholder=yes
+
+[abyssal_lantern_white_logs_26830]
+name=Abyssal lantern (white logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=115
+recol2s=-11328
+recol2d=127
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_white_logs_26831]
+placeholder=yes
+
+[abyssal_lantern_purple_logs_26832]
+name=Abyssal lantern (purple logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=-15808
+recol2s=-11328
+recol2d=-14632
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_purple_logs_26833]
+placeholder=yes
+
+[abyssal_lantern_green_logs_26834]
+name=Abyssal lantern (green logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=22067
+recol2s=-11328
+recol2d=22476
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_green_logs_26835]
+placeholder=yes
+
+[abyssal_lantern_oak_logs_26836]
+name=Abyssal lantern (oak logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=8111
+recol2s=-11328
+recol2d=8130
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_oak_logs_26837]
+placeholder=yes
+
+[abyssal_lantern_willow_logs_26838]
+name=Abyssal lantern (willow logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=9903
+recol2s=-11328
+recol2d=11200
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_willow_logs_26839]
+placeholder=yes
+
+[abyssal_lantern_maple_logs_26840]
+name=Abyssal lantern (maple logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=-14101
+recol2s=-11328
+recol2d=-13860
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_maple_logs_26841]
+placeholder=yes
+
+[abyssal_lantern_yew_logs_26842]
+name=Abyssal lantern (yew logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=13016
+recol2s=-11328
+recol2d=13252
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_yew_logs_26843]
+placeholder=yes
+
+[abyssal_lantern_blisterwood_logs_26844]
+name=Abyssal lantern (blisterwood logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=350
+recol2s=-11328
+recol2d=125
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_blisterwood_logs_26845]
+placeholder=yes
+
+[abyssal_lantern_magic_logs_26846]
+name=Abyssal lantern (magic logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=31541
+recol2s=-11328
+recol2d=31680
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_magic_logs_26847]
+placeholder=yes
+
+[abyssal_lantern_redwood_logs_26848]
+name=Abyssal lantern (redwood logs)
+model=abyssal_lantern_normal_logs_43977
+manwear=abyssal_lantern_43909,0
+manwear2=abyssal_lantern_normal_logs_43906
+womanwear=abyssal_lantern_43907,0
+womanwear2=abyssal_lantern_normal_logs_43905
+category=category_1612
+cost=100
+2dzoom=1180
+2dyof=-2
+2dxan=78
+2dyan=722
+iop2=Wield
+iop3=Extinguish
+iop4=Inspect
+iop5=Destroy
+recol1s=-11810
+recol1d=3753
+recol2s=-11328
+recol2d=1984
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_lantern_redwood_logs_26849]
+placeholder=yes
+
+[hat_of_the_eye_26850]
+name=Hat of the eye
+model=hat_of_the_eye_44127
+manwear=hat_of_the_eye_43886,0
+womanwear=hat_of_the_eye_43896,0
+manhead=hat_of_the_eye_44076
+femalehead=hat_of_the_eye_44080
+category=category_1613
+cost=500
+2dzoom=1118
+2dxof=4
+2dyof=-13
+2dxan=131
+2dyan=171
+iop2=Wear
+iop4=Check
+members=yes
+placeholder=yes
+param=param_451,Check
+param=param_1600,1
+
+[placeholder_hat_of_the_eye_26851]
+placeholder=yes
+
+[robe_top_of_the_eye_26852]
+name=Robe top of the eye
+model=robe_top_of_the_eye_44102
+manwear=robe_top_of_the_eye_43894,0
+manwear2=robe_top_of_the_eye_43893
+womanwear=robe_top_of_the_eye_43903,0
+womanwear2=robe_top_of_the_eye_43902
+category=category_1613
+cost=400
+2dzoom=1414
+2dyof=14
+2dxan=532
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_top_of_the_eye_26853]
+placeholder=yes
+
+[robe_bottoms_of_the_eye_26854]
+name=Robe bottoms of the eye
+model=robe_bottoms_of_the_eye_44131
+manwear=robe_bottoms_of_the_eye_43889,0
+womanwear=robe_bottoms_of_the_eye_43899,0
+category=category_1613
+cost=400
+2dzoom=1711
+2dyof=9
+2dxan=579
+2dyan=2047
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_bottoms_of_the_eye_26855]
+placeholder=yes
+
+[boots_of_the_eye_26856]
+name=Boots of the eye
+model=boots_of_the_eye_44103
+manwear=boots_of_the_eye_43895,0
+womanwear=boots_of_the_eye_43904,0
+category=category_1613
+cost=300
+2dzoom=822
+2dxof=1
+2dyof=-7
+2dxan=168
+2dyan=192
+iop2=Wear
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_boots_of_the_eye_26857]
+placeholder=yes
+
+[hat_of_the_eye_red_26858]
+name=Hat of the eye (red)
+model=hat_of_the_eye_44127
+manwear=hat_of_the_eye_43886,0
+womanwear=hat_of_the_eye_43896,0
+manhead=hat_of_the_eye_44076
+femalehead=hat_of_the_eye_44080
+category=category_1613
+cost=500
+2dzoom=1118
+2dxof=4
+2dyof=-13
+2dxan=131
+2dyan=171
+iop2=Wear
+iop3=Revert
+iop4=Check
+recol1s=10295
+recol1d=24
+recol2s=9137
+recol2d=933
+recol3s=5045
+recol3d=-3170
+recol4s=10293
+recol4d=20
+recol5s=10297
+recol5d=24
+recol6s=10289
+recol6d=16
+members=yes
+placeholder=yes
+param=param_451,Check
+param=param_1600,1
+
+[placeholder_hat_of_the_eye_red_26859]
+placeholder=yes
+
+[robe_top_of_the_eye_red_26860]
+name=Robe top of the eye (red)
+model=robe_top_of_the_eye_44102
+manwear=robe_top_of_the_eye_43894,0
+manwear2=robe_top_of_the_eye_43893
+womanwear=robe_top_of_the_eye_43903,0
+womanwear2=robe_top_of_the_eye_43902
+category=category_1613
+cost=400
+2dzoom=1414
+2dyof=14
+2dxan=532
+iop2=Wear
+iop3=Revert
+recol1s=10295
+recol1d=24
+recol2s=10291
+recol2d=20
+recol3s=9137
+recol3d=933
+recol4s=5045
+recol4d=-3170
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_top_of_the_eye_red_26861]
+placeholder=yes
+
+[robe_bottoms_of_the_eye_red_26862]
+name=Robe bottoms of the eye (red)
+model=robe_bottoms_of_the_eye_44131
+manwear=robe_bottoms_of_the_eye_43889,0
+womanwear=robe_bottoms_of_the_eye_43899,0
+category=category_1613
+cost=400
+2dzoom=1711
+2dyof=9
+2dxan=579
+2dyan=2047
+iop2=Wear
+iop3=Revert
+recol1s=10295
+recol1d=24
+recol2s=10291
+recol2d=20
+recol3s=9137
+recol3d=933
+recol4s=5045
+recol4d=-3170
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_bottoms_of_the_eye_red_26863]
+placeholder=yes
+
+[hat_of_the_eye_green_26864]
+name=Hat of the eye (green)
+model=hat_of_the_eye_44127
+manwear=hat_of_the_eye_43886,0
+womanwear=hat_of_the_eye_43896,0
+manhead=hat_of_the_eye_44076
+femalehead=hat_of_the_eye_44080
+category=category_1613
+cost=500
+2dzoom=1118
+2dxof=4
+2dyof=-13
+2dxan=131
+2dyan=171
+iop2=Wear
+iop3=Revert
+iop4=Check
+recol1s=9137
+recol1d=-28761
+recol2s=5045
+recol2d=27435
+members=yes
+placeholder=yes
+param=param_451,Check
+param=param_1600,1
+
+[placeholder_hat_of_the_eye_green_26865]
+placeholder=yes
+
+[robe_top_of_the_eye_green_26866]
+name=Robe top of the eye (green)
+model=robe_top_of_the_eye_44102
+manwear=robe_top_of_the_eye_43894,0
+manwear2=robe_top_of_the_eye_43893
+womanwear=robe_top_of_the_eye_43903,0
+womanwear2=robe_top_of_the_eye_43902
+category=category_1613
+cost=400
+2dzoom=1414
+2dyof=14
+2dxan=532
+iop2=Wear
+iop3=Revert
+recol1s=3495
+recol1d=10297
+recol2s=3484
+recol2d=10293
+recol3s=10295
+recol3d=3491
+recol4s=10291
+recol4d=3486
+recol5s=9137
+recol5d=-28761
+recol6s=5045
+recol6d=27435
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_top_of_the_eye_green_26867]
+placeholder=yes
+
+[robe_bottoms_of_the_eye_green_26868]
+name=Robe bottoms of the eye (green)
+model=robe_bottoms_of_the_eye_44131
+manwear=robe_bottoms_of_the_eye_43889,0
+womanwear=robe_bottoms_of_the_eye_43899,0
+category=category_1613
+cost=400
+2dzoom=1711
+2dyof=9
+2dxan=579
+2dyan=2047
+iop2=Wear
+iop3=Revert
+recol1s=3495
+recol1d=10297
+recol2s=3486
+recol2d=10293
+recol3s=10295
+recol3d=3491
+recol4s=10291
+recol4d=3486
+recol5s=9137
+recol5d=-28761
+recol6s=5045
+recol6d=27435
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_bottoms_of_the_eye_green_26869]
+placeholder=yes
+
+[hat_of_the_eye_blue_26870]
+name=Hat of the eye (blue)
+model=hat_of_the_eye_44127
+manwear=hat_of_the_eye_43886,0
+womanwear=hat_of_the_eye_43896,0
+manhead=hat_of_the_eye_44076
+femalehead=hat_of_the_eye_44080
+category=category_1613
+cost=500
+2dzoom=1118
+2dxof=4
+2dyof=-13
+2dxan=131
+2dyan=171
+iop2=Wear
+iop3=Revert
+iop4=Check
+recol1s=10295
+recol1d=-24783
+recol2s=9137
+recol2d=-24783
+recol3s=5045
+recol3d=-24783
+recol4s=10293
+recol4d=-24785
+recol5s=10297
+recol5d=-24781
+recol6s=10289
+recol6d=-24793
+members=yes
+placeholder=yes
+param=param_451,Check
+param=param_1600,1
+
+[placeholder_hat_of_the_eye_blue_26871]
+placeholder=yes
+
+[robe_top_of_the_eye_blue_26872]
+name=Robe top of the eye (blue)
+model=robe_top_of_the_eye_44102
+manwear=robe_top_of_the_eye_43894,0
+manwear2=robe_top_of_the_eye_43893
+womanwear=robe_top_of_the_eye_43903,0
+womanwear2=robe_top_of_the_eye_43902
+category=category_1613
+cost=400
+2dzoom=1414
+2dyof=14
+2dxan=532
+iop2=Wear
+iop3=Revert
+recol1s=3495
+recol1d=-24783
+recol2s=3484
+recol2d=-24793
+recol3s=9137
+recol3d=-25503
+recol4s=5045
+recol4d=-24783
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_top_of_the_eye_blue_26873]
+placeholder=yes
+
+[robe_bottoms_of_the_eye_blue_26874]
+name=Robe bottoms of the eye (blue)
+model=robe_bottoms_of_the_eye_44131
+manwear=robe_bottoms_of_the_eye_43889,0
+womanwear=robe_bottoms_of_the_eye_43899,0
+category=category_1613
+cost=400
+2dzoom=1711
+2dyof=9
+2dxan=579
+2dyan=2047
+iop2=Wear
+iop3=Revert
+recol1s=3495
+recol1d=-24783
+recol2s=3486
+recol2d=-24793
+recol3s=9137
+recol3d=-25503
+recol4s=5045
+recol4d=-24783
+members=yes
+placeholder=yes
+param=param_1600,1
+
+[placeholder_robe_bottoms_of_the_eye_blue_26875]
+placeholder=yes
+
+[atlaxs_diary_26876]
+name=Atlax's diary
+model=nulodions_notes_2794
+cost=30
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=30637
+members=yes
+placeholder=yes
+
+[placeholder_atlaxs_diary_26877]
+placeholder=yes
+
+[guardian_fragments_26878]
+name=Guardian fragments
+model=guardian_fragments_44099
+category=category_91
+cost=20
+2dzoom=1908
+2dxof=-4
+2dyof=3
+2dxan=397
+2dyan=162
+iop5=Destroy
+members=yes
+ambient=30
+stackable=yes
+
+[guardian_essence_26879]
+name=Guardian essence
+model=guardian_essence_44126
+manwear=dark_essence_block_29817,0
+womanwear=dark_essence_block_29817,6
+cost=30
+2dzoom=1020
+2dxof=-1
+2dyof=2
+2dxan=550
+iop5=Destroy
+members=yes
+ambient=30
+
+[catalytic_guardian_stone_26880]
+name=Catalytic guardian stone
+model=catalytic_guardian_stone_44100
+manwear=dark_essence_block_29817,0
+womanwear=dark_essence_block_29817,6
+cost=30
+2dzoom=1053
+2dxof=-1
+2dyof=6
+2dxan=550
+iop5=Destroy
+retex1s=11
+retex1d=15
+members=yes
+ambient=30
+stackable=yes
+
+[elemental_guardian_stone_26881]
+name=Elemental guardian stone
+model=elemental_guardian_stone_44098
+manwear=dark_essence_block_29817,0
+womanwear=dark_essence_block_29817,6
+cost=30
+2dzoom=1053
+2dxof=-1
+2dyof=5
+2dxan=550
+iop5=Destroy
+retex1s=11
+retex1d=15
+members=yes
+ambient=30
+stackable=yes
+
+[uncharged_cell_26882]
+name=Uncharged cell
+model=uncharged_cell_44120
+cost=30
+2dzoom=1358
+2dxof=1
+2dyof=-34
+2dxan=225
+2dyan=114
+iop1=Inspect
+iop5=Destroy
+recol1s=960
+recol1d=960
+members=yes
+stackable=yes
+
+[weak_cell_26883]
+name=Weak cell
+model=weak_cell_44114
+category=category_1614
+cost=30
+2dzoom=1358
+2dxof=1
+2dyof=-34
+2dxan=225
+2dyan=114
+iop1=Inspect
+iop5=Destroy
+recol1s=960
+recol1d=127
+members=yes
+param=param_1589,300
+param=param_1588,4
+
+[medium_cell_26884]
+name=Medium cell
+model=medium_cell_44115
+category=category_1614
+cost=30
+2dzoom=1358
+2dxof=1
+2dyof=-34
+2dxan=225
+2dyan=114
+iop1=Inspect
+iop5=Destroy
+recol1s=960
+recol1d=-22952
+members=yes
+param=param_1589,1000
+param=param_1588,10
+
+[strong_cell_26885]
+name=Strong cell
+model=strong_cell_44109
+category=category_1614
+cost=30
+2dzoom=1358
+2dxof=1
+2dyof=-34
+2dxan=225
+2dyan=114
+iop1=Inspect
+iop5=Destroy
+recol1s=960
+recol1d=19930
+members=yes
+param=param_1589,1800
+param=param_1588,18
+
+[overcharged_cell_26886]
+name=Overcharged cell
+model=overcharged_cell_44125
+category=category_1614
+cost=30
+2dzoom=1358
+2dxof=1
+2dyof=-34
+2dxan=225
+2dyan=114
+iop1=Inspect
+iop5=Destroy
+recol1s=960
+recol1d=850
+members=yes
+param=param_1589,2500
+param=param_1588,30
+
+[portal_talisman_air_26887]
+name=Portal talisman (air)
+model=portal_talisman_air_44132
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_water_26888]
+name=Portal talisman (water)
+model=portal_talisman_water_44101
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_earth_26889]
+name=Portal talisman (earth)
+model=portal_talisman_earth_44095
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_fire_26890]
+name=Portal talisman (fire)
+model=portal_talisman_fire_44097
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_mind_26891]
+name=Portal talisman (mind)
+model=portal_talisman_mind_44123
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_chaos_26892]
+name=Portal talisman (chaos)
+model=portal_talisman_chaos_44133
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_death_26893]
+name=Portal talisman (death)
+model=portal_talisman_death_44110
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_blood_26894]
+name=Portal talisman (blood)
+model=portal_talisman_blood_44113
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_body_26895]
+name=Portal talisman (body)
+model=portal_talisman_body_44107
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_cosmic_26896]
+name=Portal talisman (cosmic)
+model=portal_talisman_cosmic_44096
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_nature_26897]
+name=Portal talisman (nature)
+model=portal_talisman_nature_44105
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[portal_talisman_law_26898]
+name=Portal talisman (law)
+model=portal_talisman_law_44134
+category=category_1615
+2dzoom=1616
+2dxof=-1
+2dxan=539
+iop4=Inspect
+iop5=Destroy
+members=yes
+ambient=20
+stackable=yes
+
+[greatish_guardian_26899]
+name=Greatish guardian
+model=greatish_guardian_44075
+category=category_973
+2dzoom=4888
+2dxof=-14
+2dyof=-100
+2dxan=6
+2dyan=1951
+members=yes
+placeholder=yes
+param=param_446,enum_1690
+
+[placeholder_greatish_guardian_26900]
+placeholder=yes
+
+[abyssal_protector_26901]
+name=Abyssal protector
+model=abyssal_protector_44081
+2dzoom=2566
+2dxof=-3
+2dyof=-43
+members=yes
+placeholder=yes
+
+[placeholder_abyssal_protector_26902]
+placeholder=yes
+
+[eye_amulet_26903]
+name=Eye amulet
+model=eye_amulet_44118
+manwear=eye_amulet_43887,0
+womanwear=eye_amulet_43897,0
+cost=30
+2dzoom=592
+2dxof=2
+2dyof=34
+2dxan=355
+2dyan=42
+iop1=Inspect
+iop5=Destroy
+recol1s=5056
+recol1d=-27704
+recol2s=5062
+recol2d=-27704
+members=yes
+
+[strong_cup_of_tea_26904]
+name=Strong cup of tea
+model=cup_of_tea_2468
+cost=30
+2dzoom=500
+2dxof=-1
+2dyof=-2
+2dxan=156
+2dyan=1980
+iop1=Drink
+iop5=Destroy
+members=yes
+
+[abyssal_incantation_26905]
+name=Abyssal incantation
+model=ballad_10137
+cost=30
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+iop5=Destroy
+recol1s=6464
+recol1d=320
+recol2s=6587
+recol2d=439
+recol3s=6604
+recol3d=460
+recol4s=6583
+recol4d=435
+recol5s=6608
+recol5d=462
+members=yes
+
+[colossal_pouch_26906]
+name=Colossal pouch
+model=colossal_pouch_44094
+2dzoom=888
+2dxan=128
+iop1=Fill
+iop2=Empty
+iop3=Check
+iop5=Destroy
+members=yes
+placeholder=yes
+
+[placeholder_colossal_pouch_26907]
+placeholder=yes
+
+[intricate_pouch_26908]
+name=Intricate pouch
+model=medium_pouch_7507
+cost=50
+2dzoom=760
+2dyof=2
+2dxan=132
+2dyan=1872
+iop1=Open
+recol1s=6430
+recol1d=12
+recol2s=7467
+recol2d=20
+recol3s=7223
+recol3d=10180
+recol4s=6798
+recol4d=11140
+members=yes
+placeholder=yes
+
+[placeholder_intricate_pouch_26909]
+placeholder=yes
+
+[tarnished_locket_26910]
+name=Tarnished locket
+model=perfect_necklace_2506
+manwear=perfect_necklace_281,0
+womanwear=perfect_necklace_445,0
+cost=100
+2dzoom=465
+2dxof=7
+2dyof=66
+2dxan=290
+2dyan=166
+iop1=Inspect
+iop2=Wear
+iop5=Destroy
+recol1s=9152
+recol1d=8518
+recol2s=41
+recol2d=-23600
+members=yes
+placeholder=yes
+
+[placeholder_tarnished_locket_26911]
+placeholder=yes
+
+[lost_bag_26912]
+name=Lost bag
+model=lost_bag_44135
+manwear=lost_bag_43888,0
+womanwear=lost_bag_43898,0
+cost=100
+2dzoom=900
+2dxof=2
+2dxan=100
+2dyan=1885
+iop2=Wear
+iop3=Inspect
+iop5=Destroy
+members=yes
+placeholder=yes
+
+[placeholder_lost_bag_26913]
+placeholder=yes
+
+[amulet_of_the_eye_26914]
+name=Amulet of the eye
+model=eye_amulet_44118
+manwear=eye_amulet_43887,0
+womanwear=eye_amulet_43897,0
+cost=30
+2dzoom=592
+2dxof=2
+2dyof=34
+2dxan=355
+2dyan=42
+iop2=Wear
+iop5=Destroy
+members=yes
+placeholder=yes
+
+[placeholder_amulet_of_the_eye_26915]
+placeholder=yes
 

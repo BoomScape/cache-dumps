@@ -764,3 +764,19 @@ colour=^magenta
 mapcolour=0x383828
 occlude=no
 
+[flo_200]
+colour=0xa1a22
+occlude=no
+
+[flo_201]
+colour=0xc8b9ae
+occlude=no
+
+[flo_202]
+colour=0xedceb8
+occlude=no
+
+[flo_203]
+colour=0x649075
+occlude=no
+

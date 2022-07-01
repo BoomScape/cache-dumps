@@ -8,14 +8,15 @@ onload="script1186(16056324,16056325,16056327,16056328,16056330,16056331,1605633
 
 [interface_245:1]
 type=^iftype_text
-x=3
 width=6
 height=20
+hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_245:0
 text="Kourend Favour"
 colour=0xff981f
 font=b12_full
+halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 

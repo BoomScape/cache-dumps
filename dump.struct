@@ -897,7 +897,7 @@ param=param_578,burnt_pizza_2305
 param=param_578,burnt_stew_2005
 
 [black_knights_fortress_299]
-param=param_191,11
+param=param_191,12
 param=param_579,Black Knights' Fortress
 param=param_610,Black Knights' Fortress
 param=param_611,0
@@ -914,7 +914,7 @@ param=param_655,12
 param=param_657,15
 
 [cooks_assistant_300]
-param=param_191,18
+param=param_191,1
 param=param_579,Cook's Assistant
 param=param_610,Cook's Assistant
 param=param_611,0
@@ -927,9 +927,15 @@ param=param_1298,0_50_50_7_14
 param=param_1346,mapelement_715
 param=param_1162,2
 param=param_1160,1
+param=param_1526,350
+param=param_1527,275
+param=param_1528,225
+param=param_1529,200
+param=param_1530,enum_4202
+param=param_1531,enum_4203
 
 [the_corsair_curse_301]
-param=param_191,19
+param=param_191,147
 param=param_579,"Corsair Curse, The"
 param=param_610,The Corsair Curse
 param=param_611,0
@@ -945,7 +951,7 @@ param=param_1160,2
 param=param_657,20
 
 [demon_slayer_302]
-param=param_191,26
+param=param_191,2
 param=param_579,Demon Slayer
 param=param_610,Demon Slayer
 param=param_611,0
@@ -954,6 +960,8 @@ param=param_612,0
 param=param_613,1
 param=param_1262,2001
 param=param_614,45
+param=param_615,18
+param=param_1159,1
 param=param_1298,0_50_53_4_32
 param=param_1346,mapelement_721
 param=param_1162,3
@@ -973,7 +981,7 @@ param=param_1311,3
 param=param_1307,struct_3594
 
 [ernest_the_chicken_305]
-param=param_191,45
+param=param_191,7
 param=param_579,Ernest the Chicken
 param=param_610,Ernest the Chicken
 param=param_611,0
@@ -988,7 +996,7 @@ param=param_1162,3
 param=param_1160,4
 
 [goblin_diplomacy_306]
-param=param_191,65
+param=param_191,15
 param=param_579,Goblin Diplomacy
 param=param_610,Goblin Diplomacy
 param=param_611,0
@@ -1003,7 +1011,7 @@ param=param_1162,6
 param=param_1160,5
 
 [imp_catcher_307]
-param=param_191,77
+param=param_191,9
 param=param_579,Imp Catcher
 param=param_610,Imp Catcher
 param=param_611,0
@@ -1018,7 +1026,7 @@ param=param_1162,2
 param=param_1160,1
 
 [the_knights_sword_308]
-param=param_191,84
+param=param_191,14
 param=param_579,"Knight's Sword, The"
 param=param_610,The Knight's Sword
 param=param_611,0
@@ -1038,7 +1046,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [misthalin_mystery_309]
-param=param_191,95
+param=param_191,141
 param=param_579,Misthalin Mystery
 param=param_610,Misthalin Mystery
 param=param_611,0
@@ -1053,7 +1061,7 @@ param=param_1162,135
 param=param_1160,1
 
 [pirates_treasure_310]
-param=param_191,109
+param=param_191,16
 param=param_579,Pirate's Treasure
 param=param_610,Pirate's Treasure
 param=param_611,0
@@ -1068,7 +1076,7 @@ param=param_1162,4
 param=param_1160,2
 
 [prince_ali_rescue_311]
-param=param_191,113
+param=param_191,10
 param=param_579,Prince Ali Rescue
 param=param_610,Prince Ali Rescue
 param=param_611,0
@@ -1077,6 +1085,8 @@ param=param_612,0
 param=param_613,0
 param=param_1262,2001
 param=param_614,0
+param=param_615,1
+param=param_1159,1
 param=param_1298,0_51_49_37_28
 param=param_1346,mapelement_800
 param=param_1162,110
@@ -1084,7 +1094,7 @@ param=param_1160,3
 param=param_657,10
 
 [the_restless_ghost_312]
-param=param_191,121
+param=param_191,3
 param=param_579,"Restless Ghost, The"
 param=param_610,The Restless Ghost
 param=param_611,0
@@ -1100,7 +1110,7 @@ param=param_1160,1
 param=param_657,10
 
 [romeo_juliet_313]
-param=param_191,122
+param=param_191,4
 param=param_579,Romeo & Juliet
 param=param_610,Romeo & Juliet
 param=param_611,0
@@ -1115,7 +1125,7 @@ param=param_1162,100
 param=param_1160,5
 
 [rune_mysteries_314]
-param=param_191,126
+param=param_191,53
 param=param_579,Rune Mysteries
 param=param_610,Rune Mysteries
 param=param_611,0
@@ -1124,13 +1134,16 @@ param=param_612,0
 param=param_613,1
 param=param_1262,2003
 param=param_614,22
+param=param_615,19
+param=param_1159,1
 param=param_1298,0_50_50_9_21
 param=param_1346,mapelement_813
 param=param_1162,6
 param=param_1160,1
+param=param_1601,2
 
 [sheep_shearer_315]
-param=param_191,132
+param=param_191,5
 param=param_579,Sheep Shearer
 param=param_610,Sheep Shearer
 param=param_611,0
@@ -1145,7 +1158,7 @@ param=param_1162,21
 param=param_1160,1
 
 [shield_of_arrav_316]
-param=param_191,133
+param=param_191,6
 param=param_579,Shield of Arrav
 param=param_610,Shield of Arrav
 param=param_611,0
@@ -1156,6 +1169,7 @@ param=param_1262,2001
 param=param_614,45
 param=param_1298,0_50_54_10_40
 param=param_1346,mapelement_820
+param=param_1162,2
 param=param_1160,1
 param=param_657,10
 
@@ -1166,7 +1180,7 @@ param=param_461,"worldmap_marker,5"
 param=param_985,Gravestone
 
 [witchs_potion_318]
-param=param_191,162
+param=param_191,13
 param=param_579,Witch's Potion
 param=param_610,Witch's Potion
 param=param_611,0
@@ -1190,7 +1204,7 @@ param=setting_toggle_inverse_1084,yes
 param=setting_desc_1096,"When enabled, completion of Combat Achievement tasks will be accompanised by a popup box."
 
 [architectural_alliance_320]
-param=param_191,3
+param=param_191,137
 param=param_579,Architectural Alliance
 param=param_610,Architectural Alliance
 param=param_611,1
@@ -1211,7 +1225,7 @@ param=setting_choose_transmit_1085,yes
 param=setting_desc_1096,"When enabled, you will be notified when you re-complete a Combat Achievement task which you have already completed (excludes killcount and speed tasks)."
 
 [alfred_grimhands_barcrawl_322]
-param=param_191,5
+param=param_191,23
 param=param_579,Alfred Grimhand's Barcrawl
 param=param_610,Alfred Grimhand's Barcrawl
 param=param_611,1
@@ -1232,7 +1246,7 @@ param=setting_choose_transmit_1085,yes
 param=setting_desc_1096,"When enabled, you will be notified when you fail Combat Achievement tasks where applicable."
 
 [the_enchanted_key_324]
-param=param_191,42
+param=param_191,98
 param=param_579,"Enchanted Key, The"
 param=param_610,The Enchanted Key
 param=param_611,1
@@ -1242,10 +1256,11 @@ param=param_613,2
 param=param_1262,2005
 param=param_614,2
 param=param_1298,0_38_52_4_19
+param=param_1162,2
 param=param_648,making_history_393
 
 [the_generals_shadow_325]
-param=param_191,60
+param=param_191,128
 param=param_579,"General's Shadow, The"
 param=param_610,The General's Shadow
 param=param_611,1
@@ -1254,6 +1269,8 @@ param=param_612,2
 param=param_613,2
 param=param_1262,2007
 param=param_614,33
+param=param_615,9
+param=param_1159,8
 param=param_1298,0_41_56_51_39
 param=param_1162,30
 param=param_648,curse_of_the_empty_lord_3137
@@ -1290,7 +1307,7 @@ param=param_1311,3
 param=param_1307,struct_3594
 
 [family_pest_329]
-param=param_191,50
+param=param_191,140
 param=param_579,Family Pest
 param=param_610,Family Pest
 param=param_611,1
@@ -1304,7 +1321,7 @@ param=param_1162,3
 param=param_648,family_crest_361
 
 [mage_arena_ii_330]
-param=param_191,91
+param=param_191,146
 param=param_579,Mage Arena II
 param=param_610,Mage Arena II
 param=param_611,1
@@ -1321,7 +1338,7 @@ param=param_617,75
 param=param_657,80
 
 [animal_magnetism_331]
-param=param_191,1
+param=param_191,123
 param=param_579,Animal Magnetism
 param=param_610,Animal Magnetism
 param=param_611,0
@@ -1347,7 +1364,7 @@ param=param_622,slayer
 param=param_623,18
 
 [another_slice_of_h_a_m_332]
-param=param_191,2
+param=param_191,133
 param=param_579,Another Slice of H.A.M.
 param=param_610,Another Slice of H.A.M.
 param=param_611,0
@@ -1373,7 +1390,7 @@ param=param_657,35
 param=param_1525,no
 
 [between_a_rock_333]
-param=param_191,8
+param=param_191,76
 param=param_579,Between a Rock...
 param=param_610,Between a Rock...
 param=param_611,0
@@ -1399,7 +1416,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [big_chompy_bird_hunting_334]
-param=param_191,9
+param=param_191,54
 param=param_579,Big Chompy Bird Hunting
 param=param_610,Big Chompy Bird Hunting
 param=param_611,0
@@ -1423,7 +1440,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [biohazard_335]
-param=param_191,10
+param=param_191,39
 param=param_579,Biohazard
 param=param_610,Biohazard
 param=param_611,0
@@ -1440,9 +1457,10 @@ param=param_1162,16
 param=param_1160,3
 param=param_648,plague_city_407
 param=param_657,10
+param=param_1601,2
 
 [cabin_fever_336]
-param=param_191,13
+param=param_191,104
 param=param_579,Cabin Fever
 param=param_610,Cabin Fever
 param=param_611,0
@@ -1470,7 +1488,7 @@ param=param_623,42
 param=param_657,35
 
 [clock_tower_337]
-param=param_191,15
+param=param_191,29
 param=param_579,Clock Tower
 param=param_610,Clock Tower
 param=param_611,0
@@ -1486,7 +1504,7 @@ param=param_1160,1
 param=param_657,15
 
 [cold_war_338]
-param=param_191,16
+param=param_191,126
 param=param_579,Cold War
 param=param_610,Cold War
 param=param_611,0
@@ -1514,27 +1532,31 @@ param=param_625,10
 param=param_657,30
 
 [contact_339]
-param=param_191,17
+param=param_191,124
 param=param_579,Contact!
 param=param_610,Contact!
 param=param_611,0
 param=param_1297,yes
-param=param_612,3
+param=param_612,2
 param=param_613,1
 param=param_1262,2007
 param=param_614,40
 param=param_615,1
-param=param_1159,2
+param=param_1159,3
 param=param_1298,0_51_43_17_19
 param=param_1346,mapelement_714
 param=param_1162,130
 param=param_1160,1
 param=param_648,icthlarins_little_helper_383
 param=param_649,prince_ali_rescue_311
+param=param_644,agility
+param=param_645,50
+param=param_646,thieving
+param=param_647,50
 param=param_657,70
 
 [creature_of_fenkenstrain_340]
-param=param_191,20
+param=param_191,71
 param=param_579,Creature of Fenkenstrain
 param=param_610,Creature of Fenkenstrain
 param=param_611,0
@@ -1545,7 +1567,7 @@ param=param_1262,2005
 param=param_614,6
 param=param_1298,0_54_54_33_29
 param=param_1346,mapelement_717
-param=param_1162,8
+param=param_1162,9
 param=param_1160,2
 param=param_648,priest_in_peril_408
 param=param_649,the_restless_ghost_312
@@ -1558,7 +1580,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [darkness_of_hallowvale_341]
-param=param_191,23
+param=param_191,117
 param=param_579,Darkness of Hallowvale
 param=param_610,Darkness of Hallowvale
 param=param_611,0
@@ -1589,9 +1611,10 @@ param=param_627,20
 param=param_628,construction
 param=param_629,5
 param=param_657,50
+param=param_1601,2
 
 [death_plateau_342]
-param=param_191,24
+param=param_191,58
 param=param_579,Death Plateau
 param=param_610,Death Plateau
 param=param_611,0
@@ -1608,7 +1631,7 @@ param=param_1162,80
 param=param_1160,1
 
 [death_to_the_dorgeshuun_343]
-param=param_191,25
+param=param_191,113
 param=param_579,Death to the Dorgeshuun
 param=param_610,Death to the Dorgeshuun
 param=param_611,0
@@ -1633,7 +1656,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_depths_of_despair_344]
-param=param_191,27
+param=param_191,145
 param=param_579,"Depths of Despair, The"
 param=param_610,The Depths of Despair
 param=param_611,0
@@ -1654,7 +1677,7 @@ param=param_617,18
 param=param_657,15
 
 [desert_treasure_345]
-param=param_191,28
+param=param_191,79
 param=param_579,Desert Treasure
 param=param_610,Desert Treasure
 param=param_611,0
@@ -1687,7 +1710,7 @@ param=param_657,70
 param=param_1525,no
 
 [devious_minds_346]
-param=param_191,29
+param=param_191,101
 param=param_579,Devious Minds
 param=param_610,Devious Minds
 param=param_611,0
@@ -1715,7 +1738,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_dig_site_347]
-param=param_191,30
+param=param_191,49
 param=param_579,"Dig Site, The"
 param=param_610,The Dig Site
 param=param_611,0
@@ -1740,7 +1763,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [dragon_slayer_ii_348]
-param=param_191,33
+param=param_191,148
 param=param_579,Dragon Slayer II
 param=param_610,Dragon Slayer II
 param=param_611,0
@@ -1782,7 +1805,7 @@ param=param_655,200
 param=param_657,100
 
 [dream_mentor_349]
-param=param_191,34
+param=param_191,134
 param=param_579,Dream Mentor
 param=param_610,Dream Mentor
 param=param_611,0
@@ -1800,7 +1823,7 @@ param=param_649,eadgars_ruse_352
 param=param_656,85
 
 [druidic_ritual_350]
-param=param_191,35
+param=param_191,18
 param=param_579,Druidic Ritual
 param=param_610,Druidic Ritual
 param=param_611,0
@@ -1816,7 +1839,7 @@ param=param_1160,4
 param=param_657,10
 
 [dwarf_cannon_351]
-param=param_191,36
+param=param_191,47
 param=param_579,Dwarf Cannon
 param=param_610,Dwarf Cannon
 param=param_611,0
@@ -1831,7 +1854,7 @@ param=param_1162,11
 param=param_1160,1
 
 [eadgars_ruse_352]
-param=param_191,37
+param=param_191,62
 param=param_579,Eadgar's Ruse
 param=param_610,Eadgar's Ruse
 param=param_611,0
@@ -1854,7 +1877,7 @@ param=param_657,50
 param=param_1299,yes
 
 [eagles_peak_353]
-param=param_191,38
+param=param_191,122
 param=param_579,Eagles' Peak
 param=param_610,Eagles' Peak
 param=param_611,0
@@ -1873,7 +1896,7 @@ param=param_657,10
 param=param_1299,yes
 
 [elemental_workshop_i_354]
-param=param_191,39
+param=param_191,55
 param=param_579,Elemental Workshop I
 param=param_610,Elemental Workshop I
 param=param_611,0
@@ -1886,6 +1909,7 @@ param=param_615,4
 param=param_1159,1
 param=param_1298,0_42_54_26_25
 param=param_1346,mapelement_734
+param=param_1162,2
 param=param_1160,1
 param=param_616,mining
 param=param_617,20
@@ -1898,7 +1922,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [elemental_workshop_ii_355]
-param=param_191,40
+param=param_191,119
 param=param_579,Elemental Workshop II
 param=param_610,Elemental Workshop II
 param=param_611,0
@@ -1923,7 +1947,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [enakhras_lament_356]
-param=param_191,41
+param=param_191,103
 param=param_579,Enakhra's Lament
 param=param_610,Enakhra's Lament
 param=param_611,0
@@ -1951,7 +1975,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [enlightened_journey_357]
-param=param_191,43
+param=param_191,121
 param=param_579,Enlightened Journey
 param=param_610,Enlightened Journey
 param=param_611,0
@@ -1974,7 +1998,7 @@ param=param_655,20
 param=param_1299,yes
 
 [the_eyes_of_glouphrie_358]
-param=param_191,46
+param=param_191,116
 param=param_579,"Eyes of Glouphrie, The"
 param=param_610,The Eyes of Glouphrie
 param=param_611,0
@@ -1984,7 +2008,7 @@ param=param_613,2
 param=param_1262,2006
 param=param_614,13
 param=param_615,8
-param=param_1159,3
+param=param_1159,2
 param=param_1298,0_37_153_40_25
 param=param_1346,mapelement_739
 param=param_1162,60
@@ -1997,7 +2021,7 @@ param=param_619,5
 param=param_1525,no
 
 [fairytale_i_growing_pains_359]
-param=param_191,47
+param=param_191,105
 param=param_579,Fairytale I - Growing Pains
 param=param_610,Fairytale I - Growing Pains
 param=param_611,0
@@ -2019,7 +2043,7 @@ param=param_645,30
 param=param_657,50
 
 [fairytale_ii_cure_a_queen_360]
-param=param_191,48
+param=param_191,114
 param=param_579,Fairytale II - Cure a Queen
 param=param_610,Fairytale II - Cure a Queen
 param=param_611,0
@@ -2047,7 +2071,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [family_crest_361]
-param=param_191,49
+param=param_191,25
 param=param_579,Family Crest
 param=param_610,Family Crest
 param=param_611,0
@@ -2073,7 +2097,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_feud_362]
-param=param_191,51
+param=param_191,77
 param=param_579,"Feud, The"
 param=param_610,The Feud
 param=param_611,0
@@ -2091,7 +2115,7 @@ param=param_617,30
 param=param_657,40
 
 [fight_arena_363]
-param=param_191,52
+param=param_191,33
 param=param_579,Fight Arena
 param=param_610,Fight Arena
 param=param_611,0
@@ -2109,7 +2133,7 @@ param=param_1160,2
 param=param_657,50
 
 [fishing_contest_364]
-param=param_191,53
+param=param_191,27
 param=param_579,Fishing Contest
 param=param_610,Fishing Contest
 param=param_611,0
@@ -2126,7 +2150,7 @@ param=param_616,fishing
 param=param_617,10
 
 [forgettable_tale_365]
-param=param_191,54
+param=param_191,88
 param=param_579,Forgettable Tale...
 param=param_610,Forgettable Tale...
 param=param_611,0
@@ -2160,7 +2184,7 @@ param=param_1311,3
 param=param_1307,struct_3594
 
 [the_fremennik_isles_367]
-param=param_191,57
+param=param_191,127
 param=param_579,"Fremennik Isles, The"
 param=param_610,The Fremennik Isles
 param=param_611,0
@@ -2185,7 +2209,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_fremennik_trials_368]
-param=param_191,58
+param=param_191,64
 param=param_579,"Fremennik Trials, The"
 param=param_610,The Fremennik Trials
 param=param_611,0
@@ -2211,7 +2235,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [garden_of_tranquillity_369]
-param=param_191,59
+param=param_191,90
 param=param_579,Garden of Tranquillity
 param=param_610,Garden of Tranquillity
 param=param_611,0
@@ -2229,7 +2253,7 @@ param=param_616,farming
 param=param_617,25
 
 [gertrudes_cat_370]
-param=param_191,61
+param=param_191,50
 param=param_579,Gertrude's Cat
 param=param_610,Gertrude's Cat
 param=param_611,0
@@ -2244,7 +2268,7 @@ param=param_1162,6
 param=param_1160,1
 
 [ghosts_ahoy_371]
-param=param_191,63
+param=param_191,73
 param=param_579,Ghosts Ahoy
 param=param_610,Ghosts Ahoy
 param=param_611,0
@@ -2268,7 +2292,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_giant_dwarf_372]
-param=param_191,64
+param=param_191,84
 param=param_579,"Giant Dwarf, The"
 param=param_610,The Giant Dwarf
 param=param_611,0
@@ -2295,7 +2319,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_golem_373]
-param=param_191,66
+param=param_191,78
 param=param_579,"Golem, The"
 param=param_610,The Golem
 param=param_611,0
@@ -2316,7 +2340,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_grand_tree_374]
-param=param_191,67
+param=param_191,41
 param=param_579,"Grand Tree, The"
 param=param_610,The Grand Tree
 param=param_611,0
@@ -2326,7 +2350,7 @@ param=param_613,2
 param=param_1262,2002
 param=param_614,13
 param=param_615,8
-param=param_1159,2
+param=param_1159,1
 param=param_1298,0_38_54_33_39
 param=param_1346,mapelement_758
 param=param_1162,160
@@ -2338,7 +2362,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_great_brain_robbery_375]
-param=param_191,68
+param=param_191,130
 param=param_579,"Great Brain Robbery, The"
 param=param_610,The Great Brain Robbery
 param=param_611,0
@@ -2362,7 +2386,7 @@ param=param_619,30
 param=param_657,60
 
 [grim_tales_376]
-param=param_191,69
+param=param_191,135
 param=param_579,Grim Tales
 param=param_610,Grim Tales
 param=param_611,0
@@ -2391,7 +2415,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_hand_in_the_sand_377]
-param=param_191,70
+param=param_191,102
 param=param_579,"Hand in the Sand, The"
 param=param_610,The Hand in the Sand
 param=param_611,0
@@ -2410,7 +2434,7 @@ param=param_618,thieving
 param=param_619,17
 
 [haunted_mine_378]
-param=param_191,71
+param=param_191,68
 param=param_579,Haunted Mine
 param=param_610,Haunted Mine
 param=param_611,0
@@ -2431,7 +2455,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [hazeel_cult_379]
-param=param_191,72
+param=param_191,34
 param=param_579,Hazeel Cult
 param=param_610,Hazeel Cult
 param=param_611,0
@@ -2458,7 +2482,7 @@ param=param_1311,4
 param=param_1307,struct_3594
 
 [holy_grail_381]
-param=param_191,74
+param=param_191,31
 param=param_579,Holy Grail
 param=param_610,Holy Grail
 param=param_611,0
@@ -2480,7 +2504,7 @@ param=param_657,50
 param=param_1525,no
 
 [horror_from_the_deep_382]
-param=param_191,75
+param=param_191,65
 param=param_579,Horror from the Deep
 param=param_610,Horror from the Deep
 param=param_611,0
@@ -2501,7 +2525,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [icthlarins_little_helper_383]
-param=param_191,76
+param=param_191,80
 param=param_579,Icthlarin's Little Helper
 param=param_610,Icthlarin's Little Helper
 param=param_611,0
@@ -2511,16 +2535,18 @@ param=param_613,2
 param=param_1262,2005
 param=param_614,40
 param=param_615,1
-param=param_1159,1
+param=param_1159,2
 param=param_1298,0_51_44_52_33
 param=param_1346,mapelement_767
 param=param_1162,26
 param=param_1160,2
 param=param_648,gertrudes_cat_370
+param=param_644,agility
+param=param_645,35
 param=param_657,50
 
 [in_aid_of_the_myreque_384]
-param=param_191,78
+param=param_191,107
 param=param_579,In Aid of the Myreque
 param=param_610,In Aid of the Myreque
 param=param_611,0
@@ -2545,9 +2571,10 @@ param=param_621,7
 param=param_657,45
 param=param_1299,yes
 param=param_1525,no
+param=param_1601,2
 
 [in_search_of_the_myreque_385]
-param=param_191,80
+param=param_191,70
 param=param_579,In Search of the Myreque
 param=param_610,In Search of the Myreque
 param=param_611,0
@@ -2568,9 +2595,10 @@ param=param_617,25
 param=param_657,45
 param=param_1299,yes
 param=param_1525,no
+param=param_1601,2
 
 [jungle_potion_386]
-param=param_191,81
+param=param_191,40
 param=param_579,Jungle Potion
 param=param_610,Jungle Potion
 param=param_611,0
@@ -2587,7 +2615,7 @@ param=param_648,druidic_ritual_350
 param=param_657,20
 
 [kings_ransom_387]
-param=param_191,83
+param=param_191,136
 param=param_579,King's Ransom
 param=param_610,King's Ransom
 param=param_611,0
@@ -2621,7 +2649,7 @@ param=param_1311,4
 param=param_1307,struct_3594
 
 [lost_city_389]
-param=param_191,87
+param=param_191,19
 param=param_579,Lost City
 param=param_610,Lost City
 param=param_611,0
@@ -2643,7 +2671,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_lost_tribe_390]
-param=param_191,88
+param=param_191,83
 param=param_579,"Lost Tribe, The"
 param=param_610,The Lost Tribe
 param=param_611,0
@@ -2670,7 +2698,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [lunar_diplomacy_391]
-param=param_191,89
+param=param_191,115
 param=param_579,Lunar Diplomacy
 param=param_610,Lunar Diplomacy
 param=param_611,0
@@ -2679,6 +2707,8 @@ param=param_612,2
 param=param_613,3
 param=param_1262,2006
 param=param_614,33
+param=param_615,7
+param=param_1159,3
 param=param_1298,0_40_57_60_43
 param=param_1346,mapelement_778
 param=param_1162,190
@@ -2704,7 +2734,7 @@ param=param_629,5
 param=param_657,50
 
 [making_friends_with_my_arm_392]
-param=param_191,92
+param=param_191,151
 param=param_579,Making Friends with My Arm
 param=param_610,Making Friends with My Arm
 param=param_611,0
@@ -2736,7 +2766,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [making_history_393]
-param=param_191,93
+param=param_191,97
 param=param_579,Making History
 param=param_610,Making History
 param=param_611,0
@@ -2753,7 +2783,7 @@ param=param_648,priest_in_peril_408
 param=param_649,the_restless_ghost_312
 
 [merlins_crystal_394]
-param=param_191,94
+param=param_191,21
 param=param_579,Merlin's Crystal
 param=param_610,Merlin's Crystal
 param=param_611,0
@@ -2771,7 +2801,7 @@ param=param_1160,6
 param=param_657,20
 
 [monkey_madness_i_395]
-param=param_191,96
+param=param_191,67
 param=param_579,Monkey Madness I
 param=param_610,Monkey Madness I
 param=param_611,0
@@ -2781,7 +2811,7 @@ param=param_613,3
 param=param_1262,2004
 param=param_614,13
 param=param_615,8
-param=param_1159,4
+param=param_1159,3
 param=param_1298,0_38_54_33_39
 param=param_1346,mapelement_783
 param=param_1162,9
@@ -2791,7 +2821,7 @@ param=param_649,tree_gnome_village_438
 param=param_657,65
 
 [monkey_madness_ii_396]
-param=param_191,97
+param=param_191,139
 param=param_579,Monkey Madness II
 param=param_610,Monkey Madness II
 param=param_611,0
@@ -2801,7 +2831,7 @@ param=param_613,4
 param=param_1262,2016
 param=param_614,13
 param=param_615,8
-param=param_1159,5
+param=param_1159,4
 param=param_1298,0_38_54_33_39
 param=param_1346,mapelement_784
 param=param_1162,195
@@ -2825,7 +2855,7 @@ param=param_627,55
 param=param_657,90
 
 [monks_friend_397]
-param=param_191,98
+param=param_191,28
 param=param_579,Monk's Friend
 param=param_610,Monk's Friend
 param=param_611,0
@@ -2840,7 +2870,7 @@ param=param_1162,80
 param=param_1160,1
 
 [mountain_daughter_398]
-param=param_191,99
+param=param_191,75
 param=param_579,Mountain Daughter
 param=param_610,Mountain Daughter
 param=param_611,0
@@ -2878,7 +2908,7 @@ param=param_1311,4
 param=param_1307,struct_3594
 
 [murder_mystery_401]
-param=param_191,102
+param=param_191,48
 param=param_579,Murder Mystery
 param=param_610,Murder Mystery
 param=param_611,0
@@ -2893,7 +2923,7 @@ param=param_1162,2
 param=param_1160,3
 
 [my_arms_big_adventure_402]
-param=param_191,103
+param=param_191,120
 param=param_579,My Arm's Big Adventure
 param=param_610,My Arm's Big Adventure
 param=param_611,0
@@ -2920,7 +2950,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [nature_spirit_403]
-param=param_191,104
+param=param_191,57
 param=param_579,Nature Spirit
 param=param_610,Nature Spirit
 param=param_611,0
@@ -2956,7 +2986,7 @@ param=param_1311,2
 param=param_1307,struct_3594
 
 [one_small_favour_406]
-param=param_191,108
+param=param_191,74
 param=param_579,One Small Favour
 param=param_610,One Small Favour
 param=param_611,0
@@ -2984,7 +3014,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [plague_city_407]
-param=param_191,110
+param=param_191,36
 param=param_579,Plague City
 param=param_610,Plague City
 param=param_611,0
@@ -2999,9 +3029,10 @@ param=param_1298,0_40_52_8_6
 param=param_1346,mapelement_797
 param=param_1162,29
 param=param_1160,1
+param=param_1601,2
 
 [priest_in_peril_408]
-param=param_191,112
+param=param_191,56
 param=param_579,Priest in Peril
 param=param_610,Priest in Peril
 param=param_611,0
@@ -3015,9 +3046,10 @@ param=param_1346,mapelement_799
 param=param_1162,60
 param=param_1160,1
 param=param_657,15
+param=param_1601,2
 
 [the_queen_of_thieves_409]
-param=param_191,114
+param=param_191,144
 param=param_579,"Queen of Thieves, The"
 param=param_610,The Queen of Thieves
 param=param_611,0
@@ -3046,7 +3078,7 @@ param=param_1311,3
 param=param_1307,struct_3594
 
 [rag_and_bone_man_ii_411]
-param=param_191,116
+param=param_191,110
 param=param_579,Rag and Bone Man II
 param=param_610,Rag and Bone Man II
 param=param_611,0
@@ -3074,7 +3106,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [ratcatchers_412]
-param=param_191,117
+param=param_191,99
 param=param_579,Ratcatchers
 param=param_610,Ratcatchers
 param=param_611,0
@@ -3090,7 +3122,7 @@ param=param_1160,2
 param=param_648,icthlarins_little_helper_383
 
 [recipe_for_disaster_413]
-param=param_191,118
+param=param_191,106
 param=param_579,Recipe for Disaster
 param=param_610,Recipe for Disaster
 param=param_611,0
@@ -3110,7 +3142,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [recruitment_drive_414]
-param=param_191,119
+param=param_191,86
 param=param_579,Recruitment Drive
 param=param_610,Recruitment Drive
 param=param_611,0
@@ -3119,6 +3151,8 @@ param=param_612,0
 param=param_613,1
 param=param_1262,2005
 param=param_614,11
+param=param_615,15
+param=param_1159,1
 param=param_1298,2_46_52_16_8
 param=param_1346,mapelement_806
 param=param_1162,2
@@ -3128,7 +3162,7 @@ param=param_649,druidic_ritual_350
 param=param_657,10
 
 [regicide_415]
-param=param_191,120
+param=param_191,61
 param=param_579,Regicide
 param=param_610,Regicide
 param=param_611,0
@@ -3151,9 +3185,10 @@ param=param_619,10
 param=param_657,60
 param=param_1299,yes
 param=param_1525,no
+param=param_1601,2
 
 [roving_elves_416]
-param=param_191,123
+param=param_191,72
 param=param_579,Roving Elves
 param=param_610,Roving Elves
 param=param_611,0
@@ -3171,9 +3206,10 @@ param=param_1160,1
 param=param_648,regicide_415
 param=param_649,waterfall_quest_3154
 param=param_657,60
+param=param_1601,2
 
 [royal_trouble_417]
-param=param_191,124
+param=param_191,112
 param=param_579,Royal Trouble
 param=param_610,Royal Trouble
 param=param_611,0
@@ -3182,6 +3218,8 @@ param=param_612,2
 param=param_613,2
 param=param_1262,2006
 param=param_614,25
+param=param_615,20
+param=param_1159,2
 param=param_1298,1_39_60_5_17
 param=param_1346,mapelement_811
 param=param_1162,30
@@ -3196,7 +3234,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [rum_deal_418]
-param=param_191,125
+param=param_191,95
 param=param_579,Rum Deal
 param=param_610,Rum Deal
 param=param_611,0
@@ -3228,7 +3266,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [scorpion_catcher_419]
-param=param_191,127
+param=param_191,24
 param=param_579,Scorpion Catcher
 param=param_610,Scorpion Catcher
 param=param_611,0
@@ -3248,7 +3286,7 @@ param=param_657,40
 param=param_1525,no
 
 [sea_slug_420]
-param=param_191,128
+param=param_191,37
 param=param_579,Sea Slug
 param=param_610,Sea Slug
 param=param_611,0
@@ -3258,7 +3296,7 @@ param=param_613,1
 param=param_1262,2002
 param=param_614,47
 param=param_615,15
-param=param_1159,1
+param=param_1159,3
 param=param_1298,0_42_51_28_37
 param=param_1346,mapelement_815
 param=param_1162,12
@@ -3269,7 +3307,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [shades_of_mortton_421]
-param=param_191,129
+param=param_191,63
 param=param_579,Shades of Mort'ton
 param=param_610,Shades of Mort'ton
 param=param_611,0
@@ -3294,7 +3332,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [shadow_of_the_storm_422]
-param=param_191,130
+param=param_191,96
 param=param_579,Shadow of the Storm
 param=param_610,Shadow of the Storm
 param=param_611,0
@@ -3303,6 +3341,8 @@ param=param_612,1
 param=param_613,2
 param=param_1262,2005
 param=param_614,0
+param=param_615,18
+param=param_1159,2
 param=param_1298,0_51_49_7_22
 param=param_1346,mapelement_817
 param=param_1162,125
@@ -3316,7 +3356,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [sheep_herder_423]
-param=param_191,131
+param=param_191,35
 param=param_579,Sheep Herder
 param=param_610,Sheep Herder
 param=param_611,0
@@ -3329,9 +3369,10 @@ param=param_1298,0_40_51_55_35
 param=param_1346,mapelement_818
 param=param_1162,3
 param=param_1160,4
+param=param_1601,2
 
 [shilo_village_424]
-param=param_191,134
+param=param_191,42
 param=param_579,Shilo Village
 param=param_610,Shilo Village
 param=param_611,0
@@ -3354,7 +3395,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [the_slug_menace_425]
-param=param_191,137
+param=param_191,118
 param=param_579,"Slug Menace, The"
 param=param_610,The Slug Menace
 param=param_611,0
@@ -3364,7 +3405,7 @@ param=param_613,2
 param=param_1262,2006
 param=param_614,11
 param=param_615,15
-param=param_1159,2
+param=param_1159,4
 param=param_1298,0_46_52_53_46
 param=param_1346,mapelement_823
 param=param_1162,14
@@ -3382,7 +3423,7 @@ param=param_623,30
 param=param_657,35
 
 [a_souls_bane_426]
-param=param_191,139
+param=param_191,108
 param=param_579,"Soul's Bane, A"
 param=param_610,A Soul's Bane
 param=param_611,0
@@ -3398,7 +3439,7 @@ param=param_1160,1
 param=param_657,30
 
 [spirits_of_the_elid_427]
-param=param_191,140
+param=param_191,100
 param=param_579,Spirits of the Elid
 param=param_610,Spirits of the Elid
 param=param_611,0
@@ -3424,7 +3465,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [swan_song_428]
-param=param_191,141
+param=param_191,111
 param=param_579,Swan Song
 param=param_610,Swan Song
 param=param_611,0
@@ -3457,7 +3498,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [tai_bwo_wannai_trio_429]
-param=param_191,142
+param=param_191,60
 param=param_579,Tai Bwo Wannai Trio
 param=param_610,Tai Bwo Wannai Trio
 param=param_611,0
@@ -3484,7 +3525,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [a_tail_of_two_cats_430]
-param=param_191,143
+param=param_191,91
 param=param_579,"Tail of Two Cats, A"
 param=param_610,A Tail of Two Cats
 param=param_611,0
@@ -3502,7 +3543,7 @@ param=param_1160,2
 param=param_648,icthlarins_little_helper_383
 
 [tale_of_the_righteous_431]
-param=param_191,144
+param=param_191,149
 param=param_579,Tale of the Righteous
 param=param_610,Tale of the Righteous
 param=param_611,0
@@ -3525,7 +3566,7 @@ param=param_619,10
 param=param_657,20
 
 [a_taste_of_hope_432]
-param=param_191,145
+param=param_191,150
 param=param_579,"Taste of Hope, A"
 param=param_610,A Taste of Hope
 param=param_611,0
@@ -3554,7 +3595,7 @@ param=param_625,38
 param=param_657,70
 
 [tears_of_guthix_433]
-param=param_191,146
+param=param_191,81
 param=param_579,Tears of Guthix
 param=param_610,Tears of Guthix
 param=param_611,0
@@ -3578,7 +3619,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [temple_of_ikov_434]
-param=param_191,147
+param=param_191,30
 param=param_579,Temple of Ikov
 param=param_610,Temple of Ikov
 param=param_611,0
@@ -3602,7 +3643,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [throne_of_miscellania_435]
-param=param_191,148
+param=param_191,66
 param=param_579,Throne of Miscellania
 param=param_610,Throne of Miscellania
 param=param_611,0
@@ -3611,6 +3652,8 @@ param=param_612,2
 param=param_613,2
 param=param_1262,2004
 param=param_614,25
+param=param_615,20
+param=param_1159,1
 param=param_1298,1_39_60_5_17
 param=param_1346,mapelement_834
 param=param_1162,100
@@ -3625,7 +3668,7 @@ param=param_1521,farming
 param=param_1522,10
 
 [the_tourist_trap_436]
-param=param_191,149
+param=param_191,45
 param=param_579,"Tourist Trap, The"
 param=param_610,The Tourist Trap
 param=param_611,0
@@ -3647,7 +3690,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [tower_of_life_437]
-param=param_191,150
+param=param_191,129
 param=param_579,Tower of Life
 param=param_610,Tower of Life
 param=param_611,0
@@ -3664,7 +3707,7 @@ param=param_616,construction
 param=param_617,10
 
 [tree_gnome_village_438]
-param=param_191,151
+param=param_191,32
 param=param_579,Tree Gnome Village
 param=param_610,Tree Gnome Village
 param=param_611,0
@@ -3673,8 +3716,6 @@ param=param_612,1
 param=param_613,1
 param=param_1262,2002
 param=param_614,43
-param=param_615,8
-param=param_1159,1
 param=param_1298,0_39_49_44_34
 param=param_1346,mapelement_837
 param=param_1162,9
@@ -3682,7 +3723,7 @@ param=param_1160,2
 param=param_657,45
 
 [tribal_totem_439]
-param=param_191,152
+param=param_191,26
 param=param_579,Tribal Totem
 param=param_610,Tribal Totem
 param=param_611,0
@@ -3701,7 +3742,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [troll_romance_440]
-param=param_191,153
+param=param_191,69
 param=param_579,Troll Romance
 param=param_610,Troll Romance
 param=param_611,0
@@ -3722,7 +3763,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [troll_stronghold_441]
-param=param_191,154
+param=param_191,59
 param=param_579,Troll Stronghold
 param=param_610,Troll Stronghold
 param=param_611,0
@@ -3747,7 +3788,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [underground_pass_442]
-param=param_191,155
+param=param_191,43
 param=param_579,Underground Pass
 param=param_610,Underground Pass
 param=param_611,0
@@ -3771,6 +3812,7 @@ param=param_646,thieving
 param=param_647,50
 param=param_657,60
 param=param_1525,no
+param=param_1601,2
 
 [struct_443]
 param=param_1306,10
@@ -3782,7 +3824,7 @@ param=param_1311,3
 param=param_1307,struct_3594
 
 [wanted_444]
-param=param_191,157
+param=param_191,92
 param=param_579,Wanted!
 param=param_610,Wanted!
 param=param_611,0
@@ -3791,6 +3833,8 @@ param=param_612,1
 param=param_613,2
 param=param_1262,2005
 param=param_614,11
+param=param_615,15
+param=param_1159,2
 param=param_1298,0_46_52_53_46
 param=param_1346,mapelement_843
 param=param_1162,11
@@ -3803,7 +3847,7 @@ param=param_655,32
 param=param_657,15
 
 [watchtower_445]
-param=param_191,158
+param=param_191,46
 param=param_579,Watchtower
 param=param_610,Watchtower
 param=param_611,0
@@ -3840,7 +3884,7 @@ param=param_1311,4
 param=param_1307,struct_3594
 
 [what_lies_below_447]
-param=param_191,160
+param=param_191,131
 param=param_579,What Lies Below
 param=param_610,What Lies Below
 param=param_611,0
@@ -3861,7 +3905,7 @@ param=param_619,35
 param=param_657,30
 
 [witchs_house_448]
-param=param_191,161
+param=param_191,20
 param=param_579,Witch's House
 param=param_610,Witch's House
 param=param_611,0
@@ -3877,7 +3921,7 @@ param=param_1160,4
 param=param_657,35
 
 [zogre_flesh_eaters_449]
-param=param_191,164
+param=param_191,82
 param=param_579,Zogre Flesh Eaters
 param=param_610,Zogre Flesh Eaters
 param=param_611,0
@@ -4623,7 +4667,7 @@ param=param_689,Hespori
 param=param_690,enum_2175
 
 [the_ascent_of_arceuus_542]
-param=param_191,4
+param=param_191,152
 param=param_579,"Ascent of Arceuus, The"
 param=param_610,The Ascent of Arceuus
 param=param_611,0
@@ -4644,7 +4688,7 @@ param=param_617,12
 param=param_657,15
 
 [the_forsaken_tower_543]
-param=param_191,55
+param=param_191,153
 param=param_579,"Forsaken Tower, The"
 param=param_610,The Forsaken Tower
 param=param_611,0
@@ -4842,7 +4886,7 @@ param=param_1311,2
 param=param_1307,struct_3594
 
 [song_of_the_elves_603]
-param=param_191,138
+param=param_191,156
 param=param_579,Song of the Elves
 param=param_610,Song of the Elves
 param=param_611,0
@@ -5224,7 +5268,7 @@ param=param_841,enum_2605
 param=adventurepath_description_member_843,"Claim 75 iron arrows and a maple shortbow from Lowe's archery shop in Varrock, east of the fountain."
 
 [struct_707]
-param=param_837,aubury_2886
+param=param_837,aubury_multi_2886
 param=param_844,2
 param=param_838,enum_2606
 param=param_840,enum_2607
@@ -5609,7 +5653,7 @@ param=league_task_area_1017,4
 param=league_task_category_1016,2
 
 [getting_ahead_752]
-param=param_191,62
+param=param_191,161
 param=param_579,Getting Ahead
 param=param_610,Getting Ahead
 param=param_611,0
@@ -6909,7 +6953,7 @@ param=league_task_description_875,Reach level 80 in your Firemaking skill.
 param=league_task_tier_876,4
 
 [a_night_at_the_theatre_949]
-param=param_191,105
+param=param_191,163
 param=param_579,"Night at the Theatre, A"
 param=param_610,A Night at the Theatre
 param=param_611,0
@@ -6924,6 +6968,7 @@ param=param_1162,86
 param=param_1160,2
 param=param_648,a_taste_of_hope_432
 param=param_657,95
+param=param_1601,2
 
 [struct_950]
 param=param_1306,405
@@ -9575,20 +9620,20 @@ param=param_829,2047
 param=param_831,"ap_path_icon,0"
 
 [bear_your_soul_1275]
-param=param_191,6
+param=param_191,138
 param=param_579,Bear Your Soul
 param=param_610,Bear Your Soul
 param=param_611,1
 param=param_1297,yes
 param=param_612,1
-param=param_613,0
+param=param_613,1
 param=param_1262,2016
 param=param_614,1
 param=param_1298,0_25_59_32_31
 param=param_1162,3
 
 [sins_of_the_father_1276]
-param=param_191,135
+param=param_191,158
 param=param_579,Sins of the Father
 param=param_610,Sins of the Father
 param=param_611,0
@@ -9622,7 +9667,7 @@ param=param_629,49
 param=param_657,95
 
 [vampyre_slayer_1278]
-param=param_191,156
+param=param_191,8
 param=param_579,Vampyre Slayer
 param=param_610,Vampyre Slayer
 param=param_611,0
@@ -9905,7 +9950,7 @@ param=param_689,Monkey Backpacks
 param=param_690,enum_3044
 
 [daddys_home_1688]
-param=param_191,22
+param=param_191,159
 param=param_579,Daddy's Home
 param=param_610,Daddy's Home
 param=param_611,1
@@ -14901,6 +14946,11 @@ param=league_task_tier_876,3
 param=league_task_skill_1018,0
 param=league_task_area_1017,4
 param=league_task_category_1016,3
+
+[struct_2255]
+param=setting_type_1078,5
+param=setting_name_1086,Quest List
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,quest scroll,quest interface,quest panel,quest journal,quest sidepanel,quest side-panel,quest side panel"
 
 [struct_2256]
 param=league_task_id_873,1071
@@ -20112,7 +20162,7 @@ param=param_689,Brimhaven Agility Arena
 param=param_690,enum_3725
 
 [below_ice_mountain_2874]
-param=param_191,7
+param=param_191,162
 param=param_579,Below Ice Mountain
 param=param_610,Below Ice Mountain
 param=param_611,0
@@ -20797,7 +20847,7 @@ param=param_1254,struct_2969
 param=param_1253,100
 
 [a_kingdom_divided_2971]
-param=param_191,82
+param=param_191,164
 param=param_579,"Kingdom Divided, A"
 param=param_610,A Kingdom Divided
 param=param_611,0
@@ -22007,10 +22057,36 @@ param=param_1251,Joining/Leaving clan
 param=param_1252,Rank required to receive notifications when other players join or leave the clan.
 param=param_1292,yes
 
+[struct_3107]
+param=setting_id_1077,214
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,sort,category,categories,filter,sorting"
+param=setting_type_1078,2
+param=setting_name_1086,Quest list sorting
+param=setting_dropdown_list_1091,enum_4244
+param=setting_desc_1096,Determines how your quest list should be sorted.
+
+[struct_3108]
+param=setting_id_1077,215
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,requirements,reqs,restrictions,show,hide"
+param=setting_type_1078,2
+param=setting_name_1086,Show quests you lack the requirements for
+param=setting_dropdown_list_1091,enum_4245
+param=setting_desc_1096,Determines how quests that you lack the requirements for are shown.
+param=param_1565,yes
+
 [struct_3109]
 param=param_1255,yes
 param=param_1251,Loot broadcast value
 param=param_1252,Minimum value for notable monster loot to trigger a clan notification message.
+
+[struct_3110]
+param=setting_id_1077,216
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,recommended,recommendations,restrictions,show,hide,stats"
+param=setting_type_1078,2
+param=setting_name_1086,Show quests you lack the recommended stats for
+param=setting_dropdown_list_1091,enum_4245
+param=setting_desc_1096,Determines how quests that you lack the recommended stats for are shown.
+param=param_1565,yes
 
 [struct_3111]
 param=param_569,sinew_9436
@@ -22186,7 +22262,7 @@ param=param_1285,enum_3906
 param=param_1288,yes
 
 [bone_voyage_3135]
-param=param_191,12
+param=param_191,143
 param=param_579,Bone Voyage
 param=param_610,Bone Voyage
 param=param_611,0
@@ -22202,7 +22278,7 @@ param=param_1160,1
 param=param_648,the_dig_site_347
 
 [client_of_kourend_3136]
-param=param_191,14
+param=param_191,142
 param=param_579,Client of Kourend
 param=param_610,Client of Kourend
 param=param_611,0
@@ -22220,7 +22296,7 @@ param=param_1160,1
 param=param_648,x_marks_the_spot_3155
 
 [curse_of_the_empty_lord_3137]
-param=param_191,21
+param=param_191,89
 param=param_579,Curse of the Empty Lord
 param=param_610,Curse of the Empty Lord
 param=param_611,1
@@ -22229,7 +22305,10 @@ param=param_612,2
 param=param_613,2
 param=param_1262,2005
 param=param_614,2
+param=param_615,9
+param=param_1159,7
 param=param_1298,0_39_53_59_52
+param=param_1162,6
 param=param_648,desert_treasure_345
 param=param_649,the_restless_ghost_312
 param=param_616,prayer
@@ -22237,7 +22316,7 @@ param=param_617,31
 param=param_657,50
 
 [dorics_quest_3138]
-param=param_191,31
+param=param_191,11
 param=param_579,Doric's Quest
 param=param_610,Doric's Quest
 param=param_611,0
@@ -22254,7 +22333,7 @@ param=param_644,mining
 param=param_645,15
 
 [dragon_slayer_i_3139]
-param=param_191,32
+param=param_191,17
 param=param_579,Dragon Slayer I
 param=param_610,Dragon Slayer I
 param=param_611,0
@@ -22273,9 +22352,17 @@ param=param_644,magic
 param=param_645,33
 param=param_655,32
 param=param_657,45
+param=param_1526,3600
+param=param_1527,2800
+param=param_1528,2200
+param=param_1529,1800
+param=param_1530,enum_4204
+param=param_1531,enum_4205
+param=param_1534,enum_4206
+param=param_1535,enum_4207
 
 [enter_the_abyss_3140]
-param=param_191,44
+param=param_191,85
 param=param_579,Enter the Abyss
 param=param_610,Enter the Abyss
 param=param_611,1
@@ -22284,12 +22371,15 @@ param=param_612,1
 param=param_613,0
 param=param_1262,2005
 param=param_614,46
+param=param_615,19
+param=param_1159,2
 param=param_1298,0_48_55_34_37
 param=param_1162,4
 param=param_648,rune_mysteries_314
+param=param_1601,2
 
 [the_fremennik_exiles_3141]
-param=param_191,56
+param=param_191,157
 param=param_579,"Fremennik Exiles, The"
 param=param_610,The Fremennik Exiles
 param=param_611,0
@@ -22299,7 +22389,7 @@ param=param_613,2
 param=param_1262,2019
 param=param_614,33
 param=param_615,7
-param=param_1159,3
+param=param_1159,4
 param=param_1298,0_41_57_34_21
 param=param_1346,mapelement_748
 param=param_1162,130
@@ -22321,7 +22411,7 @@ param=param_625,55
 param=param_657,80
 
 [heroes_quest_3142]
-param=param_191,73
+param=param_191,22
 param=param_579,Heroes' Quest
 param=param_610,Heroes' Quest
 param=param_611,0
@@ -22352,7 +22442,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [in_search_of_knowledge_3143]
-param=param_191,79
+param=param_191,155
 param=param_579,In Search of Knowledge
 param=param_610,In Search of Knowledge
 param=param_611,1
@@ -22366,7 +22456,7 @@ param=param_1162,3
 param=param_657,45
 
 [lair_of_tarn_razorlor_3144]
-param=param_191,85
+param=param_191,125
 param=param_579,Lair of Tarn Razorlor
 param=param_610,Lair of Tarn Razorlor
 param=param_611,1
@@ -22374,7 +22464,7 @@ param=param_1297,yes
 param=param_612,2
 param=param_613,2
 param=param_1262,2007
-param=param_614,4
+param=param_614,26
 param=param_1298,0_49_71_58_25
 param=param_1162,3
 param=param_648,haunted_mine_378
@@ -22383,7 +22473,7 @@ param=param_617,40
 param=param_657,50
 
 [legends_quest_3145]
-param=param_191,86
+param=param_191,51
 param=param_579,Legends' Quest
 param=param_610,Legends' Quest
 param=param_611,0
@@ -22427,7 +22517,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [mage_arena_i_3146]
-param=param_191,90
+param=param_191,52
 param=param_579,Mage Arena I
 param=param_610,Mage Arena I
 param=param_611,1
@@ -22443,7 +22533,7 @@ param=param_617,60
 param=param_657,55
 
 [mournings_end_part_i_3147]
-param=param_191,100
+param=param_191,87
 param=param_579,Mourning's End Part I
 param=param_610,Mourning's End Part I
 param=param_611,0
@@ -22466,9 +22556,10 @@ param=param_617,60
 param=param_618,thieving
 param=param_619,50
 param=param_657,60
+param=param_1601,2
 
 [mournings_end_part_ii_3148]
-param=param_191,101
+param=param_191,93
 param=param_579,Mourning's End Part II
 param=param_610,Mourning's End Part II
 param=param_611,0
@@ -22487,9 +22578,10 @@ param=param_648,mournings_end_part_i_3147
 param=param_644,agility
 param=param_645,65
 param=param_657,65
+param=param_1601,2
 
 [observatory_quest_3149]
-param=param_191,106
+param=param_191,44
 param=param_579,Observatory Quest
 param=param_610,Observatory Quest
 param=param_611,0
@@ -22505,7 +22597,7 @@ param=param_1160,2
 param=param_657,20
 
 [olafs_quest_3150]
-param=param_191,107
+param=param_191,132
 param=param_579,Olaf's Quest
 param=param_610,Olaf's Quest
 param=param_611,0
@@ -22530,7 +22622,7 @@ param=param_1299,yes
 param=param_1525,no
 
 [a_porcine_of_interest_3151]
-param=param_191,111
+param=param_191,160
 param=param_579,"Porcine of Interest, A"
 param=param_610,A Porcine of Interest
 param=param_611,0
@@ -22546,7 +22638,7 @@ param=param_1160,1
 param=param_657,20
 
 [rag_and_bone_man_i_3152]
-param=param_191,115
+param=param_191,109
 param=param_579,Rag and Bone Man I
 param=param_610,Rag and Bone Man I
 param=param_611,0
@@ -22564,7 +22656,7 @@ param=param_1160,1
 param=param_657,15
 
 [skippy_and_the_mogres_3153]
-param=param_191,136
+param=param_191,94
 param=param_579,Skippy and the Mogres
 param=param_610,Skippy and the Mogres
 param=param_611,1
@@ -22580,7 +22672,7 @@ param=param_617,20
 param=param_1299,yes
 
 [waterfall_quest_3154]
-param=param_191,159
+param=param_191,38
 param=param_579,Waterfall Quest
 param=param_610,Waterfall Quest
 param=param_611,0
@@ -22594,9 +22686,10 @@ param=param_1346,mapelement_845
 param=param_1162,10
 param=param_1160,1
 param=param_657,25
+param=param_1601,2
 
 [x_marks_the_spot_3155]
-param=param_191,163
+param=param_191,154
 param=param_579,X Marks the Spot
 param=param_610,X Marks the Spot
 param=param_611,0
@@ -26945,6 +27038,14 @@ param=param_1303,15787191
 param=param_1304,<col=06600c>
 param=param_1305,<col=0cc919>
 
+[struct_3599]
+param=setting_id_1077,217
+param=setting_type_1078,0
+param=setting_name_1086,Hide unstarted quests
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,show,hide,unstarted,not started"
+param=setting_desc_1096,Hides unstarted quests in the quest list.
+param=param_1565,yes
+
 [struct_3600]
 param=param_1306,175
 param=param_1312,56
@@ -27969,6 +28070,14 @@ param=setting_choose_transmit_1085,yes
 param=setting_desc_1096,"When enabled, you will get a confirmation before paying for your items from a gravestone."
 param=param_1119,no
 
+[struct_3744]
+param=setting_id_1077,218
+param=setting_type_1078,0
+param=setting_name_1086,Hide quests in progress
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,show,hide,progress,started,in progress,in-progress"
+param=setting_desc_1096,Hides quests in progress in the quest list.
+param=param_1565,yes
+
 [struct_3745]
 param=setting_search_keywords_1088,"chat,chat,colour,gim,group,request,iron,opaque,Chat Settings"
 param=setting_id_1077,193
@@ -28036,6 +28145,45 @@ param=setting_choose_transmit_1085,yes
 param=param_1115,yes
 param=setting_check_fail_mes_1116,"You must have the transparent chatbox enabled, be in resizable mode and be a Group Iron player to change this setting."
 param=param_1186,yes
+
+[struct_3751]
+param=setting_id_1077,219
+param=setting_type_1078,0
+param=setting_name_1086,Hide completed quests
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,show,hide,complete,completed,done,finished"
+param=setting_desc_1096,Hides completed quests in the quest list.
+param=param_1565,yes
+
+[struct_3752]
+param=setting_id_1077,220
+param=setting_type_1078,0
+param=setting_name_1086,Hide miniquests
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,show,hide,miniquest,miniquests,mini quest,mini-quest"
+param=setting_desc_1096,Hides miniquests in the quest list.
+param=param_1565,yes
+
+[struct_3753]
+param=setting_id_1077,221
+param=setting_type_1078,0
+param=setting_name_1086,Hide quests
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,show,hide"
+param=setting_desc_1096,Hides quests in the quest list.
+param=param_1565,yes
+
+[struct_3754]
+param=setting_id_1077,222
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,text,size,textsize,font,fontsize,eyesight,vision,accessibility"
+param=setting_type_1078,2
+param=setting_name_1086,Quest list text size
+param=setting_dropdown_list_1091,enum_4246
+param=setting_desc_1096,Determines the size of the text in your quest list.
+
+[struct_3755]
+param=setting_id_1077,223
+param=setting_type_1078,0
+param=setting_name_1086,Disable quest list text shadows
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,text,shadow,outline,font,eyesight,vision,accessibility"
+param=setting_desc_1096,Removes shadows from the text in your quest list.
 
 [struct_3756]
 param=setting_id_1077,195
@@ -31307,10 +31455,10 @@ param=param_1462,unidentified_fragment_production_26545
 
 [struct_4076]
 param=param_1448,Rune Escape
-param=param_1449,Get better runes at the ZMI Altar
-param=param_1450,"When crafting runes at the ZMI Altar, you no longer gain mind runes."
-param=param_1451,"When crafting runes at the ZMI Altar, you no longer gain mind and body runes."
-param=param_1452,"When crafting runes at the ZMI Altar, you no longer gain mind, body and elemental runes."
+param=param_1449,Get better runes at the Ourania Altar
+param=param_1450,"When crafting runes at the Ourania Altar, you no longer gain mind runes."
+param=param_1451,"When crafting runes at the Ourania Altar, you no longer gain mind and body runes."
+param=param_1452,"When crafting runes at the Ourania Altar, you no longer gain mind, body and elemental runes."
 param=param_1463,runecraft
 param=param_1453,3
 param=param_1454,0
@@ -32177,6 +32325,14 @@ param=param_1288,yes
 param=param_1540,-1
 param=param_1538,0
 
+[struct_4157]
+param=setting_id_1077,224
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,text,color,colour,font,unstarted,not started,colourblind,colorblind,blind,eyesight,vision,accessibility"
+param=setting_type_1078,9
+param=setting_colour_default_1230,16711680
+param=setting_name_1086,Unstarted quest text colour
+param=setting_desc_1096,Determines the text colour for unstarted quests in your quest list.
+
 [struct_4158]
 param=param_1276,47872
 param=param_1277,2
@@ -32685,4 +32841,60 @@ param=param_1252,Minimum value for player kills to trigger a clan notification m
 param=param_1251,Player defeat broadcasts
 param=param_1252,Rank required to receive notifications when clan members are defeated by another player.
 param=param_1292,yes
+
+[struct_4249]
+param=setting_id_1077,225
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,text,color,colour,font,progress,started,in progress,in-progress,colourblind,colorblind,blind,eyesight,vision,accessibility"
+param=setting_type_1078,9
+param=setting_colour_default_1230,16776960
+param=setting_name_1086,In progress quest text colour
+param=setting_desc_1096,Determines the text colour for quests in progress in your quest list.
+
+[struct_4250]
+param=setting_id_1077,226
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,text,color,colour,font,complete,completed,done,finished,colourblind,colorblind,blind,eyesight,vision,accessibility"
+param=setting_type_1078,9
+param=setting_colour_default_1230,901389
+param=setting_name_1086,Completed quest text colour
+param=setting_desc_1096,Determines the text colour for completed quests in your quest list.
+
+[struct_4251]
+param=setting_id_1077,227
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,text,color,colour,font,unavailable,not available,locked,blocked,colourblind,colorblind,blind,eyesight,vision,accessibility"
+param=setting_type_1078,9
+param=setting_colour_default_1230,10461087
+param=setting_name_1086,Unavailable quest text colour
+param=setting_desc_1096,Determines the text colour for unavailable quests in your quest list.
+
+[struct_4252]
+param=setting_id_1077,228
+param=setting_search_keywords_1088,"quest,quests,quest list,questlist,text,color,colour,font,reset,default,defaults,colourblind,colorblind,blind,eyesight,vision,accessibility"
+param=setting_type_1078,6
+param=setting_name_1086,Reset quest list text colours
+param=param_1100,44
+param=param_1093,2
+
+[temple_of_the_eye_4273]
+param=param_191,168
+param=param_579,Temple of the Eye
+param=param_610,Temple of the Eye
+param=param_611,0
+param=param_1297,yes
+param=param_612,1
+param=param_613,1
+param=param_1262,2022
+param=param_614,0
+param=param_615,19
+param=param_1159,3
+param=param_1298,0_51_50_21_33
+param=param_1346,mapelement_854
+param=param_1162,130
+param=param_1160,1
+param=param_648,enter_the_abyss_3140
+param=param_616,runecraft
+param=param_617,10
+
+[guardians_of_the_rift_4274]
+param=param_689,Guardians of the Rift
+param=param_690,enum_4300
 

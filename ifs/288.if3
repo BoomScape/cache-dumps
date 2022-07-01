@@ -26,7 +26,7 @@ trans=255
 [interface_288:3]
 type=^iftype_layer
 width=400
-height=250
+height=260
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_288:1
@@ -79,10 +79,10 @@ layer=interface_288:5
 
 [interface_288:9]
 type=^iftype_layer
-x=3
-y=1
-width=2
-height=93
+x=2
+y=2
+width=4
+height=94
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -90,7 +90,6 @@ layer=interface_288:5
 
 [interface_288:10]
 type=^iftype_layer
-x=2
 width=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
@@ -99,9 +98,7 @@ layer=interface_288:9
 
 [interface_288:11]
 type=^iftype_layer
-x=18
-width=18
-hposmode=^setpos_abs_right
+width=16
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_288:9

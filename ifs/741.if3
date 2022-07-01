@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script5886(48562181,48562184,48562183,48562185,48562186,48562187,48562202,48562203,48562191,48562192,48562197,48562190,48562194,48562195,48562196,48562216,48562217,48562218,48562219,48562213,48562221,48562214,48562223,48562224,48562232,48562229,48562230,48562231,48562233,48562259,48562246,48562248,48562250,48562252,48562254,48562256,48562258)"
+onload="script5886(48562181,48562183,48562185,48562184,48562186,48562201,48562202,48562190,48562191,48562196,48562189,48562193,48562194,48562195,48562215,48562216,48562217,48562218,48562212,48562220,48562213,48562222,48562223,48562231,48562228,48562229,48562230,48562232,48562258,48562245,48562247,48562249,48562251,48562253,48562255,48562257)"
 
 [interface_741:1]
 type=^iftype_layer
@@ -64,43 +64,37 @@ trans=212
 
 [interface_741:7]
 type=^iftype_layer
-width=16
-hposmode=^setpos_abs_right
+hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_741:5
 
 [interface_741:8]
 type=^iftype_layer
-x=3
-width=19
+width=16
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:5
+layer=interface_741:7
 
 [interface_741:9]
 type=^iftype_layer
-height=30
-hposmode=^setpos_abs_centre
+x=3
+width=22
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:8
+vsizemode=^setsize_minus
+layer=interface_741:7
 
 [interface_741:10]
 type=^iftype_layer
 height=30
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:8
+layer=interface_741:9
 
 [interface_741:11]
-type=^iftype_layer
-height=30
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_741:8
-
-[interface_741:12]
 type=^iftype_layer
 y=6
 width=12
@@ -111,21 +105,21 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_741:1
 
-[interface_741:13]
+[interface_741:12]
 type=^iftype_layer
 width=175
 height=91
 vposmode=^setpos_abs_bottom
-layer=interface_741:12
+layer=interface_741:11
 
-[interface_741:14]
+[interface_741:13]
 type=^iftype_text
 y=6
 width=14
 height=36
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:13
+layer=interface_741:12
 text="Speedrun Points<br><col=ffffff>0</col>"
 colour=0xff981f
 font=b12_full
@@ -134,65 +128,65 @@ valign=^settextalign_centre
 paraheight=17
 shadowed=yes
 
+[interface_741:14]
+type=^iftype_layer
+x=7
+y=7
+width=77
+height=38
+vposmode=^setpos_abs_bottom
+layer=interface_741:12
+optionmask=2
+op1="*"
+
 [interface_741:15]
 type=^iftype_layer
 x=7
 y=7
 width=77
 height=38
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_741:13
+layer=interface_741:12
 optionmask=2
 op1="*"
 
 [interface_741:16]
-type=^iftype_layer
-x=7
-y=7
-width=77
-height=38
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
-layer=interface_741:13
-optionmask=2
-op1="*"
-
-[interface_741:17]
 type=^iftype_layer
 width=181
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:12
+layer=interface_741:11
 
-[interface_741:18]
+[interface_741:17]
 type=^iftype_layer
 width=16
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
-layer=interface_741:17
+layer=interface_741:16
 
-[interface_741:19]
+[interface_741:18]
 type=^iftype_layer
 width=16
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:17
+layer=interface_741:16
 
-[interface_741:20]
+[interface_741:19]
 type=^iftype_layer
 height=287
 hsizemode=^setsize_minus
-layer=interface_741:19
+layer=interface_741:18
 
-[interface_741:21]
+[interface_741:20]
 type=^iftype_text
 width=32
 height=26
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:20
+layer=interface_741:19
 text="Current Quest"
 colour=0xff981f
 font=b12_full
@@ -200,17 +194,17 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:22]
+[interface_741:21]
 type=^iftype_layer
 y=28
 width=14
 height=30
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:20
+layer=interface_741:19
 onload="script714(event_com)"
 
-[interface_741:23]
+[interface_741:22]
 type=^iftype_graphic
 width=4
 height=4
@@ -218,16 +212,16 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:22
+layer=interface_741:21
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_741:24]
+[interface_741:23]
 type=^iftype_text
 x=2
 width=131
 vsizemode=^setsize_minus
-layer=interface_741:22
+layer=interface_741:21
 text="Current Speedrun"
 colour=0xff981f
 font=p12_full
@@ -235,19 +229,30 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:25]
+[interface_741:24]
 type=^iftype_text
 x=2
 width=123
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
-layer=interface_741:22
+layer=interface_741:21
 text="-"
 colour=^white
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+
+[interface_741:25]
+type=^iftype_layer
+x=7
+y=65
+width=146
+height=38
+hsizemode=^setsize_minus
+layer=interface_741:19
+optionmask=2
+op1="*"
 
 [interface_741:26]
 type=^iftype_layer
@@ -255,34 +260,23 @@ x=7
 y=65
 width=146
 height=38
+hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_741:20
+layer=interface_741:19
 optionmask=2
 op1="*"
 
 [interface_741:27]
-type=^iftype_layer
-x=7
-y=65
-width=146
-height=38
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_741:20
-optionmask=2
-op1="*"
-
-[interface_741:28]
 type=^iftype_layer
 y=110
 width=14
 height=30
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:20
+layer=interface_741:19
 onload="script714(event_com)"
 
-[interface_741:29]
+[interface_741:28]
 type=^iftype_graphic
 width=4
 height=4
@@ -290,16 +284,16 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:28
+layer=interface_741:27
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_741:30]
+[interface_741:29]
 type=^iftype_text
 x=2
 width=131
 vsizemode=^setsize_minus
-layer=interface_741:28
+layer=interface_741:27
 text="Personal Best"
 colour=0xff981f
 font=p12_full
@@ -307,13 +301,13 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:31]
+[interface_741:30]
 type=^iftype_text
 x=2
 width=123
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
-layer=interface_741:28
+layer=interface_741:27
 text="-"
 colour=^white
 font=p12_full
@@ -321,17 +315,17 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:32]
+[interface_741:31]
 type=^iftype_layer
 y=147
 width=14
 height=30
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:20
+layer=interface_741:19
 onload="script714(event_com)"
 
-[interface_741:33]
+[interface_741:32]
 type=^iftype_graphic
 width=4
 height=4
@@ -339,16 +333,16 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:32
+layer=interface_741:31
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_741:34]
+[interface_741:33]
 type=^iftype_text
 x=2
 width=131
 vsizemode=^setsize_minus
-layer=interface_741:32
+layer=interface_741:31
 text="Global Best"
 colour=0xff981f
 font=p12_full
@@ -356,13 +350,13 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:35]
+[interface_741:34]
 type=^iftype_text
 x=2
 width=123
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
-layer=interface_741:32
+layer=interface_741:31
 text="-"
 colour=^white
 font=p12_full
@@ -370,14 +364,24 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:36]
+[interface_741:35]
 type=^iftype_layer
 y=184
 width=14
 height=96
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:20
+layer=interface_741:19
+onload="script714(event_com)"
+
+[interface_741:36]
+type=^iftype_layer
+x=7
+y=287
+width=146
+height=30
+hsizemode=^setsize_minus
+layer=interface_741:19
 onload="script714(event_com)"
 
 [interface_741:37]
@@ -386,22 +390,12 @@ x=7
 y=287
 width=146
 height=30
+hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_741:20
+layer=interface_741:19
 onload="script714(event_com)"
 
 [interface_741:38]
-type=^iftype_layer
-x=7
-y=287
-width=146
-height=30
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_741:20
-onload="script714(event_com)"
-
-[interface_741:39]
 type=^iftype_graphic
 width=4
 height=4
@@ -409,18 +403,27 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:36
+layer=interface_741:35
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_741:40]
+[interface_741:39]
 type=^iftype_layer
 x=2
 y=2
 width=61
 height=4
 vsizemode=^setsize_minus
-layer=interface_741:36
+layer=interface_741:35
+
+[interface_741:40]
+type=^iftype_layer
+x=66
+y=2
+width=61
+height=4
+vsizemode=^setsize_minus
+layer=interface_741:35
 
 [interface_741:41]
 type=^iftype_layer
@@ -428,20 +431,11 @@ x=66
 y=2
 width=61
 height=4
-vsizemode=^setsize_minus
-layer=interface_741:36
-
-[interface_741:42]
-type=^iftype_layer
-x=66
-y=2
-width=61
-height=4
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
-layer=interface_741:36
+layer=interface_741:35
 
-[interface_741:43]
+[interface_741:42]
 type=^iftype_layer
 x=2
 y=2
@@ -449,21 +443,43 @@ width=61
 height=4
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
+layer=interface_741:35
+
+[interface_741:43]
+type=^iftype_graphic
+width=4
+height=4
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_741:36
+graphic="tradebacking_light"
+tiling=yes
 
 [interface_741:44]
-type=^iftype_graphic
+type=^iftype_layer
 width=4
 height=4
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:37
-graphic="tradebacking_light"
-tiling=yes
+layer=interface_741:36
 
 [interface_741:45]
+type=^iftype_graphic
+width=4
+height=4
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_741:37
+graphic="tradebacking_light"
+tiling=yes
+
+[interface_741:46]
 type=^iftype_layer
 width=4
 height=4
@@ -473,29 +489,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_741:37
 
-[interface_741:46]
-type=^iftype_graphic
-width=4
-height=4
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_741:38
-graphic="tradebacking_light"
-tiling=yes
-
 [interface_741:47]
-type=^iftype_layer
-width=4
-height=4
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_741:38
-
-[interface_741:48]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -503,32 +497,32 @@ hide=yes
 layer=interface_741:1
 noclickthrough=yes
 
-[interface_741:49]
+[interface_741:48]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:48
+layer=interface_741:47
 fill=yes
 trans=128
 
-[interface_741:50]
+[interface_741:49]
 type=^iftype_layer
 width=396
 height=230
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_741:48
+layer=interface_741:47
 
-[interface_741:51]
+[interface_741:50]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:50
+layer=interface_741:49
 onload="script3737(event_com,Speedrunning Info)"
 
-[interface_741:52]
+[interface_741:51]
 type=^iftype_layer
 y=6
 width=12
@@ -537,29 +531,29 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:50
+layer=interface_741:49
 
-[interface_741:53]
+[interface_741:52]
 type=^iftype_layer
 width=16
 hposmode=^setpos_abs_right
 vsizemode=^setsize_minus
-layer=interface_741:52
+layer=interface_741:51
 
-[interface_741:54]
+[interface_741:53]
 type=^iftype_layer
 width=16
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:52
+layer=interface_741:51
 
-[interface_741:55]
+[interface_741:54]
 type=^iftype_text
 width=12
 height=370
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:54
+layer=interface_741:53
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -567,16 +561,16 @@ valign=^settextalign_centre
 paraheight=14
 shadowed=yes
 
-[interface_741:56]
+[interface_741:55]
 type=^iftype_graphic
 x=3
 y=6
 width=26
 height=23
 hposmode=^setpos_abs_right
-layer=interface_741:50
+layer=interface_741:49
 
-[interface_741:57]
+[interface_741:56]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -584,32 +578,32 @@ hide=yes
 layer=interface_741:1
 noclickthrough=yes
 
-[interface_741:58]
+[interface_741:57]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:57
+layer=interface_741:56
 fill=yes
 trans=128
 
-[interface_741:59]
+[interface_741:58]
 type=^iftype_layer
 width=396
 height=230
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_741:57
+layer=interface_741:56
 
-[interface_741:60]
+[interface_741:59]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:59
+layer=interface_741:58
 onload="script3737(event_com,Speedrunning Stats)"
 
-[interface_741:61]
+[interface_741:60]
 type=^iftype_layer
 y=6
 width=12
@@ -618,82 +612,82 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_741:59
+layer=interface_741:58
 
-[interface_741:62]
+[interface_741:61]
 type=^iftype_rectangle
 height=27
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:61
+layer=interface_741:60
 fill=yes
 trans=220
 
-[interface_741:63]
+[interface_741:62]
 type=^iftype_rectangle
 y=27
 height=27
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:61
+layer=interface_741:60
 fill=yes
 trans=250
 
-[interface_741:64]
+[interface_741:63]
 type=^iftype_rectangle
 y=54
 height=27
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:61
+layer=interface_741:60
 fill=yes
 trans=220
 
-[interface_741:65]
+[interface_741:64]
 type=^iftype_rectangle
 y=81
 height=27
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:61
+layer=interface_741:60
 fill=yes
 trans=250
 
-[interface_741:66]
+[interface_741:65]
 type=^iftype_rectangle
 y=108
 height=27
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:61
+layer=interface_741:60
 fill=yes
 trans=220
 
-[interface_741:67]
+[interface_741:66]
 type=^iftype_rectangle
 y=135
 height=27
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:61
+layer=interface_741:60
 fill=yes
 trans=250
 
-[interface_741:68]
+[interface_741:67]
 type=^iftype_rectangle
 y=162
 height=27
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_741:61
+layer=interface_741:60
 fill=yes
 trans=220
 
-[interface_741:69]
+[interface_741:68]
 type=^iftype_text
 width=172
 height=27
-layer=interface_741:61
+layer=interface_741:60
 text="Total Speedruns"
 colour=0xff981f
 font=p12_full
@@ -701,14 +695,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:70]
+[interface_741:69]
 type=^iftype_text
 width=212
 height=27
 hposmode=^setpos_abs_right
-layer=interface_741:61
+layer=interface_741:60
 text="0"
 colour=^white
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_741:70]
+type=^iftype_text
+y=27
+width=172
+height=27
+layer=interface_741:60
+text="Speedrun Points"
+colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -717,11 +724,12 @@ shadowed=yes
 [interface_741:71]
 type=^iftype_text
 y=27
-width=172
+width=212
 height=27
-layer=interface_741:61
-text="Speedrun Points"
-colour=0xff981f
+hposmode=^setpos_abs_right
+layer=interface_741:60
+text="0"
+colour=^white
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -729,13 +737,12 @@ shadowed=yes
 
 [interface_741:72]
 type=^iftype_text
-y=27
-width=212
+y=54
+width=172
 height=27
-hposmode=^setpos_abs_right
-layer=interface_741:61
-text="0"
-colour=^white
+layer=interface_741:60
+text="Total Trophies"
+colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -744,11 +751,12 @@ shadowed=yes
 [interface_741:73]
 type=^iftype_text
 y=54
-width=172
+width=212
 height=27
-layer=interface_741:61
-text="Total Trophies"
-colour=0xff981f
+hposmode=^setpos_abs_right
+layer=interface_741:60
+text="0"
+colour=^white
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -756,13 +764,12 @@ shadowed=yes
 
 [interface_741:74]
 type=^iftype_text
-y=54
-width=212
+y=81
+width=172
 height=27
-hposmode=^setpos_abs_right
-layer=interface_741:61
-text="0"
-colour=^white
+layer=interface_741:60
+text="Total Bronze Trophies"
+colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -771,11 +778,12 @@ shadowed=yes
 [interface_741:75]
 type=^iftype_text
 y=81
-width=172
+width=212
 height=27
-layer=interface_741:61
-text="Total Bronze Trophies"
-colour=0xff981f
+hposmode=^setpos_abs_right
+layer=interface_741:60
+text="0"
+colour=^white
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -783,13 +791,12 @@ shadowed=yes
 
 [interface_741:76]
 type=^iftype_text
-y=81
-width=212
+y=108
+width=172
 height=27
-hposmode=^setpos_abs_right
-layer=interface_741:61
-text="0"
-colour=^white
+layer=interface_741:60
+text="Total Silver Trophies"
+colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -798,11 +805,12 @@ shadowed=yes
 [interface_741:77]
 type=^iftype_text
 y=108
-width=172
+width=212
 height=27
-layer=interface_741:61
-text="Total Silver Trophies"
-colour=0xff981f
+hposmode=^setpos_abs_right
+layer=interface_741:60
+text="0"
+colour=^white
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -810,13 +818,12 @@ shadowed=yes
 
 [interface_741:78]
 type=^iftype_text
-y=108
-width=212
+y=135
+width=172
 height=27
-hposmode=^setpos_abs_right
-layer=interface_741:61
-text="0"
-colour=^white
+layer=interface_741:60
+text="Total Gold Trophies"
+colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -825,11 +832,12 @@ shadowed=yes
 [interface_741:79]
 type=^iftype_text
 y=135
-width=172
+width=212
 height=27
-layer=interface_741:61
-text="Total Gold Trophies"
-colour=0xff981f
+hposmode=^setpos_abs_right
+layer=interface_741:60
+text="0"
+colour=^white
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -837,13 +845,12 @@ shadowed=yes
 
 [interface_741:80]
 type=^iftype_text
-y=135
-width=212
+y=162
+width=172
 height=27
-hposmode=^setpos_abs_right
-layer=interface_741:61
-text="0"
-colour=^white
+layer=interface_741:60
+text="Total Platinum Trophies"
+colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
@@ -852,23 +859,10 @@ shadowed=yes
 [interface_741:81]
 type=^iftype_text
 y=162
-width=172
-height=27
-layer=interface_741:61
-text="Total Platinum Trophies"
-colour=0xff981f
-font=p12_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-
-[interface_741:82]
-type=^iftype_text
-y=162
 width=212
 height=27
 hposmode=^setpos_abs_right
-layer=interface_741:61
+layer=interface_741:60
 text="0"
 colour=^white
 font=p12_full
@@ -876,12 +870,12 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_741:83]
+[interface_741:82]
 type=^iftype_graphic
 x=3
 y=6
 width=26
 height=23
 hposmode=^setpos_abs_right
-layer=interface_741:59
+layer=interface_741:58
 

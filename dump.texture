@@ -435,3 +435,8 @@ colour=4133
 repeat=yes
 graphic="graphic_3603"
 
+[texture_95]
+colour=32
+repeat=yes
+graphic="graphic_4377"
+

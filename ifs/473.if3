@@ -48,20 +48,6 @@ layer=interface_473:3
 
 [interface_473:5]
 type=^iftype_layer
-height=50
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_473:3
-
-[interface_473:6]
-type=^iftype_layer
-height=50
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-layer=interface_473:3
-
-[interface_473:7]
-type=^iftype_layer
 x=85
 width=16
 height=229
@@ -69,7 +55,7 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 layer=interface_473:0
 
-[interface_473:8]
+[interface_473:6]
 type=^iftype_text
 height=53
 hposmode=^setpos_abs_centre
@@ -82,7 +68,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_473:9]
+[interface_473:7]
 type=^iftype_graphic
 x=40
 y=12

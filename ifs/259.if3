@@ -13,6 +13,7 @@ layer=interface_259:0
 text="Achievement Diaries"
 colour=0xff9933
 font=b12_full
+halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 

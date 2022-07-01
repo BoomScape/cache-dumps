@@ -3566,6 +3566,9 @@ val=677,Dusk in Yu'biusk
 val=678,Temple of Tribes
 val=679,Zanik's Theme
 val=680,Don't Panic Zanik
+val=681,Temple of the Eye
+val=682,The Guardians Prepare
+val=683,Guardians of the Rift
 
 [enum_814]
 inputtype=int
@@ -4299,6 +4302,9 @@ val=677,Dusk in Yu'biusk
 val=678,Temple of Tribes
 val=679,Zanik's Theme
 val=680,Don't Panic Zanik
+val=681,Temple of the Eye
+val=682,"Guardians Prepare, The"
+val=683,Guardians of the Rift
 
 [enum_818]
 inputtype=int
@@ -4984,6 +4990,9 @@ val=676,677
 val=677,678
 val=678,679
 val=679,680
+val=680,681
+val=681,682
+val=682,683
 
 [enum_819]
 inputtype=int
@@ -5669,6 +5678,9 @@ val=677,0_0_0_21_23
 val=678,0_0_0_21_24
 val=679,0_0_0_21_25
 val=680,0_0_0_21_26
+val=681,0_0_0_21_27
+val=682,0_0_0_21_28
+val=683,0_0_0_21_29
 
 [enum_823]
 inputtype=component
@@ -6022,7 +6034,7 @@ val=31,black_slayer_helmet_19639
 val=32,green_slayer_helmet_19643
 val=33,red_slayer_helmet_19647
 val=38,purple_slayer_helmet_21264
-val=35,obj_1451
+val=35,obj_26248
 val=36,dummy_locust_rider_1461
 val=37,cert_mithril_bar_2360
 val=39,fossil_island_wyvern_21507
@@ -6682,23 +6694,24 @@ val=2,Blast Furnace
 val=4,Castle Wars
 val=7,Fishing Trawler
 val=3,Burthorpe Games Room
-val=10,Nightmare Zone
-val=11,Pest Control
-val=13,Rat Pits
-val=14,Shades of Mort'ton
-val=20,Trouble Brewing
-val=21,TzHaar Fight Pit
-val=15,Shield of Arrav
+val=11,Nightmare Zone
+val=12,Pest Control
+val=14,Rat Pits
+val=15,Shades of Mort'ton
+val=21,Trouble Brewing
+val=22,TzHaar Fight Pit
+val=16,Shield of Arrav
 val=5,Clan Wars
 val=8,God Wars
+val=9,Guardians of the Rift
 val=6,Dagannoth Kings
-val=12,Player Owned Houses
-val=19,Tithe Farm
-val=9,Last Man Standing
-val=22,Volcanic Mine
-val=18,Theatre of Blood
-val=17,Soul Wars
-val=16,Shooting Stars
+val=13,Player Owned Houses
+val=20,Tithe Farm
+val=10,Last Man Standing
+val=23,Volcanic Mine
+val=19,Theatre of Blood
+val=18,Soul Wars
+val=17,Shooting Stars
 
 [enum_849]
 inputtype=int
@@ -6709,23 +6722,24 @@ val=2,osrs bf
 val=4,osrs castle
 val=7,osrs ft
 val=3,osrs bgr
-val=10,osrs nmz
-val=11,osrs pc
-val=13,osrs ratpits
-val=14,osrs shades
-val=20,osrs tb
-val=21,osrs tfp
-val=15,osrs soa
+val=11,osrs nmz
+val=12,osrs pc
+val=14,osrs ratpits
+val=15,osrs shades
+val=21,osrs tb
+val=22,osrs tfp
+val=16,osrs soa
 val=5,osrs clw
 val=8,osrs gwd
+val=9,osrs gotr cc
 val=6,osrs dkings
-val=12,osrs poh
-val=19,osrs tithe
-val=9,osrs lms cc
-val=22,os volcmine
-val=18,osrs tob cc
-val=17,osrs sw cc
-val=16,osrs star cc
+val=13,osrs poh
+val=20,osrs tithe
+val=10,osrs lms cc
+val=23,os volcmine
+val=19,osrs tob cc
+val=18,osrs sw cc
+val=17,osrs star cc
 
 [enum_850]
 inputtype=int
@@ -6741,18 +6755,19 @@ val=7,370
 val=8,-1
 val=9,-1
 val=10,-1
-val=11,344
-val=12,330
-val=13,377
+val=11,-1
+val=12,344
+val=13,330
 val=14,377
-val=15,-1
-val=17,320
-val=18,376
-val=19,-1
-val=20,304
-val=21,362
-val=22,323
+val=15,377
 val=16,-1
+val=18,320
+val=19,376
+val=20,-1
+val=21,304
+val=22,362
+val=23,323
+val=17,-1
 
 [enum_852]
 inputtype=int
@@ -7939,6 +7954,7 @@ val=45,little_nightmare_24491
 val=46,lil_creator_25348
 val=47,tiny_tempor_25602
 val=48,nexling_26348
+val=49,abyssal_protector_26901
 
 [enum_987]
 inputtype=int
@@ -16121,6 +16137,7 @@ val=11,rift_guardian_20687
 val=12,rift_guardian_20689
 val=13,rift_guardian_20691
 val=14,rift_guardian_21990
+val=15,greatish_guardian_26899
 
 [enum_1691]
 inputtype=int
@@ -20597,7 +20614,7 @@ inputtype=int
 outputtype=namedobj
 default=null
 val=0,research_package_290
-val=1,notes_291
+val=1,research_notes_291
 
 [enum_2086]
 inputtype=int
@@ -20679,9 +20696,9 @@ val=1,catspeak_amulet_e_6544
 inputtype=int
 outputtype=string
 default=No Progress
-val=0,Started
+val=0,In Progress
 val=1,Not Started
-val=2,Finished
+val=2,Completed
 
 [enum_2093]
 inputtype=int
@@ -20768,14 +20785,14 @@ val=48,Yanille
 [enum_2097]
 inputtype=int
 outputtype=string
-default=No Series
+default=Standalone
 val=0,Camelot
-val=1,Desert
+val=1,Kharidian
 val=2,Dorgeshuun
 val=3,Dragonkin
 val=4,Elemental Workshop
 val=5,Elf
-val=6,Fairy
+val=6,Fairytale
 val=7,Fremennik
 val=8,Gnome
 val=9,Mahjarrat
@@ -20784,191 +20801,12 @@ val=11,Penguin
 val=12,Pirate
 val=13,Rag and Bone Man
 val=14,Red Axe
-val=15,Sea Slug
+val=15,Temple Knight
 val=16,Troll
 val=17,Kourend
-
-[enum_2098]
-inputtype=int
-outputtype=struct
-default=null
-val=0,black_knights_fortress_299
-val=1,cooks_assistant_300
-val=2,the_corsair_curse_301
-val=3,demon_slayer_302
-val=4,dorics_quest_3138
-val=5,dragon_slayer_i_3139
-val=6,ernest_the_chicken_305
-val=7,goblin_diplomacy_306
-val=8,imp_catcher_307
-val=9,the_knights_sword_308
-val=10,misthalin_mystery_309
-val=11,pirates_treasure_310
-val=12,prince_ali_rescue_311
-val=13,the_restless_ghost_312
-val=14,romeo_juliet_313
-val=15,rune_mysteries_314
-val=16,sheep_shearer_315
-val=17,shield_of_arrav_316
-val=18,vampyre_slayer_1278
-val=19,witchs_potion_318
-val=20,x_marks_the_spot_3155
-val=21,below_ice_mountain_2874
-
-[enum_2099]
-inputtype=int
-outputtype=struct
-default=null
-val=0,animal_magnetism_331
-val=1,another_slice_of_h_a_m_332
-val=2,between_a_rock_333
-val=3,big_chompy_bird_hunting_334
-val=4,biohazard_335
-val=5,cabin_fever_336
-val=6,clock_tower_337
-val=7,cold_war_338
-val=8,contact_339
-val=9,creature_of_fenkenstrain_340
-val=10,darkness_of_hallowvale_341
-val=11,death_plateau_342
-val=12,death_to_the_dorgeshuun_343
-val=13,the_depths_of_despair_344
-val=14,desert_treasure_345
-val=15,devious_minds_346
-val=16,the_dig_site_347
-val=17,dragon_slayer_ii_348
-val=18,dream_mentor_349
-val=19,druidic_ritual_350
-val=20,dwarf_cannon_351
-val=21,eadgars_ruse_352
-val=22,eagles_peak_353
-val=23,elemental_workshop_i_354
-val=24,elemental_workshop_ii_355
-val=25,enakhras_lament_356
-val=26,enlightened_journey_357
-val=27,the_eyes_of_glouphrie_358
-val=28,fairytale_i_growing_pains_359
-val=29,fairytale_ii_cure_a_queen_360
-val=30,family_crest_361
-val=31,the_feud_362
-val=32,fight_arena_363
-val=33,fishing_contest_364
-val=34,forgettable_tale_365
-val=35,bone_voyage_3135
-val=36,the_fremennik_isles_367
-val=37,the_fremennik_trials_368
-val=38,garden_of_tranquillity_369
-val=39,gertrudes_cat_370
-val=40,ghosts_ahoy_371
-val=41,the_giant_dwarf_372
-val=42,the_golem_373
-val=43,the_grand_tree_374
-val=44,the_great_brain_robbery_375
-val=45,grim_tales_376
-val=46,the_hand_in_the_sand_377
-val=47,haunted_mine_378
-val=48,hazeel_cult_379
-val=49,heroes_quest_3142
-val=50,holy_grail_381
-val=51,horror_from_the_deep_382
-val=52,icthlarins_little_helper_383
-val=53,in_aid_of_the_myreque_384
-val=54,in_search_of_the_myreque_385
-val=55,jungle_potion_386
-val=56,kings_ransom_387
-val=57,legends_quest_3145
-val=58,lost_city_389
-val=59,the_lost_tribe_390
-val=60,lunar_diplomacy_391
-val=61,making_friends_with_my_arm_392
-val=62,making_history_393
-val=63,merlins_crystal_394
-val=64,monkey_madness_i_395
-val=65,monkey_madness_ii_396
-val=66,monks_friend_397
-val=67,mountain_daughter_398
-val=68,mournings_end_part_i_3147
-val=69,mournings_end_part_ii_3148
-val=70,murder_mystery_401
-val=71,my_arms_big_adventure_402
-val=72,nature_spirit_403
-val=73,observatory_quest_3149
-val=74,olafs_quest_3150
-val=75,one_small_favour_406
-val=76,plague_city_407
-val=77,priest_in_peril_408
-val=78,the_queen_of_thieves_409
-val=79,rag_and_bone_man_i_3152
-val=80,rag_and_bone_man_ii_411
-val=81,ratcatchers_412
-val=82,recipe_for_disaster_413
-val=83,recruitment_drive_414
-val=84,regicide_415
-val=85,roving_elves_416
-val=86,royal_trouble_417
-val=87,rum_deal_418
-val=88,scorpion_catcher_419
-val=89,sea_slug_420
-val=90,shades_of_mortton_421
-val=91,shadow_of_the_storm_422
-val=92,sheep_herder_423
-val=93,shilo_village_424
-val=94,the_slug_menace_425
-val=95,a_souls_bane_426
-val=96,spirits_of_the_elid_427
-val=97,swan_song_428
-val=98,tai_bwo_wannai_trio_429
-val=99,a_tail_of_two_cats_430
-val=100,tale_of_the_righteous_431
-val=101,a_taste_of_hope_432
-val=102,tears_of_guthix_433
-val=103,temple_of_ikov_434
-val=104,throne_of_miscellania_435
-val=105,the_tourist_trap_436
-val=106,tower_of_life_437
-val=107,tree_gnome_village_438
-val=108,tribal_totem_439
-val=109,troll_romance_440
-val=110,troll_stronghold_441
-val=111,underground_pass_442
-val=112,client_of_kourend_3136
-val=113,wanted_444
-val=114,watchtower_445
-val=115,waterfall_quest_3154
-val=116,what_lies_below_447
-val=117,witchs_house_448
-val=118,zogre_flesh_eaters_449
-val=119,the_ascent_of_arceuus_542
-val=120,the_forsaken_tower_543
-val=121,song_of_the_elves_603
-val=122,the_fremennik_exiles_3141
-val=123,sins_of_the_father_1276
-val=124,a_porcine_of_interest_3151
-val=125,getting_ahead_752
-val=126,a_kingdom_divided_2971
-val=127,a_night_at_the_theatre_949
-val=128,land_of_the_goblins_4135
-
-[enum_2100]
-inputtype=int
-outputtype=struct
-default=null
-val=0,enter_the_abyss_3140
-val=1,architectural_alliance_320
-val=2,bear_your_soul_1275
-val=3,alfred_grimhands_barcrawl_322
-val=4,curse_of_the_empty_lord_3137
-val=5,the_enchanted_key_324
-val=6,the_generals_shadow_325
-val=7,skippy_and_the_mogres_3153
-val=8,mage_arena_i_3146
-val=9,lair_of_tarn_razorlor_3144
-val=10,family_pest_329
-val=11,mage_arena_ii_330
-val=12,in_search_of_knowledge_3143
-val=13,daddys_home_1688
-val=14,the_frozen_door_3768
-val=15,hopespears_will_4136
+val=18,Demon Slayer
+val=19,Order of Wizards
+val=20,Miscellania
 
 [enum_2102]
 inputtype=int
@@ -21054,18 +20892,19 @@ val=1,brimhaven_agility_arena_2873
 val=2,castle_wars_514
 val=3,fishing_trawler_520
 val=4,gnome_restaurant_521
-val=5,hallowed_sepulchre_1279
-val=6,last_man_standing_1720
-val=7,magic_training_arena_515
-val=8,mahogany_homes_1689
-val=9,pest_control_518
-val=10,rogues_den_522
-val=11,shades_of_mortton_517
-val=12,soul_wars_2825
-val=13,temple_trekking_519
-val=14,tithe_farm_524
-val=15,trouble_brewing_523
-val=16,volcanic_mine_2872
+val=5,guardians_of_the_rift_4274
+val=6,hallowed_sepulchre_1279
+val=7,last_man_standing_1720
+val=8,magic_training_arena_515
+val=9,mahogany_homes_1689
+val=10,pest_control_518
+val=11,rogues_den_522
+val=12,shades_of_mortton_517
+val=13,soul_wars_2825
+val=14,temple_trekking_519
+val=15,tithe_farm_524
+val=16,trouble_brewing_523
+val=17,volcanic_mine_2872
 
 [enum_2107]
 inputtype=int
@@ -22297,6 +22136,7 @@ val=45,little_nightmare_24491
 val=46,lil_creator_25348
 val=47,tiny_tempor_25602
 val=48,nexling_26348
+val=49,abyssal_protector_26901
 
 [enum_2159]
 inputtype=int
@@ -27185,15 +27025,16 @@ val=26,<col=ffffff>Bloodbark armour:<br><br>The full set increases the amount he
 val=27,<col=ffffff>Zealot's prayer robes:<br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them and saving bones when burying or offering them. This stacks with the Wilderness altar's bone saving effect.<br><br>
 val=28,<col=ffffff>Spirit Angler outfit:<br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>
 val=29,"<col=ffffff>Virtus Robes:<br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%, as long as the target is poisoned.<br><br>Shadow spells also drain Strength, Ranged, Magic and Defence, as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets."
-val=30,<col=ffffff>Maoma's med set:<br><br>Gain a +5% boost to your melee damage and accuracy.<br>Gain a +5% damage reduction for incoming ranged damage.
-val=31,<col=ffffff>Koriff's headband set:<br><br>Gain a +5% boost to your ranged damage and accuracy.<br>Gain a +5% damage reduction for incoming magic damage.
-val=32,<col=ffffff>Saika's hood set<br><br>Gain a +5% boost to your magic damage and accuracy.<br>Gain a +5% damage reduction for incoming melee damage.
-val=33,<col=ffffff>Maoma's Superior set<br><br>Gain a +7.5% boost to your melee damage and accuracy.<br>Gain a +7.5% damage reduction for incoming ranged damage.
-val=34,<col=ffffff>Koriff's cowl set:<br><br>Gain a +7.5% boost to your ranged damage and accuracy.<br>Gain a +7.5% damage reduction for incoming magic damage.
-val=35,<col=ffffff>Saika's veil<br><br>Gain a +7.5% boost to your magic damage and accuracy.<br>Gain a +7.5% damage reduction for incoming melee damage.
-val=36,<col=ffffff>Maoma's Elite set<br><br>Gain a +10% boost to your melee damage and accuracy.<br>Gain a +10% damage reduction for incoming ranged damage.
-val=37,<col=ffffff>Koriff's coif set:<br><br>Gain a +10% boost to your ranged damage and accuracy.<br>Gain a +10% damage reduction for incoming magic damage.
-val=38,<col=ffffff>Saika's shroud<br><br>Gain a +10% boost to your magic damage and accuracy.<br>Gain a +10% damage reduction for incoming melee damage.
+val=30,<col=ffffff>Maoma's med set:<br><br>Gain a +20% boost to your melee accuracy.<br>Gain a +3% boost to your melee damage.
+val=31,<col=ffffff>Koriff's headband set:<br><br>Gain a +15% boost to your ranged accuracy.<br>Gain a +7.5% boost to your ranged damage.
+val=32,<col=ffffff>Saika's hood set<br><br>Gain a +50% boost to your magic accuracy.<br>Gain a +3% boost to your magic damage.
+val=33,<col=ffffff>Maoma's Superior set<br><br>Gain a +25% boost to your melee accuracy.<br>Gain a +4% boost to your melee damage.
+val=34,<col=ffffff>Koriff's cowl set:<br><br>Gain a +20% boost to your ranged accuracy.<br>Gain a +10% boost to your ranged damage.
+val=35,<col=ffffff>Saika's veil<br><br>Gain a +55% boost to your magic accuracy.<br>Gain a +4% boost to your magic damage.
+val=36,<col=ffffff>Maoma's Elite set<br><br>Gain a +30% boost to your melee accuracy.<br>Gain a +5% boost to your melee damage.
+val=37,<col=ffffff>Koriff's coif set:<br><br>Gain a +25% boost to your ranged accuracy.<br>Gain a +12.5% boost to your ranged damage.
+val=38,<col=ffffff>Saika's shroud<br><br>Gain a +60% boost to your magic accuracy.<br>Gain a +5% boost to your magic damage.
+val=39,<col=ffffff>Raiments of the Eye:<br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>
 
 [enum_3048]
 inputtype=int
@@ -27777,6 +27618,10 @@ val=gnome_child_mask_25336,enum_3549
 val=golden_prospector_helmet_25549,enum_3666
 val=spirit_angler_headband_25592,enum_3729
 val=ancient_ceremonial_mask_26225,enum_4049
+val=robe_top_of_the_eye_26852,enum_4239
+val=robe_top_of_the_eye_red_26860,enum_4240
+val=robe_top_of_the_eye_green_26866,enum_4241
+val=robe_top_of_the_eye_blue_26872,enum_4242
 
 [enum_3078]
 inputtype=int
@@ -29698,6 +29543,10 @@ val=65,zealots_helm_25438
 val=66,imcando_hammer_25644
 val=67,ancient_ceremonial_mask_26225
 val=68,mystic_hat_or_26531
+val=69,robe_top_of_the_eye_26852
+val=70,robe_top_of_the_eye_red_26860
+val=71,robe_top_of_the_eye_green_26866
+val=72,robe_top_of_the_eye_blue_26872
 
 [enum_3290]
 inputtype=int
@@ -30426,6 +30275,10 @@ val=amys_saw_24880,Amy's saw
 val=zealots_helm_25438,Zealot's prayer robes
 val=imcando_hammer_25644,Imcando hammer
 val=ancient_ceremonial_mask_26225,Ancient ceremonial robes
+val=robe_top_of_the_eye_26852,Raiments of the Eye
+val=robe_top_of_the_eye_green_26866,Raiments of the Eye (Green)
+val=robe_top_of_the_eye_red_26860,Raiments of the Eye (Red)
+val=robe_top_of_the_eye_blue_26872,Raiments of the Eye (Blue)
 val=decorative_helm_4071,Castle Wars Decorative armour (1)
 val=decorative_helm_4506,Castle Wars Decorative armour (2)
 val=decorative_helm_4511,Castle Wars Decorative armour (3)
@@ -30501,7 +30354,7 @@ val=twisted_cane_24395,Cane: Twisted
 val=trailblazer_top_t1_25031,Trailblazer Relichunter (T1)
 val=trailblazer_top_t2_25019,Trailblazer Relichunter (T2)
 val=trailblazer_top_t3_25004,Trailblazer Relichunter (T3)
-val=trailblazer_cane_25013,Cane: Twisted
+val=trailblazer_cane_25013,Cane: Trailblazer
 val=shattered_top_t1_26430,Shattered Relichunter (T1)
 val=shattered_top_t2_26442,Shattered Relichunter (T2)
 val=shattered_top_t3_26454,Shattered Relichunter (T3)
@@ -34086,6 +33939,8 @@ val=large_pouch_5512,1
 val=large_pouch_5513,1
 val=giant_pouch_5514,1
 val=giant_pouch_5515,1
+val=colossal_pouch_26784,1
+val=colossal_pouch_26786,1
 val=rune_pouch_12791,1
 val=rune_pouch_l_24416,1
 val=seed_box_13639,1
@@ -46026,30 +45881,39 @@ val=2,16777215
 val=3,5263440
 val=4,8421504
 val=5,12303291
-val=6,8388608
-val=7,16711680
-val=8,16724530
-val=9,13132800
-val=10,16744448
-val=11,16752704
-val=12,13158400
-val=13,16776960
-val=14,16777088
-val=15,32768
-val=16,65280
-val=17,8454016
-val=18,128
-val=19,255
-val=20,5263615
-val=21,4194432
-val=22,8388863
-val=23,10502399
-val=24,5253120
-val=25,8404992
-val=26,10506240
-val=27,16737380
-val=28,16744576
-val=29,16752800
+val=6,5253120
+val=7,8404992
+val=8,10506240
+val=9,8388608
+val=10,16711680
+val=11,16724530
+val=12,12740352
+val=13,16750623
+val=14,16758113
+val=15,13158400
+val=16,16776960
+val=17,16777088
+val=18,32768
+val=19,65280
+val=20,8454016
+val=21,32851
+val=22,54923
+val=23,4063163
+val=24,32896
+val=25,54998
+val=26,4063231
+val=27,128
+val=28,255
+val=29,5263615
+val=30,4194432
+val=31,8388863
+val=32,10502399
+val=33,8388735
+val=34,16711935
+val=35,16742399
+val=36,16737380
+val=37,16744576
+val=38,16752800
 
 [enum_3761]
 inputtype=int
@@ -50663,6 +50527,7 @@ val=mapelement_848,witchs_potion_318
 val=mapelement_849,x_marks_the_spot_3155
 val=mapelement_850,zogre_flesh_eaters_449
 val=mapelement_853,land_of_the_goblins_4135
+val=mapelement_854,temple_of_the_eye_4273
 
 [enum_3997]
 inputtype=int
@@ -51092,59 +50957,74 @@ val=12,struct_2232
 val=13,struct_3641
 val=14,struct_319
 val=15,struct_3761
-val=16,struct_3631
-val=17,struct_1055
-val=18,struct_3006
-val=19,struct_3757
-val=20,struct_1122
-val=21,struct_1233
-val=22,struct_3632
-val=23,struct_2768
-val=24,struct_2730
-val=25,struct_1052
-val=26,struct_997
-val=27,struct_2886
-val=28,struct_3633
-val=29,struct_3040
-val=30,struct_3041
-val=31,struct_3043
-val=32,struct_3042
-val=33,struct_3634
-val=34,struct_3017
-val=35,struct_3018
-val=36,struct_3019
-val=37,struct_3020
-val=38,struct_3021
-val=39,struct_3022
-val=40,struct_3023
-val=41,struct_3024
-val=42,struct_3025
-val=43,struct_3026
-val=44,struct_3027
-val=45,struct_3028
-val=46,struct_3029
-val=47,struct_3030
-val=48,struct_3031
-val=49,struct_3032
-val=50,struct_3033
-val=51,struct_3034
-val=52,struct_3035
-val=53,struct_3036
-val=54,struct_3037
-val=55,struct_3038
-val=56,struct_3734
-val=57,struct_3112
-val=58,struct_3113
-val=59,struct_3114
-val=60,struct_3115
-val=61,struct_3116
-val=62,struct_3117
-val=63,struct_3658
-val=64,struct_3759
-val=65,struct_4148
-val=66,struct_3001
-val=67,struct_3729
-val=68,struct_3739
+val=16,struct_2255
+val=17,struct_3107
+val=18,struct_3108
+val=19,struct_3110
+val=20,struct_3599
+val=21,struct_3744
+val=22,struct_3751
+val=23,struct_3752
+val=24,struct_3753
+val=25,struct_3754
+val=26,struct_3755
+val=27,struct_4157
+val=28,struct_4249
+val=29,struct_4250
+val=30,struct_4251
+val=31,struct_4252
+val=32,struct_3631
+val=33,struct_1055
+val=34,struct_3006
+val=35,struct_3757
+val=36,struct_1122
+val=37,struct_1233
+val=38,struct_3632
+val=39,struct_2768
+val=40,struct_2730
+val=41,struct_1052
+val=42,struct_997
+val=43,struct_2886
+val=44,struct_3633
+val=45,struct_3040
+val=46,struct_3041
+val=47,struct_3043
+val=48,struct_3042
+val=49,struct_3634
+val=50,struct_3017
+val=51,struct_3018
+val=52,struct_3019
+val=53,struct_3020
+val=54,struct_3021
+val=55,struct_3022
+val=56,struct_3023
+val=57,struct_3024
+val=58,struct_3025
+val=59,struct_3026
+val=60,struct_3027
+val=61,struct_3028
+val=62,struct_3029
+val=63,struct_3030
+val=64,struct_3031
+val=65,struct_3032
+val=66,struct_3033
+val=67,struct_3034
+val=68,struct_3035
+val=69,struct_3036
+val=70,struct_3037
+val=71,struct_3038
+val=72,struct_3734
+val=73,struct_3112
+val=74,struct_3113
+val=75,struct_3114
+val=76,struct_3115
+val=77,struct_3116
+val=78,struct_3117
+val=79,struct_3658
+val=80,struct_3759
+val=81,struct_3001
+val=82,struct_3729
+val=83,struct_3739
 
 [enum_4026]
 inputtype=int
@@ -56153,6 +56033,7 @@ outputtype=boolean
 default=no
 val=dragon_slayer_ii_348,yes
 val=song_of_the_elves_603,yes
+val=olafs_quest_3150,yes
 
 [enum_4210]
 inputtype=int
@@ -56162,6 +56043,7 @@ val=0,cooks_assistant_300
 val=1,dragon_slayer_i_3139
 val=2,dragon_slayer_ii_348
 val=3,song_of_the_elves_603
+val=4,olafs_quest_3150
 
 [enum_4212]
 inputtype=int
@@ -56598,15 +56480,15 @@ val=13,"The elite Calamity armour can be worn with the coven's elite headgear to
 val=16,"The elite Calamity armour can be worn with the coven's elite headgear to unlock set effects. It can be used only in PvP combat, with a few exceptions."
 val=17,"The Centurion Cuirass is defensive body armour. It can be used only in PvP combat, with a few exceptions."
 val=18,"The Wristbands of the Arena are an accessible form of protective handgear. They can be used only in PvP combat, with a few exceptions. Castle Wars braclets can be used on them to store the charges in the wristbands, granting them the bracelets' benefits in that minigame."
-val=8,"Maoma's med helm can be worn with the standard Calamity armour to grant +5% melee accuracy & damage, and reduce incoming ranged damage by 5%. It can be used only in PvP combat, with a few exceptions."
-val=9,"Maoma's full helm can be worn with the superior Calamity armour to grant +7.5% melee accuracy & damage, and reduce incoming ranged damage by 7.5%. It can be used only in PvP combat, with a few exceptions."
-val=10,"Maoma's great helm can be worn with the elite Calamity armour to grant +10% melee accuracy & damage, and reduce incoming ranged damage by 10%. It can be used only in PvP combat, with a few exceptions."
-val=19,"Koriff's headband can be worn with the standard Calamity armour to grant +5% ranged accuracy & damage, and reduce incoming magic damage by 5%. It can be used only in PvP combat, with a few exceptions."
-val=20,"Koriff's cowl can be worn with the superior Calamity armour to grant +7.5% ranged accuracy & damage, and reduce incoming magic damage by 7.5%. It can be used only in PvP combat, with a few exceptions."
-val=21,"Koriff's coif can be worn with the elite Calamity armour to grant +10% ranged accuracy & damage, and reduce incoming magic damage by 10%. It can be used only in PvP combat, with a few exceptions."
-val=22,"Saika's hood can be worn with the standard Calamity armour to grant +5% magic accuracy & damage, and reduce incoming melee damage by 5%. It can be used only in PvP combat, with a few exceptions."
-val=23,"Saika's veil can be worn with the superior Calamity armour to grant +7.5% magic accuracy & damage, and reduce incoming melee damage by 7.5%. It can be used only in PvP combat, with a few exceptions."
-val=24,"Saika's shroud can be worn with the elite Calamity armour to grant +10% magic accuracy & damage, and reduce incoming melee damage by 10%. It can be used only in PvP combat, with a few exceptions."
+val=8,"Maoma's med helm can be worn with the standard Calamity armour to grant +20% accuracy and +3% damage in melee. It can be used only in PvP combat, with a few exceptions."
+val=9,"Maoma's full helm can be worn with the superior Calamity armour to grant +25% accuracy and +4% damage in melee. It can be used only in PvP combat, with a few exceptions."
+val=10,"Maoma's great helm can be worn with the elite Calamity armour to grant +30% accuracy and +5% damage in melee. It can be used only in PvP combat, with a few exceptions."
+val=19,"Koriff's headband can be worn with the standard Calamity armour to grant +15% accuracy and +7.5% damage when ranging. It can be used only in PvP combat, with a few exceptions."
+val=20,"Koriff's cowl can be worn with the superior Calamity armour to grant +20% accuracy and +10% damage when ranging. It can be used only in PvP combat, with a few exceptions."
+val=21,"Koriff's coif can be worn with the elite Calamity armour to grant +25% accuracy and +12.5% damage when ranging. It can be used only in PvP combat, with a few exceptions."
+val=22,"Saika's hood can be worn with the standard Calamity armour to grant +50% accuracy and +3% damage in magic. It can be used only in PvP combat, with a few exceptions."
+val=23,"Saika's veil can be worn with the superior Calamity armour to grant +55% accuracy and +4% damage in magic. It can be used only in PvP combat, with a few exceptions."
+val=24,"Saika's shroud can be worn with the elite Calamity armour to grant +60% accuracy and +5% damage in magic. It can be used only in PvP combat, with a few exceptions."
 
 [enum_4235]
 inputtype=int
@@ -56706,4 +56588,465 @@ val=wristbands_of_the_arena_i_26727,wristbands_of_the_arena_26723
 val=wristbands_of_the_arena_il_26728,wristbands_of_the_arena_l_26724
 val=wristbands_of_the_arena_ic_26729,wristbands_of_the_arena_c_26725
 val=wristbands_of_the_arena_ilc_26730,wristbands_of_the_arena_cl_26726
+
+[enum_4239]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hat_of_the_eye_26850
+val=1,robe_top_of_the_eye_26852
+val=2,robe_bottoms_of_the_eye_26854
+val=3,boots_of_the_eye_26856
+
+[enum_4240]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hat_of_the_eye_red_26858
+val=1,robe_top_of_the_eye_red_26860
+val=2,robe_bottoms_of_the_eye_red_26862
+val=3,boots_of_the_eye_26856
+
+[enum_4241]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hat_of_the_eye_green_26864
+val=1,robe_top_of_the_eye_green_26866
+val=2,robe_bottoms_of_the_eye_green_26868
+val=3,boots_of_the_eye_26856
+
+[enum_4242]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,hat_of_the_eye_blue_26870
+val=1,robe_top_of_the_eye_blue_26872
+val=2,robe_bottoms_of_the_eye_blue_26874
+val=3,boots_of_the_eye_26856
+
+[enum_4244]
+inputtype=int
+outputtype=string
+default=Recommended Combat
+val=0,Classic
+val=9,Free/Members
+val=10,Type
+val=2,Status
+val=3,Difficulty
+val=4,Length
+val=5,Storyline
+val=6,Start Location
+val=7,Recommended Combat
+val=8,Release Date
+val=1,Alphabetically
+
+[enum_4245]
+inputtype=int
+outputtype=string
+default=Show as unavailable
+val=0,Show as normal
+val=1,Show as unavailable
+val=2,Hide
+
+[enum_4246]
+inputtype=int
+outputtype=string
+default=Large
+val=0,Small
+val=1,Large
+
+[enum_4254]
+inputtype=int
+outputtype=string
+default=
+val=1,North
+val=2,East
+val=3,South East
+val=4,South West
+val=5,South
+
+[enum_4270]
+inputtype=int
+outputtype=graphic
+default="graphic_4370"
+val=1,"graphic_4353"
+val=2,"graphic_4355"
+val=3,"graphic_4356"
+val=4,"graphic_4357"
+
+[enum_4271]
+inputtype=int
+outputtype=graphic
+default="graphic_4369"
+val=1,"graphic_4354"
+val=2,"graphic_4358"
+val=3,"graphic_4359"
+val=4,"graphic_4360"
+val=5,"graphic_4361"
+val=6,"graphic_4362"
+val=7,"graphic_4363"
+val=8,"graphic_4364"
+
+[enum_4285]
+inputtype=int
+outputtype=struct
+default=null
+val=0,black_knights_fortress_299
+val=1,cooks_assistant_300
+val=2,the_corsair_curse_301
+val=3,demon_slayer_302
+val=4,dorics_quest_3138
+val=5,dragon_slayer_i_3139
+val=6,ernest_the_chicken_305
+val=7,goblin_diplomacy_306
+val=8,imp_catcher_307
+val=9,the_knights_sword_308
+val=10,misthalin_mystery_309
+val=11,pirates_treasure_310
+val=12,prince_ali_rescue_311
+val=13,the_restless_ghost_312
+val=14,romeo_juliet_313
+val=15,rune_mysteries_314
+val=16,sheep_shearer_315
+val=17,shield_of_arrav_316
+val=18,vampyre_slayer_1278
+val=19,witchs_potion_318
+val=20,x_marks_the_spot_3155
+val=21,below_ice_mountain_2874
+val=22,animal_magnetism_331
+val=23,another_slice_of_h_a_m_332
+val=24,between_a_rock_333
+val=25,big_chompy_bird_hunting_334
+val=26,biohazard_335
+val=27,cabin_fever_336
+val=28,clock_tower_337
+val=29,cold_war_338
+val=30,contact_339
+val=31,creature_of_fenkenstrain_340
+val=32,darkness_of_hallowvale_341
+val=33,death_plateau_342
+val=34,death_to_the_dorgeshuun_343
+val=35,the_depths_of_despair_344
+val=36,desert_treasure_345
+val=37,devious_minds_346
+val=38,the_dig_site_347
+val=39,dragon_slayer_ii_348
+val=40,dream_mentor_349
+val=41,druidic_ritual_350
+val=42,dwarf_cannon_351
+val=43,eadgars_ruse_352
+val=44,eagles_peak_353
+val=45,elemental_workshop_i_354
+val=46,elemental_workshop_ii_355
+val=47,enakhras_lament_356
+val=48,enlightened_journey_357
+val=49,the_eyes_of_glouphrie_358
+val=50,fairytale_i_growing_pains_359
+val=51,fairytale_ii_cure_a_queen_360
+val=52,family_crest_361
+val=53,the_feud_362
+val=54,fight_arena_363
+val=55,fishing_contest_364
+val=56,forgettable_tale_365
+val=57,bone_voyage_3135
+val=58,the_fremennik_isles_367
+val=59,the_fremennik_trials_368
+val=60,garden_of_tranquillity_369
+val=61,gertrudes_cat_370
+val=62,ghosts_ahoy_371
+val=63,the_giant_dwarf_372
+val=64,the_golem_373
+val=65,the_grand_tree_374
+val=66,the_great_brain_robbery_375
+val=67,grim_tales_376
+val=68,the_hand_in_the_sand_377
+val=69,haunted_mine_378
+val=70,hazeel_cult_379
+val=71,heroes_quest_3142
+val=72,holy_grail_381
+val=73,horror_from_the_deep_382
+val=74,icthlarins_little_helper_383
+val=75,in_aid_of_the_myreque_384
+val=76,in_search_of_the_myreque_385
+val=77,jungle_potion_386
+val=78,kings_ransom_387
+val=79,legends_quest_3145
+val=80,lost_city_389
+val=81,the_lost_tribe_390
+val=82,lunar_diplomacy_391
+val=83,making_friends_with_my_arm_392
+val=84,making_history_393
+val=85,merlins_crystal_394
+val=86,monkey_madness_i_395
+val=87,monkey_madness_ii_396
+val=88,monks_friend_397
+val=89,mountain_daughter_398
+val=90,mournings_end_part_i_3147
+val=91,mournings_end_part_ii_3148
+val=92,murder_mystery_401
+val=93,my_arms_big_adventure_402
+val=94,nature_spirit_403
+val=95,observatory_quest_3149
+val=96,olafs_quest_3150
+val=97,one_small_favour_406
+val=98,plague_city_407
+val=99,priest_in_peril_408
+val=100,the_queen_of_thieves_409
+val=101,rag_and_bone_man_i_3152
+val=102,rag_and_bone_man_ii_411
+val=103,ratcatchers_412
+val=104,recipe_for_disaster_413
+val=105,recruitment_drive_414
+val=106,regicide_415
+val=107,roving_elves_416
+val=108,royal_trouble_417
+val=109,rum_deal_418
+val=110,scorpion_catcher_419
+val=111,sea_slug_420
+val=112,shades_of_mortton_421
+val=113,shadow_of_the_storm_422
+val=114,sheep_herder_423
+val=115,shilo_village_424
+val=116,the_slug_menace_425
+val=117,a_souls_bane_426
+val=118,spirits_of_the_elid_427
+val=119,swan_song_428
+val=120,tai_bwo_wannai_trio_429
+val=121,a_tail_of_two_cats_430
+val=122,tale_of_the_righteous_431
+val=123,a_taste_of_hope_432
+val=124,tears_of_guthix_433
+val=125,temple_of_ikov_434
+val=126,throne_of_miscellania_435
+val=127,the_tourist_trap_436
+val=128,tower_of_life_437
+val=129,tree_gnome_village_438
+val=130,tribal_totem_439
+val=131,troll_romance_440
+val=132,troll_stronghold_441
+val=133,underground_pass_442
+val=134,client_of_kourend_3136
+val=135,wanted_444
+val=136,watchtower_445
+val=137,waterfall_quest_3154
+val=138,what_lies_below_447
+val=139,witchs_house_448
+val=140,zogre_flesh_eaters_449
+val=141,the_ascent_of_arceuus_542
+val=142,the_forsaken_tower_543
+val=143,song_of_the_elves_603
+val=144,the_fremennik_exiles_3141
+val=145,sins_of_the_father_1276
+val=146,a_porcine_of_interest_3151
+val=147,getting_ahead_752
+val=148,a_kingdom_divided_2971
+val=149,a_night_at_the_theatre_949
+val=150,land_of_the_goblins_4135
+val=151,enter_the_abyss_3140
+val=152,architectural_alliance_320
+val=153,bear_your_soul_1275
+val=154,alfred_grimhands_barcrawl_322
+val=155,curse_of_the_empty_lord_3137
+val=156,the_enchanted_key_324
+val=157,the_generals_shadow_325
+val=158,skippy_and_the_mogres_3153
+val=159,mage_arena_i_3146
+val=160,lair_of_tarn_razorlor_3144
+val=161,family_pest_329
+val=162,mage_arena_ii_330
+val=163,in_search_of_knowledge_3143
+val=164,daddys_home_1688
+val=165,the_frozen_door_3768
+val=166,hopespears_will_4136
+val=167,temple_of_the_eye_4273
+
+[enum_4286]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,10
+val=inv_800,10
+val=inv_801,10
+val=inv_802,10
+val=inv_803,10
+val=inv_804,10
+val=inv_805,10
+val=inv_806,10
+
+[enum_4287]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,10
+val=inv_800,10
+val=inv_801,10
+val=inv_802,10
+val=inv_803,10
+val=inv_804,10
+val=inv_805,10
+val=inv_806,10
+
+[enum_4288]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,10
+val=inv_800,10
+val=inv_801,10
+val=inv_802,10
+val=inv_803,10
+val=inv_804,10
+val=inv_805,10
+val=inv_806,10
+
+[enum_4289]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,10
+val=inv_800,10
+val=inv_801,10
+val=inv_802,10
+val=inv_803,10
+val=inv_804,10
+val=inv_805,10
+val=inv_806,10
+
+[enum_4290]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,10
+val=inv_800,10
+val=inv_801,10
+val=inv_802,10
+val=inv_803,10
+val=inv_804,10
+val=inv_805,10
+val=inv_806,10
+
+[enum_4291]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,10
+val=inv_800,10
+val=inv_801,10
+val=inv_802,10
+val=inv_803,10
+val=inv_804,10
+val=inv_805,10
+val=inv_806,10
+
+[enum_4292]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,30
+val=inv_800,30
+val=inv_801,30
+val=inv_802,30
+val=inv_803,30
+val=inv_804,30
+val=inv_805,30
+val=inv_806,30
+
+[enum_4293]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,30
+val=inv_800,30
+val=inv_801,30
+val=inv_802,30
+val=inv_803,30
+val=inv_804,30
+val=inv_805,30
+val=inv_806,30
+
+[enum_4294]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,50
+val=inv_800,50
+val=inv_801,50
+val=inv_802,50
+val=inv_803,50
+val=inv_804,50
+val=inv_805,50
+val=inv_806,50
+
+[enum_4295]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,50
+val=inv_800,50
+val=inv_801,50
+val=inv_802,50
+val=inv_803,50
+val=inv_804,50
+val=inv_805,50
+val=inv_806,50
+
+[enum_4296]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,80
+val=inv_800,80
+val=inv_801,80
+val=inv_802,80
+val=inv_803,80
+val=inv_804,80
+val=inv_805,80
+val=inv_806,80
+
+[enum_4297]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,100
+val=inv_800,100
+val=inv_801,100
+val=inv_802,100
+val=inv_803,100
+val=inv_804,100
+val=inv_805,100
+val=inv_806,100
+
+[enum_4298]
+inputtype=inv
+outputtype=int
+default=null
+val=inv_799,400
+val=inv_800,400
+val=inv_801,400
+val=inv_802,400
+val=inv_803,400
+val=inv_804,400
+val=inv_805,400
+val=inv_806,400
+
+[enum_4300]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,abyssal_protector_26901
+val=1,abyssal_pearls_26792
+val=2,catalytic_talisman_26798
+val=3,abyssal_needle_26813
+val=4,abyssal_green_dye_26807
+val=5,abyssal_blue_dye_26809
+val=6,abyssal_red_dye_26811
+val=7,hat_of_the_eye_26850
+val=8,robe_top_of_the_eye_26852
+val=9,robe_bottoms_of_the_eye_26854
+val=10,boots_of_the_eye_26856
+val=11,ring_of_the_elements_26815
+val=12,abyssal_lantern_26822
+val=13,guardians_eye_26820
+val=14,intricate_pouch_26908
 

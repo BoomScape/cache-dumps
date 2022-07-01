@@ -124,8 +124,8 @@ layer=interface_134:7
 
 [interface_134:14]
 type=^iftype_layer
-x=16
-width=100
+x=15
+width=99
 height=35
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom

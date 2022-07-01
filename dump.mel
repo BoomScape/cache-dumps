@@ -4980,3 +4980,8 @@ graphic="mapfunction,6"
 vis=^mapelement_vis_both
 category=1056
 
+[mapelement_854]
+graphic="mapfunction,6"
+vis=^mapelement_vis_both
+category=1056
+

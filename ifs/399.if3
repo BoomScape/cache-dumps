@@ -4,33 +4,37 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
+onload="script1350(26148866,26148868,26148870,26148869,26148874,26148873,26148871,26148875)"
 
 [interface_399:1]
 type=^iftype_text
-x=3
-width=3
+width=6
 height=20
+hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_399:0
+text="Quest List"
 colour=0xff981f
 font=b12_full
+halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
 [interface_399:2]
 type=^iftype_layer
-height=20
-vposmode=^setpos_abs_bottom
+y=20
+height=55
+hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_399:0
-onload="script1350(event_com,26148869,26148868,26148865,26148870,26148871,26148872)"
 
 [interface_399:3]
 type=^iftype_rectangle
 width=2
 height=2
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_399:2
@@ -39,42 +43,80 @@ trans=212
 
 [interface_399:4]
 type=^iftype_layer
-x=6
-width=16
+width=12
 height=12
-hposmode=^setpos_abs_right
+hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_399:2
 
 [interface_399:5]
 type=^iftype_layer
-x=9
-width=31
-height=12
+width=16
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_399:2
+layer=interface_399:4
 
 [interface_399:6]
 type=^iftype_layer
-height=30
-hposmode=^setpos_abs_centre
+x=3
+width=22
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_399:5
+vsizemode=^setsize_minus
+layer=interface_399:4
 
 [interface_399:7]
 type=^iftype_layer
 height=30
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_399:5
+layer=interface_399:6
 
 [interface_399:8]
 type=^iftype_layer
-height=30
+height=32
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_399:5
+layer=interface_399:0
+
+[interface_399:9]
+type=^iftype_text
+x=3
+y=1
+width=136
+height=15
+layer=interface_399:8
+text="Completed: "
+colour=0xff981f
+font=p11_full
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_399:10]
+type=^iftype_text
+x=3
+width=136
+height=15
+vposmode=^setpos_abs_bottom
+layer=interface_399:8
+text="Quest Points: "
+colour=0xff981f
+font=p11_full
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_399:11]
+type=^iftype_layer
+width=48
+height=2
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
+layer=interface_399:8
+optionmask=2
+op1="Settings"
 
