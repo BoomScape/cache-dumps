@@ -50079,8 +50079,7 @@ recol3s=7952
 recol3d=-4189
 recol4s=4550
 recol4d=4564
-op1=Talk-to
-op3=Pickpocket
+op1=Pickpocket
 vislevel=0
 
 [h_a_m_member_2541]
@@ -50110,8 +50109,7 @@ recol3s=7952
 recol3d=-4189
 recol4s=4550
 recol4d=4564
-op1=Talk-to
-op3=Pickpocket
+op1=Pickpocket
 vislevel=0
 
 [h_a_m_member_2542]
@@ -93826,9 +93824,9 @@ recol5s=4550
 recol5d=6730
 recol6s=7073
 recol6d=8082
-op1=Talk-to
+op1=Pickpocket
 op2=Attack
-op3=Pickpocket
+op3=Talk-to
 vislevel=22
 
 [guard_4523]
@@ -93864,9 +93862,9 @@ recol5s=4550
 recol5d=6730
 recol6s=7073
 recol6d=8082
-op1=Talk-to
+op1=Pickpocket
 op2=Attack
-op3=Pickpocket
+op3=Talk-to
 vislevel=22
 
 [guard_4524]
@@ -93902,9 +93900,9 @@ recol5s=4550
 recol5d=6730
 recol6s=7073
 recol6d=8082
-op1=Talk-to
+op1=Pickpocket
 op2=Attack
-op3=Pickpocket
+op3=Talk-to
 vislevel=22
 
 [guard_4525]
@@ -93940,9 +93938,9 @@ recol5s=4550
 recol5d=6730
 recol6s=7073
 recol6d=8082
-op1=Talk-to
+op1=Pickpocket
 op2=Attack
-op3=Pickpocket
+op3=Talk-to
 vislevel=22
 
 [guard_4526]
@@ -93978,9 +93976,9 @@ recol5s=4550
 recol5d=6730
 recol6s=7073
 recol6d=8082
-op1=Talk-to
+op1=Pickpocket
 op2=Attack
-op3=Pickpocket
+op3=Talk-to
 vislevel=22
 
 [chadwell_4527]
@@ -119257,10 +119255,10 @@ op3=Trade
 vislevel=0
 drawpriority=yes
 
-[impling_5735]
-name=Impling
-model1=impling_26374
-head1=impling_26278
+[immenizz_5735]
+name=Immenizz
+model1=immenizz_26374
+head1=immenizz_26278
 readyanim=baby_impling_ready_6613
 walkanim=baby_impling_walk_6614
 op1=Talk-to
@@ -119279,8 +119277,8 @@ drawpriority=yes
 
 [wandering_impling_5737]
 name=Wandering impling
-model1=impling_26374
-head1=impling_26278
+model1=immenizz_26374
+head1=immenizz_26278
 readyanim=baby_impling_ready_6613
 walkanim=baby_impling_walk_6614
 op1=Talk-to
