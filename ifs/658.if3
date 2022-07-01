@@ -10,14 +10,14 @@ height=314
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_658:0
-onload="script232(event_com,43122697,43122694,43122696,43122698,43122699,43122693,43122702,43122703,43122704,43122705)"
+onload="script232(event_com,43122698,43122694,43122696,43122699,43122700,43122693,43122703,43122704,43122705,43122706,43122697)"
 
 [interface_658:2]
 type=^iftype_layer
 width=480
 height=314
 layer=interface_658:1
-onload="script227(event_com,League Reward Shop)"
+onload="script227(event_com,Leagues Reward Shop)"
 
 [interface_658:3]
 type=^iftype_layer
@@ -69,45 +69,55 @@ tiling=yes
 
 [interface_658:8]
 type=^iftype_layer
-x=1
-y=1
-width=2
-height=2
+x=2
+y=2
+width=20
+height=4
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_658:6
 
 [interface_658:9]
+type=^iftype_layer
+x=2
+y=2
+width=16
+height=4
+hposmode=^setpos_abs_right
+vsizemode=^setsize_minus
+layer=interface_658:6
+
+[interface_658:10]
 type=^iftype_text
 x=30
-y=6
+y=4
 width=180
-height=34
+height=36
 vposmode=^setpos_abs_bottom
 layer=interface_658:4
 colour=0xff891f
-font=b12_full
+font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_658:10]
+[interface_658:11]
 type=^iftype_layer
 x=30
 y=6
-width=150
+width=160
 height=34
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_658:4
 
-[interface_658:11]
-type=^iftype_layer
-width=150
-height=34
-layer=interface_658:10
-
 [interface_658:12]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_658:11
+
+[interface_658:13]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -115,7 +125,7 @@ layer=interface_658:5
 fill=yes
 trans=128
 
-[interface_658:13]
+[interface_658:14]
 type=^iftype_layer
 width=400
 height=200
@@ -123,45 +133,46 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_658:5
 
-[interface_658:14]
+[interface_658:15]
 type=^iftype_layer
-width=400
-height=200
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_658:13
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_658:14
 
-[interface_658:15]
+[interface_658:16]
 type=^iftype_text
+x=-4
 y=40
-width=20
-height=115
+width=32
+height=112
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_658:13
+layer=interface_658:14
 colour=0xff981f
 font=p12_full
 paraheight=15
 shadowed=yes
 
-[interface_658:16]
+[interface_658:17]
 type=^iftype_layer
-x=60
-y=10
+x=56
+y=12
 width=125
-height=25
+height=30
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-layer=interface_658:13
+layer=interface_658:14
 optionmask=2
 op1="*"
 
-[interface_658:17]
+[interface_658:18]
 type=^iftype_layer
-x=60
-y=10
+x=56
+y=12
 width=125
-height=25
+height=30
 vposmode=^setpos_abs_bottom
-layer=interface_658:13
+layer=interface_658:14
 

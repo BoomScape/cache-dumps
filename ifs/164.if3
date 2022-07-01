@@ -54,16 +54,14 @@ layer=interface_164:2
 
 [interface_164:7]
 type=^iftype_layer
-y=10
-width=178
-height=100
 hposmode=^setpos_abs_centre
-layer=interface_164:2
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_164:6
 
 [interface_164:8]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_164:6
@@ -76,9 +74,11 @@ layer=interface_164:6
 
 [interface_164:10]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_164:6
+y=10
+width=178
+height=100
+hposmode=^setpos_abs_centre
+layer=interface_164:2
 
 [interface_164:11]
 type=^iftype_layer

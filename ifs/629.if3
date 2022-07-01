@@ -300,7 +300,7 @@ height=18
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_629:28
-graphic="achievement_diary_icons,5"
+graphic="achievement_diary_icons,8"
 
 [interface_629:33]
 type=^iftype_layer

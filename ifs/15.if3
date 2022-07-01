@@ -2,7 +2,7 @@
 type=^iftype_layer
 width=190
 height=261
-onload="script294(event_com,983041,983042,983043,983044,983045,983052,983049)"
+onload="script294(event_com,983041,983042,983043,983044,983045,983053,983050,983046,983059,983056)"
 
 [interface_15:1]
 type=^iftype_layer
@@ -45,13 +45,20 @@ layer=interface_15:0
 
 [interface_15:6]
 type=^iftype_layer
+width=190
+height=261
+hide=yes
+layer=interface_15:0
+
+[interface_15:7]
+type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_15:0
 noclickthrough=yes
 
-[interface_15:7]
+[interface_15:8]
 type=^iftype_graphic
 x=9
 width=29
@@ -64,7 +71,7 @@ onmouseover="script273(event_com,100)"
 onmouseleave="script273(event_com,0)"
 onop="script489(event_opindex,-1)"
 
-[interface_15:8]
+[interface_15:9]
 type=^iftype_text
 width=190
 height=22
@@ -76,7 +83,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_15:9]
+[interface_15:10]
 type=^iftype_graphic
 x=3
 y=3
@@ -90,7 +97,7 @@ op1="Dismiss"
 onmouseover="script44(event_com,832)"
 onmouseleave="script44(event_com,831)"
 
-[interface_15:10]
+[interface_15:11]
 type=^iftype_layer
 y=22
 width=172
@@ -99,7 +106,7 @@ hposmode=^setpos_abs_centre
 layer=interface_15:5
 onload="script1191(event_com)"
 
-[interface_15:11]
+[interface_15:12]
 type=^iftype_graphic
 width=2
 height=2
@@ -107,11 +114,11 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_15:10
+layer=interface_15:11
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_15:12]
+[interface_15:13]
 type=^iftype_layer
 width=4
 height=4
@@ -119,5 +126,75 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_15:10
+layer=interface_15:11
+
+[interface_15:14]
+type=^iftype_graphic
+x=9
+width=29
+height=22
+layer=interface_15:6
+graphic="bankbuttons,9"
+optionmask=2
+op1="Deposit loot"
+onmouseover="script273(event_com,100)"
+onmouseleave="script273(event_com,0)"
+onop="script489(event_opindex,-1)"
+
+[interface_15:15]
+type=^iftype_text
+width=190
+height=22
+layer=interface_15:6
+text="Bank your loot"
+colour=0xff981f
+font=b12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+
+[interface_15:16]
+type=^iftype_graphic
+x=3
+y=3
+width=16
+height=16
+hposmode=^setpos_abs_right
+layer=interface_15:6
+graphic="v2_stone_close_button,0"
+optionmask=2
+op1="Dismiss"
+onmouseover="script44(event_com,832)"
+onmouseleave="script44(event_com,831)"
+
+[interface_15:17]
+type=^iftype_layer
+y=22
+width=172
+height=234
+hposmode=^setpos_abs_centre
+layer=interface_15:6
+onload="script1191(event_com)"
+
+[interface_15:18]
+type=^iftype_graphic
+width=2
+height=2
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_15:17
+graphic="tradebacking_light"
+tiling=yes
+
+[interface_15:19]
+type=^iftype_layer
+width=4
+height=4
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_15:17
 

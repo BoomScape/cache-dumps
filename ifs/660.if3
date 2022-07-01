@@ -30,6 +30,7 @@ onload="script712(event_com,1)"
 
 [interface_660:4]
 type=^iftype_text
+width=10
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -72,6 +73,7 @@ onload="script714(event_com)"
 
 [interface_660:8]
 type=^iftype_text
+width=10
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus

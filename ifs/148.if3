@@ -10,7 +10,7 @@ type=^iftype_layer
 width=400
 height=300
 layer=interface_148:0
-onload="script227(event_com,Pet insurance)"
+onload="script227(event_com,Pet Insurance)"
 
 [interface_148:2]
 type=^iftype_layer

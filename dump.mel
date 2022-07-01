@@ -1297,8 +1297,8 @@ category=1129
 
 [mapelement_223]
 text=Fremennik<br>Province
-colour=^white
-size=1
+colour=0xff981f
+size=2
 mapfunction=no
 category=1129
 

@@ -73,6 +73,11 @@ vposmode=^setpos_abs_bottom
 layer=interface_664:1
 
 [interface_664:9]
+type=^iftype_rectangle
+layer=interface_664:8
+colour=^white
+
+[interface_664:10]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -81,30 +86,30 @@ vsizemode=^setsize_minus
 layer=interface_664:8
 graphic="tradebacking_light"
 
-[interface_664:10]
+[interface_664:11]
 type=^iftype_graphic
 width=9
 height=9
 layer=interface_664:7
 graphic="highlight_border,0"
-
-[interface_664:11]
-type=^iftype_graphic
-width=9
-height=9
-hposmode=^setpos_abs_right
-layer=interface_664:7
-graphic="highlight_border,1"
 
 [interface_664:12]
 type=^iftype_graphic
 width=9
 height=9
+hposmode=^setpos_abs_right
+layer=interface_664:7
+graphic="highlight_border,1"
+
+[interface_664:13]
+type=^iftype_graphic
+width=9
+height=9
 vposmode=^setpos_abs_bottom
 layer=interface_664:7
 graphic="highlight_border,2"
 
-[interface_664:13]
+[interface_664:14]
 type=^iftype_graphic
 width=9
 height=9
@@ -113,7 +118,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_664:7
 graphic="highlight_border,3"
 
-[interface_664:14]
+[interface_664:15]
 type=^iftype_graphic
 width=9
 height=18
@@ -122,7 +127,7 @@ vsizemode=^setsize_minus
 layer=interface_664:7
 graphic="highlight_border,4"
 
-[interface_664:15]
+[interface_664:16]
 type=^iftype_graphic
 width=18
 height=9
@@ -131,7 +136,7 @@ hsizemode=^setsize_minus
 layer=interface_664:7
 graphic="highlight_border,5"
 
-[interface_664:16]
+[interface_664:17]
 type=^iftype_graphic
 width=9
 height=18
@@ -141,7 +146,7 @@ vsizemode=^setsize_minus
 layer=interface_664:7
 graphic="highlight_border,6"
 
-[interface_664:17]
+[interface_664:18]
 type=^iftype_graphic
 width=18
 height=9
@@ -151,14 +156,14 @@ hsizemode=^setsize_minus
 layer=interface_664:7
 graphic="highlight_border,7"
 
-[interface_664:18]
+[interface_664:19]
 type=^iftype_graphic
 width=9
 height=9
 layer=interface_664:8
 graphic="highlight_border,0"
 
-[interface_664:19]
+[interface_664:20]
 type=^iftype_graphic
 width=9
 height=9
@@ -166,7 +171,7 @@ hposmode=^setpos_abs_right
 layer=interface_664:8
 graphic="highlight_border,1"
 
-[interface_664:20]
+[interface_664:21]
 type=^iftype_graphic
 width=9
 height=9
@@ -174,7 +179,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_664:8
 graphic="highlight_border,2"
 
-[interface_664:21]
+[interface_664:22]
 type=^iftype_graphic
 width=9
 height=9
@@ -183,7 +188,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_664:8
 graphic="highlight_border,3"
 
-[interface_664:22]
+[interface_664:23]
 type=^iftype_graphic
 width=9
 height=18
@@ -192,7 +197,7 @@ vsizemode=^setsize_minus
 layer=interface_664:8
 graphic="highlight_border,4"
 
-[interface_664:23]
+[interface_664:24]
 type=^iftype_graphic
 width=18
 height=9
@@ -201,7 +206,7 @@ hsizemode=^setsize_minus
 layer=interface_664:8
 graphic="highlight_border,5"
 
-[interface_664:24]
+[interface_664:25]
 type=^iftype_graphic
 width=9
 height=18
@@ -211,7 +216,7 @@ vsizemode=^setsize_minus
 layer=interface_664:8
 graphic="highlight_border,6"
 
-[interface_664:25]
+[interface_664:26]
 type=^iftype_graphic
 width=18
 height=9
@@ -221,11 +226,11 @@ hsizemode=^setsize_minus
 layer=interface_664:8
 graphic="highlight_border,7"
 
-[interface_664:26]
+[interface_664:27]
 type=^iftype_text
 y=34
 width=22
-height=72
+height=73
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
@@ -238,7 +243,7 @@ valign=^settextalign_centre
 paraheight=16
 shadowed=yes
 
-[interface_664:27]
+[interface_664:28]
 type=^iftype_text
 x=9
 y=9
@@ -254,7 +259,7 @@ valign=^settextalign_centre
 paraheight=15
 shadowed=yes
 
-[interface_664:28]
+[interface_664:29]
 type=^iftype_layer
 x=3
 y=6
@@ -262,10 +267,9 @@ width=26
 height=23
 hposmode=^setpos_abs_right
 layer=interface_664:8
-optionmask=1
 onload="script3417(event_com)"
 
-[interface_664:29]
+[interface_664:30]
 type=^iftype_layer
 y=5
 width=10
@@ -275,18 +279,18 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_664:8
 
-[interface_664:30]
+[interface_664:31]
 type=^iftype_layer
 width=8192
 hposmode=^setpos_abs_right
 hsizemode=^setsize_proportion
 vsizemode=^setsize_minus
-layer=interface_664:29
+layer=interface_664:30
 
-[interface_664:31]
+[interface_664:32]
 type=^iftype_layer
 width=8192
 hsizemode=^setsize_proportion
 vsizemode=^setsize_minus
-layer=interface_664:29
+layer=interface_664:30
 
