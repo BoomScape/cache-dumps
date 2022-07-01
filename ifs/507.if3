@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1516(33226754,33226763,33226764,33226765,33226769,33226773,33226774,33226759,33226760,33226761,33226762,33226784,33226782,33226783,33226785,33226786)"
+onload="script1516(33226754,33226763,33226764,33226765,33226769,33226773,33226774,33226775,33226759,33226760,33226761,33226762,33226785,33226783,33226784,33226786,33226787)"
 
 [interface_507:1]
 type=^iftype_layer
@@ -213,6 +213,14 @@ hposmode=^setpos_abs_right
 layer=interface_507:3
 
 [interface_507:23]
+type=^iftype_layer
+y=88
+width=222
+height=20
+hposmode=^setpos_abs_right
+layer=interface_507:3
+
+[interface_507:24]
 type=^iftype_graphic
 width=8
 height=20
@@ -223,7 +231,7 @@ layer=interface_507:21
 graphic="graphic_1124"
 tiling=yes
 
-[interface_507:24]
+[interface_507:25]
 type=^iftype_graphic
 width=4
 height=20
@@ -232,7 +240,7 @@ layer=interface_507:21
 graphic="graphic_1123"
 tiling=yes
 
-[interface_507:25]
+[interface_507:26]
 type=^iftype_graphic
 width=4
 height=20
@@ -242,19 +250,19 @@ layer=interface_507:21
 graphic="graphic_1125"
 tiling=yes
 
-[interface_507:26]
+[interface_507:27]
 type=^iftype_model
-y=88
+x=222
+y=109
 width=222
-height=120
-hposmode=^setpos_abs_right
+height=99
 layer=interface_507:3
 model=glowing_carving_32506
 originy=200
 yan=1536
-zoom=1508
+zoom=2158
 
-[interface_507:27]
+[interface_507:28]
 type=^iftype_layer
 y=97
 width=30
@@ -263,7 +271,7 @@ hposmode=^setpos_abs_right
 hide=yes
 layer=interface_507:3
 
-[interface_507:28]
+[interface_507:29]
 type=^iftype_layer
 y=66
 width=222
@@ -272,31 +280,19 @@ hposmode=^setpos_abs_right
 hide=yes
 layer=interface_507:3
 
-[interface_507:29]
+[interface_507:30]
 type=^iftype_graphic
 width=2
-height=2
 hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_507:28
+layer=interface_507:29
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_507:30]
-type=^iftype_layer
-x=112
-y=31
-width=110
-height=29
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
-hide=yes
-layer=interface_507:3
-
 [interface_507:31]
 type=^iftype_layer
+x=112
 y=31
 width=110
 height=29
@@ -308,7 +304,7 @@ layer=interface_507:3
 [interface_507:32]
 type=^iftype_layer
 y=31
-width=222
+width=110
 height=29
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
@@ -316,6 +312,16 @@ hide=yes
 layer=interface_507:3
 
 [interface_507:33]
+type=^iftype_layer
+y=31
+width=222
+height=29
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+hide=yes
+layer=interface_507:3
+
+[interface_507:34]
 type=^iftype_layer
 x=112
 width=110
@@ -325,7 +331,7 @@ vposmode=^setpos_abs_bottom
 hide=yes
 layer=interface_507:3
 
-[interface_507:34]
+[interface_507:35]
 type=^iftype_layer
 width=110
 height=29
@@ -334,13 +340,13 @@ vposmode=^setpos_abs_bottom
 hide=yes
 layer=interface_507:3
 
-[interface_507:35]
+[interface_507:36]
 type=^iftype_layer
 width=1
 height=1
 layer=interface_507:0
 
-[interface_507:36]
+[interface_507:37]
 type=^iftype_graphic
 width=8
 height=20
@@ -351,7 +357,7 @@ layer=interface_507:22
 graphic="graphic_1124"
 tiling=yes
 
-[interface_507:37]
+[interface_507:38]
 type=^iftype_graphic
 width=4
 height=20
@@ -360,7 +366,7 @@ layer=interface_507:22
 graphic="graphic_1123"
 tiling=yes
 
-[interface_507:38]
+[interface_507:39]
 type=^iftype_graphic
 width=4
 height=20
@@ -370,12 +376,51 @@ layer=interface_507:22
 graphic="graphic_1125"
 tiling=yes
 
-[interface_507:39]
+[interface_507:40]
 type=^iftype_graphic
 x=10
 y=2
 width=16
 height=16
 layer=interface_507:22
+graphic="checkbox,0"
+
+[interface_507:41]
+type=^iftype_graphic
+width=8
+height=20
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_507:23
+graphic="graphic_1124"
+tiling=yes
+
+[interface_507:42]
+type=^iftype_graphic
+width=4
+height=20
+vposmode=^setpos_abs_centre
+layer=interface_507:23
+graphic="graphic_1123"
+tiling=yes
+
+[interface_507:43]
+type=^iftype_graphic
+width=4
+height=20
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_507:23
+graphic="graphic_1125"
+tiling=yes
+
+[interface_507:44]
+type=^iftype_graphic
+x=10
+y=2
+width=16
+height=16
+layer=interface_507:23
 graphic="checkbox,0"
 

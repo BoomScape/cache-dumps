@@ -275,7 +275,7 @@ width=154
 height=22
 hposmode=^setpos_abs_centre
 layer=interface_65:30
-text="Premier Club!"
+text="Premier Club"
 colour=0xff981f
 font=q8_full
 halign=^settextalign_centre
@@ -288,6 +288,7 @@ y=1
 width=15
 height=15
 hposmode=^setpos_abs_centre
+hide=yes
 layer=interface_65:30
 graphic="mapfunction_infoicon"
 

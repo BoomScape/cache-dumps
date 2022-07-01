@@ -113051,6 +113051,9 @@ placeholder=yes
 
 [obj_9628]
 model=model_17343
+2dzoom=4442
+2dxof=-22
+2dyof=-49
 
 [tyras_helm_9629]
 name=Tyras helm
@@ -113943,7 +113946,7 @@ placeholder=yes
 
 [obj_9700]
 model=model_18398
-2dzoom=1000
+2dzoom=8295
 2dxof=-1
 2dyof=-1
 2dxan=512
@@ -137597,18 +137600,24 @@ certificate=yes
 
 [obj_11658]
 model=model_27072
+2dzoom=5100
 
 [obj_11659]
 model=model_27073
+2dzoom=5100
 
 [obj_11660]
 model=model_27070
+2dzoom=5100
 
 [obj_11661]
 model=model_27071
+2dzoom=2300
 
 [obj_11662]
 model=model_27069
+2dzoom=4200
+2dyof=-10
 
 [void_mage_helm_11663]
 name=Void mage helm
@@ -210326,9 +210335,8 @@ iop1=Read
 iop5=Destroy
 members=yes
 
-[cyan_crystal_22366]
-name=Cyan crystal
-model=cyan_crystal_32502
+[dummy_dark_crystal_22366]
+model=dark_crystal_32502
 2dzoom=5200
 2dxof=-1
 2dyof=-24
@@ -214151,8 +214159,7 @@ iop1=Read
 iop5=Destroy
 members=yes
 
-[dark_altar_22778]
-name=Dark altar
+[dummy_dark_altar_22778]
 model=dark_altar_30837
 2dzoom=10000
 2dxof=-1
@@ -235670,6 +235677,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [blue_candy_24981]
 name=Blue candy
@@ -235687,6 +235695,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [white_candy_24982]
 name=White candy
@@ -235704,6 +235713,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [purple_candy_24983]
 name=Purple candy
@@ -235721,6 +235731,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [red_candy_24984]
 name=Red candy
@@ -235738,6 +235749,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [green_candy_24985]
 name=Green candy
@@ -235755,6 +235767,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [black_candy_24986]
 name=Black candy
@@ -235772,6 +235785,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [orange_candy_24987]
 name=Orange candy
@@ -235789,6 +235803,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [pink_candy_24988]
 name=Pink candy
@@ -235806,6 +235821,7 @@ resizex=90
 resizey=90
 resizez=90
 members=yes
+placeholder=yes
 
 [ricks_box_24989]
 name=Rick's box
@@ -235815,8 +235831,6 @@ model=casket_2450
 2dyof=-6
 2dxan=164
 2dyan=1592
-iop1=Unlock
-iop5=Destroy
 recol1s=7062
 recol1d=-29806
 
@@ -235828,8 +235842,6 @@ model=wizards_head_10713
 2dyof=97
 2dxan=268
 2dyan=264
-iop1=Inspect
-iop5=Destroy
 recol1s=8377
 recol1d=6558
 
@@ -235841,8 +235853,6 @@ model=asgarnian_ale_2491
 2dyof=2
 2dxan=140
 2dyan=1904
-iop1=Drink
-iop5=Destroy
 recol1s=7091
 recol1d=21817
 recol2s=7116
@@ -235858,8 +235868,6 @@ model=huge_spider_2884
 2dyof=-36
 2dxan=204
 2dyan=1823
-iop1=Eat
-iop5=Destroy
 recol1s=8128
 recol1d=2964
 recol2s=10258
@@ -235872,7 +235880,6 @@ model=scroll_32770
 2dxof=-3
 2dxan=364
 2dyan=1454
-iop5=Destroy
 recol1s=5563
 recol1d=5351
 resizex=96
@@ -237001,4 +237008,48 @@ recol1s=929
 recol1d=6976
 recol2s=22430
 recol2d=0
+
+[placeholder_brown_candy_25118]
+placeholder=yes
+
+[placeholder_blue_candy_25119]
+placeholder=yes
+
+[placeholder_white_candy_25120]
+placeholder=yes
+
+[placeholder_purple_candy_25121]
+placeholder=yes
+
+[placeholder_red_candy_25122]
+placeholder=yes
+
+[placeholder_green_candy_25123]
+placeholder=yes
+
+[placeholder_black_candy_25124]
+placeholder=yes
+
+[placeholder_orange_candy_25125]
+placeholder=yes
+
+[placeholder_pink_candy_25126]
+placeholder=yes
+
+[dummy_sewer_valve_25127]
+model=sewer_valve_1746
+2dzoom=2358
+2dxof=5
+2dyof=-8
+2dxan=67
+2dyan=835
+members=yes
+
+[obj_25128]
+model=model_5826
+2dzoom=930
+2dxof=-10
+2dyof=-5
+2dxan=383
+members=yes
 

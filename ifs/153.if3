@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script118(10027014)"
+onload="script118(10027014,10027024,10027025)"
 
 [interface_153:1]
 type=^iftype_layer
@@ -16,10 +16,11 @@ layer=interface_153:0
 
 [interface_153:2]
 type=^iftype_model
-x=240
-y=134
+y=-19
 width=32
 height=28
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 layer=interface_153:1
 model=model_3032
 xan=502
@@ -28,10 +29,10 @@ zoom=554
 
 [interface_153:3]
 type=^iftype_text
-x=157
-y=69
-width=220
+y=70
+width=162
 height=18
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Congratulations!"
 colour=0x321e25
@@ -40,33 +41,31 @@ halign=^settextalign_centre
 
 [interface_153:4]
 type=^iftype_text
-x=96
-y=91
-width=325
+y=92
+width=310
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
-text="You have completed Death Plateau!"
+text="You have completed a quest!"
 colour=0x37242b
 font=p12_full
 halign=^settextalign_centre
 
 [interface_153:5]
 type=^iftype_model
-x=72
-y=125
-width=85
-height=105
+x=78
+y=128
+width=80
+height=80
 layer=interface_153:1
-xan=11
-yan=1849
-zoom=1500
+zoom=200
 
 [interface_153:6]
 type=^iftype_text
-x=157
-y=245
-width=213
+y=246
+width=200
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Total Quest Points: 0"
 colour=0x321e25
@@ -75,10 +74,11 @@ halign=^settextalign_centre
 
 [interface_153:7]
 type=^iftype_model
-x=390
+x=96
 y=201
 width=32
 height=32
+hposmode=^setpos_abs_right
 layer=interface_153:1
 model=model_3037
 xan=500
@@ -86,10 +86,10 @@ zoom=800
 
 [interface_153:8]
 type=^iftype_text
-x=157
-y=115
-width=213
+y=116
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="You are awarded:"
 colour=0x321e25
@@ -98,10 +98,10 @@ halign=^settextalign_centre
 
 [interface_153:9]
 type=^iftype_text
-x=157
-y=132
-width=213
+y=133
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Line 1"
 colour=0x37242b
@@ -110,10 +110,10 @@ halign=^settextalign_centre
 
 [interface_153:10]
 type=^iftype_text
-x=157
-y=147
-width=213
+y=148
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Line 2"
 colour=0x37242b
@@ -122,10 +122,10 @@ halign=^settextalign_centre
 
 [interface_153:11]
 type=^iftype_text
-x=157
-y=162
-width=213
+y=163
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Line 3"
 colour=0x37242b
@@ -134,10 +134,10 @@ halign=^settextalign_centre
 
 [interface_153:12]
 type=^iftype_text
-x=157
-y=177
-width=213
+y=178
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Line 4"
 colour=0x37242b
@@ -146,10 +146,10 @@ halign=^settextalign_centre
 
 [interface_153:13]
 type=^iftype_text
-x=157
-y=192
-width=213
+y=193
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Line 5"
 colour=0x37242b
@@ -158,10 +158,10 @@ halign=^settextalign_centre
 
 [interface_153:14]
 type=^iftype_text
-x=157
-y=207
-width=213
+y=208
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Line 6"
 colour=0x37242b
@@ -170,10 +170,10 @@ halign=^settextalign_centre
 
 [interface_153:15]
 type=^iftype_text
-x=157
-y=222
-width=213
+y=223
+width=180
 height=14
+hposmode=^setpos_abs_centre
 layer=interface_153:1
 text="Line 7"
 colour=0x37242b
@@ -190,7 +190,6 @@ hposmode=^setpos_abs_right
 layer=interface_153:1
 optionmask=2
 op1="Close"
-onop="script29"
 
 [interface_153:17]
 type=^iftype_graphic
@@ -200,6 +199,4 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_153:16
 graphic="close_buttons,2"
-onmouseover="script2809(event_com,538)"
-onmouseleave="script2809(event_com,537)"
 
