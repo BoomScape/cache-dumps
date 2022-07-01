@@ -4085,3 +4085,23 @@ graphic="mapfunction,126"
 vis=^mapelement_vis_both
 category=1499
 
+[mapelement_681]
+text=Ruins of<br>Unkah
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_682]
+text=Sea Spirit<br>Dock
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_683]
+text=Tempoross<br>Cove
+colour=^white
+size=1
+mapfunction=no
+category=1129
+

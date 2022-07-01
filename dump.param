@@ -212,6 +212,10 @@ autodisable=no
 [param_445]
 autodisable=no
 
+[param_446]
+type=enum
+default=null
+
 [param_451]
 type=string
 default=
@@ -1667,4 +1671,7 @@ default=yes
 
 [param_1164]
 type=boolean
+
+[param_1172]
+autodisable=no
 

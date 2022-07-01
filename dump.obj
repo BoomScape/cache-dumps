@@ -116326,21 +116326,23 @@ recol6d=-22440
 members=yes
 placeholder=yes
 
-[dummy_priest_gown_9815]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_2_9815]
+model=spirit_flakes_2_41958
+2dzoom=660
+2dxof=3
+2dyof=-4
+2dxan=512
+2dyan=1957
+stackable=yes
 
-[dummy_priest_gown_9816]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_3_9816]
+model=spirit_flakes_3_41957
+2dzoom=660
+2dxof=3
+2dyof=-3
+2dxan=512
+2dyan=1957
+stackable=yes
 
 [oak_cape_rack_9817]
 name=Oak cape rack
@@ -120308,21 +120310,22 @@ model=model_19431
 manwear=rope_10131,0
 womanwear=rope_10131,6
 
-[dummy_priest_gown_10165]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_4_10165]
+model=spirit_flakes_4_41962
+2dzoom=660
+2dxof=3
+2dyof=-2
+2dxan=512
+2dyan=1957
+stackable=yes
 
-[dummy_priest_gown_10166]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_5_10166]
+model=spirit_flakes_5_41956
+2dzoom=660
+2dxof=3
+2dxan=512
+2dyan=1957
+stackable=yes
 
 [eagle_feather_10167]
 name=Eagle feather
@@ -125853,21 +125856,21 @@ model=kgp_id_card_21562
 members=yes
 placeholder=yes
 
-[dummy_priest_gown_10601]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_6_10601]
+model=spirit_flakes_6_41955
+2dzoom=660
+2dxof=3
+2dxan=512
+2dyan=1957
+stackable=yes
 
-[dummy_priest_gown_10602]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_7_10602]
+model=spirit_flakes_7_41954
+2dzoom=660
+2dxof=3
+2dxan=512
+2dyan=1957
+stackable=yes
 
 [dummy_priest_gown_10603]
 name=Null
@@ -126373,13 +126376,13 @@ model=priest_gown_2521
 2dxan=572
 iop1=Wear
 
-[dummy_priest_gown_10666]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_8_10666]
+model=spirit_flakes_8_41961
+2dzoom=660
+2dxof=3
+2dxan=512
+2dyan=1957
+stackable=yes
 
 [dummy_priest_gown_10667]
 name=Null
@@ -126397,13 +126400,13 @@ model=documents_3374
 2dxan=360
 2dyan=672
 
-[dummy_priest_gown_10669]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
+[spirit_flakes_9_10669]
+model=spirit_flakes_9_41949
+2dzoom=660
+2dxof=3
+2dxan=512
+2dyan=1957
+stackable=yes
 
 [dummy_priest_gown_10670]
 name=Null
@@ -136256,10 +136259,9 @@ placeholder=yes
 [cert_zamorak_mix_1_11524]
 certificate=yes
 
-[wimpy_feather_11525]
-name=Wimpy feather
+[feather_11525]
+name=Feather
 model=magic_gold_feather_2476
-cost=15
 2dzoom=700
 2dxof=4
 2dyof=10
@@ -149145,6 +149147,7 @@ model=kalphite_princess_24597
 2dyan=1778
 members=yes
 placeholder=yes
+param=param_446,enum_1686
 
 [pet_smoke_devil_12648]
 name=Pet smoke devil
@@ -149155,6 +149158,7 @@ model=pet_smoke_devil_36012
 2dyan=81
 members=yes
 placeholder=yes
+param=param_446,enum_995
 
 [pet_kreearra_12649]
 name=Pet kree'arra
@@ -149206,6 +149210,7 @@ model=kalphite_princess_28871
 2dxan=279
 2dyan=1808
 members=yes
+param=param_446,enum_1686
 
 [pet_kraken_12655]
 name=Pet kraken
@@ -151471,6 +151476,7 @@ model=pet_dark_core_11069
 2dyan=1940
 members=yes
 placeholder=yes
+param=param_446,enum_285
 
 [elysian_spirit_shield_12817]
 name=Elysian spirit shield
@@ -152515,6 +152521,7 @@ model=pet_snakeling_10413
 2dyan=67
 members=yes
 placeholder=yes
+param=param_446,enum_1687
 
 [tanzanite_fang_12922]
 name=Tanzanite fang
@@ -152720,6 +152727,7 @@ model=pet_snakeling_10416
 2dyof=-89
 2dyan=67
 members=yes
+param=param_446,enum_1687
 
 [pet_snakeling_12940]
 name=Pet snakeling
@@ -152728,6 +152736,7 @@ model=pet_snakeling_10414
 2dyof=-89
 2dyan=67
 members=yes
+param=param_446,enum_1687
 
 [cert_oak_sapling_12941]
 certificate=yes
@@ -155374,6 +155383,7 @@ model=vetion_jr_28299
 2dyan=189
 members=yes
 placeholder=yes
+param=param_446,enum_1688
 
 [vetion_jr_13180]
 name=Vet'ion jr.
@@ -155396,6 +155406,7 @@ recol5d=4023
 recol6s=-10732
 recol6d=2966
 members=yes
+param=param_446,enum_1688
 
 [scorpias_offspring_13181]
 name=Scorpia's offspring
@@ -155950,6 +155961,7 @@ model=tzrek_jad_9319
 2dyan=553
 members=yes
 placeholder=yes
+param=param_446,enum_3665
 
 [herb_sack_13226]
 name=Herb sack
@@ -156981,6 +156993,7 @@ model=heron_29756
 2dyan=1757
 members=yes
 placeholder=yes
+param=param_446,enum_3713
 
 [rock_golem_13321]
 name=Rock golem
@@ -156990,6 +157003,7 @@ model=rock_golem_29755
 2dyan=1829
 members=yes
 placeholder=yes
+param=param_446,enum_1691
 
 [beaver_13322]
 name=Beaver
@@ -157020,6 +157034,7 @@ recol6s=5165
 recol6d=3988
 members=yes
 placeholder=yes
+param=param_446,enum_1689
 
 [baby_chinchompa_13324]
 name=Baby chinchompa
@@ -157028,6 +157043,7 @@ model=baby_chinchompa_19371
 2dxan=339
 2dyan=1769
 members=yes
+param=param_446,enum_1689
 
 [baby_chinchompa_13325]
 name=Baby chinchompa
@@ -157048,6 +157064,7 @@ recol5d=45
 recol6s=5165
 recol6d=49
 members=yes
+param=param_446,enum_1689
 
 [baby_chinchompa_13326]
 name=Baby chinchompa
@@ -157056,6 +157073,7 @@ model=baby_chinchompa_29757
 2dxan=339
 2dyan=1769
 members=yes
+param=param_446,enum_1689
 
 [rotten_onion_13327]
 name=Rotten onion
@@ -167501,7 +167519,7 @@ placeholder=yes
 [placeholder_orange_feather_15388]
 placeholder=yes
 
-[placeholder_wimpy_feather_15389]
+[placeholder_feather_15389]
 placeholder=yes
 
 [placeholder_ferret_15390]
@@ -191438,6 +191456,7 @@ model=giant_squirrel_32205
 2dyan=333
 members=yes
 placeholder=yes
+param=param_446,enum_2861
 
 [placeholder_giant_squirrel_20660]
 placeholder=yes
@@ -191452,6 +191471,7 @@ model=tangleroot_32202
 2dyan=117
 members=yes
 placeholder=yes
+param=param_446,enum_2849
 
 [placeholder_tangleroot_20662]
 placeholder=yes
@@ -191464,6 +191484,7 @@ model=rocky_32203
 2dyan=333
 members=yes
 placeholder=yes
+param=param_446,enum_2946
 
 [placeholder_rocky_20664]
 placeholder=yes
@@ -191476,6 +191497,7 @@ model=rift_guardian_32204
 2dyan=333
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20666]
 placeholder=yes
@@ -191494,6 +191516,7 @@ recol3s=-4941
 recol3d=74
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20668]
 placeholder=yes
@@ -191512,6 +191535,7 @@ recol3s=-4941
 recol3d=5551
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20670]
 placeholder=yes
@@ -191530,6 +191554,7 @@ recol3s=-4941
 recol3d=-27450
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20672]
 placeholder=yes
@@ -191548,6 +191573,7 @@ recol3s=-4941
 recol3d=6319
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20674]
 placeholder=yes
@@ -191566,6 +191592,7 @@ recol3s=-4941
 recol3d=-22223
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20676]
 placeholder=yes
@@ -191584,6 +191611,7 @@ recol3s=-4941
 recol3d=10425
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20678]
 placeholder=yes
@@ -191602,6 +191630,7 @@ recol3s=-4941
 recol3d=5551
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20680]
 placeholder=yes
@@ -191620,6 +191649,7 @@ recol3s=-4941
 recol3d=21698
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20682]
 placeholder=yes
@@ -191638,6 +191668,7 @@ recol3s=-4941
 recol3d=-22223
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20684]
 placeholder=yes
@@ -191656,6 +191687,7 @@ recol3s=-4941
 recol3d=74
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20686]
 placeholder=yes
@@ -191674,6 +191706,7 @@ recol3s=-4941
 recol3d=-20175
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20688]
 placeholder=yes
@@ -191692,6 +191725,7 @@ recol3s=-4941
 recol3d=-11087
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20690]
 placeholder=yes
@@ -191710,6 +191744,7 @@ recol3s=-4941
 recol3d=57
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_20692]
 placeholder=yes
@@ -191725,6 +191760,7 @@ model=phoenix_26852
 members=yes
 ambient=40
 placeholder=yes
+param=param_446,enum_2788
 
 [placeholder_phoenix_20694]
 placeholder=yes
@@ -191960,11 +191996,11 @@ cost=20000
 2dyan=116
 iop2=Wield
 iop3=Check
-iop4=Add or Remove pages
+iop4=Pages
 members=yes
 placeholder=yes
 param=param_451,Check
-param=param_452,Add or remove pages
+param=param_452,Pages
 
 [placeholder_tome_of_fire_20715]
 placeholder=yes
@@ -191981,13 +192017,13 @@ cost=20000
 2dxan=244
 2dyan=116
 iop2=Wield
-iop4=Add pages
+iop4=Pages
 recol1s=687
 recol1d=-32630
 members=yes
 stockmarket=yes
 certificate=yes
-param=param_451,Add pages
+param=param_451,Pages
 
 [cert_tome_of_fire_empty_20717]
 certificate=yes
@@ -193380,6 +193416,7 @@ model=olmlet_32798
 2dyan=1778
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_olmlet_20852]
 placeholder=yes
@@ -197504,6 +197541,7 @@ recol5d=53
 recol6s=5656
 recol6d=49
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21188]
 name=Rock golem
@@ -197524,6 +197562,7 @@ recol5d=3897
 recol6s=5656
 recol6d=4021
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21189]
 name=Rock golem
@@ -197544,6 +197583,7 @@ recol5d=3346
 recol6s=5656
 recol6d=3470
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21190]
 name=Rock golem
@@ -197564,6 +197604,7 @@ recol5d=-21674
 recol6s=5656
 recol6d=-21806
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21191]
 name=Rock golem
@@ -197584,6 +197625,7 @@ recol5d=-22448
 recol6s=5656
 recol6d=-22452
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21192]
 name=Rock golem
@@ -197604,6 +197646,7 @@ recol5d=8
 recol6s=5656
 recol6d=4
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21193]
 name=Rock golem
@@ -197624,6 +197667,7 @@ recol5d=7099
 recol6s=5656
 recol6d=7097
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21194]
 name=Rock golem
@@ -197644,6 +197688,7 @@ recol5d=-22244
 recol6s=5656
 recol6d=-22248
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21195]
 name=Rock golem
@@ -197664,6 +197709,7 @@ recol5d=4535
 recol6s=5656
 recol6d=2487
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21196]
 name=Rock golem
@@ -197684,6 +197730,7 @@ recol5d=21658
 recol6s=5656
 recol6d=21782
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21197]
 name=Rock golem
@@ -197704,6 +197751,7 @@ recol5d=-29279
 recol6s=5656
 recol6d=-29284
 members=yes
+param=param_446,enum_1691
 
 [lava_battlestaff_21198]
 name=Lava battlestaff
@@ -198572,6 +198620,7 @@ model=jal_nib_rek_33005
 2dyan=162
 members=yes
 placeholder=yes
+param=param_446,enum_1893
 
 [placeholder_jal_nib_rek_21292]
 placeholder=yes
@@ -199090,6 +199139,7 @@ recol5d=-1861
 recol6s=5656
 recol6d=-1873
 members=yes
+param=param_446,enum_1691
 
 [unidentified_minerals_21341]
 name=Unidentified minerals
@@ -199268,6 +199318,7 @@ recol5d=790
 recol6s=5656
 recol6d=912
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21359]
 name=Rock golem
@@ -199288,6 +199339,7 @@ recol5d=-15449
 recol6s=5656
 recol6d=-14438
 members=yes
+param=param_446,enum_1691
 
 [rock_golem_21360]
 name=Rock golem
@@ -199308,6 +199360,7 @@ recol5d=31640
 recol6s=5656
 recol6d=30612
 members=yes
+param=param_446,enum_1691
 
 [dummy_nardah_teleport_21361]
 model=nardah_teleport_28742
@@ -203005,6 +203058,7 @@ model=noon_34184
 2dyan=66
 members=yes
 placeholder=yes
+param=param_446,enum_49
 
 [placeholder_noon_21749]
 placeholder=yes
@@ -203019,6 +203073,7 @@ model=midnight_34186
 2dyan=1826
 members=yes
 placeholder=yes
+param=param_446,enum_49
 
 [placeholder_midnight_21751]
 placeholder=yes
@@ -205687,6 +205742,7 @@ recol3s=-4941
 recol3d=-22477
 members=yes
 placeholder=yes
+param=param_446,enum_1690
 
 [placeholder_rift_guardian_21991]
 placeholder=yes
@@ -208823,6 +208879,7 @@ name=Pet corporeal critter
 model=pet_corporeal_critter_11056
 2dzoom=4304
 members=yes
+param=param_446,enum_285
 
 [tzrek_zuk_22319]
 name=Tzrek-zuk
@@ -208833,6 +208890,7 @@ model=tzrek_zuk_34587
 2dxan=40
 2dyan=108
 members=yes
+param=param_446,enum_1893
 
 [champions_lamp_22320]
 name=Champion's lamp
@@ -209534,6 +209592,7 @@ model=puppadile_34598
 2dyan=1826
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_puppadile_22377]
 placeholder=yes
@@ -209548,6 +209607,7 @@ model=tektiny_34602
 2dyan=1928
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_tektiny_22379]
 placeholder=yes
@@ -209562,6 +209622,7 @@ model=vanguard_34604
 2dyan=1823
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_vanguard_22381]
 placeholder=yes
@@ -209576,6 +209637,7 @@ model=vasa_minirio_34597
 2dyan=1886
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_vasa_minirio_22383]
 placeholder=yes
@@ -209590,6 +209652,7 @@ model=vespina_34605
 2dyan=1976
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_vespina_22385]
 placeholder=yes
@@ -212110,6 +212173,7 @@ model=smoke_devil_28442
 2dxan=9
 2dyan=1862
 members=yes
+param=param_446,enum_995
 
 [scythe_of_vitur_22664]
 name=Scythe of vitur
@@ -212939,6 +213003,7 @@ model=ikkle_hydra_36197
 2dyan=1953
 members=yes
 placeholder=yes
+param=param_446,enum_2176
 
 [placeholder_ikkle_hydra_22747]
 placeholder=yes
@@ -212953,6 +213018,7 @@ model=ikkle_hydra_36196
 2dyan=1966
 members=yes
 placeholder=yes
+param=param_446,enum_2176
 
 [placeholder_ikkle_hydra_22749]
 placeholder=yes
@@ -212967,6 +213033,7 @@ model=ikkle_hydra_36195
 2dyan=1966
 members=yes
 placeholder=yes
+param=param_446,enum_2176
 
 [placeholder_ikkle_hydra_22751]
 placeholder=yes
@@ -212981,6 +213048,7 @@ model=ikkle_hydra_36198
 2dyan=1980
 members=yes
 placeholder=yes
+param=param_446,enum_2176
 
 [placeholder_ikkle_hydra_22753]
 placeholder=yes
@@ -222211,6 +222279,7 @@ model=youngllef_38598
 2dxan=121
 members=yes
 placeholder=yes
+param=param_446,enum_2364
 
 [placeholder_youngllef_23758]
 placeholder=yes
@@ -222223,6 +222292,7 @@ model=corrupted_youngllef_38599
 2dyof=-38
 2dxan=121
 members=yes
+param=param_446,enum_2364
 
 [smolcano_23760]
 name=Smolcano
@@ -230097,6 +230167,7 @@ recol1s=5066
 recol1d=20151
 members=yes
 ambient=40
+param=param_446,enum_2788
 
 [phoenix_24484]
 name=Phoenix
@@ -230110,6 +230181,7 @@ recol1s=5066
 recol1d=-25788
 members=yes
 ambient=40
+param=param_446,enum_2788
 
 [phoenix_24485]
 name=Phoenix
@@ -230123,6 +230195,7 @@ recol1s=5066
 recol1d=127
 members=yes
 ambient=40
+param=param_446,enum_2788
 
 [phoenix_24486]
 name=Phoenix
@@ -230136,6 +230209,7 @@ recol1s=5066
 recol1d=-17594
 members=yes
 ambient=40
+param=param_446,enum_2788
 
 [obj_24487]
 model=model_39154
@@ -230699,6 +230773,7 @@ model=tangleroot_39573
 2dyan=117
 members=yes
 placeholder=yes
+param=param_446,enum_2849
 
 [placeholder_tangleroot_24556]
 placeholder=yes
@@ -230713,6 +230788,7 @@ model=tangleroot_39571
 2dyan=117
 members=yes
 placeholder=yes
+param=param_446,enum_2849
 
 [placeholder_tangleroot_24558]
 placeholder=yes
@@ -230727,6 +230803,7 @@ model=tangleroot_39572
 2dyan=117
 members=yes
 placeholder=yes
+param=param_446,enum_2849
 
 [placeholder_tangleroot_24560]
 placeholder=yes
@@ -230741,6 +230818,7 @@ model=tangleroot_39574
 2dyan=117
 members=yes
 placeholder=yes
+param=param_446,enum_2849
 
 [placeholder_tangleroot_24562]
 placeholder=yes
@@ -230755,6 +230833,7 @@ model=tangleroot_39575
 2dyan=117
 members=yes
 placeholder=yes
+param=param_446,enum_2849
 
 [placeholder_tangleroot_24564]
 placeholder=yes
@@ -231522,6 +231601,7 @@ model=tektiny_34602
 2dyan=1928
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_enraged_tektiny_24657]
 placeholder=yes
@@ -231536,6 +231616,7 @@ model=vespina_34605
 2dyan=1976
 members=yes
 placeholder=yes
+param=param_446,enum_1711
 
 [placeholder_flying_vespina_24659]
 placeholder=yes
@@ -231993,6 +232074,7 @@ recol5d=673
 recol6s=4430
 recol6d=12
 members=yes
+param=param_446,enum_2861
 
 [vyre_24702]
 name=Vyre
@@ -233451,6 +233533,7 @@ model=red_37361
 2dyan=333
 members=yes
 placeholder=yes
+param=param_446,enum_2946
 
 [placeholder_red_24848]
 placeholder=yes
@@ -233463,6 +233546,7 @@ model=ziggy_14390
 2dyan=333
 members=yes
 placeholder=yes
+param=param_446,enum_2946
 
 [placeholder_ziggy_24850]
 placeholder=yes
@@ -238762,6 +238846,7 @@ model=lil_creator_41239
 2dxan=121
 members=yes
 placeholder=yes
+param=param_446,enum_3554
 
 [placeholder_lil_creator_25349]
 placeholder=yes
@@ -238774,6 +238859,7 @@ model=lil_destructor_41241
 2dyof=-66
 2dxan=121
 members=yes
+param=param_446,enum_3554
 
 [trophy_pedestal_25351]
 name=Trophy pedestal
@@ -239465,7 +239551,7 @@ manwear=zealots_robe_top_41741,0
 manwear2=zealots_robe_top_41744
 womanwear=zealots_robe_top_41757,0
 womanwear2=zealots_robe_top_41758
-cost=15000
+cost=25000
 2dzoom=1370
 2dxan=536
 iop2=Wear
@@ -239482,7 +239568,7 @@ name=Zealot's robe bottom
 model=zealots_robe_bottom_41780
 manwear=zealots_robe_bottom_41737,0
 womanwear=zealots_robe_bottom_41753,0
-cost=14500
+cost=24500
 2dzoom=1940
 2dyof=1
 2dxan=572
@@ -239502,7 +239588,7 @@ manwear=zealots_helm_41740,0
 womanwear=zealots_helm_41756,0
 manhead=zealots_helm_41786
 femalehead=zealots_helm_41786
-cost=14400
+cost=24400
 2dzoom=672
 2dxof=-1
 2dyof=-5
@@ -239524,7 +239610,7 @@ name=Zealot's boots
 model=zealots_boots_41777
 manwear=zealots_boots_41747,0
 womanwear=zealots_boots_41762,0
-cost=14400
+cost=24400
 2dzoom=770
 2dxof=1
 2dyof=-6
@@ -240423,6 +240509,7 @@ model=jalrek_jad_41568
 2dyan=135
 members=yes
 placeholder=yes
+param=param_446,enum_3665
 
 [placeholder_jalrek_jad_25520]
 placeholder=yes
@@ -240775,4 +240862,516 @@ placeholder=yes
 
 [placeholder_dark_flippers_25558]
 placeholder=yes
+
+[big_harpoonfish_25559]
+name=Big harpoonfish
+model=big_harpoonfish_41975
+cost=3500
+2dzoom=1860
+2dxof=-6
+2dyof=9
+2dxan=344
+2dyan=12
+members=yes
+placeholder=yes
+
+[placeholder_big_harpoonfish_25560]
+placeholder=yes
+
+[stuffed_big_harpoonfish_25561]
+name=Stuffed big harpoonfish
+model=big_harpoonfish_41975
+cost=3500
+2dzoom=1860
+2dxof=-1
+2dyof=7
+2dxan=328
+2dyan=1564
+iop4=Unstuff
+members=yes
+placeholder=yes
+
+[placeholder_stuffed_big_harpoonfish_25562]
+placeholder=yes
+
+[mounted_harpoonfish_25563]
+name=Mounted harpoonfish
+model=mounted_harpoonfish_41971
+2dxof=33
+2dyof=66
+2dxan=69
+2dyan=1790
+
+[raw_harpoonfish_25564]
+name=Raw harpoonfish
+model=raw_harpoonfish_41976
+2dzoom=1710
+2dxof=-2
+2dyof=21
+2dxan=320
+2dyan=2047
+recol1s=61
+recol1d=-12966
+recol2s=103
+recol2d=-13077
+members=yes
+
+[harpoonfish_25565]
+name=Harpoonfish
+model=harpoonfish_41974
+2dzoom=1710
+2dxof=-2
+2dyof=21
+2dxan=320
+2dyan=2047
+recol1s=61
+recol1d=-12995
+recol2s=103
+recol2d=-12850
+members=yes
+
+[crystallised_harpoonfish_25566]
+name=Crystallised harpoonfish
+model=crystallised_harpoonfish_41973
+2dzoom=1710
+2dxof=-2
+2dyof=21
+2dxan=320
+2dyan=2047
+members=yes
+
+[the_desert_trout_ships_log_25567]
+name=The desert trout - ship's log
+model=shamans_tome_2633
+2dzoom=865
+2dxof=1
+2dyof=22
+2dxan=276
+2dyan=120
+iop1=Read
+recol1s=5018
+recol1d=5421
+recol2s=10351
+recol2d=-27554
+placeholder=yes
+
+[placeholder_the_desert_trout_ships_log_25568]
+placeholder=yes
+
+[spirit_anglers_research_notes_25569]
+name=Spirit anglers research notes
+model=book_on_chemicals_2543
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=-28460
+recol2s=11177
+recol2d=6724
+placeholder=yes
+
+[placeholder_spirit_anglers_research_notes_25570]
+placeholder=yes
+
+[damp_egg_25571]
+name=Damp egg
+model=egg_2437
+cost=0
+2dzoom=630
+2dxof=1
+2dxan=144
+2dyan=68
+recol1s=4696
+recol1d=4537
+members=yes
+certificate=yes
+placeholder=yes
+
+[cert_damp_egg_25572]
+certificate=yes
+
+[placeholder_damp_egg_25573]
+placeholder=yes
+
+[tome_of_water_25574]
+name=Tome of water
+model=tome_of_water_41950
+manwear=tome_of_water_41811,0
+womanwear=tome_of_water_41811,6
+cost=19500
+2dzoom=830
+2dxof=1
+2dyof=-21
+2dxan=244
+2dyan=116
+iop2=Wield
+iop3=Check
+iop4=Pages
+members=yes
+placeholder=yes
+param=param_451,Check
+param=param_452,Pages
+
+[placeholder_tome_of_water_25575]
+placeholder=yes
+
+[tome_of_water_empty_25576]
+name=Tome of water (empty)
+model=tome_of_water_empty_41965
+manwear=tome_of_water_empty_41810,0
+womanwear=tome_of_water_empty_41810,6
+cost=19500
+2dzoom=830
+2dxof=1
+2dyof=-21
+2dxan=244
+2dyan=116
+iop2=Wield
+iop4=Pages
+recol1s=-21630
+recol1d=-32649
+members=yes
+stockmarket=yes
+certificate=yes
+param=param_451,Pages
+
+[cert_tome_of_water_empty_25577]
+certificate=yes
+
+[soaked_page_25578]
+name=Soaked page
+model=saradomin_page_1_4508
+cost=170
+2dzoom=680
+2dxof=1
+2dyof=5
+2dxan=400
+2dyan=80
+recol1s=90
+recol1d=-32576
+recol2s=86
+recol2d=-28227
+recol3s=82
+recol3d=-22987
+recol4s=78
+recol4d=-21843
+recol5s=74
+recol5d=-21591
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_soaked_page_25579]
+placeholder=yes
+
+[tackle_box_25580]
+name=Tackle box
+model=tackle_box_41966
+cost=850
+2dzoom=2566
+2dyof=-7
+2dxan=74
+2dyan=1933
+iop1=View
+iop2=Fill
+iop3=Empty
+iop5=Destroy
+members=yes
+placeholder=yes
+param=param_595,Use
+
+[placeholder_tackle_box_25581]
+placeholder=yes
+
+[fish_barrel_25582]
+name=Fish barrel
+model=fish_barrel_41951
+cost=720
+2dzoom=1842
+2dyof=-1
+2dxan=94
+2dyan=182
+iop1=Fill
+iop2=Check
+iop3=Open
+iop5=Destroy
+members=yes
+placeholder=yes
+param=param_595,Empty
+
+[placeholder_fish_barrel_25583]
+placeholder=yes
+
+[open_fish_barrel_25584]
+name=Open fish barrel
+model=open_fish_barrel_41947
+cost=720
+2dzoom=1842
+2dyof=-1
+2dxan=94
+2dyan=182
+iop1=Fill
+iop2=Check
+iop3=Close
+iop5=Destroy
+members=yes
+param=param_595,Empty
+
+[fish_sack_barrel_25585]
+name=Fish sack barrel
+model=fish_sack_barrel_41960
+manwear=fish_sack_barrel_41629,0
+womanwear=fish_sack_barrel_41804,0
+cost=1000
+2dzoom=2140
+2dxof=2
+2dyof=4
+2dxan=538
+2dyan=2009
+iop1=Fill
+iop2=Wear
+iop3=Configure
+iop4=Open
+iop5=Destroy
+members=yes
+placeholder=yes
+param=param_595,Empty
+param=param_451,Check
+param=param_452,Open
+
+[placeholder_fish_sack_barrel_25586]
+placeholder=yes
+
+[open_fish_sack_barrel_25587]
+name=Open fish sack barrel
+model=open_fish_sack_barrel_41963
+manwear=fish_sack_barrel_41629,0
+womanwear=fish_sack_barrel_41804,0
+cost=1000
+2dzoom=2140
+2dxof=2
+2dyof=4
+2dxan=538
+2dyan=2009
+iop1=Fill
+iop2=Wear
+iop3=Configure
+iop4=Close
+iop5=Destroy
+members=yes
+param=param_595,Empty
+param=param_451,Check
+param=param_452,Close
+
+[spirit_flakes_25588]
+name=Spirit flakes
+model=spirit_flakes_41964
+cost=2
+2dzoom=660
+2dxof=3
+2dyof=-5
+2dxan=512
+2dyan=1957
+members=yes
+stackable=yes
+placeholder=yes
+count1=spirit_flakes_2_9815,2
+count2=spirit_flakes_3_9816,3
+count3=spirit_flakes_4_10165,4
+count4=spirit_flakes_5_10166,5
+count5=spirit_flakes_6_10601,6
+count6=spirit_flakes_7_10602,7
+count7=spirit_flakes_8_10666,8
+count8=spirit_flakes_9_10669,9
+
+[placeholder_spirit_flakes_25589]
+placeholder=yes
+
+[casket_25590]
+name=Casket
+model=casket_14976
+cost=50
+2dzoom=720
+2dxan=135
+2dyan=1640
+iop1=Open
+recol1s=28
+recol1d=9156
+recol2s=24
+recol2d=9143
+recol3s=16
+recol3d=9131
+members=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_casket_25591]
+placeholder=yes
+
+[spirit_angler_headband_25592]
+name=Spirit angler headband
+model=spirit_angler_headband_41952
+manwear=spirit_angler_headband_41800,0
+womanwear=spirit_angler_headband_41806,0
+manhead=spirit_angler_headband_41969
+femalehead=spirit_angler_headband_41969
+cost=120
+2dzoom=510
+2dxan=181
+2dyan=66
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_spirit_angler_headband_25593]
+placeholder=yes
+
+[spirit_angler_top_25594]
+name=Spirit angler top
+model=spirit_angler_top_41953
+manwear=spirit_angler_top_41802,0
+manwear2=spirit_angler_top_41801
+womanwear=spirit_angler_top_41808,0
+womanwear2=spirit_angler_top_41807
+cost=120
+2dzoom=987
+2dxan=512
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_spirit_angler_top_25595]
+placeholder=yes
+
+[spirit_angler_waders_25596]
+name=Spirit angler waders
+model=spirit_angler_waders_41959
+manwear=spirit_angler_waders_41799,0
+womanwear=spirit_angler_waders_41805,0
+cost=120
+2dzoom=1645
+2dyof=-1
+2dxan=512
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_spirit_angler_waders_25597]
+placeholder=yes
+
+[spirit_angler_boots_25598]
+name=Spirit angler boots
+model=spirit_angler_boots_41948
+manwear=spirit_angler_boots_41803,0
+womanwear=spirit_angler_boots_41809,0
+cost=120
+2dzoom=800
+2dxan=78
+2dyan=159
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_spirit_angler_boots_25599]
+placeholder=yes
+
+[great_blue_heron_25600]
+name=Great blue heron
+model=great_blue_heron_41628
+2dzoom=2256
+2dxof=10
+2dyof=25
+2dxan=381
+2dyan=1757
+members=yes
+placeholder=yes
+param=param_446,enum_3713
+
+[placeholder_great_blue_heron_25601]
+placeholder=yes
+
+[tiny_tempor_25602]
+name=Tiny tempor
+model=tiny_tempor_41814
+2dzoom=3289
+2dxof=1
+2dyof=-24
+members=yes
+placeholder=yes
+
+[placeholder_tiny_tempor_25603]
+placeholder=yes
+
+[greggs_eastdoor_25604]
+name=Gregg's eastdoor
+model=greggs_eastdoor_42011
+manwear=greggs_eastdoor_41979,0
+womanwear=greggs_eastdoor_41979,6
+cost=0
+2dzoom=2276
+2dyof=13
+2dxan=402
+2dyan=1409
+iop2=Wear
+iop5=Destroy
+ambient=15
+placeholder=yes
+
+[placeholder_greggs_eastdoor_25605]
+placeholder=yes
+
+[propeller_hat_25606]
+name=Propeller hat
+model=propeller_hat_42010
+manwear=propeller_hat_41977,0
+manwear2=male_hair_215
+womanwear=propeller_hat_41978,0
+womanwear2=female_hair_391
+manhead=propeller_hat_42009
+manhead2=male_hair_53
+femalehead=propeller_hat_42009
+femalehead=female_hair_114
+2dzoom=568
+2dyof=-3
+2dxan=103
+2dyan=212
+iop2=Wear
+iop5=Destroy
+placeholder=yes
+
+[placeholder_propeller_hat_25607]
+placeholder=yes
+
+[greggs_iou_25608]
+name=Gregg's iou
+model=flypaper_2350
+2dzoom=1380
+2dxof=2
+2dyof=28
+2dxan=320
+2dyan=84
+iop1=Read
+iop5=Destroy
+
+[pastel_flowers_25609]
+name=Pastel flowers
+model=assorted_flowers_1781
+2dzoom=840
+2dyof=-2
+2dxan=612
+2dyan=816
+iop5=Destroy
+
+[thick_dye_25610]
+name=Thick dye
+model=blamish_snail_slime_2705
+2dzoom=760
+2dyof=-2
+2dxan=124
+2dyan=1920
+iop5=Destroy
+recol1s=61
+recol1d=-32329
 

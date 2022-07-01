@@ -2088,6 +2088,8 @@ val=140,gnome_child_mask_25336
 val=139,gnome_child_icon_25338
 val=141,cursed_banana_25500
 val=142,banana_cape_25502
+val=143,greggs_eastdoor_25604
+val=144,propeller_hat_25606
 val=-10,cert_pumpkin_1960
 val=-11,cert_red_halloween_mask_1058
 val=-12,cert_green_halloween_mask_1054
@@ -3518,6 +3520,7 @@ val=646,A Dangerous Game
 val=647,Scrubfoot's Descent
 val=648,The Waiting Game
 val=649,Soul Wars
+val=650,Tempor of the Storm
 
 [enum_814]
 inputtype=int
@@ -4217,6 +4220,7 @@ val=646,"Dangerous Game, A"
 val=647,Scrubfoot's Descent
 val=648,"Waiting Game, The"
 val=649,Soul Wars
+val=650,Tempoross
 
 [enum_818]
 inputtype=int
@@ -4871,6 +4875,7 @@ val=645,646
 val=646,647
 val=647,648
 val=648,649
+val=649,650
 
 [enum_819]
 inputtype=int
@@ -5525,6 +5530,7 @@ val=646,0_0_0_20_27
 val=648,0_0_0_20_28
 val=649,0_0_0_20_29
 val=647,0_0_0_20_30
+val=650,0_0_0_20_31
 
 [enum_823]
 inputtype=component
@@ -7808,6 +7814,7 @@ val=43,youngllef_23757
 val=44,smolcano_23760
 val=45,little_nightmare_24491
 val=46,lil_creator_25348
+val=47,tiny_tempor_25602
 
 [enum_987]
 inputtype=int
@@ -14026,6 +14033,7 @@ val=0_0_0_2_9,alchemical_hydra_head_23081
 val=0_0_0_4_1,mounted_bass_8267
 val=0_0_0_4_2,mounted_swordfish_8268
 val=0_0_0_4_3,mounted_shark_8269
+val=0_0_0_4_4,mounted_harpoonfish_25563
 val=0_0_0_5_1,mithril_armour_8270
 val=0_0_0_5_2,adamantite_armour_8271
 val=0_0_0_5_3,runite_armour_8272
@@ -20429,13 +20437,14 @@ val=25,obor_495
 val=26,sarachnis_601
 val=27,scorpia_496
 val=28,skotizo_497
-val=29,thermonuclear_smoke_devil_498
-val=30,venenatis_501
-val=31,vetion_502
-val=32,vorkath_503
-val=33,wintertodt_504
-val=34,zalcano_604
-val=35,zulrah_505
+val=29,tempoross_2867
+val=30,thermonuclear_smoke_devil_498
+val=31,venenatis_501
+val=32,vetion_502
+val=33,vorkath_503
+val=34,wintertodt_504
+val=35,zalcano_604
+val=36,zulrah_505
 
 [enum_2104]
 inputtype=int
@@ -21808,6 +21817,7 @@ val=43,smolcano_23760
 val=44,youngllef_23757
 val=45,little_nightmare_24491
 val=46,lil_creator_25348
+val=47,tiny_tempor_25602
 
 [enum_2159]
 inputtype=int
@@ -26747,6 +26757,7 @@ val=24,<col=ffffff>Crystal armour:<br><br>The full set gives a 30% accuracy bonu
 val=25,"<col=ffffff>Swampbark armour:<br><br>The full set increases the duration of Bind, Snare and Entangle spells by 3 seconds<br><br>"
 val=26,<col=ffffff>Bloodbark armour:<br><br>The full set increases the amount healed by Blood spells by 32.5%.<br><br>
 val=27,<col=ffffff>Zealot's prayer robes:<br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them and saving bones when burying or offering them. This stacks with the Wilderness altar's bone saving effect.<br><br>
+val=28,<col=ffffff>Spirit Angler outfit:<br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>
 
 [enum_3048]
 inputtype=int
@@ -29838,6 +29849,8 @@ val=67,20th_anniversary_hat_25322
 val=68,gnome_child_mask_25336
 val=69,cursed_banana_25500
 val=70,banana_cape_25502
+val=71,greggs_eastdoor_25604
+val=72,propeller_hat_25606
 
 [enum_3300]
 inputtype=int
@@ -30493,6 +30506,8 @@ val=20th_anniversary_hat_25322,2021: 20th Anniversary outfit
 val=gnome_child_mask_25336,2021: Gnome Child memorabilia
 val=cursed_banana_25500,2021: Cursed Banana
 val=banana_cape_25502,2021: Banana Cape
+val=greggs_eastdoor_25604,2021: Gregg's Eastdoor
+val=propeller_hat_25606,2021: Propeller Hat
 val=jar_of_dirt_12007,Jar of Dirt (Kraken)
 val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
 val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
@@ -30585,6 +30600,10 @@ val=void_knight_gloves_8842,void_knight_gloves_l_24182
 val=void_melee_helm_11665,void_melee_helm_l_24185
 val=void_mage_helm_11663,void_mage_helm_l_24183
 val=void_ranger_helm_11664,void_ranger_helm_l_24184
+val=angler_hat_13258,spirit_angler_headband_25592
+val=angler_top_13259,spirit_angler_top_25594
+val=angler_waders_13260,spirit_angler_waders_25596
+val=angler_boots_13261,spirit_angler_boots_25598
 val=fighter_torso_10551,fighter_torso_l_24175
 val=penance_skirt_10555,penance_skirt_l_24176
 val=fighter_hat_10548,fighter_hat_l_24173
@@ -34816,4 +34835,81 @@ outputtype=namedobj
 default=null
 val=0,celestial_ring_uncharged_25539
 val=1,star_fragment_25547
+
+[enum_3702]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,fishing_rod_307
+val=1,fly_fishing_rod_309
+val=2,pearl_fishing_rod_22846
+val=3,pearl_fly_fishing_rod_22844
+val=4,oily_fishing_rod_1585
+val=5,oily_pearl_fishing_rod_23122
+val=6,barbarian_rod_11323
+val=7,harpoon_311
+val=8,barb_tail_harpoon_10129
+val=9,dragon_harpoon_21028
+val=10,infernal_harpoon_21031
+val=11,infernal_harpoon_uncharged_21033
+val=12,crystal_harpoon_23762
+val=13,crystal_harpoon_inactive_23764
+val=14,small_fishing_net_303
+val=15,big_fishing_net_305
+val=16,lobster_pot_301
+val=17,fishing_bait_313
+val=18,dark_fishing_bait_11940
+val=19,fish_offcuts_11334
+val=20,feather_314
+val=21,stripy_feather_10087
+val=22,fish_chunks_22818
+val=23,sandworms_13431
+val=24,spirit_flakes_25588
+val=25,raw_karambwanji_3150
+val=26,angler_hat_13258
+val=27,angler_top_13259
+val=28,angler_waders_13260
+val=29,angler_boots_13261
+val=30,spirit_angler_headband_25592
+val=31,spirit_angler_top_25594
+val=32,spirit_angler_waders_25596
+val=33,spirit_angler_boots_25598
+val=34,karambwan_vessel_3157
+val=35,karambwan_vessel_3159
+val=36,drift_net_21652
+val=37,fishing_potion_4_2438
+val=38,fishing_potion_3_151
+val=39,fishing_potion_2_153
+val=40,fishing_potion_1_155
+val=41,fishbowl_helmet_7534
+val=42,diving_apparatus_7535
+val=43,flippers_6666
+val=44,radas_blessing_1_22941
+val=45,radas_blessing_2_22943
+val=46,radas_blessing_3_22945
+val=47,radas_blessing_4_22947
+
+[enum_3713]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,heron_13320
+val=1,great_blue_heron_25600
+
+[enum_3714]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,tiny_tempor_25602
+val=1,big_harpoonfish_25559
+val=2,spirit_angler_headband_25592
+val=3,spirit_angler_top_25594
+val=4,spirit_angler_waders_25596
+val=5,spirit_angler_boots_25598
+val=6,tome_of_water_empty_25576
+val=7,soaked_page_25578
+val=8,tackle_box_25580
+val=9,fish_barrel_25582
+val=10,dragon_harpoon_21028
+val=11,spirit_flakes_25588
 
