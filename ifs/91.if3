@@ -8,7 +8,7 @@ vsizemode=^setsize_minus
 [interface_91:1]
 type=^iftype_layer
 width=504
-height=321
+height=330
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_91:0
@@ -40,7 +40,7 @@ shadowed=yes
 type=^iftype_layer
 y=8
 width=16
-height=48
+height=45
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
@@ -49,8 +49,8 @@ layer=interface_91:1
 
 [interface_91:5]
 type=^iftype_layer
-width=322
-height=84
+width=320
+height=83
 hsizemode=^setsize_minus
 layer=interface_91:4
 onload="script576(374,5963781,5963782,5963783,5963784,5963821)"
@@ -87,9 +87,9 @@ layer=interface_91:5
 
 [interface_91:9]
 type=^iftype_layer
-y=87
-width=322
-height=186
+y=86
+width=320
+height=202
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_91:4
@@ -127,11 +127,12 @@ layer=interface_91:9
 
 [interface_91:13]
 type=^iftype_layer
-x=197
-width=120
-height=62
+x=195
+width=122
+height=209
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
 layer=interface_91:4
 onload="script576(927,5963789,5963790,5963791,-1,5963821)"
 
@@ -156,8 +157,8 @@ layer=interface_91:13
 
 [interface_91:16]
 type=^iftype_layer
-width=322
-height=96
+width=320
+height=113
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_91:4
@@ -287,9 +288,10 @@ onload="script578(2338,5963820,event_com,5963808,5963809,5963821)"
 [interface_91:30]
 type=^iftype_layer
 width=192
-height=62
+height=209
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
 layer=interface_91:4
 onload="script587(5963806,5963807)"
 

@@ -4139,3 +4139,14 @@ size=1
 mapfunction=no
 category=1129
 
+[mapelement_689]
+text=Clan Hub
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_690]
+graphic="mapfunction,127"
+vis=^mapelement_vis_both
+category=1551
+

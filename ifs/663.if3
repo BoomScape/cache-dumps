@@ -1,0 +1,11 @@
+[interface_663:0]
+type=^iftype_layer
+width=512
+height=334
+
+[interface_663:1]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_663:0
+
