@@ -11065,7 +11065,7 @@ recol1d=10508
 [disk_of_returning_981]
 name=Disk of returning
 model=disk_of_returning_2724
-cost=12
+cost=120
 2dzoom=880
 2dyof=2
 2dxan=460
@@ -124703,9 +124703,13 @@ model=snowball_20504
 
 [fremennik_sea_boots_10510]
 name=Fremennik sea boots
-model=fremennik_sea_boots_29145
+model=fremennik_sea_boots_32595
 cost=0
-2dzoom=720
+2dzoom=770
+2dxof=2
+2dyof=-6
+2dxan=152
+2dyan=160
 
 [reanimate_troll_10511]
 name=Null
@@ -157404,7 +157408,7 @@ param=param_453,Alchemy
 
 [fremennik_sea_boots_1_13129]
 name=Fremennik sea boots 1
-model=fremennik_sea_boots_1_29153
+model=fremennik_sea_boots_1_32593
 manwear=fremennik_sea_boots_1_29013,0
 womanwear=fremennik_sea_boots_1_29073,0
 cost=0
@@ -157421,7 +157425,7 @@ param=param_451,Teleport
 
 [fremennik_sea_boots_2_13130]
 name=Fremennik sea boots 2
-model=fremennik_sea_boots_2_29135
+model=fremennik_sea_boots_2_32594
 manwear=fremennik_sea_boots_2_29014,0
 womanwear=fremennik_sea_boots_2_29070,0
 cost=0
@@ -157438,7 +157442,7 @@ param=param_451,Teleport
 
 [fremennik_sea_boots_3_13131]
 name=Fremennik sea boots 3
-model=fremennik_sea_boots_29145
+model=fremennik_sea_boots_32595
 manwear=fremennik_sea_boots_3_29011,0
 womanwear=fremennik_sea_boots_3_29072,0
 cost=0
@@ -157455,7 +157459,7 @@ param=param_451,Teleport
 
 [fremennik_sea_boots_4_13132]
 name=Fremennik sea boots 4
-model=fremennik_sea_boots_4_29140
+model=fremennik_sea_boots_4_32596
 manwear=fremennik_sea_boots_4_29012,0
 womanwear=fremennik_sea_boots_4_29071,0
 cost=0
@@ -194645,6 +194649,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_595,Invigorate
 
 [cert_imbued_heart_20725]
 certificate=yes
@@ -205436,8 +205441,10 @@ cost=85
 2dxof=1
 2dxan=156
 2dyan=1852
-recol1s=158
-recol1d=53
+recol1s=12
+recol1d=57
+recol2s=158
+recol2d=53
 members=yes
 stackable=yes
 placeholder=yes
@@ -231507,11 +231514,11 @@ param=param_455,Log
 [placeholder_twisted_slayer_helmet_24371]
 placeholder=yes
 
-[twisted_league_dragon_trophy_24372]
-name=Twisted league dragon trophy
-model=twisted_league_dragon_trophy_39034
-manwear=twisted_league_dragon_trophy_38985,0
-womanwear=twisted_league_dragon_trophy_38985,6
+[twisted_dragon_trophy_24372]
+name=Twisted dragon trophy
+model=twisted_dragon_trophy_39034
+manwear=twisted_dragon_trophy_38985,0
+womanwear=twisted_dragon_trophy_38985,6
 2dyof=-5
 2dxan=69
 2dyan=186
@@ -231521,15 +231528,16 @@ recol1s=61
 recol1d=-29403
 members=yes
 placeholder=yes
+param=param_451,Trophy Emote
 
-[placeholder_twisted_league_dragon_trophy_24373]
+[placeholder_twisted_dragon_trophy_24373]
 placeholder=yes
 
-[twisted_league_rune_trophy_24374]
-name=Twisted league rune trophy
-model=twisted_league_rune_trophy_39035
-manwear=twisted_league_rune_trophy_38981,0
-womanwear=twisted_league_rune_trophy_38981,6
+[twisted_rune_trophy_24374]
+name=Twisted rune trophy
+model=twisted_rune_trophy_39035
+manwear=twisted_rune_trophy_38981,0
+womanwear=twisted_rune_trophy_38981,6
 2dzoom=1360
 2dxan=69
 2dyan=186
@@ -231539,15 +231547,16 @@ recol1s=61
 recol1d=-29403
 members=yes
 placeholder=yes
+param=param_451,Trophy Emote
 
-[placeholder_twisted_league_rune_trophy_24375]
+[placeholder_twisted_rune_trophy_24375]
 placeholder=yes
 
-[twisted_league_adamant_trophy_24376]
-name=Twisted league adamant trophy
-model=twisted_league_rune_trophy_39035
-manwear=twisted_league_rune_trophy_38981,0
-womanwear=twisted_league_rune_trophy_38981,6
+[twisted_adamant_trophy_24376]
+name=Twisted adamant trophy
+model=twisted_rune_trophy_39035
+manwear=twisted_rune_trophy_38981,0
+womanwear=twisted_rune_trophy_38981,6
 2dzoom=1360
 2dxan=69
 2dyan=186
@@ -231567,34 +231576,38 @@ recol6s=115
 recol6d=939
 members=yes
 placeholder=yes
+param=param_451,Trophy Emote
 
-[placeholder_twisted_league_adamant_trophy_24377]
+[placeholder_twisted_adamant_trophy_24377]
 placeholder=yes
 
-[twisted_league_mithril_trophy_24378]
-name=Twisted league mithril trophy
-model=twisted_league_mithril_trophy_39042
-manwear=twisted_league_mithril_trophy_38983,0
-womanwear=twisted_league_mithril_trophy_38983,6
+[twisted_mithril_trophy_24378]
+name=Twisted mithril trophy
+model=twisted_mithril_trophy_39042
+manwear=twisted_mithril_trophy_38983,0
+womanwear=twisted_mithril_trophy_38983,6
 2dzoom=1232
 2dxan=81
 2dyan=102
 iop2=Wear
+iop5=Destroy
 members=yes
 placeholder=yes
+param=param_451,Trophy Emote
 
-[placeholder_twisted_league_mithril_trophy_24379]
+[placeholder_twisted_mithril_trophy_24379]
 placeholder=yes
 
-[twisted_league_steel_trophy_24380]
-name=Twisted league steel trophy
-model=twisted_league_mithril_trophy_39042
-manwear=twisted_league_mithril_trophy_38983,0
-womanwear=twisted_league_mithril_trophy_38983,6
+[twisted_steel_trophy_24380]
+name=Twisted steel trophy
+model=twisted_mithril_trophy_39042
+manwear=twisted_mithril_trophy_38983,0
+womanwear=twisted_mithril_trophy_38983,6
 2dzoom=1232
 2dxan=81
 2dyan=102
 iop2=Wear
+iop5=Destroy
 recol1s=-22355
 recol1d=70
 recol2s=-22239
@@ -231609,46 +231622,51 @@ recol6s=22433
 recol6d=-21602
 members=yes
 placeholder=yes
+param=param_451,Trophy Emote
 
-[placeholder_twisted_league_steel_trophy_24381]
+[placeholder_twisted_steel_trophy_24381]
 placeholder=yes
 
-[twisted_league_iron_trophy_24382]
-name=Twisted league iron trophy
-model=twisted_league_iron_trophy_39040
-manwear=twisted_league_iron_trophy_38987,0
-womanwear=twisted_league_iron_trophy_38987,6
+[twisted_iron_trophy_24382]
+name=Twisted iron trophy
+model=twisted_iron_trophy_39040
+manwear=twisted_iron_trophy_38987,0
+womanwear=twisted_iron_trophy_38987,6
 2dzoom=1075
 2dxan=26
 2dyan=153
 iop2=Wear
+iop5=Destroy
 members=yes
 placeholder=yes
+param=param_451,Trophy Emote
 
-[placeholder_twisted_league_iron_trophy_24383]
+[placeholder_twisted_iron_trophy_24383]
 placeholder=yes
 
-[twisted_league_bronze_trophy_24384]
-name=Twisted league bronze trophy
-model=twisted_league_iron_trophy_39040
-manwear=twisted_league_iron_trophy_38987,0
-womanwear=twisted_league_iron_trophy_38987,6
+[twisted_bronze_trophy_24384]
+name=Twisted bronze trophy
+model=twisted_iron_trophy_39040
+manwear=twisted_iron_trophy_38987,0
+womanwear=twisted_iron_trophy_38987,6
 2dzoom=1075
 2dxan=26
 2dyan=153
 iop2=Wear
+iop5=Destroy
 recol1s=41
-recol1d=5652
+recol1d=7060
 recol2s=33
 recol2d=5904
 recol3s=24
-recol3d=6798
+recol3d=7054
 recol4s=20
 recol4d=7050
 members=yes
 placeholder=yes
+param=param_451,Trophy Emote
 
-[placeholder_twisted_league_bronze_trophy_24385]
+[placeholder_twisted_bronze_trophy_24385]
 placeholder=yes
 
 [dummy_stick_24386]
@@ -231668,7 +231686,7 @@ manwear=twisted_hat_t3_38964,0
 womanwear=twisted_hat_t3_38975,0
 manhead=twisted_hat_t3_38998
 femalehead=twisted_hat_t3_38998
-cost=500
+cost=100000
 2dzoom=1000
 2dxof=1
 2dyof=-10
@@ -231676,6 +231694,8 @@ cost=500
 2dyan=150
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_hat_t3_24388]
@@ -231686,12 +231706,14 @@ name=Twisted coat (t3)
 model=twisted_coat_t3_39036
 manwear=twisted_coat_t3_38968,0
 womanwear=twisted_coat_t3_38978,0
-cost=500
+cost=100000
 2dzoom=1850
 2dyof=3
 2dxan=500
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_coat_t3_24390]
@@ -231702,12 +231724,14 @@ name=Twisted trousers (t3)
 model=twisted_trousers_t3_39044
 manwear=twisted_trousers_t3_38961,0
 womanwear=twisted_trousers_t3_38973,0
-cost=500
+cost=100000
 2dzoom=1940
 2dyof=1
 2dxan=572
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_trousers_t3_24392]
@@ -231718,7 +231742,7 @@ name=Twisted boots (t3)
 model=twisted_boots_t3_39038
 manwear=twisted_boots_t3_38969,0
 womanwear=twisted_boots_t3_38979,0
-cost=500
+cost=100000
 2dzoom=770
 2dxof=1
 2dyof=-6
@@ -231726,6 +231750,8 @@ cost=500
 2dyan=160
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_boots_t3_24394]
@@ -231736,14 +231762,17 @@ name=Twisted cane
 model=twisted_cane_39043
 manwear=twisted_cane_38982,0
 womanwear=twisted_cane_38982,6
-cost=14400
+cost=1000
 2dzoom=1124
 2dxof=1
 2dxan=1925
 2dyan=1778
 iop2=Wield
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
+param=param_451,Twisted Relic Emote
 
 [placeholder_twisted_cane_24396]
 placeholder=yes
@@ -231755,7 +231784,7 @@ manwear=twisted_hat_t3_38964,0
 womanwear=twisted_hat_t3_38975,0
 manhead=twisted_hat_t3_38998
 femalehead=twisted_hat_t3_38998
-cost=500
+cost=10000
 2dzoom=1000
 2dxof=1
 2dyof=-10
@@ -231765,6 +231794,8 @@ iop2=Wear
 recol1s=13223
 recol1d=8
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_hat_t2_24398]
@@ -231775,12 +231806,14 @@ name=Twisted coat (t2)
 model=twisted_coat_t2_39039
 manwear=twisted_coat_t2_38967,0
 womanwear=twisted_coat_t2_38976,0
-cost=500
+cost=10000
 2dzoom=1850
 2dyof=3
 2dxan=500
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_coat_t2_24400]
@@ -231791,12 +231824,14 @@ name=Twisted trousers (t2)
 model=twisted_trousers_t2_39046
 manwear=twisted_trousers_t2_38963,0
 womanwear=twisted_trousers_t2_38971,0
-cost=500
+cost=10000
 2dzoom=1940
 2dyof=1
 2dxan=572
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_trousers_t2_24402]
@@ -231807,7 +231842,7 @@ name=Twisted boots (t2)
 model=twisted_boots_t3_39038
 manwear=twisted_boots_t3_38969,0
 womanwear=twisted_boots_t3_38979,0
-cost=500
+cost=10000
 2dzoom=770
 2dxof=1
 2dyof=-6
@@ -231817,6 +231852,8 @@ iop2=Wear
 recol1s=13223
 recol1d=10334
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_boots_t2_24404]
@@ -231829,7 +231866,7 @@ manwear=twisted_hat_t1_38965,0
 womanwear=twisted_hat_t1_38974,0
 manhead=twisted_hat_t1_38999
 femalehead=twisted_hat_t1_38999
-cost=500
+cost=1000
 2dzoom=1000
 2dxof=1
 2dyof=-10
@@ -231837,6 +231874,8 @@ cost=500
 2dyan=150
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_hat_t1_24406]
@@ -231847,12 +231886,14 @@ name=Twisted coat (t1)
 model=twisted_coat_t1_39047
 manwear=twisted_coat_t1_38966,0
 womanwear=twisted_coat_t1_38977,0
-cost=500
+cost=1000
 2dzoom=1850
 2dyof=3
 2dxan=500
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_coat_t1_24408]
@@ -231863,12 +231904,14 @@ name=Twisted trousers (t1)
 model=twisted_trousers_t1_39048
 manwear=twisted_trousers_t1_38962,0
 womanwear=twisted_trousers_t1_38972,0
-cost=500
+cost=1000
 2dzoom=1940
 2dyof=1
 2dxan=572
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_trousers_t1_24410]
@@ -231879,7 +231922,7 @@ name=Twisted boots (t1)
 model=twisted_boots_t3_39038
 manwear=twisted_boots_t3_38969,0
 womanwear=twisted_boots_t3_38979,0
-cost=500
+cost=1000
 2dzoom=770
 2dxof=1
 2dyof=-6
@@ -231889,16 +231932,19 @@ iop2=Wear
 recol1s=13223
 recol1d=8
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_twisted_boots_t1_24412]
 placeholder=yes
 
-[twisted_league_banner_24413]
-name=Twisted league banner
-model=twisted_league_banner_39037
-manwear=twisted_league_banner_38984,0
-womanwear=twisted_league_banner_38986,0
+[twisted_banner_24413]
+name=Twisted banner
+model=twisted_banner_39037
+manwear=twisted_banner_38984,0
+womanwear=twisted_banner_38986,0
+cost=1000
 2dzoom=1676
 2dxof=-2
 2dyof=-4
@@ -231907,9 +231953,11 @@ womanwear=twisted_league_banner_38986,0
 iop2=Wield
 members=yes
 ambient=30
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
-[placeholder_twisted_league_banner_24414]
+[placeholder_twisted_banner_24414]
 placeholder=yes
 
 [bought_death_rune_24415]
@@ -232278,4 +232326,140 @@ cost=0
 2dxan=328
 2dyan=32
 iop5=Destroy
+
+[twisted_slayer_helmet_i_24444]
+name=Twisted slayer helmet (i)
+model=twisted_slayer_helmet_38958
+manwear=twisted_slayer_helmet_38960,0
+womanwear=twisted_slayer_helmet_38970,0
+manhead=twisted_slayer_helmet_38997
+femalehead=twisted_slayer_helmet_38997
+cost=90000
+2dzoom=779
+2dxof=-4
+2dyof=-3
+2dxan=30
+2dyan=1773
+iop2=Wear
+iop3=Check
+iop4=Disassemble
+recol1s=-32647
+recol1d=10343
+recol2s=-32655
+recol2d=10334
+recol3s=-31645
+recol3d=10318
+recol4s=-32678
+recol4d=10312
+members=yes
+placeholder=yes
+param=param_385,1
+param=param_453,Check
+param=param_454,Partner
+param=param_455,Log
+
+[placeholder_twisted_slayer_helmet_i_24445]
+placeholder=yes
+
+[cert_twisted_hat_t3_24446]
+certificate=yes
+
+[cert_twisted_coat_t3_24447]
+certificate=yes
+
+[cert_twisted_trousers_t3_24448]
+certificate=yes
+
+[cert_twisted_boots_t3_24449]
+certificate=yes
+
+[cert_twisted_cane_24450]
+certificate=yes
+
+[cert_twisted_hat_t2_24451]
+certificate=yes
+
+[cert_twisted_coat_t2_24452]
+certificate=yes
+
+[cert_twisted_trousers_t2_24453]
+certificate=yes
+
+[cert_twisted_boots_t2_24454]
+certificate=yes
+
+[cert_twisted_hat_t1_24455]
+certificate=yes
+
+[cert_twisted_coat_t1_24456]
+certificate=yes
+
+[cert_twisted_trousers_t1_24457]
+certificate=yes
+
+[cert_twisted_boots_t1_24458]
+certificate=yes
+
+[cert_twisted_banner_24459]
+certificate=yes
+
+[twisted_teleport_scroll_24460]
+name=Twisted teleport scroll
+model=twisted_teleport_scroll_39136
+manwear=twisted_teleport_scroll_39131,0
+womanwear=twisted_teleport_scroll_39131,6
+cost=25000
+2dzoom=1020
+2dyof=3
+2dxan=349
+2dyan=980
+iop1=Read
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_twisted_teleport_scroll_24461]
+certificate=yes
+
+[placeholder_twisted_teleport_scroll_24462]
+placeholder=yes
+
+[twisted_blueprints_24463]
+name=Twisted blueprints
+model=twisted_blueprints_39137
+cost=25000
+2dzoom=2184
+2dxan=364
+2dyan=1454
+iop1=Inspect
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_twisted_blueprints_24464]
+certificate=yes
+
+[placeholder_twisted_blueprints_24465]
+placeholder=yes
+
+[twisted_horns_24466]
+name=Twisted horns
+model=twisted_horns_39138
+cost=100000
+2dzoom=948
+2dxof=1
+2dxan=432
+iop1=Inspect
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_twisted_horns_24467]
+certificate=yes
+
+[placeholder_twisted_horns_24468]
+placeholder=yes
 

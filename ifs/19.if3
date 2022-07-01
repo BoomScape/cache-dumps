@@ -53,7 +53,6 @@ layer=interface_19:3
 model=marble_portal_nexus_36050
 originy=230
 zoom=1348
-anim=portal_nexus_367
 
 [interface_19:6]
 type=^iftype_text

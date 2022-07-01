@@ -4,10 +4,26 @@ autodisable=no
 [param_59]
 autodisable=no
 
+[param_87]
+type=enum
+default=null
+
 [param_148]
 type=int
 autodisable=no
 default=2
+
+[param_149]
+type=graphic
+default=null
+
+[param_150]
+type=namedobj
+default=null
+
+[param_151]
+type=int
+default=null
 
 [param_152]
 type=int
@@ -103,6 +119,10 @@ autodisable=no
 
 [param_356]
 autodisable=no
+
+[param_363]
+type=string
+default=null
 
 [param_364]
 autodisable=no
@@ -1095,4 +1115,12 @@ default=null
 
 [param_913]
 type=boolean
+
+[param_914]
+type=string
+default=null
+
+[param_915]
+type=enum
+default=null
 

@@ -55,7 +55,7 @@ val=0,https://osrs.game/watch-broadcast-rs
 val=1,https://osrs.game/watch-broadcast-osrs
 val=2,https://osrs.game/watch-rs-directory
 val=3,https://osrs.game/watch-osrs-directory
-val=4,https://osrs.game/GameUpdateBroadcast
+val=4,https://osrs.game/UpdateBroadcast
 val=5,https://osrs.game/NewsArchiveBroadcast
 val=6,https://osrs.game/osrsBroadcast
 val=7,https://osrs.game/watch-broadcast-jagex
@@ -769,6 +769,10 @@ val=bandos_halo_24195,Bandos halo
 val=seren_halo_24198,Seren halo
 val=ancient_halo_24201,Ancient halo
 val=brassica_halo_24204,Brassica halo
+val=twisted_coat_t1_24407,Twisted Relichunter (T1)
+val=twisted_coat_t2_24399,Twisted Relichunter (T2)
+val=twisted_coat_t3_24389,Twisted Relichunter (T3)
+val=twisted_cane_24395,Twisted Cane
 val=mime_mask_10629,Mime costume
 val=princess_blouse_10630,Royal frog costume
 val=frog_mask_10721,Frog mask
@@ -3697,6 +3701,7 @@ val=red_slayer_helmet_19647,red_slayer_helmet_i_19649
 val=purple_slayer_helmet_21264,purple_slayer_helmet_i_21266
 val=turquoise_slayer_helmet_21888,turquoise_slayer_helmet_i_21890
 val=hydra_slayer_helmet_23073,hydra_slayer_helmet_i_23075
+val=twisted_slayer_helmet_24370,twisted_slayer_helmet_i_24444
 val=salve_amulet_4081,salve_amulet_i_12017
 val=salve_amulet_e_10588,salve_amulet_ei_12018
 val=tyrannical_ring_12603,tyrannical_ring_i_12691
@@ -5789,6 +5794,7 @@ val=44,Double Trouble
 val=45,Use more head
 val=46,Basilonger
 val=47,Basilocked
+val=48,Twisted Vision
 
 [enum_835]
 inputtype=int
@@ -5842,6 +5848,7 @@ val=44,Slaying Dusk and Dawn now counts for two kills towards your task rather t
 val=45,Learn how to combine a Hydra head with your slayer helm to theme it like the Alchemical Hydra.
 val=46,"Whenever you get a Basilisk task, it will be a bigger task."
 val=47,"Konar, Duradel and Nieve will be able to assign Basilisks as your task."
+val=48,Learn how to combine Twisted Horns with your slayer helm to theme it like the Great Olm.
 
 [enum_836]
 inputtype=int
@@ -5895,6 +5902,7 @@ val=44,500
 val=45,1000
 val=46,100
 val=47,80
+val=48,1000
 
 [enum_837]
 inputtype=int
@@ -5948,6 +5956,7 @@ val=44,midnight_21750
 val=45,hydra_slayer_helmet_23073
 val=46,basilisk_4139
 val=47,basilisk_4139
+val=48,twisted_slayer_helmet_24370
 
 [enum_839]
 inputtype=int
@@ -5977,6 +5986,7 @@ val=20,37
 val=21,43
 val=22,44
 val=23,47
+val=24,48
 
 [enum_840]
 inputtype=int
@@ -13057,6 +13067,18 @@ val=15,12
 val=16,13
 val=17,16
 val=18,15
+val=19,19
+val=20,20
+val=21,21
+val=22,22
+val=23,23
+val=24,24
+val=25,25
+val=26,26
+val=27,27
+val=28,28
+val=29,29
+val=30,30
 
 [enum_1376]
 inputtype=int
@@ -13091,6 +13113,18 @@ val=15,troll_stronghold_467
 val=16,catherby_468
 val=17,ghorrock_469
 val=18,carrallangar_470
+val=19,weiss_592
+val=20,lumbridge_grave_1245
+val=21,draynor_manor_1246
+val=22,battlefront_1247
+val=23,mind_altar_1248
+val=24,salve_graveyard_1249
+val=25,fenken_castle_1250
+val=26,west_ardougne_1251
+val=27,harmony_island_1252
+val=28,cemetery_1253
+val=29,barrows_1254
+val=30,ape_atoll_dungeon_1255
 
 [enum_1378]
 inputtype=int
@@ -17691,10 +17725,10 @@ val=64,bottled_dragonbreath_23002
 inputtype=component
 outputtype=int
 default=0
-val=interface_12:56,1
-val=interface_12:58,2
-val=interface_12:60,3
-val=interface_12:62,4
+val=interface_12:55,1
+val=interface_12:57,2
+val=interface_12:59,3
+val=interface_12:61,4
 
 [enum_1911]
 inputtype=int
@@ -24878,15 +24912,55 @@ val=13,interface_84:21
 inputtype=int
 outputtype=component
 default=null
-val=0,interface_12:74
-val=1,interface_12:75
-val=2,interface_12:76
-val=3,interface_12:77
-val=4,interface_12:78
-val=5,interface_12:79
-val=7,interface_12:80
-val=9,interface_12:81
-val=10,interface_12:82
-val=12,interface_12:83
-val=13,interface_12:84
+val=0,interface_12:73
+val=1,interface_12:74
+val=2,interface_12:75
+val=3,interface_12:76
+val=4,interface_12:77
+val=5,interface_12:78
+val=7,interface_12:79
+val=9,interface_12:80
+val=10,interface_12:81
+val=12,interface_12:82
+val=13,interface_12:83
+
+[enum_2779]
+inputtype=int
+outputtype=struct
+default=null
+val=0,struct_1256
+val=1,struct_1257
+val=2,struct_1258
+val=3,struct_1259
+val=4,struct_1260
+val=5,struct_1261
+val=6,struct_1262
+
+[enum_2780]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,twisted_boots_t1_24411
+val=1,twisted_hat_t1_24405
+val=2,twisted_trousers_t1_24409
+val=3,twisted_coat_t1_24407
+
+[enum_2781]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,twisted_boots_t2_24403
+val=1,twisted_hat_t2_24397
+val=2,twisted_trousers_t2_24401
+val=3,twisted_coat_t2_24399
+
+[enum_2782]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,twisted_boots_t3_24393
+val=1,twisted_hat_t3_24387
+val=2,twisted_trousers_t3_24391
+val=3,twisted_coat_t3_24389
+val=4,twisted_cane_24395
 
