@@ -10,7 +10,7 @@ height=330
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_12:0
-onload="script274(event_com,786434,786538,786539,786440,786498,786479,786443,786444,786445,786447,786449,786468,786452,786454,786470,786435,786436,786441,786476,786477,786540,786458,786460,786462,786464,786466,786456,786472,786473,786474,786475)"
+onload="script274(event_com,786434,786539,786540,786441,786499,786480,786444,786445,786446,786448,786450,786469,786453,786455,786471,786435,786437,786442,786477,786478,786542,786459,786461,786463,786465,786467,786457,786473,786474,786475,786476,786436)"
 
 [interface_12:2]
 type=^iftype_layer
@@ -34,6 +34,15 @@ valign=^settextalign_centre
 shadowed=yes
 
 [interface_12:4]
+type=^iftype_layer
+x=30
+y=7
+width=21
+height=21
+hposmode=^setpos_abs_right
+layer=interface_12:1
+
+[interface_12:5]
 type=^iftype_text
 x=3
 y=6
@@ -45,7 +54,7 @@ font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_12:5]
+[interface_12:6]
 type=^iftype_line
 x=13
 y=17
@@ -53,7 +62,7 @@ width=12
 layer=interface_12:1
 colour=0xff981f
 
-[interface_12:6]
+[interface_12:7]
 type=^iftype_layer
 x=3
 y=6
@@ -62,20 +71,20 @@ height=24
 layer=interface_12:1
 noclickthrough=yes
 
-[interface_12:7]
+[interface_12:8]
 type=^iftype_text
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_12:6
+layer=interface_12:7
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_bottom
 shadowed=yes
 
-[interface_12:8]
+[interface_12:9]
 type=^iftype_layer
 y=5
 width=10
@@ -87,21 +96,21 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_12:1
 
-[interface_12:9]
+[interface_12:10]
 type=^iftype_layer
 width=478
 height=40
 hposmode=^setpos_abs_centre
-layer=interface_12:8
+layer=interface_12:9
 
-[interface_12:10]
+[interface_12:11]
 type=^iftype_line
 y=39
 width=488
-layer=interface_12:9
+layer=interface_12:10
 colour=0x2e2b23
 
-[interface_12:11]
+[interface_12:12]
 type=^iftype_layer
 x=1
 y=39
@@ -109,9 +118,9 @@ width=460
 height=81
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:8
+layer=interface_12:9
 
-[interface_12:12]
+[interface_12:13]
 type=^iftype_layer
 x=1
 y=39
@@ -120,21 +129,21 @@ height=81
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:8
+layer=interface_12:9
 
-[interface_12:13]
+[interface_12:14]
 type=^iftype_layer
 height=37
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_12:8
+layer=interface_12:9
 
-[interface_12:14]
+[interface_12:15]
 type=^iftype_text
 width=100
 height=15
-layer=interface_12:13
+layer=interface_12:14
 text="Rearrange mode:"
 colour=0xff981f
 font=p12_full
@@ -142,25 +151,25 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:15]
+[interface_12:16]
 type=^iftype_layer
 width=50
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 optionmask=2
 op1="Swap"
-onmouseover="script45(786448,16777215)"
-onmouseleave="script45(786448,16750623)"
+onmouseover="script45(786449,16777215)"
+onmouseleave="script45(786449,16750623)"
 
-[interface_12:16]
+[interface_12:17]
 type=^iftype_text
 width=50
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 text="Swap"
 colour=0xff981f
 font=p12_full
@@ -168,27 +177,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:17]
+[interface_12:18]
 type=^iftype_layer
 x=50
 width=50
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 optionmask=2
 op1="Insert"
-onmouseover="script45(786450,16777215)"
-onmouseleave="script45(786450,16750623)"
+onmouseover="script45(786451,16777215)"
+onmouseleave="script45(786451,16750623)"
 
-[interface_12:18]
+[interface_12:19]
 type=^iftype_text
 x=50
 width=50
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 text="Insert"
 colour=0xff981f
 font=p12_full
@@ -196,12 +205,12 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:19]
+[interface_12:20]
 type=^iftype_text
 x=100
 width=100
 height=15
-layer=interface_12:13
+layer=interface_12:14
 text="Withdraw as:"
 colour=0xff981f
 font=p12_full
@@ -209,27 +218,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:20]
+[interface_12:21]
 type=^iftype_layer
 x=100
 width=50
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 optionmask=2
 op1="Item"
-onmouseover="script45(786453,16777215)"
-onmouseleave="script45(786453,16750623)"
+onmouseover="script45(786454,16777215)"
+onmouseleave="script45(786454,16750623)"
 
-[interface_12:21]
+[interface_12:22]
 type=^iftype_text
 x=100
 y=15
 width=50
 height=15
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 text="Item"
 colour=0xff981f
 font=p12_full
@@ -237,27 +246,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:22]
+[interface_12:23]
 type=^iftype_layer
 x=150
 width=50
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 optionmask=2
 op1="Note"
-onmouseover="script45(786455,16777215)"
-onmouseleave="script45(786455,16750623)"
+onmouseover="script45(786456,16777215)"
+onmouseleave="script45(786456,16750623)"
 
-[interface_12:23]
+[interface_12:24]
 type=^iftype_text
 x=150
 y=15
 width=50
 height=15
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 text="Note"
 colour=0xff981f
 font=p12_full
@@ -265,18 +274,18 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:24]
+[interface_12:25]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_12:13
+layer=interface_12:14
 
-[interface_12:25]
+[interface_12:26]
 type=^iftype_text
 x=200
 width=125
 height=15
-layer=interface_12:24
+layer=interface_12:25
 text="Quantity:"
 colour=0xff981f
 font=p12_full
@@ -284,27 +293,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:26]
+[interface_12:27]
 type=^iftype_layer
 x=200
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 optionmask=2
 op1="Default quantity: 1"
-onmouseover="script45(786459,16777215)"
-onmouseleave="script45(786459,16750623)"
+onmouseover="script45(786460,16777215)"
+onmouseleave="script45(786460,16750623)"
 
-[interface_12:27]
+[interface_12:28]
 type=^iftype_text
 x=200
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 text="1"
 colour=0xff981f
 font=p12_full
@@ -312,27 +321,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:28]
+[interface_12:29]
 type=^iftype_layer
 x=225
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 optionmask=2
 op1="Default quantity: 5"
-onmouseover="script45(786461,16777215)"
-onmouseleave="script45(786461,16750623)"
+onmouseover="script45(786462,16777215)"
+onmouseleave="script45(786462,16750623)"
 
-[interface_12:29]
+[interface_12:30]
 type=^iftype_text
 x=225
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 text="5"
 colour=0xff981f
 font=p12_full
@@ -340,27 +349,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:30]
+[interface_12:31]
 type=^iftype_layer
 x=250
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 optionmask=2
 op1="Default quantity: 10"
-onmouseover="script45(786463,16777215)"
-onmouseleave="script45(786463,16750623)"
+onmouseover="script45(786464,16777215)"
+onmouseleave="script45(786464,16750623)"
 
-[interface_12:31]
+[interface_12:32]
 type=^iftype_text
 x=250
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 text="10"
 colour=0xff981f
 font=p12_full
@@ -368,28 +377,28 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:32]
+[interface_12:33]
 type=^iftype_layer
 x=275
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 optionmask=6
 op1="*"
 op2="Set custom quantity"
-onmouseover="script45(786465,16777215)"
-onmouseleave="script45(786465,16750623)"
+onmouseover="script45(786466,16777215)"
+onmouseleave="script45(786466,16750623)"
 
-[interface_12:33]
+[interface_12:34]
 type=^iftype_text
 x=275
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 text="X"
 colour=0xff981f
 font=p12_full
@@ -397,27 +406,27 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:34]
+[interface_12:35]
 type=^iftype_layer
 x=300
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 optionmask=2
 op1="Default quantity: All"
-onmouseover="script45(786467,16777215)"
-onmouseleave="script45(786467,16750623)"
+onmouseover="script45(786468,16777215)"
+onmouseleave="script45(786468,16750623)"
 
-[interface_12:35]
+[interface_12:36]
 type=^iftype_text
 x=300
 width=25
 height=15
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_12:24
+layer=interface_12:25
 text="All"
 colour=0xff981f
 font=p12_full
@@ -425,129 +434,129 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_12:36]
+[interface_12:37]
 type=^iftype_graphic
 x=326
 width=36
 height=36
-layer=interface_12:13
+layer=interface_12:14
 graphic="miscgraphics,0"
 optionmask=2
 opbase="<col=ff9040>Always set placeholders</col>"
 op1="*"
-onmouseover="script273(786469,75)"
-onmouseleave="script273(786469,0)"
+onmouseover="script273(786470,75)"
+onmouseleave="script273(786470,0)"
 
-[interface_12:37]
+[interface_12:38]
 type=^iftype_graphic
 x=329
 y=7
 width=29
 height=22
-layer=interface_12:13
+layer=interface_12:14
 graphic="bankbuttons,7"
 shadow=3355443
 
-[interface_12:38]
+[interface_12:39]
 type=^iftype_graphic
 x=365
 width=36
 height=36
-layer=interface_12:13
+layer=interface_12:14
 graphic="miscgraphics,0"
 optionmask=2
 op1="Search"
-onmouseover="script273(786471,75)"
-onmouseleave="script273(786471,0)"
+onmouseover="script273(786472,75)"
+onmouseleave="script273(786472,0)"
 
-[interface_12:39]
+[interface_12:40]
 type=^iftype_graphic
 x=368
 y=7
 width=29
 height=22
-layer=interface_12:13
+layer=interface_12:14
 graphic="bankbuttons,2"
 shadow=3355443
 
-[interface_12:40]
+[interface_12:41]
 type=^iftype_graphic
 x=404
 width=36
 height=36
-layer=interface_12:13
+layer=interface_12:14
 graphic="miscgraphics,0"
 optionmask=2
 op1="Deposit inventory"
-onmouseover="script273(786473,75)"
-onmouseleave="script273(786473,0)"
+onmouseover="script273(786474,75)"
+onmouseleave="script273(786474,0)"
 onop="script292(event_com,179,170,event_opindex)"
 
-[interface_12:41]
+[interface_12:42]
 type=^iftype_graphic
 x=406
 y=7
 width=29
 height=22
-layer=interface_12:13
+layer=interface_12:14
 graphic="bankbuttons,0"
 shadow=3355443
 
-[interface_12:42]
+[interface_12:43]
 type=^iftype_graphic
 x=441
 width=36
 height=36
-layer=interface_12:13
+layer=interface_12:14
 graphic="miscgraphics,0"
 optionmask=2
 op1="Deposit worn items"
-onmouseover="script273(786475,75)"
-onmouseleave="script273(786475,0)"
+onmouseover="script273(786476,75)"
+onmouseleave="script273(786476,0)"
 onop="script292(event_com,179,170,event_opindex)"
 
-[interface_12:43]
+[interface_12:44]
 type=^iftype_graphic
 x=444
 y=7
 width=29
 height=22
-layer=interface_12:13
+layer=interface_12:14
 graphic="bankbuttons,1"
 shadow=3355443
 
-[interface_12:44]
+[interface_12:45]
 type=^iftype_layer
 y=39
 width=52
 height=70
 vposmode=^setpos_abs_bottom
 hide=yes
-layer=interface_12:8
+layer=interface_12:9
 optionmask=1048576
 
-[interface_12:45]
+[interface_12:46]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_12:8
+layer=interface_12:9
 noclickthrough=yes
 
-[interface_12:46]
+[interface_12:47]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_12:45
+layer=interface_12:46
 graphic="tradebacking"
 tiling=yes
 trans=100
 
-[interface_12:47]
+[interface_12:48]
 type=^iftype_layer
 y=5
 width=10
@@ -559,24 +568,14 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_12:1
 
-[interface_12:48]
+[interface_12:49]
 type=^iftype_layer
 y=5
 width=278
 height=92
 hposmode=^setpos_abs_centre
-layer=interface_12:47
+layer=interface_12:48
 onload="script517(event_com)"
-
-[interface_12:49]
-type=^iftype_layer
-y=101
-width=200
-height=17
-hposmode=^setpos_abs_centre
-layer=interface_12:47
-optionmask=2
-op1="*"
 
 [interface_12:50]
 type=^iftype_layer
@@ -584,20 +583,20 @@ y=101
 width=200
 height=17
 hposmode=^setpos_abs_centre
-layer=interface_12:47
+layer=interface_12:48
 optionmask=2
 op1="*"
-onload="script1428(event_com,786481,786483,786484)"
 
 [interface_12:51]
 type=^iftype_layer
-y=122
+y=101
 width=200
 height=17
 hposmode=^setpos_abs_centre
-layer=interface_12:47
+layer=interface_12:48
 optionmask=2
 op1="*"
+onload="script1428(event_com,786482,786484,786485)"
 
 [interface_12:52]
 type=^iftype_layer
@@ -605,49 +604,59 @@ y=122
 width=200
 height=17
 hposmode=^setpos_abs_centre
-layer=interface_12:47
+layer=interface_12:48
 optionmask=2
 op1="*"
 
 [interface_12:53]
 type=^iftype_layer
+y=122
+width=200
+height=17
+hposmode=^setpos_abs_centre
+layer=interface_12:48
+optionmask=2
+op1="*"
+
+[interface_12:54]
+type=^iftype_layer
 y=143
 width=204
 height=36
 hposmode=^setpos_abs_centre
-layer=interface_12:47
+layer=interface_12:48
 optionmask=64
 op6="*"
 onload="script1270(event_com)"
 
-[interface_12:54]
+[interface_12:55]
 type=^iftype_layer
 y=182
 width=204
 height=103
 hposmode=^setpos_abs_centre
-layer=interface_12:47
+layer=interface_12:48
 onload="script2207(event_com)"
 
-[interface_12:55]
+[interface_12:56]
 type=^iftype_graphic
 x=6
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="1"
 onload="script2208(event_com,1)"
 
-[interface_12:56]
+[interface_12:57]
 type=^iftype_text
 x=6
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="1"
 colour=0xf7f0df
 font=b12_full
@@ -657,25 +666,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:57]
+[interface_12:58]
 type=^iftype_graphic
 x=45
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="10"
 onload="script2208(event_com,10)"
 
-[interface_12:58]
+[interface_12:59]
 type=^iftype_text
 x=45
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="10"
 colour=0xf7f0df
 font=b12_full
@@ -685,25 +694,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:59]
+[interface_12:60]
 type=^iftype_graphic
 x=84
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="50"
 onload="script2208(event_com,50)"
 
-[interface_12:60]
+[interface_12:61]
 type=^iftype_text
 x=84
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="50"
 colour=0xf7f0df
 font=b12_full
@@ -713,25 +722,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:61]
+[interface_12:62]
 type=^iftype_graphic
 x=123
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="X"
 onload="script2208(event_com,X)"
 
-[interface_12:62]
+[interface_12:63]
 type=^iftype_text
 x=123
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="X"
 colour=0xf7f0df
 font=b12_full
@@ -741,25 +750,25 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:63]
+[interface_12:64]
 type=^iftype_graphic
 x=162
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 graphic="miscgraphics,0"
 optionmask=2
 op1="All"
 onload="script2208(event_com,All)"
 
-[interface_12:64]
+[interface_12:65]
 type=^iftype_text
 x=162
 y=25
 width=36
 height=36
-layer=interface_12:54
+layer=interface_12:55
 text="All"
 colour=0xf7f0df
 font=b12_full
@@ -769,7 +778,7 @@ shadowed=yes
 onmouseover="script45(event_com,14202273)"
 onmouseleave="script45(event_com,16249055)"
 
-[interface_12:65]
+[interface_12:66]
 type=^iftype_layer
 x=4
 y=4
@@ -777,12 +786,12 @@ width=8
 height=36
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_12:54
+layer=interface_12:55
 optionmask=2
 op1="*"
 onload="script2211(event_com)"
 
-[interface_12:66]
+[interface_12:67]
 type=^iftype_layer
 y=5
 width=10
@@ -794,7 +803,7 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_12:1
 
-[interface_12:67]
+[interface_12:68]
 type=^iftype_model
 contenttype=328
 y=116
@@ -802,99 +811,86 @@ width=136
 height=168
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 zoom=550
 
-[interface_12:68]
+[interface_12:69]
 type=^iftype_graphic
 x=66
 y=-5
 width=36
 height=124
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_12:69]
+[interface_12:70]
 type=^iftype_graphic
 x=10
 y=34
 width=36
 height=45
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_12:70]
+[interface_12:71]
 type=^iftype_graphic
 x=122
 y=34
 width=36
 height=45
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 graphic="miscgraphics,2"
 tiling=yes
 
-[interface_12:71]
+[interface_12:72]
 type=^iftype_graphic
 x=45
 y=-7
 width=78
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 graphic="miscgraphics,3"
 tiling=yes
 
-[interface_12:72]
+[interface_12:73]
 type=^iftype_graphic
 x=60
 y=-46
 width=48
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 graphic="miscgraphics,3"
 tiling=yes
 
-[interface_12:73]
+[interface_12:74]
 type=^iftype_layer
 x=66
 y=-84
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
 op10="*"
 onload="script3281(2777,0)"
 
-[interface_12:74]
+[interface_12:75]
 type=^iftype_layer
 x=25
 y=-45
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
-optionmask=1030
-op1="*"
-op2="*"
-op10="*"
-
-[interface_12:75]
-type=^iftype_layer
-x=66
-y=-45
-width=36
-height=36
-vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -902,12 +898,12 @@ op10="*"
 
 [interface_12:76]
 type=^iftype_layer
-x=10
-y=-6
+x=66
+y=-45
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -915,12 +911,12 @@ op10="*"
 
 [interface_12:77]
 type=^iftype_layer
-x=66
+x=10
 y=-6
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -928,12 +924,12 @@ op10="*"
 
 [interface_12:78]
 type=^iftype_layer
-x=122
+x=66
 y=-6
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -941,12 +937,12 @@ op10="*"
 
 [interface_12:79]
 type=^iftype_layer
-x=66
-y=34
+x=122
+y=-6
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -954,12 +950,12 @@ op10="*"
 
 [interface_12:80]
 type=^iftype_layer
-x=10
-y=74
+x=66
+y=34
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -967,12 +963,12 @@ op10="*"
 
 [interface_12:81]
 type=^iftype_layer
-x=66
+x=10
 y=74
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -980,12 +976,12 @@ op10="*"
 
 [interface_12:82]
 type=^iftype_layer
-x=122
+x=66
 y=74
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
@@ -993,311 +989,324 @@ op10="*"
 
 [interface_12:83]
 type=^iftype_layer
-x=107
-y=-45
+x=122
+y=74
 width=36
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 optionmask=1030
 op1="*"
 op2="*"
 op10="*"
 
 [interface_12:84]
+type=^iftype_layer
+x=107
+y=-45
+width=36
+height=36
+vposmode=^setpos_abs_centre
+layer=interface_12:67
+optionmask=1030
+op1="*"
+op2="*"
+op10="*"
+
+[interface_12:85]
 type=^iftype_text
 y=-134
 width=155
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 text="Attack bonus"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_12:85]
+[interface_12:86]
 type=^iftype_text
 y=-121
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of hitting successfully when you attack.,25,250)"
 
-[interface_12:86]
+[interface_12:87]
 type=^iftype_text
 y=-108
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of hitting successfully when you attack.,25,250)"
 
-[interface_12:87]
+[interface_12:88]
 type=^iftype_text
 y=-95
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of hitting successfully when you attack.,25,250)"
 
-[interface_12:88]
+[interface_12:89]
 type=^iftype_text
 y=-82
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of hitting successfully when you attack.,25,250)"
 
-[interface_12:89]
+[interface_12:90]
 type=^iftype_text
 y=-69
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of hitting successfully when you attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of hitting successfully when you attack.,25,250)"
 
-[interface_12:90]
+[interface_12:91]
 type=^iftype_text
 y=-49
 width=155
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 text="Defence bonus"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_12:91]
+[interface_12:92]
 type=^iftype_text
 y=-36
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of blocking an attack.,25,250)"
 
-[interface_12:92]
+[interface_12:93]
 type=^iftype_text
 y=-23
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of blocking an attack.,25,250)"
 
-[interface_12:93]
+[interface_12:94]
 type=^iftype_text
 y=-10
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of blocking an attack.,25,250)"
 
-[interface_12:94]
+[interface_12:95]
 type=^iftype_text
 y=3
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of blocking an attack.,25,250)"
 
-[interface_12:95]
+[interface_12:96]
 type=^iftype_text
 y=16
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your chance of blocking an attack.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your chance of blocking an attack.,25,250)"
 
-[interface_12:96]
+[interface_12:97]
 type=^iftype_text
 y=35
 width=155
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 text="Other bonuses"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_12:97]
+[interface_12:98]
 type=^iftype_text
 y=49
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your max hit for melee.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your max hit for melee.,25,250)"
 
-[interface_12:98]
+[interface_12:99]
 type=^iftype_text
 y=62
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your max hit when ranging.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your max hit when ranging.,25,250)"
 
-[interface_12:99]
+[interface_12:100]
 type=^iftype_text
 y=75
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases the max hit of your Magic attacks.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases the max hit of your Magic attacks.,25,250)"
 
-[interface_12:100]
+[interface_12:101]
 type=^iftype_text
 y=88
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Reduces the rate at which your prayer points drain while you are praying.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Reduces the rate at which your prayer points drain while you are praying.,25,250)"
 
-[interface_12:101]
+[interface_12:102]
 type=^iftype_text
 y=107
 width=155
 height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 text="Target-specific"
 colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_12:102]
+[interface_12:103]
 type=^iftype_text
 y=121
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,"Increases your effective accuracy and damage against undead creatures. For multi-target Ranged and Magic attacks, this applies only to the primary target. It does not stack with the Slayer multiplier.",25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,"Increases your effective accuracy and damage against undead creatures. For multi-target Ranged and Magic attacks, this applies only to the primary target. It does not stack with the Slayer multiplier.",25,250)"
 
-[interface_12:103]
+[interface_12:104]
 type=^iftype_text
 y=134
 width=147
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff981f
 font=p12_full
 shadowed=yes
-onmouseleave="script40(786540)"
-onmouserepeat="script526(event_com,-1,786540,Increases your effective accuracy and damage against your Slayer target. This does not stack with the Undead multiplier.,25,250)"
+onmouseleave="script40(786542)"
+onmouserepeat="script526(event_com,-1,786542,Increases your effective accuracy and damage against your Slayer target. This does not stack with the Undead multiplier.,25,250)"
 
-[interface_12:104]
+[interface_12:105]
 type=^iftype_graphic
 x=49
 y=116
 width=17
 height=18
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 graphic="options_icons_small,0"
 
-[interface_12:105]
+[interface_12:106]
 type=^iftype_text
 x=70
 y=116
 width=62
 height=18
 vposmode=^setpos_abs_centre
-layer=interface_12:66
+layer=interface_12:67
 colour=0xff9800
 font=p12_full
 valign=^settextalign_centre
@@ -1305,7 +1314,7 @@ shadowed=yes
 onload="script547(event_com)"
 oninvtransmit="script547(event_com){inv,worn}"
 
-[interface_12:106]
+[interface_12:107]
 type=^iftype_layer
 x=12
 y=42
@@ -1315,7 +1324,7 @@ hposmode=^setpos_abs_right
 hide=yes
 layer=interface_12:1
 
-[interface_12:107]
+[interface_12:108]
 type=^iftype_layer
 x=12
 y=42
@@ -1324,7 +1333,17 @@ height=25
 hide=yes
 layer=interface_12:1
 
-[interface_12:108]
+[interface_12:109]
+type=^iftype_layer
+width=488
+height=30
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_12:1
+
+[interface_12:110]
 type=^iftype_layer
 width=1
 height=1

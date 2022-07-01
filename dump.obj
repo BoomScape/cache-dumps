@@ -5521,6 +5521,7 @@ model=ghosts_skull_14992
 2dyof=-10
 2dxan=160
 2dyan=64
+iop1=Inspect
 placeholder=yes
 
 [fire_rune_554]
@@ -59502,8 +59503,6 @@ model=model_36010
 2dxof=-5
 2dyof=2
 2dxan=588
-recol1s=61
-recol1d=99
 ambient=30
 
 [morytania_legs_5093]
@@ -233617,6 +233616,7 @@ recol1d=-3401
 members=yes
 ambient=-55
 certificate=yes
+placeholder=yes
 
 [cert_blighted_super_restore_3_24602]
 certificate=yes
@@ -233636,6 +233636,7 @@ recol1d=-3401
 members=yes
 ambient=-55
 certificate=yes
+placeholder=yes
 
 [cert_blighted_super_restore_2_24604]
 certificate=yes
@@ -233655,6 +233656,7 @@ recol1d=-3401
 members=yes
 ambient=-55
 certificate=yes
+placeholder=yes
 
 [cert_blighted_super_restore_1_24606]
 certificate=yes
@@ -233739,8 +233741,8 @@ placeholder=yes
 [placeholder_blighted_entangle_sack_24614]
 placeholder=yes
 
-[blighted_teleblock_sack_24615]
-name=Blighted teleblock sack
+[blighted_teleport_spell_sack_24615]
+name=Blighted teleport spell sack
 model=blighted_ancient_ice_sack_34535
 cost=32
 2dzoom=650
@@ -233756,7 +233758,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 
-[placeholder_blighted_teleblock_sack_24616]
+[placeholder_blighted_teleport_spell_sack_24616]
 placeholder=yes
 
 [vestas_blighted_longsword_24617]
@@ -234014,4 +234016,56 @@ certificate=yes
 
 [placeholder_divine_bastion_potion_1_24646]
 placeholder=yes
+
+[placeholder_blighted_super_restore_3_24647]
+placeholder=yes
+
+[placeholder_blighted_super_restore_2_24648]
+placeholder=yes
+
+[placeholder_blighted_super_restore_1_24649]
+placeholder=yes
+
+[logs_24650]
+name=Logs
+model=logs_7760
+cost=4
+2dzoom=1180
+2dyof=-7
+2dxan=120
+2dyan=1852
+op4=Light
+placeholder=yes
+
+[placeholder_logs_24651]
+placeholder=yes
+
+[raw_shrimps_24652]
+name=Raw shrimps
+model=shrimps_2590
+cost=5
+2dzoom=950
+2dxan=272
+2dyan=552
+recol1s=6080
+recol1d=3299
+recol2s=4032
+recol2d=3546
+certificate=yes
+placeholder=yes
+
+[cert_raw_shrimps_24653]
+certificate=yes
+
+[placeholder_raw_shrimps_24654]
+placeholder=yes
+
+[bones_24655]
+name=Bones
+model=sheep_bones_1_2674
+2dzoom=1410
+2dxof=2
+2dxan=400
+2dyan=368
+iop1=Bury
 
