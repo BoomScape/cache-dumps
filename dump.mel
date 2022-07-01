@@ -3742,3 +3742,15 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_624]
+text=River<br>Dougne
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_625]
+text=River<br>Hos
+colour=^white
+mapfunction=no
+category=1129
+

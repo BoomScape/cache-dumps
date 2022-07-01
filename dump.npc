@@ -41975,35 +41975,6 @@ size=2
 vislevel=106
 drawpriority=yes
 
-[giant_frog_2143]
-name=Giant frog
-model1=frog_6947
-readyanim=frog_ready_1796
-walkanim=frog_walk_1797
-op2=Attack
-size=2
-vislevel=13
-
-[big_frog_2144]
-name=Big frog
-model1=frog_6947
-readyanim=frog_ready_1796
-walkanim=frog_walk_1797
-resizeh=64
-resizev=64
-op2=Attack
-vislevel=10
-
-[frog_2145]
-name=Frog
-model1=frog_6947
-readyanim=frog_ready_1796
-walkanim=frog_walk_1797
-resizeh=32
-resizev=32
-op2=Attack
-vislevel=5
-
 [fishing_spot_2146]
 name=Fishing spot
 model1=fishing_spot_1491
@@ -175218,4 +175189,33 @@ readyanim=ghost_ready_5538
 walkanim=ghost_walk_5539
 op1=Talk-to
 vislevel=0
+
+[giant_frog_8700]
+name=Giant frog
+model1=frog_6947
+readyanim=frog_ready_1796
+walkanim=frog_walk_1797
+op2=Attack
+size=2
+vislevel=13
+
+[big_frog_8701]
+name=Big frog
+model1=frog_6947
+readyanim=frog_ready_1796
+walkanim=frog_walk_1797
+resizeh=64
+resizev=64
+op2=Attack
+vislevel=10
+
+[frog_8702]
+name=Frog
+model1=frog_6947
+readyanim=frog_ready_1796
+walkanim=frog_walk_1797
+resizeh=32
+resizev=32
+op2=Attack
+vislevel=5
 

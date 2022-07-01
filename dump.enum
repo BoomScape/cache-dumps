@@ -518,6 +518,9 @@ val=enum_919,enum_920
 val=enum_921,enum_922
 val=enum_923,enum_924
 val=enum_925,enum_926
+val=enum_2336,enum_2337
+val=enum_2338,enum_2339
+val=enum_2340,enum_2341
 val=enum_927,enum_928
 val=enum_929,enum_930
 val=enum_931,enum_932
@@ -1863,6 +1866,21 @@ val=3,interface_162:22
 val=4,interface_162:27
 val=5,interface_162:32
 val=1,interface_162:12
+
+[enum_687]
+inputtype=enum
+outputtype=string
+default=Choose carefully!
+val=enum_913,Should melee combat be allowed?
+val=enum_915,Should ranged combat be allowed?
+val=enum_917,Should magical combat be allowed?
+val=enum_919,Should prayers be allowed?
+val=enum_921,Should food be allowed?
+val=enum_923,"Should drinks, such as potions, be allowed?"
+val=enum_925,"Should special attacks be allowed?<br>The Staff of the Dead, and equivalent items, can be barred even if other special attacks are permitted."
+val=enum_2336,"What should happen to a player who leaves a chat-channel mid-fight?<br>The game may attempt to count it as a kill by the opposing team, if selected."
+val=enum_2338,Should players be able to rejoin the fight without a delay after dying?
+val=enum_2340,How large a team is permitted?
 
 [enum_688]
 inputtype=int
@@ -6866,6 +6884,7 @@ val=mysterious_emblem_tier_8_12754,yes
 val=mysterious_emblem_tier_9_12755,yes
 val=mysterious_emblem_tier_10_12756,yes
 val=clue_box_12789,yes
+val=larrans_key_23490,yes
 val=deadman_teleport_tablet_13666,yes
 val=bracelet_of_ethereum_uncharged_21817,yes
 val=bracelet_of_ethereum_21816,yes
@@ -7353,7 +7372,7 @@ outputtype=string
 default=
 val=-1,Prayer
 val=0,All allowed
-val=1,No overheads
+val=1,No overhead icons
 val=2,Disabled
 
 [enum_920]
@@ -7494,6 +7513,9 @@ val=enum_919,"staticons,4"
 val=enum_921,"staticons,15"
 val=enum_923,"staticons2,8"
 val=enum_925,"staticons2,9"
+val=enum_2336,"staticons2,10"
+val=enum_2338,"staticons2,11"
+val=enum_2340,"staticons2,12"
 
 [enum_934]
 inputtype=int
@@ -9377,26 +9399,27 @@ val=393,trident_of_the_swamp_e_22292
 val=394,twisted_buckler_21000
 val=395,dinhs_bulwark_21015
 val=396,imbued_heart_20724
-val=397,avernic_defender_22322
-val=398,justiciar_faceguard_22326
-val=399,justiciar_chestguard_22327
-val=400,justiciar_legguards_22328
-val=401,vestas_spear_22610
-val=402,vestas_longsword_22613
-val=403,statiuss_warhammer_22622
-val=404,morrigans_throwing_axe_22634
-val=405,morrigans_javelin_22636
-val=406,zuriels_staff_22647
-val=407,boots_of_brimstone_22951
-val=408,ferocious_gloves_22981
-val=409,dragon_hunter_lance_22978
-val=410,brimstone_ring_22975
-val=411,devout_boots_22954
-val=412,dragon_hasta_22731
-val=413,dragon_hasta_p_22740
-val=414,dragon_knife_22804
-val=415,dragon_knife_p_22810
-val=416,spiked_manacles_23389
+val=397,tinderbox_590
+val=398,avernic_defender_22322
+val=399,justiciar_faceguard_22326
+val=400,justiciar_chestguard_22327
+val=401,justiciar_legguards_22328
+val=402,vestas_spear_22610
+val=403,vestas_longsword_22613
+val=404,statiuss_warhammer_22622
+val=405,morrigans_throwing_axe_22634
+val=406,morrigans_javelin_22636
+val=407,zuriels_staff_22647
+val=408,boots_of_brimstone_22951
+val=409,ferocious_gloves_22981
+val=410,dragon_hunter_lance_22978
+val=411,brimstone_ring_22975
+val=412,devout_boots_22954
+val=413,dragon_hasta_22731
+val=414,dragon_hasta_p_22740
+val=415,dragon_knife_22804
+val=416,dragon_knife_p_22810
+val=417,spiked_manacles_23389
 
 [enum_1125]
 inputtype=int
@@ -22058,4 +22081,72 @@ val=3,short green guy_597
 val=4,drunk dragon_598
 val=5,chocolate saturday_599
 val=6,blurberry special_600
+
+[enum_2336]
+inputtype=int
+outputtype=string
+default=
+val=-1,Leaving channel
+val=0,Counts as death
+val=1,No penalty
+
+[enum_2337]
+inputtype=int
+outputtype=string
+default=Choose carefully!
+val=0,"If a player leaves the chat-channel during the fight, the game will attempt to count it as a kill by the opposing team."
+val=1,Players may leave the chat-channel during the fight without a penalty.
+
+[enum_2338]
+inputtype=int
+outputtype=string
+default=
+val=-1,Rejoining
+val=0,Unrestricted
+val=1,60 secs delay
+
+[enum_2339]
+inputtype=int
+outputtype=string
+default=Choose carefully!
+val=0,Players may rejoin the fight without a delay.
+val=1,Players must wait 60 seconds before returning to a fight.
+
+[enum_2340]
+inputtype=int
+outputtype=string
+default=
+val=-1,Team cap
+val=0,Uncapped
+val=1,5 v 5
+val=2,10 v 10
+val=3,15 v 15
+val=4,20 v 20
+val=5,30 v 30
+
+[enum_2341]
+inputtype=int
+outputtype=string
+default=
+val=0,Max team size: Whole chat-channels
+val=1,Max team size: 5 v 5
+val=2,Max team size: 10 v 10
+val=3,Max team size: 15 v 15
+val=4,Max team size: 20 v 20
+val=5,Max team size: 30 v 30
+
+[enum_2343]
+inputtype=int
+outputtype=component
+default=null
+val=0,interface_91:35
+val=1,interface_91:36
+val=2,interface_91:37
+val=3,interface_91:38
+val=4,interface_91:39
+val=5,interface_91:40
+val=6,interface_91:41
+val=7,interface_91:42
+val=8,interface_91:43
+val=9,interface_91:44
 
