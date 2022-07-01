@@ -109,17 +109,13 @@ hsizemode=^setsize_minus
 layer=interface_642:9
 
 [interface_642:13]
-type=^iftype_text
+type=^iftype_layer
 x=5
 y=40
 width=183
 height=195
 hsizemode=^setsize_minus
 layer=interface_642:9
-colour=^white
-font=p12_full
-paraheight=15
-shadowed=yes
 
 [interface_642:14]
 type=^iftype_layer

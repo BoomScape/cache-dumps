@@ -857,11 +857,11 @@ default=2147483647
 
 [param_830]
 type=graphic
-default="pvpw_icons,3"
+default="ap_path_banner,0"
 
 [param_831]
 type=graphic
-default="bankbuttons,8"
+default="ap_path_icon,1"
 
 [param_833]
 type=enum
@@ -1226,5 +1226,15 @@ type=boolean
 autodisable=no
 
 [param_987]
+autodisable=no
+
+[param_988]
+autodisable=no
+
+[param_989]
+type=enum
+default=null
+
+[param_991]
 autodisable=no
 
