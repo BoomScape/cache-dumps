@@ -151612,7 +151612,7 @@ size=2
 vislevel=0
 
 [great_olm_right_claw_7550]
-name=Great olm (Right claw)
+name=Great Olm (Right claw)
 model1=great_olm_right_claw_32709
 resizeh=25
 size=5
@@ -151620,14 +151620,14 @@ vislevel=0
 visonmap=no
 
 [great_olm_7551]
-name=Great olm
+name=Great Olm
 model1=great_olm_right_claw_32709
 size=5
 vislevel=0
 visonmap=no
 
 [great_olm_left_claw_7552]
-name=Great olm (Left claw)
+name=Great Olm (Left claw)
 model1=great_olm_right_claw_32709
 resizeh=40
 size=5
@@ -151635,7 +151635,7 @@ vislevel=0
 visonmap=no
 
 [great_olm_right_claw_7553]
-name=Great olm (Right claw)
+name=Great Olm (Right claw)
 model1=great_olm_right_claw_32709
 resizeh=25
 op2=Attack
@@ -151644,7 +151644,7 @@ vislevel=549
 visonmap=no
 
 [great_olm_7554]
-name=Great olm
+name=Great Olm
 model1=great_olm_right_claw_32709
 op2=Attack
 size=5
@@ -151652,7 +151652,7 @@ vislevel=1043
 visonmap=no
 
 [great_olm_left_claw_7555]
-name=Great olm (Left claw)
+name=Great Olm (Left claw)
 model1=great_olm_right_claw_32709
 resizeh=40
 op2=Attack

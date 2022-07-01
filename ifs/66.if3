@@ -4,21 +4,9 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script734(event_com,4325383,4325382,4325400,4325401,4325403)"
+onload="script734(event_com,4325382,4325381,4325399,4325400,4325402)"
 
 [interface_66:1]
-type=^iftype_rectangle
-x=4
-y=4
-width=484
-height=304
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-layer=interface_66:0
-fill=yes
-trans=128
-
-[interface_66:2]
 type=^iftype_layer
 width=484
 height=304
@@ -26,16 +14,16 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_66:0
 
-[interface_66:3]
+[interface_66:2]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_66:2
+layer=interface_66:1
 onload="script703(event_com,Redeem Old School Bonds,0)"
 
-[interface_66:4]
+[interface_66:3]
 type=^iftype_layer
 y=10
 width=20
@@ -44,17 +32,17 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_66:2
+layer=interface_66:1
 
-[interface_66:5]
+[interface_66:4]
 type=^iftype_layer
 width=300
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_66:4
+layer=interface_66:3
 onload="script1191(event_com)"
 
-[interface_66:6]
+[interface_66:5]
 type=^iftype_layer
 x=2
 width=16
@@ -62,9 +50,9 @@ height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_66:5
+layer=interface_66:4
 
-[interface_66:7]
+[interface_66:6]
 type=^iftype_layer
 x=3
 width=22
@@ -72,7 +60,17 @@ height=4
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_66:5
+layer=interface_66:4
+
+[interface_66:7]
+type=^iftype_layer
+height=48
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+hide=yes
+layer=interface_66:6
+optionmask=2
+op1="*"
 
 [interface_66:8]
 type=^iftype_layer
@@ -80,7 +78,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -90,7 +88,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -100,7 +98,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -110,7 +108,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -120,7 +118,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -130,7 +128,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -140,7 +138,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -150,7 +148,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -160,7 +158,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -170,7 +168,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -180,7 +178,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -190,7 +188,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -200,7 +198,7 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
@@ -210,69 +208,59 @@ height=48
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 hide=yes
-layer=interface_66:7
+layer=interface_66:6
 optionmask=2
 op1="*"
 
 [interface_66:22]
-type=^iftype_layer
-height=48
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-hide=yes
-layer=interface_66:7
-optionmask=2
-op1="*"
-
-[interface_66:23]
 type=^iftype_layer
 width=300
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_66:4
+layer=interface_66:3
 
-[interface_66:24]
+[interface_66:23]
 type=^iftype_text
 height=70
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_66:23
+layer=interface_66:22
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_66:25]
+[interface_66:24]
 type=^iftype_layer
 y=75
 width=140
 height=45
 hposmode=^setpos_abs_centre
-layer=interface_66:23
+layer=interface_66:22
 optionmask=2
 op1="Confirm"
 
-[interface_66:26]
+[interface_66:25]
 type=^iftype_model
 y=150
 width=32
 height=32
 hposmode=^setpos_abs_centre
-layer=interface_66:23
+layer=interface_66:22
 model=old_school_bond_29210
 xan=512
 zoom=1000
 
-[interface_66:27]
+[interface_66:26]
 type=^iftype_layer
 width=140
 height=45
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_66:23
+layer=interface_66:22
 optionmask=2
 op1="Cancel"
 
