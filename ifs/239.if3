@@ -28,7 +28,7 @@ trans=212
 
 [interface_239:3]
 type=^iftype_layer
-x=10
+x=9
 width=32
 height=12
 vposmode=^setpos_abs_centre

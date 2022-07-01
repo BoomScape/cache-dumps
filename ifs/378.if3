@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script312(24772610,24772609,24772671,24772689,24772693,24772687,24772691,24772678,24772676,24772685,24772667,24772694)"
+onload="script312(24772610,24772609,24772671,24772689,24772693,24772687,24772691,24772678,24772676,24772685,24772683,24772667,24772694)"
 
 [interface_378:1]
 type=^iftype_layer
@@ -887,8 +887,6 @@ hposmode=^setpos_abs_right
 layer=interface_378:58
 optionmask=2
 op1="Open Store"
-onmouseleave="script69(1,24772683)"
-onmouserepeat="script69(0,24772683)"
 
 [interface_378:80]
 type=^iftype_graphic
@@ -958,7 +956,7 @@ height=199
 hide=yes
 layer=interface_378:58
 optionmask=2
-op1="View news"
+op1="View News"
 
 [interface_378:87]
 type=^iftype_text

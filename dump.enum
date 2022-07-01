@@ -773,6 +773,7 @@ val=twisted_coat_t1_24407,Twisted Relichunter (T1)
 val=twisted_coat_t2_24399,Twisted Relichunter (T2)
 val=twisted_coat_t3_24389,Twisted Relichunter (T3)
 val=twisted_cane_24395,Twisted Cane
+val=inquisitors_great_helm_24419,Inquisitor's Armour
 val=mime_mask_10629,Mime costume
 val=princess_blouse_10630,Royal frog costume
 val=frog_mask_10721,Frog mask
@@ -1277,6 +1278,7 @@ val=jar_of_stone_21745,Jar of Stone (Grotesque Guardians)
 val=jar_of_decay_22106,Jar of Decay (Vorkath)
 val=jar_of_chemicals_23064,Jar of Chemicals (Alchemical Hydra)
 val=jar_of_eyes_23525,Jar of Eyes (Sarachnis)
+val=jar_of_dreams_24495,Jar of Dreams (Nightmare)
 val=more_10165,More...
 val=back_10166,Back...
 
@@ -3665,6 +3667,8 @@ val=623,Lair of the Basilisk
 val=624,Fight of the Basilisk
 val=625,Reign of the Basilisk
 val=626,Ballad of the Basilisk
+val=632,The Bane of Ashihama
+val=633,The Everlasting Slumber
 
 [enum_814]
 inputtype=int
@@ -4341,6 +4345,8 @@ val=623,Lair of the Basilisk
 val=624,Fight of the Basilisk
 val=625,Reign of the Basilisk
 val=626,Ballad of the Basilisk
+val=632,"Bane of Ashihama, The"
+val=633,"Everlasting Slumber, The"
 
 [enum_818]
 inputtype=int
@@ -4972,6 +4978,8 @@ val=622,623
 val=623,624
 val=624,625
 val=625,626
+val=626,632
+val=627,633
 
 [enum_819]
 inputtype=int
@@ -5603,6 +5611,8 @@ val=623,0_0_0_20_4
 val=624,0_0_0_20_5
 val=625,0_0_0_20_6
 val=626,0_0_0_20_7
+val=632,0_0_0_20_13
+val=633,0_0_0_20_14
 
 [enum_823]
 inputtype=component
@@ -7885,6 +7895,7 @@ val=41,ikkle_hydra_22746
 val=42,sraracha_23495
 val=43,youngllef_23757
 val=44,smolcano_23760
+val=45,little_nightmare_24491
 
 [enum_987]
 inputtype=int
@@ -8448,6 +8459,7 @@ val=94,enum_249
 val=95,enum_2785
 val=96,enum_2786
 val=97,enum_2787
+val=98,enum_2789
 
 [enum_1034]
 inputtype=obj
@@ -8551,6 +8563,7 @@ val=dagonhai_robes_set_24333,enum_249
 val=twisted_relichunter_t1_armour_set_24469,enum_2785
 val=twisted_relichunter_t2_armour_set_24472,enum_2786
 val=twisted_relichunter_t3_armour_set_24475,enum_2787
+val=inquisitors_armour_set_24488,enum_2789
 
 [enum_1035]
 inputtype=int
@@ -9689,11 +9702,10 @@ val=432,inquisitors_mace_24417
 val=433,inquisitors_great_helm_24419
 val=434,inquisitors_hauberk_24420
 val=435,inquisitors_plateskirt_24421
-val=436,sirens_tome_24418
-val=437,nightmare_staff_24422
-val=438,volatile_nightmare_staff_24424
-val=439,harmonised_nightmare_staff_24423
-val=440,eldritch_nightmare_staff_24425
+val=436,nightmare_staff_24422
+val=437,volatile_nightmare_staff_24424
+val=438,harmonised_nightmare_staff_24423
+val=439,eldritch_nightmare_staff_24425
 
 [enum_1125]
 inputtype=int
@@ -16420,10 +16432,10 @@ val=3rd_age_pickaxe_20014,Rock Knocker: Increase your Mining level by 3.
 val=crystal_pickaxe_23680,Rock Knocker: Increase your Mining level by 3.
 val=crystal_pickaxe_inactive_23682,Rock Knocker: Increase your Mining level by 3.
 val=dragon_pickaxe_or_23677,Rock Knocker: Increase your Mining level by 3.
-val=dragon_dagger_1215,Puncture: Deal two quick slashes with 25% increased accuracy and 15% increased damage.
-val=dragon_dagger_p_1231,Puncture: Deal two quick slashes with 25% increased accuracy and 15% increased damage.
-val=dragon_dagger_p_5680,Puncture: Deal two quick slashes with 25% increased accuracy and 15% increased damage.
-val=dragon_dagger_p_5698,Puncture: Deal two quick slashes with 25% increased accuracy and 15% increased damage.
+val=dragon_dagger_1215,Puncture: Deal two quick slashes with 15% increased accuracy and 15% increased damage.
+val=dragon_dagger_p_1231,Puncture: Deal two quick slashes with 15% increased accuracy and 15% increased damage.
+val=dragon_dagger_p_5680,Puncture: Deal two quick slashes with 15% increased accuracy and 15% increased damage.
+val=dragon_dagger_p_5698,Puncture: Deal two quick slashes with 15% increased accuracy and 15% increased damage.
 val=bone_dagger_8872,Backstab: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt.
 val=bone_dagger_p_8874,Backstab: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt.
 val=bone_dagger_p_8876,Backstab: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt.
@@ -16505,7 +16517,7 @@ val=dark_bow_20408,Descent of Darkness: Deal a double attack that inflicts up to
 val=abyssal_whip_20405,Energy Drain: Deal an attack with 25% increased accuracy that siphons 10% of your target's run energy.
 val=granite_maul_20557,Quick Smash: Deal an extra attack instantly.
 val=armadyl_godsword_20593,The Judgement: Deal an attack that inflicts 37.5% more damage with double accuracy.
-val=dragon_dagger_20407,Puncture: Deal two quick slashes with 25% increased accuracy and 15% increased damage.
+val=dragon_dagger_20407,Puncture: Deal two quick slashes with 15% increased accuracy and 15% increased damage.
 val=dragon_scimitar_20406,Sever: Deal a slash with increased accuracy that can prevent your target from using protection prayers for 5 seconds.
 val=dragon_2h_sword_20559,Powerstab: Hit up to fourteen enemies surrounding you.
 val=dragon_warhammer_20785,Smash: Deal an attack that inflicts 50% more damage and lowers your target's Defence level by 30%.
@@ -16829,6 +16841,8 @@ val=21,Elven Item Retrieval Service
 val=22,Elven Item Retrieval Service
 val=23,Brundt the Chieftain's Item Retrieval Service
 val=24,Brundt the Chieftain's Item Retrieval Service
+val=25,Shura's Item Retrieval Service
+val=26,Shura's Item Retrieval Service
 
 [enum_1756]
 inputtype=int
@@ -16846,6 +16860,7 @@ val=17,coins_995
 val=19,coins_995
 val=21,coins_995
 val=23,coins_995
+val=25,coins_995
 
 [enum_1757]
 inputtype=int
@@ -16863,6 +16878,7 @@ val=17,90000
 val=19,80000
 val=21,80000
 val=23,50000
+val=25,60000
 
 [enum_1771]
 inputtype=coordgrid
@@ -20091,17 +20107,18 @@ val=20,king_black_dragon_491
 val=21,kraken_492
 val=22,kreearra_493
 val=23,kril_tsutsaroth_494
-val=24,obor_495
-val=25,sarachnis_601
-val=26,scorpia_496
-val=27,skotizo_497
-val=28,thermonuclear_smoke_devil_498
-val=29,venenatis_501
-val=30,vetion_502
-val=31,vorkath_503
-val=32,wintertodt_504
-val=33,zalcano_604
-val=34,zulrah_505
+val=24,the_nightmare_1263
+val=25,obor_495
+val=26,sarachnis_601
+val=27,scorpia_496
+val=28,skotizo_497
+val=29,thermonuclear_smoke_devil_498
+val=30,venenatis_501
+val=31,vetion_502
+val=32,vorkath_503
+val=33,wintertodt_504
+val=34,zalcano_604
+val=35,zulrah_505
 
 [enum_2104]
 inputtype=int
@@ -21445,6 +21462,7 @@ val=41,chompy_chick_13071
 val=42,sraracha_23495
 val=43,smolcano_23760
 val=44,youngllef_23757
+val=45,little_nightmare_24491
 
 [enum_2159]
 inputtype=int
@@ -25017,4 +25035,44 @@ val=1,phoenix_24483
 val=2,phoenix_24484
 val=3,phoenix_24485
 val=4,phoenix_24486
+
+[enum_2789]
+inputtype=int
+outputtype=namedobj
+default=null
+val=-1,inquisitors_armour_set_24488
+val=0,inquisitors_great_helm_24419
+val=1,inquisitors_hauberk_24420
+val=2,inquisitors_plateskirt_24421
+
+[enum_2794]
+inputtype=int
+outputtype=colour
+default=25600
+val=1,132
+val=2,9312
+val=3,5280
+
+[enum_2795]
+inputtype=int
+outputtype=colour
+default=800
+val=1,853
+val=2,31104
+val=3,28480
+
+[enum_2796]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,little_nightmare_24491
+val=1,inquisitors_mace_24417
+val=2,inquisitors_great_helm_24419
+val=3,inquisitors_hauberk_24420
+val=4,inquisitors_plateskirt_24421
+val=5,nightmare_staff_24422
+val=6,volatile_orb_24514
+val=7,harmonised_orb_24511
+val=8,eldritch_orb_24517
+val=9,jar_of_dreams_24495
 

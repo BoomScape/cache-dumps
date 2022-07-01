@@ -477,6 +477,11 @@ colour=0x404038
 [flo_127]
 colour=0x77a785
 
+[flo_128]
+colour=^magenta
+mapcolour=0x44886e
+occlude=no
+
 [flo_129]
 colour=0x82c4b8
 
@@ -506,6 +511,21 @@ occlude=no
 
 [flo_136]
 colour=0x746949
+
+[flo_137]
+colour=^magenta
+mapcolour=0x2e2e2e
+occlude=no
+
+[flo_138]
+colour=0x2e2e2e
+mapcolour=0x2e2e2e
+occlude=no
+
+[flo_139]
+colour=0x484838
+mapcolour=0x484838
+occlude=no
 
 [flo_150]
 colour=0x7296b7

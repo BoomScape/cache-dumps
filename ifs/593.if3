@@ -31,7 +31,7 @@ shadowed=yes
 
 [interface_593:3]
 type=^iftype_text
-y=25
+y=26
 width=190
 height=12
 layer=interface_593:0

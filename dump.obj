@@ -212578,7 +212578,6 @@ model=ballad_10137
 2dyof=11
 2dxan=344
 2dyan=656
-iop1=Read
 members=yes
 placeholder=yes
 
@@ -231997,20 +231996,18 @@ iop2=Wield
 members=yes
 ambient=15
 contrast=35
+stockmarket=yes
+certificate=yes
+placeholder=yes
 
-[sirens_tome_24418]
-name=Siren's tome
-model=sirens_tome_39069
-manwear=sirens_tome_39064,0
-womanwear=sirens_tome_39059,0
-cost=1000000
-2dzoom=1470
+[cabbage_24418]
+name=Cabbage
+model=cabbage_8195
+2dzoom=1730
 2dxof=1
-2dyof=8
-2dxan=397
-2dyan=860
-iop2=Wield
-members=yes
+2dyof=27
+2dxan=284
+2dyan=1800
 
 [inquisitors_great_helm_24419]
 name=Inquisitor's great helm
@@ -232026,6 +232023,9 @@ cost=500000
 2dyan=47
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
 
 [inquisitors_hauberk_24420]
 name=Inquisitor's hauberk
@@ -232037,6 +232037,9 @@ cost=1000000
 2dxan=568
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
 
 [inquisitors_plateskirt_24421]
 name=Inquisitor's plateskirt
@@ -232048,6 +232051,9 @@ cost=750000
 2dxan=444
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
 
 [nightmare_staff_24422]
 name=Nightmare staff
@@ -232062,6 +232068,9 @@ cost=600000
 2dyan=1050
 iop2=Wield
 members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
 
 [harmonised_nightmare_staff_24423]
 name=Harmonised nightmare staff
@@ -232075,7 +232084,9 @@ cost=4600000
 2dxan=404
 2dyan=1050
 iop2=Wield
+iop4=Dismantle
 members=yes
+placeholder=yes
 
 [volatile_nightmare_staff_24424]
 name=Volatile nightmare staff
@@ -232089,7 +232100,9 @@ cost=4600000
 2dxan=404
 2dyan=1050
 iop2=Wield
+iop4=Dismantle
 members=yes
+placeholder=yes
 param=spell_membersonly_603,yes
 
 [eldritch_nightmare_staff_24425]
@@ -232104,7 +232117,9 @@ cost=4600000
 2dxan=404
 2dyan=1050
 iop2=Wield
+iop4=Dismantle
 members=yes
+placeholder=yes
 param=spell_membersonly_603,yes
 
 [cabbage_24426]
@@ -232668,4 +232683,169 @@ ambient=40
 model=model_39154
 manwear=model_39154,0
 womanwear=model_39154,6
+
+[inquisitors_armour_set_24488]
+name=Inquisitor's armour set
+model=inquisitors_armour_set_39511
+cost=500000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_inquisitors_armour_set_24489]
+certificate=yes
+
+[placeholder_inquisitors_armour_set_24490]
+placeholder=yes
+
+[little_nightmare_24491]
+name=Little nightmare
+model=little_nightmare_39197
+2dzoom=2800
+2dxof=-37
+2dyof=-16
+members=yes
+placeholder=yes
+
+[placeholder_little_nightmare_24492]
+placeholder=yes
+
+[clue_scroll_hard_24493]
+name=Clue scroll (hard)
+model=clue_scroll_hard_37181
+cost=20
+2dzoom=1010
+2dxof=1
+2dxan=360
+2dyan=672
+iop1=Read
+iop2=Check steps
+members=yes
+
+[puzzle_box_hard_24494]
+name=Puzzle box (hard)
+model=puzzle_box_hard_3372
+cost=100
+2dzoom=900
+2dyof=4
+2dxan=420
+2dyan=80
+iop1=Open
+members=yes
+
+[jar_of_dreams_24495]
+name=Jar of dreams
+model=jar_of_dirt_28441
+2dzoom=590
+2dxof=13
+2dyof=60
+2dxan=280
+2dyan=1756
+recol1s=10401
+recol1d=127
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_jar_of_dreams_24496]
+certificate=yes
+
+[placeholder_jar_of_dreams_24497]
+placeholder=yes
+
+[cert_inquisitors_mace_24498]
+certificate=yes
+
+[placeholder_inquisitors_mace_24499]
+placeholder=yes
+
+[cert_inquisitors_great_helm_24500]
+certificate=yes
+
+[placeholder_inquisitors_great_helm_24501]
+placeholder=yes
+
+[cert_inquisitors_hauberk_24502]
+certificate=yes
+
+[placeholder_inquisitors_hauberk_24503]
+placeholder=yes
+
+[cert_inquisitors_plateskirt_24504]
+certificate=yes
+
+[placeholder_inquisitors_plateskirt_24505]
+placeholder=yes
+
+[cert_nightmare_staff_24506]
+certificate=yes
+
+[placeholder_nightmare_staff_24507]
+placeholder=yes
+
+[placeholder_harmonised_nightmare_staff_24508]
+placeholder=yes
+
+[placeholder_volatile_nightmare_staff_24509]
+placeholder=yes
+
+[placeholder_eldritch_nightmare_staff_24510]
+placeholder=yes
+
+[harmonised_orb_24511]
+name=Harmonised orb
+model=harmonised_orb_39508
+cost=4000000
+2dzoom=1614
+2dxan=225
+2dyan=114
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_harmonised_orb_24512]
+certificate=yes
+
+[placeholder_harmonised_orb_24513]
+placeholder=yes
+
+[volatile_orb_24514]
+name=Volatile orb
+model=volatile_orb_39510
+cost=4000000
+2dzoom=1614
+2dxan=225
+2dyan=114
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_volatile_orb_24515]
+certificate=yes
+
+[placeholder_volatile_orb_24516]
+placeholder=yes
+
+[eldritch_orb_24517]
+name=Eldritch orb
+model=eldritch_orb_39509
+cost=4000000
+2dzoom=1614
+2dxan=225
+2dyan=114
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_eldritch_orb_24518]
+certificate=yes
+
+[placeholder_eldritch_orb_24519]
+placeholder=yes
 

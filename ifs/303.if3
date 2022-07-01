@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script2099(event_com,19857410,19857411,19857412,19857413,19857414,19857417,19857419,19857423,19857421,19857422,19857418,19857415,19857416,19857420)"
+onload="script2099(event_com,19857410,19857411,19857412,19857413,19857424,19857425,19857414,19857417,19857419,19857423,19857421,19857422,19857418,19857415,19857416,19857420)"
 
 [interface_303:1]
 type=^iftype_layer
@@ -160,4 +160,16 @@ font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+
+[interface_303:16]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_303:3
+
+[interface_303:17]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_303:16
 

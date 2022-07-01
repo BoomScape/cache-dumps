@@ -3871,3 +3871,21 @@ graphic="mapfunction,123"
 vis=^mapelement_vis_both
 category=176
 
+[mapelement_646]
+text=Lesser<br>demons
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_647]
+text=The<br>Nightmare
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_648]
+text=Shura
+colour=^white
+mapfunction=no
+category=1129
+
