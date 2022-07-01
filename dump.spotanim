@@ -11299,3 +11299,27 @@ anim=seq_8452
 resizeh=192
 resizev=192
 
+[spotanim_1733]
+model=model_6737
+anim=seq_7084
+resizeh=100
+resizev=100
+recol1s=62119
+recol1d=28093
+recol2s=61999
+recol2d=28093
+recol3s=59612
+recol3d=28093
+
+[spotanim_1734]
+model=model_6737
+anim=seq_7085
+resizeh=80
+resizev=80
+recol1s=62119
+recol1d=28093
+recol2s=61999
+recol2d=28093
+recol3s=59612
+recol3d=28093
+

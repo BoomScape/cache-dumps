@@ -12,29 +12,23 @@ layer=interface_333:0
 
 [interface_333:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_333:1
-
-[interface_333:3]
-type=^iftype_layer
 x=4
 y=4
 width=156
 height=60
 hposmode=^setpos_abs_right
-layer=interface_333:2
+layer=interface_333:1
 
-[interface_333:4]
+[interface_333:3]
 type=^iftype_rectangle
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_333:3
+layer=interface_333:2
 colour=0x999999
 fill=yes
 trans=100
 
-[interface_333:5]
+[interface_333:4]
 type=^iftype_rectangle
 width=6
 height=6
@@ -42,78 +36,78 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_333:3
+layer=interface_333:2
 colour=0x333300
 fill=yes
 trans=120
 
-[interface_333:6]
+[interface_333:5]
 type=^iftype_text
 x=7
 y=10
 width=28
 height=13
-layer=interface_333:3
+layer=interface_333:2
 text="Rank:"
+colour=^white
+font=p11_full
+shadowed=yes
+
+[interface_333:6]
+type=^iftype_text
+x=36
+y=10
+width=70
+height=13
+layer=interface_333:2
+text="Novice (500)"
 colour=^white
 font=p11_full
 shadowed=yes
 
 [interface_333:7]
 type=^iftype_text
-x=36
-y=10
-width=70
+x=7
+y=25
+width=37
 height=13
-layer=interface_333:3
-text="Novice (500)"
+layer=interface_333:2
+text="Coffer:"
 colour=^white
 font=p11_full
 shadowed=yes
 
 [interface_333:8]
 type=^iftype_text
-x=7
+x=45
 y=25
-width=37
+width=44
 height=13
-layer=interface_333:3
-text="Coffer:"
+layer=interface_333:2
+text="Empty"
 colour=^white
 font=p11_full
 shadowed=yes
 
 [interface_333:9]
 type=^iftype_text
-x=45
-y=25
-width=44
+x=7
+y=40
+width=31
 height=13
-layer=interface_333:3
-text="Empty"
+layer=interface_333:2
+text="Mode: "
 colour=^white
 font=p11_full
 shadowed=yes
 
 [interface_333:10]
 type=^iftype_text
-x=7
-y=40
-width=31
-height=13
-layer=interface_333:3
-text="Mode: "
-colour=^white
-font=p11_full
-shadowed=yes
-
-[interface_333:11]
-type=^iftype_text
 x=38
 y=40
 width=60
 height=13
-layer=interface_333:3
+layer=interface_333:2
 text="None"
 colour=^white
 font=p11_full

@@ -21918,6 +21918,13 @@ framecount=31
 looptype=1
 framegroup1=239
 
+[seq_3652]
+framecount=16
+priority=6
+offhand=24656
+looptype=1
+framegroup1=276
+
 [seq_3653]
 framecount=25
 mainhand=0

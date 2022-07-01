@@ -85503,7 +85503,6 @@ womanwear=paddle_12087,6
 2dyof=4
 2dxan=438
 2dyan=243
-iop2=Wield
 certificate=yes
 
 [cert_paddle_7415]
@@ -115073,8 +115072,8 @@ members=yes
 placeholder=yes
 param=param_451,Boost
 
-[runecrafting_hood_9767]
-name=Runecrafting hood
+[runecraft_hood_9767]
+name=Runecraft hood
 model=attack_hood_19058
 manwear=attack_hood_18914,0
 womanwear=attack_hood_18967,0
@@ -166321,7 +166320,7 @@ placeholder=yes
 [placeholder_runecraft_cape_t_14226]
 placeholder=yes
 
-[placeholder_runecrafting_hood_14227]
+[placeholder_runecraft_hood_14227]
 placeholder=yes
 
 [placeholder_hunter_cape_14228]
@@ -223317,7 +223316,6 @@ cost=300
 2dxan=295
 2dyan=465
 iop2=Wield
-members=yes
 stackable=yes
 param=param_850,3
 
@@ -223331,7 +223329,6 @@ cost=300
 2dxan=522
 2dyan=758
 iop2=Wield
-members=yes
 ambient=25
 certificate=yes
 param=param_850,3
@@ -229822,4 +229819,62 @@ cost=80000
 2dyan=2031
 iop2=Wear
 members=yes
+
+[granite_maul_24225]
+name=Granite maul
+model=granite_maul_38846
+manwear=granite_maul_38850,0
+womanwear=granite_maul_38848,0
+cost=50000
+2dzoom=1616
+2dxof=1
+2dyof=17
+2dxan=239
+2dyan=74
+iop2=Wield
+iop5=Revert
+members=yes
+placeholder=yes
+
+[placeholder_granite_maul_24226]
+placeholder=yes
+
+[granite_maul_24227]
+name=Granite maul
+model=granite_maul_38845
+manwear=granite_maul_38847,0
+womanwear=granite_maul_38849,0
+cost=50000
+2dzoom=1616
+2dxof=1
+2dyof=17
+2dxan=239
+2dyan=74
+iop2=Wield
+iop5=Revert
+members=yes
+placeholder=yes
+
+[placeholder_granite_maul_24228]
+placeholder=yes
+
+[ornate_maul_handle_24229]
+name=Ornate maul handle
+model=ornate_maul_handle_38851
+cost=5000
+2dzoom=1536
+2dxof=-1
+2dyof=12
+2dxan=429
+2dyan=438
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_ornate_maul_handle_24230]
+certificate=yes
+
+[placeholder_ornate_maul_handle_24231]
+placeholder=yes
 
