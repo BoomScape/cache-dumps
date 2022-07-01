@@ -139,3 +139,9 @@ type=int
 [varclansetting_46]
 type=int
 
+[varclansetting_47]
+type=hash64
+
+[varclansetting_48]
+type=int
+

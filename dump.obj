@@ -158239,6 +158239,7 @@ stackable=yes
 [dwarf_cannon_set_12863]
 name=Dwarf cannon set
 model=dwarf_cannon_set_28974
+category=category_1590
 cost=600000
 2dzoom=1762
 members=yes
@@ -158252,6 +158253,7 @@ certificate=yes
 [green_dragonhide_set_12865]
 name=Green dragonhide set
 model=green_dragonhide_set_28969
+category=category_1590
 cost=5000
 2dzoom=1762
 stockmarket=yes
@@ -158264,6 +158266,7 @@ certificate=yes
 [blue_dragonhide_set_12867]
 name=Blue dragonhide set
 model=green_dragonhide_set_28969
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=22416
@@ -158281,6 +158284,7 @@ certificate=yes
 [red_dragonhide_set_12869]
 name=Red dragonhide set
 model=green_dragonhide_set_28969
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=22416
@@ -158298,6 +158302,7 @@ certificate=yes
 [black_dragonhide_set_12871]
 name=Black dragonhide set
 model=green_dragonhide_set_28969
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=22416
@@ -158315,6 +158320,7 @@ certificate=yes
 [guthans_armour_set_12873]
 name=Guthan's armour set
 model=guthans_armour_set_28972
+category=category_1590
 cost=400000
 2dzoom=1762
 members=yes
@@ -158328,6 +158334,7 @@ certificate=yes
 [veracs_armour_set_12875]
 name=Verac's armour set
 model=veracs_armour_set_28973
+category=category_1590
 cost=400000
 2dzoom=1762
 members=yes
@@ -158341,6 +158348,7 @@ certificate=yes
 [dharoks_armour_set_12877]
 name=Dharok's armour set
 model=dharoks_armour_set_28970
+category=category_1590
 cost=400000
 2dzoom=1762
 members=yes
@@ -158354,6 +158362,7 @@ certificate=yes
 [torags_armour_set_12879]
 name=Torag's armour set
 model=torags_armour_set_28971
+category=category_1590
 cost=400000
 2dzoom=1762
 members=yes
@@ -158367,6 +158376,7 @@ certificate=yes
 [ahrims_armour_set_12881]
 name=Ahrim's armour set
 model=ahrims_armour_set_28968
+category=category_1590
 cost=200000
 2dzoom=1762
 members=yes
@@ -158380,6 +158390,7 @@ certificate=yes
 [karils_armour_set_12883]
 name=Karil's armour set
 model=karils_armour_set_28967
+category=category_1590
 cost=200000
 2dzoom=1762
 members=yes
@@ -159170,6 +159181,7 @@ placeholder=yes
 [bronze_set_lg_12960]
 name=Bronze set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=200
 2dzoom=1762
 recol1s=61
@@ -159188,6 +159200,7 @@ certificate=yes
 [bronze_set_sk_12962]
 name=Bronze set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=200
 2dzoom=1762
 recol1s=61
@@ -159206,6 +159219,7 @@ certificate=yes
 [bronze_trimmed_set_lg_12964]
 name=Bronze trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=200
 2dzoom=1762
 recol1s=61
@@ -159224,6 +159238,7 @@ certificate=yes
 [bronze_trimmed_set_sk_12966]
 name=Bronze trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=200
 2dzoom=1762
 recol1s=61
@@ -159242,6 +159257,7 @@ certificate=yes
 [bronze_gold_trimmed_set_lg_12968]
 name=Bronze gold-trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=200
 2dzoom=1762
 recol1s=61
@@ -159260,6 +159276,7 @@ certificate=yes
 [bronze_gold_trimmed_set_sk_12970]
 name=Bronze gold-trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=200
 2dzoom=1762
 recol1s=61
@@ -159278,6 +159295,7 @@ certificate=yes
 [iron_set_lg_12972]
 name=Iron set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -159296,6 +159314,7 @@ certificate=yes
 [iron_set_sk_12974]
 name=Iron set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -159314,6 +159333,7 @@ certificate=yes
 [iron_trimmed_set_lg_12976]
 name=Iron trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -159332,6 +159352,7 @@ certificate=yes
 [iron_trimmed_set_sk_12978]
 name=Iron trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -159350,6 +159371,7 @@ certificate=yes
 [iron_gold_trimmed_set_lg_12980]
 name=Iron gold-trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -159368,6 +159390,7 @@ certificate=yes
 [iron_gold_trimmed_set_sk_12982]
 name=Iron gold-trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -159386,6 +159409,7 @@ certificate=yes
 [steel_set_lg_12984]
 name=Steel set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=1400
 2dzoom=1762
 recol1s=61
@@ -159404,6 +159428,7 @@ certificate=yes
 [steel_set_sk_12986]
 name=Steel set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=1400
 2dzoom=1762
 recol1s=61
@@ -159422,6 +159447,7 @@ certificate=yes
 [black_set_lg_12988]
 name=Black set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=4500
 2dzoom=1762
 recol1s=61
@@ -159440,6 +159466,7 @@ certificate=yes
 [black_set_sk_12990]
 name=Black set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=4500
 2dzoom=1762
 recol1s=61
@@ -159458,6 +159485,7 @@ certificate=yes
 [black_trimmed_set_lg_12992]
 name=Black trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=4500
 2dzoom=1762
 recol1s=61
@@ -159476,6 +159504,7 @@ certificate=yes
 [black_trimmed_set_sk_12994]
 name=Black trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=4500
 2dzoom=1762
 recol1s=61
@@ -159494,6 +159523,7 @@ certificate=yes
 [black_gold_trimmed_set_lg_12996]
 name=Black gold-trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=4500
 2dzoom=1762
 recol1s=61
@@ -159512,6 +159542,7 @@ certificate=yes
 [black_gold_trimmed_set_sk_12998]
 name=Black gold-trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=4500
 2dzoom=1762
 recol1s=61
@@ -159530,6 +159561,7 @@ certificate=yes
 [mithril_set_lg_13000]
 name=Mithril set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=61
@@ -159548,6 +159580,7 @@ certificate=yes
 [mithril_set_sk_13002]
 name=Mithril set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=61
@@ -159566,6 +159599,7 @@ certificate=yes
 [mithril_trimmed_set_lg_13004]
 name=Mithril trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=61
@@ -159584,6 +159618,7 @@ certificate=yes
 [mithril_trimmed_set_sk_13006]
 name=Mithril trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=61
@@ -159602,6 +159637,7 @@ certificate=yes
 [mithril_gold_trimmed_set_lg_13008]
 name=Mithril gold-trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=61
@@ -159620,6 +159656,7 @@ certificate=yes
 [mithril_gold_trimmed_set_sk_13010]
 name=Mithril gold-trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=5000
 2dzoom=1762
 recol1s=61
@@ -159638,6 +159675,7 @@ certificate=yes
 [adamant_set_lg_13012]
 name=Adamant set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=8000
 2dzoom=1762
 recol1s=61
@@ -159656,6 +159694,7 @@ certificate=yes
 [adamant_set_sk_13014]
 name=Adamant set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=8000
 2dzoom=1762
 recol1s=61
@@ -159674,6 +159713,7 @@ certificate=yes
 [adamant_trimmed_set_lg_13016]
 name=Adamant trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=8000
 2dzoom=1762
 recol1s=61
@@ -159692,6 +159732,7 @@ certificate=yes
 [adamant_trimmed_set_sk_13018]
 name=Adamant trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=8000
 2dzoom=1762
 recol1s=61
@@ -159710,6 +159751,7 @@ certificate=yes
 [adamant_gold_trimmed_set_lg_13020]
 name=Adamant gold-trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=8000
 2dzoom=1762
 recol1s=61
@@ -159728,6 +159770,7 @@ certificate=yes
 [adamant_gold_trimmed_set_sk_13022]
 name=Adamant gold-trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=8000
 2dzoom=1762
 recol1s=61
@@ -159746,6 +159789,7 @@ certificate=yes
 [rune_armour_set_lg_13024]
 name=Rune armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=75000
 2dzoom=1762
 recol1s=61
@@ -159764,6 +159808,7 @@ certificate=yes
 [rune_armour_set_sk_13026]
 name=Rune armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=75000
 2dzoom=1762
 recol1s=61
@@ -159782,6 +159827,7 @@ certificate=yes
 [rune_trimmed_set_lg_13028]
 name=Rune trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159800,6 +159846,7 @@ certificate=yes
 [rune_trimmed_set_sk_13030]
 name=Rune trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159818,6 +159865,7 @@ certificate=yes
 [rune_gold_trimmed_set_lg_13032]
 name=Rune gold-trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159836,6 +159884,7 @@ certificate=yes
 [rune_gold_trimmed_set_sk_13034]
 name=Rune gold-trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159854,6 +159903,7 @@ certificate=yes
 [gilded_armour_set_lg_13036]
 name=Gilded armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159872,6 +159922,7 @@ certificate=yes
 [gilded_armour_set_sk_13038]
 name=Gilded armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159890,6 +159941,7 @@ certificate=yes
 [saradomin_armour_set_lg_13040]
 name=Saradomin armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159908,6 +159960,7 @@ certificate=yes
 [saradomin_armour_set_sk_13042]
 name=Saradomin armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159926,6 +159979,7 @@ certificate=yes
 [zamorak_armour_set_lg_13044]
 name=Zamorak armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159944,6 +159998,7 @@ certificate=yes
 [zamorak_armour_set_sk_13046]
 name=Zamorak armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159962,6 +160017,7 @@ certificate=yes
 [guthix_armour_set_lg_13048]
 name=Guthix armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159980,6 +160036,7 @@ certificate=yes
 [guthix_armour_set_sk_13050]
 name=Guthix armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -159998,6 +160055,7 @@ certificate=yes
 [armadyl_rune_armour_set_lg_13052]
 name=Armadyl rune armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -160016,6 +160074,7 @@ certificate=yes
 [armadyl_rune_armour_set_sk_13054]
 name=Armadyl rune armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -160034,6 +160093,7 @@ certificate=yes
 [bandos_rune_armour_set_lg_13056]
 name=Bandos rune armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -160052,6 +160112,7 @@ certificate=yes
 [bandos_rune_armour_set_sk_13058]
 name=Bandos rune armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -160070,6 +160131,7 @@ certificate=yes
 [ancient_rune_armour_set_lg_13060]
 name=Ancient rune armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -160088,6 +160150,7 @@ certificate=yes
 [ancient_rune_armour_set_sk_13062]
 name=Ancient rune armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=80000
 2dzoom=1762
 recol1s=61
@@ -160106,6 +160169,7 @@ certificate=yes
 [combat_potion_set_13064]
 name=Combat potion set
 model=combat_potion_set_28194
+category=category_1590
 cost=70
 2dzoom=1762
 recol1s=22461
@@ -160125,6 +160189,7 @@ certificate=yes
 [super_potion_set_13066]
 name=Super potion set
 model=combat_potion_set_28194
+category=category_1590
 cost=100
 2dzoom=1762
 recol1s=22461
@@ -161547,6 +161612,7 @@ members=yes
 [holy_book_page_set_13149]
 name=Holy book page set
 model=holy_book_page_set_29178
+category=category_1590
 cost=7000
 recol1s=5018
 recol1d=-21593
@@ -161567,6 +161633,7 @@ certificate=yes
 [unholy_book_page_set_13151]
 name=Unholy book page set
 model=holy_book_page_set_29178
+category=category_1590
 cost=7000
 2dzoom=1762
 recol1s=5018
@@ -161586,6 +161653,7 @@ certificate=yes
 [book_of_balance_page_set_13153]
 name=Book of balance page set
 model=holy_book_page_set_29178
+category=category_1590
 cost=7000
 2dzoom=1762
 recol1s=5018
@@ -161605,6 +161673,7 @@ certificate=yes
 [book_of_war_page_set_13155]
 name=Book of war page set
 model=holy_book_page_set_29178
+category=category_1590
 cost=7500
 2dzoom=1762
 recol1s=5018
@@ -161624,6 +161693,7 @@ certificate=yes
 [book_of_law_page_set_13157]
 name=Book of law page set
 model=holy_book_page_set_29178
+category=category_1590
 cost=7500
 2dzoom=1762
 recol1s=5018
@@ -161643,6 +161713,7 @@ certificate=yes
 [book_of_darkness_page_set_13159]
 name=Book of darkness page set
 model=holy_book_page_set_29178
+category=category_1590
 cost=7500
 2dzoom=1762
 recol1s=5018
@@ -161662,6 +161733,7 @@ certificate=yes
 [zamorak_dragonhide_set_13161]
 name=Zamorak dragonhide set
 model=zamorak_dragonhide_set_29176
+category=category_1590
 cost=9000
 2dzoom=1762
 members=yes
@@ -161675,6 +161747,7 @@ certificate=yes
 [saradomin_dragonhide_set_13163]
 name=Saradomin dragonhide set
 model=saradomin_dragonhide_set_29180
+category=category_1590
 cost=9000
 2dzoom=1762
 members=yes
@@ -161688,6 +161761,7 @@ certificate=yes
 [guthix_dragonhide_set_13165]
 name=Guthix dragonhide set
 model=guthix_dragonhide_set_29177
+category=category_1590
 cost=9000
 2dzoom=1762
 members=yes
@@ -161701,6 +161775,7 @@ certificate=yes
 [bandos_dragonhide_set_13167]
 name=Bandos dragonhide set
 model=bandos_dragonhide_set_29174
+category=category_1590
 cost=9500
 2dzoom=1762
 members=yes
@@ -161714,6 +161789,7 @@ certificate=yes
 [armadyl_dragonhide_set_13169]
 name=Armadyl dragonhide set
 model=armadyl_dragonhide_set_29175
+category=category_1590
 cost=9500
 2dzoom=1762
 members=yes
@@ -161727,6 +161803,7 @@ certificate=yes
 [ancient_dragonhide_set_13171]
 name=Ancient dragonhide set
 model=ancient_dragonhide_set_29173
+category=category_1590
 cost=9500
 2dzoom=1762
 members=yes
@@ -161740,6 +161817,7 @@ certificate=yes
 [partyhat_set_13173]
 name=Partyhat set
 model=partyhat_set_29181
+category=category_1590
 cost=10
 2dzoom=1762
 stockmarket=yes
@@ -161752,6 +161830,7 @@ certificate=yes
 [halloween_mask_set_13175]
 name=Halloween mask set
 model=halloween_mask_set_29179
+category=category_1590
 cost=8
 2dzoom=1762
 stockmarket=yes
@@ -195292,6 +195371,7 @@ placeholder=yes
 [steel_trimmed_set_lg_20376]
 name=Steel trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -195313,6 +195393,7 @@ placeholder=yes
 [steel_trimmed_set_sk_20379]
 name=Steel trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -195334,6 +195415,7 @@ placeholder=yes
 [steel_gold_trimmed_set_lg_20382]
 name=Steel gold-trimmed set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -195355,6 +195437,7 @@ placeholder=yes
 [steel_gold_trimmed_set_sk_20385]
 name=Steel gold-trimmed set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=900
 2dzoom=1762
 recol1s=61
@@ -203570,6 +203653,7 @@ certificate=yes
 [ancestral_robes_set_21049]
 name=Ancestral robes set
 model=ancestral_robes_set_32807
+category=category_1590
 cost=145000
 2dzoom=1762
 members=yes
@@ -206123,6 +206207,7 @@ recol2d=51
 [obsidian_armour_set_21279]
 name=Obsidian armour set
 model=obsidian_armour_set_33150
+category=category_1590
 cost=126000
 2dzoom=1762
 members=yes
@@ -212303,6 +212388,7 @@ placeholder=yes
 [dragon_armour_set_lg_21882]
 name=Dragon armour set (lg)
 model=bronze_set_lg_28193
+category=category_1590
 cost=500000
 2dzoom=1762
 recol1s=61
@@ -212325,6 +212411,7 @@ placeholder=yes
 [dragon_armour_set_sk_21885]
 name=Dragon armour set (sk)
 model=bronze_set_lg_28193
+category=category_1590
 cost=500000
 2dzoom=1762
 recol1s=61
@@ -218276,6 +218363,7 @@ iop3=Kill Area
 [justiciar_armour_set_22438]
 name=Justiciar armour set
 model=justiciar_armour_set_35754
+category=category_1590
 cost=145000
 2dzoom=1762
 members=yes
@@ -219909,7 +219997,7 @@ ambient=25
 stockmarket=yes
 certificate=yes
 placeholder=yes
-param=param_568,4
+param=param_568,1
 
 [cert_vestas_spear_22611]
 certificate=yes
@@ -219935,7 +220023,7 @@ ambient=25
 stockmarket=yes
 certificate=yes
 placeholder=yes
-param=param_568,4
+param=param_568,1
 
 [cert_vestas_longsword_22614]
 certificate=yes
@@ -220007,7 +220095,7 @@ ambient=25
 stockmarket=yes
 certificate=yes
 placeholder=yes
-param=param_568,4
+param=param_568,1
 
 [cert_statiuss_warhammer_22623]
 certificate=yes
@@ -220110,7 +220198,7 @@ ambient=25
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_568,4
+param=param_568,1
 param=levelrequire_23,78
 
 [placeholder_morrigans_throwing_axe_22635]
@@ -220133,7 +220221,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
-param=param_568,4
+param=param_568,1
 param=levelrequire_23,78
 
 [placeholder_morrigans_javelin_22637]
@@ -220232,7 +220320,7 @@ ambient=25
 stockmarket=yes
 certificate=yes
 placeholder=yes
-param=param_568,4
+param=param_568,1
 
 [cert_zuriels_staff_22648]
 certificate=yes
@@ -224538,6 +224626,7 @@ placeholder=yes
 [mystic_set_light_23110]
 name=Mystic set (light)
 model=mystic_set_light_4649
+category=category_1590
 cost=235000
 2dzoom=1762
 recol1s=-25491
@@ -224560,6 +224649,7 @@ placeholder=yes
 [mystic_set_blue_23113]
 name=Mystic set (blue)
 model=mystic_set_light_4649
+category=category_1590
 cost=235000
 2dzoom=1762
 members=yes
@@ -224576,6 +224666,7 @@ placeholder=yes
 [mystic_set_dark_23116]
 name=Mystic set (dark)
 model=mystic_set_light_4649
+category=category_1590
 cost=235000
 2dzoom=1762
 recol1s=-25491
@@ -224598,6 +224689,7 @@ placeholder=yes
 [mystic_set_dusk_23119]
 name=Mystic set (dusk)
 model=mystic_set_light_4649
+category=category_1590
 cost=235000
 2dzoom=1762
 recol1s=-25491
@@ -224640,6 +224732,7 @@ placeholder=yes
 [gilded_dragonhide_set_23124]
 name=Gilded dragonhide set
 model=green_dragonhide_set_28969
+category=category_1590
 cost=12500
 2dzoom=1762
 recol1s=22416
@@ -230063,6 +230156,7 @@ stackable=yes
 [dragonstone_armour_set_23667]
 name=Dragonstone armour set
 model=dragonstone_armour_set_38779
+category=category_1590
 cost=80000
 2dzoom=1762
 members=yes
@@ -237445,6 +237539,7 @@ stackable=yes
 [dagonhai_robes_set_24333]
 name=Dagon'hai robes set
 model=dagonhai_robes_set_38956
+category=category_1590
 cost=217000
 2dzoom=1762
 members=yes
@@ -238902,6 +238997,7 @@ placeholder=yes
 [twisted_relic_hunter_t1_armour_set_24469]
 name=Twisted relic hunter (t1) armour set
 model=twisted_relic_hunter_t1_armour_set_39144
+category=category_1590
 cost=50000
 2dzoom=1762
 members=yes
@@ -238918,6 +239014,7 @@ placeholder=yes
 [twisted_relic_hunter_t2_armour_set_24472]
 name=Twisted relic hunter (t2) armour set
 model=twisted_relic_hunter_t2_armour_set_39143
+category=category_1590
 cost=50000
 2dzoom=1762
 members=yes
@@ -238934,6 +239031,7 @@ placeholder=yes
 [twisted_relic_hunter_t3_armour_set_24475]
 name=Twisted relic hunter (t3) armour set
 model=twisted_relic_hunter_t3_armour_set_39145
+category=category_1590
 cost=50000
 2dzoom=1762
 members=yes
@@ -239112,6 +239210,7 @@ womanwear=model_39154,6
 [inquisitors_armour_set_24488]
 name=Inquisitor's armour set
 model=inquisitors_armour_set_39511
+category=category_1590
 cost=500000
 2dzoom=1762
 members=yes
@@ -248431,6 +248530,7 @@ placeholder=yes
 [trailblazer_relic_hunter_t1_armour_set_25380]
 name=Trailblazer relic hunter (t1) armour set
 model=twisted_relic_hunter_t1_armour_set_39144
+category=category_1590
 cost=50000
 2dzoom=1762
 members=yes
@@ -248447,6 +248547,7 @@ placeholder=yes
 [trailblazer_relic_hunter_t2_armour_set_25383]
 name=Trailblazer relic hunter (t2) armour set
 model=twisted_relic_hunter_t2_armour_set_39143
+category=category_1590
 cost=50000
 2dzoom=1762
 members=yes
@@ -248463,6 +248564,7 @@ placeholder=yes
 [trailblazer_relic_hunter_t3_armour_set_25386]
 name=Trailblazer relic hunter (t3) armour set
 model=twisted_relic_hunter_t3_armour_set_39145
+category=category_1590
 cost=50000
 2dzoom=1762
 members=yes
@@ -259010,12 +259112,22 @@ recol2s=5006
 recol2d=3623
 recol3s=61
 recol3d=4416
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_pumpkin_pie_26248]
-certificate=yes
+[dummy_uncooked_apple_pie_26248]
+name=Null
+model=uncooked_apple_pie_2767
+category=category_15
+2dzoom=950
+2dyof=-9
+2dxan=192
+2dyan=104
+recol1s=8670
+recol1d=5689
+recol2s=5006
+recol2d=3623
+recol3s=61
+recol3d=4416
 
 [placeholder_pumpkin_pie_26249]
 placeholder=yes
