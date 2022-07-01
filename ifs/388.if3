@@ -39,14 +39,6 @@ layer=interface_388:2
 
 [interface_388:5]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-hide=yes
-layer=interface_388:0
-noclickthrough=yes
-
-[interface_388:6]
-type=^iftype_layer
 width=40
 height=40
 hposmode=^setpos_abs_centre
@@ -55,21 +47,21 @@ layer=interface_388:3
 optionmask=2
 op1="Bank"
 
-[interface_388:7]
+[interface_388:6]
 type=^iftype_graphic
 width=40
 height=40
-layer=interface_388:6
+layer=interface_388:5
 graphic="options_boxes,0"
 onmouseover="script273(event_com,75)"
 onmouseleave="script273(event_com,0)"
 
-[interface_388:8]
+[interface_388:7]
 type=^iftype_graphic
 width=29
 height=22
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_388:6
+layer=interface_388:5
 graphic="bankbuttons,5"
 

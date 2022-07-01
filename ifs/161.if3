@@ -297,7 +297,7 @@ op1="*"
 
 [interface_161:36]
 type=^iftype_graphic
-x=38
+x=71
 width=33
 height=36
 layer=interface_161:34
@@ -308,7 +308,7 @@ op1="*"
 
 [interface_161:37]
 type=^iftype_graphic
-x=71
+x=38
 width=33
 height=36
 layer=interface_161:34
@@ -371,21 +371,21 @@ graphic="sideicons_new,14"
 
 [interface_161:43]
 type=^iftype_graphic
+x=72
+y=2
+width=32
+height=36
+layer=interface_161:34
+graphic="side_icons,21"
+
+[interface_161:44]
+type=^iftype_graphic
 x=39
 y=2
 width=32
 height=36
 layer=interface_161:34
 graphic="side_icons,7"
-
-[interface_161:44]
-type=^iftype_graphic
-x=72
-y=2
-width=32
-height=36
-layer=interface_161:34
-graphic="side_icons,8"
 
 [interface_161:45]
 type=^iftype_graphic

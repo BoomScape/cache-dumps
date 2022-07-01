@@ -5572,8 +5572,11 @@ framegroup1=876
 
 [seq_908]
 framecount=34
+priority=2
 mainhand=1228
 offhand=0
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=245
 
@@ -16750,72 +16753,99 @@ framegroup1=299
 [seq_2780]
 framecount=14
 stretches=yes
+priority=2
 mainhand=0
 offhand=7182
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2781]
 framecount=7
 stretches=yes
+priority=2
 mainhand=784
 offhand=7182
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2782]
 framecount=14
 stretches=yes
+priority=2
 mainhand=0
 offhand=7182
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2783]
 framecount=14
 stretches=yes
+priority=2
 mainhand=0
 offhand=7183
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2784]
 framecount=7
 stretches=yes
+priority=2
 mainhand=784
 offhand=7183
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2785]
 framecount=14
 stretches=yes
+priority=2
 mainhand=0
 offhand=7183
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2786]
 framecount=14
 stretches=yes
+priority=2
 mainhand=0
 offhand=7184
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2787]
 framecount=7
 stretches=yes
+priority=2
 mainhand=784
 offhand=7184
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
 [seq_2788]
 framecount=14
 stretches=yes
+priority=2
 mainhand=0
 offhand=7184
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=204
 
@@ -26868,8 +26898,11 @@ framegroup1=1172
 
 [seq_4462]
 framecount=34
+priority=2
 mainhand=0
 offhand=0
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=1088
 
@@ -33828,8 +33861,11 @@ framegroup1=1455
 
 [seq_5637]
 framecount=60
+priority=2
 mainhand=11099
 offhand=0
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=232
 
@@ -34940,8 +34976,11 @@ framegroup1=394
 [seq_5827]
 framecount=28
 replayoff=0
+priority=2
 mainhand=11373
 offhand=11372
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=1499
 
@@ -37706,13 +37745,18 @@ framegroup1=1604
 framecount=42
 mainhand=0
 offhand=0
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=1604
 
 [seq_6294]
 framecount=78
+priority=2
 mainhand=0
 offhand=0
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=1604
 
@@ -37780,6 +37824,8 @@ framegroup1=785
 framecount=35
 mainhand=0
 offhand=0
+exactmove=1
+movetype=1
 looptype=1
 framegroup1=1604
 
@@ -49507,4 +49553,9 @@ framecount=8
 replayoff=8
 looptype=1
 framegroup1=2197
+
+[seq_8147]
+framecount=33
+looptype=1
+framegroup1=1076
 

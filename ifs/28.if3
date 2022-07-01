@@ -133,6 +133,7 @@ height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_28:11
+noclickthrough=yes
 
 [interface_28:13]
 type=^iftype_graphic
@@ -140,7 +141,6 @@ width=34
 height=34
 layer=interface_28:12
 graphic="graphic_1635"
-onload="script834(event_com,1)"
 
 [interface_28:14]
 type=^iftype_graphic

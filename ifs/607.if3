@@ -92,6 +92,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_607:3
+noclickthrough=yes
 
 [interface_607:10]
 type=^iftype_rectangle
@@ -102,7 +103,6 @@ vsizemode=^setsize_minus
 layer=interface_607:9
 fill=yes
 trans=150
-onload="script834(event_com,1)"
 
 [interface_607:11]
 type=^iftype_text

@@ -15,6 +15,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_595:0
+noclickthrough=yes
 
 [interface_595:2]
 type=^iftype_rectangle
@@ -24,7 +25,6 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_595:1
 fill=yes
-onload="script834(event_com,1)"
 
 [interface_595:3]
 type=^iftype_layer
@@ -63,6 +63,7 @@ height=150
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_595:1
+noclickthrough=yes
 onload="script714(event_com)"
 
 [interface_595:7]
@@ -74,7 +75,6 @@ vsizemode=^setsize_minus
 layer=interface_595:6
 graphic="tradebacking"
 tiling=yes
-onload="script834(event_com,1)"
 
 [interface_595:8]
 type=^iftype_layer
@@ -287,6 +287,7 @@ type=^iftype_layer
 width=200
 height=150
 layer=interface_595:27
+noclickthrough=yes
 onload="script714(event_com)"
 
 [interface_595:30]
@@ -298,7 +299,6 @@ vsizemode=^setsize_minus
 layer=interface_595:29
 graphic="tradebacking"
 tiling=yes
-onload="script834(event_com,1)"
 
 [interface_595:31]
 type=^iftype_layer

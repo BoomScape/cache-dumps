@@ -603,7 +603,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_261:2
-onload="script2363(event_com,17104896,17104967,17104968,17104980,17104982,17104984,17104985,17104986,17104981,17104987)"
+onload="script2363(event_com,17104896,17104967,17104968,17104980,17104982,17104984,17104985,17104986,17104987)"
 
 [interface_261:59]
 type=^iftype_graphic
@@ -877,6 +877,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_261:0
+noclickthrough=yes
 
 [interface_261:85]
 type=^iftype_rectangle

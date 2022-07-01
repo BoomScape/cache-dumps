@@ -49,7 +49,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:5
+layer=interface_601:3
 
 [interface_601:7]
 type=^iftype_layer
@@ -59,7 +59,7 @@ width=250
 height=165
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:5
+layer=interface_601:6
 
 [interface_601:8]
 type=^iftype_layer
@@ -364,7 +364,7 @@ op1="*"
 
 [interface_601:41]
 type=^iftype_graphic
-y=180
+y=216
 width=33
 height=36
 hposmode=^setpos_abs_right
@@ -376,7 +376,7 @@ op1="*"
 
 [interface_601:42]
 type=^iftype_graphic
-y=216
+y=180
 width=33
 height=36
 hposmode=^setpos_abs_right
@@ -437,21 +437,21 @@ graphic="sideicons_new,14"
 
 [interface_601:48]
 type=^iftype_graphic
+y=218
+width=32
+height=36
+hposmode=^setpos_abs_right
+layer=interface_601:35
+graphic="side_icons,21"
+
+[interface_601:49]
+type=^iftype_graphic
 y=182
 width=32
 height=36
 hposmode=^setpos_abs_right
 layer=interface_601:35
 graphic="side_icons,7"
-
-[interface_601:49]
-type=^iftype_graphic
-y=218
-width=32
-height=36
-hposmode=^setpos_abs_right
-layer=interface_601:35
-graphic="side_icons,8"
 
 [interface_601:50]
 type=^iftype_graphic

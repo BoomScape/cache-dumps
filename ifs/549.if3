@@ -184,7 +184,7 @@ width=87
 height=53
 hposmode=^setpos_abs_right
 hide=yes
-layer=interface_549:5
+layer=interface_549:17
 
 [interface_549:20]
 type=^iftype_layer

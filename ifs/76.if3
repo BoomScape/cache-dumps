@@ -207,6 +207,7 @@ type=^iftype_layer
 width=169
 height=170
 layer=interface_76:17
+noclickthrough=yes
 
 [interface_76:22]
 type=^iftype_layer

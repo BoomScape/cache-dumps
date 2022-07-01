@@ -21,6 +21,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_551:0
+noclickthrough=yes
 
 [interface_551:3]
 type=^iftype_rectangle
@@ -34,7 +35,6 @@ layer=interface_551:2
 colour=0x808080
 fill=yes
 trans=210
-onload="script834(event_com,1)"
 
 [interface_551:4]
 type=^iftype_rectangle
@@ -48,7 +48,6 @@ layer=interface_551:2
 colour=0x808080
 fill=yes
 trans=210
-onload="script834(event_com,1)"
 
 [interface_551:5]
 type=^iftype_layer

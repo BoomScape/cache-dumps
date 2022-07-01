@@ -10,6 +10,7 @@ height=23
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_162:0
+noclickthrough=yes
 
 [interface_162:2]
 type=^iftype_graphic
@@ -18,7 +19,6 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_162:1
 graphic="main_stones_bottom"
-onload="script834(event_com,1)"
 
 [interface_162:3]
 type=^iftype_layer

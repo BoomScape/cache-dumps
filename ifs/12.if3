@@ -541,6 +541,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_12:20
+noclickthrough=yes
 
 [interface_12:47]
 type=^iftype_graphic
@@ -552,7 +553,6 @@ layer=interface_12:46
 graphic="tradebacking"
 tiling=yes
 trans=100
-onload="script834(event_com,1)"
 
 [interface_12:48]
 type=^iftype_layer

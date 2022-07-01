@@ -230,6 +230,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_107:2
+noclickthrough=yes
 
 [interface_107:22]
 type=^iftype_graphic
@@ -240,7 +241,6 @@ vsizemode=^setsize_minus
 layer=interface_107:21
 graphic="tradebacking_light"
 tiling=yes
-onload="script834(event_com,1)"
 
 [interface_107:23]
 type=^iftype_layer

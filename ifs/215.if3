@@ -196,6 +196,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
 layer=interface_215:1
+noclickthrough=yes
 
 [interface_215:20]
 type=^iftype_rectangle
@@ -207,7 +208,6 @@ layer=interface_215:19
 colour=0xb0b0b
 fill=yes
 trans=60
-onload="script834(event_com,1)"
 
 [interface_215:21]
 type=^iftype_layer
@@ -224,6 +224,7 @@ height=150
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_215:19
+noclickthrough=yes
 onload="script392(event_com)"
 
 [interface_215:23]
@@ -235,7 +236,6 @@ vsizemode=^setsize_minus
 layer=interface_215:22
 graphic="tradebacking_light"
 tiling=yes
-onload="script834(event_com,1)"
 
 [interface_215:24]
 type=^iftype_text

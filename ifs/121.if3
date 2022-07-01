@@ -21,6 +21,7 @@ height=45
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_121:0
+onload="script984"
 onvartransmit="script984{var_1224,var_1225,var_1226}"
 
 [interface_121:3]
@@ -196,7 +197,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,1,7929963,7929873)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,1,7929873)"
 
 [interface_121:23]
 type=^iftype_graphic
@@ -259,7 +260,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,2,7929963,7929879)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,2,7929879)"
 
 [interface_121:29]
 type=^iftype_graphic
@@ -322,7 +323,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,3,7929963,7929885)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,3,7929885)"
 
 [interface_121:35]
 type=^iftype_graphic
@@ -385,7 +386,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,4,7929963,7929891)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,4,7929891)"
 
 [interface_121:41]
 type=^iftype_graphic
@@ -448,7 +449,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,5,7929963,7929897)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,5,7929897)"
 
 [interface_121:47]
 type=^iftype_graphic
@@ -511,7 +512,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,6,7929963,7929903)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,6,7929903)"
 
 [interface_121:53]
 type=^iftype_graphic
@@ -574,7 +575,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,7,7929963,7929909)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,7,7929909)"
 
 [interface_121:59]
 type=^iftype_graphic
@@ -637,7 +638,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,8,7929963,7929915)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,8,7929915)"
 
 [interface_121:65]
 type=^iftype_graphic
@@ -700,7 +701,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,9,7929963,7929921)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,9,7929921)"
 
 [interface_121:71]
 type=^iftype_graphic
@@ -763,7 +764,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,10,7929963,7929927)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,10,7929927)"
 
 [interface_121:77]
 type=^iftype_graphic
@@ -826,7 +827,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,11,7929963,7929933)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,11,7929933)"
 
 [interface_121:83]
 type=^iftype_graphic
@@ -889,7 +890,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,12,7929963,7929939)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,12,7929939)"
 
 [interface_121:89]
 type=^iftype_graphic
@@ -952,7 +953,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,13,7929963,7929945)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,13,7929945)"
 
 [interface_121:95]
 type=^iftype_graphic
@@ -1028,7 +1029,7 @@ graphic="scrollbar"
 flipv=yes
 optionmask=2
 op1="Select"
-onop="script985(event_com,7929965,7929964,7929968,7929969,14,7929963,7929951)"
+onop="script985(event_com,7929964,7929963,7929967,7929968,14,7929951)"
 
 [interface_121:102]
 type=^iftype_layer
@@ -1094,56 +1095,41 @@ noclickthrough=yes
 
 [interface_121:108]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-hide=yes
-layer=interface_121:2
-
-[interface_121:109]
-type=^iftype_layer
 x=10
 y=10
 width=84
 height=200
+layer=interface_121:107
+onload="script981(event_com,7929963,7929967,7929968)"
+
+[interface_121:109]
+type=^iftype_rectangle
+width=16
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_121:108
-onload="script981(event_com,7929964,7929968,7929969)"
+colour=0x2e281d
+fill=yes
 
 [interface_121:110]
 type=^iftype_rectangle
 width=16
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_121:109
-colour=0x2e281d
-fill=yes
+layer=interface_121:108
+colour=0x544834
 
 [interface_121:111]
-type=^iftype_rectangle
+type=^iftype_layer
 width=16
+height=200
 hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_121:109
-colour=0x544834
+layer=interface_121:108
 
 [interface_121:112]
 type=^iftype_layer
 width=16
 height=200
-hsizemode=^setsize_minus
-layer=interface_121:109
-
-[interface_121:113]
-type=^iftype_layer
-width=16
-height=200
 hposmode=^setpos_abs_right
-layer=interface_121:109
-
-[interface_121:114]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_121:2
-onload="script984"
-onvartransmit="script984{var_1224,var_1225,var_1226}"
+layer=interface_121:108
 
