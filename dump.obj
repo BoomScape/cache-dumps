@@ -259273,3 +259273,36 @@ placeholder=yes
 [placeholder_studded_body_26265]
 placeholder=yes
 
+[condensed_gold_26266]
+name=Condensed gold
+model=chocolate_bar_2410
+cost=8000000
+2dzoom=954
+2dxof=1
+2dyof=19
+2dxan=296
+2dyan=411
+recol1s=3738
+recol1d=11202
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_condensed_gold_26267]
+certificate=yes
+
+[placeholder_condensed_gold_26268]
+placeholder=yes
+
+[gold_sink_26269]
+name=Gold sink
+model=gold_sink_43039
+category=category_206
+2dzoom=4560
+2dxof=-6
+2dyof=-96
+2dxan=246
+2dyan=354
+param=levelrequire_23,47
+

@@ -27374,3 +27374,133 @@ param=setting_choose_transmit_1085,yes
 param=setting_desc_1096,"When enabled, you will get a confirmation before paying for your items from a gravestone."
 param=param_1119,no
 
+[struct_3744]
+param=setting_type_1078,5
+param=setting_name_1086,Iron Group notifications
+param=setting_search_keywords_1088,Iron Group notifications
+
+[struct_3745]
+param=setting_search_keywords_1088,"chat,chat,colour,gim,group,request,iron,opaque,Chat Settings"
+param=setting_id_1077,193
+param=setting_type_1078,9
+param=setting_colour_default_1230,8323072
+param=setting_name_1086,Iron Group chat
+param=setting_choose_transmit_1085,yes
+param=param_1115,yes
+param=setting_check_fail_mes_1116,You must have the transparent chatbox disabled or be in fixed mode and be a Group Iron player to change this setting.
+param=param_739,yes
+
+[struct_3746]
+param=setting_search_keywords_1088,"chat,chat,colour,gim,group,request,iron,transparent,Chat Settings"
+param=setting_id_1077,194
+param=setting_type_1078,9
+param=setting_colour_default_1230,8323072
+param=setting_name_1086,Iron Group chat
+param=setting_choose_transmit_1085,yes
+param=param_1115,yes
+param=setting_check_fail_mes_1116,"You must have the transparent chatbox enabled, be in resizable mode and be a Group Iron player to change this setting."
+param=param_1186,yes
+
+[struct_3747]
+param=setting_search_keywords_1088,"chat,chat,colour,clan,broadcast,request,opaque,Chat Settings"
+param=setting_id_1077,196
+param=setting_type_1078,9
+param=setting_colour_default_1230,0
+param=setting_name_1086,Clan Broadcasts
+param=setting_choose_transmit_1085,yes
+param=param_1115,yes
+param=setting_check_fail_mes_1116,You must have the transparent chatbox disabled or be in fixed mode and be a Group Iron player to change this setting.
+param=param_739,yes
+
+[struct_3748]
+param=setting_search_keywords_1088,"chat,chat,colour,clan,broadcast,request,transparent,Chat Settings"
+param=setting_id_1077,197
+param=setting_type_1078,9
+param=setting_colour_default_1230,16777215
+param=setting_name_1086,Clan Broadcasts
+param=setting_choose_transmit_1085,yes
+param=param_1080,enum_3846
+param=param_1082,enum_3502
+param=param_1083,enum_3503
+param=setting_check_fail_mes_1116,You must have the transparent chatbox enabled and be in resizable mode to change this setting.
+param=param_1186,yes
+
+[struct_3749]
+param=setting_search_keywords_1088,"chat,chat,colour,gim,broadcast,iron,group,request,opaque,Chat Settings"
+param=setting_id_1077,198
+param=setting_type_1078,9
+param=setting_colour_default_1230,0
+param=setting_name_1086,Iron Group Broadcasts
+param=setting_choose_transmit_1085,yes
+param=param_1115,yes
+param=setting_check_fail_mes_1116,You must have the transparent chatbox disabled or be in fixed mode and be a Group Iron player to change this setting.
+param=param_739,yes
+
+[struct_3750]
+param=setting_search_keywords_1088,"chat,chat,colour,gim,broadcast,iron,group,request,transparent,Chat Settings"
+param=setting_id_1077,199
+param=setting_type_1078,9
+param=setting_colour_default_1230,16777215
+param=setting_name_1086,Iron Group Broadcasts
+param=setting_choose_transmit_1085,yes
+param=param_1115,yes
+param=setting_check_fail_mes_1116,"You must have the transparent chatbox enabled, be in resizable mode and be a Group Iron player to change this setting."
+param=param_1186,yes
+
+[struct_3751]
+param=setting_id_1077,200
+param=setting_type_1078,4
+param=setting_name_1086,Iron Group loot broadcast threshold
+param=setting_search_keywords_1088,"Iron Group loot broadcast threshold,loot drop notification threshold,loot drop threshold,Notifications,Iron,Iron Group,GIM,Broadcast"
+param=setting_desc_1096,"If an item drops that is worth more than this value, a message will be sent to your Iron Group chat so that your group can see it."
+param=setting_choose_transmit_1085,yes
+param=param_1414,yes
+
+[struct_3752]
+param=setting_id_1077,201
+param=setting_type_1078,0
+param=setting_name_1086,Iron Group loot broadcasts
+param=setting_search_keywords_1088,"Iron Group loot broadcasts,loot drop notification,loot drop,Notifications,Iron,Iron Group,GIM,Broadcast"
+param=setting_desc_1096,Shows a message in your Iron Group chat that lets you and your group know a valuable item has dropped. This is based on the threshold you set.
+param=setting_choose_transmit_1085,yes
+param=param_1414,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_3753]
+param=setting_id_1077,202
+param=setting_type_1078,0
+param=setting_name_1086,Iron Group levelup broadcasts
+param=setting_search_keywords_1088,"Iron Group levelup broadcasts,level,levelup,Notifications,Iron,Iron Group,GIM,Broadcast"
+param=setting_desc_1096,Shows a message in your Iron Group chat that lets you and your group know when you reach certain skill levels.
+param=setting_choose_transmit_1085,yes
+param=param_1414,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_3754]
+param=setting_id_1077,203
+param=setting_type_1078,0
+param=setting_name_1086,Iron Group quest complete broadcasts
+param=setting_search_keywords_1088,"Iron Group quest completion broadcasts,quest,quest complete,Notifications,Iron,Iron Group,GIM,Broadcast"
+param=setting_desc_1096,Shows a message in your Iron Group chat that lets you and your group know when you complete a quest.
+param=setting_choose_transmit_1085,yes
+param=param_1414,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_3755]
+param=setting_id_1077,204
+param=setting_type_1078,0
+param=setting_name_1086,Iron Group combat achievement broadcasts
+param=setting_search_keywords_1088,"Iron Group combat achievement broadcasts,ca,combat,achievement,combat achievements,Notifications,Iron,Iron Group,GIM,Broadcast"
+param=setting_desc_1096,Shows a message in your Iron Group chat that lets you and your group know when you complete a combat achievement tier.
+param=setting_choose_transmit_1085,yes
+param=param_1414,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_3756]
+param=setting_id_1077,195
+param=setting_type_1078,0
+param=setting_name_1086,Chatbox Mode - Set Automatically
+param=setting_search_keywords_1088,"chat,mode,chatbox,/p,/c,/f,/i,auto,set,clan,channel,guestclan,guest,group,public"
+param=setting_choose_transmit_1085,yes
+param=setting_desc_1096,"When enabled, sending a message with one of the following prefixes will automatically sets your chat mode to the respective channel: /p, /f, /c, /g or /i (GIM only)."
+

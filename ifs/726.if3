@@ -4,7 +4,7 @@ width=184
 height=237
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script5255(event_com,47579137,47579139,47579142,47579143)"
+onload="script5255(event_com,47579137,47579139,47579142,47579143,47579144)"
 
 [interface_726:1]
 type=^iftype_layer
@@ -68,10 +68,22 @@ onload="script714(event_com)"
 
 [interface_726:7]
 type=^iftype_layer
+x=10
 y=2
-width=100
+width=80
 height=32
-hposmode=^setpos_abs_centre
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_726:0
+optionmask=2
+op1="*"
+
+[interface_726:8]
+type=^iftype_layer
+x=10
+y=2
+width=80
+height=32
 vposmode=^setpos_abs_bottom
 layer=interface_726:0
 optionmask=2
