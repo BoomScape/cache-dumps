@@ -407,3 +407,11 @@ graphic="icon_iron_ultimate"
 colour=42
 graphic="blank"
 
+[texture_89]
+colour=14482
+graphic="leafytree_tiled02"
+
+[texture_90]
+colour=14482
+graphic="leafytree02"
+

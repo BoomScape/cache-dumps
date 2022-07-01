@@ -1807,19 +1807,19 @@ mapfunction=no
 category=1129
 
 [mapelement_304]
-text=Sulphur<br>mine
+text=Sulphur<br>Mine
 colour=^white
 mapfunction=no
 category=1129
 
 [mapelement_305]
-text=Blast mine
+text=Blast Mine
 colour=^white
 mapfunction=no
 category=1129
 
 [mapelement_306]
-text=Lovakite<br>mine
+text=Lovakite<br>Mine
 colour=^white
 mapfunction=no
 category=1129
@@ -1843,13 +1843,13 @@ mapfunction=no
 category=1129
 
 [mapelement_310]
-text=Tithe farm
+text=Tithe Farm
 colour=^white
 mapfunction=no
 category=1129
 
 [mapelement_311]
-text=Charcoal<br>burners
+text=Charcoal<br>Burners
 colour=^white
 mapfunction=no
 category=1129
@@ -1867,7 +1867,7 @@ mapfunction=no
 category=1129
 
 [mapelement_314]
-text=Combat<br>ring
+text=Combat<br>Ring
 colour=^white
 mapfunction=no
 category=1129
@@ -1903,9 +1903,8 @@ mapfunction=no
 category=1129
 
 [mapelement_320]
-text=Wintertodt
+text=The<br>Wintertodt
 colour=^white
-size=1
 mapfunction=no
 category=1129
 
@@ -3727,6 +3726,7 @@ category=1129
 [mapelement_621]
 text=Kingstown
 colour=^white
+size=1
 mapfunction=no
 category=1129
 
@@ -4149,4 +4149,42 @@ category=1129
 graphic="mapfunction,127"
 vis=^mapelement_vis_both
 category=1551
+
+[mapelement_691]
+text=Shayzien<br>Encampment
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_692]
+text=Giant<br>Pit
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_693]
+text=Ruins<br>of Morra
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_694]
+text=Shayzia<br>Ruin
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_695]
+text=Northern<br>Tundras
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_696]
+text=River<br>of Souls
+colour=^white
+mapfunction=no
+category=1129
 

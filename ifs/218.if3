@@ -4,7 +4,7 @@ width=190
 height=261
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script2262(event_com,14286849,14286851,14287031,14286850,14287033,14287036,14287037,14287038,14287039,14287040)"
+onload="script2262(event_com,14286849,14286851,14287037,14286850,14287039,14287042,14287043,14287044,14287045,14287046)"
 
 [interface_218:1]
 type=^iftype_layer
@@ -1687,6 +1687,66 @@ op1="Cast"
 targetverb="Cast"
 
 [interface_218:183]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=2
+op1="Cast"
+targetverb="Cast"
+
+[interface_218:184]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=2
+op1="Cast"
+targetverb="Cast"
+
+[interface_218:185]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=2
+op1="Cast"
+targetverb="Cast"
+
+[interface_218:186]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=2
+op1="Cast"
+targetverb="Cast"
+
+[interface_218:187]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=2
+op1="Cast"
+targetverb="Cast"
+
+[interface_218:188]
+type=^iftype_graphic
+width=24
+height=24
+hide=yes
+layer=interface_218:3
+optionmask=2
+op1="Cast"
+targetverb="Cast"
+
+[interface_218:189]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -1695,20 +1755,20 @@ vsizemode=^setsize_minus
 hide=yes
 layer=interface_218:3
 
-[interface_218:184]
+[interface_218:190]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:183
+layer=interface_218:189
 graphic="tradebacking"
 tiling=yes
 trans=225
 onload="script834(event_com,1)"
 onclick="script489(0,0)"
 
-[interface_218:185]
+[interface_218:191]
 type=^iftype_layer
 width=180
 height=190
@@ -1717,22 +1777,22 @@ vposmode=^setpos_abs_centre
 layer=interface_218:1
 onload="script991(event_com,26)"
 
-[interface_218:186]
+[interface_218:192]
 type=^iftype_graphic
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:185
+layer=interface_218:191
 graphic="tradebacking_dark"
 tiling=yes
 
-[interface_218:187]
+[interface_218:193]
 type=^iftype_text
 y=2
 height=164
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:185
+layer=interface_218:191
 text="Spell Filters"
 colour=0xff981f
 font=b12_full
@@ -1740,7 +1800,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_218:188]
+[interface_218:194]
 type=^iftype_layer
 y=2
 height=29
@@ -1748,9 +1808,9 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_218:185
+layer=interface_218:191
 
-[interface_218:189]
+[interface_218:195]
 type=^iftype_layer
 height=17
 hposmode=^setpos_abs_centre
@@ -1758,22 +1818,22 @@ vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_218:0
 
-[interface_218:190]
+[interface_218:196]
 type=^iftype_layer
 width=80
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_218:189
+layer=interface_218:195
 
-[interface_218:191]
+[interface_218:197]
 type=^iftype_layer
 width=80
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_218:189
+layer=interface_218:195
 
-[interface_218:192]
+[interface_218:198]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
