@@ -31140,6 +31140,7 @@ recol6s=6798
 recol6d=4781
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [rolayne_twickit_hard_1563]
@@ -31172,6 +31173,7 @@ recol6s=6798
 recol6d=5541
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [jayene_kliyn_medium_1564]
@@ -31204,6 +31206,7 @@ recol6s=11200
 recol6d=8741
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [valantay_eppel_medium_1565]
@@ -31238,6 +31241,7 @@ recol5s=4626
 recol5d=4645
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [dalcian_fang_easy_1566]
@@ -31273,6 +31277,7 @@ recol6s=8078
 recol6d=-22380
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [fyiona_fray_easy_1567]
@@ -31306,6 +31311,7 @@ recol6s=11200
 recol6d=-22122
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [abidor_crank_1568]
@@ -31500,6 +31506,7 @@ recol5s=7469
 recol5d=7446
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [woman_at_arms_hard_1574]
@@ -31533,6 +31540,7 @@ recol6s=11200
 recol6d=1701
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [apprentice_medium_1575]
@@ -31568,6 +31576,7 @@ recol5s=7845
 recol5d=6965
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [ranger_medium_1576]
@@ -31600,6 +31609,7 @@ recol6s=6674
 recol6d=9135
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [adventurer_easy_1577]
@@ -31632,6 +31642,7 @@ recol6s=926
 recol6d=-17506
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [mage_easy_1578]
@@ -31663,6 +31674,7 @@ recol4s=7591
 recol4d=-25037
 op1=Talk-to
 op3=Escort
+op4=Supply
 vislevel=0
 
 [hiylik_myna_1579]
@@ -160675,7 +160687,7 @@ model4=male_arms_167
 model5=male_hands_176
 model6=male_legs_271
 model7=villager_sandals_8919
-model8=lobster_pot_531
+model8=lobster_cage_531
 head1=pirate_50
 head2=male_jaw_84
 readyanim=human_ready_808

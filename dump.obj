@@ -3238,11 +3238,11 @@ cost=3
 2dyan=168
 placeholder=yes
 
-[lobster_pot_301]
-name=Lobster pot
-model=lobster_pot_2663
-manwear=lobster_pot_531,0
-womanwear=lobster_pot_531,6
+[lobster_cage_301]
+name=Lobster cage
+model=lobster_cage_2663
+manwear=lobster_cage_531,0
+womanwear=lobster_cage_531,6
 cost=20
 2dzoom=1180
 2dxan=192
@@ -3251,7 +3251,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_lobster_pot_302]
+[cert_lobster_cage_302]
 certificate=yes
 
 [small_fishing_net_303]
@@ -4439,7 +4439,7 @@ placeholder=yes
 
 [pigeon_cage_425]
 name=Pigeon cage
-model=lobster_pot_2663
+model=lobster_cage_2663
 2dzoom=1180
 2dxan=192
 2dyan=1668
@@ -168533,7 +168533,7 @@ placeholder=yes
 [placeholder_old_school_bond_untradeable_15431]
 placeholder=yes
 
-[placeholder_lobster_pot_15432]
+[placeholder_lobster_cage_15432]
 placeholder=yes
 
 [placeholder_small_fishing_net_15433]
@@ -228627,7 +228627,8 @@ cost=63
 2dzoom=465
 2dyof=-1
 2dxan=404
-iop4=Break
+iop1=Break
+iop4=Configure
 members=yes
 stockmarket=yes
 stackable=yes
@@ -235469,4 +235470,84 @@ param=param_608,ice_plateau_teleport_9131
 
 [placeholder_ice_plateau_teleport_24964]
 placeholder=yes
+
+[dummy_beite_24965]
+model=beite_6438
+2dzoom=1200
+2dyof=-10
+2dxan=25
+2dyan=160
+members=yes
+
+[dummy_beite_24966]
+model=beite_6438
+2dzoom=1200
+2dyof=-10
+2dxan=25
+2dyan=160
+recol1s=127
+recol1d=16
+recol2s=16
+recol2d=61
+recol3s=61
+recol3d=127
+recol4s=123
+recol4d=0
+members=yes
+
+[dummy_beite_24967]
+model=beite_6438
+2dzoom=1200
+2dyof=-10
+2dxan=25
+2dyan=160
+recol1s=61
+recol1d=8105
+recol2s=16
+recol2d=5916
+recol3s=127
+recol3d=5673
+members=yes
+
+[dummy_beite_24968]
+model=beite_6438
+2dzoom=1200
+2dyof=-10
+2dxan=25
+2dyan=160
+recol1s=61
+recol1d=12
+recol2s=16
+recol2d=12
+recol3s=127
+recol3d=33
+members=yes
+
+[dummy_beite_24969]
+model=beite_6438
+2dzoom=1200
+2dyof=-10
+2dxan=25
+2dyan=160
+recol1s=61
+recol1d=7060
+recol2s=16
+recol2d=61
+recol3s=127
+recol3d=45
+members=yes
+
+[dummy_beite_24970]
+model=beite_6438
+2dzoom=1200
+2dyof=-10
+2dxan=25
+2dyan=160
+recol1s=61
+recol1d=-22361
+recol2s=16
+recol2d=10304
+recol3s=127
+recol3d=45
+members=yes
 
