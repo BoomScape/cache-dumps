@@ -199715,6 +199715,7 @@ model=shiny_key_2372
 2dyan=20
 recol1s=8128
 recol1d=7087
+stackable=yes
 placeholder=yes
 
 [placeholder_giant_key_20755]
@@ -203242,7 +203243,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,85
 
 [cert_twisted_bow_20998]
 certificate=yes
@@ -203364,7 +203365,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
-param=levelrequire_23,65
+param=levelrequire_23,70
 
 [cert_dragon_hunter_crossbow_21013]
 certificate=yes
@@ -215726,7 +215727,7 @@ category=category_15
 2dxof=-4
 2dxan=136
 2dyan=1980
-iop1=Beginner
+iop1=Elite
 iop2=Master
 iop3=Assessment
 recol1s=-6242
@@ -217740,7 +217741,6 @@ cost=65000
 2dyan=452
 iop2=Wield
 iop3=Check
-members=yes
 stockmarket=yes
 certificate=yes
 param=param_451,Check
@@ -217763,7 +217763,6 @@ cost=65000
 iop2=Wield
 iop3=Check
 iop4=Uncharge
-members=yes
 placeholder=yes
 param=param_451,Check
 
@@ -217779,7 +217778,6 @@ cost=7000
 2dyof=13
 2dxan=392
 2dyan=2047
-members=yes
 stockmarket=yes
 certificate=yes
 
@@ -217793,6 +217791,7 @@ model=mossy_key_28612
 2dxof=-1
 2dxan=788
 2dyan=473
+stackable=yes
 placeholder=yes
 
 [placeholder_mossy_key_22375]
@@ -254034,7 +254033,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [cert_bow_of_faerdhinen_inactive_25863]
 certificate=yes
@@ -254058,7 +254057,7 @@ iop3=Check
 iop4=Uncharge
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 param=param_451,Check
 
 [placeholder_bow_of_faerdhinen_25866]
@@ -254083,7 +254082,7 @@ recol2s=-32541
 recol2d=957
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25868]
 placeholder=yes
@@ -254284,7 +254283,7 @@ recol2s=-32541
 recol2d=127
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25885]
 placeholder=yes
@@ -254308,7 +254307,7 @@ recol2s=-32541
 recol2d=8
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25887]
 placeholder=yes
@@ -254332,7 +254331,7 @@ recol2s=-32541
 recol2d=-12881
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25889]
 placeholder=yes
@@ -254356,7 +254355,7 @@ recol2s=-32541
 recol2d=21958
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25891]
 placeholder=yes
@@ -254380,7 +254379,7 @@ recol2s=-32541
 recol2d=9804
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25893]
 placeholder=yes
@@ -254400,7 +254399,7 @@ iop2=Wield
 iop4=Uncharge
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25895]
 placeholder=yes
@@ -254424,7 +254423,7 @@ recol2s=-32541
 recol2d=-25929
 members=yes
 placeholder=yes
-param=levelrequire_23,75
+param=levelrequire_23,80
 
 [placeholder_bow_of_faerdhinen_c_25897]
 placeholder=yes
