@@ -4,7 +4,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script312(24772610,24772609,24772670,24772675,24772679,24772677,24772684,24772686,24772688)"
+onload="script312(24772610,24772609,24772671,24772689,24772693,24772687,24772691,24772678,24772676,24772685,24772667,24772694)"
 
 [interface_378:1]
 type=^iftype_layer
@@ -657,50 +657,52 @@ layer=interface_378:2
 
 [interface_378:59]
 type=^iftype_layer
+x=-318
+width=70
+height=32
+hposmode=^setpos_abs_centre
+layer=interface_378:2
+optionmask=2
+op1="Switch Style"
+
+[interface_378:60]
+type=^iftype_layer
 y=1
 width=515
 height=51
 hposmode=^setpos_abs_centre
 layer=interface_378:58
 
-[interface_378:60]
+[interface_378:61]
 type=^iftype_graphic
 y=2
 width=503
 height=47
 hposmode=^setpos_abs_centre
-layer=interface_378:59
+layer=interface_378:60
 graphic="titlescroll"
 
-[interface_378:61]
+[interface_378:62]
 type=^iftype_text
 y=6
 width=503
 height=20
 hposmode=^setpos_abs_centre
-layer=interface_378:59
+layer=interface_378:60
 text="Welcome to Old School RuneScape"
 colour=^red
 font=q8_full
 halign=^settextalign_centre
 
-[interface_378:62]
+[interface_378:63]
 type=^iftype_text
 y=28
 width=503
 height=20
 hposmode=^setpos_abs_centre
-layer=interface_378:59
+layer=interface_378:60
 font=p12_full
 halign=^settextalign_centre
-
-[interface_378:63]
-type=^iftype_layer
-x=29
-y=64
-width=343
-height=90
-layer=interface_378:58
 
 [interface_378:64]
 type=^iftype_graphic
@@ -708,7 +710,7 @@ width=343
 height=90
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_378:63
+layer=interface_378:85
 graphic="button_brown_big"
 
 [interface_378:65]
@@ -717,7 +719,7 @@ x=1
 y=5
 width=69
 height=82
-layer=interface_378:63
+layer=interface_378:85
 graphic="key"
 
 [interface_378:66]
@@ -727,7 +729,7 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_378:63
+layer=interface_378:85
 text="Never tell anyone your password,<br>even if they claim to work for Jagex!"
 colour=^yellow
 font=p12_full
@@ -736,26 +738,15 @@ valign=^settextalign_centre
 paraheight=14
 
 [interface_378:67]
-type=^iftype_layer
-x=29
-y=64
-width=343
-height=90
-hposmode=^setpos_abs_right
-layer=interface_378:58
-optionmask=2
-op1="*"
-
-[interface_378:68]
 type=^iftype_graphic
-width=343
-height=90
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_378:67
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_378:83
 graphic="button_brown_big"
 
-[interface_378:69]
+[interface_378:68]
 type=^iftype_rectangle
 width=8
 height=8
@@ -764,28 +755,28 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_378:67
+layer=interface_378:83
 colour=^white
 fill=yes
 trans=230
 
-[interface_378:70]
+[interface_378:69]
 type=^iftype_graphic
 x=5
 width=79
 height=82
 vposmode=^setpos_abs_centre
-layer=interface_378:67
+layer=interface_378:83
 graphic="letter"
 
-[interface_378:71]
+[interface_378:70]
 type=^iftype_text
 width=85
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_378:67
+layer=interface_378:83
 colour=^yellow
 font=p12_full
 halign=^settextalign_centre
@@ -793,40 +784,32 @@ valign=^settextalign_centre
 paraheight=14
 shadowed=yes
 
-[interface_378:72]
-type=^iftype_layer
-x=29
-y=173
-width=343
-height=90
-layer=interface_378:58
-
-[interface_378:73]
+[interface_378:71]
 type=^iftype_graphic
 width=343
 height=90
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_378:72
+layer=interface_378:81
 graphic="button_brown_big"
 
-[interface_378:74]
+[interface_378:72]
 type=^iftype_graphic
 x=3
 width=66
 height=82
 vposmode=^setpos_abs_centre
-layer=interface_378:72
+layer=interface_378:81
 graphic="chest"
 
-[interface_378:75]
+[interface_378:73]
 type=^iftype_text
 width=70
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_378:72
+layer=interface_378:81
 colour=^yellow
 font=p12_full
 halign=^settextalign_centre
@@ -834,27 +817,16 @@ valign=^settextalign_centre
 paraheight=14
 shadowed=yes
 
-[interface_378:76]
-type=^iftype_layer
-x=29
-y=173
-width=343
-height=90
-hposmode=^setpos_abs_right
-layer=interface_378:58
-optionmask=2
-op1="*"
-
-[interface_378:77]
+[interface_378:74]
 type=^iftype_graphic
-width=343
-height=90
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_378:76
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_378:79
 graphic="button_brown_big"
 
-[interface_378:78]
+[interface_378:75]
 type=^iftype_rectangle
 width=8
 height=8
@@ -863,28 +835,28 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_378:76
+layer=interface_378:79
 colour=^white
 fill=yes
 trans=230
 
-[interface_378:79]
+[interface_378:76]
 type=^iftype_graphic
 x=4
 width=77
 height=82
 vposmode=^setpos_abs_centre
-layer=interface_378:76
+layer=interface_378:79
 graphic="coins"
 
-[interface_378:80]
+[interface_378:77]
 type=^iftype_text
 width=85
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_378:76
+layer=interface_378:79
 colour=^yellow
 font=p12_full
 halign=^settextalign_centre
@@ -892,7 +864,7 @@ valign=^settextalign_centre
 paraheight=14
 shadowed=yes
 
-[interface_378:81]
+[interface_378:78]
 type=^iftype_layer
 y=282
 width=229
@@ -901,20 +873,41 @@ hposmode=^setpos_abs_centre
 layer=interface_378:58
 optionmask=2
 op1="Play"
-onmouseover="script69(0,24772691)"
-onmouseleave="script69(1,24772691)"
+onmouseover="script69(0,24772690)"
+onmouseleave="script69(1,24772690)"
 onop="script489(event_opindex,2)"
 
-[interface_378:82]
+[interface_378:79]
+type=^iftype_layer
+x=29
+y=173
+width=343
+height=90
+hposmode=^setpos_abs_right
+layer=interface_378:58
+optionmask=2
+op1="Open Store"
+onmouseleave="script69(1,24772683)"
+onmouserepeat="script69(0,24772683)"
+
+[interface_378:80]
 type=^iftype_graphic
 width=229
 height=90
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-layer=interface_378:81
+layer=interface_378:78
 graphic="button_red"
 
-[interface_378:83]
+[interface_378:81]
+type=^iftype_layer
+x=29
+y=173
+width=343
+height=90
+layer=interface_378:58
+
+[interface_378:82]
 type=^iftype_rectangle
 width=8
 height=8
@@ -923,10 +916,21 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_378:81
+layer=interface_378:78
 colour=^white
 fill=yes
 trans=230
+
+[interface_378:83]
+type=^iftype_layer
+x=29
+y=64
+width=343
+height=90
+hposmode=^setpos_abs_right
+layer=interface_378:58
+optionmask=2
+op1="View Inbox"
 
 [interface_378:84]
 type=^iftype_graphic
@@ -934,21 +938,72 @@ x=5
 width=66
 height=83
 vposmode=^setpos_abs_centre
-layer=interface_378:81
+layer=interface_378:78
 graphic="startgame"
 
 [interface_378:85]
+type=^iftype_layer
+x=29
+y=64
+width=343
+height=90
+layer=interface_378:58
+
+[interface_378:86]
+type=^iftype_layer
+x=29
+y=64
+width=707
+height=199
+hide=yes
+layer=interface_378:58
+optionmask=2
+op1="View news"
+
+[interface_378:87]
 type=^iftype_text
 width=71
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_378:81
+layer=interface_378:78
 text="CLICK HERE TO PLAY"
 colour=^white
 font=b12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+
+[interface_378:88]
+type=^iftype_graphic
+width=707
+height=199
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_378:86
+graphic="brown_border"
+
+[interface_378:89]
+type=^iftype_graphic
+width=699
+height=191
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_378:86
+graphic="graphic_2246"
+
+[interface_378:90]
+type=^iftype_rectangle
+width=8
+height=8
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_378:86
+colour=^white
+fill=yes
+trans=230
 

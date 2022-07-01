@@ -50568,3 +50568,18 @@ basevar=var_1795
 startbit=6
 endbit=6
 
+[varbit_10114]
+basevar=var_783
+startbit=27
+endbit=29
+
+[varbit_10115]
+basevar=var_313
+startbit=18
+endbit=18
+
+[varbit_10116]
+basevar=var_1226
+startbit=26
+endbit=26
+

@@ -3846,8 +3846,8 @@ op2=Attack
 size=3
 vislevel=172
 
-[baby_dragon_241]
-name=Baby dragon
+[baby_blue_dragon_241]
+name=Baby blue dragon
 model1=baby_red_dragon_17411
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
@@ -3872,10 +3872,10 @@ op2=Attack
 size=2
 vislevel=48
 
-[baby_dragon_242]
-name=Baby dragon
-model1=baby_dragon_17412
-model2=baby_dragon_17428
+[baby_blue_dragon_242]
+name=Baby blue dragon
+model1=baby_blue_dragon_17412
+model2=baby_blue_dragon_17428
 model3=baby_red_dragon_17421
 model4=baby_red_dragon_17424
 readyanim=baby_red_dragon_ready_27
@@ -3898,9 +3898,9 @@ op2=Attack
 size=2
 vislevel=48
 
-[baby_dragon_243]
-name=Baby dragon
-model1=baby_dragon_17413
+[baby_blue_dragon_243]
+name=Baby blue dragon
+model1=baby_blue_dragon_17413
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
 model4=baby_red_dragon_17424
@@ -3924,8 +3924,8 @@ op2=Attack
 size=2
 vislevel=48
 
-[baby_dragon_244]
-name=Baby dragon
+[baby_red_dragon_244]
+name=Baby red dragon
 model1=baby_red_dragon_17411
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
@@ -3938,10 +3938,10 @@ op2=Attack
 size=2
 vislevel=48
 
-[baby_dragon_245]
-name=Baby dragon
-model1=baby_dragon_17412
-model2=baby_dragon_17428
+[baby_red_dragon_245]
+name=Baby red dragon
+model1=baby_blue_dragon_17412
+model2=baby_blue_dragon_17428
 model3=baby_red_dragon_17421
 model4=baby_red_dragon_17424
 readyanim=baby_red_dragon_ready_27
@@ -3960,9 +3960,9 @@ op2=Attack
 size=2
 vislevel=48
 
-[baby_dragon_246]
-name=Baby dragon
-model1=baby_dragon_17413
+[baby_red_dragon_246]
+name=Baby red dragon
+model1=baby_blue_dragon_17413
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
 model4=baby_red_dragon_17424
@@ -36940,8 +36940,8 @@ op2=Attack
 vislevel=159
 drawpriority=yes
 
-[baby_dragon_1871]
-name=Baby dragon
+[baby_black_dragon_1871]
+name=Baby black dragon
 model1=baby_red_dragon_17411
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
@@ -36966,8 +36966,8 @@ op2=Attack
 size=2
 vislevel=83
 
-[baby_dragon_1872]
-name=Baby dragon
+[baby_black_dragon_1872]
+name=Baby black dragon
 model1=baby_red_dragon_17411
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
@@ -60436,6 +60436,194 @@ recol4d=3988
 op2=Attack
 vislevel=5
 ambient=15
+
+[phoenix_3077]
+name=Phoenix
+model1=phoenix_39148
+head1=phoenix_39152
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+
+[phoenix_3078]
+name=Phoenix
+model1=phoenix_39146
+head1=phoenix_39150
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+recol1s=4894
+recol1d=-21593
+recol2s=4647
+recol2d=-23629
+recol3s=5669
+recol3d=-25681
+recol4s=6053
+recol4d=-26821
+recol5s=5066
+recol5d=-25681
+recol6s=5053
+recol6d=-26676
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+
+[phoenix_3079]
+name=Phoenix
+model1=phoenix_39149
+head1=phoenix_39151
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+recol1s=4894
+recol1d=20
+recol2s=4647
+recol2d=33
+recol3s=5669
+recol3d=49
+recol4s=6053
+recol4d=20
+recol5s=5066
+recol5d=74
+recol6s=5053
+recol6d=86
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+
+[phoenix_3080]
+name=Phoenix
+model1=phoenix_39147
+head1=phoenix_39153
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+recol1s=4894
+recol1d=-16717
+recol2s=4647
+recol2d=-16692
+recol3s=5669
+recol3d=-16692
+recol4s=6053
+recol4d=-15530
+recol5s=5066
+recol5d=-16692
+recol6s=5053
+recol6d=-14632
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+
+[phoenix_3081]
+name=Phoenix
+model1=phoenix_39148
+head1=phoenix_39152
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+follower=yes
+
+[phoenix_3082]
+name=Phoenix
+model1=phoenix_39146
+head1=phoenix_39150
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+recol1s=4894
+recol1d=-21593
+recol2s=4647
+recol2d=-23629
+recol3s=5669
+recol3d=-25681
+recol4s=6053
+recol4d=-26821
+recol5s=5066
+recol5d=-25681
+recol6s=5053
+recol6d=-26676
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+follower=yes
+
+[phoenix_3083]
+name=Phoenix
+model1=phoenix_39149
+head1=phoenix_39151
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+recol1s=4894
+recol1d=20
+recol2s=4647
+recol2d=33
+recol3s=5669
+recol3d=49
+recol4s=6053
+recol4d=20
+recol5s=5066
+recol5d=74
+recol6s=5053
+recol6d=86
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+follower=yes
+
+[phoenix_3084]
+name=Phoenix
+model1=phoenix_39147
+head1=phoenix_39153
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
+resizeh=80
+resizev=80
+recol1s=4894
+recol1d=-16717
+recol2s=4647
+recol2d=-16692
+recol3s=5669
+recol3d=-16692
+recol4s=6053
+recol4d=-15530
+recol5s=5066
+recol5d=-16692
+recol6s=5053
+recol6d=-14632
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=40
+follower=yes
 
 [npc_3085]
 name=
@@ -102399,8 +102587,8 @@ vislevel=19
 [entrana_firebird_4927]
 name=Entrana firebird
 model1=entrana_firebird_26853
-readyanim=entrana_firebird_ready_6809
-walkanim=entrana_firebird_walk_6808
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
 op2=Attack
 size=2
 vislevel=2
@@ -106224,8 +106412,8 @@ drawpriority=yes
 [desert_phoenix_5137]
 name=Desert Phoenix
 model1=phoenix_26852
-readyanim=entrana_firebird_ready_6809
-walkanim=entrana_firebird_walk_6808
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
 op3=Grab-feather
 size=2
 vislevel=0
@@ -107390,8 +107578,8 @@ recol3d=-24411
 op2=Attack
 vislevel=2
 
-[baby_dragon_5194]
-name=Baby dragon
+[baby_green_dragon_5194]
+name=Baby green dragon
 model1=baby_red_dragon_17411
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
@@ -121357,10 +121545,10 @@ model1=king_arthur_27526
 vislevel=0
 drawpriority=yes
 
-[baby_dragon_5872]
-name=Baby dragon
-model1=baby_dragon_17412
-model2=baby_dragon_17428
+[baby_green_dragon_5872]
+name=Baby green dragon
+model1=baby_blue_dragon_17412
+model2=baby_blue_dragon_17428
 model3=baby_red_dragon_17421
 model4=baby_red_dragon_17424
 readyanim=baby_red_dragon_ready_27
@@ -121383,9 +121571,9 @@ op2=Attack
 size=2
 vislevel=48
 
-[baby_dragon_5873]
-name=Baby dragon
-model1=baby_dragon_17413
+[baby_green_dragon_5873]
+name=Baby green dragon
+model1=baby_blue_dragon_17413
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421
 model4=baby_red_dragon_17424
@@ -148892,8 +149080,8 @@ follower=yes
 name=Phoenix
 model1=phoenix_26852
 head1=phoenix_32290
-readyanim=entrana_firebird_ready_6809
-walkanim=entrana_firebird_walk_6808
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
 resizeh=80
 resizev=80
 op1=Talk-to
@@ -148938,8 +149126,8 @@ drawpriority=yes
 name=Phoenix
 model1=phoenix_26852
 head1=phoenix_32290
-readyanim=entrana_firebird_ready_6809
-walkanim=entrana_firebird_walk_6808
+readyanim=phoenix_ready_6809
+walkanim=phoenix_walk_6808
 resizeh=80
 resizev=80
 op1=Talk-to
@@ -159870,8 +160058,8 @@ op1=Talk-to
 vislevel=0
 drawpriority=yes
 
-[baby_dragon_7955]
-name=Baby dragon
+[baby_black_dragon_7955]
+name=Baby black dragon
 model1=baby_red_dragon_17411
 model2=baby_red_dragon_17427
 model3=baby_red_dragon_17421

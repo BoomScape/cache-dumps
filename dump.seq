@@ -41106,12 +41106,12 @@ replayoff=2
 looptype=1
 framegroup1=1712
 
-[entrana_firebird_walk_6808]
+[phoenix_walk_6808]
 framecount=7
 looptype=1
 framegroup1=1710
 
-[entrana_firebird_ready_6809]
+[phoenix_ready_6809]
 framecount=7
 replayoff=1
 looptype=1
@@ -52413,4 +52413,14 @@ stretches=yes
 priority=6
 looptype=1
 framegroup1=2406
+
+[seq_8541]
+framecount=54
+priority=2
+mainhand=24999
+offhand=0
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=2407
 

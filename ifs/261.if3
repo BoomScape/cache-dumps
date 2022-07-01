@@ -1246,7 +1246,7 @@ vposmode=^setpos_abs_bottom
 layer=interface_261:36
 graphic="options_boxes,0"
 optionmask=2
-op1="Toggle store orb"
+op1="Toggle Wiki lookup"
 onload="script3293(event_com,17105008)"
 
 [interface_261:120]
