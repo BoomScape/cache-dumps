@@ -179,7 +179,6 @@ hposmode=^setpos_abs_centre
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,0)"
 
 [interface_100:19]
 type=^iftype_layer
@@ -190,7 +189,6 @@ height=36
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,1)"
 
 [interface_100:20]
 type=^iftype_layer
@@ -201,7 +199,6 @@ hposmode=^setpos_abs_centre
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,2)"
 
 [interface_100:21]
 type=^iftype_layer
@@ -211,7 +208,6 @@ height=36
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,3)"
 
 [interface_100:22]
 type=^iftype_layer
@@ -222,7 +218,6 @@ hposmode=^setpos_abs_centre
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,4)"
 
 [interface_100:23]
 type=^iftype_layer
@@ -233,7 +228,6 @@ hposmode=^setpos_abs_right
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,5)"
 
 [interface_100:24]
 type=^iftype_layer
@@ -244,7 +238,6 @@ hposmode=^setpos_abs_centre
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,7)"
 
 [interface_100:25]
 type=^iftype_layer
@@ -254,7 +247,6 @@ vposmode=^setpos_abs_bottom
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,9)"
 
 [interface_100:26]
 type=^iftype_layer
@@ -265,7 +257,6 @@ vposmode=^setpos_abs_bottom
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,10)"
 
 [interface_100:27]
 type=^iftype_layer
@@ -276,7 +267,6 @@ vposmode=^setpos_abs_bottom
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,12)"
 
 [interface_100:28]
 type=^iftype_layer
@@ -288,7 +278,6 @@ hposmode=^setpos_abs_right
 layer=interface_100:12
 optionmask=1024
 op10="*"
-onload="script544(event_com,13)"
 
 [interface_100:29]
 type=^iftype_layer

@@ -19487,6 +19487,7 @@ certificate=yes
 [cowhide_1739]
 name=Cowhide
 model=cowhide_2338
+cost=2
 2dzoom=1190
 2dxof=-1
 2dyof=-2

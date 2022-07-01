@@ -311,10 +311,10 @@ graphic="orb_icon,6"
 
 [interface_160:35]
 type=^iftype_layer
-x=89
+x=85
+y=143
 width=34
 height=34
-vposmode=^setpos_abs_bottom
 layer=interface_160:0
 onload="script2396(event_com,10485798,10485796,10485797,10485799)"
 
@@ -324,7 +324,6 @@ width=34
 height=34
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hide=yes
 layer=interface_160:35
 graphic="graphic_1635"
 
@@ -334,7 +333,6 @@ width=26
 height=26
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hide=yes
 layer=interface_160:35
 graphic="orb_filler,11"
 trans=25
@@ -343,7 +341,6 @@ trans=25
 type=^iftype_layer
 width=34
 height=34
-hide=yes
 layer=interface_160:35
 optionmask=6
 op1="*"
@@ -355,7 +352,6 @@ width=26
 height=26
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-hide=yes
 layer=interface_160:35
 graphic="orb_icon,7"
 

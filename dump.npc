@@ -171733,6 +171733,46 @@ walkanim=crypt_spider_walk_6248
 vislevel=0
 drawpriority=yes
 
+[npc_8486]
+model1=model_16238
+vislevel=0
+active=no
+
+[make_over_mage_8487]
+name=Make-over mage
+model1=xerician_hat_9608
+model2=female_hair_390
+model3=yin_yang_amulet_9459
+model4=female_torso_471
+model5=female_arms_343
+model6=female_hands_353
+model7=staff_534
+model8=mystic_robe_bottom_5034
+model9=female_feet_358
+head1=female_hair_113
+head2=xerician_hat_9601
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+recol1s=6798
+recol1d=5921
+recol2s=8741
+recol2d=-26321
+recol3s=-24618
+recol3d=-26325
+recol4s=119
+recol4d=-26205
+recol5s=-25152
+recol5d=-26329
+recol6s=8078
+recol6d=-26329
+op1=Talk-to
+op3=Makeover
+vislevel=0
+drawpriority=yes
+
 [survival_expert_8503]
 name=Survival Expert
 model1=grail_maiden_384

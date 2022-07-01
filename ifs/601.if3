@@ -163,7 +163,7 @@ layer=interface_601:16
 [interface_601:20]
 type=^iftype_layer
 width=211
-height=173
+height=190
 hposmode=^setpos_abs_right
 layer=interface_601:12
 
@@ -225,9 +225,10 @@ graphic="graphic_1177"
 
 [interface_601:27]
 type=^iftype_layer
+y=10
 width=211
-height=163
-vposmode=^setpos_abs_bottom
+height=180
+hposmode=^setpos_abs_right
 layer=interface_601:20
 
 [interface_601:28]

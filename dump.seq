@@ -9903,6 +9903,12 @@ replayoff=12
 looptype=1
 framegroup1=81
 
+[scrying_orb_1638]
+framecount=16
+replayoff=16
+looptype=1
+framegroup1=2222
+
 [ghost_ready_1639]
 framecount=12
 looptype=1
@@ -49557,6 +49563,12 @@ framegroup1=2197
 framecount=33
 looptype=1
 framegroup1=1076
+
+[portal_8148]
+framecount=16
+replayoff=16
+looptype=1
+framegroup1=2221
 
 [seq_8149]
 framecount=11
