@@ -251382,6 +251382,7 @@ param=param_446,enum_3856
 [antique_lamp_25753]
 name=Antique lamp
 model=lamp_3348
+cost=50
 2dzoom=840
 2dxof=2
 2dyof=-2
@@ -253630,12 +253631,14 @@ name=Anim offhand
 model=ghommals_hilt_1_42789
 manwear=anim_offhand_42763,0
 womanwear=anim_offhand_42765,0
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_anim_offhand_25939]
-certificate=yes
+[dummy_ghommals_hilt_6_25939]
+name=Null
+model=ghommals_hilt_6_42786
+manwear=anim_offhand_42751,0
+womanwear=anim_offhand_42747,0
+category=category_15
 
 [placeholder_anim_offhand_25940]
 placeholder=yes
@@ -253645,12 +253648,14 @@ name=Anim offhand
 model=ghommals_hilt_2_42790
 manwear=anim_offhand_42758,0
 womanwear=anim_offhand_42752,0
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_anim_offhand_25942]
-certificate=yes
+[dummy_ghommals_hilt_6_25942]
+name=Null
+model=ghommals_hilt_6_42786
+manwear=anim_offhand_42751,0
+womanwear=anim_offhand_42747,0
+category=category_15
 
 [placeholder_anim_offhand_25943]
 placeholder=yes
@@ -253660,12 +253665,14 @@ name=Anim offhand
 model=ghommals_hilt_3_42787
 manwear=anim_offhand_42748,0
 womanwear=anim_offhand_42767,0
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_anim_offhand_25945]
-certificate=yes
+[dummy_ghommals_hilt_6_25945]
+name=Null
+model=ghommals_hilt_6_42786
+manwear=anim_offhand_42751,0
+womanwear=anim_offhand_42747,0
+category=category_15
 
 [placeholder_anim_offhand_25946]
 placeholder=yes
@@ -253675,12 +253682,14 @@ name=Anim offhand
 model=ghommals_hilt_4_42791
 manwear=anim_offhand_42762,0
 womanwear=anim_offhand_42757,0
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_anim_offhand_25948]
-certificate=yes
+[dummy_ghommals_hilt_6_25948]
+name=Null
+model=ghommals_hilt_6_42786
+manwear=anim_offhand_42751,0
+womanwear=anim_offhand_42747,0
+category=category_15
 
 [placeholder_anim_offhand_25949]
 placeholder=yes
@@ -253690,12 +253699,14 @@ name=Anim offhand
 model=ghommals_hilt_5_42788
 manwear=anim_offhand_42764,0
 womanwear=anim_offhand_42746,0
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_anim_offhand_25951]
-certificate=yes
+[dummy_ghommals_hilt_6_25951]
+name=Null
+model=ghommals_hilt_6_42786
+manwear=anim_offhand_42751,0
+womanwear=anim_offhand_42747,0
+category=category_15
 
 [placeholder_anim_offhand_25952]
 placeholder=yes
@@ -253705,12 +253716,14 @@ name=Anim offhand
 model=ghommals_hilt_6_42786
 manwear=anim_offhand_42751,0
 womanwear=anim_offhand_42747,0
-stockmarket=yes
-certificate=yes
 placeholder=yes
 
-[cert_anim_offhand_25954]
-certificate=yes
+[dummy_ghommals_hilt_6_25954]
+name=Null
+model=ghommals_hilt_6_42786
+manwear=anim_offhand_42751,0
+womanwear=anim_offhand_42747,0
+category=category_15
 
 [placeholder_anim_offhand_25955]
 placeholder=yes
@@ -253778,4 +253791,104 @@ recol1d=-30016
 recol2s=-14021
 recol2d=-29736
 members=yes
+
+[dummy_red_spiders_eggs_25962]
+model=red_spiders_eggs_2343
+2dzoom=1500
+2dxof=-3
+2dxan=252
+2dyan=12
+recol1s=939
+recol1d=-6361
+members=yes
+
+[crypt_key_25963]
+name=Crypt key
+model=shiny_key_2372
+cost=30
+2dzoom=700
+2dxof=-3
+2dyof=5
+2dxan=328
+2dyan=20
+iop5=Destroy
+recol1s=8128
+recol1d=4283
+members=yes
+
+[ranis_head_25964]
+name=Ranis' head
+model=ranis_head_42861
+cost=30
+2dzoom=526
+2dyof=1
+2dxan=808
+2dyan=1953
+iop5=Destroy
+members=yes
+ambient=30
+contrast=10
+
+[strange_spider_eggs_25965]
+name=Strange spider eggs
+model=red_spiders_eggs_2343
+cost=30
+2dzoom=1500
+2dxof=-3
+2dxan=252
+2dyan=12
+iop5=Destroy
+recol1s=939
+recol1d=4923
+members=yes
+
+[sulphuric_acid_25966]
+name=Sulphuric acid
+model=strength_potion_4_2789
+cost=30
+2dzoom=550
+2dyof=-1
+2dxan=84
+2dyan=1996
+iop5=Destroy
+recol1s=61
+recol1d=-32537
+members=yes
+
+[sticky_note_25967]
+name=Sticky note
+model=ballad_10137
+cost=30
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+iop5=Destroy
+recol1s=6608
+recol1d=13632
+recol2s=6604
+recol2d=13627
+recol3s=6464
+recol3d=13623
+recol4s=6587
+recol4d=13619
+recol5s=6583
+recol5d=13743
+members=yes
+
+[hespori_bark_25968]
+name=Hespori bark
+model=bark_4125
+cost=30
+2dxan=296
+2dyan=1185
+iop5=Destroy
+recol1s=6674
+recol1d=26780
+recol2s=6589
+recol2d=26793
+members=yes
+ambient=20
 

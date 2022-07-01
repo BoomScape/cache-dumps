@@ -49044,7 +49044,7 @@ framecount=18
 replayoff=1
 looptype=1
 framegroup1=2116
-soundeffect1=3969,1,15
+soundeffect2=3969,1,15
 
 [verziks_throne_8053]
 framecount=1
@@ -49081,7 +49081,7 @@ framecount=52
 priority=4
 looptype=1
 framegroup1=2148
-soundeffect1=3541,1,7
+soundeffect2=3541,1,7
 soundeffect15=3975,1,7
 soundeffect28=3964,1,7
 
@@ -49118,7 +49118,7 @@ replayoff=1
 priority=11
 looptype=1
 framegroup1=2151
-soundeffect1=3549,1,15
+soundeffect2=3549,1,15
 
 [exhumed_8064]
 framecount=1
@@ -49197,7 +49197,7 @@ replayoff=1
 priority=10
 looptype=1
 framegroup1=2152
-soundeffect1=3546,1,5
+soundeffect2=3546,1,7
 
 [nylocas_athanatos_ready_8076]
 framecount=12
@@ -49337,7 +49337,7 @@ replayoff=1
 priority=11
 looptype=1
 framegroup1=2157
-soundeffect1=3958,1,15
+soundeffect2=3958,1,15
 
 [nylocas_matomenos_walk_8095]
 framecount=12
@@ -49392,7 +49392,7 @@ replayoff=1
 priority=10
 looptype=1
 framegroup1=2160
-soundeffect1=538,1,8
+soundeffect2=538,1,8
 
 [seq_8104]
 framecount=15
@@ -49443,7 +49443,7 @@ replayoff=1
 priority=11
 looptype=1
 framegroup1=2132
-soundeffect1=3960,1,15
+soundeffect2=3960,1,15
 soundeffect16=3934,1,15
 
 [verzik_vitur_ready_8112]
@@ -49452,7 +49452,7 @@ replayoff=1
 priority=11
 looptype=1
 framegroup1=2126
-soundeffect1=3235,1,15
+soundeffect2=3235,1,15
 soundeffect25=3961,1,10
 soundeffect44=3961,1,10
 soundeffect64=3961,1,10
@@ -49471,7 +49471,7 @@ framecount=16
 priority=6
 looptype=1
 framegroup1=2125
-soundeffect1=3987,1,15
+soundeffect2=3987,1,15
 
 [seq_8115]
 framecount=22
@@ -49484,7 +49484,7 @@ framecount=17
 priority=6
 looptype=1
 framegroup1=2127
-soundeffect1=3997,1,15
+soundeffect2=3997,1,15
 soundeffect9=3968,1,15
 
 [seq_8117]
@@ -49492,7 +49492,7 @@ framecount=75
 priority=7
 looptype=1
 framegroup1=2128
-soundeffect1=3543,1,15
+soundeffect2=3543,1,15
 soundeffect10=4013,1,15
 
 [seq_8118]
@@ -49509,7 +49509,7 @@ replayoff=1
 priority=11
 looptype=1
 framegroup1=2141
-soundeffect1=3950,1,15
+soundeffect2=3950,1,15
 
 [lil_zik_ready_8120]
 framecount=24
@@ -49558,7 +49558,7 @@ exactmove=2
 movetype=2
 looptype=1
 framegroup1=2135
-soundeffect1=3957,1,15
+soundeffect2=3957,1,15
 soundeffect14=3936,1,15
 
 [seq_8124]
@@ -49568,7 +49568,7 @@ exactmove=2
 movetype=2
 looptype=1
 framegroup1=2140
-soundeffect1=3543,1,15
+soundeffect2=3543,1,15
 soundeffect10=4004,1,15
 
 [seq_8125]
@@ -49587,7 +49587,7 @@ exactmove=2
 movetype=2
 looptype=1
 framegroup1=2143
-soundeffect1=3991,1,15
+soundeffect2=3991,1,15
 soundeffect60=4000,1,15
 
 [seq_8127]
@@ -49614,7 +49614,7 @@ replayoff=1
 priority=6
 looptype=1
 framegroup1=2130
-soundeffect1=3948,1,15
+soundeffect2=3948,1,15
 soundeffect8=4012,1,15
 soundeffect16=4012,1,15
 soundeffect22=4012,1,15
@@ -50323,7 +50323,7 @@ framecount=25
 priority=10
 looptype=1
 framegroup1=2257
-soundeffect1=4095,1,15
+soundeffect2=4095,1,15
 soundeffect4=4075,1,15
 soundeffect8=4106,1,15
 
@@ -50382,8 +50382,7 @@ framecount=22
 priority=10
 looptype=1
 framegroup1=2264
-soundeffect1=4106,1,15
-soundeffect2=4075,1,15
+soundeffect2=4106,1,15
 soundeffect3=4094,1,15
 
 [seq_8245]
@@ -50551,20 +50550,19 @@ framecount=28
 priority=6
 looptype=1
 framegroup1=2232
-soundeffect1=4081,1,6
+soundeffect2=4081,1,6
 
 [wyrm_ready_8267]
 framecount=31
 looptype=1
 framegroup1=2238
-soundeffect1=4121,1,6
+soundeffect2=4121,1,6
 
 [seq_8268]
 framecount=19
 priority=8
 looptype=1
 framegroup1=2233
-soundeffect1=4127,1,7
 soundeffect2=4114,1,7
 
 [seq_8269]
@@ -50579,21 +50577,20 @@ framecount=16
 priority=7
 looptype=1
 framegroup1=2236
-soundeffect1=4085,1,6
+soundeffect2=4085,1,6
 
 [seq_8271]
 framecount=15
 priority=7
 looptype=1
 framegroup1=2237
-soundeffect1=4070,1,6
+soundeffect2=4070,1,6
 
 [seq_8272]
 framecount=28
 priority=10
 looptype=1
 framegroup1=2235
-soundeffect1=4105,1,6
 
 [drake_walk_8273]
 framecount=18
@@ -51482,7 +51479,7 @@ framecount=28
 priority=6
 looptype=1
 framegroup1=2359
-soundeffect1=4173,1,15
+soundeffect2=4173,1,15
 soundeffect17=4158,1,15
 
 [seq_8377]
@@ -51490,7 +51487,7 @@ framecount=36
 priority=6
 looptype=1
 framegroup1=2369
-soundeffect1=4173,1,15
+soundeffect2=4173,1,15
 soundeffect17=4158,1,15
 soundeffect24=4190,1,15
 
@@ -51771,7 +51768,7 @@ framecount=26
 priority=10
 looptype=1
 framegroup1=2333
-soundeffect1=3821,1,15
+soundeffect2=3821,1,15
 soundeffect4=2251,1,15
 soundeffect7=977,1,15
 
@@ -53838,7 +53835,6 @@ framecount=19
 priority=8
 looptype=1
 framegroup1=2233
-soundeffect1=4127,1,7
 soundeffect2=4114,1,7
 
 [seq_8762]
@@ -55792,7 +55788,7 @@ framecount=16
 priority=10
 looptype=1
 framegroup1=2152
-soundeffect1=3546,1,5
+soundeffect2=3546,1,7
 
 [lil_bloat_walk_9031]
 framecount=16
@@ -56502,4 +56498,49 @@ replayoff=1
 priority=9
 looptype=1
 framegroup1=2760
+
+[seq_9136]
+framecount=12
+looptype=1
+framegroup1=2084
+
+[spider_ready_9137]
+framecount=12
+priority=4
+looptype=1
+framegroup1=2768
+
+[spider_walk_9138]
+framecount=12
+looptype=1
+framegroup1=2770
+
+[spider_walk_9139]
+framecount=12
+looptype=1
+framegroup1=2770
+
+[seq_9140]
+framecount=18
+priority=6
+looptype=1
+framegroup1=2769
+
+[seq_9141]
+framecount=18
+replayoff=1
+priority=10
+looptype=1
+framegroup1=2771
+
+[verzik_vitur_ready_9142]
+framecount=12
+priority=4
+looptype=1
+framegroup1=2766
+
+[verzik_vitur_walk_9143]
+framecount=8
+looptype=1
+framegroup1=2767
 
