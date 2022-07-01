@@ -26680,7 +26680,6 @@ param=setting_search_keywords_1088,"mini map,lock mini map zoom,enable mini map 
 param=setting_desc_1096,"When enabled, allows you to increase and decrease the zoom of the minimap by scrolling, while the mouse cursor over the minimap."
 param=setting_enhanced_1157,yes
 param=setting_toggle_inverse_1084,yes
-param=param_739,yes
 
 [struct_3655]
 param=setting_id_1077,167
@@ -27452,7 +27451,7 @@ param=setting_id_1077,200
 param=setting_type_1078,4
 param=setting_name_1086,Iron Group loot broadcast threshold
 param=setting_search_keywords_1088,"Iron Group loot broadcast threshold,loot drop notification threshold,loot drop threshold,Notifications,Iron,Iron Group,GIM,Broadcast"
-param=setting_desc_1096,"If an item drops that is worth more than this value, a message will be sent to your Iron Group chat so that your group can see it."
+param=setting_desc_1096,Sets the threshold for item drops you receive which are broadcast to your Iron Group.
 param=setting_choose_transmit_1085,yes
 param=param_1414,yes
 
@@ -27461,7 +27460,7 @@ param=setting_id_1077,201
 param=setting_type_1078,0
 param=setting_name_1086,Iron Group loot broadcasts
 param=setting_search_keywords_1088,"Iron Group loot broadcasts,loot drop notification,loot drop,Notifications,Iron,Iron Group,GIM,Broadcast"
-param=setting_desc_1096,Shows a message in your Iron Group chat that lets you and your group know a valuable item has dropped. This is based on the threshold you set.
+param=setting_desc_1096,Broadcasts a message to your Iron Group chat that lets your group know when you receive a valuable item drop. This is based on the threshold you set.
 param=setting_choose_transmit_1085,yes
 param=param_1414,yes
 param=setting_toggle_inverse_1084,yes
@@ -27500,7 +27499,7 @@ param=setting_toggle_inverse_1084,yes
 param=setting_id_1077,195
 param=setting_type_1078,0
 param=setting_name_1086,Chatbox Mode - Set Automatically
-param=setting_search_keywords_1088,"chat,mode,chatbox,/p,/c,/f,/i,auto,set,clan,channel,guestclan,guest,group,public"
+param=setting_search_keywords_1088,"chat,mode,chatbox,/p,/c,/f,/gc,auto,set,clan,channel,guestclan,guest,group,public"
 param=setting_choose_transmit_1085,yes
-param=setting_desc_1096,"When enabled, sending a message with one of the following prefixes will automatically sets your chat mode to the respective channel: /p, /f, /c, /g or /i (GIM only)."
+param=setting_desc_1096,"When enabled, sending a message with any chat prefix will automatically sets your chat mode to the respective channel: /p, /f, /c, /gc or /g (GIM only)."
 

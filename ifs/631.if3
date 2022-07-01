@@ -125,6 +125,7 @@ height=40
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 layer=interface_631:9
+onload="script96(event_com,41353243,41353244,41353245,41353246,41353247)"
 
 [interface_631:18]
 type=^iftype_line
@@ -144,7 +145,7 @@ op1="Withdraw-1"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195}"
+onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195,var_3197}"
 onop="script2822(event_com,41353243,41353244,41353245,41353246,41353247)"
 
 [interface_631:20]
@@ -159,7 +160,7 @@ op1="Withdraw-5"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195}"
+onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195,var_3197}"
 onop="script2822(event_com,41353243,41353244,41353245,41353246,41353247)"
 
 [interface_631:21]
@@ -174,7 +175,7 @@ op1="Withdraw-10"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195}"
+onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195,var_3197}"
 onop="script2822(event_com,41353243,41353244,41353245,41353246,41353247)"
 
 [interface_631:22]
@@ -184,12 +185,13 @@ width=30
 height=30
 vposmode=^setpos_abs_centre
 layer=interface_631:17
-optionmask=2
-op1="Withdraw-X"
+optionmask=6
+op1="*"
+op2="Set custom quantity"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195}"
+onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195,var_3197}"
 onop="script2822(event_com,41353243,41353244,41353245,41353246,41353247)"
 
 [interface_631:23]
@@ -204,7 +206,7 @@ op1="Withdraw-All"
 onload="script92(event_com)"
 onmouseover="script94(event_com)"
 onmouseleave="script92(event_com)"
-onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195}"
+onvartransmit="script2821(event_com,41353243,41353244,41353245,41353246,41353247){var_2195,var_3197}"
 onop="script2822(event_com,41353243,41353244,41353245,41353246,41353247)"
 
 [interface_631:24]

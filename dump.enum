@@ -9705,28 +9705,6 @@ val=443,purple_sweets_10476
 val=444,crystal_body_inactive_23977
 val=445,crystal_helm_inactive_23973
 val=446,crystal_legs_inactive_23981
-val=447,masori_chestplate_25969
-val=448,masori_chainskirt_25971
-val=449,masori_headdress_26217
-val=450,masori_amulet_25973
-val=451,lightbearer_25975
-val=452,osmumtens_fang_26219
-val=453,keris_partisan_25979
-val=454,keris_partisan_of_breaching_25981
-val=455,elidinis_ward_25985
-val=456,tumekens_heka_25987
-val=457,ancient_godsword_26233
-val=458,zaryte_bow_uncharged_26237
-val=459,zaryte_vambraces_26235
-val=460,virtus_mask_26241
-val=461,virtus_robe_top_26243
-val=462,virtus_robe_legs_26245
-val=463,ancient_ceremonial_mask_26225
-val=464,ancient_ceremonial_top_26221
-val=465,ancient_ceremonial_legs_26223
-val=466,ancient_ceremonial_gloves_26227
-val=467,ancient_ceremonial_boots_26229
-val=468,nihil_shard_26231
 
 [enum_1125]
 inputtype=int
@@ -51678,4 +51656,14 @@ inputtype=int
 outputtype=int
 default=1
 val=0,0
+
+[enum_4070]
+inputtype=int
+outputtype=string
+default=
+val=0,Public
+val=1,Channel
+val=2,Clan
+val=3,Guest Clan
+val=4,Iron Group
 
