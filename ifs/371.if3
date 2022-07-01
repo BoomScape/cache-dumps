@@ -4,80 +4,106 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script749(event_com,24313857,24313861)"
+onload="script749(event_com,24313858,24313859,24313860,24313864)"
 
 [interface_371:1]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+hide=yes
+layer=interface_371:0
+noclickthrough=yes
+
+[interface_371:2]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_371:0
 
-[interface_371:2]
+[interface_371:3]
+type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_371:2
+
+[interface_371:4]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_371:3
+
+[interface_371:5]
 type=^iftype_layer
 y=10
 width=370
 height=35
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_371:1
+layer=interface_371:4
 
-[interface_371:3]
+[interface_371:6]
 type=^iftype_layer
 y=4
 width=50
 height=10
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
-layer=interface_371:2
+layer=interface_371:5
 
-[interface_371:4]
+[interface_371:7]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_371:3
+layer=interface_371:6
 fill=yes
 trans=150
 
-[interface_371:5]
+[interface_371:8]
 type=^iftype_rectangle
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_371:3
+layer=interface_371:6
 colour=0x8080ff
 fill=yes
 trans=64
 
-[interface_371:6]
+[interface_371:9]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_371:3
+layer=interface_371:6
 colour=0x808080
 trans=64
 
-[interface_371:7]
+[interface_371:10]
 type=^iftype_text
 width=45
 height=17
 vsizemode=^setsize_minus
-layer=interface_371:2
+layer=interface_371:5
 text="% Done"
 colour=0x888888
 font=p12_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_371:8]
+[interface_371:11]
 type=^iftype_text
 height=17
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_371:2
+layer=interface_371:5
 text="Tutorial Island Progress"
 colour=^yellow
 font=p12_full
@@ -85,32 +111,32 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_371:9]
+[interface_371:12]
 type=^iftype_layer
 width=512
 height=128
 vposmode=^setpos_abs_bottom
 hide=yes
-layer=interface_371:0
+layer=interface_371:3
 
-[interface_371:10]
+[interface_371:13]
 type=^iftype_model
 x=228
 y=29
 width=32
 height=32
-layer=interface_371:9
+layer=interface_371:12
 model=model_5201
 zoom=1500
 anim=seq_1638
 
-[interface_371:11]
+[interface_371:14]
 type=^iftype_text
 x=56
 y=41
 width=389
 height=49
-layer=interface_371:9
+layer=interface_371:12
 text="Please follow the instructions below to advance in the tutorial."
 font=b12_full
 halign=^settextalign_centre

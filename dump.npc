@@ -38814,27 +38814,27 @@ vislevel=0
 
 [teacher_and_pupil_1923]
 name=Teacher and pupil
-model1=gate_2214
+model1=wall_2214
 head1=shop_assistant_14337
 head2=male_jaw_80
 vislevel=1
 
 [schoolboy_1924]
 name=Schoolboy
-model1=gate_2214
+model1=wall_2214
 head1=tolna_14287
 head2=schoolboy_18123
 vislevel=1
 
 [teacher_1925]
 name=Teacher
-model1=gate_2214
+model1=wall_2214
 head1=teacher_25639
 vislevel=1
 
 [schoolgirl_1926]
 name=Schoolgirl
-model1=gate_2214
+model1=wall_2214
 head1=smiddi_ryak_hard_138
 vislevel=1
 
@@ -109502,31 +109502,16 @@ recol4d=-21967
 op1=Talk-to
 vislevel=0
 
-[wizard_cromperty_5314]
-name=Wizard Cromperty
-model1=blue_wizard_hat_202
-model2=male_hair_215
-model3=male_jaw_246
-model4=merlin_20405
-model5=cape_of_legends_3189
-model6=merlin_20395
-model7=male_hands_176
-model8=watchtower_wizard_20403
-model9=male_feet_181
-head1=male_hair_53
-head2=blue_wizard_hat_44
+[wizard_cromperty_multi_5314]
 readyanim=human_ready_808
 walkanim=human_walk_819
 walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
-recol1s=6798
-recol1d=119
-recol2s=123
-recol2d=-26705
-op1=Talk-to
-op3=Teleport
-vislevel=0
+vislevel=1
+multivar=varbit_4500
+multinpc=0,wizard_cromperty_8480
+multinpc=1,wizard_cromperty_8481
 
 [horacio_5315]
 name=Horacio
@@ -171683,4 +171668,47 @@ recol1d=27088
 op2=Attack
 op3=Standard Variant
 vislevel=12743
+
+[wizard_cromperty_8480]
+name=Wizard Cromperty
+model1=blue_wizard_hat_202
+model2=male_hair_215
+model3=male_jaw_246
+model4=merlin_20405
+model5=cape_of_legends_3189
+model6=merlin_20395
+model7=male_hands_176
+model8=watchtower_wizard_20403
+model9=male_feet_181
+head1=male_hair_53
+head2=blue_wizard_hat_44
+recol1s=6798
+recol1d=119
+recol2s=123
+recol2d=-26705
+op1=Talk-to
+op3=Teleport
+vislevel=0
+
+[wizard_cromperty_8481]
+name=Wizard Cromperty
+model1=blue_wizard_hat_202
+model2=male_hair_215
+model3=male_jaw_246
+model4=merlin_20405
+model5=cape_of_legends_3189
+model6=merlin_20395
+model7=male_hands_176
+model8=watchtower_wizard_20403
+model9=male_feet_181
+head1=male_hair_53
+head2=blue_wizard_hat_44
+recol1s=6798
+recol1d=119
+recol2s=123
+recol2d=-26705
+op1=Talk-to
+op3=Teleport
+op4=Claim
+vislevel=0
 

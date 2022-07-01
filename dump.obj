@@ -3496,7 +3496,7 @@ certificate=yes
 [salmon_329]
 name=Salmon
 model=salmon_2354
-cost=50
+cost=30
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3516,7 +3516,7 @@ certificate=yes
 [raw_salmon_331]
 name=Raw salmon
 model=salmon_2354
-cost=50
+cost=30
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3535,7 +3535,7 @@ certificate=yes
 [trout_333]
 name=Trout
 model=salmon_2354
-cost=20
+cost=10
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3555,7 +3555,7 @@ certificate=yes
 [raw_trout_335]
 name=Raw trout
 model=salmon_2354
-cost=20
+cost=10
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3574,7 +3574,7 @@ certificate=yes
 [giant_carp_337]
 name=Giant carp
 model=salmon_2354
-cost=50
+cost=10
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3590,7 +3590,7 @@ placeholder=yes
 [raw_giant_carp_338]
 name=Raw giant carp
 model=salmon_2354
-cost=50
+cost=10
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3605,7 +3605,7 @@ placeholder=yes
 [cod_339]
 name=Cod
 model=salmon_2354
-cost=25
+cost=10
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3626,7 +3626,7 @@ certificate=yes
 [raw_cod_341]
 name=Raw cod
 model=salmon_2354
-cost=25
+cost=10
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3662,7 +3662,7 @@ certificate=yes
 [raw_herring_345]
 name=Raw herring
 model=raw_herring_2353
-cost=15
+cost=10
 2dzoom=900
 2dxof=3
 2dyof=8
@@ -3682,7 +3682,7 @@ certificate=yes
 [herring_347]
 name=Herring
 model=raw_herring_2353
-cost=15
+cost=10
 2dzoom=900
 2dxof=3
 2dyof=8
@@ -3703,7 +3703,7 @@ certificate=yes
 [raw_pike_349]
 name=Raw pike
 model=salmon_2354
-cost=25
+cost=20
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3722,7 +3722,7 @@ certificate=yes
 [pike_351]
 name=Pike
 model=salmon_2354
-cost=25
+cost=20
 2dzoom=1370
 2dyof=3
 2dxan=532
@@ -3742,7 +3742,7 @@ certificate=yes
 [raw_mackerel_353]
 name=Raw mackerel
 model=raw_herring_2353
-cost=17
+cost=15
 2dzoom=900
 2dxof=3
 2dyof=8
@@ -3763,7 +3763,7 @@ certificate=yes
 [mackerel_355]
 name=Mackerel
 model=raw_herring_2353
-cost=17
+cost=15
 2dzoom=900
 2dxof=3
 2dyof=8
@@ -3802,7 +3802,7 @@ certificate=yes
 [raw_tuna_359]
 name=Raw tuna
 model=raw_tuna_2355
-cost=100
+cost=40
 2dzoom=1340
 2dyof=3
 2dxan=464
@@ -3821,7 +3821,7 @@ certificate=yes
 [tuna_361]
 name=Tuna
 model=raw_tuna_2355
-cost=100
+cost=40
 2dzoom=1340
 2dyof=3
 2dxan=464
@@ -3841,7 +3841,7 @@ certificate=yes
 [raw_bass_363]
 name=Raw bass
 model=raw_tuna_2355
-cost=120
+cost=40
 2dzoom=1340
 2dyof=3
 2dxan=464
@@ -3861,7 +3861,7 @@ certificate=yes
 [bass_365]
 name=Bass
 model=raw_tuna_2355
-cost=120
+cost=40
 2dzoom=1340
 2dyof=3
 2dxan=464
@@ -3915,7 +3915,7 @@ certificate=yes
 [raw_swordfish_371]
 name=Raw swordfish
 model=raw_swordfish_2494
-cost=200
+cost=80
 2dzoom=1710
 2dxof=-7
 2dxan=368
@@ -3934,7 +3934,7 @@ certificate=yes
 [swordfish_373]
 name=Swordfish
 model=raw_swordfish_2494
-cost=200
+cost=80
 2dzoom=1710
 2dxof=-7
 2dxan=368
@@ -3970,7 +3970,7 @@ certificate=yes
 [raw_lobster_377]
 name=Raw lobster
 model=raw_lobster_2804
-cost=150
+cost=70
 2dzoom=1020
 2dxof=4
 2dyof=16
@@ -3988,7 +3988,7 @@ certificate=yes
 [lobster_379]
 name=Lobster
 model=raw_lobster_2804
-cost=150
+cost=70
 2dzoom=1020
 2dxof=4
 2dyof=16
@@ -4020,7 +4020,7 @@ certificate=yes
 [raw_shark_383]
 name=Raw shark
 model=raw_shark_2594
-cost=300
+cost=170
 2dzoom=1860
 2dxof=5
 2dyof=12
@@ -4039,7 +4039,7 @@ certificate=yes
 [shark_385]
 name=Shark
 model=raw_shark_2594
-cost=300
+cost=170
 2dzoom=1860
 2dxof=5
 2dyof=12
@@ -4079,7 +4079,7 @@ certificate=yes
 [raw_manta_ray_389]
 name=Raw manta ray
 model=raw_manta_ray_2722
-cost=500
+cost=200
 2dzoom=1830
 2dxof=-3
 2dxan=376
@@ -4099,7 +4099,7 @@ certificate=yes
 [manta_ray_391]
 name=Manta ray
 model=raw_manta_ray_2722
-cost=500
+cost=200
 2dzoom=1830
 2dxof=-3
 2dxan=376
@@ -4137,7 +4137,7 @@ certificate=yes
 [raw_sea_turtle_395]
 name=Raw sea turtle
 model=raw_sea_turtle_2619
-cost=500
+cost=200
 2dzoom=1810
 2dyof=-103
 2dxan=236
@@ -4153,7 +4153,7 @@ certificate=yes
 [sea_turtle_397]
 name=Sea turtle
 model=raw_sea_turtle_2619
-cost=500
+cost=200
 2dzoom=1810
 2dyof=-103
 2dxan=236
@@ -5344,7 +5344,7 @@ certificate=yes
 [dragon_bones_536]
 name=Dragon bones
 model=dragon_bones_2768
-cost=110
+cost=160
 2dzoom=1830
 2dxan=216
 2dyan=648
@@ -19557,7 +19557,7 @@ certificate=yes
 [black_dragonhide_1747]
 name=Black dragonhide
 model=black_dragonhide_2356
-cost=80
+cost=150
 2dzoom=1190
 2dxof=-1
 2dyof=-2
@@ -19578,7 +19578,7 @@ certificate=yes
 [red_dragonhide_1749]
 name=Red dragonhide
 model=black_dragonhide_2356
-cost=60
+cost=145
 2dzoom=1190
 2dxof=-1
 2dyof=-2
@@ -19599,7 +19599,7 @@ certificate=yes
 [blue_dragonhide_1751]
 name=Blue dragonhide
 model=black_dragonhide_2356
-cost=40
+cost=140
 2dzoom=1190
 2dxof=-1
 2dyof=-2
@@ -19620,7 +19620,7 @@ certificate=yes
 [green_dragonhide_1753]
 name=Green dragonhide
 model=black_dragonhide_2356
-cost=20
+cost=135
 2dzoom=1190
 2dxof=-1
 2dyof=-2
@@ -58226,7 +58226,7 @@ model=unfinished_broad_bolts_5_16260
 [bird_nest_5070]
 name=Bird nest
 model=bird_nest_7173
-cost=20
+cost=453
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58240,7 +58240,7 @@ placeholder=yes
 [bird_nest_5071]
 name=Bird nest
 model=bird_nest_7173
-cost=20
+cost=453
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58254,7 +58254,7 @@ placeholder=yes
 [bird_nest_5072]
 name=Bird nest
 model=bird_nest_7173
-cost=20
+cost=453
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58278,7 +58278,7 @@ placeholder=yes
 [bird_nest_5074]
 name=Bird nest
 model=bird_nest_7174
-cost=30
+cost=453
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58290,7 +58290,7 @@ placeholder=yes
 [bird_nest_5075]
 name=Bird nest
 model=bird_nest_7172
-cost=19
+cost=453
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -58453,7 +58453,7 @@ recol6s=5165
 recol6d=49
 
 [obj_5092]
-model=model_35808
+model=model_36010
 2dzoom=2290
 2dxof=-5
 2dyof=2
@@ -76464,6 +76464,7 @@ certificate=yes
 [crushed_nest_6693]
 name=Crushed nest
 model=crushed_nest_9826
+cost=200
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -77980,7 +77981,7 @@ recol5d=-27475
 [wyvern_bones_6812]
 name=Wyvern bones
 model=wyvern_bones_10349
-cost=110
+cost=160
 2dzoom=2160
 2dxof=-3
 2dyof=41
@@ -84301,7 +84302,7 @@ model=bird_nest_7175
 cost=20
 2dzoom=1100
 2dxof=2
-2dxan=172
+2dxan=453
 2dyan=60
 iop1=Search
 members=yes
@@ -162539,7 +162540,7 @@ placeholder=yes
 [bird_nest_13653]
 name=Bird nest
 model=bird_nest_7175
-cost=20
+cost=453
 2dzoom=1100
 2dxof=2
 2dxan=172
@@ -212025,4 +212026,11 @@ certificate=yes
 
 [placeholder_zuriels_robe_bottom_22658]
 placeholder=yes
+
+[obj_22659]
+model=model_36009
+2dzoom=2290
+2dxof=-5
+2dyof=2
+2dxan=588
 
