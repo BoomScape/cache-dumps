@@ -171,18 +171,6 @@ layer=interface_165:25
 
 [interface_165:28]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_165:27
-
-[interface_165:29]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_165:27
-
-[interface_165:30]
-type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus

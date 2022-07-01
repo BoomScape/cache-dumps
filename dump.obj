@@ -101836,7 +101836,8 @@ iop3=Invoke
 iop4=Divine
 iop5=Destroy
 placeholder=yes
-param=param_451,Teleport
+param=param_451,Invoke
+param=param_452,Divine
 
 [cert_security_book_9014]
 certificate=yes
@@ -131358,7 +131359,7 @@ cost=0
 2dxan=408
 2dyan=150
 iop2=Wear
-iop3=Activate
+iop3=Gem Mine
 recol1s=13716
 recol1d=15238
 recol2s=16536
@@ -131373,7 +131374,7 @@ recol6s=14649
 recol6d=12942
 members=yes
 placeholder=yes
-param=param_451,Activate
+param=param_451,Gem Mine
 
 [antique_lamp_11141]
 name=Antique lamp
@@ -140744,7 +140745,6 @@ model=slice_of_birthday_cake_34576
 2dyof=-16
 2dxan=163
 2dyan=2021
-iop1=Eat
 certificate=yes
 
 [cert_slice_of_birthday_cake_11917]
@@ -140758,7 +140758,6 @@ model=birthday_present_28243
 2dyof=10
 2dxan=97
 2dyan=235
-iop1=Open
 iop5=Destroy
 
 [cow_mask_11919]
@@ -155067,7 +155066,8 @@ cost=0
 2dyof=1
 2dxan=660
 iop2=Wear
-iop3=Activate
+iop3=Gem Mine
+iop4=Duradel
 members=yes
 placeholder=yes
 param=param_451,Gem Mine
@@ -192178,7 +192178,7 @@ placeholder=yes
 [imbued_heart_20724]
 name=Imbued heart
 model=imbued_heart_32298
-cost=14000
+cost=500000
 2dzoom=1168
 2dxof=1
 2dyof=-1
@@ -198413,7 +198413,8 @@ iop3=Invoke
 iop4=Divine
 iop5=Destroy
 placeholder=yes
-param=param_451,Teleport
+param=param_451,Invoke
+param=param_452,Divine
 
 [placeholder_skull_sceptre_i_21277]
 placeholder=yes
@@ -208482,18 +208483,18 @@ certificate=yes
 [placeholder_ancient_relic_22307]
 placeholder=yes
 
-[silver_dust_22308]
-name=Silver dust
-model=silver_dust_34584
+[obj_22308]
+name=Null
+model=model_34584
 2dzoom=1680
 2dxof=-1
 2dyof=-7
 2dxan=380
 2dyan=120
 
-[gold_dust_22309]
-name=Gold dust
-model=silver_dust_34584
+[obj_22309]
+name=Null
+model=model_34584
 2dzoom=1680
 2dxof=-1
 2dyof=-7
@@ -208502,9 +208503,9 @@ model=silver_dust_34584
 recol1s=82
 recol1d=7114
 
-[silver_paint_22310]
-name=Silver paint
-model=silver_paint_34580
+[obj_22310]
+name=Null
+model=model_34580
 2dzoom=784
 2dxof=1
 2dyof=-5
@@ -208521,47 +208522,47 @@ recol4d=74
 recol5s=5064
 recol5d=61
 
-[gold_paint_22311]
-name=Gold paint
-model=silver_paint_34580
+[obj_22311]
+name=Null
+model=model_34580
 2dzoom=784
 2dxof=1
 2dyof=-5
 2dxan=179
 2dyan=1997
 
-[semi_precious_blue_gem_22312]
-name=Semi-precious blue gem
-model=semi_precious_blue_gem_34577
+[obj_22312]
+name=Null
+model=model_34577
 2dzoom=1040
 2dxof=1
 2dyof=7
 2dxan=380
 2dyan=120
 
-[polished_blue_gem_22313]
-name=Polished blue gem
-model=polished_blue_gem_34578
+[obj_22313]
+name=Null
+model=model_34578
 2dzoom=1040
 2dxof=1
 2dyof=7
 2dxan=380
 2dyan=120
 
-[prop_sword_22314]
-name=Prop sword
-model=prop_sword_34583
+[obj_22314]
+name=Null
+model=model_34583
 2dzoom=1243
 2dxof=-1
 2dyof=-4
 2dxan=761
 2dyan=968
 
-[rod_with_net_22315]
-name=Rod with net
-model=rod_with_net_34581
-manwear=rod_with_net_34144,0
-womanwear=rod_with_net_34144,6
+[obj_22315]
+name=Null
+model=model_34581
+manwear=model_34144,0
+womanwear=model_34144,6
 cost=5
 2dzoom=1608
 2dxof=3
@@ -208640,8 +208641,8 @@ recol4d=27173
 recol5s=14922
 recol5d=25028
 
-[infernal_defender_22322]
-name=Infernal defender
+[avernic_defender_22322]
+name=Avernic defender
 model=dragon_defender_10422
 manwear=dragon_defender_10420,0
 womanwear=dragon_defender_10421,1
@@ -208798,4 +208799,84 @@ recol2d=-9762
 recol3s=22416
 recol3d=-9762
 members=yes
+
+[deadman_starter_pack_22330]
+name=Deadman starter pack
+model=crate_7685
+cost=500
+2dzoom=2020
+2dxof=-1
+2dyof=-6
+2dxan=112
+2dyan=232
+iop1=Open
+iop5=Destroy
+
+[starter_sword_22331]
+name=Starter sword
+model=bronze_sword_2604
+manwear=bronze_sword_519,0
+womanwear=bronze_sword_519,6
+cost=500
+2dzoom=1040
+2dyof=-3
+2dxan=352
+2dyan=1156
+iop2=Wield
+iop5=Destroy
+recol1s=61
+recol1d=11065
+recol2s=11200
+recol2d=80
+recol3s=5010
+recol3d=80
+placeholder=yes
+
+[placeholder_starter_sword_22332]
+placeholder=yes
+
+[starter_bow_22333]
+name=Starter bow
+model=shortbow_2562
+manwear=shortbow_512,0
+womanwear=shortbow_512,6
+cost=500
+2dzoom=1200
+2dxof=7
+2dyof=2
+2dxan=508
+2dyan=124
+iop2=Wield
+iop3=Check
+iop5=Destroy
+recol1s=6674
+recol1d=11065
+recol2s=61
+recol2d=80
+placeholder=yes
+param=param_451,Check
+
+[placeholder_starter_bow_22334]
+placeholder=yes
+
+[starter_staff_22335]
+name=Starter staff
+model=dramen_staff_2648
+manwear=dramen_staff_534,0
+womanwear=dramen_staff_534,6
+cost=500
+2dzoom=1158
+2dxof=-3
+2dxan=790
+2dyan=1194
+iop2=Wield
+iop3=Check
+iop5=Destroy
+recol1s=7073
+recol1d=11065
+placeholder=yes
+param=param_451,Check
+
+[placeholder_starter_staff_22336]
+placeholder=yes
 
