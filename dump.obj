@@ -258835,6 +258835,8 @@ recol2d=-21620
 recol3s=307
 recol3d=-22221
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_ceremonial_top_26222]
@@ -258857,6 +258859,8 @@ recol2d=-21620
 recol3s=307
 recol3d=-22221
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_ceremonial_legs_26224]
@@ -258876,6 +258880,8 @@ cost=50000
 2dxan=94
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_ceremonial_mask_26226]
@@ -258895,6 +258901,8 @@ cost=40000
 2dyan=111
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_ceremonial_gloves_26228]
@@ -258913,6 +258921,8 @@ cost=40000
 2dyan=159
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_ceremonial_boots_26230]
@@ -258932,6 +258942,7 @@ recol1d=-14642
 recol2s=926
 recol2d=-14409
 members=yes
+stockmarket=yes
 stackable=yes
 placeholder=yes
 
@@ -258953,6 +258964,8 @@ cost=1250000
 iop2=Wield
 iop3=Dismantle
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_godsword_26234]
@@ -258978,6 +258991,8 @@ recol2d=-10329
 recol3s=22408
 recol3d=-10329
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_zaryte_vambraces_26236]
@@ -259240,13 +259255,12 @@ param=levelrequire_23,47
 [festive_cinnamon_26270]
 name=Festive cinnamon
 model=festive_cinnamon_43105
+category=category_15
 cost=0
 2dzoom=694
 2dyof=-9
 2dxan=192
 2dyan=104
-iop4=Eat
-iop5=Destroy
 placeholder=yes
 
 [placeholder_festive_cinnamon_26271]
@@ -259255,12 +259269,12 @@ placeholder=yes
 [festive_holly_26272]
 name=Festive holly
 model=festive_holly_43098
+category=category_15
 cost=0
 2dzoom=822
 2dyof=-9
 2dxan=258
 2dyan=358
-iop5=Destroy
 placeholder=yes
 
 [placeholder_festive_holly_26273]
@@ -259269,13 +259283,12 @@ placeholder=yes
 [festive_white_wine_26274]
 name=Festive white wine
 model=festive_white_wine_43102
+category=category_15
 cost=0
 2dzoom=1020
 2dyof=-3
 2dxan=168
 2dyan=1762
-iop4=Drink
-iop5=Destroy
 placeholder=yes
 
 [placeholder_festive_white_wine_26275]
@@ -259284,13 +259297,12 @@ placeholder=yes
 [notes_26276]
 name=Notes
 model=notes_2600
+category=category_15
 cost=0
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Read
-iop5=Destroy
 placeholder=yes
 
 [placeholder_notes_26277]
@@ -259299,13 +259311,12 @@ placeholder=yes
 [magical_cleaning_potion_26278]
 name=Magical cleaning potion
 model=magical_cleaning_potion_43097
+category=category_15
 cost=0
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop4=Check
-iop5=Destroy
 placeholder=yes
 
 [placeholder_magical_cleaning_potion_26279]
@@ -259314,12 +259325,11 @@ placeholder=yes
 [pink_stained_platebody_26280]
 name=Pink stained platebody
 model=khazard_armour_2605
+category=category_15
 cost=0
 2dzoom=1250
 2dxof=-1
 2dxan=488
-iop2=Wear
-iop5=Destroy
 recol1s=24
 recol1d=61
 recol2s=61
@@ -259334,12 +259344,11 @@ placeholder=yes
 [pink_stained_platelegs_26282]
 name=Pink stained platelegs
 model=iron_platelegs_2582
+category=category_15
 cost=0
 2dzoom=1762
 2dyof=-4
 2dxan=488
-iop2=Wear
-iop5=Destroy
 recol1s=61
 recol1d=-11950
 recol2s=41
@@ -259354,13 +259363,12 @@ placeholder=yes
 [pink_stained_full_helm_26284]
 name=Pink stained full helm
 model=iron_full_helm_2813
+category=category_15
 cost=0
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Wear
-iop5=Destroy
 recol1s=61
 recol1d=-11950
 placeholder=yes
@@ -259371,12 +259379,11 @@ placeholder=yes
 [clean_platebody_26286]
 name=Clean platebody
 model=khazard_armour_2605
+category=category_15
 cost=0
 2dzoom=1250
 2dxof=-1
 2dxan=488
-iop2=Wear
-iop5=Destroy
 recol1s=24
 recol1d=61
 recol2s=61
@@ -259391,12 +259398,11 @@ placeholder=yes
 [clean_platelegs_26288]
 name=Clean platelegs
 model=iron_platelegs_2582
+category=category_15
 cost=0
 2dzoom=1762
 2dyof=-4
 2dxan=488
-iop2=Wear
-iop5=Destroy
 recol1s=61
 recol1d=99
 recol2s=41
@@ -259411,13 +259417,12 @@ placeholder=yes
 [clean_full_helm_26290]
 name=Clean full helm
 model=iron_full_helm_2813
+category=category_15
 cost=0
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Wear
-iop5=Destroy
 recol1s=61
 recol1d=99
 placeholder=yes
@@ -259428,13 +259433,13 @@ placeholder=yes
 [festive_gingerbread_gnomes_26292]
 name=Festive gingerbread gnomes
 model=festive_gingerbread_gnomes_43099
+category=category_15
 cost=0
 2dzoom=1579
 2dxof=-3
 2dyof=-7
 2dxan=378
 2dyan=1981
-iop2=Eat
 placeholder=yes
 
 [placeholder_festive_gingerbread_gnomes_26293]
@@ -259443,12 +259448,12 @@ placeholder=yes
 [festive_mulled_wine_26294]
 name=Festive mulled wine
 model=festive_mulled_wine_43104
+category=category_15
 cost=0
 2dzoom=1020
 2dyof=-3
 2dxan=168
 2dyan=1762
-iop2=Eat
 placeholder=yes
 
 [placeholder_festive_mulled_wine_26295]
@@ -259457,11 +259462,11 @@ placeholder=yes
 [snow_26296]
 name=Snow
 model=unicorn_horn_dust_2742
+category=category_15
 cost=0
 2dzoom=822
 2dxan=255
 2dyan=1522
-iop2=Roll-snowball
 recol1s=82
 recol1d=30835
 placeholder=yes
@@ -259472,14 +259477,12 @@ placeholder=yes
 [secret_santa_present_26298]
 name=Secret santa present
 model=secret_santa_present_43100
+category=category_15
 cost=0
 2dzoom=824
 2dyof=-13
 2dxan=193
 2dyan=1768
-iop2=Read-tag
-iop3=Open
-iop5=Destroy
 recol1s=834
 recol1d=834
 recol2s=827
@@ -259496,13 +259499,11 @@ placeholder=yes
 [secret_santa_present_26300]
 name=Secret santa present
 model=secret_santa_present_43100
+category=category_15
 2dzoom=824
 2dyof=-13
 2dxan=193
 2dyan=1768
-iop2=Read-tag
-iop3=Open
-iop5=Destroy
 recol1s=834
 recol1d=-25790
 recol2s=827
@@ -259519,13 +259520,11 @@ placeholder=yes
 [secret_santa_present_26302]
 name=Secret santa present
 model=secret_santa_present_43100
+category=category_15
 2dzoom=824
 2dyof=-13
 2dxan=193
 2dyan=1768
-iop2=Read-tag
-iop3=Open
-iop5=Destroy
 recol1s=834
 recol1d=22183
 recol2s=827
@@ -259542,13 +259541,12 @@ placeholder=yes
 [chocolate_chips_26304]
 name=Chocolate chips
 model=chocolate_chips_43101
+category=category_15
 cost=0
 2dzoom=1206
 2dyof=-2
 2dxan=120
 2dyan=98
-iop2=Eat
-iop5=Destroy
 placeholder=yes
 
 [placeholder_chocolate_chips_26305]
@@ -259557,13 +259555,12 @@ placeholder=yes
 [chocolate_chips_26306]
 name=Chocolate chips
 model=chocolate_chips_43101
+category=category_15
 cost=0
 2dzoom=1206
 2dyof=-2
 2dxan=120
 2dyan=98
-iop2=Eat
-iop5=Destroy
 recol1s=2702
 recol1d=7390
 recol2s=2700
@@ -259580,13 +259577,12 @@ placeholder=yes
 [a_big_present_26308]
 name=A big present
 model=secret_santa_present_43100
+category=category_15
 cost=0
 2dzoom=824
 2dyof=-13
 2dxan=193
 2dyan=1768
-iop2=Open
-iop5=Destroy
 recol1s=834
 recol1d=8002
 recol2s=827
@@ -259802,11 +259798,11 @@ placeholder=yes
 [little_snowball_26326]
 name=Little snowball
 model=little_snowball_2846
+category=category_15
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Roll-snowball
 recol1s=7952
 recol1d=-26507
 resizex=12
@@ -259820,11 +259816,11 @@ placeholder=yes
 [small_snowball_26328]
 name=Small snowball
 model=little_snowball_2846
+category=category_15
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Roll-snowball
 recol1s=7952
 recol1d=-26507
 resizex=14
@@ -259838,12 +259834,11 @@ placeholder=yes
 [normal_snowball_26330]
 name=Normal snowball
 model=little_snowball_2846
-category=category_1592
+category=category_15
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Roll-snowball
 recol1s=7952
 recol1d=-26507
 resizex=16
@@ -259857,12 +259852,11 @@ placeholder=yes
 [big_snowball_26332]
 name=Big snowball
 model=little_snowball_2846
-category=category_1592
+category=category_15
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Roll-snowball
 recol1s=7952
 recol1d=-26507
 resizex=18
@@ -259876,12 +259870,11 @@ placeholder=yes
 [large_snowball_26334]
 name=Large snowball
 model=little_snowball_2846
-category=category_1592
+category=category_15
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Roll-snowball
 recol1s=7952
 recol1d=-26507
 resizex=20
@@ -259895,12 +259888,11 @@ placeholder=yes
 [huge_snowball_26336]
 name=Huge snowball
 model=little_snowball_2846
-category=category_1592
+category=category_15
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Roll-snowball
 recol1s=7952
 recol1d=-26507
 resizex=22
@@ -259914,12 +259906,11 @@ placeholder=yes
 [humongous_snowball_26338]
 name=Humongous snowball
 model=little_snowball_2846
-category=category_1592
+category=category_15
 2dzoom=950
 2dyof=-9
 2dxan=192
 2dyan=104
-iop2=Roll-snowball
 recol1s=7952
 recol1d=-26507
 resizex=24
@@ -259946,6 +259937,8 @@ recol1d=-15680
 members=yes
 ambient=40
 contrast=40
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_brew_4_26341]
@@ -259967,6 +259960,8 @@ recol1d=-15680
 members=yes
 ambient=40
 contrast=40
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_brew_3_26343]
@@ -259988,6 +259983,8 @@ recol1d=-15680
 members=yes
 ambient=40
 contrast=40
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_brew_2_26345]
@@ -260009,6 +260006,8 @@ recol1d=-15680
 members=yes
 ambient=40
 contrast=40
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_brew_1_26347]
@@ -260196,6 +260195,7 @@ cost=500
 recol1s=82
 recol1d=-15920
 members=yes
+stockmarket=yes
 stackable=yes
 placeholder=yes
 
@@ -260212,6 +260212,8 @@ cost=500000
 2dxan=498
 2dyan=263
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_ancient_hilt_26371]
@@ -260226,6 +260228,8 @@ cost=150000
 2dyof=-1
 2dxan=518
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_nihil_horn_26373]
@@ -260253,6 +260257,8 @@ recol3d=10167
 recol4s=7390
 recol4d=10171
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 param=levelrequire_23,80
 
@@ -260271,6 +260277,8 @@ cost=200000
 2dyan=2047
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_torva_full_helm_damaged_26377]
@@ -260287,6 +260295,8 @@ cost=600000
 2dxan=518
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_torva_platebody_damaged_26379]
@@ -260305,6 +260315,8 @@ iop2=Wear
 members=yes
 ambient=30
 contrast=20
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_torva_platelegs_damaged_26381]
@@ -260325,6 +260337,8 @@ cost=200000
 2dyan=2047
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_torva_full_helm_26383]
@@ -260345,6 +260359,8 @@ cost=600000
 2dxan=518
 iop2=Wear
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_torva_platebody_26385]
@@ -260365,6 +260381,8 @@ iop2=Wear
 members=yes
 ambient=30
 contrast=20
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_torva_platelegs_26387]
@@ -260400,6 +260418,7 @@ iop1=Activate
 members=yes
 ambient=20
 contrast=15
+stockmarket=yes
 stackable=yes
 placeholder=yes
 
@@ -260434,8 +260453,73 @@ model=bandosian_components_43198
 2dxan=316
 2dyan=42
 members=yes
+stockmarket=yes
+certificate=yes
 placeholder=yes
 
 [placeholder_bandosian_components_26395]
 placeholder=yes
+
+[cert_ancient_ceremonial_top_26396]
+certificate=yes
+
+[cert_ancient_ceremonial_legs_26397]
+certificate=yes
+
+[cert_ancient_ceremonial_mask_26398]
+certificate=yes
+
+[cert_ancient_ceremonial_gloves_26399]
+certificate=yes
+
+[cert_ancient_ceremonial_boots_26400]
+certificate=yes
+
+[cert_ancient_hilt_26401]
+certificate=yes
+
+[cert_ancient_godsword_26402]
+certificate=yes
+
+[cert_zaryte_vambraces_26403]
+certificate=yes
+
+[cert_nihil_horn_26404]
+certificate=yes
+
+[cert_zaryte_crossbow_26405]
+certificate=yes
+
+[cert_torva_full_helm_damaged_26406]
+certificate=yes
+
+[cert_torva_platebody_damaged_26407]
+certificate=yes
+
+[cert_torva_platelegs_damaged_26408]
+certificate=yes
+
+[cert_torva_full_helm_26409]
+certificate=yes
+
+[cert_torva_platebody_26410]
+certificate=yes
+
+[cert_torva_platelegs_26411]
+certificate=yes
+
+[cert_bandosian_components_26412]
+certificate=yes
+
+[cert_ancient_brew_4_26413]
+certificate=yes
+
+[cert_ancient_brew_3_26414]
+certificate=yes
+
+[cert_ancient_brew_2_26415]
+certificate=yes
+
+[cert_ancient_brew_1_26416]
+certificate=yes
 

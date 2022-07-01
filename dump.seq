@@ -56651,25 +56651,6 @@ movetype=1
 looptype=1
 framegroup1=1290
 
-[santa_ready_9160]
-framecount=2
-replayoff=2
-mainhand=0
-offhand=26222
-replaycount=255
-looptype=1
-framegroup1=221
-
-[seq_9161]
-framecount=15
-mainhand=0
-offhand=0
-looptype=1
-framegroup1=295
-soundeffect5=5103,1,2
-soundeffect7=5106,1,2
-soundeffect9=5102,1,2
-
 [seq_9162]
 framecount=62
 mainhand=0
@@ -56681,18 +56662,6 @@ framegroup1=2782
 framecount=36
 looptype=1
 framegroup1=2789
-
-[tiny_snowball_walk_9164]
-framecount=16
-looptype=1
-framegroup1=2791
-
-[seq_9165]
-framecount=8
-replayoff=8
-replaycount=10
-looptype=1
-framegroup1=2791
 
 [seq_9166]
 framecount=22

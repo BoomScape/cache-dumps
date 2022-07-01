@@ -4957,7 +4957,9 @@ val=668,669
 val=669,670
 val=670,671
 val=671,672
-val=672,674
+val=672,673
+val=673,674
+val=674,675
 
 [enum_819]
 inputtype=int
@@ -5635,9 +5637,9 @@ val=669,0_0_0_21_15
 val=670,0_0_0_21_16
 val=671,0_0_0_21_17
 val=672,0_0_0_21_18
-val=673,0_0_0_21_18
 val=674,0_0_0_21_19
-val=675,0_0_0_21_20
+val=673,0_0_0_21_20
+val=675,0_0_0_21_21
 
 [enum_823]
 inputtype=component
@@ -17326,6 +17328,8 @@ val=29,Mysterious Stranger's Item Retrieval Service
 val=30,Mysterious Stranger's Item Retrieval Service
 val=31,Veliaf's Item Retrieval Service
 val=32,Veliaf's Item Retrieval Service
+val=36,Ancient Prison Item Retrieval Service
+val=37,Ancient Prison Item Retrieval Service
 
 [enum_1756]
 inputtype=int
@@ -17348,6 +17352,7 @@ val=25,coins_995
 val=27,coins_995
 val=29,coins_995
 val=31,coins_995
+val=36,coins_995
 
 [enum_1757]
 inputtype=int
@@ -17370,6 +17375,7 @@ val=25,60000
 val=27,60000
 val=29,25000
 val=31,50000
+val=36,100000
 
 [enum_1771]
 inputtype=coordgrid
@@ -20932,19 +20938,20 @@ val=20,king_black_dragon_491
 val=21,kraken_492
 val=22,kreearra_493
 val=23,kril_tsutsaroth_494
-val=24,the_nightmare_1263
-val=25,obor_495
-val=26,sarachnis_601
-val=27,scorpia_496
-val=28,skotizo_497
-val=29,tempoross_2867
-val=30,thermonuclear_smoke_devil_498
-val=31,venenatis_501
-val=32,vetion_502
-val=33,vorkath_503
-val=34,wintertodt_504
-val=35,zalcano_604
-val=36,zulrah_505
+val=24,nex_3769
+val=25,the_nightmare_1263
+val=26,obor_495
+val=27,sarachnis_601
+val=28,scorpia_496
+val=29,skotizo_497
+val=30,tempoross_2867
+val=31,thermonuclear_smoke_devil_498
+val=32,venenatis_501
+val=33,vetion_502
+val=34,vorkath_503
+val=35,wintertodt_504
+val=36,zalcano_604
+val=37,zulrah_505
 
 [enum_2104]
 inputtype=int
@@ -22330,6 +22337,11 @@ val=64,dagonhai_hat_24288
 val=65,dagonhai_robe_top_24291
 val=66,dagonhai_robe_bottom_24294
 val=67,blood_shard_24777
+val=68,ancient_ceremonial_mask_26225
+val=69,ancient_ceremonial_top_26221
+val=70,ancient_ceremonial_legs_26223
+val=71,ancient_ceremonial_gloves_26227
+val=72,ancient_ceremonial_boots_26229
 
 [enum_2163]
 inputtype=int
@@ -27661,6 +27673,7 @@ val=20th_anniversary_hat_25322,enum_3548
 val=gnome_child_mask_25336,enum_3549
 val=golden_prospector_helmet_25549,enum_3666
 val=spirit_angler_headband_25592,enum_3729
+val=ancient_ceremonial_mask_26225,enum_4049
 
 [enum_3078]
 inputtype=int
@@ -29580,6 +29593,7 @@ val=63,villager_hat_6375
 val=64,bruma_torch_20720
 val=65,zealots_helm_25438
 val=66,imcando_hammer_25644
+val=67,ancient_ceremonial_mask_26225
 
 [enum_3290]
 inputtype=int
@@ -30296,6 +30310,7 @@ val=carpenters_helmet_24872,Carpenter's outfit
 val=amys_saw_24880,Amy's saw
 val=zealots_helm_25438,Zealot's prayer robes
 val=imcando_hammer_25644,Imcando hammer
+val=ancient_ceremonial_mask_26225,Ancient ceremonial robes
 val=decorative_helm_4071,Castle Wars Decorative armour (1)
 val=decorative_helm_4506,Castle Wars Decorative armour (2)
 val=decorative_helm_4511,Castle Wars Decorative armour (3)
@@ -49757,20 +49772,21 @@ val=25,20
 val=26,21
 val=27,22
 val=28,23
-val=31,24
-val=32,24
-val=33,25
-val=34,26
-val=35,27
-val=36,28
-val=37,29
-val=41,30
-val=45,31
-val=46,32
-val=47,33
-val=48,34
-val=49,35
-val=50,36
+val=30,24
+val=31,25
+val=32,25
+val=33,26
+val=34,27
+val=35,28
+val=36,29
+val=37,30
+val=41,31
+val=45,32
+val=46,33
+val=47,34
+val=48,35
+val=49,36
+val=50,37
 val=29,5
 
 [enum_3979]
@@ -51417,6 +51433,16 @@ val=refined_tephra_23906,yes
 val=imbued_tephra_23907,yes
 val=old_school_bond_13190,yes
 val=old_school_bond_untradeable_13192,yes
+
+[enum_4049]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,ancient_ceremonial_top_26221
+val=1,ancient_ceremonial_legs_26223
+val=2,ancient_ceremonial_mask_26225
+val=3,ancient_ceremonial_gloves_26227
+val=4,ancient_ceremonial_boots_26229
 
 [enum_4053]
 inputtype=component
