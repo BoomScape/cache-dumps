@@ -21624,13 +21624,13 @@ val=35,model_36246
 inputtype=obj
 outputtype=int
 default=0
-val=rake_5341,1
-val=seed_dibber_5343,1
-val=spade_952,1
-val=secateurs_5329,1
+val=rake_5341,100
+val=seed_dibber_5343,100
+val=spade_952,100
+val=secateurs_5329,100
 val=bottomless_compost_bucket_22994,1
 val=watering_can_6797,1
-val=gardening_trowel_5325,1
+val=gardening_trowel_5325,100
 val=plant_cure_6036,1000
 val=bucket_1925,1000
 val=compost_6032,1000
@@ -21920,6 +21920,7 @@ val=6,6
 val=7,7
 val=8,8
 val=9,9
+val=10,10
 
 [enum_2305]
 inputtype=int
@@ -21935,6 +21936,7 @@ val=6,Trees
 val=7,Fruit Trees
 val=8,Exotic
 val=9,Anima
+val=10,Saplings
 
 [enum_2306]
 inputtype=int

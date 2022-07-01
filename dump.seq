@@ -50755,6 +50755,11 @@ looptype=1
 framegroup1=207
 soundeffect12=3220,1,1
 
+[seq_8315]
+framecount=8
+looptype=1
+framegroup1=432
+
 [seq_8331]
 framecount=56
 looptype=1

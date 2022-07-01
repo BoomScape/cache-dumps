@@ -11,9 +11,12 @@ type=^iftype_layer
 width=95
 height=43
 layer=interface_126:0
-optionmask=1026
-op1="Store"
-op10="Examine"
+optionmask=1054
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:2]
 type=^iftype_layer
@@ -21,9 +24,12 @@ width=95
 height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
-optionmask=1026
-op1="Store"
-op10="Examine"
+optionmask=1054
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:3]
 type=^iftype_layer
@@ -31,9 +37,12 @@ y=43
 width=95
 height=43
 layer=interface_126:0
-optionmask=1026
-op1="Store"
-op10="Examine"
+optionmask=1054
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:4]
 type=^iftype_layer
@@ -42,9 +51,12 @@ width=95
 height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
-optionmask=1026
-op1="Store"
-op10="Examine"
+optionmask=1054
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:5]
 type=^iftype_layer
@@ -53,8 +65,8 @@ width=95
 height=43
 layer=interface_126:0
 optionmask=1026
-op1="Store"
-op10="Examine"
+op1="*"
+op10="*"
 
 [interface_126:6]
 type=^iftype_layer
@@ -63,9 +75,12 @@ width=95
 height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
-optionmask=1026
-op1="Store"
-op10="Examine"
+optionmask=1054
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:7]
 type=^iftype_layer
@@ -74,11 +89,11 @@ width=95
 height=43
 layer=interface_126:0
 optionmask=1054
-op1="Store-1"
-op2="Store-5"
-op3="Store-All"
-op4="Store-X"
-op10="Examine"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:8]
 type=^iftype_layer
@@ -88,8 +103,8 @@ height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1026
-op1="Store"
-op10="Examine"
+op1="*"
+op10="*"
 
 [interface_126:9]
 type=^iftype_layer
@@ -98,11 +113,11 @@ width=95
 height=43
 layer=interface_126:0
 optionmask=1054
-op1="Store-1"
-op2="Store-5"
-op3="Store-All"
-op4="Store-X"
-op10="Examine"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:10]
 type=^iftype_layer
@@ -112,11 +127,11 @@ height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1054
-op1="Store-1"
-op2="Store-5"
-op3="Store-All"
-op4="Store-X"
-op10="Examine"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:11]
 type=^iftype_layer
@@ -125,11 +140,11 @@ width=95
 height=43
 layer=interface_126:0
 optionmask=1054
-op1="Store-1"
-op2="Store-5"
-op3="Store-All"
-op4="Store-X"
-op10="Examine"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 
 [interface_126:12]
 type=^iftype_layer
@@ -139,9 +154,9 @@ height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1054
-op1="Store-1"
-op2="Store-5"
-op3="Store-All"
-op4="Store-X"
-op10="Examine"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op10="*"
 

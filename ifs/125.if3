@@ -82,9 +82,13 @@ x=8
 width=108
 height=60
 layer=interface_125:2
-optionmask=1026
-op1="Remove"
-op10="Examine"
+optionmask=1566
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op9="*"
+op10="*"
 
 [interface_125:9]
 type=^iftype_layer
@@ -92,9 +96,13 @@ x=124
 width=108
 height=60
 layer=interface_125:2
-optionmask=1026
-op1="Remove"
-op10="Examine"
+optionmask=1566
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op9="*"
+op10="*"
 
 [interface_125:10]
 type=^iftype_layer
@@ -102,9 +110,13 @@ x=240
 width=108
 height=60
 layer=interface_125:2
-optionmask=1026
-op1="Remove"
-op10="Examine"
+optionmask=1566
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op9="*"
+op10="*"
 
 [interface_125:11]
 type=^iftype_layer
@@ -112,9 +124,13 @@ x=356
 width=108
 height=60
 layer=interface_125:2
-optionmask=1026
-op1="Remove"
-op10="Examine"
+optionmask=1566
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op9="*"
+op10="*"
 
 [interface_125:12]
 type=^iftype_layer
@@ -124,8 +140,8 @@ height=60
 vposmode=^setpos_abs_centre
 layer=interface_125:2
 optionmask=1026
-op1="Remove"
-op10="Examine"
+op1="*"
+op10="*"
 
 [interface_125:13]
 type=^iftype_layer
@@ -134,9 +150,13 @@ width=108
 height=60
 vposmode=^setpos_abs_centre
 layer=interface_125:2
-optionmask=1026
-op1="Remove"
-op10="Examine"
+optionmask=1566
+op1="*"
+op2="*"
+op3="*"
+op4="*"
+op9="*"
+op10="*"
 
 [interface_125:14]
 type=^iftype_layer
@@ -146,12 +166,12 @@ height=60
 vposmode=^setpos_abs_centre
 layer=interface_125:2
 optionmask=1566
-op1="Remove-1"
-op2="Remove-5"
-op3="Remove-All"
-op4="Remove-X"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
 op9="*"
-op10="Examine"
+op10="*"
 
 [interface_125:15]
 type=^iftype_layer
@@ -161,8 +181,8 @@ height=60
 vposmode=^setpos_abs_centre
 layer=interface_125:2
 optionmask=1026
-op1="Remove-1"
-op10="Examine"
+op1="*"
+op10="*"
 
 [interface_125:16]
 type=^iftype_layer
@@ -172,12 +192,12 @@ height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
 optionmask=1566
-op1="Remove-1"
-op2="Remove-5"
-op3="Remove-All"
-op4="Remove-X"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
 op9="*"
-op10="Examine"
+op10="*"
 
 [interface_125:17]
 type=^iftype_layer
@@ -187,12 +207,12 @@ height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
 optionmask=1566
-op1="Remove-1"
-op2="Remove-5"
-op3="Remove-All"
-op4="Remove-X"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
 op9="*"
-op10="Examine"
+op10="*"
 
 [interface_125:18]
 type=^iftype_layer
@@ -202,12 +222,12 @@ height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
 optionmask=1566
-op1="Remove-1"
-op2="Remove-5"
-op3="Remove-All"
-op4="Remove-X"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
 op9="*"
-op10="Examine"
+op10="*"
 
 [interface_125:19]
 type=^iftype_layer
@@ -217,10 +237,10 @@ height=60
 vposmode=^setpos_abs_bottom
 layer=interface_125:2
 optionmask=1566
-op1="Remove-1"
-op2="Remove-5"
-op3="Remove-All"
-op4="Remove-X"
+op1="*"
+op2="*"
+op3="*"
+op4="*"
 op9="*"
-op10="Examine"
+op10="*"
 

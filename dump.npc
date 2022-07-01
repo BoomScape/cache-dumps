@@ -60774,6 +60774,7 @@ recol6d=28
 op1=Talk-to
 op3=Age
 vislevel=0
+drawpriority=yes
 
 [man_3078]
 name=Man
@@ -155779,16 +155780,6 @@ walkanim=bobbing_fossil_ready_7728
 op1=Poke
 vislevel=0
 
-[puffer_fish_7780]
-name=Puffer Fish
-model1=puffer_fish_33888
-readyanim=puffer_fish_ready_7663
-walkanim=puffer_fish_walk_7664
-op1=Catch
-vislevel=0
-visonmap=no
-ambient=25
-
 [puffer_fish_7781]
 name=Puffer Fish
 model1=puffer_fish_33888
@@ -174624,6 +174615,72 @@ recol6s=6798
 recol6d=5027
 vislevel=0
 ambient=20
+
+[puffer_fish_8667]
+name=Puffer Fish
+model1=puffer_fish_33888
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+op1=Catch
+vislevel=0
+visonmap=no
+ambient=25
+
+[puffer_fish_multi_8668]
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+vislevel=0
+multivar=varbit_8355
+multinpc=1,puffer_fish_8667
+visonmap=no
+
+[puffer_fish_multi_8669]
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+vislevel=0
+multivar=varbit_8355
+multinpc=2,puffer_fish_8667
+visonmap=no
+
+[puffer_fish_multi_8670]
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+vislevel=0
+multivar=varbit_8355
+multinpc=3,puffer_fish_8667
+visonmap=no
+
+[puffer_fish_multi_8671]
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+vislevel=0
+multivar=varbit_8355
+multinpc=4,puffer_fish_8667
+visonmap=no
+
+[puffer_fish_multi_8672]
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+vislevel=0
+multivar=varbit_8355
+multinpc=5,puffer_fish_8667
+visonmap=no
+
+[puffer_fish_multi_8673]
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+vislevel=0
+multivar=varbit_8355
+multinpc=6,puffer_fish_8667
+visonmap=no
+
+[puffer_fish_multi_8674]
+readyanim=puffer_fish_ready_7663
+walkanim=puffer_fish_walk_7664
+vislevel=0
+multivar=varbit_8355
+multinpc=7,puffer_fish_8667
+visonmap=no
 
 [mosol_rei_multi_8695]
 readyanim=doomsayer_ready_813
