@@ -1,7 +1,7 @@
 [interface_87:0]
 type=^iftype_model
-x=228
-y=163
+x=227
+y=162
 width=32
 height=32
 model=model_3395
@@ -884,8 +884,8 @@ zoom=2448
 
 [interface_87:79]
 type=^iftype_graphic
-x=473
-y=13
+x=401
+y=17
 width=26
 height=23
 graphic="close_buttons,4"

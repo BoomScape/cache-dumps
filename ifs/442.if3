@@ -33,6 +33,7 @@ width=96
 vsizemode=^setsize_minus
 layer=interface_442:3
 optionmask=2
+opbase="<col=ff9040>Experience</col>"
 op1="View"
 
 [interface_442:5]
@@ -42,6 +43,7 @@ width=96
 vsizemode=^setsize_minus
 layer=interface_442:3
 optionmask=2
+opbase="<col=ff9040>Imbues</col>"
 op1="View"
 
 [interface_442:6]
@@ -51,6 +53,7 @@ width=96
 vsizemode=^setsize_minus
 layer=interface_442:3
 optionmask=2
+opbase="<col=ff9040>Other</col>"
 op1="View"
 
 [interface_442:7]

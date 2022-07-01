@@ -58808,3 +58808,8 @@ basevar=var_2639
 startbit=7
 endbit=7
 
+[varbit_11762]
+basevar=var_2863
+startbit=24
+endbit=24
+

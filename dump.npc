@@ -162886,7 +162886,7 @@ recol5d=8
 recol6s=-22464
 recol6d=57
 op2=Attack
-vislevel=194
+vislevel=224
 
 [vorkath_8058]
 name=Vorkath
@@ -179712,7 +179712,7 @@ walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
 op2=Attack
-vislevel=182
+vislevel=212
 param=param_509,1
 param=param_510,Arianwyn
 
@@ -189237,7 +189237,7 @@ walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
 op2=Attack
-vislevel=368
+vislevel=378
 drawpriority=yes
 
 [essyllt_hard_9247]
@@ -189265,7 +189265,7 @@ walkanim_b=human_walk_b_820
 walkanim_r=human_walk_r_821
 walkanim_l=human_walk_l_822
 op2=Attack
-vislevel=182
+vislevel=212
 drawpriority=yes
 
 [essyllt_9249]
