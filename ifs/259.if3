@@ -5,12 +5,12 @@ height=233
 
 [interface_259:1]
 type=^iftype_text
-x=3
-width=54
+width=6
 height=20
+hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_259:0
-text="Achievement Diary"
+text="Achievement Diaries"
 colour=0xff9933
 font=b12_full
 valign=^settextalign_centre

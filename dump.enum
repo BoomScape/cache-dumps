@@ -23291,6 +23291,7 @@ outputtype=int
 default=1
 val=shark_20390,11
 val=cooked_karambwan_23533,2
+val=mithril_seeds_24534,20
 
 [enum_2632]
 inputtype=int

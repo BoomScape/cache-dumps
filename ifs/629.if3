@@ -75,7 +75,7 @@ hposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_629:1
 optionmask=2
-op1="Achievement Diary"
+op1="Achievement Diaries"
 
 [interface_629:9]
 type=^iftype_graphic

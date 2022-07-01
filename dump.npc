@@ -133284,17 +133284,6 @@ size=2
 vislevel=101
 ambient=25
 
-[ent_trunk_6595]
-name=<col=00ffff>Ent trunk</col>
-model1=ent_trunk_28261
-op1=Chop
-op3=hidden
-size=2
-vislevel=0
-visonmap=no
-ambient=25
-turnspeed=0
-
 [zombie_6596]
 name=Zombie
 model1=zombie_21002
@@ -193694,4 +193683,15 @@ multivar=varbit_10239
 multinpc=default,sister_senga_9472
 multinpc=0,sister_senga_9471
 drawpriority=yes
+
+[ent_trunk_9474]
+name=<col=00ffff>Ent trunk</col>
+model1=ent_trunk_28261
+op1=Chop
+op3=hidden
+size=2
+vislevel=0
+visonmap=no
+ambient=25
+turnspeed=0
 

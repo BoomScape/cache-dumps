@@ -76014,7 +76014,7 @@ model=asgarnian_ale_2491
 name=Mud battlestaff
 model=mud_battlestaff_9929
 manwear=mud_battlestaff_9956,0
-womanwear=mud_battlestaff_9956,6
+womanwear=mud_battlestaff_32907,0
 cost=17000
 2dzoom=1950
 2dxof=-2
@@ -76031,7 +76031,7 @@ placeholder=yes
 name=Mystic mud staff
 model=mud_battlestaff_9929
 manwear=mud_battlestaff_9956,0
-womanwear=mud_battlestaff_9956,6
+womanwear=mud_battlestaff_32907,0
 cost=45000
 2dzoom=1950
 2dxof=-2
@@ -233024,4 +233024,18 @@ cost=65002
 2dyan=2047
 iop2=Wear
 members=yes
+
+[mithril_seeds_24534]
+name=Mithril seeds
+model=mithril_seeds_2381
+2dzoom=920
+2dxof=7
+2dyof=39
+2dxan=240
+2dyan=676
+iop1=Plant
+recol1s=-22248
+recol1d=22433
+stackable=yes
+param=param_850,1003
 
