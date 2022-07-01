@@ -30,47 +30,61 @@ halign=^settextalign_centre
 shadowed=yes
 
 [interface_76:3]
-type=^iftype_graphic
-x=36
+type=^iftype_layer
+width=4
+height=26
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+hide=yes
+layer=interface_76:0
+
+[interface_76:4]
+type=^iftype_layer
 y=4
-width=18
+width=54
 height=18
 hposmode=^setpos_abs_right
 layer=interface_76:0
+
+[interface_76:5]
+type=^iftype_graphic
+x=36
+width=18
+height=18
+hposmode=^setpos_abs_right
+layer=interface_76:4
 graphic="achievement_diary_icons,0"
 optionmask=2
 op1="View Quests"
 onmouseover="script273(event_com,100)"
 onmouseleave="script273(event_com,0)"
 
-[interface_76:4]
+[interface_76:6]
 type=^iftype_graphic
 x=18
-y=4
 width=18
 height=18
 hposmode=^setpos_abs_right
-layer=interface_76:0
+layer=interface_76:4
 graphic="achievement_diary_icons,1"
 optionmask=2
 op1="View Achievement Diaries"
 onmouseover="script273(event_com,100)"
 onmouseleave="script273(event_com,0)"
 
-[interface_76:5]
+[interface_76:7]
 type=^iftype_graphic
-y=4
 width=18
 height=18
 hposmode=^setpos_abs_right
-layer=interface_76:0
+layer=interface_76:4
 graphic="achievement_diary_icons,3"
 optionmask=2
 op1="View Kourend Favour"
 onmouseover="script273(event_com,100)"
 onmouseleave="script273(event_com,0)"
 
-[interface_76:6]
+[interface_76:8]
 type=^iftype_layer
 x=3
 y=26
@@ -78,56 +92,56 @@ width=185
 height=22
 layer=interface_76:0
 
-[interface_76:7]
+[interface_76:9]
 type=^iftype_graphic
 width=185
 height=22
-layer=interface_76:6
+layer=interface_76:8
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_76:8]
+[interface_76:10]
 type=^iftype_rectangle
 width=185
 height=22
 hide=yes
-layer=interface_76:6
+layer=interface_76:8
 colour=^white
 fill=yes
 trans=255
 onmouseover="script273(event_com,200)"
 onmouseleave="script273(event_com,255)"
 
-[interface_76:9]
+[interface_76:11]
 type=^iftype_rectangle
 width=185
 height=22
-layer=interface_76:6
+layer=interface_76:8
 colour=0x191900
 
-[interface_76:10]
+[interface_76:12]
 type=^iftype_rectangle
 x=1
 y=1
 width=183
 height=20
-layer=interface_76:6
+layer=interface_76:8
 colour=0xff981f
 trans=150
 
-[interface_76:11]
+[interface_76:13]
 type=^iftype_text
 x=3
 y=3
 width=163
 height=16
-layer=interface_76:6
+layer=interface_76:8
 colour=0xff981f
 font=p11_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_76:12]
+[interface_76:14]
 type=^iftype_layer
 x=3
 y=47
@@ -135,40 +149,40 @@ width=185
 height=170
 layer=interface_76:0
 
-[interface_76:13]
+[interface_76:15]
 type=^iftype_rectangle
 width=185
 height=170
-layer=interface_76:12
+layer=interface_76:14
 colour=0x191900
 
-[interface_76:14]
+[interface_76:16]
 type=^iftype_rectangle
 x=1
 y=1
 width=183
 height=168
-layer=interface_76:12
+layer=interface_76:14
 colour=0xff981f
 trans=150
 
-[interface_76:15]
+[interface_76:17]
 type=^iftype_layer
 x=6
 y=2
 width=157
 height=166
-layer=interface_76:12
+layer=interface_76:14
 
-[interface_76:16]
+[interface_76:18]
 type=^iftype_layer
 x=167
 y=2
 width=16
 height=166
-layer=interface_76:12
+layer=interface_76:14
 
-[interface_76:17]
+[interface_76:19]
 type=^iftype_layer
 x=3
 y=47
@@ -177,55 +191,55 @@ height=170
 hide=yes
 layer=interface_76:0
 
-[interface_76:18]
+[interface_76:20]
 type=^iftype_graphic
 width=185
 height=170
-layer=interface_76:17
+layer=interface_76:19
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_76:19]
+[interface_76:21]
 type=^iftype_rectangle
 width=185
 height=170
-layer=interface_76:17
+layer=interface_76:19
 colour=0x191900
 
-[interface_76:20]
+[interface_76:22]
 type=^iftype_rectangle
 x=1
 y=1
 width=183
 height=168
-layer=interface_76:17
+layer=interface_76:19
 colour=0xff981f
 trans=150
 
-[interface_76:21]
+[interface_76:23]
 type=^iftype_layer
 width=169
 height=170
-layer=interface_76:17
+layer=interface_76:19
 noclickthrough=yes
 
-[interface_76:22]
+[interface_76:24]
 type=^iftype_layer
 x=169
 width=16
 height=170
-layer=interface_76:17
+layer=interface_76:19
 
-[interface_76:23]
+[interface_76:25]
 type=^iftype_graphic
 x=166
 y=3
 width=16
 height=16
-layer=interface_76:6
+layer=interface_76:8
 graphic="scrollbar_v2,1"
 
-[interface_76:24]
+[interface_76:26]
 type=^iftype_text
 y=217
 width=117
@@ -238,7 +252,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_76:25]
+[interface_76:27]
 type=^iftype_text
 y=232
 width=117
@@ -250,7 +264,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_76:26]
+[interface_76:28]
 type=^iftype_layer
 x=116
 y=217
@@ -258,28 +272,28 @@ width=72
 height=22
 layer=interface_76:0
 
-[interface_76:27]
+[interface_76:29]
 type=^iftype_graphic
 width=72
 height=36
-layer=interface_76:26
+layer=interface_76:28
 graphic="combatboxes,2"
 onload="script128(event_com)"
 onmouseover="script44(event_com,296)"
 onmouseleave="script44(event_com,295)"
 
-[interface_76:28]
+[interface_76:30]
 type=^iftype_text
 width=72
 height=22
-layer=interface_76:26
+layer=interface_76:28
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_76:29]
+[interface_76:31]
 type=^iftype_layer
 x=117
 y=239
@@ -287,25 +301,67 @@ width=72
 height=22
 layer=interface_76:0
 
-[interface_76:30]
+[interface_76:32]
 type=^iftype_graphic
 width=72
 height=36
-layer=interface_76:29
+layer=interface_76:31
 graphic="combatboxes,2"
 onload="script128(event_com)"
 onmouseover="script44(event_com,296)"
 onmouseleave="script44(event_com,295)"
 
-[interface_76:31]
+[interface_76:33]
 type=^iftype_text
 width=72
 height=22
-layer=interface_76:29
+layer=interface_76:31
 text="Teleport"
 colour=0xff981f
 font=p11_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
+
+[interface_76:34]
+type=^iftype_layer
+width=26
+height=26
+layer=interface_76:3
+optionmask=14
+op1="View Achievement Diaries"
+op2="View Quests"
+op3="View Kourend Favour"
+
+[interface_76:35]
+type=^iftype_graphic
+x=-4
+width=17
+height=13
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_76:34
+graphic="barbassault_icons,8"
+fliph=yes
+
+[interface_76:36]
+type=^iftype_layer
+width=26
+height=26
+hposmode=^setpos_abs_right
+layer=interface_76:3
+optionmask=14
+op1="View Kourend Favour"
+op2="View Quests"
+op3="View Achievement Diaries"
+
+[interface_76:37]
+type=^iftype_graphic
+x=4
+width=17
+height=13
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_76:36
+graphic="barbassault_icons,8"
 

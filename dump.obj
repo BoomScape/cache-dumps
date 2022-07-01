@@ -19514,6 +19514,23 @@ recol1d=10128
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=spell_name_601,Tan Leather
+param=spell_desc_602,Tans up to 5 hides
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,78
+param=spell_button_596,interface_218:117
+param=spell_graphic1_on_597,"lunar_magic_on,40"
+param=spell_graphic1_off_598,"lunar_magic_off,40"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,25"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,25"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,5
 
 [cert_leather_1742]
 certificate=yes
@@ -27387,7 +27404,23 @@ model=orb_of_light_3176
 2dyan=1700
 recol1s=1500
 recol1d=4
-members=yes
+param=spell_name_601,Recharge Dragonstone
+param=spell_desc_602,Recharges enchanted dragonstone jewellery
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,89
+param=spell_button_596,interface_218:131
+param=spell_graphic1_on_597,"lunar_magic_on,41"
+param=spell_graphic1_off_598,"lunar_magic_off,41"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,26"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,26"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,4
 
 [bones_2530]
 name=Bones
@@ -31715,6 +31748,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Monkey
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,7
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,body_rune_559
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,1
+param=spell_button_596,interface_218:146
+param=spell_graphic1_on_597,"magic_necro_on,17"
+param=spell_graphic1_off_598,"magic_necro_off,17"
+param=spell_graphic2_on_599,"2x_necro_spells_on,17"
+param=spell_graphic2_off_600,"2x_necro_spells_off,17"
 
 [battered_book_2886]
 name=Battered book
@@ -36054,369 +36102,1019 @@ model=cave_kraken_28231
 2dxan=170
 2dyan=1877
 
-[dummy_clue_scroll_easy_3273]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3273]
+model=model_16238
+param=spell_name_601,Wind Strike
+param=spell_desc_602,A basic Air missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,1
+param=spell_button_596,interface_218:5
+param=spell_graphic1_on_597,"magicon,0"
+param=spell_graphic1_off_598,"magicoff,0"
+param=spell_graphic2_on_599,"2x_standard_spells_on,0"
+param=spell_graphic2_off_600,"2x_standard_spells_off,0"
+param=magic_runetype_1_365,mind_rune_558
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,1
 
-[dummy_clue_scroll_easy_3274]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3274]
+model=model_16238
+param=spell_name_601,Confuse
+param=spell_desc_602,Reduces your opponent's attack by 5%
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,3
+param=spell_button_596,interface_218:6
+param=spell_graphic1_on_597,"magicon,1"
+param=spell_graphic1_off_598,"magicoff,1"
+param=spell_graphic2_on_599,"2x_standard_spells_on,50"
+param=spell_graphic2_off_600,"2x_standard_spells_off,50"
+param=magic_runetype_1_365,body_rune_559
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_3275]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3275]
+model=model_16238
+param=spell_name_601,Water Strike
+param=spell_desc_602,A basic Water missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,5
+param=spell_button_596,interface_218:8
+param=spell_graphic1_on_597,"magicon,2"
+param=spell_graphic1_off_598,"magicoff,2"
+param=spell_graphic2_on_599,"2x_standard_spells_on,1"
+param=spell_graphic2_off_600,"2x_standard_spells_off,1"
+param=magic_runetype_1_365,mind_rune_558
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3276]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3276]
+model=model_16238
+param=spell_name_601,Lvl-1 Enchant
+param=spell_desc_602,For use on sapphire and opal jewellery
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,7
+param=spell_button_596,interface_218:9
+param=spell_graphic1_on_597,"magicon,3"
+param=spell_graphic1_off_598,"magicoff,3"
+param=spell_graphic2_on_599,"2x_standard_spells_on,33"
+param=spell_graphic2_off_600,"2x_standard_spells_off,33"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,1
 
-[dummy_clue_scroll_easy_3277]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3277]
+model=model_16238
+param=spell_name_601,Earth Strike
+param=spell_desc_602,A basic Earth missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,9
+param=spell_button_596,interface_218:10
+param=spell_graphic1_on_597,"magicon,4"
+param=spell_graphic1_off_598,"magicoff,4"
+param=spell_graphic2_on_599,"2x_standard_spells_on,2"
+param=spell_graphic2_off_600,"2x_standard_spells_off,2"
+param=magic_runetype_1_365,mind_rune_558
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3278]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3278]
+model=model_16238
+param=spell_name_601,Weaken
+param=spell_desc_602,Reduces your opponent's<br>strength by 5%
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,11
+param=spell_button_596,interface_218:11
+param=spell_graphic1_on_597,"magicon,5"
+param=spell_graphic1_off_598,"magicoff,5"
+param=spell_graphic2_on_599,"2x_standard_spells_on,51"
+param=spell_graphic2_off_600,"2x_standard_spells_off,51"
+param=magic_runetype_1_365,body_rune_559
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_3279]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3279]
+model=model_16238
+param=spell_name_601,Fire Strike
+param=spell_desc_602,A basic Fire missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,13
+param=spell_button_596,interface_218:12
+param=spell_graphic1_on_597,"magicon,6"
+param=spell_graphic1_off_598,"magicoff,6"
+param=spell_graphic2_on_599,"2x_standard_spells_on,3"
+param=spell_graphic2_off_600,"2x_standard_spells_off,3"
+param=magic_runetype_1_365,mind_rune_558
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_3280]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3280]
+model=model_16238
+param=spell_name_601,Bones to Bananas
+param=spell_desc_602,Changes held bones into bananas
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,15
+param=spell_button_596,interface_218:13
+param=spell_graphic1_on_597,"magicon,7"
+param=spell_graphic1_off_598,"magicoff,7"
+param=spell_graphic2_on_599,"2x_standard_spells_on,45"
+param=spell_graphic2_off_600,"2x_standard_spells_off,45"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_3281]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3281]
+model=model_16238
+param=spell_name_601,Wind Bolt
+param=spell_desc_602,A low level Air missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,17
+param=spell_button_596,interface_218:14
+param=spell_graphic1_on_597,"magicon,8"
+param=spell_graphic1_off_598,"magicoff,8"
+param=spell_graphic2_on_599,"2x_standard_spells_on,4"
+param=spell_graphic2_off_600,"2x_standard_spells_off,4"
+param=magic_runetype_1_365,chaos_rune_562
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,2
 
-[dummy_clue_scroll_easy_3282]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3282]
+model=model_16238
+param=spell_name_601,Curse
+param=spell_desc_602,Reduces your opponent's<br>defence by 5%
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,19
+param=spell_button_596,interface_218:15
+param=spell_graphic1_on_597,"magicon,9"
+param=spell_graphic1_off_598,"magicoff,9"
+param=spell_graphic2_on_599,"2x_standard_spells_on,52"
+param=spell_graphic2_off_600,"2x_standard_spells_off,52"
+param=magic_runetype_1_365,body_rune_559
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_3283]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3283]
+model=model_16238
+param=spell_name_601,Bind
+param=spell_desc_602,Holds your opponent for 5 seconds
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,20
+param=spell_button_596,interface_218:16
+param=spell_graphic1_on_597,"magicon2,0"
+param=spell_graphic1_off_598,"magicoff2,0"
+param=spell_graphic2_on_599,"2x_standard_spells_on,56"
+param=spell_graphic2_off_600,"2x_standard_spells_off,56"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_3284]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3284]
+model=model_16238
+param=spell_name_601,Low Level Alchemy
+param=spell_desc_602,Converts an item into gold
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,21
+param=spell_button_596,interface_218:17
+param=spell_graphic1_on_597,"magicon,10"
+param=spell_graphic1_off_598,"magicoff,10"
+param=spell_graphic2_on_599,"2x_standard_spells_on,48"
+param=spell_graphic2_off_600,"2x_standard_spells_off,48"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,3
 
-[dummy_clue_scroll_easy_3285]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3285]
+model=model_16238
+param=spell_name_601,Water Bolt
+param=spell_desc_602,A low level Water missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,23
+param=spell_button_596,interface_218:18
+param=spell_graphic1_on_597,"magicon,11"
+param=spell_graphic1_off_598,"magicoff,11"
+param=spell_graphic2_on_599,"2x_standard_spells_on,5"
+param=spell_graphic2_off_600,"2x_standard_spells_off,5"
+param=magic_runetype_1_365,chaos_rune_562
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_3286]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3286]
+model=model_16238
+param=spell_name_601,Varrock Teleport
+param=spell_desc_602,Teleports you to Varrock
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,25
+param=spell_button_596,interface_218:19
+param=spell_graphic1_on_597,"magicon,12"
+param=spell_graphic1_off_598,"magicoff,12"
+param=spell_graphic2_on_599,"2x_standard_spells_on,20"
+param=spell_graphic2_off_600,"2x_standard_spells_off,20"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3287]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3287]
+model=model_16238
+param=spell_name_601,Lvl-2 Enchant
+param=spell_desc_602,For use on emerald and jade jewellery
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,27
+param=spell_button_596,interface_218:20
+param=spell_graphic1_on_597,"magicon,13"
+param=spell_graphic1_off_598,"magicoff,13"
+param=spell_graphic2_on_599,"2x_standard_spells_on,34"
+param=spell_graphic2_off_600,"2x_standard_spells_off,34"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,3
 
-[dummy_clue_scroll_easy_3288]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3288]
+model=model_16238
+param=spell_name_601,Earth Bolt
+param=spell_desc_602,A low level Earth missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,29
+param=spell_button_596,interface_218:21
+param=spell_graphic1_on_597,"magicon,14"
+param=spell_graphic1_off_598,"magicoff,14"
+param=spell_graphic2_on_599,"2x_standard_spells_on,6"
+param=spell_graphic2_off_600,"2x_standard_spells_off,6"
+param=magic_runetype_1_365,chaos_rune_562
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_3289]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3289]
+model=model_16238
+param=spell_name_601,Lumbridge Teleport
+param=spell_desc_602,Teleports you to Lumbridge
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,31
+param=spell_button_596,interface_218:22
+param=spell_graphic1_on_597,"magicon,15"
+param=spell_graphic1_off_598,"magicoff,15"
+param=spell_graphic2_on_599,"2x_standard_spells_on,21"
+param=spell_graphic2_off_600,"2x_standard_spells_off,21"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3290]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3290]
+model=model_16238
+param=spell_name_601,Telekinetic Grab
+param=spell_desc_602,Take an item you can see but can't reach
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,33
+param=spell_button_596,interface_218:23
+param=spell_graphic1_on_597,"magicon,16"
+param=spell_graphic1_off_598,"magicoff,16"
+param=spell_graphic2_on_599,"2x_standard_spells_on,46"
+param=spell_graphic2_off_600,"2x_standard_spells_off,46"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,1
 
-[dummy_clue_scroll_easy_3291]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3291]
+model=model_16238
+param=spell_name_601,Fire Bolt
+param=spell_desc_602,A low level Fire missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,35
+param=spell_button_596,interface_218:24
+param=spell_graphic1_on_597,"magicon,17"
+param=spell_graphic1_off_598,"magicoff,17"
+param=spell_graphic2_on_599,"2x_standard_spells_on,7"
+param=spell_graphic2_off_600,"2x_standard_spells_off,7"
+param=magic_runetype_1_365,chaos_rune_562
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_3292]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3292]
+model=model_16238
+param=spell_name_601,Falador Teleport
+param=spell_desc_602,Teleports you to Falador
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,37
+param=spell_button_596,interface_218:25
+param=spell_graphic1_on_597,"magicon,18"
+param=spell_graphic1_off_598,"magicoff,18"
+param=spell_graphic2_on_599,"2x_standard_spells_on,22"
+param=spell_graphic2_off_600,"2x_standard_spells_off,22"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3293]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3293]
+model=model_16238
+param=spell_name_601,Crumble Undead
+param=spell_desc_602,"Hits skeletons, ghosts, shades & zombies hard"
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,39
+param=spell_button_596,interface_218:26
+param=spell_graphic1_on_597,"magicon,19"
+param=spell_graphic1_off_598,"magicoff,19"
+param=spell_graphic2_on_599,"2x_standard_spells_on,47"
+param=spell_graphic2_off_600,"2x_standard_spells_off,47"
+param=magic_runetype_1_365,chaos_rune_562
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_3294]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3294]
+model=model_16238
+param=spell_name_601,Wind Blast
+param=spell_desc_602,A medium level Air missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,41
+param=spell_button_596,interface_218:28
+param=spell_graphic1_on_597,"magicon,20"
+param=spell_graphic1_off_598,"magicoff,20"
+param=spell_graphic2_on_599,"2x_standard_spells_on,8"
+param=spell_graphic2_off_600,"2x_standard_spells_off,8"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,3
 
-[dummy_clue_scroll_easy_3295]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3295]
+model=model_16238
+param=spell_name_601,Superheat Item
+param=spell_desc_602,Smelt ore without a furnace
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,43
+param=spell_button_596,interface_218:29
+param=spell_graphic1_on_597,"magicon,21"
+param=spell_graphic1_off_598,"magicoff,21"
+param=spell_graphic2_on_599,"2x_standard_spells_on,68"
+param=spell_graphic2_off_600,"2x_standard_spells_off,68"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,4
 
-[dummy_clue_scroll_easy_3296]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3296]
+model=model_16238
+param=spell_name_601,Camelot Teleport
+param=spell_desc_602,Teleports you to Camelot
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,45
+param=spell_button_596,interface_218:30
+param=spell_graphic1_on_597,"magicon,22"
+param=spell_graphic1_off_598,"magicoff,22"
+param=spell_graphic2_on_599,"2x_standard_spells_on,24"
+param=spell_graphic2_off_600,"2x_standard_spells_off,24"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,5
 
-[dummy_clue_scroll_easy_3297]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3297]
+model=model_16238
+param=spell_name_601,Water Blast
+param=spell_desc_602,A medium level Water missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,47
+param=spell_button_596,interface_218:31
+param=spell_graphic1_on_597,"magicon,23"
+param=spell_graphic1_off_598,"magicoff,23"
+param=spell_graphic2_on_599,"2x_standard_spells_on,9"
+param=spell_graphic2_off_600,"2x_standard_spells_off,9"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_3298]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3298]
+model=model_16238
+param=spell_name_601,Lvl-3 Enchant
+param=spell_desc_602,For use on ruby and topaz jewellery
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,49
+param=spell_button_596,interface_218:32
+param=spell_graphic1_on_597,"magicon,24"
+param=spell_graphic1_off_598,"magicoff,24"
+param=spell_graphic2_on_599,"2x_standard_spells_on,35"
+param=spell_graphic2_off_600,"2x_standard_spells_off,35"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,5
 
-[dummy_clue_scroll_easy_3299]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3299]
+model=model_16238
+param=spell_name_601,Iban Blast
+param=spell_desc_602,Summons the wrath of Iban
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,50
+param=spell_button_596,interface_218:33
+param=spell_graphic1_on_597,"magicon,38"
+param=spell_graphic1_off_598,"magicoff,38"
+param=spell_graphic2_on_599,"2x_standard_spells_on,40"
+param=spell_graphic2_off_600,"2x_standard_spells_off,40"
+param=magic_runetype_1_365,ibans_staff_1409
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,death_rune_560
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_3300]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3300]
+model=model_16238
+param=spell_name_601,Snare
+param=spell_desc_602,Holds your opponent for 10 seconds
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,50
+param=spell_button_596,interface_218:34
+param=spell_graphic1_on_597,"magicon2,1"
+param=spell_graphic1_off_598,"magicoff2,1"
+param=spell_graphic2_on_599,"2x_standard_spells_on,57"
+param=spell_graphic2_off_600,"2x_standard_spells_off,57"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,4
 
-[dummy_clue_scroll_easy_3301]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3301]
+model=model_16238
+param=spell_name_601,Ardougne Teleport
+param=spell_desc_602,Teleports you to Ardougne
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,51
+param=spell_button_596,interface_218:36
+param=spell_graphic1_on_597,"magicon,39"
+param=spell_graphic1_off_598,"magicoff,39"
+param=spell_graphic2_on_599,"2x_standard_spells_on,25"
+param=spell_graphic2_off_600,"2x_standard_spells_off,25"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,2
 
-[dummy_clue_scroll_easy_3302]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3302]
+model=model_16238
+param=spell_name_601,Earth Blast
+param=spell_desc_602,A medium level Earth missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,53
+param=spell_button_596,interface_218:37
+param=spell_graphic1_on_597,"magicon,25"
+param=spell_graphic1_off_598,"magicoff,25"
+param=spell_graphic2_on_599,"2x_standard_spells_on,10"
+param=spell_graphic2_off_600,"2x_standard_spells_off,10"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_3303]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3303]
+model=model_16238
+param=spell_name_601,High Level Alchemy
+param=spell_desc_602,Converts an item into more gold
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,55
+param=spell_button_596,interface_218:38
+param=spell_graphic1_on_597,"magicon,26"
+param=spell_graphic1_off_598,"magicoff,26"
+param=spell_graphic2_on_599,"2x_standard_spells_on,49"
+param=spell_graphic2_off_600,"2x_standard_spells_off,49"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,5
 
-[dummy_clue_scroll_easy_3304]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3304]
+model=model_16238
+param=spell_name_601,Charge Water Orb
+param=spell_desc_602,Needs to be cast on a water obelisk
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,56
+param=spell_button_596,interface_218:39
+param=spell_graphic1_on_597,"magicon,27"
+param=spell_graphic1_off_598,"magicoff,27"
+param=spell_graphic2_on_599,"2x_standard_spells_on,61"
+param=spell_graphic2_off_600,"2x_standard_spells_off,61"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,30
+param=magic_runetype_3_369,unpowered_orb_567
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3305]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3305]
+model=model_16238
+param=spell_name_601,Lvl-4 Enchant
+param=spell_desc_602,For use on diamond jewellery
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,no
+param=spell_levelreq_604,57
+param=spell_button_596,interface_218:40
+param=spell_graphic1_on_597,"magicon,28"
+param=spell_graphic1_off_598,"magicoff,28"
+param=spell_graphic2_on_599,"2x_standard_spells_on,36"
+param=spell_graphic2_off_600,"2x_standard_spells_off,36"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,10
 
-[dummy_clue_scroll_easy_3306]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3306]
+model=model_16238
+param=spell_name_601,Watchtower Teleport
+param=spell_desc_602,Teleports you to the Watchtower
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,58
+param=spell_button_596,interface_218:41
+param=spell_graphic1_on_597,"magicon,40"
+param=spell_graphic1_off_598,"magicoff,40"
+param=spell_graphic2_on_599,"2x_standard_spells_on,26"
+param=spell_graphic2_off_600,"2x_standard_spells_off,26"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,2
 
-[dummy_clue_scroll_easy_3307]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3307]
+model=model_16238
+param=spell_name_601,Fire Blast
+param=spell_desc_602,A medium level Fire missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,59
+param=spell_button_596,interface_218:42
+param=spell_graphic1_on_597,"magicon,29"
+param=spell_graphic1_off_598,"magicoff,29"
+param=spell_graphic2_on_599,"2x_standard_spells_on,11"
+param=spell_graphic2_off_600,"2x_standard_spells_off,11"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,5
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,4
 
-[dummy_clue_scroll_easy_3308]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3308]
+model=model_16238
+param=spell_name_601,Charge Earth Orb
+param=spell_desc_602,Needs to be cast on an earth obelisk
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,60
+param=spell_button_596,interface_218:43
+param=spell_graphic1_on_597,"magicon,30"
+param=spell_graphic1_off_598,"magicoff,30"
+param=spell_graphic2_on_599,"2x_standard_spells_on,62"
+param=spell_graphic2_off_600,"2x_standard_spells_off,62"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,30
+param=magic_runetype_3_369,unpowered_orb_567
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3309]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3309]
+model=model_16238
+param=spell_name_601,Claws of Guthix
+param=spell_desc_602,Summons the power of Guthix
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,60
+param=spell_button_596,interface_218:46
+param=spell_graphic1_on_597,"magicon,45"
+param=spell_graphic1_off_598,"magicoff,45"
+param=spell_graphic2_on_599,"2x_standard_spells_on,42"
+param=spell_graphic2_off_600,"2x_standard_spells_off,42"
+param=magic_runetype_1_365,obj_8843
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,4
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,1
 
-[dummy_clue_scroll_easy_3310]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3310]
+model=model_16238
+param=spell_name_601,Flames of Zamorak
+param=spell_desc_602,Summons the power of Zamorak
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,60
+param=spell_button_596,interface_218:47
+param=spell_graphic1_on_597,"magicon,44"
+param=spell_graphic1_off_598,"magicoff,44"
+param=spell_graphic2_on_599,"2x_standard_spells_on,41"
+param=spell_graphic2_off_600,"2x_standard_spells_off,41"
+param=magic_runetype_1_365,zamorak_staff_2417
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,1
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,4
 
-[dummy_clue_scroll_easy_3311]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3311]
+model=model_16238
+param=spell_name_601,Saradomin strike
+param=spell_desc_602,Summons the power of Saradomin
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,60
+param=spell_button_596,interface_218:45
+param=spell_graphic1_on_597,"magicon,46"
+param=spell_graphic1_off_598,"magicoff,46"
+param=spell_graphic2_on_599,"2x_standard_spells_on,43"
+param=spell_graphic2_off_600,"2x_standard_spells_off,43"
+param=magic_runetype_1_365,saradomin_staff_2415
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,4
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,2
 
-[dummy_clue_scroll_easy_3312]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3312]
+model=model_16238
+param=spell_name_601,Trollheim Teleport
+param=spell_desc_602,Teleports you to Trollheim
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,61
+param=spell_button_596,interface_218:48
+param=spell_graphic1_on_597,"magicon2,4"
+param=spell_graphic1_off_598,"magicoff2,4"
+param=spell_graphic2_on_599,"2x_standard_spells_on,27"
+param=spell_graphic2_off_600,"2x_standard_spells_off,27"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,2
 
-[dummy_clue_scroll_easy_3313]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3313]
+model=model_16238
+param=spell_name_601,Wind Wave
+param=spell_desc_602,A high level Air missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,62
+param=spell_button_596,interface_218:49
+param=spell_graphic1_on_597,"magicon,31"
+param=spell_graphic1_off_598,"magicoff,31"
+param=spell_graphic2_on_599,"2x_standard_spells_on,12"
+param=spell_graphic2_off_600,"2x_standard_spells_off,12"
+param=magic_runetype_1_365,blood_rune_565
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,5
 
-[dummy_clue_scroll_easy_3314]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3314]
+model=model_16238
+param=spell_name_601,Charge Fire Orb
+param=spell_desc_602,Needs to be cast on a fire obelisk
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,63
+param=spell_button_596,interface_218:50
+param=spell_graphic1_on_597,"magicon,32"
+param=spell_graphic1_off_598,"magicoff,32"
+param=spell_graphic2_on_599,"2x_standard_spells_on,63"
+param=spell_graphic2_off_600,"2x_standard_spells_off,63"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,30
+param=magic_runetype_3_369,unpowered_orb_567
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3315]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3315]
+model=model_16238
+param=spell_name_601,Water Wave
+param=spell_desc_602,A high level Water missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,65
+param=spell_button_596,interface_218:52
+param=spell_graphic1_on_597,"magicon,33"
+param=spell_graphic1_off_598,"magicoff,33"
+param=spell_graphic2_on_599,"2x_standard_spells_on,13"
+param=spell_graphic2_off_600,"2x_standard_spells_off,13"
+param=magic_runetype_1_365,blood_rune_565
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,7
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_3316]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3316]
+model=model_16238
+param=spell_name_601,Charge Air Orb
+param=spell_desc_602,Needs to be cast on an air obelisk
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,66
+param=spell_button_596,interface_218:53
+param=spell_graphic1_on_597,"magicon,34"
+param=spell_graphic1_off_598,"magicoff,34"
+param=spell_graphic2_on_599,"2x_standard_spells_on,64"
+param=spell_graphic2_off_600,"2x_standard_spells_off,64"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,30
+param=magic_runetype_3_369,unpowered_orb_567
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_3317]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3317]
+model=model_16238
+param=spell_name_601,Vulnerability
+param=spell_desc_602,Reduces your opponent's defence by 10%
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,66
+param=spell_button_596,interface_218:54
+param=spell_graphic1_on_597,"magicon,41"
+param=spell_graphic1_off_598,"magicoff,41"
+param=spell_graphic2_on_599,"2x_standard_spells_on,53"
+param=spell_graphic2_off_600,"2x_standard_spells_off,53"
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,5
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_3318]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3318]
+model=model_16238
+param=spell_name_601,Lvl-5 Enchant
+param=spell_desc_602,For use on dragonstone jewellery
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,68
+param=spell_button_596,interface_218:55
+param=spell_graphic1_on_597,"magicon,35"
+param=spell_graphic1_off_598,"magicoff,35"
+param=spell_graphic2_on_599,"2x_standard_spells_on,37"
+param=spell_graphic2_off_600,"2x_standard_spells_off,37"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,15
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,15
 
-[dummy_clue_scroll_easy_3319]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3319]
+model=model_16238
+param=spell_name_601,Earth Wave
+param=spell_desc_602,A high level Earth missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,70
+param=spell_button_596,interface_218:57
+param=spell_graphic1_on_597,"magicon,36"
+param=spell_graphic1_off_598,"magicoff,36"
+param=spell_graphic2_on_599,"2x_standard_spells_on,14"
+param=spell_graphic2_off_600,"2x_standard_spells_off,14"
+param=magic_runetype_1_365,blood_rune_565
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,7
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_3320]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3320]
+model=model_16238
+param=spell_name_601,Enfeeble
+param=spell_desc_602,Reduces your opponent's strength by 10%
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,73
+param=spell_button_596,interface_218:58
+param=spell_graphic1_on_597,"magicon,42"
+param=spell_graphic1_off_598,"magicoff,42"
+param=spell_graphic2_on_599,"2x_standard_spells_on,54"
+param=spell_graphic2_off_600,"2x_standard_spells_off,54"
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,8
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,8
 
-[dummy_clue_scroll_easy_3321]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3321]
+model=model_16238
+param=spell_name_601,Fire Wave
+param=spell_desc_602,A high level Fire missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,75
+param=spell_button_596,interface_218:60
+param=spell_graphic1_on_597,"magicon,37"
+param=spell_graphic1_off_598,"magicoff,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,15"
+param=spell_graphic2_off_600,"2x_standard_spells_off,15"
+param=magic_runetype_1_365,blood_rune_565
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,7
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_3322]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3322]
+model=model_16238
+param=spell_name_601,Entangle
+param=spell_desc_602,Holds your opponent for 15 seconds
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,no
+param=spell_levelreq_604,79
+param=spell_button_596,interface_218:61
+param=spell_graphic1_on_597,"magicon2,2"
+param=spell_graphic1_off_598,"magicoff2,2"
+param=spell_graphic2_on_599,"2x_standard_spells_on,58"
+param=spell_graphic2_off_600,"2x_standard_spells_off,58"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,5
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_3323]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3323]
+model=model_16238
+param=spell_name_601,Charge
+param=spell_desc_602,Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,80
+param=spell_button_596,interface_218:63
+param=spell_graphic1_on_597,"magicon2,3"
+param=spell_graphic1_off_598,"magicoff2,3"
+param=spell_graphic2_on_599,"2x_standard_spells_on,44"
+param=spell_graphic2_off_600,"2x_standard_spells_off,44"
+param=magic_runetype_1_365,blood_rune_565
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_3324]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_3324]
+model=model_16238
+param=spell_name_601,Stun
+param=spell_desc_602,Reduces your opponent's attack by 10%
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,80
+param=spell_button_596,interface_218:62
+param=spell_graphic1_on_597,"magicon,43"
+param=spell_graphic1_off_598,"magicoff,43"
+param=spell_graphic2_on_599,"2x_standard_spells_on,55"
+param=spell_graphic2_off_600,"2x_standard_spells_off,55"
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,12
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,12
 
 [vampyre_dust_3325]
 name=Vampyre dust
@@ -46622,12 +47320,25 @@ model=broad_arrows_2_5050
 recol1s=5012
 recol1d=5404
 
-[dummy_clue_scroll_easy_4176]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4176]
+model=model_16238
+param=spell_name_601,Magic Dart
+param=spell_desc_602,A magic dart of slaying
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,50
+param=spell_button_596,interface_218:35
+param=spell_graphic1_on_597,"magicon2,5"
+param=spell_graphic1_off_598,"magicoff2,5"
+param=spell_graphic2_on_599,"2x_standard_spells_on,66"
+param=spell_graphic2_off_600,"2x_standard_spells_off,66"
+param=magic_runetype_1_365,slayers_staff_4170
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,death_rune_560
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,mind_rune_558
+param=magic_runecount_3_370,4
 
 [amethyst_broad_bolts_4_4177]
 model=amethyst_broad_bolts_4_16262
@@ -51002,33 +51713,83 @@ placeholder=yes
 [cert_spiny_helmet_4552]
 certificate=yes
 
-[dummy_clue_scroll_easy_4553]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4553]
+model=model_16238
+param=spell_name_601,Teleother Lumbridge
+param=spell_desc_602,Teleports target to Lumbridge
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,74
+param=spell_button_596,interface_218:59
+param=spell_graphic1_on_597,"magicon2,30"
+param=spell_graphic1_off_598,"magicoff2,30"
+param=spell_graphic2_on_599,"2x_standard_spells_on,30"
+param=spell_graphic2_off_600,"2x_standard_spells_off,30"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_4554]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4554]
+model=model_16238
+param=spell_name_601,Teleother Falador
+param=spell_desc_602,Teleports target to Falador
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,82
+param=spell_button_596,interface_218:65
+param=spell_graphic1_on_597,"magicon2,31"
+param=spell_graphic1_off_598,"magicoff2,31"
+param=spell_graphic2_on_599,"2x_standard_spells_on,31"
+param=spell_graphic2_off_600,"2x_standard_spells_off,31"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_4555]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4555]
+model=model_16238
+param=spell_name_601,Tele Block
+param=spell_desc_602,Stops your target from teleporting
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,85
+param=spell_button_596,interface_218:67
+param=spell_graphic1_on_597,"magicon2,33"
+param=spell_graphic1_off_598,"magicoff2,33"
+param=spell_graphic2_on_599,"2x_standard_spells_on,60"
+param=spell_graphic2_off_600,"2x_standard_spells_off,60"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,death_rune_560
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,chaos_rune_562
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_4556]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4556]
+model=model_16238
+param=spell_name_601,Teleother Camelot
+param=spell_desc_602,Teleports target to Camelot
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,90
+param=spell_button_596,interface_218:70
+param=spell_graphic1_on_597,"magicon2,32"
+param=spell_graphic1_off_598,"magicoff2,32"
+param=spell_graphic2_on_599,"2x_standard_spells_on,32"
+param=spell_graphic2_off_600,"2x_standard_spells_off,32"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,2
 
 [dummy_telescope_4557]
 model=telescope_1174
@@ -51920,173 +52681,487 @@ placeholder=yes
 [cert_bandits_brew_4628]
 certificate=yes
 
-[dummy_clue_scroll_easy_4629]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4629]
+model=model_16238
+param=spell_name_601,Smoke Rush
+param=spell_desc_602,A single target smoke attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,50
+param=spell_button_596,interface_218:82
+param=spell_graphic1_on_597,"magicon2,10"
+param=spell_graphic1_off_598,"magicoff2,10"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,4"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,4"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,1
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,1
 
-[dummy_clue_scroll_easy_4630]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4630]
+model=model_16238
+param=spell_name_601,Shadow Rush
+param=spell_desc_602,A single target shadow attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,52
+param=spell_button_596,interface_218:86
+param=spell_graphic1_on_597,"magicon2,18"
+param=spell_graphic1_off_598,"magicoff2,18"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,12"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,12"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,soul_rune_566
+param=magic_runecount_3_370,1
+param=magic_runetype_4_606,air_rune_556
+param=magic_runecount_4_607,1
 
-[dummy_clue_scroll_easy_4631]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4631]
+model=model_16238
+param=spell_name_601,Paddewwa Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,54
+param=spell_button_596,interface_218:90
+param=spell_graphic1_on_597,"magicon2,22"
+param=spell_graphic1_off_598,"magicoff2,22"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,16"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,16"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_4632]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4632]
+model=model_16238
+param=spell_name_601,Blood Rush
+param=spell_desc_602,A single target blood attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,56
+param=spell_button_596,interface_218:78
+param=spell_graphic1_on_597,"magicon2,14"
+param=spell_graphic1_off_598,"magicoff2,14"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,8"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,8"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_4633]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4633]
+model=model_16238
+param=spell_name_601,Ice Rush
+param=spell_desc_602,A single target ice attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,58
+param=spell_button_596,interface_218:74
+param=spell_graphic1_on_597,"magicon2,6"
+param=spell_graphic1_off_598,"magicoff2,6"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,0"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,0"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_4634]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4634]
+model=model_16238
+param=spell_name_601,Senntisten Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,60
+param=spell_button_596,interface_218:91
+param=spell_graphic1_on_597,"magicon2,23"
+param=spell_graphic1_off_598,"magicoff2,23"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,17"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,17"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
 
-[dummy_clue_scroll_easy_4635]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4635]
+model=model_16238
+param=spell_name_601,Smoke Burst
+param=spell_desc_602,A multi-target smoke attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,62
+param=spell_button_596,interface_218:84
+param=spell_graphic1_on_597,"magicon2,11"
+param=spell_graphic1_off_598,"magicoff2,11"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,5"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,5"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,2
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,2
 
-[dummy_clue_scroll_easy_4636]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4636]
+model=model_16238
+param=spell_name_601,Shadow Burst
+param=spell_desc_602,A multi-target shadow attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,64
+param=spell_button_596,interface_218:88
+param=spell_graphic1_on_597,"magicon2,19"
+param=spell_graphic1_off_598,"magicoff2,19"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,13"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,13"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,soul_rune_566
+param=magic_runecount_3_370,2
+param=magic_runetype_4_606,air_rune_556
+param=magic_runecount_4_607,1
 
-[dummy_clue_scroll_easy_4637]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4637]
+model=model_16238
+param=spell_name_601,Kharyrll Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,66
+param=spell_button_596,interface_218:92
+param=spell_graphic1_on_597,"magicon2,24"
+param=spell_graphic1_off_598,"magicoff2,24"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,18"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,18"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,1
 
-[dummy_clue_scroll_easy_4638]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4638]
+model=model_16238
+param=spell_name_601,Blood Burst
+param=spell_desc_602,A multi-target blood attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,68
+param=spell_button_596,interface_218:80
+param=spell_graphic1_on_597,"magicon2,15"
+param=spell_graphic1_off_598,"magicoff2,15"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,9"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,9"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_4639]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4639]
+model=model_16238
+param=spell_name_601,Ice Burst
+param=spell_desc_602,A multi-target ice attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,70
+param=spell_button_596,interface_218:76
+param=spell_graphic1_on_597,"magicon2,7"
+param=spell_graphic1_off_598,"magicoff2,7"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,1"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,1"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,chaos_rune_562
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,4
 
-[dummy_clue_scroll_easy_4640]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4640]
+model=model_16238
+param=spell_name_601,Lassar Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,72
+param=spell_button_596,interface_218:93
+param=spell_graphic1_on_597,"magicon2,25"
+param=spell_graphic1_off_598,"magicoff2,25"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,19"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,19"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,4
 
-[dummy_clue_scroll_easy_4641]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4641]
+model=model_16238
+param=spell_name_601,Smoke Blitz
+param=spell_desc_602,A single target strong smoke attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,74
+param=spell_button_596,interface_218:83
+param=spell_graphic1_on_597,"magicon2,12"
+param=spell_graphic1_off_598,"magicoff2,12"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,6"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,6"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,2
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,2
 
-[dummy_clue_scroll_easy_4642]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4642]
+model=model_16238
+param=spell_name_601,Shadow Blitz
+param=spell_desc_602,A single target strong shadow attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,76
+param=spell_button_596,interface_218:87
+param=spell_graphic1_on_597,"magicon2,20"
+param=spell_graphic1_off_598,"magicoff2,20"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,14"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,14"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,soul_rune_566
+param=magic_runecount_3_370,2
+param=magic_runetype_4_606,air_rune_556
+param=magic_runecount_4_607,2
 
-[dummy_clue_scroll_easy_4643]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4643]
+model=model_16238
+param=spell_name_601,Dareeyak Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,78
+param=spell_button_596,interface_218:94
+param=spell_graphic1_on_597,"magicon2,26"
+param=spell_graphic1_off_598,"magicoff2,26"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,20"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,20"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_4644]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4644]
+model=model_16238
+param=spell_name_601,Blood Blitz
+param=spell_desc_602,A single target strong blood attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,80
+param=spell_button_596,interface_218:79
+param=spell_graphic1_on_597,"magicon2,16"
+param=spell_graphic1_off_598,"magicoff2,16"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,10"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,10"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,4
 
-[dummy_clue_scroll_easy_4645]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4645]
+model=model_16238
+param=spell_name_601,Ice Blitz
+param=spell_desc_602,A single target strong ice attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,82
+param=spell_button_596,interface_218:75
+param=spell_graphic1_on_597,"magicon2,8"
+param=spell_graphic1_off_598,"magicoff2,8"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,2"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,2"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_4646]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4646]
+model=model_16238
+param=spell_name_601,Carrallangar Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,84
+param=spell_button_596,interface_218:95
+param=spell_graphic1_on_597,"magicon2,27"
+param=spell_graphic1_off_598,"magicoff2,27"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,21"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,21"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,2
 
-[dummy_clue_scroll_easy_4647]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4647]
+model=model_16238
+param=spell_name_601,Smoke Barrage
+param=spell_desc_602,A multi-target strong smoke attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,86
+param=spell_button_596,interface_218:85
+param=spell_graphic1_on_597,"magicon2,13"
+param=spell_graphic1_off_598,"magicoff2,13"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,7"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,7"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,4
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,4
 
-[dummy_clue_scroll_easy_4648]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4648]
+model=model_16238
+param=spell_name_601,Shadow Barrage
+param=spell_desc_602,A multi-target strong shadow attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,88
+param=spell_button_596,interface_218:89
+param=spell_graphic1_on_597,"magicon2,21"
+param=spell_graphic1_off_598,"magicoff2,21"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,15"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,15"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,soul_rune_566
+param=magic_runecount_3_370,3
+param=magic_runetype_4_606,air_rune_556
+param=magic_runecount_4_607,4
 
-[dummy_clue_scroll_easy_4649]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4649]
+model=model_16238
+param=spell_name_601,Annakarl Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,90
+param=spell_button_596,interface_218:96
+param=spell_graphic1_on_597,"magicon2,28"
+param=spell_graphic1_off_598,"magicoff2,28"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,22"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,22"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
 
-[dummy_clue_scroll_easy_4650]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4650]
+model=model_16238
+param=spell_name_601,Blood Barrage
+param=spell_desc_602,A multi-target strong blood attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,92
+param=spell_button_596,interface_218:81
+param=spell_graphic1_on_597,"magicon2,17"
+param=spell_graphic1_off_598,"magicoff2,17"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,11"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,11"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,soul_rune_566
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_4651]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4651]
+model=model_16238
+param=spell_name_601,Ice Barrage
+param=spell_desc_602,A multi-target strong ice attack
+param=spell_spellbook_336,1
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,94
+param=spell_button_596,interface_218:77
+param=spell_graphic1_on_597,"magicon2,9"
+param=spell_graphic1_off_598,"magicoff2,9"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,3"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,3"
+param=magic_runetype_1_365,death_rune_560
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,blood_rune_565
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,6
 
-[dummy_clue_scroll_easy_4652]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_4652]
+model=model_16238
+param=spell_name_601,Ghorrock Teleport
+param=spell_desc_602,A teleportation spell
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,96
+param=spell_button_596,interface_218:97
+param=spell_graphic1_on_597,"magicon2,29"
+param=spell_graphic1_off_598,"magicoff2,29"
+param=spell_graphic2_on_599,"2x_ancient_spells_on,23"
+param=spell_graphic2_off_600,"2x_ancient_spells_off,23"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,8
 
 [fire_4653]
 name=Fire
@@ -57458,12 +58533,19 @@ placeholder=yes
 [cert_veracs_plateskirt_0_4999]
 certificate=yes
 
-[dummy_clue_scroll_easy_5000]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_5000]
+model=model_16238
+param=spell_name_601,Enchant Crossbow Bolt
+param=spell_desc_602,Minimum level 4 Magic Multiple other requirements
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,4
+param=spell_button_596,interface_218:7
+param=spell_graphic1_on_597,"magicon2,39"
+param=spell_graphic1_off_598,"magicoff2,39"
+param=spell_graphic2_on_599,"2x_standard_spells_on,65"
+param=spell_graphic2_off_600,"2x_standard_spells_off,65"
 
 [raw_cave_eel_5001]
 name=Raw cave eel
@@ -70717,6 +71799,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Imp
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,12
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,body_rune_559
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=spell_button_596,interface_218:147
+param=spell_graphic1_on_597,"magic_necro_on,11"
+param=spell_graphic1_off_598,"magic_necro_off,11"
+param=spell_graphic2_on_599,"2x_necro_spells_on,11"
+param=spell_graphic2_off_600,"2x_necro_spells_off,11"
 
 [small_fishing_net_6209]
 name=Small fishing net
@@ -74933,12 +76030,25 @@ recol5s=10465
 recol5d=-14784
 stackable=yes
 
-[dummy_clue_scroll_easy_6567]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_6567]
+model=model_16238
+param=spell_name_601,Lvl-6 Enchant
+param=spell_desc_602,For use on onyx jewellery
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,87
+param=spell_button_596,interface_218:69
+param=spell_graphic1_on_597,"magicon2,34"
+param=spell_graphic1_off_598,"magicoff2,34"
+param=spell_graphic2_on_599,"2x_standard_spells_on,38"
+param=spell_graphic2_off_600,"2x_standard_spells_off,38"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,20
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,20
 
 [obsidian_cape_6568]
 name=Obsidian cape
@@ -77676,6 +78786,23 @@ model=watering_can_4_7327
 2dyof=-9
 2dxan=176
 2dyan=1788
+param=spell_name_601,Geomancy
+param=spell_desc_602,Checks the status of your main Farming patches
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,65
+param=spell_button_596,interface_218:140
+param=spell_graphic1_on_597,"lunar_magic_on,20"
+param=spell_graphic1_off_598,"lunar_magic_off,20"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,15"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,15"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,8
 
 [earth_warrior_champion_scroll_6798]
 name=Earth warrior champion scroll
@@ -78847,12 +79974,25 @@ iop1=Eat
 members=yes
 placeholder=yes
 
-[dummy_clue_scroll_easy_6884]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_6884]
+model=model_16238
+param=spell_name_601,Bones to Peaches
+param=spell_desc_602,Turns Bones into Peaches
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,60
+param=spell_button_596,interface_218:44
+param=spell_graphic1_on_597,"magicon2,35"
+param=spell_graphic1_off_598,"magicoff2,35"
+param=spell_graphic2_on_599,"2x_standard_spells_on,69"
+param=spell_graphic2_off_600,"2x_standard_spells_off,69"
+param=magic_runetype_1_365,nature_rune_561
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,4
 
 [progress_hat_6885]
 name=Progress hat
@@ -78939,6 +80079,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Minotaur
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,16
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,body_rune_559
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=spell_button_596,interface_218:148
+param=spell_graphic1_on_597,"magic_necro_on,12"
+param=spell_graphic1_off_598,"magic_necro_off,12"
+param=spell_graphic2_on_599,"2x_necro_spells_on,12"
+param=spell_graphic2_off_600,"2x_necro_spells_off,12"
 
 [mages_book_6889]
 name=Mage's book
@@ -86652,12 +87807,27 @@ model=item_13402
 name=Item
 model=item_13403
 
-[dummy_clue_scroll_easy_7619]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_7619]
+model=model_16238
+param=spell_name_601,Teleport to Ape Atoll
+param=spell_desc_602,Teleports you to Ape Atoll
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,64
+param=spell_button_596,interface_218:51
+param=spell_graphic1_on_597,"magicon2,38"
+param=spell_graphic1_off_598,"magicoff2,38"
+param=spell_graphic2_on_599,"2x_standard_spells_on,28"
+param=spell_graphic2_off_600,"2x_standard_spells_off,28"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,2
+param=magic_runetype_4_606,banana_1963
+param=magic_runecount_4_607,1
 
 [obj_7620]
 name=
@@ -92042,14 +93212,24 @@ model=small_landscape_12500
 ambient=100
 contrast=100
 
-[dummy_priest_gown_8092]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-recol1s=25238
-recol1d=-2608
+[dummy_wall_8092]
+model=model_16238
+members=yes
+param=spell_name_601,Respawn Teleport
+param=spell_desc_602,Teleports you to your respawn location
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,34
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
+param=spell_button_596,interface_218:156
+param=spell_graphic1_on_597,"magic_necro_on,25"
+param=spell_graphic1_off_598,"magic_necro_off,25"
+param=spell_graphic2_on_599,"2x_necro_spells_on,25"
+param=spell_graphic2_off_600,"2x_necro_spells_off,25"
 
 [large_portrait_8093]
 name=Large portrait
@@ -94642,44 +95822,47 @@ model=crafting_table_4_12185
 [tool_store_1_8384]
 name=Tool store 1
 model=tool_store_1_12597
-2dzoom=2151
-2dxof=-7
-2dyof=31
-2dxan=18
-2dyan=552
+2dzoom=2730
+2dyof=33
+2dyan=512
+ambient=25
+contrast=25
 
 [tool_store_2_8385]
 name=Tool store 2
 model=tool_store_2_12598
-2dzoom=2086
-2dxof=5
-2dyof=12
-2dxan=14
-2dyan=595
+2dzoom=2730
+2dyof=33
+2dyan=512
+ambient=25
+contrast=25
 
 [tool_store_3_8386]
 name=Tool store 3
 model=tool_store_3_12599
-2dzoom=2151
-2dxof=18
-2dyof=16
-2dyan=415
+2dzoom=2730
+2dyof=33
+2dyan=512
+ambient=25
+contrast=25
 
 [tool_store_4_8387]
 name=Tool store 4
 model=tool_store_4_12600
-2dzoom=2605
-2dxof=15
-2dyof=15
-2dyan=387
+2dzoom=2300
+2dyof=46
+2dyan=512
+ambient=25
+contrast=25
 
 [tool_store_5_8388]
 name=Tool store 5
 model=tool_store_5_12601
-2dzoom=2735
-2dxof=7
-2dyof=7
-2dyan=443
+2dzoom=3050
+2dyof=25
+2dyan=512
+ambient=25
+contrast=25
 
 [repair_bench_8389]
 name=Repair bench
@@ -99601,6 +100784,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Elf
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,43
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,2
+param=spell_button_596,interface_218:160
+param=spell_graphic1_on_597,"magic_necro_on,3"
+param=spell_graphic1_off_598,"magic_necro_off,3"
+param=spell_graphic2_on_599,"2x_necro_spells_on,3"
+param=spell_graphic2_off_600,"2x_necro_spells_off,3"
 
 [dummy_baby_red_dragon_8797]
 model=baby_red_dragon_2998
@@ -99768,12 +100968,25 @@ model=model_12851
 manwear=model_12851,0
 womanwear=model_12851,0
 
-[dummy_clue_scroll_easy_8828]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_8828]
+model=model_16238
+param=spell_name_601,Teleport to House
+param=spell_desc_602,Teleports you to your house
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,40
+param=spell_button_596,interface_218:27
+param=spell_graphic1_on_597,"magicon2,36"
+param=spell_graphic1_off_598,"magicoff2,36"
+param=spell_graphic2_on_599,"2x_standard_spells_on,23"
+param=spell_graphic2_off_600,"2x_standard_spells_off,23"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,1
 
 [obj_8829]
 model=model_15149
@@ -103197,222 +104410,623 @@ recol1d=-4004
 members=yes
 placeholder=yes
 
-[dummy_clue_scroll_easy_9107]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9107]
+model=model_16238
+param=spell_name_601,Bake Pie
+param=spell_desc_602,Bake pies without a stove
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,65
+param=spell_button_596,interface_218:100
+param=spell_graphic1_on_597,"lunar_magic_on,0"
+param=spell_graphic1_off_598,"lunar_magic_off,0"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,0"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,0"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_9108]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9108]
+model=model_16238
+param=spell_name_601,Cure Plant
+param=spell_desc_602,Cures disease on farming patch
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,66
+param=spell_button_596,interface_218:101
+param=spell_graphic1_on_597,"lunar_magic_on,24"
+param=spell_graphic1_off_598,"lunar_magic_off,24"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,16"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,16"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,8
 
-[dummy_clue_scroll_easy_9109]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9109]
+model=model_16238
+param=spell_name_601,NPC Contact
+param=spell_desc_602,Speak with various NPCs
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,67
+param=spell_button_596,interface_218:103
+param=spell_graphic1_on_597,"lunar_magic_on,25"
+param=spell_graphic1_off_598,"lunar_magic_off,25"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,17"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,17"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,cosmic_rune_564
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_9110]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9110]
+model=model_16238
+param=spell_name_601,Cure Other
+param=spell_desc_602,Cure poisoned players
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,68
+param=spell_button_596,interface_218:104
+param=spell_graphic1_on_597,"lunar_magic_on,16"
+param=spell_graphic1_off_598,"lunar_magic_off,16"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,10"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,10"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,law_rune_563
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9111]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9111]
+model=model_16238
+param=spell_name_601,Moonclan Teleport
+param=spell_desc_602,Teleports you to Moonclan Island
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,69
+param=spell_button_596,interface_218:106
+param=spell_graphic1_on_597,"lunar_magic_on,1"
+param=spell_graphic1_off_598,"lunar_magic_off,1"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,28"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,28"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_9112]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9112]
+model=model_16238
+param=spell_name_601,Tele Group Moonclan
+param=spell_desc_602,Teleports players to Moonclan Island
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,70
+param=spell_button_596,interface_218:107
+param=spell_graphic1_on_597,"lunar_magic_on,26"
+param=spell_graphic1_off_598,"lunar_magic_off,26"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,36"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,36"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,4
 
-[dummy_clue_scroll_easy_9113]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9113]
+model=model_16238
+param=spell_name_601,Cure Me
+param=spell_desc_602,Cure Poison
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,71
+param=spell_button_596,interface_218:108
+param=spell_graphic1_on_597,"lunar_magic_on,19"
+param=spell_graphic1_off_598,"lunar_magic_off,19"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,12"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,12"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,cosmic_rune_564
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,law_rune_563
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_9114]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9114]
+model=model_16238
+param=spell_name_601,Waterbirth Teleport
+param=spell_desc_602,Teleports you to Waterbirth Island
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,72
+param=spell_button_596,interface_218:110
+param=spell_graphic1_on_597,"lunar_magic_on,2"
+param=spell_graphic1_off_598,"lunar_magic_off,2"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,30"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,30"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_9115]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9115]
+model=model_16238
+param=spell_name_601,Tele Group Waterbirth
+param=spell_desc_602,Teleports players to Waterbirth Island
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,73
+param=spell_button_596,interface_218:111
+param=spell_graphic1_on_597,"lunar_magic_on,27"
+param=spell_graphic1_off_598,"lunar_magic_off,27"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,37"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,37"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_9116]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9116]
+model=model_16238
+param=spell_name_601,Cure Group
+param=spell_desc_602,Cure poison on players
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,74
+param=spell_button_596,interface_218:112
+param=spell_graphic1_on_597,"lunar_magic_on,22"
+param=spell_graphic1_off_598,"lunar_magic_off,22"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,13"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,13"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,cosmic_rune_564
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,law_rune_563
+param=magic_runecount_3_370,2
 
-[dummy_clue_scroll_easy_9117]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9117]
+model=model_16238
+param=spell_name_601,Barbarian Teleport
+param=spell_desc_602,Teleports you to the Barbarian Outpost
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,75
+param=spell_button_596,interface_218:114
+param=spell_graphic1_on_597,"lunar_magic_on,4"
+param=spell_graphic1_off_598,"lunar_magic_off,4"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,31"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,31"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,3
 
-[dummy_clue_scroll_easy_9118]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9118]
+model=model_16238
+param=spell_name_601,Tele Group Barbarian
+param=spell_desc_602,Teleports players to the Barbarian Outpost
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,76
+param=spell_button_596,interface_218:115
+param=spell_graphic1_on_597,"lunar_magic_on,28"
+param=spell_graphic1_off_598,"lunar_magic_off,28"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,38"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,38"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,6
 
-[dummy_clue_scroll_easy_9119]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9119]
+model=model_16238
+param=spell_name_601,Superglass Make
+param=spell_desc_602,Make glass without a furnace
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,77
+param=spell_button_596,interface_218:116
+param=spell_graphic1_on_597,"lunar_magic_on,5"
+param=spell_graphic1_off_598,"lunar_magic_off,5"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,1"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,1"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,6
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9120]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9120]
+model=model_16238
+param=spell_name_601,Khazard Teleport
+param=spell_desc_602,Teleports you to Port Khazard
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,78
+param=spell_button_596,interface_218:118
+param=spell_graphic1_on_597,"lunar_magic_on,6"
+param=spell_graphic1_off_598,"lunar_magic_off,6"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,32"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,32"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,4
 
-[dummy_clue_scroll_easy_9121]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9121]
+model=model_16238
+param=spell_name_601,Tele Group Khazard
+param=spell_desc_602,Teleports players to Port Khazard
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,79
+param=spell_button_596,interface_218:119
+param=spell_graphic1_on_597,"lunar_magic_on,29"
+param=spell_graphic1_off_598,"lunar_magic_off,29"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,39"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,39"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,8
 
-[dummy_clue_scroll_easy_9122]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9122]
+model=model_16238
+param=spell_name_601,String Jewellery
+param=spell_desc_602,String amulets without wool
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,80
+param=spell_button_596,interface_218:121
+param=spell_graphic1_on_597,"lunar_magic_on,7"
+param=spell_graphic1_off_598,"lunar_magic_off,7"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,2"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,2"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,5
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9123]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9123]
+model=model_16238
+param=spell_name_601,Stat Restore Pot Share
+param=spell_desc_602,Shares a potion with up to 4 nearby players
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,81
+param=spell_button_596,interface_218:122
+param=spell_graphic1_on_597,"lunar_magic_on,11"
+param=spell_graphic1_off_598,"lunar_magic_off,11"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,4"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,4"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,10
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9124]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9124]
+model=model_16238
+param=spell_name_601,Magic Imbue
+param=spell_desc_602,Combine runes without a talisman
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,82
+param=spell_button_596,interface_218:123
+param=spell_graphic1_on_597,"lunar_magic_on,9"
+param=spell_graphic1_off_598,"lunar_magic_off,9"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,5"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,5"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,7
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,7
 
-[dummy_clue_scroll_easy_9125]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9125]
+model=model_16238
+param=spell_name_601,Fertile Soil
+param=spell_desc_602,Fertilise a farming patch with super compost
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,83
+param=spell_button_596,interface_218:124
+param=spell_graphic1_on_597,"lunar_magic_on,10"
+param=spell_graphic1_off_598,"lunar_magic_off,10"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,6"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,6"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,15
 
-[dummy_clue_scroll_easy_9126]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9126]
+model=model_16238
+param=spell_name_601,Boost Potion Share
+param=spell_desc_602,Shares a potion with up to 4 nearby players
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,84
+param=spell_button_596,interface_218:125
+param=spell_graphic1_on_597,"lunar_magic_on,8"
+param=spell_graphic1_off_598,"lunar_magic_off,8"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,3"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,3"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,10
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,12
 
-[dummy_clue_scroll_easy_9127]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9127]
+model=model_16238
+param=spell_name_601,Fishing Guild Teleport
+param=spell_desc_602,Teleports you to the Fishing Guild
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,85
+param=spell_button_596,interface_218:126
+param=spell_graphic1_on_597,"lunar_magic_on,12"
+param=spell_graphic1_off_598,"lunar_magic_off,12"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,33"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,33"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9128]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9128]
+model=model_16238
+param=spell_name_601,Tele Group Fishing Guild
+param=spell_desc_602,Teleports players to the Fishing Guild
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,86
+param=spell_button_596,interface_218:127
+param=spell_graphic1_on_597,"lunar_magic_on,30"
+param=spell_graphic1_off_598,"lunar_magic_off,30"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,40"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,40"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,14
 
-[dummy_clue_scroll_easy_9129]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9129]
+model=model_16238
+param=spell_name_601,Catherby Teleport
+param=spell_desc_602,Teleports you to Catherby
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,87
+param=spell_button_596,interface_218:129
+param=spell_graphic1_on_597,"lunar_magic_on,13"
+param=spell_graphic1_off_598,"lunar_magic_off,13"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,34"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,34"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9130]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9130]
+model=model_16238
+param=spell_name_601,Tele Group Catherby
+param=spell_desc_602,Teleports players to Catherby
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,88
+param=spell_button_596,interface_218:130
+param=spell_graphic1_on_597,"lunar_magic_on,31"
+param=spell_graphic1_off_598,"lunar_magic_off,31"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,41"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,41"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,15
 
-[dummy_clue_scroll_easy_9131]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9131]
+model=model_16238
+param=spell_name_601,Ice Plateau Teleport
+param=spell_desc_602,Teleports you to Ice Plateau
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,89
+param=spell_button_596,interface_218:132
+param=spell_graphic1_on_597,"lunar_magic_on,14"
+param=spell_graphic1_off_598,"lunar_magic_off,14"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,35"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,35"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,8
 
-[dummy_clue_scroll_easy_9132]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9132]
+model=model_16238
+param=spell_name_601,Tele Group Ice Plateau
+param=spell_desc_602,Teleports players to Ice Plateau
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,90
+param=spell_button_596,interface_218:133
+param=spell_graphic1_on_597,"lunar_magic_on,32"
+param=spell_graphic1_off_598,"lunar_magic_off,32"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,42"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,42"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,16
 
-[dummy_clue_scroll_easy_9133]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9133]
+model=model_16238
+param=spell_name_601,Energy Transfer
+param=spell_desc_602,Spend Hitpoints and SA energy to give another SA and run energy
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,91
+param=spell_button_596,interface_218:134
+param=spell_graphic1_on_597,"lunar_magic_on,15"
+param=spell_graphic1_off_598,"lunar_magic_off,15"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,7"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,7"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,law_rune_563
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,nature_rune_561
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_9134]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9134]
+model=model_16238
+param=spell_name_601,Heal Other
+param=spell_desc_602,Transfers up to 75% of Hitpoints to another player
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,92
+param=spell_button_596,interface_218:135
+param=spell_graphic1_on_597,"lunar_magic_on,17"
+param=spell_graphic1_off_598,"lunar_magic_off,17"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,11"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,11"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,law_rune_563
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_9135]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9135]
+model=model_16238
+param=spell_name_601,Vengeance Other
+param=spell_desc_602,Allows another player to rebound damage to an opponent
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,93
+param=spell_button_596,interface_218:136
+param=spell_graphic1_on_597,"lunar_magic_on,18"
+param=spell_graphic1_off_598,"lunar_magic_off,18"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,8"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,8"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,death_rune_560
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9136]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9136]
+model=model_16238
+param=spell_name_601,Vengeance
+param=spell_desc_602,Rebound damage to an opponent
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,94
+param=spell_button_596,interface_218:137
+param=spell_graphic1_on_597,"lunar_magic_on,21"
+param=spell_graphic1_off_598,"lunar_magic_off,21"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,9"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,9"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,death_rune_560
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,10
 
-[dummy_clue_scroll_easy_9137]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9137]
+model=model_16238
+param=spell_name_601,Heal Group
+param=spell_desc_602,Transfers up to 75% of Hitpoints to a group
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,95
+param=spell_button_596,interface_218:138
+param=spell_graphic1_on_597,"lunar_magic_on,23"
+param=spell_graphic1_off_598,"lunar_magic_off,23"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,14"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,14"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,law_rune_563
+param=magic_runecount_2_368,6
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,3
 
 [dummy_logs_9138]
 model=logs_7760
@@ -112490,12 +114104,19 @@ recol5s=9550
 recol5d=117
 ambient=15
 
-[dummy_clue_scroll_easy_9712]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_9712]
+model=model_16238
+param=spell_name_601,Lumbridge Home Teleport
+param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,0
+param=spell_button_596,interface_218:4
+param=spell_graphic1_on_597,"magicon2,37"
+param=spell_graphic1_off_598,"magicoff2,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,70"
+param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
 [obj_9713]
 model=model_18513
@@ -123051,6 +124672,23 @@ model=priest_gown_2521
 2dxan=572
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Troll
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,46
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,3
+param=spell_button_596,interface_218:161
+param=spell_graphic1_on_597,"magic_necro_on,5"
+param=spell_graphic1_off_598,"magic_necro_off,5"
+param=spell_graphic2_on_599,"2x_necro_spells_on,5"
+param=spell_graphic2_off_600,"2x_necro_spells_off,5"
 
 [scroll_10512]
 name=Scroll
@@ -131515,68 +133153,171 @@ recol2s=11183
 recol2d=563
 members=yes
 
-[dummy_clue_scroll_easy_11142]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11142]
+model=model_16238
+param=spell_name_601,Edgeville Home Teleport
+param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,0
+param=spell_button_596,interface_218:98
+param=spell_graphic1_on_597,"magicon2,37"
+param=spell_graphic1_off_598,"magicoff2,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,70"
+param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
-[dummy_clue_scroll_easy_11143]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11143]
+model=model_16238
+param=spell_name_601,Lunar Home Teleport
+param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,0
+param=spell_button_596,interface_218:99
+param=spell_graphic1_on_597,"magicon2,37"
+param=spell_graphic1_off_598,"magicoff2,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,70"
+param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
-[dummy_clue_scroll_easy_11144]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11144]
+model=model_16238
+param=spell_name_601,Monster Examine
+param=spell_desc_602,Detect the combat statistics of a monster
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,66
+param=spell_button_596,interface_218:102
+param=spell_graphic1_on_597,"lunar_magic_on,34"
+param=spell_graphic1_off_598,"lunar_magic_off,34"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,19"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,19"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,cosmic_rune_564
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,mind_rune_558
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_11145]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11145]
+model=model_16238
+param=spell_name_601,Humidify
+param=spell_desc_602,Fills certain vessels with water
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,68
+param=spell_button_596,interface_218:105
+param=spell_graphic1_on_597,"lunar_magic_on,35"
+param=spell_graphic1_off_598,"lunar_magic_off,35"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,20"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,20"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,1
 
-[dummy_clue_scroll_easy_11146]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11146]
+model=model_16238
+param=spell_name_601,Hunter Kit
+param=spell_desc_602,Get a kit of hunter gear
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,71
+param=spell_button_596,interface_218:109
+param=spell_graphic1_on_597,"lunar_magic_on,36"
+param=spell_graphic1_off_598,"lunar_magic_off,36"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,21"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,21"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,2
 
-[dummy_clue_scroll_easy_11147]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11147]
+model=model_16238
+param=spell_name_601,Stat Spy
+param=spell_desc_602,Cast on another player to see their skill levels
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,75
+param=spell_button_596,interface_218:113
+param=spell_graphic1_on_597,"lunar_magic_on,33"
+param=spell_graphic1_off_598,"lunar_magic_off,33"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,18"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,18"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,cosmic_rune_564
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_11148]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11148]
+model=model_16238
+param=spell_name_601,Dream
+param=spell_desc_602,Take a rest and restore Hitpoints 3 times faster
+param=spell_spellbook_336,2
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,79
+param=spell_button_596,interface_218:120
+param=spell_graphic1_on_597,"lunar_magic_on,37"
+param=spell_graphic1_off_598,"lunar_magic_off,37"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,22"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,22"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,cosmic_rune_564
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,5
 
-[dummy_clue_scroll_easy_11149]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11149]
+model=model_16238
+param=spell_name_601,Plank Make
+param=spell_desc_602,Turn logs into planks
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,86
+param=spell_button_596,interface_218:128
+param=spell_graphic1_on_597,"lunar_magic_on,38"
+param=spell_graphic1_off_598,"lunar_magic_off,38"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,23"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,23"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,15
 
-[dummy_clue_scroll_easy_11150]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_11150]
+model=model_16238
+param=spell_name_601,Spellbook Swap
+param=spell_desc_602,Change to another spellbook for 1 spell cast
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,96
+param=spell_button_596,interface_218:139
+param=spell_graphic1_on_597,"lunar_magic_on,39"
+param=spell_graphic1_off_598,"lunar_magic_off,39"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,24"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,24"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,cosmic_rune_564
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,law_rune_563
+param=magic_runecount_3_370,1
 
 [dream_vial_empty_11151]
 name=Dream vial (empty)
@@ -140765,9 +142506,10 @@ model=trident_of_the_seas_full_28232
 manwear=trident_of_the_seas_full_28230,0
 womanwear=trident_of_the_seas_full_28230,6
 cost=69000
-2dzoom=2350
-2dxan=1505
-2dyan=1850
+2dzoom=2042
+2dyof=3
+2dxan=1670
+2dyan=1778
 iop2=Wield
 iop3=Check
 iop4=Uncharge
@@ -140786,9 +142528,10 @@ model=trident_of_the_seas_full_28232
 manwear=trident_of_the_seas_full_28230,0
 womanwear=trident_of_the_seas_full_28230,6
 cost=68500
-2dzoom=2350
-2dxan=1505
-2dyan=1850
+2dzoom=2042
+2dyof=3
+2dxan=1670
+2dyan=1778
 iop2=Wield
 iop3=Check
 iop4=Uncharge
@@ -140801,9 +142544,10 @@ model=trident_of_the_seas_full_28232
 manwear=trident_of_the_seas_full_28230,0
 womanwear=trident_of_the_seas_full_28230,6
 cost=68000
-2dzoom=2350
-2dxan=1505
-2dyan=1850
+2dzoom=2042
+2dyof=3
+2dxan=1670
+2dyan=1778
 iop2=Wield
 iop3=Check
 members=yes
@@ -141829,6 +143573,21 @@ recol1d=119
 resizex=90
 resizey=90
 resizez=90
+param=spell_name_601,Reanimate Goblin
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,3
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,body_rune_559
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,1
+param=spell_button_596,interface_218:144
+param=spell_graphic1_on_597,"magic_necro_on,0"
+param=spell_graphic1_off_598,"magic_necro_off,0"
+param=spell_graphic2_on_599,"2x_necro_spells_on,0"
+param=spell_graphic2_off_600,"2x_necro_spells_off,0"
 
 [smoke_battlestaff_11998]
 name=Smoke battlestaff
@@ -167903,6 +169662,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Scorpion
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,19
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,1
+param=spell_button_596,interface_218:150
+param=spell_graphic1_on_597,"magic_necro_on,10"
+param=spell_graphic1_off_598,"magic_necro_off,10"
+param=spell_graphic2_on_599,"2x_necro_spells_on,10"
+param=spell_graphic2_off_600,"2x_necro_spells_off,10"
 
 [placeholder_kalphite_princess_15298]
 placeholder=yes
@@ -167928,6 +169702,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Unicorn
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,22
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,2
+param=spell_button_596,interface_218:152
+param=spell_graphic1_on_597,"magic_necro_on,13"
+param=spell_graphic1_off_598,"magic_necro_off,13"
+param=spell_graphic2_on_599,"2x_necro_spells_on,13"
+param=spell_graphic2_off_600,"2x_necro_spells_off,13"
 
 [dummy_priest_gown_15304]
 name=Null
@@ -167938,6 +169729,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Dog
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,26
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,2
+param=spell_button_596,interface_218:153
+param=spell_graphic1_on_597,"magic_necro_on,21"
+param=spell_graphic1_off_598,"magic_necro_off,21"
+param=spell_graphic2_on_599,"2x_necro_spells_on,21"
+param=spell_graphic2_off_600,"2x_necro_spells_off,21"
 
 [placeholder_chompy_chick_15305]
 placeholder=yes
@@ -167960,6 +169768,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Bear
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,21
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:151
+param=spell_graphic1_on_597,"magic_necro_on,9"
+param=spell_graphic1_off_598,"magic_necro_off,9"
+param=spell_graphic2_on_599,"2x_necro_spells_on,9"
+param=spell_graphic2_off_600,"2x_necro_spells_off,9"
 
 [placeholder_scorpias_offspring_15310]
 placeholder=yes
@@ -168072,6 +169897,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Chaos Druid
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,30
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,3
+param=spell_button_596,interface_218:155
+param=spell_graphic1_on_597,"magic_necro_on,4"
+param=spell_graphic1_off_598,"magic_necro_off,4"
+param=spell_graphic2_on_599,"2x_necro_spells_on,4"
+param=spell_graphic2_off_600,"2x_necro_spells_off,4"
 
 [dummy_priest_gown_15345]
 name=Null
@@ -168082,6 +169924,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Giant
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,37
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,4
+param=spell_button_596,interface_218:157
+param=spell_graphic1_on_597,"magic_necro_on,8"
+param=spell_graphic1_off_598,"magic_necro_off,8"
+param=spell_graphic2_on_599,"2x_necro_spells_on,8"
+param=spell_graphic2_off_600,"2x_necro_spells_off,8"
 
 [dummy_priest_gown_15346]
 name=Null
@@ -168092,6 +169951,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Ogre
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,40
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,4
+param=spell_button_596,interface_218:159
+param=spell_graphic1_on_597,"magic_necro_on,7"
+param=spell_graphic1_off_598,"magic_necro_off,7"
+param=spell_graphic2_on_599,"2x_necro_spells_on,7"
+param=spell_graphic2_off_600,"2x_necro_spells_off,7"
 
 [placeholder_yin_yang_amulet_15347]
 placeholder=yes
@@ -173523,7 +175399,23 @@ model=orb_of_light_3176
 2dyan=1700
 recol1s=1500
 recol1d=4
-members=yes
+param=spell_name_601,Teleport to Bounty Target
+param=spell_desc_602,Teleports you near your Bounty Hunter target
+param=spell_spellbook_336,-1
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,85
+param=spell_button_596,interface_218:68
+param=spell_graphic1_on_597,"magicon2,40"
+param=spell_graphic1_off_598,"magicoff2,40"
+param=spell_graphic2_on_599,"2x_standard_spells_on,67"
+param=spell_graphic2_off_600,"2x_standard_spells_off,67"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,death_rune_560
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,chaos_rune_562
+param=magic_runecount_3_370,1
 
 [placeholder_orb_of_light_17153]
 placeholder=yes
@@ -180509,12 +182401,25 @@ placeholder=yes
 [placeholder_bag_full_of_gems_19474]
 placeholder=yes
 
-[dummy_clue_scroll_easy_19475]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_19475]
+model=model_16238
+param=spell_name_601,Lvl-7 Enchant
+param=spell_desc_602,For use on zenyte jewellery
+param=spell_spellbook_336,0
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,93
+param=spell_button_596,interface_218:72
+param=spell_graphic1_on_597,"magicon2,42"
+param=spell_graphic1_off_598,"magicoff2,42"
+param=spell_graphic2_on_599,"2x_standard_spells_on,39"
+param=spell_graphic2_off_600,"2x_standard_spells_off,39"
+param=magic_runetype_1_365,cosmic_rune_564
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,20
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,20
 
 [achievement_diary_cape_19476]
 name=Achievement diary cape
@@ -188998,6 +190903,25 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Resurrect Crops
+param=spell_desc_602,Gives a chance to resurrect dead farming crops
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,78
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,8
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,12
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,8
+param=magic_runetype_4_606,earth_rune_557
+param=magic_runecount_4_607,25
+param=spell_button_596,interface_218:173
+param=spell_graphic1_on_597,"magic_necro_on,33"
+param=spell_graphic1_off_598,"magic_necro_off,33"
+param=spell_graphic2_on_599,"2x_necro_spells_on,33"
+param=spell_graphic2_off_600,"2x_necro_spells_off,33"
 
 [dummy_priest_gown_20392]
 name=Null
@@ -189008,6 +190932,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Demon
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,72
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:171
+param=spell_graphic1_on_597,"magic_necro_on,1"
+param=spell_graphic1_off_598,"magic_necro_off,1"
+param=spell_graphic2_on_599,"2x_necro_spells_on,1"
+param=spell_graphic2_off_600,"2x_necro_spells_off,1"
 
 [prayer_potion_4_20393]
 name=Prayer potion(4)
@@ -189082,6 +191023,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Aviansie
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,78
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:172
+param=spell_graphic1_on_597,"magic_necro_on,16"
+param=spell_graphic1_off_598,"magic_necro_off,16"
+param=spell_graphic2_on_599,"2x_necro_spells_on,16"
+param=spell_graphic2_off_600,"2x_necro_spells_off,16"
 
 [dummy_priest_gown_20399]
 name=Null
@@ -189092,6 +191050,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Abyssal Creature
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,85
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:175
+param=spell_graphic1_on_597,"magic_necro_on,18"
+param=spell_graphic1_off_598,"magic_necro_off,18"
+param=spell_graphic2_on_599,"2x_necro_spells_on,18"
+param=spell_graphic2_off_600,"2x_necro_spells_off,18"
 
 [dummy_priest_gown_20400]
 name=Null
@@ -189102,6 +191077,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Dragon
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,93
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,4
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,4
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,2
+param=spell_button_596,interface_218:177
+param=spell_graphic1_on_597,"magic_necro_on,2"
+param=spell_graphic1_off_598,"magic_necro_off,2"
+param=spell_graphic2_on_599,"2x_necro_spells_on,2"
+param=spell_graphic2_off_600,"2x_necro_spells_off,2"
 
 [yew_shortbow_20401]
 name=Yew shortbow
@@ -189157,6 +191149,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Barrows Teleport
+param=spell_desc_602,Teleports you to the Barrows brothers' graveyard
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,83
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:174
+param=spell_graphic1_on_597,"magic_necro_on,31"
+param=spell_graphic1_off_598,"magic_necro_off,31"
+param=spell_graphic2_on_599,"2x_necro_spells_on,31"
+param=spell_graphic2_off_600,"2x_necro_spells_off,31"
 
 [abyssal_whip_20405]
 name=Abyssal whip
@@ -189216,6 +191225,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Lumbridge Graveyard Teleport
+param=spell_desc_602,Teleports you to the graveyard in Lumbridge
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,6
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,2
+param=spell_button_596,interface_218:145
+param=spell_graphic1_on_597,"magic_necro_on,22"
+param=spell_graphic1_off_598,"magic_necro_off,22"
+param=spell_graphic2_on_599,"2x_necro_spells_on,22"
+param=spell_graphic2_off_600,"2x_necro_spells_off,22"
 
 [dummy_priest_gown_20410]
 name=Null
@@ -189226,6 +191250,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Draynor Manor Teleport
+param=spell_desc_602,Teleports you to Draynor Manor
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,17
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:149
+param=spell_graphic1_on_597,"magic_necro_on,23"
+param=spell_graphic1_off_598,"magic_necro_off,23"
+param=spell_graphic2_on_599,"2x_necro_spells_on,23"
+param=spell_graphic2_off_600,"2x_necro_spells_off,23"
 
 [dummy_priest_gown_20411]
 name=Null
@@ -189236,6 +191277,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Mind Altar Teleport
+param=spell_desc_602,Teleports you to the Mind Altar
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,28
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,mind_rune_558
+param=magic_runecount_2_368,2
+param=spell_button_596,interface_218:154
+param=spell_graphic1_on_597,"magic_necro_on,24"
+param=spell_graphic1_off_598,"magic_necro_off,24"
+param=spell_graphic2_on_599,"2x_necro_spells_on,24"
+param=spell_graphic2_off_600,"2x_necro_spells_off,24"
 
 [dummy_priest_gown_20412]
 name=Null
@@ -189246,6 +191302,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Salve Graveyard Teleport
+param=spell_desc_602,Teleports you to the graveyard on the River Salve
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,40
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,2
+param=spell_button_596,interface_218:158
+param=spell_graphic1_on_597,"magic_necro_on,26"
+param=spell_graphic1_off_598,"magic_necro_off,26"
+param=spell_graphic2_on_599,"2x_necro_spells_on,26"
+param=spell_graphic2_off_600,"2x_necro_spells_off,26"
 
 [dummy_priest_gown_20413]
 name=Null
@@ -189256,6 +191327,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Fenkenstrain's Castle Teleport
+param=spell_desc_602,Teleports you to Fenkenstrain's Castle
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,48
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:162
+param=spell_graphic1_on_597,"magic_necro_on,27"
+param=spell_graphic1_off_598,"magic_necro_off,27"
+param=spell_graphic2_on_599,"2x_necro_spells_on,27"
+param=spell_graphic2_off_600,"2x_necro_spells_off,27"
 
 [dummy_priest_gown_20414]
 name=Null
@@ -189266,6 +191354,21 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,West Ardougne Teleport
+param=spell_desc_602,Teleports you to West Ardougne
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,61
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,2
+param=spell_button_596,interface_218:165
+param=spell_graphic1_on_597,"magic_necro_on,28"
+param=spell_graphic1_off_598,"magic_necro_off,28"
+param=spell_graphic2_on_599,"2x_necro_spells_on,28"
+param=spell_graphic2_off_600,"2x_necro_spells_off,28"
 
 [adamant_platebody_20415]
 name=Adamant platebody
@@ -189343,6 +191446,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Harmony Island Teleport
+param=spell_desc_602,Teleports you to Harmony Island
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,65
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,nature_rune_561
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:168
+param=spell_graphic1_on_597,"magic_necro_on,29"
+param=spell_graphic1_off_598,"magic_necro_off,29"
+param=spell_graphic2_on_599,"2x_necro_spells_on,29"
+param=spell_graphic2_off_600,"2x_necro_spells_off,29"
 
 [dummy_priest_gown_20420]
 name=Null
@@ -189353,6 +191473,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Cemetery Teleport
+param=spell_desc_602,Teleports you to the Forgotten Cemetery
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,71
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:170
+param=spell_graphic1_on_597,"magic_necro_on,30"
+param=spell_graphic1_off_598,"magic_necro_off,30"
+param=spell_graphic2_on_599,"2x_necro_spells_on,30"
+param=spell_graphic2_off_600,"2x_necro_spells_off,30"
 
 [rune_platebody_20421]
 name=Rune platebody
@@ -189458,6 +191595,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Ape Atoll Teleport
+param=spell_desc_602,Teleports you to the dungeon under the Ape Atoll temple
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,90
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,2
+param=spell_button_596,interface_218:176
+param=spell_graphic1_on_597,"magic_necro_on,32"
+param=spell_graphic1_off_598,"magic_necro_off,32"
+param=spell_graphic2_on_599,"2x_necro_spells_on,32"
+param=spell_graphic2_off_600,"2x_necro_spells_off,32"
 
 [dragon_chainbody_20428]
 name=Dragon chainbody
@@ -191117,12 +193271,25 @@ certificate=yes
 [cert_rope_20588]
 certificate=yes
 
-[dummy_clue_scroll_easy_20589]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_20589]
+model=model_16238
+param=spell_name_601,Spin Flax
+param=spell_desc_602,Turn flax into bowstring
+param=spell_spellbook_336,2
+param=spell_type_605,1
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,76
+param=spell_button_596,interface_218:141
+param=spell_graphic1_on_597,"lunar_magic_on,42"
+param=spell_graphic1_off_598,"lunar_magic_off,42"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,27"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,27"
+param=magic_runetype_1_365,astral_rune_9075
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,5
 
 [stale_baguette_20590]
 name=Stale baguette
@@ -192588,12 +194755,25 @@ certificate=yes
 [placeholder_hill_giant_club_20758]
 placeholder=yes
 
-[dummy_clue_scroll_easy_20759]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_20759]
+model=model_16238
+param=spell_name_601,Ourania Teleport
+param=spell_desc_602,Teleports you to the Ourania altar
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,71
+param=spell_button_596,interface_218:142
+param=spell_graphic1_on_597,"lunar_magic_on,43"
+param=spell_graphic1_off_598,"lunar_magic_off,43"
+param=spell_graphic2_on_599,"2x_lunar_spells_on,29"
+param=spell_graphic2_off_600,"2x_lunar_spells_off,29"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,astral_rune_9075
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,earth_rune_557
+param=magic_runecount_3_370,6
 
 [ardougne_max_cape_20760]
 name=Ardougne max cape
@@ -192635,6 +194815,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Horror
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,52
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,4
+param=spell_button_596,interface_218:163
+param=spell_graphic1_on_597,"magic_necro_on,19"
+param=spell_graphic1_off_598,"magic_necro_off,19"
+param=spell_graphic2_on_599,"2x_necro_spells_on,19"
+param=spell_graphic2_off_600,"2x_necro_spells_off,19"
 
 [dummy_priest_gown_20763]
 name=Null
@@ -192645,6 +194842,23 @@ model=priest_gown_2521
 iop1=Wear
 recol1s=25238
 recol1d=-2608
+param=spell_name_601,Reanimate Kalphite
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,57
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,4
+param=spell_button_596,interface_218:164
+param=spell_graphic1_on_597,"magic_necro_on,14"
+param=spell_graphic1_off_598,"magic_necro_off,14"
+param=spell_graphic2_on_599,"2x_necro_spells_on,14"
+param=spell_graphic2_off_600,"2x_necro_spells_off,14"
 
 [ardougne_max_hood_20764]
 name=Ardougne max hood
@@ -203977,6 +206191,23 @@ model=ancestral_hat_32794
 2dxan=118
 2dyan=10
 iop1=Wear
+param=spell_name_601,Reanimate Dagannoth
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,62
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,3
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,body_rune_559
+param=magic_runecount_3_370,4
+param=spell_button_596,interface_218:166
+param=spell_graphic1_on_597,"magic_necro_on,6"
+param=spell_graphic1_off_598,"magic_necro_off,6"
+param=spell_graphic2_on_599,"2x_necro_spells_on,6"
+param=spell_graphic2_off_600,"2x_necro_spells_off,6"
 
 [field_arrow_2_21827]
 model=field_arrow_2_12833
@@ -204008,6 +206239,23 @@ model=ancestral_robe_top_32790
 2dxan=514
 2dyan=2041
 iop1=Wear
+param=spell_name_601,Reanimate Bloodveld
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,65
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:167
+param=spell_graphic1_on_597,"magic_necro_on,20"
+param=spell_graphic1_off_598,"magic_necro_off,20"
+param=spell_graphic2_on_599,"2x_necro_spells_on,20"
+param=spell_graphic2_off_600,"2x_necro_spells_off,20"
 
 [field_arrow_3_21830]
 model=field_arrow_3_12822
@@ -204040,6 +206288,23 @@ model=ancestral_robe_bottom_32787
 2dxan=435
 2dyan=9
 iop1=Wear
+param=spell_name_601,Reanimate TzHaar
+param=spell_desc_602,Reanimates an ensouled corpse
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,69
+param=spell_spellbook_336,3
+param=spell_type_605,1
+param=magic_runetype_1_365,soul_rune_566
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,nature_rune_561
+param=magic_runecount_2_368,3
+param=magic_runetype_3_369,blood_rune_565
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:169
+param=spell_graphic1_on_597,"magic_necro_on,15"
+param=spell_graphic1_off_598,"magic_necro_off,15"
+param=spell_graphic2_on_599,"2x_necro_spells_on,15"
+param=spell_graphic2_off_600,"2x_necro_spells_off,15"
 
 [field_arrow_4_21833]
 model=field_arrow_4_12836
@@ -204063,29 +206328,41 @@ recol1s=960
 recol1d=17341
 stackable=yes
 
-[dummy_lamp_21835]
-model=lamp_3348
-2dzoom=840
-2dxof=2
-2dyof=-2
-2dxan=28
-2dyan=228
-recol1s=11191
-recol1d=4936
-recol2s=11183
-recol2d=3635
+[dummy_wall_21835]
+model=model_16238
+param=spell_name_601,Arceuus Home Teleport
+param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,0
+param=spell_button_596,interface_218:143
+param=spell_graphic1_on_597,"magicon2,37"
+param=spell_graphic1_off_598,"magicoff2,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,70"
+param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
-[dummy_lamp_21836]
-model=lamp_3348
-2dzoom=840
-2dxof=2
-2dyof=-2
-2dxan=28
-2dyan=228
-recol1s=11191
-recol1d=4936
-recol2s=11183
-recol2d=3635
+[dummy_wall_21836]
+model=model_16238
+param=spell_name_601,Teleport to Kourend
+param=spell_desc_602,Teleports you to Kourend
+param=spell_spellbook_336,0
+param=spell_type_605,2
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,69
+param=spell_button_596,interface_218:56
+param=spell_graphic1_on_597,"magicon2,41"
+param=spell_graphic1_off_598,"magicoff2,41"
+param=spell_graphic2_on_599,"2x_standard_spells_on,29"
+param=spell_graphic2_off_600,"2x_standard_spells_off,29"
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,2
+param=magic_runetype_2_367,soul_rune_566
+param=magic_runecount_2_368,2
+param=magic_runetype_3_369,water_rune_555
+param=magic_runecount_3_370,4
+param=magic_runetype_4_606,fire_rune_554
+param=magic_runecount_4_607,5
 
 [ogre_artefact_21837]
 name=Ogre artefact
@@ -204437,33 +206714,83 @@ model=priest_gown_2521
 recol1s=25238
 recol1d=-2608
 
-[dummy_clue_scroll_easy_21876]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_21876]
+model=model_16238
+param=spell_name_601,Wind Surge
+param=spell_desc_602,A very high level Air missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,81
+param=spell_button_596,interface_218:64
+param=spell_graphic1_on_597,"magicon2,43"
+param=spell_graphic1_off_598,"magicoff2,43"
+param=spell_graphic2_on_599,"2x_standard_spells_on,16"
+param=spell_graphic2_off_600,"2x_standard_spells_off,16"
+param=magic_runetype_1_365,wrath_rune_21880
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,air_rune_556
+param=magic_runecount_2_368,7
 
-[dummy_clue_scroll_easy_21877]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_21877]
+model=model_16238
+param=spell_name_601,Water Surge
+param=spell_desc_602,A very high level Water missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,85
+param=spell_button_596,interface_218:66
+param=spell_graphic1_on_597,"magicon2,44"
+param=spell_graphic1_off_598,"magicoff2,44"
+param=spell_graphic2_on_599,"2x_standard_spells_on,17"
+param=spell_graphic2_off_600,"2x_standard_spells_off,17"
+param=magic_runetype_1_365,wrath_rune_21880
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,water_rune_555
+param=magic_runecount_2_368,10
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,7
 
-[dummy_clue_scroll_easy_21878]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_21878]
+model=model_16238
+param=spell_name_601,Earth Surge
+param=spell_desc_602,A very high level Earth missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,90
+param=spell_button_596,interface_218:71
+param=spell_graphic1_on_597,"magicon2,45"
+param=spell_graphic1_off_598,"magicoff2,45"
+param=spell_graphic2_on_599,"2x_standard_spells_on,18"
+param=spell_graphic2_off_600,"2x_standard_spells_off,18"
+param=magic_runetype_1_365,wrath_rune_21880
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,10
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,7
 
-[dummy_clue_scroll_easy_21879]
-model=clue_scroll_easy_3374
-2dzoom=1010
-2dxof=1
-2dxan=360
-2dyan=672
+[dummy_wall_21879]
+model=model_16238
+param=spell_name_601,Fire Surge
+param=spell_desc_602,A very high level Fire missile
+param=spell_spellbook_336,0
+param=spell_type_605,0
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,95
+param=spell_button_596,interface_218:73
+param=spell_graphic1_on_597,"magicon2,46"
+param=spell_graphic1_off_598,"magicoff2,46"
+param=spell_graphic2_on_599,"2x_standard_spells_on,19"
+param=spell_graphic2_off_600,"2x_standard_spells_off,19"
+param=magic_runetype_1_365,wrath_rune_21880
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,fire_rune_554
+param=magic_runecount_2_368,10
+param=magic_runetype_3_369,air_rune_556
+param=magic_runecount_3_370,7
 
 [wrath_rune_21880]
 name=Wrath rune
@@ -208554,9 +210881,10 @@ model=trident_of_the_seas_full_28232
 manwear=trident_of_the_seas_full_28230,0
 womanwear=trident_of_the_seas_full_28230,6
 cost=98500
-2dzoom=2350
-2dxan=1505
-2dyan=1850
+2dzoom=2042
+2dyof=3
+2dxan=1670
+2dyan=1778
 iop2=Wield
 iop3=Check
 iop4=Uncharge
@@ -208585,9 +210913,10 @@ model=trident_of_the_seas_full_28232
 manwear=trident_of_the_seas_full_28230,0
 womanwear=trident_of_the_seas_full_28230,6
 cost=98000
-2dzoom=2350
-2dxan=1505
-2dyan=1850
+2dzoom=2042
+2dyof=3
+2dxan=1670
+2dyan=1778
 iop2=Wield
 iop3=Check
 recol1s=6067

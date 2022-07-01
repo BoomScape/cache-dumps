@@ -49556,15 +49556,6 @@ framecount=33
 looptype=1
 framegroup1=1076
 
-[seq_8148]
-framecount=12
-mainhand=0
-offhand=0
-exactmove=1
-movetype=1
-looptype=1
-framegroup1=233
-
 [seq_8149]
 framecount=11
 looptype=1

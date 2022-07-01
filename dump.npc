@@ -65493,8 +65493,8 @@ op1=Talk-to
 vislevel=146
 drawpriority=yes
 
-[runescape_guide_3308]
-name=RuneScape Guide
+[gielinor_guide_3308]
+name=Gielinor Guide
 model1=male_hair_230
 model2=male_jaw_249
 model3=tyras_guard_313
@@ -109471,8 +109471,8 @@ recol3s=11200
 recol3d=8088
 vislevel=0
 
-[rpdt_employee_5313]
-name=RPDT employee
+[gpdt_employee_5313]
+name=GPDT employee
 model1=male_hair_215
 model2=male_torso_292
 model3=male_jaw_249

@@ -11,63 +11,120 @@ halign=^settextalign_centre
 shadowed=yes
 
 [interface_259:1]
+type=^iftype_layer
+width=4
+height=26
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+hide=yes
+
+[interface_259:2]
+type=^iftype_layer
+width=26
+height=26
+layer=interface_259:1
+optionmask=14
+op1="View Quests"
+op2="View Minigames"
+op3="View Kourend Favour"
+
+[interface_259:3]
+type=^iftype_graphic
+x=-4
+width=17
+height=13
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_259:2
+graphic="barbassault_icons,8"
+fliph=yes
+
+[interface_259:4]
+type=^iftype_layer
+width=26
+height=26
+hposmode=^setpos_abs_right
+layer=interface_259:1
+optionmask=14
+op1="View Minigames"
+op2="View Quests"
+op3="View Kourend Favour"
+
+[interface_259:5]
+type=^iftype_graphic
+x=4
+width=17
+height=13
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+layer=interface_259:4
+graphic="barbassault_icons,8"
+
+[interface_259:6]
+type=^iftype_layer
+y=4
+width=54
+height=18
+hposmode=^setpos_abs_right
+
+[interface_259:7]
 type=^iftype_graphic
 x=36
-y=4
 width=18
 height=18
 hposmode=^setpos_abs_right
+layer=interface_259:6
 graphic="achievement_diary_icons,0"
 optionmask=2
 op1="View Quests"
 onmouseover="script273(event_com,100)"
 onmouseleave="script273(event_com,0)"
 
-[interface_259:2]
+[interface_259:8]
 type=^iftype_graphic
 x=18
-y=4
 width=18
 height=18
 hposmode=^setpos_abs_right
+layer=interface_259:6
 graphic="achievement_diary_icons,2"
 optionmask=2
 op1="View Minigames"
 onmouseover="script273(event_com,100)"
 onmouseleave="script273(event_com,0)"
 
-[interface_259:3]
+[interface_259:9]
 type=^iftype_graphic
-y=4
 width=18
 height=18
 hposmode=^setpos_abs_right
+layer=interface_259:6
 graphic="achievement_diary_icons,3"
 optionmask=2
 op1="View Kourend Favour"
 onmouseover="script273(event_com,100)"
 onmouseleave="script273(event_com,0)"
 
-[interface_259:4]
+[interface_259:10]
 type=^iftype_layer
 x=4
 y=24
 width=167
 height=226
-onload="script709(event_com,16973831)"
+onload="script709(event_com,16973837,16973824,16973830,16973825)"
 
-[interface_259:5]
+[interface_259:11]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_259:4
+layer=interface_259:10
 fill=yes
 trans=212
 opbase=" "
 
-[interface_259:6]
+[interface_259:12]
 type=^iftype_layer
 x=4
 y=24
@@ -75,7 +132,7 @@ width=167
 height=226
 onload="script392(event_com)"
 
-[interface_259:7]
+[interface_259:13]
 type=^iftype_layer
 x=171
 y=24
