@@ -1635,3 +1635,10 @@ default=null
 type=enum
 default=null
 
+[param_1152]
+type=int
+default=3
+
+[param_1155]
+autodisable=no
+
