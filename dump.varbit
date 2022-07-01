@@ -24528,11 +24528,6 @@ basevar=var_1318
 startbit=25
 endbit=25
 
-[varbit_4906]
-basevar=var_1320
-startbit=0
-endbit=0
-
 [varbit_4907]
 basevar=var_190
 startbit=0
@@ -41872,4 +41867,14 @@ endbit=31
 basevar=var_1575
 startbit=23
 endbit=23
+
+[varbit_8375]
+basevar=var_718
+startbit=0
+endbit=30
+
+[varbit_8376]
+basevar=var_1320
+startbit=0
+endbit=30
 

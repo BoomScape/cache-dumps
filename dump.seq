@@ -20055,7 +20055,7 @@ priority=10
 looptype=1
 framegroup1=927
 
-[fungi_ready_3328]
+[ancient_fungi_ready_3328]
 framecount=6
 looptype=1
 framegroup1=927
@@ -32425,12 +32425,12 @@ offhand=0
 looptype=1
 framegroup1=207
 
-[oomlie_bird_walk_5385]
+[chicken_walk_5385]
 framecount=10
 looptype=1
 framegroup1=1399
 
-[oomlie_bird_ready_5386]
+[chicken_ready_5386]
 framecount=99
 looptype=1
 framegroup1=1399
@@ -50015,12 +50015,12 @@ framecount=17
 looptype=1
 framegroup1=2295
 
-[leke_quo_keran_ready_8210]
+[fornek_quo_maten_ready_8210]
 framecount=16
 looptype=1
 framegroup1=2247
 
-[leke_quo_keran_walk_8211]
+[fornek_quo_maten_walk_8211]
 framecount=24
 looptype=1
 framegroup1=2245

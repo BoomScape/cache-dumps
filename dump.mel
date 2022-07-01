@@ -3730,3 +3730,15 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_622]
+text=Wine of<br>Zamorak
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_623]
+text=Larran's<br>chest
+colour=^white
+mapfunction=no
+category=1129
+

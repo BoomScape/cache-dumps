@@ -175834,7 +175834,7 @@ placeholder=yes
 [placeholder_raw_karambwanji_17253]
 placeholder=yes
 
-[dummy_drogo_dwarf_17254]
+[dummy_alviss_17254]
 placeholder=yes
 
 [placeholder_karambwan_paste_17255]
@@ -193548,10 +193548,10 @@ members=yes
 certificate=yes
 placeholder=yes
 
-[dummy_drogo_dwarf_20602]
+[dummy_alviss_20602]
 certificate=yes
 
-[dummy_drogo_dwarf_20603]
+[dummy_alviss_20603]
 placeholder=yes
 
 [dummy_master_wand_20604]
@@ -193568,10 +193568,10 @@ members=yes
 certificate=yes
 placeholder=yes
 
-[dummy_drogo_dwarf_20605]
+[dummy_alviss_20605]
 certificate=yes
 
-[dummy_drogo_dwarf_20606]
+[dummy_alviss_20606]
 placeholder=yes
 
 [rune_arrow_pack_20607]
@@ -211523,15 +211523,18 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[dummy_priest_gown_22329]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
-recol1s=25238
-recol1d=-2608
+[larrans_key_3_22329]
+model=larrans_key_3_37278
+2dzoom=1284
+2dyof=3
+2dxan=512
+2dyan=741
+recol1s=8784
+recol1d=8107
+recol2s=2974
+recol2d=8103
+recol3s=8640
+recol3d=9129
 
 [deadman_starter_pack_22330]
 name=Deadman starter pack
@@ -222244,4 +222247,80 @@ certificate=yes
 
 [placeholder_strange_device_23488]
 placeholder=yes
+
+[wine_of_zamorak_23489]
+name=Wine of zamorak
+model=wine_of_zamorak_2390
+2dzoom=600
+2dxof=1
+2dyof=100
+2dxan=260
+2dyan=84
+recol1s=127
+recol1d=701
+
+[larrans_key_23490]
+name=Larran's key
+model=bloody_key_32070
+cost=90
+2dzoom=968
+2dxof=-7
+2dyof=3
+2dxan=512
+2dyan=741
+recol1s=8784
+recol1d=8107
+recol2s=2974
+recol2d=8103
+recol3s=8640
+recol3d=9129
+members=yes
+stackable=yes
+placeholder=yes
+count1=larrans_key_2_23492,2
+count2=larrans_key_3_22329,3
+count3=larrans_key_4_23493,4
+count4=larrans_key_5_23494,5
+
+[placeholder_larrans_key_23491]
+placeholder=yes
+
+[larrans_key_2_23492]
+model=larrans_key_2_37277
+2dzoom=1095
+2dxof=-12
+2dyof=5
+2dxan=512
+2dyan=741
+recol1s=8784
+recol1d=8107
+recol2s=2974
+recol2d=8103
+recol3s=8640
+recol3d=9129
+
+[larrans_key_4_23493]
+model=larrans_key_4_37276
+2dzoom=1347
+2dyof=7
+2dxan=512
+2dyan=714
+recol1s=8784
+recol1d=8107
+recol2s=2974
+recol2d=8103
+recol3s=8640
+recol3d=9129
+
+[larrans_key_5_23494]
+model=larrans_key_5_37279
+2dzoom=1537
+2dxan=512
+2dyan=714
+recol1s=8784
+recol1d=8107
+recol2s=2974
+recol2d=8103
+recol3s=8640
+recol3d=9129
 
