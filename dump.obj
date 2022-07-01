@@ -114261,7 +114261,8 @@ cost=99000
 2dyof=1
 2dxan=504
 iop2=Wear
-iop3=Teleport
+iop3=Fishing Guild
+iop4=Otto's Grotto
 recol1s=-8256
 recol1d=-27417
 recol2s=-11353
@@ -114277,7 +114278,8 @@ recol6d=-27331
 members=yes
 placeholder=yes
 param=param_451,Boost
-param=param_452,Teleport
+param=param_452,Fishing Guild
+param=param_453,Otto's Grotto
 
 [fishing_cape_t_9799]
 name=Fishing cape(t)
@@ -114289,7 +114291,8 @@ cost=99000
 2dyof=1
 2dxan=504
 iop2=Wear
-iop3=Teleport
+iop3=Fishing Guild
+iop4=Otto's Grotto
 recol1s=-8256
 recol1d=6067
 recol2s=-11353
@@ -114305,7 +114308,8 @@ recol6d=-27331
 members=yes
 placeholder=yes
 param=param_451,Boost
-param=param_452,Teleport
+param=param_452,Fishing Guild
+param=param_453,Otto's Grotto
 
 [fishing_hood_9800]
 name=Fishing hood
@@ -158241,7 +158245,7 @@ iop3=Teleports
 iop4=Features
 members=yes
 param=param_451,Warriors' Guild
-param=param_452,Fishing Guild
+param=param_452,Fishing Teleports
 param=param_453,Crafting Guild
 param=param_454,Tele to POH
 param=param_455,Chinchompa Teleports
@@ -203280,6 +203284,7 @@ members=yes
 placeholder=yes
 param=param_451,Lunch by the Lancalliums
 param=param_452,The Fisher's Flute
+param=param_453,Hearsay and History
 param=param_456,Read
 param=param_457,Check
 
@@ -203320,9 +203325,9 @@ placeholder=yes
 [placeholder_the_fishers_flute_21765]
 placeholder=yes
 
-[hearsay_and_history_21766]
-name=Hearsay and history
-model=hearsay_and_history_15042
+[history_and_hearsay_21766]
+name=History and hearsay
+model=history_and_hearsay_15042
 cost=200
 2dzoom=958
 2dxof=1
@@ -203334,7 +203339,7 @@ iop5=Destroy
 members=yes
 placeholder=yes
 
-[placeholder_hearsay_and_history_21767]
+[placeholder_history_and_hearsay_21767]
 placeholder=yes
 
 [jewellery_of_jubilation_21768]
@@ -209385,4 +209390,48 @@ recol1s=21584
 recol1d=-25394
 recol2s=28989
 recol2d=-29376
+
+[shayzien_favour_certificate_22365]
+name=Shayzien favour certificate
+model=notes_2600
+cost=50
+2dzoom=1040
+2dxof=1
+2dyof=7
+2dxan=380
+2dyan=120
+iop1=Read
+iop5=Destroy
+members=yes
+
+[cyan_crystal_22366]
+name=Cyan crystal
+model=cyan_crystal_32502
+2dzoom=5200
+2dxof=-1
+2dyof=-24
+2dxan=94
+2dyan=110
+recol1s=15296
+recol1d=-31823
+recol2s=15273
+recol2d=-31811
+recol3s=15029
+recol3d=-31815
+recol4s=16163
+recol4d=-31819
+members=yes
+
+[kourend_favour_certificate_22367]
+name=Kourend favour certificate
+model=notes_2600
+cost=50
+2dzoom=1040
+2dxof=1
+2dyof=7
+2dxan=380
+2dyan=120
+iop1=Read
+iop5=Destroy
+members=yes
 

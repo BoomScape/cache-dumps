@@ -48304,6 +48304,18 @@ framecount=15
 looptype=1
 framegroup1=2076
 
+[boulder_walk_7970]
+framecount=8
+replayoff=8
+looptype=1
+framegroup1=2082
+
+[glowing_orb_7971]
+framecount=10
+replayoff=10
+looptype=1
+framegroup1=2090
+
 [seq_7972]
 framecount=40
 mainhand=0
