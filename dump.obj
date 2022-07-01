@@ -237075,7 +237075,6 @@ model=bandages_4845
 2dxan=436
 2dyan=1884
 iop1=Heal
-iop5=Destroy
 members=yes
 
 [potion_of_power_4_25203]
@@ -237086,7 +237085,6 @@ model=strength_potion_4_2789
 2dxan=84
 2dyan=1996
 iop1=Drink
-iop5=Destroy
 recol1s=61
 recol1d=29625
 members=yes
@@ -237099,7 +237097,6 @@ model=guam_potion_unf_2697
 2dxan=84
 2dyan=1996
 iop1=Drink
-iop5=Destroy
 recol1s=61
 recol1d=29625
 members=yes
@@ -237112,7 +237109,6 @@ model=strength_potion_2_2384
 2dxan=84
 2dyan=1996
 iop1=Drink
-iop5=Destroy
 recol1s=61
 recol1d=29625
 members=yes
@@ -237125,7 +237121,6 @@ model=strength_potion_1_2621
 2dxan=84
 2dyan=1996
 iop1=Drink
-iop5=Destroy
 recol1s=61
 recol1d=29625
 members=yes
@@ -237168,7 +237163,6 @@ model=barricade_41246
 2dxan=104
 2dyan=1816
 iop1=Set-up
-iop5=Destroy
 members=yes
 ambient=20
 
@@ -237180,7 +237174,6 @@ model=barricade_41257
 2dxan=104
 2dyan=1816
 iop1=Set-up
-iop5=Destroy
 members=yes
 ambient=20
 
@@ -237191,7 +237184,6 @@ model=strength_potion_4_2789
 2dyof=-1
 2dxan=84
 2dyan=1996
-iop5=Destroy
 recol1s=61
 recol1d=7099
 members=yes
@@ -240459,4 +240451,17 @@ cost=500
 2dxan=118
 2dyan=10
 iop2=Wear
+
+[jalrek_jad_25519]
+name=Jalrek-jad
+model=jalrek_jad_41568
+2dzoom=2042
+2dxof=-14
+2dyof=-29
+2dyan=135
+members=yes
+placeholder=yes
+
+[placeholder_jalrek_jad_25520]
+placeholder=yes
 

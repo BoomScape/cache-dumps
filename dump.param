@@ -1648,3 +1648,23 @@ type=boolean
 [param_1158]
 type=boolean
 
+[param_1159]
+type=int
+
+[param_1160]
+type=int
+
+[param_1161]
+type=int
+
+[param_1162]
+type=int
+default=null
+
+[param_1163]
+type=boolean
+default=yes
+
+[param_1164]
+type=boolean
+

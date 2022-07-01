@@ -19916,6 +19916,7 @@ val=4,Port Sarim
 val=5,Rimmington
 val=6,Al Kharid
 val=7,Goblin Village
+val=8,Kingstown
 
 [enum_2097]
 inputtype=int
@@ -34509,4 +34510,11 @@ val=2,Yellow
 val=3,Red
 val=4,Blue
 val=5,White
+
+[enum_3665]
+inputtype=int
+outputtype=namedobj
+default=null
+val=0,tzrek_jad_13225
+val=1,jalrek_jad_25519
 
