@@ -1,10 +1,7 @@
 [interface_214:0]
-type=^iftype_rectangle
+type=^iftype_layer
 width=512
 height=334
-colour=0x46341d
-fill=yes
-trans=80
 onload="script654(event_com,14024710,14024714,14024711,14024712,14024713,14024708,14024707,14024709)"
 
 [interface_214:1]

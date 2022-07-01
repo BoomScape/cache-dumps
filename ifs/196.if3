@@ -1,21 +1,49 @@
 [interface_196:0]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+onload="script2553(12845057,12845058,12845064)"
+
+[interface_196:1]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_196:0
+
+[interface_196:2]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_196:1
+
+[interface_196:3]
+type=^iftype_layer
+y=1
+width=171
+height=70
+hposmode=^setpos_abs_right
+layer=interface_196:2
+
+[interface_196:4]
 type=^iftype_model
 x=63
 y=18
 width=32
 height=32
 hposmode=^setpos_abs_right
+layer=interface_196:3
 model=model_10567
 xan=427
 zoom=843
 
-[interface_196:1]
+[interface_196:5]
 type=^iftype_text
 x=13
 y=13
 width=133
 height=17
 hposmode=^setpos_abs_right
+layer=interface_196:3
 text="Graveyard"
 colour=0x999999
 font=q8_full
@@ -23,13 +51,14 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_196:2]
+[interface_196:6]
 type=^iftype_text
 x=53
 y=29
 width=99
 height=26
 hposmode=^setpos_abs_right
+layer=interface_196:3
 text="Pizazz Points:"
 colour=0x999999
 font=p11_full
@@ -37,31 +66,47 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_196:3]
+[interface_196:7]
 type=^iftype_text
 x=32
 y=36
 width=28
 height=12
 hposmode=^setpos_abs_right
+layer=interface_196:3
 text="9999"
 colour=0xcccccc
 font=p11_full
 shadowed=yes
 
-[interface_196:4]
+[interface_196:8]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_196:0
+
+[interface_196:9]
+type=^iftype_layer
+width=84
+height=157
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
+layer=interface_196:8
+
+[interface_196:10]
 type=^iftype_model
 x=8
 width=32
 height=32
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 model=animals_bones_10569
 xan=135
 yan=36
 zoom=1484
 
-[interface_196:5]
+[interface_196:11]
 type=^iftype_model
 x=6
 y=31
@@ -69,12 +114,13 @@ width=32
 height=32
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 model=animals_bones_10570
 xan=99
 yan=1805
 zoom=993
 
-[interface_196:6]
+[interface_196:12]
 type=^iftype_model
 x=3
 y=67
@@ -82,12 +128,13 @@ width=32
 height=32
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 model=animals_bones_10571
 xan=99
 yan=1044
 zoom=1073
 
-[interface_196:7]
+[interface_196:13]
 type=^iftype_model
 x=7
 y=107
@@ -95,12 +142,13 @@ width=32
 height=32
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 model=animals_bones_10572
 xan=199
 yan=1727
 zoom=1152
 
-[interface_196:8]
+[interface_196:14]
 type=^iftype_text
 x=49
 y=126
@@ -108,13 +156,14 @@ width=10
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 text="4"
 colour=0x8eab99
 font=p12_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_196:9]
+[interface_196:15]
 type=^iftype_text
 x=49
 y=90
@@ -122,13 +171,14 @@ width=10
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 text="3"
 colour=0x707070
 font=p12_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_196:10]
+[interface_196:16]
 type=^iftype_text
 x=49
 y=54
@@ -136,13 +186,14 @@ width=10
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 text="2"
 colour=0xcccccc
 font=p12_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_196:11]
+[interface_196:17]
 type=^iftype_text
 x=49
 y=19
@@ -150,6 +201,7 @@ width=10
 height=14
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
+layer=interface_196:9
 text="1"
 colour=0xfafa99
 font=p12_full

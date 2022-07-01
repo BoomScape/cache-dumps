@@ -1,14 +1,4 @@
 [interface_175:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-colour=0x81907
-fill=yes
-trans=50
-
-[interface_175:1]
 type=^iftype_model
 x=242
 y=149
@@ -18,7 +8,7 @@ model=model_16023
 xan=531
 zoom=138
 
-[interface_175:2]
+[interface_175:1]
 type=^iftype_model
 x=158
 y=56
@@ -28,7 +18,7 @@ xan=423
 yan=3
 zoom=300
 
-[interface_175:3]
+[interface_175:2]
 type=^iftype_graphic
 x=43
 y=16

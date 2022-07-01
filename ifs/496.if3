@@ -1,13 +1,4 @@
 [interface_496:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-fill=yes
-trans=120
-
-[interface_496:1]
 type=^iftype_model
 x=247
 y=165
@@ -17,7 +8,7 @@ model=model_19339
 xan=524
 zoom=730
 
-[interface_496:2]
+[interface_496:1]
 type=^iftype_text
 x=49
 y=44
@@ -30,7 +21,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_496:3]
+[interface_496:2]
 type=^iftype_text
 x=178
 y=77
@@ -45,7 +36,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,1)"
 
-[interface_496:4]
+[interface_496:3]
 type=^iftype_text
 x=178
 y=95
@@ -60,7 +51,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,2)"
 
-[interface_496:5]
+[interface_496:4]
 type=^iftype_text
 x=178
 y=114
@@ -75,7 +66,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,3)"
 
-[interface_496:6]
+[interface_496:5]
 type=^iftype_text
 x=178
 y=133
@@ -90,7 +81,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,4)"
 
-[interface_496:7]
+[interface_496:6]
 type=^iftype_text
 x=178
 y=152
@@ -105,7 +96,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,5)"
 
-[interface_496:8]
+[interface_496:7]
 type=^iftype_text
 x=178
 y=171
@@ -120,7 +111,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,6)"
 
-[interface_496:9]
+[interface_496:8]
 type=^iftype_text
 x=178
 y=190
@@ -135,7 +126,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,7)"
 
-[interface_496:10]
+[interface_496:9]
 type=^iftype_text
 x=178
 y=209
@@ -150,7 +141,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,8)"
 
-[interface_496:11]
+[interface_496:10]
 type=^iftype_text
 x=178
 y=228
@@ -165,7 +156,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,9)"
 
-[interface_496:12]
+[interface_496:11]
 type=^iftype_text
 x=178
 y=248
@@ -180,7 +171,7 @@ optionmask=2
 op1="View tutorial"
 onload="script483(event_com,10)"
 
-[interface_496:13]
+[interface_496:12]
 type=^iftype_model
 x=112
 y=182
@@ -189,7 +180,7 @@ height=32
 model=model_20620
 zoom=528
 
-[interface_496:14]
+[interface_496:13]
 type=^iftype_model
 x=380
 y=182
@@ -198,7 +189,7 @@ height=32
 model=model_20620
 zoom=528
 
-[interface_496:15]
+[interface_496:14]
 type=^iftype_graphic
 x=445
 y=33

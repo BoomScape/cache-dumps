@@ -1,11 +1,4 @@
 [interface_78:0]
-type=^iftype_rectangle
-width=512
-height=334
-fill=yes
-trans=128
-
-[interface_78:1]
 type=^iftype_model
 x=235
 y=138
@@ -15,7 +8,7 @@ model=model_19339
 xan=510
 zoom=731
 
-[interface_78:2]
+[interface_78:1]
 type=^iftype_text
 x=56
 y=39
@@ -26,7 +19,7 @@ font=q8_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_78:3]
+[interface_78:2]
 type=^iftype_graphic
 x=432
 y=39
@@ -39,14 +32,14 @@ onmouseover="script44(event_com,538)"
 onmouseleave="script44(event_com,537)"
 onop="script29"
 
-[interface_78:4]
+[interface_78:3]
 type=^iftype_layer
 x=46
 y=80
 width=410
 height=192
 
-[interface_78:5]
+[interface_78:4]
 type=^iftype_layer
 x=456
 y=80

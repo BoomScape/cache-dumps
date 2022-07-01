@@ -83,3 +83,11 @@ default=
 [param_568]
 type=int
 
+[param_569]
+type=namedobj
+default=null
+
+[param_578]
+type=namedobj
+default=null
+

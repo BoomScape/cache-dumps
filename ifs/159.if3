@@ -1,13 +1,4 @@
 [interface_159:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-fill=yes
-trans=120
-
-[interface_159:1]
 type=^iftype_model
 x=246
 y=164
@@ -17,7 +8,7 @@ model=model_19339
 xan=512
 zoom=721
 
-[interface_159:2]
+[interface_159:1]
 type=^iftype_text
 x=51
 y=28
@@ -28,7 +19,7 @@ colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_159:3]
+[interface_159:2]
 type=^iftype_text
 x=278
 y=73
@@ -40,13 +31,13 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_159:4]
+[interface_159:3]
 type=^iftype_text
 x=1
 y=1
 width=189
 height=30
-layer=interface_159:5
+layer=interface_159:4
 text="Waiting for player 1 to accept..."
 colour=0xff981f
 font=p12_full
@@ -54,7 +45,7 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_159:5]
+[interface_159:4]
 type=^iftype_layer
 x=278
 y=251
@@ -62,7 +53,7 @@ width=191
 height=32
 hide=yes
 
-[interface_159:6]
+[interface_159:5]
 type=^iftype_text
 x=81
 y=43
@@ -73,7 +64,7 @@ colour=0xff981f
 font=b12_full
 shadowed=yes
 
-[interface_159:7]
+[interface_159:6]
 type=^iftype_text
 x=44
 y=75
@@ -84,7 +75,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:8]
+[interface_159:7]
 type=^iftype_text
 x=44
 y=93
@@ -95,7 +86,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:9]
+[interface_159:8]
 type=^iftype_text
 x=44
 y=59
@@ -106,7 +97,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:10]
+[interface_159:9]
 type=^iftype_text
 x=45
 y=117
@@ -117,7 +108,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:11]
+[interface_159:10]
 type=^iftype_text
 x=93
 y=75
@@ -128,7 +119,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:12]
+[interface_159:11]
 type=^iftype_text
 x=94
 y=133
@@ -139,7 +130,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:13]
+[interface_159:12]
 type=^iftype_text
 x=94
 y=174
@@ -150,7 +141,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:14]
+[interface_159:13]
 type=^iftype_text
 x=94
 y=214
@@ -161,7 +152,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:15]
+[interface_159:14]
 type=^iftype_text
 x=93
 y=256
@@ -172,7 +163,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:16]
+[interface_159:15]
 type=^iftype_text
 x=93
 y=93
@@ -183,7 +174,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:17]
+[interface_159:16]
 type=^iftype_text
 x=94
 y=151
@@ -194,7 +185,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:18]
+[interface_159:17]
 type=^iftype_text
 x=94
 y=192
@@ -205,7 +196,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:19]
+[interface_159:18]
 type=^iftype_text
 x=94
 y=232
@@ -216,7 +207,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:20]
+[interface_159:19]
 type=^iftype_text
 x=93
 y=274
@@ -227,7 +218,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:21]
+[interface_159:20]
 type=^iftype_text
 x=201
 y=58
@@ -238,7 +229,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:22]
+[interface_159:21]
 type=^iftype_text
 x=209
 y=79
@@ -249,7 +240,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:23]
+[interface_159:22]
 type=^iftype_text
 x=210
 y=141
@@ -260,7 +251,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:24]
+[interface_159:23]
 type=^iftype_text
 x=210
 y=183
@@ -271,7 +262,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:25]
+[interface_159:24]
 type=^iftype_text
 x=210
 y=223
@@ -282,7 +273,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:26]
+[interface_159:25]
 type=^iftype_text
 x=210
 y=267
@@ -293,7 +284,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:27]
+[interface_159:26]
 type=^iftype_text
 x=279
 y=38
@@ -305,7 +296,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_159:28]
+[interface_159:27]
 type=^iftype_model
 x=225
 y=92
@@ -315,7 +306,7 @@ model=model_20560
 xan=585
 zoom=1074
 
-[interface_159:29]
+[interface_159:28]
 type=^iftype_text
 x=227
 y=153
@@ -327,7 +318,7 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_159:30]
+[interface_159:29]
 type=^iftype_model
 x=288
 y=103
@@ -337,7 +328,7 @@ model=model_20567
 xan=585
 zoom=1074
 
-[interface_159:31]
+[interface_159:30]
 type=^iftype_text
 x=290
 y=163
@@ -349,7 +340,7 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_159:32]
+[interface_159:31]
 type=^iftype_model
 x=351
 y=92
@@ -359,7 +350,7 @@ model=model_20564
 xan=585
 zoom=1074
 
-[interface_159:33]
+[interface_159:32]
 type=^iftype_text
 x=351
 y=154
@@ -371,7 +362,7 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_159:34]
+[interface_159:33]
 type=^iftype_model
 x=415
 y=103
@@ -381,7 +372,7 @@ model=model_20570
 xan=585
 zoom=1074
 
-[interface_159:35]
+[interface_159:34]
 type=^iftype_text
 x=415
 y=163
@@ -393,7 +384,7 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_159:36]
+[interface_159:35]
 type=^iftype_model
 x=324
 y=191
@@ -404,7 +395,7 @@ xan=444
 yan=2020
 zoom=1168
 
-[interface_159:37]
+[interface_159:36]
 type=^iftype_text
 x=319
 y=234
@@ -415,7 +406,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:38]
+[interface_159:37]
 type=^iftype_model
 x=404
 y=193
@@ -426,7 +417,7 @@ xan=501
 yan=2014
 zoom=1296
 
-[interface_159:39]
+[interface_159:38]
 type=^iftype_text
 x=401
 y=235
@@ -437,7 +428,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:40]
+[interface_159:39]
 type=^iftype_layer
 x=225
 y=92
@@ -445,16 +436,16 @@ width=60
 height=60
 hide=yes
 
-[interface_159:41]
+[interface_159:40]
 type=^iftype_model
 width=60
 height=60
-layer=interface_159:40
+layer=interface_159:39
 model=model_20562
 xan=585
 zoom=1074
 
-[interface_159:42]
+[interface_159:41]
 type=^iftype_layer
 x=288
 y=103
@@ -462,16 +453,16 @@ width=60
 height=60
 hide=yes
 
-[interface_159:43]
+[interface_159:42]
 type=^iftype_model
 width=60
 height=60
-layer=interface_159:42
+layer=interface_159:41
 model=model_20568
 xan=585
 zoom=1074
 
-[interface_159:44]
+[interface_159:43]
 type=^iftype_layer
 x=351
 y=92
@@ -479,16 +470,16 @@ width=60
 height=60
 hide=yes
 
-[interface_159:45]
+[interface_159:44]
 type=^iftype_model
 width=60
 height=60
-layer=interface_159:44
+layer=interface_159:43
 model=model_20565
 xan=585
 zoom=1074
 
-[interface_159:46]
+[interface_159:45]
 type=^iftype_layer
 x=415
 y=103
@@ -496,16 +487,16 @@ width=60
 height=60
 hide=yes
 
-[interface_159:47]
+[interface_159:46]
 type=^iftype_model
 width=60
 height=60
-layer=interface_159:46
+layer=interface_159:45
 model=model_20571
 xan=585
 zoom=1074
 
-[interface_159:48]
+[interface_159:47]
 type=^iftype_layer
 x=303
 y=176
@@ -513,19 +504,19 @@ width=70
 height=70
 hide=yes
 
-[interface_159:49]
+[interface_159:48]
 type=^iftype_model
 x=21
 y=15
 width=32
 height=32
-layer=interface_159:48
+layer=interface_159:47
 model=model_20558
 xan=444
 yan=2020
 zoom=1168
 
-[interface_159:50]
+[interface_159:49]
 type=^iftype_layer
 x=386
 y=177
@@ -533,19 +524,19 @@ width=70
 height=70
 hide=yes
 
-[interface_159:51]
+[interface_159:50]
 type=^iftype_model
 x=18
 y=16
 width=32
 height=32
-layer=interface_159:50
+layer=interface_159:49
 model=model_20530
 xan=501
 yan=2014
 zoom=1296
 
-[interface_159:52]
+[interface_159:51]
 type=^iftype_graphic
 x=225
 y=92
@@ -553,10 +544,10 @@ width=60
 height=80
 optionmask=2
 op1="Attacker"
-onmouseover="script69(0,10420264)"
-onmouseleave="script69(1,10420264)"
+onmouseover="script69(0,10420263)"
+onmouseleave="script69(1,10420263)"
 
-[interface_159:53]
+[interface_159:52]
 type=^iftype_graphic
 x=288
 y=103
@@ -564,10 +555,10 @@ width=60
 height=75
 optionmask=2
 op1="Defender"
-onmouseover="script69(0,10420266)"
-onmouseleave="script69(1,10420266)"
+onmouseover="script69(0,10420265)"
+onmouseleave="script69(1,10420265)"
 
-[interface_159:54]
+[interface_159:53]
 type=^iftype_graphic
 x=351
 y=92
@@ -575,10 +566,10 @@ width=60
 height=80
 optionmask=2
 op1="Collector"
-onmouseover="script69(0,10420268)"
-onmouseleave="script69(1,10420268)"
+onmouseover="script69(0,10420267)"
+onmouseleave="script69(1,10420267)"
 
-[interface_159:55]
+[interface_159:54]
 type=^iftype_graphic
 x=415
 y=103
@@ -586,10 +577,10 @@ width=60
 height=75
 optionmask=2
 op1="Healer"
-onmouseover="script69(0,10420270)"
-onmouseleave="script69(1,10420270)"
+onmouseover="script69(0,10420269)"
+onmouseleave="script69(1,10420269)"
 
-[interface_159:56]
+[interface_159:55]
 type=^iftype_graphic
 x=303
 y=178
@@ -597,10 +588,10 @@ width=70
 height=73
 optionmask=2
 op1="Accept"
-onmouseover="script69(0,10420272)"
-onmouseleave="script69(1,10420272)"
+onmouseover="script69(0,10420271)"
+onmouseleave="script69(1,10420271)"
 
-[interface_159:57]
+[interface_159:56]
 type=^iftype_graphic
 x=386
 y=177
@@ -608,10 +599,10 @@ width=70
 height=74
 optionmask=2
 op1="Decline"
-onmouseover="script69(0,10420274)"
-onmouseleave="script69(1,10420274)"
+onmouseover="script69(0,10420273)"
+onmouseleave="script69(1,10420273)"
 
-[interface_159:58]
+[interface_159:57]
 type=^iftype_text
 x=45
 y=133
@@ -622,7 +613,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:59]
+[interface_159:58]
 type=^iftype_text
 x=45
 y=151
@@ -633,7 +624,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:60]
+[interface_159:59]
 type=^iftype_text
 x=45
 y=174
@@ -644,7 +635,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:61]
+[interface_159:60]
 type=^iftype_text
 x=45
 y=192
@@ -655,7 +646,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:62]
+[interface_159:61]
 type=^iftype_text
 x=45
 y=214
@@ -666,7 +657,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:63]
+[interface_159:62]
 type=^iftype_text
 x=45
 y=232
@@ -677,7 +668,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:64]
+[interface_159:63]
 type=^iftype_text
 x=44
 y=256
@@ -688,7 +679,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_159:65]
+[interface_159:64]
 type=^iftype_text
 x=44
 y=274

@@ -1,13 +1,4 @@
 [interface_490:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-fill=yes
-trans=120
-
-[interface_490:1]
 type=^iftype_model
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
@@ -16,10 +7,10 @@ vsizemode=^setsize_minus
 model=model_20734
 originy=164
 zoom=101
-viewportwid=1087
-viewporthei=1087
+viewportwid=512
+viewporthei=512
 
-[interface_490:2]
+[interface_490:1]
 type=^iftype_text
 x=107
 y=75
@@ -31,7 +22,7 @@ font=p12_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_490:3]
+[interface_490:2]
 type=^iftype_text
 x=74
 y=110
@@ -42,7 +33,7 @@ colour=0x990000
 font=p12_full
 shadowed=yes
 
-[interface_490:4]
+[interface_490:3]
 type=^iftype_text
 x=136
 y=110
@@ -54,7 +45,7 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_490:5]
+[interface_490:4]
 type=^iftype_text
 x=74
 y=144
@@ -65,7 +56,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:6]
+[interface_490:5]
 type=^iftype_text
 x=74
 y=261
@@ -76,7 +67,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:7]
+[interface_490:6]
 type=^iftype_text
 x=74
 y=184
@@ -87,7 +78,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:8]
+[interface_490:7]
 type=^iftype_text
 x=74
 y=224
@@ -98,7 +89,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:9]
+[interface_490:8]
 type=^iftype_text
 x=378
 y=109
@@ -110,10 +101,21 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_490:10]
+[interface_490:9]
 type=^iftype_text
 x=398
 y=145
+width=8
+height=14
+text="0"
+colour=0xff981f
+font=p12_full
+shadowed=yes
+
+[interface_490:10]
+type=^iftype_text
+x=398
+y=184
 width=8
 height=14
 text="0"
@@ -124,7 +126,7 @@ shadowed=yes
 [interface_490:11]
 type=^iftype_text
 x=398
-y=184
+y=224
 width=8
 height=14
 text="0"
@@ -135,17 +137,6 @@ shadowed=yes
 [interface_490:12]
 type=^iftype_text
 x=398
-y=224
-width=8
-height=14
-text="0"
-colour=0xff981f
-font=p12_full
-shadowed=yes
-
-[interface_490:13]
-type=^iftype_text
-x=398
 y=263
 width=8
 height=14
@@ -154,7 +145,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:14]
+[interface_490:13]
 type=^iftype_text
 x=234
 y=110
@@ -165,7 +156,7 @@ colour=0x990099
 font=p12_full
 shadowed=yes
 
-[interface_490:15]
+[interface_490:14]
 type=^iftype_text
 x=245
 y=145
@@ -176,7 +167,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:16]
+[interface_490:15]
 type=^iftype_text
 x=245
 y=184
@@ -187,7 +178,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:17]
+[interface_490:16]
 type=^iftype_text
 x=245
 y=224
@@ -198,7 +189,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:18]
+[interface_490:17]
 type=^iftype_text
 x=245
 y=263
@@ -209,7 +200,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:19]
+[interface_490:18]
 type=^iftype_text
 x=245
 y=75
@@ -219,7 +210,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:20]
+[interface_490:19]
 type=^iftype_text
 x=175
 y=144
@@ -230,7 +221,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:21]
+[interface_490:20]
 type=^iftype_text
 x=175
 y=183
@@ -241,7 +232,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:22]
+[interface_490:21]
 type=^iftype_text
 x=175
 y=223
@@ -252,7 +243,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:23]
+[interface_490:22]
 type=^iftype_text
 x=175
 y=262
@@ -263,7 +254,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:24]
+[interface_490:23]
 type=^iftype_text
 x=346
 y=75
@@ -274,7 +265,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:25]
+[interface_490:24]
 type=^iftype_text
 x=433
 y=75
@@ -285,7 +276,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:26]
+[interface_490:25]
 type=^iftype_text
 x=275
 y=109
@@ -297,7 +288,7 @@ font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_490:27]
+[interface_490:26]
 type=^iftype_text
 x=279
 y=144
@@ -308,7 +299,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:28]
+[interface_490:27]
 type=^iftype_text
 x=279
 y=183
@@ -319,7 +310,7 @@ colour=0xff9800
 font=p12_full
 shadowed=yes
 
-[interface_490:29]
+[interface_490:28]
 type=^iftype_text
 x=279
 y=218
@@ -331,7 +322,7 @@ font=p12_full
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_490:30]
+[interface_490:29]
 type=^iftype_text
 x=279
 y=262
@@ -342,7 +333,7 @@ colour=0xff981f
 font=p12_full
 shadowed=yes
 
-[interface_490:31]
+[interface_490:30]
 type=^iftype_graphic
 x=6
 y=6

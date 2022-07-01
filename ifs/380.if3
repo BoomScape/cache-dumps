@@ -1,12 +1,4 @@
 [interface_380:0]
-type=^iftype_rectangle
-width=512
-height=334
-colour=0xff981f
-fill=yes
-trans=225
-
-[interface_380:1]
 type=^iftype_model
 x=225
 y=152
@@ -16,7 +8,7 @@ model=model_3044
 zan=512
 zoom=366
 
-[interface_380:2]
+[interface_380:1]
 type=^iftype_text
 width=512
 height=44
@@ -26,43 +18,43 @@ halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_380:3]
+[interface_380:2]
 type=^iftype_text
 width=309
 height=290
-layer=interface_380:4
+layer=interface_380:3
 colour=0xffa21f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_380:4]
+[interface_380:3]
 type=^iftype_layer
 x=92
 y=44
 width=309
 height=290
 
-[interface_380:5]
+[interface_380:4]
 type=^iftype_layer
 x=400
 y=44
 width=16
 height=290
 
-[interface_380:6]
+[interface_380:5]
 type=^iftype_text
 width=309
 height=290
-layer=interface_380:4
+layer=interface_380:3
 colour=0xffb61f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 shadowed=yes
 
-[interface_380:7]
+[interface_380:6]
 type=^iftype_graphic
 x=478
 y=12

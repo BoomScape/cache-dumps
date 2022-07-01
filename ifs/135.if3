@@ -1,12 +1,4 @@
 [interface_135:0]
-type=^iftype_rectangle
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-colour=0xa4957f
-fill=yes
-trans=200
-
-[interface_135:1]
 type=^iftype_model
 x=242
 y=32
@@ -17,7 +9,7 @@ xan=515
 yan=513
 zoom=1418
 
-[interface_135:2]
+[interface_135:1]
 type=^iftype_text
 x=171
 y=14
@@ -28,7 +20,7 @@ colour=0x381f0a
 font=b12_full
 halign=^settextalign_centre
 
-[interface_135:3]
+[interface_135:2]
 type=^iftype_text
 x=171
 y=28
@@ -40,7 +32,7 @@ font=q8_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 
-[interface_135:4]
+[interface_135:3]
 type=^iftype_model
 x=418
 y=144
@@ -51,7 +43,7 @@ xan=478
 yan=3
 zoom=1290
 
-[interface_135:5]
+[interface_135:4]
 type=^iftype_model
 x=242
 y=247
@@ -62,7 +54,7 @@ xan=515
 yan=513
 zoom=1418
 
-[interface_135:6]
+[interface_135:5]
 type=^iftype_text
 x=382
 y=86
@@ -73,7 +65,7 @@ colour=0x381f0a
 font=b12_full
 halign=^settextalign_centre
 
-[interface_135:7]
+[interface_135:6]
 type=^iftype_text
 x=172
 y=238
@@ -84,7 +76,7 @@ colour=0x381f0a
 font=b12_full
 halign=^settextalign_centre
 
-[interface_135:8]
+[interface_135:7]
 type=^iftype_text
 x=382
 y=103
@@ -96,7 +88,7 @@ font=q8_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 
-[interface_135:9]
+[interface_135:8]
 type=^iftype_text
 x=173
 y=253
@@ -108,7 +100,7 @@ font=q8_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 
-[interface_135:10]
+[interface_135:9]
 type=^iftype_model
 x=52
 y=142
@@ -118,7 +110,7 @@ model=model_18530
 xan=475
 zoom=1290
 
-[interface_135:11]
+[interface_135:10]
 type=^iftype_text
 x=18
 y=86
@@ -129,7 +121,7 @@ colour=0x381f0a
 font=b12_full
 halign=^settextalign_centre
 
-[interface_135:12]
+[interface_135:11]
 type=^iftype_text
 x=17
 y=100
@@ -141,7 +133,7 @@ font=q8_full
 halign=^settextalign_centre
 valign=^settextalign_centre
 
-[interface_135:13]
+[interface_135:12]
 type=^iftype_graphic
 x=5
 y=7
@@ -155,7 +147,7 @@ onmouseover="script44(event_com,540)"
 onmouseleave="script44(event_com,539)"
 onop="script29"
 
-[interface_135:14]
+[interface_135:13]
 type=^iftype_model
 x=242
 y=145

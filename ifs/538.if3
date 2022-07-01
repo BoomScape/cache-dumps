@@ -1,60 +1,50 @@
 [interface_538:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-colour=0x423f1a
-fill=yes
-trans=150
-
-[interface_538:1]
 type=^iftype_layer
 x=89
 y=12
 width=300
 height=300
 
-[interface_538:2]
+[interface_538:1]
 type=^iftype_model
 x=146
 y=102
 width=32
 height=32
-layer=interface_538:1
+layer=interface_538:0
 model=model_25920
 xan=507
 yan=2044
 zoom=656
 
-[interface_538:3]
+[interface_538:2]
 type=^iftype_layer
 x=88
 y=44
 width=300
 height=250
 
-[interface_538:4]
+[interface_538:3]
 type=^iftype_text
 x=8
 y=23
 width=329
 height=17
-layer=interface_538:3
+layer=interface_538:2
 text="Things to do:"
 font=q8_full
 
-[interface_538:5]
+[interface_538:4]
 type=^iftype_text
 x=7
 y=49
 width=319
 height=186
-layer=interface_538:3
+layer=interface_538:2
 text="Take out the rubbish<br>Buy a new record for the gramophone<br>Check shrunken ogleroot supply<br>Feed ogleroots to my darlings<br>Wash the bedsheets<br>Hang out the washing<br>Practise the piano<br>Terrorise the little brat with the ball again<br>Trim hedges in the garden<br>Floss warts<br>Plot revenge on Fritz's murderer"
 font=q8_full
 
-[interface_538:6]
+[interface_538:5]
 type=^iftype_graphic
 x=474
 y=13

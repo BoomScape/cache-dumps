@@ -1,12 +1,4 @@
 [interface_586:0]
-type=^iftype_rectangle
-width=512
-height=334
-colour=0x46341d
-fill=yes
-trans=160
-
-[interface_586:1]
 type=^iftype_model
 x=120
 y=-4
@@ -16,7 +8,7 @@ model=model_27220
 xan=532
 zoom=814
 
-[interface_586:2]
+[interface_586:1]
 type=^iftype_text
 x=149
 y=20
@@ -28,7 +20,7 @@ font=quill_oblique_large
 halign=^settextalign_centre
 valign=^settextalign_centre
 
-[interface_586:3]
+[interface_586:2]
 type=^iftype_rectangle
 x=174
 y=144
@@ -37,7 +29,7 @@ height=4
 colour=0x46320a
 fill=yes
 
-[interface_586:4]
+[interface_586:3]
 type=^iftype_rectangle
 x=174
 y=176
@@ -46,7 +38,7 @@ height=4
 colour=0x46320a
 fill=yes
 
-[interface_586:5]
+[interface_586:4]
 type=^iftype_rectangle
 x=174
 y=210
@@ -55,7 +47,7 @@ height=4
 colour=0x46320a
 fill=yes
 
-[interface_586:6]
+[interface_586:5]
 type=^iftype_rectangle
 x=269
 y=278
@@ -64,7 +56,7 @@ height=4
 colour=0x46320a
 fill=yes
 
-[interface_586:7]
+[interface_586:6]
 type=^iftype_graphic
 x=482
 y=6

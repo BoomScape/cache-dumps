@@ -1,22 +1,51 @@
 [interface_373:0]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+onload="script2549(24444929,24444930)"
+
+[interface_373:1]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_373:0
+
+[interface_373:2]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_373:1
+
+[interface_373:3]
+type=^iftype_layer
+y=6
+width=259
+height=291
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_373:2
+
+[interface_373:4]
 type=^iftype_text
-y=25
+y=2
 width=240
 height=11
 hposmode=^setpos_abs_centre
+layer=interface_373:3
 text="Current Champion: TzHaar-Xil-Huz"
 colour=0xcccccc
 font=p11_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_373:1]
+[interface_373:5]
 type=^iftype_text
 y=6
 height=12
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_373:2
+layer=interface_373:6
 text="Foes Remaining:"
 colour=^red
 font=p11_full
@@ -25,10 +54,11 @@ shadowed=yes
 onload="script70"
 onvartransmit="script70{var_560}"
 
-[interface_373:2]
+[interface_373:6]
 type=^iftype_layer
-y=31
+y=8
 width=191
 height=27
 hposmode=^setpos_abs_centre
+layer=interface_373:3
 

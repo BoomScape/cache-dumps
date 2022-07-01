@@ -1,12 +1,4 @@
 [interface_587:0]
-type=^iftype_rectangle
-width=512
-height=334
-colour=0x46341d
-fill=yes
-trans=160
-
-[interface_587:1]
 type=^iftype_model
 x=120
 y=-4
@@ -16,7 +8,7 @@ model=model_27222
 xan=532
 zoom=814
 
-[interface_587:2]
+[interface_587:1]
 type=^iftype_text
 x=211
 y=23
@@ -29,7 +21,7 @@ halign=^settextalign_right
 valign=^settextalign_centre
 opbase="rm"
 
-[interface_587:3]
+[interface_587:2]
 type=^iftype_graphic
 x=456
 y=24

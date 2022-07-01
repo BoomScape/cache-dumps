@@ -1,14 +1,4 @@
 [interface_254:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-colour=0x3d352e
-fill=yes
-trans=64
-
-[interface_254:1]
 type=^iftype_model
 x=229
 y=136
@@ -19,7 +9,7 @@ xan=459
 yan=2041
 zoom=912
 
-[interface_254:2]
+[interface_254:1]
 type=^iftype_graphic
 x=478
 y=6

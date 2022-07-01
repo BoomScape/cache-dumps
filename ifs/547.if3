@@ -1,14 +1,4 @@
 [interface_547:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-colour=0x46341d
-fill=yes
-trans=160
-
-[interface_547:1]
 type=^iftype_model
 x=10
 y=5
@@ -20,7 +10,7 @@ originy=15
 xan=469
 zoom=666
 
-[interface_547:2]
+[interface_547:1]
 type=^iftype_model
 x=10
 y=5
@@ -32,7 +22,7 @@ originy=15
 xan=469
 zoom=666
 
-[interface_547:3]
+[interface_547:2]
 type=^iftype_model
 x=10
 y=5
@@ -44,7 +34,7 @@ originy=15
 xan=469
 zoom=666
 
-[interface_547:4]
+[interface_547:3]
 type=^iftype_graphic
 x=466
 y=8

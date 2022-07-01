@@ -1,14 +1,4 @@
 [interface_537:0]
-type=^iftype_rectangle
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-colour=0x46341d
-fill=yes
-trans=160
-
-[interface_537:1]
 type=^iftype_model
 x=234
 y=112
@@ -19,7 +9,7 @@ xan=483
 yan=2044
 zoom=581
 
-[interface_537:2]
+[interface_537:1]
 type=^iftype_rectangle
 x=69
 y=48
@@ -28,7 +18,7 @@ height=2
 colour=0x46320a
 fill=yes
 
-[interface_537:3]
+[interface_537:2]
 type=^iftype_rectangle
 x=69
 y=58
@@ -37,7 +27,7 @@ height=2
 colour=0x46320a
 fill=yes
 
-[interface_537:4]
+[interface_537:3]
 type=^iftype_rectangle
 x=69
 y=67
@@ -46,7 +36,7 @@ height=2
 colour=0x46320a
 fill=yes
 
-[interface_537:5]
+[interface_537:4]
 type=^iftype_rectangle
 x=70
 y=77
@@ -55,7 +45,7 @@ height=2
 colour=0x46320a
 fill=yes
 
-[interface_537:6]
+[interface_537:5]
 type=^iftype_rectangle
 x=69
 y=88
@@ -64,7 +54,7 @@ height=2
 colour=0x46320a
 fill=yes
 
-[interface_537:7]
+[interface_537:6]
 type=^iftype_graphic
 x=66
 y=39
@@ -72,7 +62,7 @@ width=29
 height=66
 graphic="graphic_865"
 
-[interface_537:8]
+[interface_537:7]
 type=^iftype_graphic
 x=109
 y=28
@@ -80,7 +70,7 @@ width=45
 height=36
 graphic="graphic_862"
 
-[interface_537:9]
+[interface_537:8]
 type=^iftype_graphic
 x=143
 y=37
@@ -88,7 +78,7 @@ width=45
 height=36
 graphic="graphic_863"
 
-[interface_537:10]
+[interface_537:9]
 type=^iftype_graphic
 x=168
 y=46
@@ -96,7 +86,7 @@ width=45
 height=36
 graphic="graphic_863"
 
-[interface_537:11]
+[interface_537:10]
 type=^iftype_graphic
 x=197
 y=61
@@ -104,7 +94,7 @@ width=45
 height=36
 graphic="graphic_863"
 
-[interface_537:12]
+[interface_537:11]
 type=^iftype_graphic
 x=230
 y=51
@@ -112,7 +102,7 @@ width=45
 height=36
 graphic="graphic_863"
 
-[interface_537:13]
+[interface_537:12]
 type=^iftype_graphic
 x=261
 y=46
@@ -120,7 +110,7 @@ width=45
 height=36
 graphic="graphic_863"
 
-[interface_537:14]
+[interface_537:13]
 type=^iftype_text
 x=110
 y=94
@@ -131,7 +121,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:15]
+[interface_537:14]
 type=^iftype_text
 x=120
 y=94
@@ -142,7 +132,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:16]
+[interface_537:15]
 type=^iftype_text
 x=130
 y=94
@@ -153,7 +143,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:17]
+[interface_537:16]
 type=^iftype_text
 x=143
 y=94
@@ -164,7 +154,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:18]
+[interface_537:17]
 type=^iftype_text
 x=157
 y=94
@@ -175,7 +165,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:19]
+[interface_537:18]
 type=^iftype_text
 x=183
 y=94
@@ -186,7 +176,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:20]
+[interface_537:19]
 type=^iftype_text
 x=214
 y=94
@@ -197,7 +187,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:21]
+[interface_537:20]
 type=^iftype_text
 x=246
 y=94
@@ -208,7 +198,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:22]
+[interface_537:21]
 type=^iftype_text
 x=277
 y=94
@@ -219,7 +209,7 @@ colour=0x46320a
 font=p12_full
 shadowed=yes
 
-[interface_537:23]
+[interface_537:22]
 type=^iftype_model
 x=214
 y=209
@@ -230,7 +220,7 @@ xan=249
 yan=2044
 zoom=656
 
-[interface_537:24]
+[interface_537:23]
 type=^iftype_text
 x=63
 y=229
@@ -241,7 +231,7 @@ colour=0x46320a
 font=b12_full
 shadowed=yes
 
-[interface_537:25]
+[interface_537:24]
 type=^iftype_text
 x=79
 y=229
@@ -253,7 +243,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:26]
+[interface_537:25]
 type=^iftype_text
 x=107
 y=229
@@ -265,7 +255,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:27]
+[interface_537:26]
 type=^iftype_text
 x=139
 y=229
@@ -277,7 +267,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:28]
+[interface_537:27]
 type=^iftype_text
 x=168
 y=229
@@ -289,7 +279,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:29]
+[interface_537:28]
 type=^iftype_text
 x=193
 y=229
@@ -301,7 +291,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:30]
+[interface_537:29]
 type=^iftype_text
 x=220
 y=229
@@ -313,7 +303,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:31]
+[interface_537:30]
 type=^iftype_text
 x=276
 y=229
@@ -325,7 +315,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:32]
+[interface_537:31]
 type=^iftype_text
 x=248
 y=229
@@ -337,7 +327,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:33]
+[interface_537:32]
 type=^iftype_text
 x=304
 y=229
@@ -349,7 +339,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:34]
+[interface_537:33]
 type=^iftype_text
 x=333
 y=229
@@ -361,7 +351,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:35]
+[interface_537:34]
 type=^iftype_text
 x=361
 y=229
@@ -373,7 +363,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:36]
+[interface_537:35]
 type=^iftype_text
 x=389
 y=229
@@ -385,7 +375,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:37]
+[interface_537:36]
 type=^iftype_text
 x=418
 y=229
@@ -397,7 +387,7 @@ font=b12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_537:38]
+[interface_537:37]
 type=^iftype_text
 x=372
 y=33
@@ -407,7 +397,7 @@ text="UPPER"
 colour=0x46320a
 font=b12_full
 
-[interface_537:39]
+[interface_537:38]
 type=^iftype_text
 x=372
 y=93
@@ -417,7 +407,7 @@ text="LOWER"
 colour=0x46320a
 font=b12_full
 
-[interface_537:40]
+[interface_537:39]
 type=^iftype_graphic
 x=417
 y=20
