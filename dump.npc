@@ -175593,3 +175593,26 @@ vislevel=1
 multivar=varbit_8409
 multinpc=1,knight_of_varlamore_8712
 
+[justine_8721]
+name=Justine
+model1=zamorak_coif_20184
+model2=zamorak_dhide_20213
+model3=zamorak_chaps_20194
+model4=eternal_boots_29254
+model5=zamorak_bracers_20180
+model6=zamorak_dhide_20177
+model7=onyx_amulet_9644
+model8=team_7_cape_5601
+model9=female_hair_403
+head1=female_hair_120
+head2=ancient_coif_28766
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+op1=Talk-to
+op3=Trade
+vislevel=0
+drawpriority=yes
+
