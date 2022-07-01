@@ -26574,9 +26574,6 @@ val=ancient_platebody_12460,enum_3249
 val=armadyl_dhide_body_12508,enum_3250
 val=bandos_dhide_body_12500,enum_3251
 val=ancient_dhide_body_12492,enum_3252
-val=3rd_age_range_top_10330,enum_3253
-val=3rd_age_robe_top_10338,enum_3254
-val=3rd_age_platebody_10348,enum_3255
 val=rangers_tunic_12596,enum_83
 val=royal_gown_top_12393,enum_3257
 val=black_dhide_body_g_12381,enum_3258
@@ -26590,7 +26587,6 @@ val=samurai_shirt_20038,enum_3265
 val=mummys_head_20080,enum_3266
 val=ankou_mask_20095,enum_3267
 val=hood_of_darkness_20128,enum_3268
-val=3rd_age_druidic_robe_top_23336,enum_3269
 val=red_marionette_6867,enum_3270
 val=bobble_hat_6856,enum_3271
 val=bobble_scarf_6857,enum_3272
@@ -28115,33 +28111,6 @@ val=1,ancient_dhide_body_12492
 val=2,ancient_chaps_12494
 val=3,ancient_bracers_12490
 
-[enum_3253]
-inputtype=int
-outputtype=namedobj
-default=null
-val=0,3rd_age_range_coif_10334
-val=1,3rd_age_range_top_10330
-val=2,3rd_age_range_legs_10332
-val=3,3rd_age_vambraces_10336
-
-[enum_3254]
-inputtype=int
-outputtype=namedobj
-default=null
-val=0,3rd_age_mage_hat_10342
-val=1,3rd_age_robe_top_10338
-val=2,3rd_age_robe_10340
-val=3,3rd_age_amulet_10344
-
-[enum_3255]
-inputtype=int
-outputtype=namedobj
-default=null
-val=0,3rd_age_full_helmet_10350
-val=1,3rd_age_platebody_10348
-val=2,3rd_age_platelegs_10346
-val=3,3rd_age_kiteshield_10352
-
 [enum_3257]
 inputtype=int
 outputtype=namedobj
@@ -28250,15 +28219,6 @@ val=1,robe_top_of_darkness_20131
 val=2,robe_bottom_of_darkness_20137
 val=3,gloves_of_darkness_20134
 val=4,boots_of_darkness_20140
-
-[enum_3269]
-inputtype=int
-outputtype=namedobj
-default=null
-val=0,3rd_age_druidic_robe_top_23336
-val=1,3rd_age_druidic_robe_bottoms_23339
-val=2,3rd_age_druidic_staff_23342
-val=3,3rd_age_druidic_cloak_23345
 
 [enum_3270]
 inputtype=int
@@ -28581,6 +28541,7 @@ val=71,snakeskin_bandana_6326
 val=72,decorative_sword_4068
 val=73,decorative_sword_4503
 val=74,decorative_sword_4508
+val=75,fedora_11990
 
 [enum_3291]
 inputtype=int
@@ -28896,24 +28857,33 @@ val=58,armadyl_dhide_boots_19930
 val=59,guthix_dhide_boots_19927
 val=60,zamorak_dhide_boots_19936
 val=61,ancient_dhide_boots_19921
-val=62,3rd_age_range_top_10330
-val=63,3rd_age_robe_top_10338
-val=64,3rd_age_platebody_10348
-val=65,guthix_dhide_shield_23188
-val=66,saradomin_dhide_shield_23191
-val=67,zamorak_dhide_shield_23194
-val=68,ancient_dhide_shield_23197
-val=69,armadyl_dhide_shield_23200
-val=70,bandos_dhide_shield_23203
-val=71,rune_platebody_h1_23209
-val=72,rune_platebody_h2_23212
-val=73,rune_platebody_h3_23215
-val=74,rune_platebody_h4_23218
-val=75,rune_platebody_h5_23221
-val=76,dual_sai_23206
-val=77,thieving_bag_23224
-val=78,dragon_boots_g_22234
-val=79,magic_comp_bow_10284
+val=62,guthix_dhide_shield_23188
+val=63,saradomin_dhide_shield_23191
+val=64,zamorak_dhide_shield_23194
+val=65,ancient_dhide_shield_23197
+val=66,armadyl_dhide_shield_23200
+val=67,bandos_dhide_shield_23203
+val=68,rune_platebody_h1_23209
+val=69,rune_platebody_h2_23212
+val=70,rune_platebody_h3_23215
+val=71,rune_platebody_h4_23218
+val=72,rune_platebody_h5_23221
+val=73,dual_sai_23206
+val=74,thieving_bag_23224
+val=75,dragon_boots_g_22234
+val=76,magic_comp_bow_10284
+val=77,3rd_age_range_coif_10334
+val=78,3rd_age_range_top_10330
+val=79,3rd_age_range_legs_10332
+val=80,3rd_age_vambraces_10336
+val=81,3rd_age_mage_hat_10342
+val=82,3rd_age_robe_top_10338
+val=83,3rd_age_robe_10340
+val=84,3rd_age_amulet_10344
+val=85,3rd_age_full_helmet_10350
+val=86,3rd_age_platebody_10348
+val=87,3rd_age_platelegs_10346
+val=88,3rd_age_kiteshield_10352
 
 [enum_3297]
 inputtype=int
@@ -29002,6 +28972,9 @@ val=22,ankou_mask_20095
 val=23,hood_of_darkness_20128
 val=24,scroll_sack_22675
 val=25,3rd_age_druidic_robe_top_23336
+val=26,3rd_age_druidic_robe_bottoms_23339
+val=27,3rd_age_druidic_staff_23342
+val=28,3rd_age_druidic_cloak_23345
 
 [enum_3299]
 inputtype=int
@@ -29245,6 +29218,7 @@ val=snakeskin_bandana_6326,Snakeskin Armour
 val=decorative_sword_4068,Castle Wars Decorative sword (1)
 val=decorative_sword_4503,Castle Wars Decorative sword (2)
 val=decorative_sword_4508,Castle Wars Decorative sword (3)
+val=fedora_11990,Fedora
 val=mime_mask_3057,Mime costume
 val=frog_mask_6188,Frog costume
 val=zombie_shirt_7592,Zombie outfit
@@ -29537,9 +29511,18 @@ val=rune_platebody_h4_23218,Rune PlateBody (h4)
 val=rune_platebody_h5_23221,Rune PlateBody (h5)
 val=dual_sai_23206,Dual sai
 val=thieving_bag_23224,Thieving bag
-val=3rd_age_range_top_10330,3rd Age ranger kit
-val=3rd_age_robe_top_10338,3rd Age mage robes
-val=3rd_age_platebody_10348,3rd Age armour
+val=3rd_age_range_coif_10334,3rd Age range coif
+val=3rd_age_range_top_10330,3rd Age range top
+val=3rd_age_range_legs_10332,3rd Age range legs
+val=3rd_age_vambraces_10336,3rd Age range vambraces
+val=3rd_age_mage_hat_10342,3rd Age mage hat
+val=3rd_age_robe_top_10338,3rd Age mage robe top
+val=3rd_age_robe_10340,3rd Age mage robe bottoms
+val=3rd_age_amulet_10344,3rd Age mage amulet
+val=3rd_age_full_helmet_10350,3rd Age melee helmet
+val=3rd_age_platebody_10348,3rd Age melee platebody
+val=3rd_age_platelegs_10346,3rd Age melee legs
+val=3rd_age_kiteshield_10352,3rd Age melee kiteshield
 val=guthix_dhide_shield_23188,Dragonhide shield (Guthix)
 val=saradomin_dhide_shield_23191,Dragonhide shield (Saradomin)
 val=zamorak_dhide_shield_23194,Dragonhide shield (Zamorak)
@@ -29624,7 +29607,10 @@ val=ankou_mask_20095,Ankou costume
 val=hood_of_darkness_20128,Robes of Darkness
 val=left_eye_patch_19724,Eye patch
 val=scroll_sack_22675,Scroll Sack
-val=3rd_age_druidic_robe_top_23336,3rd Age Druidic robes
+val=3rd_age_druidic_robe_top_23336,3rd Age druidic robe top
+val=3rd_age_druidic_robe_bottoms_23339,3rd Age druidic robe bottoms
+val=3rd_age_druidic_staff_23342,3rd Age druidic staff
+val=3rd_age_druidic_cloak_23345,3rd Age druidic cloak
 val=ring_of_3rd_age_23185,Ring of 3rd Age
 val=bunny_ears_1037,2003: Bunny ears
 val=scythe_1419,2003: Scythe

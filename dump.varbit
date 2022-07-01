@@ -52953,3 +52953,8 @@ basevar=var_2748
 startbit=13
 endbit=13
 
+[varbit_10591]
+basevar=var_129
+startbit=20
+endbit=20
+

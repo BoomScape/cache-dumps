@@ -235236,3 +235236,6 @@ model=sourhog_foot_40901
 iop5=Destroy
 members=yes
 
+[dummy_sheep_bones_1_24945]
+model=sheep_bones_1_2674
+

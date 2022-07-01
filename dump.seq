@@ -16327,8 +16327,11 @@ framegroup1=825
 
 [seq_2709]
 framecount=187
+priority=9
 mainhand=0
 offhand=0
+exactmove=2
+movetype=1
 looptype=1
 framegroup1=215
 
