@@ -151769,6 +151769,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,annakarl_teleport_4649
 
 [carrallangar_teleport_12776]
 name=Carrallangar teleport
@@ -151782,6 +151783,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,carrallangar_teleport_4646
 
 [dareeyak_teleport_12777]
 name=Dareeyak teleport
@@ -151795,6 +151797,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,dareeyak_teleport_4643
 
 [ghorrock_teleport_12778]
 name=Ghorrock teleport
@@ -151808,6 +151811,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,ghorrock_teleport_4652
 
 [kharyrll_teleport_12779]
 name=Kharyrll teleport
@@ -151821,6 +151825,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,kharyrll_teleport_4637
 
 [lassar_teleport_12780]
 name=Lassar teleport
@@ -151834,6 +151839,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,lassar_teleport_4640
 
 [paddewwa_teleport_12781]
 name=Paddewwa teleport
@@ -151847,6 +151853,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,paddewwa_teleport_4631
 
 [senntisten_teleport_12782]
 name=Senntisten teleport
@@ -151860,6 +151867,7 @@ stockmarket=yes
 stackable=yes
 placeholder=yes
 param=param_852,6
+param=param_608,senntisten_teleport_4634
 
 [ring_of_wealth_scroll_12783]
 name=Ring of wealth scroll
@@ -182051,7 +182059,7 @@ model=cemetery_teleport_31533
 2dzoom=465
 2dyof=-1
 2dxan=373
-iop1=Break
+iop4=Break
 members=yes
 stockmarket=yes
 stackable=yes
@@ -235279,4 +235287,172 @@ model=model_40902
 2dxan=102
 2dyan=1891
 stackable=yes
+
+[moonclan_teleport_24949]
+name=Moonclan teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+recol1s=22430
+recol1d=22430
+recol2s=-25689
+recol2d=-25689
+recol3s=-26705
+recol3d=-26705
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,moonclan_teleport_9111
+
+[placeholder_moonclan_teleport_24950]
+placeholder=yes
+
+[ourania_teleport_24951]
+name=Ourania teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+recol1s=22430
+recol1d=-21952
+recol2s=-25689
+recol2d=10816
+recol3s=-26705
+recol3d=9174
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,ourania_teleport_20759
+
+[placeholder_ourania_teleport_24952]
+placeholder=yes
+
+[waterbirth_teleport_24953]
+name=Waterbirth teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+recol1s=22430
+recol1d=78
+recol2s=-25689
+recol2d=-32170
+recol3s=-26705
+recol3d=-32665
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,waterbirth_teleport_9114
+
+[placeholder_waterbirth_teleport_24954]
+placeholder=yes
+
+[barbarian_teleport_24955]
+name=Barbarian teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+recol1s=22430
+recol1d=47
+recol2s=-25689
+recol2d=18343
+recol3s=-26705
+recol3d=17327
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,barbarian_teleport_9117
+
+[placeholder_barbarian_teleport_24956]
+placeholder=yes
+
+[khazard_teleport_24957]
+name=Khazard teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+recol1s=22430
+recol1d=23196
+recol2s=-25689
+recol2d=23097
+recol3s=-26705
+recol3d=22992
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,khazard_teleport_9120
+
+[placeholder_khazard_teleport_24958]
+placeholder=yes
+
+[fishing_guild_teleport_24959]
+name=Fishing guild teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+recol1s=22430
+recol1d=7622
+recol2s=-25689
+recol2d=78
+recol3s=-26705
+recol3d=94
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,fishing_guild_teleport_9127
+
+[placeholder_fishing_guild_teleport_24960]
+placeholder=yes
+
+[catherby_teleport_24961]
+name=Catherby teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+recol1s=22430
+recol1d=57
+recol2s=-25689
+recol2d=88
+recol3s=-26705
+recol3d=101
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,catherby_teleport_9129
+
+[placeholder_catherby_teleport_24962]
+placeholder=yes
+
+[ice_plateau_teleport_24963]
+name=Ice plateau teleport
+model=moonclan_teleport_40903
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop4=Break
+recol1s=22430
+recol1d=-32170
+recol2s=-25689
+recol2d=-28864
+recol3s=-26705
+recol3d=-28730
+members=yes
+stackable=yes
+placeholder=yes
+param=param_608,ice_plateau_teleport_9131
+
+[placeholder_ice_plateau_teleport_24964]
+placeholder=yes
 

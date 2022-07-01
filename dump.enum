@@ -7050,6 +7050,22 @@ default=null
 val=0,right_eye_patch_1025
 val=1,double_eye_patch_19727
 
+[enum_908]
+inputtype=int
+outputtype=enum
+default=null
+val=1,enum_3256
+val=2,enum_3253
+val=3,enum_2628
+
+[enum_909]
+inputtype=int
+outputtype=enum
+default=null
+val=1,enum_3269
+val=2,enum_3254
+val=3,enum_2629
+
 [enum_913]
 inputtype=int
 outputtype=string
@@ -15225,6 +15241,14 @@ val=34,wma_34
 val=35,wma_35
 val=36,wma_36
 val=37,wma_37
+
+[enum_1701]
+inputtype=int
+outputtype=enum
+default=null
+val=1,enum_3313
+val=2,enum_3255
+val=3,enum_1978
 
 [enum_1702]
 inputtype=int
@@ -28123,6 +28147,45 @@ val=1,ancient_dhide_body_12492
 val=2,ancient_chaps_12494
 val=3,ancient_bracers_12490
 
+[enum_3253]
+inputtype=int
+outputtype=namedobj
+default=null
+val=1,moonclan_teleport_24949
+val=2,ourania_teleport_24951
+val=3,waterbirth_teleport_24953
+val=4,barbarian_teleport_24955
+val=5,khazard_teleport_24957
+val=6,fishing_guild_teleport_24959
+val=7,catherby_teleport_24961
+val=8,ice_plateau_teleport_24963
+
+[enum_3254]
+inputtype=int
+outputtype=string
+default=
+val=1,Moonclan
+val=2,Ourania
+val=3,Waterbirth
+val=4,Barbarian Outpost
+val=5,Port Khazard
+val=6,Fishing Guild
+val=7,Catherby
+val=8,Ice Plateau
+
+[enum_3256]
+inputtype=int
+outputtype=namedobj
+default=null
+val=1,paddewwa_teleport_12781
+val=2,senntisten_teleport_12782
+val=3,kharyrll_teleport_12779
+val=4,lassar_teleport_12780
+val=5,dareeyak_teleport_12777
+val=6,carrallangar_teleport_12776
+val=7,annakarl_teleport_12775
+val=8,ghorrock_teleport_12778
+
 [enum_3257]
 inputtype=int
 outputtype=namedobj
@@ -28231,6 +28294,19 @@ val=1,robe_top_of_darkness_20131
 val=2,robe_bottom_of_darkness_20137
 val=3,gloves_of_darkness_20134
 val=4,boots_of_darkness_20140
+
+[enum_3269]
+inputtype=int
+outputtype=string
+default=
+val=1,Paddewa
+val=2,Senntisten
+val=3,Kharyll
+val=4,Lassar
+val=5,Dareeyak
+val=6,Carrallangar
+val=7,Annakarl
+val=8,Ghorrock
 
 [enum_3270]
 inputtype=int
@@ -29993,4 +30069,26 @@ outputtype=namedobj
 default=null
 val=0,red_gingerbread_shield_24430
 val=1,blue_gingerbread_shield_24431
+
+[enum_3314]
+inputtype=int
+outputtype=obj
+default=null
+val=0,shoe_3680
+val=1,shoe_3681
+val=2,shoe_3682
+val=3,shoe_3683
+val=4,shoe_3684
+val=5,shoe_3685
+
+[enum_3315]
+inputtype=int
+outputtype=string
+default=Select
+val=0,Brown
+val=1,Khaki
+val=2,Ashen
+val=3,Dark
+val=4,Terracotta
+val=5,Grey
 
