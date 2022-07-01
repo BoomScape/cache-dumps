@@ -7164,3 +7164,12 @@ param=param_938,Look for a Cow near the hint arrow location.
 param=param_689,Monkey Backpacks
 param=param_690,enum_3044
 
+[daddys_home_1688]
+param=param_579,Daddy's Home
+param=param_610,Daddy's Home
+param=param_611,2
+
+[mahogany_homes_1689]
+param=param_689,Mahogany Homes
+param=param_690,enum_3076
+

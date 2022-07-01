@@ -113012,6 +113012,7 @@ cost=10
 2dyof=-14
 2dxan=650
 2dyan=277
+iop4=Check
 iop5=Destroy
 members=yes
 ambient=25
@@ -193574,45 +193575,68 @@ count2=rune_arrow_3_935,3
 count3=rune_arrow_4_934,4
 count4=rune_arrow_5_937,5
 
-[dummy_tzhaar_ket_om_20601]
-name=Null
-model=tzhaar_ket_om_9351
-manwear=tzhaar_ket_om_9344,0
-womanwear=tzhaar_ket_om_9344,6
-2dzoom=1130
-2dxof=3
-2dyof=-4
-2dxan=396
-2dyan=952
-members=yes
-certificate=yes
-placeholder=yes
+[wooden_table_20601]
+name=Wooden table
+model=wooden_table_9590
+2dzoom=2533
+2dxan=123
+2dyan=1883
 
-[dummy_alviss_20602]
-certificate=yes
+[waxwood_bed_20602]
+name=Waxwood bed
+model=waxwood_bed_4305
+2dzoom=3780
+2dyof=-5
+2dxan=123
+2dyan=1883
+recol1s=6594
+recol1d=5322
+recol2s=5568
+recol2d=5322
+recol3s=5559
+recol3d=4288
+recol4s=5679
+recol4d=5301
+recol5s=14614
+recol5d=7446
 
-[dummy_alviss_20603]
-placeholder=yes
+[carpet_20603]
+name=Carpet
+model=opulent_rug_12527
+2dzoom=1711
+2dxof=-16
+2dyof=-20
+2dxan=512
+2dyan=1535
+recol1s=926
+recol1d=26
+recol2s=0
+recol2d=10382
+recol3s=9666
+recol3d=18
 
-[dummy_master_wand_20604]
-name=Null
-model=master_wand_10565
-manwear=master_wand_10702,0
-womanwear=master_wand_10702,0
-2dzoom=540
-2dxof=6
+[wooden_stool_20604]
+name=Wooden stool
+model=wooden_stool_10089
+2dzoom=1875
+2dxof=4
+2dxan=94
+2dyan=1562
+
+[wooden_chair_20605]
+name=Wooden chair
+model=crude_wooden_chair_12443
+2dzoom=2467
 2dyof=-7
-2dxan=68
-2dyan=1092
-members=yes
-certificate=yes
-placeholder=yes
+2dxan=123
+2dyan=1883
 
-[dummy_alviss_20605]
-certificate=yes
-
-[dummy_alviss_20606]
-placeholder=yes
+[dummy_chair_space_20606]
+model=chair_space_12660
+2dzoom=2500
+2dyof=-7
+2dxan=123
+2dyan=1883
 
 [rune_arrow_pack_20607]
 name=Rune arrow pack
@@ -236264,4 +236288,636 @@ model=zamorak_hilt_28058
 2dxof=-1
 2dxan=498
 2dyan=263
+
+[carpenters_helmet_24872]
+name=Carpenter's helmet
+model=carpenters_helmet_40844
+manwear=carpenters_helmet_20859,0
+womanwear=carpenters_helmet_40779,0
+manhead=carpenters_helmet_40850
+femalehead=carpenters_helmet_40850
+cost=320
+2dzoom=787
+2dyof=-16
+2dxan=179
+2dyan=1911
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_carpenters_helmet_24873]
+placeholder=yes
+
+[carpenters_shirt_24874]
+name=Carpenter's shirt
+model=carpenters_shirt_40842
+manwear=carpenters_shirt_21484,0
+manwear2=carpenters_shirt_20862
+womanwear=carpenters_shirt_40781,0
+womanwear2=carpenters_shirt_40780
+cost=380
+2dzoom=1243
+2dxan=526
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_carpenters_shirt_24875]
+placeholder=yes
+
+[carpenters_trousers_24876]
+name=Carpenter's trousers
+model=carpenters_trousers_40847
+manwear=carpenters_trousers_20853,0
+womanwear=carpenters_trousers_40778,0
+cost=340
+2dzoom=1697
+2dyof=-1
+2dxan=553
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_carpenters_trousers_24877]
+placeholder=yes
+
+[carpenters_boots_24878]
+name=Carpenter's boots
+model=carpenters_boots_40843
+manwear=carpenters_boots_40777,0
+womanwear=carpenters_boots_40782,0
+cost=280
+2dzoom=854
+2dxof=3
+2dyof=-32
+2dxan=235
+2dyan=249
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_carpenters_boots_24879]
+placeholder=yes
+
+[amys_saw_24880]
+name=Amy's saw
+model=amys_saw_40845
+manwear=amys_saw_40783,0
+womanwear=amys_saw_40784,0
+cost=280
+2dzoom=976
+2dxof=-2
+2dyof=3
+2dxan=1367
+2dyan=764
+iop2=Wield
+members=yes
+placeholder=yes
+
+[placeholder_amys_saw_24881]
+placeholder=yes
+
+[plank_sack_24882]
+name=Plank sack
+model=plank_sack_40846
+cost=370
+2dzoom=1488
+2dyof=-1
+2dxan=90
+2dyan=1857
+iop1=Fill
+iop3=Check
+iop4=Empty
+members=yes
+ambient=20
+placeholder=yes
+param=param_595,Use
+
+[placeholder_plank_sack_24883]
+placeholder=yes
+
+[supply_crate_24884]
+name=Supply crate
+model=crate_7685
+cost=145
+2dzoom=2336
+2dxof=3
+2dxan=135
+2dyan=357
+iop1=Open
+iop3=Open-all
+recol1s=6443
+recol1d=5297
+recol2s=6439
+recol2d=5165
+recol3s=6563
+recol3d=8361
+recol4s=6558
+recol4d=7333
+recol5s=6682
+recol5d=8481
+recol6s=6806
+recol6d=7452
+members=yes
+param=param_595,Open-All
+
+[hosidius_blueprints_24885]
+name=Hosidius blueprints
+model=hosidius_blueprints_40874
+cost=30
+2dzoom=2184
+2dxan=364
+2dyan=1454
+iop1=Inspect
+members=yes
+
+[wooden_table_24886]
+name=Wooden table
+model=wooden_table_40804
+2dzoom=3280
+2dxof=-2
+2dxan=174
+2dyan=1859
+
+[oak_table_24887]
+name=Oak table
+model=oak_table_40801
+2dzoom=3024
+2dxof=-3
+2dyof=10
+2dxan=111
+2dyan=1874
+
+[teak_table_24888]
+name=Teak table
+model=teak_table_40805
+2dzoom=3152
+2dxof=-4
+2dyof=21
+2dxan=126
+2dyan=1355
+
+[mahogany_table_24889]
+name=Mahogany table
+model=mahogany_table_40806
+2dzoom=2512
+2dxof=-4
+2dyof=6
+2dxan=108
+2dyan=1343
+
+[wooden_table_24890]
+name=Wooden table
+model=wooden_table_40802
+2dzoom=4176
+2dxof=-9
+2dxan=177
+2dyan=1658
+
+[oak_table_24891]
+name=Oak table
+model=oak_table_40807
+2dzoom=4176
+2dxof=-9
+2dxan=126
+2dyan=1661
+
+[teak_table_24892]
+name=Teak table
+model=teak_table_40810
+2dzoom=4432
+2dxof=-9
+2dxan=153
+2dyan=1682
+
+[mahogany_table_24893]
+name=Mahogany table
+model=mahogany_table_40809
+2dzoom=3536
+2dxof=-2
+2dxan=153
+2dyan=1685
+
+[wooden_table_24894]
+name=Wooden table
+model=wooden_table_12493
+2dzoom=5328
+2dxof=-6
+2dyof=11
+2dxan=165
+2dyan=1667
+
+[oak_table_24895]
+name=Oak table
+model=oak_kitchen_table_12491
+2dzoom=5328
+2dxof=-6
+2dyof=11
+2dxan=165
+2dyan=1667
+
+[teak_table_24896]
+name=Teak table
+model=teak_kitchen_table_12492
+2dzoom=5328
+2dxof=-6
+2dyof=11
+2dxan=165
+2dyan=1667
+
+[mahogany_table_24897]
+name=Mahogany table
+model=mahogany_table_40800
+2dzoom=5328
+2dxof=-6
+2dyof=11
+2dxan=165
+2dyan=1667
+
+[wooden_cabinet_24898]
+name=Wooden cabinet
+model=wooden_cabinet_40813
+2dzoom=4688
+2dxof=-9
+2dxan=117
+2dyan=1898
+
+[oak_cabinet_24899]
+name=Oak cabinet
+model=oak_cabinet_40812
+2dzoom=4688
+2dxof=-9
+2dxan=117
+2dyan=1898
+
+[teak_cabinet_24900]
+name=Teak cabinet
+model=teak_cabinet_40815
+2dzoom=4688
+2dxof=-9
+2dxan=117
+2dyan=1898
+
+[mahogany_cabinet_24901]
+name=Mahogany cabinet
+model=mahogany_cabinet_40814
+2dzoom=4688
+2dxof=-9
+2dxan=117
+2dyan=1898
+
+[wooden_bookcase_24902]
+name=Wooden bookcase
+model=wooden_bookcase_12415
+2dzoom=4048
+2dxof=4
+2dyof=4
+2dxan=96
+2dyan=333
+
+[oak_bookcase_24903]
+name=Oak bookcase
+model=oak_bookcase_12410
+2dzoom=4048
+2dxof=4
+2dyof=4
+2dxan=96
+2dyan=333
+
+[teak_bookcase_24904]
+name=Teak bookcase
+model=teak_bookcase_40799
+2dzoom=4048
+2dxof=4
+2dyof=4
+2dxan=96
+2dyan=333
+
+[mahogany_bookcase_24905]
+name=Mahogany bookcase
+model=mahogany_bookcase_12409
+2dzoom=4048
+2dxof=4
+2dyof=4
+2dxan=96
+2dyan=333
+
+[wooden_wardrobe_24906]
+name=Wooden wardrobe
+model=wooden_wardrobe_40830
+2dzoom=4304
+2dxof=3
+2dyof=15
+2dxan=132
+2dyan=1913
+
+[oak_wardrobe_24907]
+name=Oak wardrobe
+model=oak_wardrobe_11127
+2dzoom=4048
+2dxof=1
+2dyof=2
+2dxan=114
+2dyan=1853
+
+[teak_wardrobe_24908]
+name=Teak wardrobe
+model=teak_wardrobe_11128
+2dzoom=4375
+2dxof=12
+2dxan=129
+2dyan=1838
+
+[mahogany_wardrobe_24909]
+name=Mahogany wardrobe
+model=mahogany_wardrobe_11126
+2dzoom=4112
+2dxof=5
+2dyof=-7
+2dxan=94
+2dyan=1865
+
+[wooden_dresser_24910]
+name=Wooden dresser
+model=wooden_dresser_40793
+2dzoom=4432
+2dxof=-9
+2dxan=93
+2dyan=1883
+
+[oak_dresser_24911]
+name=Oak dresser
+model=oak_dresser_12468
+2dzoom=4048
+2dxof=-4
+2dxan=108
+2dyan=1922
+
+[teak_dresser_24912]
+name=Teak dresser
+model=teak_dresser_12469
+2dzoom=4048
+2dxof=-4
+2dxan=108
+2dyan=1922
+
+[mahogany_dresser_24913]
+name=Mahogany dresser
+model=mahogany_dresser_12467
+2dzoom=4048
+2dxof=-4
+2dxan=108
+2dyan=1922
+
+[wooden_shelves_24914]
+name=Wooden shelves
+model=wooden_shelves_40834
+2dzoom=3920
+2dxof=10
+2dyof=4
+2dxan=57
+2dyan=317
+
+[oak_shelves_24915]
+name=Oak shelves
+model=oak_shelves_40833
+2dzoom=3920
+2dxof=10
+2dyof=4
+2dxan=57
+2dyan=317
+
+[teak_shelves_24916]
+name=Teak shelves
+model=teak_shelves_40832
+2dzoom=4560
+2dxof=-1
+2dxan=69
+2dyan=371
+
+[mahogany_shelves_24917]
+name=Mahogany shelves
+model=mahogany_shelves_40831
+2dzoom=3920
+2dxof=10
+2dyof=4
+2dxan=57
+2dyan=317
+
+[wooden_bed_24918]
+name=Wooden bed
+model=wooden_bed_40818
+2dzoom=3920
+2dxof=-9
+2dxan=165
+2dyan=120
+
+[oak_bed_24919]
+name=Oak bed
+model=oak_bed_12397
+2dzoom=3920
+2dxof=-9
+2dxan=165
+2dyan=120
+
+[teak_bed_24920]
+name=Teak bed
+model=teak_bed_12398
+2dzoom=3920
+2dxof=-9
+2dxan=165
+2dyan=120
+
+[mahogany_bed_24921]
+name=Mahogany bed
+model=mahogany_bed_40816
+2dzoom=3920
+2dxof=-9
+2dxan=165
+2dyan=120
+
+[wooden_bed_24922]
+name=Wooden bed
+model=wooden_bed_40819
+2dzoom=5328
+2dyof=12
+2dxan=171
+2dyan=129
+
+[oak_bed_24923]
+name=Oak bed
+model=large_oak_bed_12395
+2dzoom=5328
+2dyof=12
+2dxan=171
+2dyan=129
+
+[teak_bed_24924]
+name=Teak bed
+model=large_teak_bed_12396
+2dzoom=5328
+2dyof=12
+2dxan=171
+2dyan=129
+
+[mahogany_bed_24925]
+name=Mahogany bed
+model=4_poster_12394
+2dzoom=5328
+2dyof=12
+2dxan=171
+2dyan=129
+
+[wooden_drawer_24926]
+name=Wooden drawer
+model=wooden_drawer_40794
+2dzoom=3280
+2dxof=-3
+2dyof=8
+2dxan=105
+2dyan=1901
+
+[oak_drawer_24927]
+name=Oak drawer
+model=oak_drawers_12958
+2dzoom=2640
+2dxof=4
+2dyof=-1
+2dxan=87
+2dyan=1907
+
+[teak_drawer_24928]
+name=Teak drawer
+model=teak_drawers_12959
+2dzoom=2896
+2dxof=2
+2dyof=7
+2dxan=105
+2dyan=1907
+
+[mahogany_drawer_24929]
+name=Mahogany drawer
+model=mahogany_drawer_40797
+2dzoom=3408
+2dxof=-3
+2dyof=-5
+2dxan=99
+2dyan=1913
+
+[wooden_chair_24930]
+name=Wooden chair
+model=wooden_chair_12450
+2dzoom=2896
+2dxof=-9
+2dxan=150
+2dyan=1886
+
+[oak_chair_24931]
+name=Oak chair
+model=oak_chair_12446
+2dzoom=2896
+2dxof=-9
+2dxan=150
+2dyan=1886
+
+[teak_chair_24932]
+name=Teak chair
+model=teak_armchair_12449
+2dzoom=2896
+2dxof=-9
+2dxan=150
+2dyan=1886
+
+[mahogany_chair_24933]
+name=Mahogany chair
+model=mahogany_armchair_12444
+2dzoom=2896
+2dxof=-9
+2dxan=150
+2dyan=1886
+
+[wooden_cupboard_24934]
+name=Wooden cupboard
+model=wooden_cupboard_40841
+2dzoom=4432
+2dxof=-9
+2dxan=87
+2dyan=1853
+
+[oak_cupboard_24935]
+name=Oak cupboard
+model=oak_cupboard_40836
+2dzoom=4432
+2dxof=-9
+2dxan=87
+2dyan=1853
+
+[teak_cupboard_24936]
+name=Teak cupboard
+model=teak_cupboard_40840
+2dzoom=4432
+2dxof=-9
+2dxan=87
+2dyan=1853
+
+[mahogany_cupboard_24937]
+name=Mahogany cupboard
+model=mahogany_cupboard_40838
+2dzoom=4432
+2dxof=-9
+2dxan=87
+2dyan=1853
+
+[waxwood_log_24938]
+name=Waxwood log
+model=dream_log_16820
+2dzoom=1568
+2dxan=157
+2dyan=393
+iop5=Destroy
+recol1s=-24098
+recol1d=4288
+recol2s=28126
+recol2d=5301
+recol3s=14814
+recol3d=5322
+members=yes
+ambient=5
+
+[waxwood_plank_24939]
+name=Waxwood plank
+model=oak_plank_12306
+2dzoom=1990
+2dyof=20
+2dxan=281
+2dyan=241
+iop5=Destroy
+recol1s=6707
+recol1d=4288
+recol2s=7952
+recol2d=5301
+members=yes
+
+[marlos_crate_24940]
+name=Marlo's crate
+model=crate_7685
+2dzoom=2312
+2dxof=3
+2dxan=138
+2dyan=240
+iop1=Open
+iop5=Destroy
+recol1s=6443
+recol1d=5297
+recol2s=6439
+recol2d=5165
+recol3s=6563
+recol3d=8361
+recol4s=6558
+recol4d=7333
+recol5s=6682
+recol5d=8481
+recol6s=6806
+recol6d=7452
+members=yes
 

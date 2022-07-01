@@ -2261,42 +2261,42 @@ drawpriority=yes
 
 [crawling_hand_120]
 name=Crawling hand
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=crawling_hand_12735
 vislevel=0
 
 [cockatrice_121]
 name=Cockatrice
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=cockatrice_14430
 vislevel=0
 
 [basilisk_122]
 name=Basilisk
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=basilisk_14429
 vislevel=0
 
 [kurask_123]
 name=Kurask
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=kurask_14438
 vislevel=0
 
 [abyssal_demon_124]
 name=Abyssal demon
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=abyssal_demon_14428
 vislevel=0
 
 [left_head_125]
 name=Left head
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=left_head_18506
 head2=left_head_18505
@@ -2305,7 +2305,7 @@ vislevel=0
 
 [middle_head_126]
 name=Middle head
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=middle_head_18507
 head2=middle_head_18504
@@ -2314,7 +2314,7 @@ vislevel=0
 
 [right_head_127]
 name=Right head
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=middle_head_18507
 head2=left_head_18505
@@ -2323,7 +2323,7 @@ vislevel=0
 
 [kalphite_queen_128]
 name=Kalphite Queen
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=kalphite_queen_24572
 vislevel=0
@@ -7269,9 +7269,9 @@ visonmap=no
 [evil_bob_390]
 name=Evil Bob
 model1=evil_bob_8838
-model2=crawling_hand_3010
+model2=cat_3010
 head1=evil_bob_8773
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -7291,7 +7291,7 @@ drawpriority=yes
 [evil_bob_391]
 name=Evil Bob
 model1=evil_bob_8838
-model2=crawling_hand_3010
+model2=cat_3010
 head1=evil_bob_8773
 readyanim=evil_bob_ready_2159
 walkanim=evil_bob_walk_314
@@ -7377,9 +7377,9 @@ visonmap=no
 
 [cat_395]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -9143,7 +9143,7 @@ contrast=30
 [smoke_devil_498]
 name=Smoke devil
 model1=smoke_devil_28442
-readyanim=smoke_devil_ready_1829
+readyanim=smoke_devil_1829
 walkanim=smoke_devil_walk_1828
 op2=Attack
 vislevel=160
@@ -9154,7 +9154,7 @@ contrast=30
 [thermonuclear_smoke_devil_499]
 name=Thermonuclear smoke devil
 model1=pet_smoke_devil_36012
-readyanim=smoke_devil_ready_1829
+readyanim=smoke_devil_1829
 walkanim=smoke_devil_walk_1828
 op2=Attack
 size=4
@@ -10078,7 +10078,7 @@ drawpriority=yes
 name=Clockwork cat
 model1=clockwork_cat_14104
 model2=toy_cat_14103
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -10092,7 +10092,7 @@ name=Clockwork cat
 model1=clockwork_cat_14104
 model2=toy_cat_14103
 head1=clockwork_cat_22781
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -18639,11 +18639,11 @@ visonmap=no
 
 [kalphite_queen_965]
 name=Kalphite Queen
-model1=kalphite_queen_24602
-model2=kalphite_queen_24605
-model3=kalphite_queen_24606
-readyanim=kalphite_queen_ready_6236
-walkanim=kalphite_queen_ready_6236
+model1=kalphite_princess_24602
+model2=kalphite_princess_24605
+model3=kalphite_princess_24606
+readyanim=kalphite_princess_6236
+walkanim=kalphite_princess_6236
 op2=Attack
 size=5
 vislevel=333
@@ -19647,10 +19647,10 @@ vislevel=0
 
 [gertrudes_cat_1010]
 name=Gertrude's cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=80
 resizev=80
@@ -29543,7 +29543,7 @@ vislevel=0
 [chompy_bird_1475]
 name=Chompy bird
 model1=chompy_chick_26861
-readyanim=chompy_bird_ready_6764
+readyanim=chompy_chick_6764
 walkanim=chompy_bird_walk_6765
 op5=Attack
 vislevel=6
@@ -32414,10 +32414,10 @@ vislevel=0
 
 [cat_1619]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -32431,10 +32431,10 @@ follower=yes
 
 [cat_1620]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -32454,10 +32454,10 @@ follower=yes
 
 [cat_1621]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -32477,10 +32477,10 @@ follower=yes
 
 [cat_1622]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -32500,10 +32500,10 @@ follower=yes
 
 [cat_1623]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -32521,10 +32521,10 @@ follower=yes
 
 [cat_1624]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -32545,7 +32545,7 @@ name=Hellcat
 model1=hellcat_13409
 model2=overgrown_hellcat_13405
 head1=hellcat_12742
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -32565,7 +32565,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -32588,7 +32588,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -32605,7 +32605,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -32628,7 +32628,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -32651,7 +32651,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -32672,7 +32672,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -32693,7 +32693,7 @@ name=Lazy hellcat
 model1=lazy_hellcat_13411
 model2=lazy_hell_cat_13407
 head1=lazy_hellcat_12744
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -36138,7 +36138,7 @@ turnspeed=15
 name=Del-Monty
 model1=del_monty_6439
 head1=del_monty_6437
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -37704,7 +37704,7 @@ name=HRH Hrafn
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -43561,8 +43561,8 @@ ambient=25
 
 [general_graardor_2215]
 name=General Graardor
-model1=general_graardor_27660
-model2=general_graardor_27665
+model1=general_graardor_jr_27660
+model2=general_graardor_jr_27665
 readyanim=general_graardor_ready_7017
 walkanim=general_graardor_walk_7016
 resizeh=110
@@ -43839,10 +43839,10 @@ vislevel=0
 
 [red_axe_cat_2229]
 name=Red Axe Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -43856,7 +43856,7 @@ vislevel=0
 
 [red_axe_cat_2230]
 name=Red Axe Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
 readyanim=evil_bob_ready_2159
@@ -44478,8 +44478,8 @@ contrast=30
 [dagannoth_supreme_2265]
 name=Dagannoth Supreme
 model1=pet_dagannoth_supreme_9941
-model2=dagannoth_supreme_9943
-readyanim=dagannoth_supreme_ready_2850
+model2=dagannoth_supreme_jr_9943
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=165
 resizev=167
@@ -44492,9 +44492,9 @@ contrast=30
 [dagannoth_prime_2266]
 name=Dagannoth Prime
 model1=dagannoth_prime_9940
-model2=dagannoth_supreme_9943
+model2=dagannoth_supreme_jr_9943
 model3=dagannoth_prime_9942
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=180
 resizev=175
@@ -44515,7 +44515,7 @@ contrast=30
 [dagannoth_rex_2267]
 name=Dagannoth Rex
 model1=pet_dagannoth_supreme_9941
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=190
 resizev=220
@@ -45996,7 +45996,7 @@ vislevel=0
 
 [dromunds_cat_2346]
 name=Dromund's cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 model3=dromunds_cat_7024
 head1=red_axe_cat_6436
@@ -51906,10 +51906,10 @@ vislevel=9
 
 [bob_2635]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -51926,10 +51926,10 @@ vislevel=0
 
 [bob_2636]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=bob_9367
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -51972,7 +51972,7 @@ drawpriority=yes
 name=Neite
 model1=del_monty_6439
 head1=del_monty_6437
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -54553,7 +54553,7 @@ visonmap=no
 name=Clockwork cat
 model1=clockwork_cat_14104
 model2=toy_cat_14103
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -64555,8 +64555,8 @@ op2=Attack
 op3=Pickpocket
 vislevel=2
 
-[man_3266]
-name=Man
+[norman_3266]
+name=Norman
 model1=male_hair_217
 model2=male_jaw_247
 model3=male_torso_292
@@ -64578,9 +64578,7 @@ recol1d=-6099
 recol2s=25238
 recol2d=7331
 op1=Talk-to
-op2=Attack
-op3=Pickpocket
-vislevel=2
+vislevel=0
 
 [cecilia_3267]
 name=Cecilia
@@ -69420,10 +69418,10 @@ vislevel=0
 
 [gertrudes_cat_3497]
 name=Gertrude's cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=80
 resizev=80
@@ -69436,7 +69434,7 @@ vislevel=0
 name=Kitten
 model1=kitten_9386
 model2=kitten_9388
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -76495,9 +76493,9 @@ visonmap=no
 [cat_3831]
 name=Cat
 model1=wily_cat_9426
-model2=cat_9428
+model2=wily_cat_9428
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -76516,9 +76514,9 @@ visonmap=no
 [cat_3832]
 name=Cat
 model1=wily_cat_9426
-model2=cat_9428
+model2=wily_cat_9428
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -81215,7 +81213,7 @@ vislevel=0
 name=Chompy chick
 model1=chompy_chick_26861
 head1=chompy_chick_14387
-readyanim=chompy_bird_ready_6764
+readyanim=chompy_chick_6764
 walkanim=chompy_bird_walk_6765
 resizeh=83
 resizev=83
@@ -81230,7 +81228,7 @@ contrast=30
 name=Chompy chick
 model1=chompy_chick_26861
 head1=chompy_chick_14387
-readyanim=chompy_bird_ready_6764
+readyanim=chompy_chick_6764
 walkanim=chompy_bird_walk_6765
 resizeh=95
 resizev=95
@@ -84427,7 +84425,7 @@ vislevel=0
 drawpriority=yes
 
 [bob_multi_4113]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6144
@@ -86559,7 +86557,7 @@ vislevel=91
 drawpriority=yes
 
 [neite_multi_4211]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6104
@@ -87257,7 +87255,7 @@ drawpriority=yes
 
 [bob_4231]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 model3=bob_9387
 head1=gertrudes_cat_6435
@@ -87351,7 +87349,7 @@ turnspeed=0
 name=Neite
 model1=del_monty_6439
 head1=del_monty_6437
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -89374,11 +89372,11 @@ headicon=6
 
 [kalphite_queen_4304]
 name=Kalphite Queen
-model1=kalphite_queen_24602
-model2=kalphite_queen_24605
-model3=kalphite_queen_24606
-readyanim=kalphite_queen_ready_6236
-walkanim=kalphite_queen_ready_6236
+model1=kalphite_princess_24602
+model2=kalphite_princess_24605
+model3=kalphite_princess_24606
+readyanim=kalphite_princess_6236
+walkanim=kalphite_princess_6236
 op2=Attack
 size=5
 vislevel=333
@@ -94664,7 +94662,7 @@ name=The Beast
 model1=witchs_cat_3006
 model2=kitten_9388
 head1=the_beast_10036
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=80
 resizev=85
@@ -94681,9 +94679,9 @@ drawpriority=yes
 [bellemorde_4573]
 name=Bellemorde
 model1=wily_cat_9426
-model2=cat_9428
+model2=wily_cat_9428
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=58
 resizev=58
@@ -94702,9 +94700,9 @@ drawpriority=yes
 [pox_4574]
 name=Pox
 model1=witchs_cat_3006
-model2=crawling_hand_3010
+model2=cat_3010
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=55
 resizev=55
@@ -94725,9 +94723,9 @@ drawpriority=yes
 [pox_4575]
 name=Pox
 model1=witchs_cat_3006
-model2=crawling_hand_3010
+model2=cat_3010
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=55
 resizev=55
@@ -95290,9 +95288,9 @@ drawpriority=yes
 
 [turbogroomer_4596]
 name=Turbogroomer
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -95308,9 +95306,9 @@ drawpriority=yes
 
 [pusskins_4597]
 name=Pusskins
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -95324,9 +95322,9 @@ drawpriority=yes
 
 [loki_4598]
 name=Loki
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -95344,7 +95342,7 @@ drawpriority=yes
 name=Captain Tom
 model1=witchs_cat_3006
 model2=kitten_9388
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=80
 resizev=85
@@ -95360,9 +95358,9 @@ drawpriority=yes
 
 [treacle_4600]
 name=Treacle
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -95376,9 +95374,9 @@ drawpriority=yes
 
 [mittens_4601]
 name=Mittens
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -95396,7 +95394,7 @@ drawpriority=yes
 name=Claude
 model1=kitten_9386
 model2=kitten_9388
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -95408,7 +95406,7 @@ drawpriority=yes
 name=Topsy
 model1=kitten_9386
 model2=kitten_9388
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -99636,10 +99634,10 @@ ambient=15
 
 [black_cat_4780]
 name=Black Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -116443,10 +116441,10 @@ vislevel=0
 
 [wily_cat_5584]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -116467,10 +116465,10 @@ follower=yes
 
 [wily_cat_5585]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -116485,10 +116483,10 @@ follower=yes
 
 [wily_cat_5586]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -116509,10 +116507,10 @@ follower=yes
 
 [wily_cat_5587]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -116533,10 +116531,10 @@ follower=yes
 
 [wily_cat_5588]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -116555,10 +116553,10 @@ follower=yes
 
 [wily_cat_5589]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -116580,7 +116578,7 @@ name=Wily hellcat
 model1=wily_hellcat_13412
 model2=wily_hellcat_13408
 head1=wily_hellcat_12745
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -116600,7 +116598,7 @@ name=Kitten
 model1=kitten_9386
 model2=kitten_9388
 head1=beite_6438
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -116618,7 +116616,7 @@ name=Kitten
 model1=kitten_9386
 model2=kitten_9388
 head1=beite_6438
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -116642,7 +116640,7 @@ name=Kitten
 model1=kitten_9386
 model2=kitten_9388
 head1=beite_6438
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -116666,7 +116664,7 @@ name=Kitten
 model1=kitten_9386
 model2=kitten_9388
 head1=beite_6438
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -116690,7 +116688,7 @@ name=Kitten
 model1=kitten_9386
 model2=kitten_9388
 head1=beite_6438
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -116712,7 +116710,7 @@ name=Kitten
 model1=kitten_9386
 model2=kitten_9388
 head1=beite_6438
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=40
 resizev=30
@@ -116734,7 +116732,7 @@ name=Hell-kitten
 model1=hell_kitten_13406
 model2=hell_kitten_13410
 head1=hell_kitten_12743
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=kitten_walk_2662
 resizeh=30
 resizev=40
@@ -116753,10 +116751,10 @@ follower=yes
 
 [overgrown_cat_5598]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -116770,10 +116768,10 @@ follower=yes
 
 [overgrown_cat_5599]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -116793,10 +116791,10 @@ follower=yes
 
 [overgrown_cat_5600]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -116816,10 +116814,10 @@ follower=yes
 
 [overgrown_cat_5601]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -116839,10 +116837,10 @@ follower=yes
 
 [overgrown_cat_5602]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -116860,10 +116858,10 @@ follower=yes
 
 [overgrown_cat_5603]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -116884,7 +116882,7 @@ name=Overgrown hellcat
 model1=hellcat_13409
 model2=overgrown_hellcat_13405
 head1=hellcat_12742
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=65
 resizev=80
@@ -120031,7 +120029,7 @@ model1=giant_mole_12076
 model2=giant_mole_12075
 model3=giant_mole_12074
 model4=giant_mole_12077
-readyanim=giant_mole_ready_3309
+readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=118
 resizev=118
@@ -120043,7 +120041,7 @@ drawpriority=yes
 [baby_mole_5780]
 name=Baby Mole
 model1=baby_mole_12073
-readyanim=giant_mole_ready_3309
+readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 recol1s=5388
 recol1d=317
@@ -120063,7 +120061,7 @@ visonmap=no
 [baby_mole_5781]
 name=Baby Mole
 model1=baby_mole_12073
-readyanim=giant_mole_ready_3309
+readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=118
 resizev=118
@@ -120085,7 +120083,7 @@ visonmap=no
 [baby_mole_5782]
 name=Baby Mole
 model1=baby_mole_12073
-readyanim=giant_mole_ready_3309
+readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=108
 resizev=108
@@ -121065,9 +121063,7 @@ readyanim=frog_ready_1796
 walkanim=frog_walk_1797
 resizeh=64
 resizev=64
-op1=Talk-to
 vislevel=0
-drawpriority=yes
 ambient=20
 
 [storm_cloud_5834]
@@ -124234,7 +124230,7 @@ drawpriority=yes
 
 [red_axe_cat_6026]
 name=Red Axe Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=red_axe_cat_6436
 readyanim=evil_bob_ready_2159
@@ -126859,7 +126855,7 @@ multinpc=90,frank_4225
 drawpriority=yes
 
 [neite_multi_6201]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6145
@@ -130720,22 +130716,26 @@ op2=Attack
 vislevel=53
 drawpriority=yes
 
-[odovacar_6439]
-name=Odovacar
-model1=odovacar_20859
-model2=odovacar_20862
-model3=odovacar_20853
-head1=odovacar_21484
-head2=odovacar_21502
-readyanim=odovacar_ready_5607
-walkanim=odovacar_walk_5606
-resizeh=120
-resizev=120
+[amy_6439]
+name=Amy
+model1=female_hair_390
+model2=carpenters_shirt_40781
+model3=carpenters_shirt_40780
+model4=carpenters_trousers_40778
+model5=maid_10706
+model6=carpenters_boots_40782
+model7=carpenters_helmet_40779
+model8=amy_40785
+model9=amys_saw_40784
+head1=female_hair_113
+head2=carpenters_helmet_40850
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
 op1=Talk-to
-op3=Bank
-op4=Collect
 vislevel=0
-drawpriority=yes
 
 [giant_skeleton_6440]
 name=Giant skeleton
@@ -131584,8 +131584,8 @@ drawpriority=yes
 
 [general_graardor_6494]
 name=General Graardor
-model1=general_graardor_27660
-model2=general_graardor_27665
+model1=general_graardor_jr_27660
+model2=general_graardor_jr_27665
 readyanim=general_graardor_ready_7017
 walkanim=general_graardor_walk_7016
 resizeh=110
@@ -131614,8 +131614,8 @@ drawpriority=yes
 [dagannoth_supreme_6496]
 name=Dagannoth Supreme
 model1=pet_dagannoth_supreme_9941
-model2=dagannoth_supreme_9943
-readyanim=dagannoth_supreme_ready_2850
+model2=dagannoth_supreme_jr_9943
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=165
 resizev=167
@@ -131628,9 +131628,9 @@ contrast=30
 [dagannoth_prime_6497]
 name=Dagannoth Prime
 model1=dagannoth_prime_9940
-model2=dagannoth_supreme_9943
+model2=dagannoth_supreme_jr_9943
 model3=dagannoth_prime_9942
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=180
 resizev=175
@@ -131651,7 +131651,7 @@ contrast=30
 [dagannoth_rex_6498]
 name=Dagannoth Rex
 model1=pet_dagannoth_supreme_9941
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=190
 resizev=220
@@ -131675,7 +131675,7 @@ model1=giant_mole_12076
 model2=giant_mole_12075
 model3=giant_mole_12074
 model4=giant_mole_12077
-readyanim=giant_mole_ready_3309
+readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=118
 resizev=118
@@ -131697,11 +131697,11 @@ headicon=6
 
 [kalphite_queen_6501]
 name=Kalphite Queen
-model1=kalphite_queen_24602
-model2=kalphite_queen_24605
-model3=kalphite_queen_24606
-readyanim=kalphite_queen_ready_6236
-walkanim=kalphite_queen_ready_6236
+model1=kalphite_princess_24602
+model2=kalphite_princess_24605
+model3=kalphite_princess_24606
+readyanim=kalphite_princess_6236
+walkanim=kalphite_princess_6236
 op2=Attack
 size=5
 vislevel=333
@@ -133887,9 +133887,9 @@ visonmap=no
 [dagannoth_supreme_jr_6626]
 name=Dagannoth Supreme Jr.
 model1=pet_dagannoth_supreme_9941
-model2=dagannoth_supreme_9943
+model2=dagannoth_supreme_jr_9943
 head1=dagannoth_supreme_jr_28862
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=60
 resizev=60
@@ -133901,10 +133901,10 @@ visonmap=no
 [dagannoth_prime_jr_6627]
 name=Dagannoth Prime Jr.
 model1=dagannoth_prime_9940
-model2=dagannoth_supreme_9943
+model2=dagannoth_supreme_jr_9943
 model3=dagannoth_prime_9942
 head1=dagannoth_prime_jr_28855
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=60
 resizev=60
@@ -133926,9 +133926,9 @@ contrast=30
 [dagannoth_supreme_jr_6628]
 name=Dagannoth Supreme Jr.
 model1=pet_dagannoth_supreme_9941
-model2=dagannoth_supreme_9943
+model2=dagannoth_supreme_jr_9943
 head1=dagannoth_supreme_jr_28862
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=60
 resizev=60
@@ -133941,10 +133941,10 @@ follower=yes
 [dagannoth_prime_jr_6629]
 name=Dagannoth Prime Jr.
 model1=dagannoth_prime_9940
-model2=dagannoth_supreme_9943
+model2=dagannoth_supreme_jr_9943
 model3=dagannoth_prime_9942
 head1=dagannoth_prime_jr_28855
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=60
 resizev=60
@@ -133968,7 +133968,7 @@ follower=yes
 name=Dagannoth Rex Jr.
 model1=pet_dagannoth_supreme_9941
 head1=dagannoth_rex_jr_28857
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=60
 resizev=60
@@ -134008,8 +134008,8 @@ follower=yes
 
 [general_graardor_jr_6632]
 name=General Graardor Jr.
-model1=general_graardor_27660
-model2=general_graardor_27665
+model1=general_graardor_jr_27660
+model2=general_graardor_jr_27665
 head1=general_graardor_jr_28860
 readyanim=general_graardor_ready_7017
 walkanim=general_graardor_walk_7016
@@ -134067,7 +134067,7 @@ follower=yes
 name=Baby Mole
 model1=baby_mole_12073
 head1=baby_mole_28863
-readyanim=giant_mole_ready_3309
+readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=80
 resizev=80
@@ -134101,12 +134101,12 @@ follower=yes
 
 [kalphite_princess_6637]
 name=Kalphite Princess
-model1=kalphite_queen_24602
-model2=kalphite_queen_24605
-model3=kalphite_queen_24606
+model1=kalphite_princess_24602
+model2=kalphite_princess_24605
+model3=kalphite_princess_24606
 head1=kalphite_princess_28866
-readyanim=kalphite_queen_ready_6236
-walkanim=kalphite_queen_ready_6236
+readyanim=kalphite_princess_6236
+walkanim=kalphite_princess_6236
 resizeh=45
 resizev=45
 op1=Talk-to
@@ -134141,7 +134141,7 @@ follower=yes
 name=Smoke Devil
 model1=pet_smoke_devil_36012
 head1=smoke_devil_36011
-readyanim=smoke_devil_ready_1829
+readyanim=smoke_devil_1829
 walkanim=smoke_devil_walk_1828
 resizeh=35
 resizev=35
@@ -134174,7 +134174,7 @@ follower=yes
 name=Dagannoth Rex Jr.
 model1=pet_dagannoth_supreme_9941
 head1=dagannoth_rex_jr_28857
-readyanim=dagannoth_supreme_ready_2850
+readyanim=dagannoth_supreme_jr_2850
 walkanim=dagannoth_supreme_walk_2849
 resizeh=60
 resizev=60
@@ -134235,8 +134235,8 @@ contrast=30
 
 [general_graardor_jr_6644]
 name=General Graardor Jr.
-model1=general_graardor_27660
-model2=general_graardor_27665
+model1=general_graardor_jr_27660
+model2=general_graardor_jr_27665
 head1=general_graardor_jr_28860
 readyanim=general_graardor_ready_7017
 walkanim=general_graardor_walk_7016
@@ -134422,7 +134422,7 @@ drawpriority=yes
 name=Baby Mole
 model1=baby_mole_12073
 head1=baby_mole_28863
-readyanim=giant_mole_ready_3309
+readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=80
 resizev=80
@@ -134454,12 +134454,12 @@ contrast=30
 
 [kalphite_princess_6653]
 name=Kalphite Princess
-model1=kalphite_queen_24602
-model2=kalphite_queen_24605
-model3=kalphite_queen_24606
+model1=kalphite_princess_24602
+model2=kalphite_princess_24605
+model3=kalphite_princess_24606
 head1=kalphite_princess_28866
-readyanim=kalphite_queen_ready_6236
-walkanim=kalphite_queen_ready_6236
+readyanim=kalphite_princess_6236
+walkanim=kalphite_princess_6236
 resizeh=45
 resizev=45
 op1=Talk-to
@@ -134490,7 +134490,7 @@ contrast=30
 name=Smoke Devil
 model1=pet_smoke_devil_36012
 head1=smoke_devil_36011
-readyanim=smoke_devil_ready_1829
+readyanim=smoke_devil_1829
 walkanim=smoke_devil_walk_1828
 resizeh=35
 resizev=35
@@ -134566,7 +134566,7 @@ turnspeed=0
 name=Clockwork cat
 model1=clockwork_cat_14104
 model2=toy_cat_14103
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134576,10 +134576,10 @@ visonmap=no
 
 [cat_6662]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134589,10 +134589,10 @@ visonmap=no
 
 [cat_6663]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134608,10 +134608,10 @@ visonmap=no
 
 [cat_6664]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134627,10 +134627,10 @@ visonmap=no
 
 [cat_6665]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134646,10 +134646,10 @@ visonmap=no
 
 [cat_6666]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134663,10 +134663,10 @@ visonmap=no
 
 [cat_6667]
 name=Cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134683,7 +134683,7 @@ name=Hellcat
 model1=hellcat_13409
 model2=overgrown_hellcat_13405
 head1=hellcat_12742
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -134773,10 +134773,10 @@ vislevel=0
 
 [overgrown_cat_6676]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=85
@@ -134786,10 +134786,10 @@ visonmap=no
 
 [overgrown_cat_6677]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=85
@@ -134805,10 +134805,10 @@ visonmap=no
 
 [overgrown_cat_6678]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=85
@@ -134824,10 +134824,10 @@ visonmap=no
 
 [overgrown_cat_6679]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=85
@@ -134843,10 +134843,10 @@ visonmap=no
 
 [overgrown_cat_6680]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=85
@@ -134860,10 +134860,10 @@ visonmap=no
 
 [overgrown_cat_6681]
 name=Overgrown cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=85
@@ -134880,7 +134880,7 @@ name=Overgrown hellcat
 model1=hellcat_13409
 model2=overgrown_hellcat_13405
 head1=hellcat_12742
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=85
@@ -134896,7 +134896,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -134909,7 +134909,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -134928,7 +134928,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -134947,7 +134947,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -134966,7 +134966,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -134983,7 +134983,7 @@ name=Lazy cat
 model1=lazy_cat_9427
 model2=lazy_cat_9425
 head1=lazy_cat_9422
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135000,7 +135000,7 @@ name=Lazy hellcat
 model1=lazy_hellcat_13411
 model2=lazy_hell_cat_13407
 head1=lazy_hellcat_12744
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135013,10 +135013,10 @@ ambient=40
 
 [wily_cat_6690]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135026,10 +135026,10 @@ visonmap=no
 
 [wily_cat_6691]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135045,10 +135045,10 @@ visonmap=no
 
 [wily_cat_6692]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135064,10 +135064,10 @@ visonmap=no
 
 [wily_cat_6693]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135083,10 +135083,10 @@ visonmap=no
 
 [wily_cat_6694]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135100,10 +135100,10 @@ visonmap=no
 
 [wily_cat_6695]
 name=Wily cat
-model1=cat_9428
+model1=wily_cat_9428
 model2=wily_cat_9426
 head1=cat_9424
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -135120,7 +135120,7 @@ name=Wily hellcat
 model1=wily_hellcat_13412
 model2=wily_hellcat_13408
 head1=wily_hellcat_12745
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -136171,9 +136171,9 @@ drawpriority=yes
 [evil_bob_6754]
 name=Evil Bob
 model1=evil_bob_8838
-model2=crawling_hand_3010
+model2=cat_3010
 head1=evil_bob_8773
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=70
 resizev=70
@@ -148592,9 +148592,9 @@ vislevel=0
 
 [giant_squirrel_7334]
 name=Giant Squirrel
-model1=giant_squirrel_32206
+model1=dark_squirrel_32206
 head1=giant_squirrel_32209
-readyanim=giant_squirrel_ready_7309
+readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
 resizeh=110
 resizev=110
@@ -148607,7 +148607,7 @@ visonmap=no
 name=Tangleroot
 model1=tangleroot_32202
 head1=tangleroot_32207
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -148861,9 +148861,9 @@ visonmap=no
 
 [giant_squirrel_7351]
 name=Giant Squirrel
-model1=giant_squirrel_32206
+model1=dark_squirrel_32206
 head1=giant_squirrel_32209
-readyanim=giant_squirrel_ready_7309
+readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
 resizeh=110
 resizev=110
@@ -148878,7 +148878,7 @@ follower=yes
 name=Tangleroot
 model1=tangleroot_32202
 head1=tangleroot_32207
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -149394,7 +149394,7 @@ name=Cat
 model1=cat_32228
 model2=cat_32227
 head1=cat_32288
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -149752,7 +149752,7 @@ vislevel=295
 [nuclear_smoke_devil_7406]
 name=Nuclear smoke devil
 model1=nuclear_smoke_devil_32928
-readyanim=smoke_devil_ready_1829
+readyanim=smoke_devil_1829
 walkanim=smoke_devil_walk_1828
 op2=Attack
 size=2
@@ -149933,22 +149933,28 @@ drawpriority=yes
 ambient=8
 contrast=5
 
-[eniola_7417]
-name=Eniola
-model1=odovacar_20859
-model2=odovacar_20862
-model3=odovacar_20853
-head1=odovacar_21484
-head2=odovacar_21502
-readyanim=odovacar_ready_5607
-walkanim=odovacar_walk_5606
-resizeh=120
-resizev=120
-op1=Bank
-op3=Talk-to
-op4=Collect
+[amy_7417]
+name=Amy
+model1=female_hair_390
+model2=carpenters_shirt_40781
+model3=carpenters_shirt_40780
+model4=carpenters_trousers_40778
+model5=maid_10706
+model6=carpenters_boots_40782
+model7=carpenters_helmet_40779
+model8=amy_40785
+model9=amys_saw_40784
+head1=female_hair_113
+head2=carpenters_helmet_40850
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+op1=Talk-to
+op3=Contract
+op4=Rewards
 vislevel=0
-drawpriority=yes
 
 [zamorak_warrior_7418]
 name=Zamorak warrior
@@ -152204,7 +152210,7 @@ multinpc=215,jardric_8106
 drawpriority=yes
 
 [bob_multi_7499]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6104
@@ -152222,7 +152228,7 @@ multinpc=105,bob_8111
 drawpriority=yes
 
 [bob_multi_7500]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6104
@@ -152239,7 +152245,7 @@ multinpc=109,bob_8111
 drawpriority=yes
 
 [bob_multi_7501]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6104
@@ -152267,7 +152273,7 @@ multinpc=125,bob_8111
 drawpriority=yes
 
 [bob_multi_7502]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6104
@@ -152291,7 +152297,7 @@ multinpc=150,bob_8111
 drawpriority=yes
 
 [bob_multi_7503]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6104
@@ -153185,7 +153191,7 @@ visonmap=no
 
 [rocks_7565]
 name=<col=00ffff>Rocks</col>
-model1=rocks_32680
+model1=vasa_minirio_32680
 readyanim=rocks_ready_7407
 walkanim=rocks_ready_7407
 size=5
@@ -153197,9 +153203,9 @@ contrast=5
 
 [vasa_nistirio_7566]
 name=Vasa Nistirio
-model1=rocks_32680
+model1=vasa_minirio_32680
 readyanim=vasa_nistirio_ready_7416
-walkanim=vasa_nistirio_walk_7411
+walkanim=vasa_minirio_7411
 op2=Attack
 size=5
 vislevel=0
@@ -153211,7 +153217,7 @@ param=param_510,Vasa Nistirio
 
 [vasa_nistirio_7567]
 name=Vasa Nistirio
-model1=rocks_32680
+model1=vasa_minirio_32680
 readyanim=vasa_nistirio_ready_7413
 walkanim=vasa_nistirio_ready_7413
 op2=Attack
@@ -162268,7 +162274,7 @@ visonmap=no
 
 [vorkath_8026]
 name=Vorkath
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=vorkath_35091
 vislevel=0
@@ -162418,10 +162424,10 @@ vislevel=83
 
 [bob_8034]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -162438,7 +162444,7 @@ vislevel=0
 name=Neite
 model1=del_monty_6439
 head1=del_monty_6437
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -162994,10 +163000,10 @@ drawpriority=yes
 
 [bob_8055]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164166,7 +164172,7 @@ drawpriority=yes
 
 [bob_8111]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
 resizeh=60
@@ -164182,10 +164188,10 @@ vislevel=0
 
 [bob_8112]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164201,10 +164207,10 @@ drawpriority=yes
 
 [bob_8113]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164220,10 +164226,10 @@ drawpriority=yes
 
 [bob_8114]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164239,10 +164245,10 @@ drawpriority=yes
 
 [bob_8115]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164257,10 +164263,10 @@ drawpriority=yes
 
 [not_bob_8116]
 name=Not Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164276,10 +164282,10 @@ drawpriority=yes
 
 [not_bob_8117]
 name=Not Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164295,7 +164301,7 @@ drawpriority=yes
 [neite_8118]
 name=Neite
 model1=del_monty_6439
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -164606,6 +164612,40 @@ recol4d=4634
 op1=Talk-to
 vislevel=0
 
+[eniola_8132]
+name=Eniola
+model1=eniola_40775
+model2=eniola_39541
+model3=eniola_39542
+head1=eniola_40776
+head2=eniola_21502
+readyanim=eniola_ready_8764
+walkanim=eniola_walk_8763
+resizeh=120
+resizev=120
+op1=Bank
+op3=Talk-to
+op4=Collect
+vislevel=0
+drawpriority=yes
+
+[odovacar_8133]
+name=Odovacar
+model1=eniola_40775
+model2=eniola_39541
+model3=eniola_39542
+head1=eniola_40776
+head2=eniola_21502
+readyanim=eniola_ready_8764
+walkanim=eniola_walk_8763
+resizeh=120
+resizev=120
+op1=Talk-to
+op3=Bank
+op4=Collect
+vislevel=0
+drawpriority=yes
+
 [sarah_8134]
 name=Sarah
 model1=velorina_5226
@@ -164708,7 +164748,7 @@ size=2
 vislevel=35
 
 [neite_multi_8141]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=1
 multivar=varbit_6104
@@ -165205,10 +165245,10 @@ contrast=15
 
 [bob_8159]
 name=Bob
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -166092,10 +166132,10 @@ visonmap=no
 
 [vasa_minirio_8199]
 name=Vasa Minirio
-model1=rocks_32680
+model1=vasa_minirio_32680
 head1=vasa_minirio_34597
 readyanim=vasa_nistirio_ready_7416
-walkanim=vasa_nistirio_walk_7411
+walkanim=vasa_minirio_7411
 resizeh=20
 resizev=20
 op1=Talk-to
@@ -166165,7 +166205,7 @@ follower=yes
 
 [vasa_minirio_8204]
 name=Vasa Minirio
-model1=rocks_32680
+model1=vasa_minirio_32680
 head1=vasa_minirio_34597
 readyanim=vasa_nistirio_ready_7416
 walkanim=vasa_minirio_walk_7985
@@ -173017,7 +173057,7 @@ vislevel=0
 name=Smoke Devil
 model1=smoke_devil_28442
 head1=smoke_devil_28856
-readyanim=smoke_devil_ready_1829
+readyanim=smoke_devil_1829
 walkanim=smoke_devil_walk_1828
 resizeh=60
 resizev=60
@@ -173032,7 +173072,7 @@ contrast=25
 name=Smoke Devil
 model1=smoke_devil_28442
 head1=smoke_devil_28856
-readyanim=smoke_devil_ready_1829
+readyanim=smoke_devil_1829
 walkanim=smoke_devil_walk_1828
 resizeh=60
 resizev=60
@@ -175560,7 +175600,7 @@ contrast=100
 
 [alchemical_hydra_8634]
 name=Alchemical Hydra
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=alchemical_hydra_36951
 vislevel=0
@@ -182367,10 +182407,10 @@ vislevel=0
 
 [witchs_cat_8992]
 name=Witch's cat
-model1=crawling_hand_3010
+model1=cat_3010
 model2=witchs_cat_3006
 head1=gertrudes_cat_6435
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 resizeh=60
 resizev=60
@@ -187579,7 +187619,7 @@ multinpc=8,kardia_8991
 multinpc=9,kardia_8991
 
 [witchs_cat_multi_9215]
-readyanim=evil_bob_ready_317
+readyanim=cat_317
 walkanim=evil_bob_walk_314
 vislevel=0
 multivar=varbit_9123
@@ -194271,7 +194311,7 @@ drawpriority=yes
 name=Tangleroot
 model1=tangleroot_39573
 head1=tangleroot_39576
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194283,7 +194323,7 @@ ambient=30
 name=Tangleroot
 model1=tangleroot_39571
 head1=tangleroot_39578
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194294,7 +194334,7 @@ visonmap=no
 name=Tangleroot
 model1=tangleroot_39572
 head1=tangleroot_39580
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194305,7 +194345,7 @@ visonmap=no
 name=Tangleroot
 model1=tangleroot_39574
 head1=tangleroot_39579
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194316,7 +194356,7 @@ visonmap=no
 name=Tangleroot
 model1=tangleroot_39575
 head1=tangleroot_39577
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194327,7 +194367,7 @@ visonmap=no
 name=Tangleroot
 model1=tangleroot_39573
 head1=tangleroot_39576
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194340,7 +194380,7 @@ follower=yes
 name=Tangleroot
 model1=tangleroot_39571
 head1=tangleroot_39578
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194352,7 +194392,7 @@ follower=yes
 name=Tangleroot
 model1=tangleroot_39572
 head1=tangleroot_39580
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194364,7 +194404,7 @@ follower=yes
 name=Tangleroot
 model1=tangleroot_39574
 head1=tangleroot_39579
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -194376,7 +194416,7 @@ follower=yes
 name=Tangleroot
 model1=tangleroot_39575
 head1=tangleroot_39577
-readyanim=tangleroot_ready_7312
+readyanim=tangleroot_7312
 walkanim=tangleroot_walk_7313
 op1=Talk-to
 op3=Pick-up
@@ -197566,9 +197606,9 @@ vislevel=0
 
 [dark_squirrel_9637]
 name=Dark Squirrel
-model1=giant_squirrel_32206
+model1=dark_squirrel_32206
 head1=giant_squirrel_32209
-readyanim=giant_squirrel_ready_7309
+readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
 resizeh=110
 resizev=110
@@ -197593,9 +197633,9 @@ follower=yes
 
 [dark_squirrel_9638]
 name=Dark Squirrel
-model1=giant_squirrel_32206
+model1=dark_squirrel_32206
 head1=giant_squirrel_32209
-readyanim=giant_squirrel_ready_7309
+readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
 resizeh=110
 resizev=110
@@ -197965,7 +198005,7 @@ vislevel=126
 
 [giant_squirrel_9666]
 name=Giant Squirrel
-model1=giant_squirrel_32206
+model1=dark_squirrel_32206
 head1=giant_squirrel_32209
 resizeh=110
 resizev=110
@@ -200688,7 +200728,7 @@ multivar=varbit_10444
 multinpc=1,c0lect0r890_9665
 
 [giant_squirrel_multi_9821]
-readyanim=giant_squirrel_ready_7309
+readyanim=dark_squirrel_7309
 walkanim=giant_squirrel_walk_7310
 vislevel=1
 multivar=varbit_10444
@@ -206248,4 +206288,621 @@ recol2d=7461
 op1=Talk-to
 op3=Rellekka
 vislevel=0
+
+[marlo_10408]
+name=Marlo
+model1=male_hair_217
+model2=carpenters_shirt_21484
+model3=carpenters_shirt_20862
+model4=carpenters_trousers_20853
+model5=cooking_gauntlets_179
+model6=carpenters_boots_40777
+model7=rick_turpentine_244
+model8=amy_40785
+model9=saw_12816
+model10=male_jaw_249
+head1=male_hair_55
+head2=rick_turpentine_77
+head3=male_jaw_81
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-27467
+recol1d=18
+recol2s=-27479
+recol2d=8
+recol3s=10004
+recol3d=7322
+recol4s=926
+recol4d=5941
+op1=Talk-to
+vislevel=0
+
+[marlo_10409]
+name=Marlo
+model1=male_hair_217
+model2=carpenters_shirt_21484
+model3=carpenters_shirt_20862
+model4=carpenters_trousers_20853
+model5=cooking_gauntlets_179
+model6=carpenters_boots_40777
+model7=rick_turpentine_244
+model8=amy_40785
+model9=saw_12816
+model10=male_jaw_249
+head1=male_hair_55
+head2=rick_turpentine_77
+head3=male_jaw_81
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-27467
+recol1d=18
+recol2s=-27479
+recol2d=8
+recol3s=10004
+recol3d=7322
+recol4s=926
+recol4d=5941
+op1=Talk-to
+op3=Contract
+vislevel=0
+
+[ellie_10410]
+name=Ellie
+model1=female_hair_32837
+model2=carpenters_shirt_40781
+model3=carpenters_shirt_40780
+model4=carpenters_trousers_40778
+model5=maid_10706
+model6=carpenters_boots_40782
+model7=carpenters_helmet_40779
+model8=amy_40785
+model9=saw_12816
+head1=female_hair_32846
+head2=carpenters_helmet_40850
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-27467
+recol1d=437
+recol2s=-27479
+recol2d=425
+recol3s=6798
+recol3d=12
+op1=Talk-to
+vislevel=0
+
+[ellie_10411]
+name=Ellie
+model1=female_hair_32837
+model2=carpenters_shirt_40781
+model3=carpenters_shirt_40780
+model4=carpenters_trousers_40778
+model5=maid_10706
+model6=carpenters_boots_40782
+model7=carpenters_helmet_40779
+model8=amy_40785
+model9=saw_12816
+head1=female_hair_32846
+head2=carpenters_helmet_40850
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-27467
+recol1d=437
+recol2s=-27479
+recol2d=425
+recol3s=6798
+recol3d=12
+op1=Talk-to
+op3=Contract
+vislevel=0
+
+[angelo_10412]
+name=Angelo
+model1=male_hair_206
+model2=carpenters_shirt_21484
+model3=carpenters_shirt_20862
+model4=carpenters_trousers_20853
+model5=cooking_gauntlets_179
+model6=carpenters_boots_40777
+model7=earmuffs_5102
+model8=amy_40785
+model9=saw_12816
+model10=father_urhney_11190
+head1=male_hair_46
+head2=earmuffs_5094
+head3=father_urhney_11188
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-27467
+recol1d=24757
+recol2s=-27479
+recol2d=24745
+recol3s=10004
+recol3d=7322
+recol4s=268
+recol4d=7322
+recol5s=6798
+recol5d=7626
+op1=Talk-to
+vislevel=0
+
+[angelo_10413]
+name=Angelo
+model1=male_hair_206
+model2=carpenters_shirt_21484
+model3=carpenters_shirt_20862
+model4=carpenters_trousers_20853
+model5=cooking_gauntlets_179
+model6=carpenters_boots_40777
+model7=earmuffs_5102
+model8=amy_40785
+model9=saw_12816
+model10=father_urhney_11190
+head1=male_hair_46
+head2=earmuffs_5094
+head3=father_urhney_11188
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-27467
+recol1d=24757
+recol2s=-27479
+recol2d=24745
+recol3s=10004
+recol3d=7322
+recol4s=268
+recol4d=7322
+recol5s=6798
+recol5d=7626
+op1=Talk-to
+op3=Contract
+vislevel=0
+
+[bob_10414]
+name=Bob
+model1=male_hair_217
+model2=male_jaw_246
+model3=male_torso_292
+model4=male_torso_326
+model5=male_arms_151
+model6=leather_vambraces_177
+model7=butler_12138
+model8=male_feet_181
+model9=blue_beret_198
+head1=male_hair_55
+head2=blue_beret_40
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=6798
+recol1d=4888
+recol2s=8741
+recol2d=-22376
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[jeff_10415]
+name=Jeff
+model1=male_hair_235
+model2=male_jaw_253
+model3=male_torso_292
+model4=male_torso_326
+model5=male_arms_151
+model6=leather_vambraces_177
+model7=male_legs_267
+model8=male_feet_181
+head1=male_hair_67
+head2=male_jaw_85
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=8741
+recol1d=21660
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[sarah_10416]
+name=Sarah
+model1=female_hair_390
+model2=blue_wizard_robe_g_11359
+model3=maid_11775
+model4=female_hands_353
+model5=black_heather_435
+head1=female_hair_113
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=8741
+recol1d=4510
+recol2s=6798
+recol2d=7620
+recol3s=10138
+recol3d=-26684
+recol4s=-22464
+recol4d=4510
+recol5s=25238
+recol5d=4510
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[tau_10417]
+name=Tau
+model1=female_hair_408
+model2=female_torso_470
+model3=female_arms_343
+model4=maid_10706
+model5=female_legs_429
+model6=ranger_boots_4930
+head1=female_hair_125
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=8741
+recol1d=7269
+recol2s=6798
+recol2d=7869
+recol3s=23077
+recol3d=792
+recol4s=25238
+recol4d=792
+recol5s=17294
+recol5d=792
+recol6s=15252
+recol6d=792
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[larry_10418]
+name=Larry
+model1=male_hair_215
+model2=male_jaw_249
+model3=man_25676
+model4=demon_butler_14373
+model5=rick_10218
+model6=butler_12138
+model7=male_feet_181
+head1=male_hair_53
+head2=male_jaw_81
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=25238
+recol1d=11146
+recol2s=8741
+recol2d=8481
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[noella_10419]
+name=Noella
+model1=female_hair_387
+model2=gamer_9361
+model3=female_arms_332
+model4=maid_10706
+model5=woman_17548
+model6=female_feet_358
+head1=female_hair_110
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=103
+recol1d=-5959
+recol2s=88
+recol2d=-5950
+recol3s=78
+recol3d=-5967
+recol4s=55
+recol4d=-5942
+recol5s=8741
+recol5d=-30531
+recol6s=6798
+recol6d=8542
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[ross_10420]
+name=Ross
+model1=male_hair_230
+model2=boots_of_lightness_185
+model3=freaky_forester_299
+model4=pirate_159
+model5=cooking_gauntlets_179
+model6=male_legs_267
+model7=male_jaw_252
+model8=man_321
+model9=tan_cavalier_186
+head1=male_hair_63
+head2=male_jaw_84
+head3=tan_cavalier_28
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-22464
+recol1d=4550
+recol2s=25238
+recol2d=7073
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[jess_10421]
+name=Jess
+model1=female_hair_378
+model2=boots_of_lightness_361
+model3=woman_462
+model4=squire_veteran_341
+model5=female_hands_353
+model6=female_legs_428
+model7=runa_483
+model8=perfect_necklace_445
+head1=female_hair_103
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=-22464
+recol1d=4550
+recol2s=25238
+recol2d=6947
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[mariah_10422]
+name=Mariah
+model1=galina_12141
+model2=blue_wizard_robe_g_11359
+model3=blue_wizard_robe_g_11348
+model4=maid_10706
+model5=moonclan_skirt_12143
+model6=boots_of_lightness_361
+head1=galina_12134
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+resizeh=122
+resizev=122
+recol1s=8741
+recol1d=25238
+recol2s=8865
+recol2d=23068
+recol3s=8615
+recol3d=23068
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[leela_10423]
+name=Leela
+model1=female_hair_391
+model2=female_torso_471
+model3=female_arms_332
+model4=female_hands_353
+model5=female_legs_419
+model6=female_feet_358
+model7=cook_414
+head1=female_hair_114
+head2=cook_131
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=25238
+recol1d=5652
+recol2s=-22464
+recol2d=4550
+recol3s=6798
+recol3d=6798
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[barbara_10424]
+name=Barbara
+model1=female_hair_378
+model2=julie_25713
+model3=julie_25697
+model4=female_hands_353
+model5=female_legs_421
+model6=female_feet_358
+head1=female_hair_103
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=25238
+recol1d=10508
+recol2s=8741
+recol2d=5652
+recol3s=-22464
+recol3d=10508
+recol4s=6798
+recol4d=45
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[old_man_yarlo_10425]
+name=Old Man Yarlo
+model1=male_hair_230
+model2=father_urhney_11190
+model3=h_a_m_member_308
+model4=moldof_168
+model5=rick_10218
+model6=old_man_yarlo_40786
+model7=old_man_ral_18089
+model8=male_feet_181
+head1=male_hair_63
+head2=father_urhney_11188
+readyanim=lucien_ready_6469
+walkanim=lucien_walk_6468
+resizeh=120
+resizev=120
+recol1s=4550
+recol1d=4422
+recol2s=4550
+recol2d=4422
+recol3s=6798
+recol3d=10266
+recol4s=8741
+recol4d=-27471
+recol5s=12
+recol5d=5400
+recol6s=4626
+recol6d=10258
+op1=Talk-to
+vislevel=0
+drawpriority=yes
+
+[old_man_yarlo_10426]
+name=Old Man Yarlo
+model1=male_hair_230
+model2=father_urhney_11190
+model3=carpenters_shirt_21484
+model4=carpenters_shirt_20862
+model5=rick_10218
+model6=carpenters_trousers_20853
+model7=carpenters_boots_40777
+head1=male_hair_63
+head2=father_urhney_11188
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=4550
+recol1d=4422
+recol2s=4550
+recol2d=4422
+recol3s=6798
+recol3d=10266
+recol4s=8741
+recol4d=-27471
+recol5s=12
+recol5d=5400
+recol6s=4626
+recol6d=10258
+vislevel=0
+drawpriority=yes
+
+[old_man_yarlo_10427]
+name=Old Man Yarlo
+model1=male_hair_230
+model2=father_urhney_11190
+model3=carpenters_shirt_21484
+model4=carpenters_shirt_20862
+model5=rick_10218
+model6=carpenters_trousers_20853
+model7=carpenters_boots_40777
+model8=hammer_491
+head1=male_hair_63
+head2=father_urhney_11188
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=4550
+recol1d=4422
+recol2s=4550
+recol2d=4422
+recol3s=6798
+recol3d=10266
+recol4s=8741
+recol4d=-27471
+recol5s=12
+recol5d=5400
+recol6s=4626
+recol6d=10258
+vislevel=0
+drawpriority=yes
+
+[amy_multi_10428]
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+vislevel=1
+multivar=varbit_10562
+multinpc=0,amy_6439
+multinpc=1,amy_7417
+drawpriority=yes
+
+[marlo_multi_10429]
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+vislevel=1
+multivar=varbit_10562
+multinpc=0,marlo_10408
+multinpc=1,marlo_10409
+drawpriority=yes
+
+[ellie_multi_10430]
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+vislevel=1
+multivar=varbit_10562
+multinpc=0,ellie_10410
+multinpc=1,ellie_10411
+drawpriority=yes
+
+[angelo_multi_10431]
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+vislevel=1
+multivar=varbit_10562
+multinpc=0,angelo_10412
+multinpc=1,angelo_10413
+drawpriority=yes
 

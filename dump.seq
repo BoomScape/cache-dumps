@@ -1736,8 +1736,9 @@ framecount=8
 looptype=1
 framegroup1=393
 
-[evil_bob_ready_317]
+[cat_317]
 framecount=4
+replayoff=4
 looptype=1
 framegroup1=393
 
@@ -11056,8 +11057,9 @@ framecount=16
 looptype=1
 framegroup1=1802
 
-[smoke_devil_ready_1829]
+[smoke_devil_1829]
 framecount=16
+replayoff=16
 looptype=1
 framegroup1=1802
 
@@ -17254,8 +17256,9 @@ framecount=12
 looptype=1
 framegroup1=15
 
-[dagannoth_supreme_ready_2850]
+[dagannoth_supreme_jr_2850]
 framecount=10
+replayoff=10
 looptype=1
 framegroup1=15
 
@@ -19957,8 +19960,9 @@ replayoff=8
 looptype=1
 framegroup1=317
 
-[giant_mole_ready_3309]
+[baby_mole_3309]
 framecount=10
+replayoff=10
 looptype=1
 framegroup1=120
 
@@ -21136,7 +21140,7 @@ framecount=11
 looptype=1
 framegroup1=81
 
-[clock_3511]
+[grandfather_clock_3511]
 framecount=8
 replayoff=8
 looptype=1
@@ -22088,6 +22092,7 @@ framegroup1=239
 framecount=21
 mainhand=0
 offhand=2859
+movetype=1
 looptype=1
 framegroup1=239
 
@@ -22126,6 +22131,7 @@ framegroup1=526
 framecount=23
 mainhand=0
 offhand=2859
+movetype=1
 looptype=1
 framegroup1=239
 
@@ -22133,6 +22139,7 @@ framegroup1=239
 framecount=22
 mainhand=0
 offhand=2859
+movetype=1
 looptype=1
 framegroup1=239
 
@@ -33732,15 +33739,16 @@ replayoff=8
 looptype=1
 framegroup1=1445
 
-[odovacar_walk_5606]
-framecount=16
+[seq_5606]
+framecount=12
 looptype=1
-framegroup1=1434
+framegroup1=2505
 
-[odovacar_ready_5607]
-framecount=56
+[pitfall_5607]
+framecount=1
+replayoff=1
 looptype=1
-framegroup1=1434
+framegroup1=578
 
 [seq_5608]
 framecount=20
@@ -37457,7 +37465,7 @@ priority=7
 looptype=1
 framegroup1=1589
 
-[kalphite_queen_ready_6236]
+[kalphite_princess_6236]
 framecount=16
 replayoff=16
 looptype=1
@@ -40895,8 +40903,9 @@ priority=6
 looptype=1
 framegroup1=1712
 
-[chompy_bird_ready_6764]
+[chompy_chick_6764]
 framecount=40
+replayoff=40
 looptype=1
 framegroup1=1712
 
@@ -44346,8 +44355,9 @@ framecount=8
 looptype=1
 framegroup1=1861
 
-[giant_squirrel_ready_7309]
+[dark_squirrel_7309]
 framecount=8
+replayoff=8
 looptype=1
 framegroup1=1862
 
@@ -44361,8 +44371,9 @@ framecount=10
 looptype=1
 framegroup1=1862
 
-[tangleroot_ready_7312]
+[tangleroot_7312]
 framecount=8
+replayoff=8
 looptype=1
 framegroup1=1859
 
@@ -45017,8 +45028,9 @@ movetype=2
 looptype=1
 framegroup1=1879
 
-[vasa_nistirio_walk_7411]
+[vasa_minirio_7411]
 framecount=32
+replayoff=32
 looptype=1
 framegroup1=1879
 
@@ -53304,30 +53316,31 @@ looptype=1
 framegroup1=2502
 
 [crossbowman_statue_8681]
-framecount=1
-replayoff=1
+framecount=2
+replayoff=2
 looptype=1
 framegroup1=2500
 
 [seq_8682]
-framecount=1
-replayoff=1
+framecount=18
+replayoff=18
 looptype=1
 framegroup1=2500
 
 [seq_8683]
-framecount=1
-replayoff=1
+framecount=18
+replayoff=18
 looptype=1
 framegroup1=2500
 
 [seq_8684]
-framecount=1
+framecount=5
+replayoff=5
 looptype=1
 framegroup1=2500
 
 [seq_8685]
-framecount=1
+framecount=2
 looptype=1
 framegroup1=2500
 
@@ -53769,4 +53782,30 @@ framecount=24
 priority=6
 looptype=1
 framegroup1=2521
+
+[eniola_walk_8763]
+framecount=16
+looptype=1
+framegroup1=1434
+
+[eniola_ready_8764]
+framecount=56
+looptype=1
+framegroup1=1434
+
+[general_graardor_jr_8765]
+framecount=14
+replayoff=14
+stretches=yes
+looptype=1
+framegroup1=1124
+soundeffect8=3843,1,15
+
+[smolcano_8766]
+framecount=23
+replayoff=23
+looptype=1
+framegroup1=2345
+soundeffect8=2524,1,10
+soundeffect10=3907,1,10
 

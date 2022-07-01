@@ -495,7 +495,7 @@ originy=130
 xan=42
 yan=66
 zoom=2100
-anim=dagannoth_supreme_ready_2850
+anim=dagannoth_supreme_jr_2850
 
 [interface_212:56]
 type=^iftype_model
@@ -506,7 +506,7 @@ model=smoke_devil_28442
 originx=-50
 originy=145
 zoom=2000
-anim=smoke_devil_ready_1829
+anim=smoke_devil_1829
 
 [interface_212:57]
 type=^iftype_layer

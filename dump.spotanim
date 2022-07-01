@@ -11992,3 +11992,17 @@ recol4d=48088
 recol5s=10836
 recol5d=48088
 
+[spotanim_1815]
+model=model_40204
+anim=seq_5606
+ambient=80
+recol1s=49969
+recol1d=39880
+
+[spotanim_1816]
+model=model_40204
+anim=seq_5606
+ambient=80
+recol1s=49969
+recol1d=8012
+

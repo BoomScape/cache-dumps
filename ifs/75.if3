@@ -4,7 +4,7 @@ y=20
 width=500
 height=300
 hposmode=^setpos_abs_centre
-onload="script1190(4915202,4915261)"
+onload="script1190(4915202,4915264)"
 
 [interface_75:1]
 type=^iftype_layer
@@ -397,8 +397,8 @@ height=100
 layer=interface_75:2
 optionmask=2
 op1="Konar"
-onmouseover="script45(4915263,15840880)"
-onmouseleave="script45(4915263,16750623)"
+onmouseover="script45(4915266,15840880)"
+onmouseleave="script45(4915266,16750623)"
 
 [interface_75:37]
 type=^iftype_layer
@@ -651,7 +651,7 @@ shadowed=yes
 
 [interface_75:58]
 type=^iftype_layer
-x=335
+x=402
 y=225
 width=65
 height=100
@@ -687,6 +687,42 @@ onmouseleave="script45(event_com,16750623)"
 
 [interface_75:61]
 type=^iftype_layer
+x=335
+y=225
+width=65
+height=100
+layer=interface_75:2
+optionmask=2
+op1="Amy"
+onmouseover="script45(4915263,15840880)"
+onmouseleave="script45(4915263,16750623)"
+
+[interface_75:62]
+type=^iftype_model
+width=65
+height=100
+layer=interface_75:61
+model=model_40852
+originy=-10
+zoom=1307
+
+[interface_75:63]
+type=^iftype_text
+width=65
+height=20
+vposmode=^setpos_abs_bottom
+layer=interface_75:61
+text="Amy"
+colour=0xff981f
+font=p12_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+onmouseover="script45(event_com,15840880)"
+onmouseleave="script45(event_com,16750623)"
+
+[interface_75:64]
+type=^iftype_layer
 x=9
 y=40
 width=16
@@ -694,7 +730,7 @@ height=250
 hposmode=^setpos_abs_right
 layer=interface_75:0
 
-[interface_75:62]
+[interface_75:65]
 type=^iftype_model
 width=65
 height=100
@@ -703,7 +739,7 @@ model=model_36163
 yan=39
 zoom=750
 
-[interface_75:63]
+[interface_75:66]
 type=^iftype_text
 width=65
 height=20
