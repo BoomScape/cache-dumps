@@ -132,7 +132,7 @@ onmouseleave="script45(event_com,16249055)"
 
 [interface_182:13]
 type=^iftype_layer
-y=95
+y=96
 height=17
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus

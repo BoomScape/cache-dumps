@@ -1336,18 +1336,19 @@ looptype=1
 framegroup1=304
 
 [seq_245]
-framecount=15
+framecount=17
 stretches=yes
+priority=6
 looptype=1
 framegroup1=304
-soundeffect4=303,1,1
-soundeffect6=303,1,1
-soundeffect7=229,1,1
-soundeffect8=2379,1,1
+soundeffect10=303,1,1
+soundeffect11=229,1,1
+soundeffect12=2379,1,1
 
 [seq_246]
 framecount=15
 stretches=yes
+priority=6
 looptype=1
 framegroup1=304
 
@@ -1358,6 +1359,7 @@ framegroup1=304
 
 [seq_248]
 framecount=8
+stretches=yes
 looptype=1
 framegroup1=304
 
@@ -43460,6 +43462,7 @@ framegroup1=277
 
 [seq_7200]
 framecount=6
+priority=6
 looptype=1
 framegroup1=304
 

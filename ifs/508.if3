@@ -1,58 +1,56 @@
 [interface_508:0]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+onload="script2407(33292289)"
+
+[interface_508:1]
+type=^iftype_layer
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_508:0
+
+[interface_508:2]
+type=^iftype_layer
+y=4
 width=388
 height=90
 hposmode=^setpos_abs_centre
+layer=interface_508:1
 
-[interface_508:1]
+[interface_508:3]
 type=^iftype_text
 y=3
 height=16
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_508:0
+layer=interface_508:2
 text="The Mind of the Homunculus!"
 colour=^yellow
 font=p12_full
 halign=^settextalign_centre
 shadowed=yes
 
-[interface_508:2]
+[interface_508:4]
 type=^iftype_model
 x=178
 y=19
 width=32
 height=32
-layer=interface_508:0
+layer=interface_508:2
 model=model_22511
 xan=568
 zoom=400
 
-[interface_508:3]
+[interface_508:5]
 type=^iftype_layer
 x=8
 y=19
 width=164
 height=32
-layer=interface_508:0
-
-[interface_508:4]
-type=^iftype_model
-x=66
-width=32
-height=32
-layer=interface_508:3
-model=model_22517
-xan=573
-zoom=400
-
-[interface_508:5]
-type=^iftype_layer
-x=216
-y=19
-width=164
-height=32
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:6]
 type=^iftype_model
@@ -60,59 +58,60 @@ x=66
 width=32
 height=32
 layer=interface_508:5
-model=model_22524
+model=model_22517
 xan=573
 zoom=400
 
 [interface_508:7]
+type=^iftype_layer
+x=216
+y=19
+width=164
+height=32
+layer=interface_508:2
+
+[interface_508:8]
+type=^iftype_model
+x=66
+width=32
+height=32
+layer=interface_508:7
+model=model_22524
+xan=573
+zoom=400
+
+[interface_508:9]
 type=^iftype_text
 x=20
 y=27
 width=110
 height=16
-layer=interface_508:0
+layer=interface_508:2
 text="The World of Magic"
 colour=^yellow
 font=p12_full
 shadowed=yes
 
-[interface_508:8]
+[interface_508:10]
 type=^iftype_text
 x=261
 y=27
 width=107
 height=16
-layer=interface_508:0
+layer=interface_508:2
 text="The World of Logic"
 colour=^yellow
 font=p12_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_508:9]
+[interface_508:11]
 type=^iftype_layer
 x=185
 y=53
 width=18
 height=32
-layer=interface_508:0
-
-[interface_508:10]
-type=^iftype_model
-width=18
-height=32
-layer=interface_508:9
-model=model_22525
-zoom=1552
-
-[interface_508:11]
-type=^iftype_layer
-x=15
-y=53
-width=18
-height=32
-hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:12]
 type=^iftype_model
@@ -124,12 +123,12 @@ zoom=1552
 
 [interface_508:13]
 type=^iftype_layer
-x=40
-y=54
+x=15
+y=53
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:14]
 type=^iftype_model
@@ -141,12 +140,12 @@ zoom=1552
 
 [interface_508:15]
 type=^iftype_layer
-x=65
+x=40
 y=54
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:16]
 type=^iftype_model
@@ -158,12 +157,12 @@ zoom=1552
 
 [interface_508:17]
 type=^iftype_layer
-x=90
+x=65
 y=54
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:18]
 type=^iftype_model
@@ -175,12 +174,12 @@ zoom=1552
 
 [interface_508:19]
 type=^iftype_layer
-x=114
+x=90
 y=54
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:20]
 type=^iftype_model
@@ -192,12 +191,12 @@ zoom=1552
 
 [interface_508:21]
 type=^iftype_layer
-x=137
+x=114
 y=54
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:22]
 type=^iftype_model
@@ -209,12 +208,12 @@ zoom=1552
 
 [interface_508:23]
 type=^iftype_layer
-x=160
+x=137
 y=54
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:24]
 type=^iftype_model
@@ -226,12 +225,12 @@ zoom=1552
 
 [interface_508:25]
 type=^iftype_layer
-x=209
+x=160
 y=54
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:26]
 type=^iftype_model
@@ -243,12 +242,12 @@ zoom=1552
 
 [interface_508:27]
 type=^iftype_layer
-x=234
-y=55
+x=209
+y=54
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:28]
 type=^iftype_model
@@ -260,12 +259,12 @@ zoom=1552
 
 [interface_508:29]
 type=^iftype_layer
-x=259
+x=234
 y=55
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:30]
 type=^iftype_model
@@ -277,12 +276,12 @@ zoom=1552
 
 [interface_508:31]
 type=^iftype_layer
-x=284
+x=259
 y=55
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:32]
 type=^iftype_model
@@ -294,12 +293,12 @@ zoom=1552
 
 [interface_508:33]
 type=^iftype_layer
-x=308
+x=284
 y=55
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:34]
 type=^iftype_model
@@ -311,12 +310,12 @@ zoom=1552
 
 [interface_508:35]
 type=^iftype_layer
-x=331
+x=308
 y=55
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:36]
 type=^iftype_model
@@ -328,18 +327,35 @@ zoom=1552
 
 [interface_508:37]
 type=^iftype_layer
-x=354
+x=331
 y=55
 width=18
 height=32
 hide=yes
-layer=interface_508:0
+layer=interface_508:2
 
 [interface_508:38]
 type=^iftype_model
 width=18
 height=32
 layer=interface_508:37
+model=model_22525
+zoom=1552
+
+[interface_508:39]
+type=^iftype_layer
+x=354
+y=55
+width=18
+height=32
+hide=yes
+layer=interface_508:2
+
+[interface_508:40]
+type=^iftype_model
+width=18
+height=32
+layer=interface_508:39
 model=model_22525
 zoom=1552
 

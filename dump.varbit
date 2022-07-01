@@ -32514,12 +32514,22 @@ startbit=0
 endbit=0
 
 [varbit_6503]
-basevar=var_1055
-startbit=26
-endbit=26
+basevar=var_1140
+startbit=30
+endbit=30
 
 [varbit_6504]
 basevar=var_1055
 startbit=30
 endbit=30
+
+[varbit_6505]
+basevar=var_1055
+startbit=26
+endbit=26
+
+[varbit_6506]
+basevar=var_1055
+startbit=31
+endbit=31
 

@@ -131,7 +131,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_156:11
 onload="script714(event_com)"
-onclick="script1980(0,80)"
+onclick="script1905(10223631)"
 
 [interface_156:14]
 type=^iftype_graphic
@@ -153,7 +153,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_156:13
-onclick="script1980(0,80)"
+onclick="script1905(10223631)"
 
 [interface_156:16]
 type=^iftype_layer
@@ -193,7 +193,7 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_156:17
 onload="script714(event_com)"
-onclick="script1980(0,80)"
+onclick="script1905(10223637)"
 
 [interface_156:20]
 type=^iftype_graphic
@@ -215,7 +215,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_156:19
-onclick="script1980(0,80)"
+onclick="script1905(10223637)"
 
 [interface_156:22]
 type=^iftype_layer

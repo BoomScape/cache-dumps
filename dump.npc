@@ -2253,6 +2253,7 @@ vislevel=0
 multivar=varbit_4153
 multinpc=0,doomsayer_6773
 multinpc=1,doomsayer_6774
+drawpriority=yes
 
 [crawling_hand_120]
 name=Crawling hand

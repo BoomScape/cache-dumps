@@ -107,8 +107,8 @@ layer=interface_601:11
 
 [interface_601:14]
 type=^iftype_graphic
-x=8
-y=-68
+x=7
+y=-64
 width=25
 height=25
 hposmode=^setpos_abs_right
