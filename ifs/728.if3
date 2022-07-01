@@ -10,6 +10,7 @@ type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_728:0
+noclickthrough=yes
 
 [interface_728:2]
 type=^iftype_graphic

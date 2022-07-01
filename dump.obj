@@ -262786,3 +262786,63 @@ placeholder=yes
 [placeholder_skis_26650]
 placeholder=yes
 
+[loot_key_26651]
+name=Loot key
+model=bank_key_29753
+category=category_1608
+2dzoom=842
+2dxof=-2
+2dyof=1
+2dxan=619
+2dyan=1858
+iop2=Check
+iop5=Destroy
+
+[loot_key_26652]
+name=Loot key
+model=bank_key_29753
+category=category_1608
+2dzoom=842
+2dxof=-2
+2dyof=1
+2dxan=619
+2dyan=1858
+iop2=Check
+iop5=Destroy
+
+[loot_key_26653]
+name=Loot key
+model=bank_key_29753
+category=category_1608
+2dzoom=842
+2dxof=-2
+2dyof=1
+2dxan=619
+2dyan=1858
+iop2=Check
+iop5=Destroy
+
+[loot_key_26654]
+name=Loot key
+model=bank_key_29753
+category=category_1608
+2dzoom=842
+2dxof=-2
+2dyof=1
+2dxan=619
+2dyan=1858
+iop2=Check
+iop5=Destroy
+
+[loot_key_26655]
+name=Loot key
+model=bank_key_29753
+category=category_1608
+2dzoom=842
+2dxof=-2
+2dyof=1
+2dxan=619
+2dyan=1858
+iop2=Check
+iop5=Destroy
+

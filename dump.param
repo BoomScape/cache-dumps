@@ -1864,6 +1864,7 @@ default=null
 
 [param_1275]
 type=int
+default=null
 
 [param_1276]
 type=int
@@ -1909,15 +1910,8 @@ default=null
 [param_1288]
 type=boolean
 
-[param_1289]
-type=int
-
 [param_1290]
 type=boolean
-
-[param_1291]
-type=int
-default=1
 
 [param_1292]
 type=boolean
@@ -2197,6 +2191,7 @@ type=boolean
 
 [param_1409]
 type=int
+default=null
 
 [param_1410]
 type=int
@@ -2483,4 +2478,31 @@ default=null
 [param_1535]
 type=enum
 default=null
+
+[param_1538]
+type=int
+default=18
+
+[param_1539]
+type=int
+default=600
+
+[param_1540]
+type=int
+
+[param_1541]
+type=int
+default=30
+
+[param_1542]
+type=int
+
+[param_1543]
+type=int
+
+[param_1544]
+type=int
+
+[param_1545]
+type=boolean
 
