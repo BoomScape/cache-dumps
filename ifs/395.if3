@@ -54,6 +54,17 @@ font=p12_full
 halign=^settextalign_centre
 
 [interface_395:6]
+type=^iftype_text
+y=95
+width=120
+height=16
+hposmode=^setpos_abs_centre
+hide=yes
+text="Games played: N/A"
+font=p12_full
+halign=^settextalign_centre
+
+[interface_395:7]
 type=^iftype_graphic
 width=26
 height=23

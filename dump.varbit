@@ -11603,6 +11603,31 @@ basevar=var_1005
 startbit=13
 endbit=13
 
+[varbit_2321]
+basevar=var_1530
+startbit=18
+endbit=18
+
+[varbit_2322]
+basevar=var_2768
+startbit=0
+endbit=0
+
+[varbit_2323]
+basevar=var_2768
+startbit=1
+endbit=1
+
+[varbit_2324]
+basevar=var_2768
+startbit=2
+endbit=2
+
+[varbit_2325]
+basevar=var_2768
+startbit=3
+endbit=3
+
 [varbit_2326]
 basevar=var_810
 startbit=0
@@ -19622,6 +19647,16 @@ endbit=22
 basevar=var_561
 startbit=30
 endbit=31
+
+[varbit_3930]
+basevar=var_2768
+startbit=4
+endbit=4
+
+[varbit_3931]
+basevar=var_2768
+startbit=5
+endbit=5
 
 [varbit_3939]
 basevar=var_1005
@@ -47420,8 +47455,8 @@ endbit=31
 
 [varbit_9498]
 basevar=var_1530
-startbit=18
-endbit=18
+startbit=19
+endbit=19
 
 [varbit_9499]
 basevar=var_687
