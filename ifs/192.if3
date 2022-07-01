@@ -1,8 +1,7 @@
 [interface_192:0]
 type=^iftype_layer
-y=-8
-width=352
-height=260
+width=452
+height=276
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 onload="script144(12582912,12582914,12582915,12582922,12582916,12582917,12582918,12582919,12582920,12582921)"
@@ -29,11 +28,11 @@ layer=interface_192:0
 
 [interface_192:3]
 type=^iftype_layer
-x=90
+x=20
 y=10
 width=150
 height=36
-hposmode=^setpos_abs_centre
+hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_192:0
 
@@ -100,31 +99,28 @@ graphic="bankbuttons,3"
 
 [interface_192:10]
 type=^iftype_layer
-x=38
+x=16
 y=10
-width=142
-height=43
+width=205
+height=36
 vposmode=^setpos_abs_bottom
 layer=interface_192:0
 
 [interface_192:11]
-type=^iftype_graphic
-width=25
-height=25
-vposmode=^setpos_abs_bottom
+type=^iftype_layer
+width=36
+height=36
+vposmode=^setpos_abs_centre
 layer=interface_192:10
-graphic="miscgraphics,0"
 optionmask=2
 op1="Default Quantity: <col=ff9040>1</col>"
 onload="script2596(event_com,12582914,12582920,12582921)"
 
 [interface_192:12]
 type=^iftype_text
-x=1
-y=-2
-width=25
-height=25
-vposmode=^setpos_abs_bottom
+width=36
+height=36
+vposmode=^setpos_abs_centre
 layer=interface_192:10
 text="1"
 colour=0xff981f
@@ -136,24 +132,22 @@ onmouseover="script45(12582924,16777215)"
 onmouseleave="script45(12582924,16750623)"
 
 [interface_192:13]
-type=^iftype_graphic
-x=29
-width=25
-height=25
-vposmode=^setpos_abs_bottom
+type=^iftype_layer
+x=41
+width=36
+height=36
+vposmode=^setpos_abs_centre
 layer=interface_192:10
-graphic="miscgraphics,0"
 optionmask=2
 op1="Default Quantity: <col=ff9040>5</col>"
 onload="script2596(event_com,12582914,12582920,12582921)"
 
 [interface_192:14]
 type=^iftype_text
-x=29
-y=-2
-width=25
-height=25
-vposmode=^setpos_abs_bottom
+x=41
+width=36
+height=36
+vposmode=^setpos_abs_centre
 layer=interface_192:10
 text="5"
 colour=0xff981f
@@ -165,24 +159,22 @@ onmouseover="script45(12582926,16777215)"
 onmouseleave="script45(12582926,16750623)"
 
 [interface_192:15]
-type=^iftype_graphic
-width=25
-height=25
+type=^iftype_layer
+width=36
+height=36
 hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
+vposmode=^setpos_abs_centre
 layer=interface_192:10
-graphic="miscgraphics,0"
-optionmask=26626
+optionmask=2
 op1="Default Quantity: <col=ff9040>10</col>"
 onload="script2596(event_com,12582914,12582920,12582921)"
 
 [interface_192:16]
 type=^iftype_text
-y=-2
-width=25
-height=25
+width=36
+height=36
 hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_bottom
+vposmode=^setpos_abs_centre
 layer=interface_192:10
 text="10"
 colour=0xff981f
@@ -194,14 +186,14 @@ onmouseover="script45(12582928,16777215)"
 onmouseleave="script45(12582928,16750623)"
 
 [interface_192:17]
-type=^iftype_graphic
-x=87
-width=25
-height=25
-vposmode=^setpos_abs_bottom
+type=^iftype_layer
+x=41
+width=36
+height=36
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 layer=interface_192:10
-graphic="miscgraphics,0"
-optionmask=26630
+optionmask=6
 op1="Default Quantity: <col=ff9040>X</col>"
 op2="Set custom quantity"
 onload="script2596(event_com,12582914,12582920,12582921)"
@@ -209,11 +201,11 @@ onload="script2596(event_com,12582914,12582920,12582921)"
 [interface_192:18]
 type=^iftype_text
 contenttype=7878
-x=87
-y=-2
-width=25
-height=25
-vposmode=^setpos_abs_bottom
+x=41
+width=36
+height=36
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 layer=interface_192:10
 text="X"
 colour=0xff981f
@@ -225,24 +217,22 @@ onmouseover="script45(12582930,16777215)"
 onmouseleave="script45(12582930,16750623)"
 
 [interface_192:19]
-type=^iftype_graphic
-width=25
-height=25
+type=^iftype_layer
+width=36
+height=36
 hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
+vposmode=^setpos_abs_centre
 layer=interface_192:10
-graphic="miscgraphics,0"
-optionmask=26626
+optionmask=2
 op1="Default Quantity: <col=ff9040>All</col>"
 onload="script2596(event_com,12582914,12582920,12582921)"
 
 [interface_192:20]
 type=^iftype_text
-y=-2
-width=25
-height=25
+width=36
+height=36
 hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
+vposmode=^setpos_abs_centre
 layer=interface_192:10
 text="All"
 colour=0xff981f
@@ -252,15 +242,4 @@ valign=^settextalign_centre
 shadowed=yes
 onmouseover="script45(12582932,16777215)"
 onmouseleave="script45(12582932,16750623)"
-
-[interface_192:21]
-type=^iftype_text
-width=142
-height=20
-layer=interface_192:10
-text="Quantity"
-colour=0xff981f
-font=p12_full
-halign=^settextalign_centre
-shadowed=yes
 

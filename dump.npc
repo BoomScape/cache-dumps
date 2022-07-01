@@ -5424,7 +5424,6 @@ recol5d=10892
 recol6s=-22196
 recol6d=10892
 op1=Talk-to
-op3=Emblems
 op4=Rewards
 op5=Skull
 vislevel=0
@@ -133282,6 +133281,36 @@ size=2
 vislevel=101
 ambient=25
 
+[prifddinas_guard_6595]
+name=Prifddinas guard
+model1=prifddinas_guard_38043
+model2=prifddinas_guard_38117
+model3=prifddinas_guard_38092
+model4=prifddinas_guard_38058
+model5=prifddinas_guard_38070
+model6=prifddinas_guard_38123
+model7=elf_warrior_38297
+model8=elf_warrior_38292
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+recol1s=17061
+recol1d=-22250
+recol2s=-28119
+recol2d=-22254
+recol3s=1957
+recol3d=-22256
+recol4s=27204
+recol4d=4533
+recol5s=10151
+recol5d=4529
+recol6s=-3250
+recol6d=4525
+op2=Attack
+vislevel=1337
+
 [zombie_6596]
 name=Zombie
 model1=zombie_21002
@@ -159807,7 +159836,6 @@ recol5d=10892
 recol6s=-22196
 recol6d=10892
 op1=Talk-to
-op3=Emblems
 op4=Rewards
 op5=Skull
 vislevel=0
@@ -185833,12 +185861,12 @@ vislevel=0
 
 [gladiator_9143]
 name=Gladiator
-model1=gladiator_38043
-model2=gladiator_38117
-model3=gladiator_38092
-model4=gladiator_38058
-model5=gladiator_38070
-model6=gladiator_38123
+model1=prifddinas_guard_38043
+model2=prifddinas_guard_38117
+model3=prifddinas_guard_38092
+model4=prifddinas_guard_38058
+model5=prifddinas_guard_38070
+model6=prifddinas_guard_38123
 model7=elf_warrior_38297
 model8=elf_warrior_38292
 head1=gladiator_38684
@@ -185863,12 +185891,12 @@ vislevel=126
 
 [gladiator_9144]
 name=Gladiator
-model1=gladiator_38043
-model2=gladiator_38117
-model3=gladiator_38092
-model4=gladiator_38058
-model5=gladiator_38070
-model6=gladiator_38123
+model1=prifddinas_guard_38043
+model2=prifddinas_guard_38117
+model3=prifddinas_guard_38092
+model4=prifddinas_guard_38058
+model5=prifddinas_guard_38070
+model6=prifddinas_guard_38123
 model7=elf_warrior_38297
 model8=elf_warrior_38292
 head1=gladiator_38684
@@ -186823,12 +186851,12 @@ ambient=30
 
 [guard_9182]
 name=Guard
-model1=gladiator_38043
-model2=gladiator_38117
-model3=gladiator_38092
-model4=gladiator_38058
-model5=gladiator_38070
-model6=gladiator_38123
+model1=prifddinas_guard_38043
+model2=prifddinas_guard_38117
+model3=prifddinas_guard_38092
+model4=prifddinas_guard_38058
+model5=prifddinas_guard_38070
+model6=prifddinas_guard_38123
 model7=elf_warrior_38297
 model8=elf_warrior_38292
 head1=gladiator_38684
@@ -186854,12 +186882,12 @@ vislevel=108
 
 [guard_9183]
 name=Guard
-model1=gladiator_38043
-model2=gladiator_38117
-model3=gladiator_38092
-model4=gladiator_38058
-model5=gladiator_38070
-model6=gladiator_38123
+model1=prifddinas_guard_38043
+model2=prifddinas_guard_38117
+model3=prifddinas_guard_38092
+model4=prifddinas_guard_38058
+model5=prifddinas_guard_38070
+model6=prifddinas_guard_38123
 model7=elf_warrior_38297
 model8=elf_warrior_38292
 head1=gladiator_38684
@@ -186885,12 +186913,12 @@ vislevel=108
 
 [guard_9184]
 name=Guard
-model1=gladiator_38043
-model2=gladiator_38117
-model3=gladiator_38092
-model4=gladiator_38058
-model5=gladiator_38070
-model6=gladiator_38123
+model1=prifddinas_guard_38043
+model2=prifddinas_guard_38117
+model3=prifddinas_guard_38092
+model4=prifddinas_guard_38058
+model5=prifddinas_guard_38070
+model6=prifddinas_guard_38123
 model7=elf_warrior_38297
 model8=elf_warrior_38292
 head1=gladiator_38684
@@ -186916,12 +186944,12 @@ vislevel=108
 
 [guard_9185]
 name=Guard
-model1=gladiator_38043
-model2=gladiator_38117
-model3=gladiator_38092
-model4=gladiator_38058
-model5=gladiator_38070
-model6=gladiator_38123
+model1=prifddinas_guard_38043
+model2=prifddinas_guard_38117
+model3=prifddinas_guard_38092
+model4=prifddinas_guard_38058
+model5=prifddinas_guard_38070
+model6=prifddinas_guard_38123
 model7=elf_warrior_38297
 model8=elf_warrior_38292
 head1=gladiator_38684
@@ -193693,6 +193721,16 @@ vislevel=0
 visonmap=no
 ambient=25
 turnspeed=0
+
+[prifddinas_guard_multi_9475]
+readyanim=doomsayer_ready_813
+walkanim=lumbridge_guide_walk_1205
+walkanim_b=lumbridge_guide_walk_b_1206
+walkanim_r=lumbridge_guide_walk_r_1207
+walkanim_l=lumbridge_guide_walk_l_1208
+vislevel=665
+multivar=varbit_4153
+multinpc=1,prifddinas_guard_6595
 
 [tangleroot_9492]
 name=Tangleroot
