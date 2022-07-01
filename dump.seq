@@ -45973,7 +45973,7 @@ framecount=16
 looptype=1
 framegroup1=1898
 
-[party_balloons_7543]
+[seq_7543]
 framecount=16
 replayoff=16
 looptype=1
@@ -57814,28 +57814,28 @@ framecount=16
 looptype=1
 framegroup1=1576
 
-[hassan_ready_9341]
+[seq_9341]
 framecount=8
 priority=4
 looptype=1
 framegroup1=2881
 
-[hassan_walk_9342]
+[seq_9342]
 framecount=20
 looptype=1
 framegroup1=2879
 
-[hassan_walk_r_9343]
+[seq_9343]
 framecount=10
 looptype=1
 framegroup1=2874
 
-[hassan_walk_l_9344]
+[seq_9344]
 framecount=10
 looptype=1
 framegroup1=2875
 
-[hassan_walk_b_9345]
+[seq_9345]
 framecount=20
 looptype=1
 framegroup1=2877
@@ -57856,4 +57856,29 @@ framecount=14
 priority=4
 looptype=1
 framegroup1=2876
+
+[seq_9349]
+framecount=19
+replayoff=2
+stretches=yes
+mainhand=11835
+offhand=11835
+replaycount=8
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=294
+soundeffect6=2600,1,1
+
+[seq_9350]
+framecount=2
+replayoff=2
+stretches=yes
+mainhand=11835
+offhand=11835
+replaycount=8
+exactmove=1
+movetype=1
+looptype=1
+framegroup1=294
 

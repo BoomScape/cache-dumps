@@ -12,7 +12,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
 layer=interface_730:0
-onload="script5502(event_com,47841282,47841284,47841286,47841295,47841296,47841297,47841298)"
+onload="script5502(event_com,47841282,47841284,47841286,47841295,47841296,47841297,47841298,47841299)"
 
 [interface_730:2]
 type=^iftype_layer
@@ -163,7 +163,7 @@ op1="*"
 
 [interface_730:18]
 type=^iftype_layer
-y=238
+y=68
 height=31
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -172,6 +172,16 @@ optionmask=2
 op1="*"
 
 [interface_730:19]
+type=^iftype_layer
+y=238
+height=31
+hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_730:15
+optionmask=2
+op1="*"
+
+[interface_730:20]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre

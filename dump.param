@@ -1697,6 +1697,10 @@ type=int
 type=int
 default=null
 
+[param_1163]
+type=string
+default=
+
 [param_1172]
 autodisable=no
 
@@ -2487,6 +2491,13 @@ default=null
 type=enum
 default=null
 
+[param_1536]
+type=string
+default=
+
+[param_1537]
+type=boolean
+
 [param_1538]
 type=int
 default=18
@@ -2524,4 +2535,18 @@ type=int
 [param_1548]
 type=graphic
 default=null
+
+[param_1549]
+type=boolean
+
+[param_1550]
+type=string
+default=
+
+[param_1551]
+type=boolean
+
+[param_1552]
+type=string
+default=
 
