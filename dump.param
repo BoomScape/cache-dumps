@@ -828,7 +828,7 @@ default=2147483647
 
 [param_830]
 type=graphic
-default="close_buttons,10"
+default="pvpw_icons,3"
 
 [param_831]
 type=graphic

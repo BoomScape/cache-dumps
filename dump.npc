@@ -54652,31 +54652,34 @@ recol2d=6699
 op1=Hit
 vislevel=0
 
-[toy_soldier_2779]
-name=Toy Soldier
-model1=toy_soldier_13227
+[toy_soldier_multi_2779]
 readyanim=toy_soldier_ready_3712
 walkanim=toy_soldier_walk_3713
-op1=Pick-up
 vislevel=0
+multivar=varbit_9450
+multinpc=default,toy_soldier_9251
+multinpc=0,toy_soldier_9251
+multinpc=1,toy_soldier_3649
 visonmap=no
 
-[toy_doll_2780]
-name=Toy Doll
-model1=toy_doll_13225
+[toy_doll_multi_2780]
 readyanim=toy_doll_ready_3716
 walkanim=toy_doll_walk_3717
-op1=Pick-up
 vislevel=0
+multivar=varbit_9450
+multinpc=default,toy_doll_9253
+multinpc=0,toy_doll_9253
+multinpc=1,toy_doll_9252
 visonmap=no
 
-[toy_mouse_2781]
-name=Toy Mouse
-model1=toy_mouse_13226
+[toy_mouse_multi_2781]
 readyanim=toy_mouse_ready_3718
 walkanim=toy_mouse_ready_3718
-op1=Pick-up
 vislevel=0
+multivar=varbit_9450
+multinpc=default,toy_mouse_9255
+multinpc=0,toy_mouse_9255
+multinpc=1,toy_mouse_9254
 visonmap=no
 
 [clockwork_cat_2782]
@@ -72680,6 +72683,15 @@ recol6d=-22116
 op1=Talk-to
 op3=Pay-Fare
 vislevel=0
+
+[toy_soldier_3649]
+name=Toy Soldier
+model1=toy_soldier_13227
+readyanim=toy_soldier_ready_3712
+walkanim=toy_soldier_walk_3713
+op1=Pick-up
+vislevel=0
+visonmap=no
 
 [captain_barnaby_multi_3650]
 readyanim=human_ready_808
@@ -189119,4 +189131,69 @@ op1=Talk-to
 op3=Brimhaven
 op4=Rimmington
 vislevel=0
+
+[toy_soldier_9251]
+name=Toy Soldier
+model1=toy_soldier_13227
+readyanim=toy_soldier_ready_3712
+walkanim=toy_soldier_walk_3713
+vislevel=0
+visonmap=no
+
+[toy_doll_9252]
+name=Toy Doll
+model1=toy_doll_13225
+readyanim=toy_doll_ready_3716
+walkanim=toy_doll_walk_3717
+op1=Pick-up
+vislevel=0
+visonmap=no
+
+[toy_doll_9253]
+name=Toy Doll
+model1=toy_doll_13225
+readyanim=toy_doll_ready_3716
+walkanim=toy_doll_walk_3717
+vislevel=0
+visonmap=no
+
+[toy_mouse_9254]
+name=Toy Mouse
+model1=toy_mouse_13226
+readyanim=toy_mouse_ready_3718
+walkanim=toy_mouse_ready_3718
+op1=Pick-up
+vislevel=0
+visonmap=no
+
+[toy_mouse_9255]
+name=Toy Mouse
+model1=toy_mouse_13226
+readyanim=toy_mouse_ready_3718
+walkanim=toy_mouse_ready_3718
+vislevel=0
+visonmap=no
+
+[penguin_suit_multi_9256]
+readyanim=macaroni_penguin_ready_5668
+walkanim=macaroni_penguin_walk_5666
+resizeh=75
+resizev=75
+vislevel=0
+multivar=varbit_9450
+multinpc=default,penguin_suit_9257
+multinpc=0,penguin_suit_9257
+multinpc=1,penguin_suit_846
+visonmap=no
+
+[penguin_suit_9257]
+name=Penguin suit
+model1=penguin_suit_21544
+head1=penguin_suit_21523
+readyanim=macaroni_penguin_ready_5668
+walkanim=macaroni_penguin_walk_5666
+resizeh=75
+resizev=75
+vislevel=0
+visonmap=no
 
