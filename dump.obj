@@ -36421,8 +36421,8 @@ param=param_148,-1
 [cert_left_handed_banana_3178]
 certificate=yes
 
-[monkey_bones_3179]
-name=Monkey bones
+[small_ninja_monkey_bones_3179]
+name=Small ninja monkey bones
 model=sheep_bones_1_2674
 category=category_6
 2dzoom=1410
@@ -36433,8 +36433,8 @@ iop1=Bury
 members=yes
 placeholder=yes
 
-[monkey_bones_3180]
-name=Monkey bones
+[medium_ninja_monkey_bones_3180]
+name=Medium ninja monkey bones
 model=sheep_bones_1_2674
 category=category_6
 2dzoom=1410
@@ -36445,8 +36445,8 @@ iop1=Bury
 members=yes
 placeholder=yes
 
-[monkey_bones_3181]
-name=Monkey bones
+[gorilla_bones_3181]
+name=Gorilla bones
 model=big_bones_222
 category=category_6
 2dzoom=1830
@@ -36456,8 +36456,8 @@ iop1=Bury
 members=yes
 placeholder=yes
 
-[monkey_bones_3182]
-name=Monkey bones
+[bearded_gorilla_bones_3182]
+name=Bearded gorilla bones
 model=big_bones_222
 category=category_6
 2dzoom=1830
@@ -36483,8 +36483,8 @@ placeholder=yes
 [cert_monkey_bones_3184]
 certificate=yes
 
-[monkey_bones_3185]
-name=Monkey bones
+[small_zombie_monkey_bones_3185]
+name=Small zombie monkey bones
 model=sheep_bones_1_2674
 category=category_6
 2dzoom=1410
@@ -36495,8 +36495,8 @@ iop1=Bury
 members=yes
 placeholder=yes
 
-[monkey_bones_3186]
-name=Monkey bones
+[large_zombie_monkey_bones_3186]
+name=Large zombie monkey bones
 model=sheep_bones_1_2674
 category=category_6
 2dzoom=1830
@@ -38103,7 +38103,7 @@ param=param_1189,mage_arena_i_3146
 
 [saradomin_strike_3311]
 model=model_16238
-param=spell_name_601,Saradomin strike
+param=spell_name_601,Saradomin Strike
 param=spell_desc_602,Summons the power of Saradomin
 param=spell_spellbook_336,0
 param=spell_type_605,0
@@ -182068,22 +182068,22 @@ placeholder=yes
 [placeholder_monkey_bones_17939]
 placeholder=yes
 
-[placeholder_monkey_bones_17940]
+[placeholder_small_ninja_monkey_bones_17940]
 placeholder=yes
 
-[placeholder_monkey_bones_17941]
+[placeholder_medium_ninja_monkey_bones_17941]
 placeholder=yes
 
-[placeholder_monkey_bones_17942]
+[placeholder_gorilla_bones_17942]
 placeholder=yes
 
-[placeholder_monkey_bones_17943]
+[placeholder_bearded_gorilla_bones_17943]
 placeholder=yes
 
-[placeholder_monkey_bones_17944]
+[placeholder_small_zombie_monkey_bones_17944]
 placeholder=yes
 
-[placeholder_monkey_bones_17945]
+[placeholder_large_zombie_monkey_bones_17945]
 placeholder=yes
 
 [placeholder_bones_17946]

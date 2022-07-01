@@ -2,7 +2,7 @@
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script4130(46399489,46399490,46399488,46399493,46399494,46399491)"
+onload="script4130(46399489,46399490,46399488,46399492,46399493,46399491)"
 
 [interface_708:1]
 type=^iftype_layer
@@ -12,8 +12,12 @@ layer=interface_708:0
 
 [interface_708:2]
 type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
+x=2
+y=2
+width=508
+height=330
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_bottom
 layer=interface_708:1
 
 [interface_708:3]
@@ -24,19 +28,13 @@ layer=interface_708:1
 
 [interface_708:4]
 type=^iftype_layer
-width=512
-height=334
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_708:2
 
 [interface_708:5]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_708:4
-
-[interface_708:6]
-type=^iftype_layer
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_708:4
+layer=interface_708:2
 

@@ -229,13 +229,13 @@ layer=interface_548:9
 
 [interface_548:30]
 type=^iftype_layer
+vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_548:9
 
 [interface_548:31]
 type=^iftype_layer
-vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_548:9

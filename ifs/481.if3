@@ -1,7 +1,7 @@
 [interface_481:0]
 type=^iftype_layer
 width=40
-height=40
+height=39
 layer=interface_481:8
 optionmask=2
 op1="Select"
@@ -23,7 +23,7 @@ graphic="info"
 type=^iftype_layer
 x=41
 width=40
-height=40
+height=39
 layer=interface_481:8
 optionmask=2
 op1="Select"
@@ -84,7 +84,7 @@ onload="script2482(31522816,31522816,31522818,31522825,31522851,31522848,3152284
 type=^iftype_layer
 x=82
 width=40
-height=40
+height=39
 layer=interface_481:8
 optionmask=2
 op1="Select"
@@ -144,7 +144,7 @@ onmouserepeat="script526(event_com,-1,31522899,Load previous duel stakes.,50,250
 
 [interface_481:15]
 type=^iftype_text
-width=6
+width=2
 height=20
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -169,7 +169,7 @@ height=20
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_481:16
-text="0 gp"
+text="0 coins"
 colour=0xff991f
 font=p12_full
 halign=^settextalign_right
@@ -222,6 +222,8 @@ x=30
 width=36
 height=32
 layer=interface_481:19
+outline=1
+shadow=3355443
 onload="script2489(event_com,13204)"
 
 [interface_481:23]
@@ -235,7 +237,7 @@ layer=interface_481:6
 
 [interface_481:24]
 type=^iftype_text
-width=6
+width=10
 height=20
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
@@ -265,7 +267,7 @@ height=20
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_481:25
-text="0 gp"
+text="0 coins"
 colour=0xff991f
 font=p12_full
 halign=^settextalign_right
@@ -324,18 +326,17 @@ layer=interface_481:7
 
 [interface_481:33]
 type=^iftype_text
-y=10
 width=20
-height=110
+height=20
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
+vsizemode=^setsize_minus
 layer=interface_481:32
-text="To stake <col=CCCCCC>platinum</col> or <col=FFFF00>coins</col> use the buttons on the panel in the middle.<br><br>Tax is deducted from the combined stake."
 colour=0xff9920
 font=p12_full
 paraheight=18
 shadowed=yes
-onload="script2476(event_com)"
 
 [interface_481:34]
 type=^iftype_layer
@@ -757,7 +758,7 @@ onmouserepeat="script38(event_com,31522899,Neither player will be allowed to hav
 [interface_481:74]
 type=^iftype_layer
 x=6
-y=26
+y=27
 width=80
 height=22
 hposmode=^setpos_abs_right
@@ -897,6 +898,8 @@ x=30
 width=36
 height=32
 layer=interface_481:20
+outline=1
+shadow=3355443
 onload="script2489(event_com,995)"
 
 [interface_481:87]
@@ -923,6 +926,8 @@ x=30
 width=36
 height=32
 layer=interface_481:28
+outline=1
+shadow=3355443
 onload="script2489(event_com,13204)"
 
 [interface_481:90]
@@ -964,6 +969,8 @@ x=30
 width=36
 height=32
 layer=interface_481:29
+outline=1
+shadow=3355443
 onload="script2489(event_com,995)"
 
 [interface_481:94]
@@ -979,133 +986,5 @@ colour=0xff991f
 font=p12_full
 halign=^settextalign_centre
 valign=^settextalign_centre
-shadowed=yes
-
-[interface_481:95]
-type=^iftype_text
-x=10
-y=132
-width=20
-height=19
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="Total Stake"
-colour=0xc0ff00
-font=b12_full
-valign=^settextalign_centre
-paraheight=18
-shadowed=yes
-
-[interface_481:96]
-type=^iftype_text
-x=10
-y=152
-width=20
-height=19
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="0 - <lt>10m gp"
-colour=0xc0ff00
-font=p12_full
-valign=^settextalign_centre
-paraheight=18
-shadowed=yes
-
-[interface_481:97]
-type=^iftype_text
-x=10
-y=172
-width=20
-height=19
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="10m - <lt>100m gp"
-colour=0x33ff33
-font=p12_full
-valign=^settextalign_centre
-paraheight=18
-shadowed=yes
-
-[interface_481:98]
-type=^iftype_text
-x=10
-y=192
-width=20
-height=19
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="<gt>=100m gp"
-colour=0xcc00
-font=p12_full
-valign=^settextalign_centre
-paraheight=18
-shadowed=yes
-
-[interface_481:99]
-type=^iftype_text
-x=10
-y=132
-width=20
-height=19
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="Rate"
-colour=0xbedc
-font=b12_full
-halign=^settextalign_right
-valign=^settextalign_centre
-paraheight=18
-shadowed=yes
-
-[interface_481:100]
-type=^iftype_text
-x=10
-y=152
-width=20
-height=19
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="0.25%"
-colour=0xbedc
-font=p12_full
-halign=^settextalign_right
-valign=^settextalign_centre
-paraheight=18
-shadowed=yes
-
-[interface_481:101]
-type=^iftype_text
-x=10
-y=172
-width=20
-height=19
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="0.50%"
-colour=0xaadc
-font=p12_full
-halign=^settextalign_right
-valign=^settextalign_centre
-paraheight=18
-shadowed=yes
-
-[interface_481:102]
-type=^iftype_text
-x=10
-y=192
-width=20
-height=19
-hposmode=^setpos_abs_right
-hsizemode=^setsize_minus
-layer=interface_481:32
-text="1.00%"
-colour=0x96dc
-font=p12_full
-halign=^settextalign_right
-valign=^settextalign_centre
-paraheight=18
 shadowed=yes
 
