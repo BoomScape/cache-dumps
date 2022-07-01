@@ -351,7 +351,9 @@ type=int
 autodisable=no
 
 [param_608]
+type=obj
 autodisable=no
+default=null
 
 [param_610]
 type=string

@@ -2559,7 +2559,7 @@ framecount=5
 looptype=1
 framegroup1=879
 
-[leak_464]
+[ship_hull_464]
 framecount=5
 replayoff=5
 looptype=1
@@ -21915,13 +21915,6 @@ framegroup1=520
 
 [seq_3651]
 framecount=31
-looptype=1
-framegroup1=239
-
-[seq_3652]
-framecount=27
-mainhand=0
-offhand=0
 looptype=1
 framegroup1=239
 
@@ -52084,4 +52077,11 @@ framecount=8
 replayoff=8
 looptype=1
 framegroup1=2377
+
+[seq_8491]
+framecount=27
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=239
 

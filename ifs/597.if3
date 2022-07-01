@@ -396,7 +396,7 @@ width=50
 height=60
 layer=interface_597:2
 optionmask=14
-opbase="<col=FF981F>Elf Camp"
+opbase="<col=FF981F>Iorwerth camp teleport scroll"
 op1="Activate"
 op2="Set as default"
 op3="Remove"
@@ -438,7 +438,7 @@ width=50
 height=60
 layer=interface_597:2
 optionmask=14
-opbase="<col=FF981F> Mos Le'Harmless teleport scroll"
+opbase="<col=FF981F>Mos Le'Harmless teleport scroll"
 op1="Activate"
 op2="Set as default"
 op3="Remove"

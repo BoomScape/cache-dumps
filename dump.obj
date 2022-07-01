@@ -93239,6 +93239,7 @@ contrast=100
 [respawn_teleport_8092]
 model=model_16238
 members=yes
+param=param_608,respawn_teleport_8092
 param=spell_name_601,Respawn Teleport
 param=spell_desc_602,Teleports you to your respawn location
 param=spell_membersonly_603,yes
@@ -161351,6 +161352,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,easter_11997
 
 [cert_ensouled_goblin_head_13449]
 certificate=yes
@@ -161377,6 +161379,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_monkey_2885
 
 [cert_ensouled_monkey_head_13452]
 certificate=yes
@@ -161405,6 +161408,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_imp_6208
 
 [cert_ensouled_imp_head_13455]
 certificate=yes
@@ -161433,6 +161437,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_minotaur_6888
 
 [cert_ensouled_minotaur_head_13458]
 certificate=yes
@@ -161459,6 +161464,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_scorpion_15297
 
 [cert_ensouled_scorpion_head_13461]
 certificate=yes
@@ -161485,6 +161491,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_bear_15309
 
 [cert_ensouled_bear_head_13464]
 certificate=yes
@@ -161513,6 +161520,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_unicorn_15303
 
 [cert_ensouled_unicorn_head_13467]
 certificate=yes
@@ -161539,6 +161547,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_dog_15304
 
 [cert_ensouled_dog_head_13470]
 certificate=yes
@@ -161563,6 +161572,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_chaos_druid_15344
 
 [cert_ensouled_chaos_druid_head_13473]
 certificate=yes
@@ -161591,6 +161601,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_giant_15345
 
 [cert_ensouled_giant_head_13476]
 certificate=yes
@@ -161619,6 +161630,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_ogre_15346
 
 [cert_ensouled_ogre_head_13479]
 certificate=yes
@@ -161647,6 +161659,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_elf_8796
 
 [cert_ensouled_elf_head_13482]
 certificate=yes
@@ -161675,6 +161688,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_troll_10511
 
 [cert_ensouled_troll_head_13485]
 certificate=yes
@@ -161703,6 +161717,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_horror_20762
 
 [cert_ensouled_horror_head_13488]
 certificate=yes
@@ -161731,6 +161746,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_kalphite_20763
 
 [cert_ensouled_kalphite_head_13491]
 certificate=yes
@@ -161759,6 +161775,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,redundant_hat_21826
 
 [cert_ensouled_dagannoth_head_13494]
 certificate=yes
@@ -161785,6 +161802,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,redundant_top_21829
 
 [cert_ensouled_bloodveld_head_13497]
 certificate=yes
@@ -161813,6 +161831,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,redundant_leggings_21832
 
 [cert_ensouled_tzhaar_head_13500]
 certificate=yes
@@ -161841,6 +161860,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_demon_20392
 
 [cert_ensouled_demon_head_13503]
 certificate=yes
@@ -161869,6 +161889,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_aviansie_20398
 
 [cert_ensouled_aviansie_head_13506]
 certificate=yes
@@ -161895,6 +161916,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_abyssal_creature_20399
 
 [cert_ensouled_abyssal_head_13509]
 certificate=yes
@@ -161923,6 +161945,7 @@ members=yes
 stockmarket=yes
 certificate=yes
 placeholder=yes
+param=param_608,reanimate_dragon_20400
 
 [cert_ensouled_dragon_head_13512]
 certificate=yes
@@ -183501,6 +183524,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,lumbridge_graveyard_teleport_20409
 
 [placeholder_lumbridge_graveyard_teleport_19614]
 placeholder=yes
@@ -183516,6 +183540,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,draynor_manor_teleport_20410
 
 [placeholder_draynor_manor_teleport_19616]
 placeholder=yes
@@ -183531,6 +183556,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,mind_altar_teleport_20411
 
 [placeholder_mind_altar_teleport_19618]
 placeholder=yes
@@ -183546,6 +183572,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,salve_graveyard_teleport_20412
 
 [placeholder_salve_graveyard_teleport_19620]
 placeholder=yes
@@ -183561,6 +183588,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,fenkenstrains_castle_teleport_20413
 
 [placeholder_fenkenstrains_castle_teleport_19622]
 placeholder=yes
@@ -183576,6 +183604,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,west_ardougne_teleport_20414
 
 [placeholder_west_ardougne_teleport_19624]
 placeholder=yes
@@ -183591,6 +183620,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,harmony_island_teleport_20419
 
 [placeholder_harmony_island_teleport_19626]
 placeholder=yes
@@ -183606,6 +183636,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,cemetery_teleport_20420
 
 [placeholder_cemetery_teleport_19628]
 placeholder=yes
@@ -183621,6 +183652,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,barrows_teleport_20404
 
 [placeholder_barrows_teleport_19630]
 placeholder=yes
@@ -183636,6 +183668,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,ape_atoll_teleport_20427
 
 [placeholder_ape_atoll_teleport_19632]
 placeholder=yes
@@ -185765,6 +185798,8 @@ cost=50
 2dxan=164
 2dyan=1592
 iop1=Open
+recol1s=13248
+recol1d=821
 members=yes
 stackable=yes
 
@@ -192538,6 +192573,8 @@ cost=50
 2dxan=164
 2dyan=1592
 iop1=Open
+recol1s=13248
+recol1d=9156
 members=yes
 stackable=yes
 
@@ -192551,6 +192588,8 @@ cost=50
 2dxan=164
 2dyan=1592
 iop1=Open
+recol1s=13248
+recol1d=-13641
 members=yes
 stackable=yes
 
@@ -192564,6 +192603,8 @@ cost=50
 2dxan=164
 2dyan=1592
 iop1=Open
+recol1s=13248
+recol1d=-32320
 members=yes
 stackable=yes
 
@@ -192577,6 +192618,8 @@ cost=50
 2dxan=164
 2dyan=1592
 iop1=Open
+recol1s=13248
+recol1d=22305
 members=yes
 stackable=yes
 
@@ -195728,6 +195771,7 @@ placeholder=yes
 [cave_worms_20853]
 name=Cave worms
 model=fishing_bait_2436
+cost=0
 2dzoom=620
 2dxan=215
 2dyan=1696
@@ -217084,6 +217128,7 @@ members=yes
 stockmarket=yes
 stackable=yes
 placeholder=yes
+param=param_608,battlefront_teleport_22779
 
 [placeholder_battlefront_teleport_22950]
 placeholder=yes
@@ -219757,6 +219802,8 @@ cost=50
 2dxan=164
 2dyan=1592
 iop1=Open
+recol1s=13248
+recol1d=103
 stackable=yes
 
 [fremennik_kilt_23246]
@@ -228473,4 +228520,15 @@ iop5=Destroy
 ambient=15
 contrast=15
 param=param_834,yes
+
+[marble_lectern_24132]
+name=Marble lectern
+model=marble_lectern_8259
+2dzoom=2512
+2dxof=9
+2dyof=5
+2dxan=165
+2dyan=1880
+op1=Study
+op5=Remove
 
