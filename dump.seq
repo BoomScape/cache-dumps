@@ -30972,6 +30972,8 @@ framegroup1=1357
 
 [seq_5140]
 framecount=23
+exactmove=2
+movetype=1
 looptype=1
 framegroup1=1356
 
@@ -43540,6 +43542,12 @@ offhand=13958
 looptype=1
 framegroup1=294
 
+[light_7203]
+framecount=36
+replayoff=36
+looptype=1
+framegroup1=380
+
 [pot_of_dynamite_7204]
 framecount=9
 looptype=1
@@ -50551,4 +50559,16 @@ framegroup1=2297
 framecount=16
 looptype=1
 framegroup1=2294
+
+[light_8294]
+framecount=36
+replayoff=36
+looptype=1
+framegroup1=380
+
+[magic_mirror_8295]
+framecount=16
+replayoff=16
+looptype=1
+framegroup1=1840
 
