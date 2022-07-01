@@ -49113,6 +49113,7 @@ soundeffect17=3998,1,10
 [seq_8082]
 framecount=124
 priority=8
+exactmove=2
 movetype=2
 looptype=1
 framegroup1=2184
@@ -49422,6 +49423,8 @@ framegroup1=2138
 [seq_8123]
 framecount=23
 priority=6
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=2135
 soundeffect1=3957,1,15
@@ -49430,6 +49433,8 @@ soundeffect14=3936,1,15
 [seq_8124]
 framecount=22
 priority=6
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=2140
 soundeffect1=3543,1,15
@@ -49438,6 +49443,8 @@ soundeffect10=4004,1,15
 [seq_8125]
 framecount=23
 priority=6
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=2142
 soundeffect12=3990,1,15
@@ -49445,6 +49452,8 @@ soundeffect12=3990,1,15
 [seq_8126]
 framecount=84
 priority=6
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=2143
 soundeffect1=3991,1,15
@@ -49453,6 +49462,8 @@ soundeffect60=4000,1,15
 [seq_8127]
 framecount=291
 priority=6
+exactmove=2
+movetype=2
 looptype=1
 framegroup1=2136
 soundeffect13=3973,1,15

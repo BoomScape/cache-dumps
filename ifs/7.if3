@@ -4,13 +4,13 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-onload="script1656(event_com,458755,458757,458769,458762,458763,458764,458765,458766,458767,458768,458773,458772,458775,458774,458776)"
+onload="script1656(event_com,458756,458758,458770,458763,458764,458765,458766,458767,458768,458769,458774,458773,458776,458775,458777)"
 
 [interface_7:1]
 type=^iftype_text
+width=8192
 height=20
-hposmode=^setpos_abs_centre
-hsizemode=^setsize_minus
+hsizemode=^setsize_proportion
 layer=interface_7:0
 text="Clan Chat"
 colour=0xff981f
@@ -20,6 +20,15 @@ valign=^settextalign_bottom
 shadowed=yes
 
 [interface_7:2]
+type=^iftype_layer
+width=8199
+height=20
+hposmode=^setpos_abs_right
+hsizemode=^setsize_proportion
+layer=interface_7:0
+onload="script2858(event_com)"
+
+[interface_7:3]
 type=^iftype_text
 y=25
 width=60
@@ -31,7 +40,7 @@ font=p11_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_7:3]
+[interface_7:4]
 type=^iftype_text
 y=25
 width=63
@@ -43,7 +52,7 @@ colour=0xff981f
 font=p11_full
 shadowed=yes
 
-[interface_7:4]
+[interface_7:5]
 type=^iftype_text
 y=40
 width=60
@@ -55,7 +64,7 @@ font=p11_full
 halign=^settextalign_right
 shadowed=yes
 
-[interface_7:5]
+[interface_7:6]
 type=^iftype_text
 y=40
 width=63
@@ -67,7 +76,7 @@ colour=0xff981f
 font=p11_full
 shadowed=yes
 
-[interface_7:6]
+[interface_7:7]
 type=^iftype_layer
 y=55
 width=4
@@ -78,7 +87,7 @@ vsizemode=^setsize_minus
 layer=interface_7:0
 onload="script712(event_com,0)"
 
-[interface_7:7]
+[interface_7:8]
 type=^iftype_rectangle
 width=6
 height=6
@@ -86,12 +95,12 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_7:6
+layer=interface_7:7
 colour=0x170801
 fill=yes
 trans=166
 
-[interface_7:8]
+[interface_7:9]
 type=^iftype_layer
 width=11
 height=11
@@ -99,45 +108,45 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_7:6
+layer=interface_7:7
 onload="script714(event_com)"
 
-[interface_7:9]
+[interface_7:10]
 type=^iftype_layer
 height=13
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_7:8
+layer=interface_7:9
 onload="script714(event_com)"
 
-[interface_7:10]
+[interface_7:11]
 type=^iftype_layer
 x=3
 width=11
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_7:9
+layer=interface_7:10
 
-[interface_7:11]
+[interface_7:12]
 type=^iftype_layer
 x=14
 width=48
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_7:9
+layer=interface_7:10
 
-[interface_7:12]
+[interface_7:13]
 type=^iftype_layer
 x=62
 width=47
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_7:9
+layer=interface_7:10
 
-[interface_7:13]
+[interface_7:14]
 type=^iftype_layer
 x=19
 width=47
@@ -145,9 +154,9 @@ height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_7:9
+layer=interface_7:10
 
-[interface_7:14]
+[interface_7:15]
 type=^iftype_layer
 x=2
 width=16
@@ -155,9 +164,9 @@ height=4
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_7:9
+layer=interface_7:10
 
-[interface_7:15]
+[interface_7:16]
 type=^iftype_layer
 x=3
 y=2
@@ -166,9 +175,9 @@ height=15
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_7:8
+layer=interface_7:9
 
-[interface_7:16]
+[interface_7:17]
 type=^iftype_layer
 x=2
 y=2
@@ -177,29 +186,29 @@ height=15
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_7:8
+layer=interface_7:9
 
-[interface_7:17]
+[interface_7:18]
 type=^iftype_layer
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 hide=yes
-layer=interface_7:8
+layer=interface_7:9
 noclickthrough=yes
 
-[interface_7:18]
+[interface_7:19]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_7:17
+layer=interface_7:18
 fill=yes
 trans=200
 
-[interface_7:19]
+[interface_7:20]
 type=^iftype_text
 width=10
 height=10
@@ -207,7 +216,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_7:17
+layer=interface_7:18
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -215,7 +224,7 @@ valign=^settextalign_centre
 paraheight=15
 shadowed=yes
 
-[interface_7:20]
+[interface_7:21]
 type=^iftype_layer
 x=18
 y=2
@@ -223,24 +232,24 @@ width=72
 height=32
 vposmode=^setpos_abs_bottom
 layer=interface_7:0
-
-[interface_7:21]
-type=^iftype_text
-x=18
-y=2
-width=72
-height=32
-vposmode=^setpos_abs_bottom
-layer=interface_7:0
-colour=0xff981f
-font=p11_full
-halign=^settextalign_centre
-valign=^settextalign_centre
-shadowed=yes
-optionmask=2
-op1="*"
 
 [interface_7:22]
+type=^iftype_text
+x=18
+y=2
+width=72
+height=32
+vposmode=^setpos_abs_bottom
+layer=interface_7:0
+colour=0xff981f
+font=p11_full
+halign=^settextalign_centre
+valign=^settextalign_centre
+shadowed=yes
+optionmask=2
+op1="*"
+
+[interface_7:23]
 type=^iftype_layer
 x=18
 y=2
@@ -250,7 +259,7 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
 layer=interface_7:0
 
-[interface_7:23]
+[interface_7:24]
 type=^iftype_text
 x=18
 y=2
@@ -267,7 +276,7 @@ shadowed=yes
 optionmask=2
 op1="*"
 
-[interface_7:24]
+[interface_7:25]
 type=^iftype_layer
 width=1
 height=1

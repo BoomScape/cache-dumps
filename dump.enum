@@ -494,6 +494,18 @@ default=null
 val=0,pet_dark_core_12816
 val=1,pet_corporeal_critter_22318
 
+[enum_355]
+inputtype=obj
+outputtype=int
+default=1
+val=fruit_blast_2084,6
+val=pineapple_punch_2048,8
+val=wizard_blizzard_2054,18
+val=short_green_guy_2080,20
+val=drunk_dragon_2092,32
+val=choc_saturday_2074,33
+val=blurberry_special_2064,37
+
 [enum_373]
 inputtype=enum
 outputtype=enum
@@ -22040,4 +22052,16 @@ val=12,rune_scimitar_ornament_kit_guthix_23321
 val=13,rune_scimitar_ornament_kit_saradomin_23324
 val=14,rune_scimitar_ornament_kit_zamorak_23327
 val=15,black_pickaxe_12297
+
+[enum_2323]
+inputtype=int
+outputtype=struct
+default=fruit blast_594
+val=0,fruit blast_594
+val=1,pineapple punch_595
+val=2,wizard blizzard_596
+val=3,short green guy_597
+val=4,drunk dragon_598
+val=5,chocolate saturday_599
+val=6,blurberry special_600
 
