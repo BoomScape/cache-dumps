@@ -28295,6 +28295,7 @@ cost=200
 2dxan=28
 2dyan=228
 iop1=Rub
+iop5=Destroy
 
 [dead_orb_2529]
 name=Dead orb
@@ -35770,6 +35771,7 @@ category=category_6
 2dzoom=1830
 2dxan=216
 2dyan=648
+op4=hidden
 iop1=Bury
 members=yes
 stockmarket=yes
@@ -261816,6 +261818,7 @@ model=unidentified_fragment_harvesting_43346
 2dxan=358
 2dyan=2033
 iop1=Break
+iop5=Destroy
 ambient=15
 
 [unidentified_fragment_production_26545]
@@ -261825,6 +261828,7 @@ model=unidentified_fragment_production_43348
 2dxan=358
 2dyan=2033
 iop1=Break
+iop5=Destroy
 ambient=15
 
 [unidentified_fragment_skilling_26546]
@@ -261835,6 +261839,7 @@ model=unidentified_fragment_skilling_43349
 2dxan=358
 2dyan=2033
 iop1=Break
+iop5=Destroy
 ambient=15
 
 [unidentified_fragment_combat_26547]
@@ -261845,6 +261850,7 @@ model=unidentified_fragment_combat_43347
 2dxan=349
 2dyan=27
 iop1=Break
+iop5=Destroy
 ambient=15
 
 [unidentified_fragment_misc_26548]
@@ -261855,6 +261861,7 @@ model=unidentified_fragment_combat_43347
 2dxan=349
 2dyan=27
 iop1=Break
+iop5=Destroy
 ambient=15
 
 [portable_waystone_26549]
@@ -261967,4 +261974,46 @@ certificate=yes
 
 [placeholder_shattered_relic_hunter_t3_armour_set_26562]
 placeholder=yes
+
+[catherby_home_teleport_26563]
+model=model_16238
+param=spell_name_601,Catherby Home Teleport
+param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+param=spell_spellbook_336,1
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,0
+param=spell_button_596,interface_218:5
+param=spell_graphic1_on_597,"magicon2,37"
+param=spell_graphic1_off_598,"magicoff2,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,70"
+param=spell_graphic2_off_600,"2x_standard_spells_off,70"
+
+[catherby_home_teleport_26564]
+model=model_16238
+param=spell_name_601,Catherby Home Teleport
+param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+param=spell_spellbook_336,2
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,0
+param=spell_button_596,interface_218:5
+param=spell_graphic1_on_597,"magicon2,37"
+param=spell_graphic1_off_598,"magicoff2,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,70"
+param=spell_graphic2_off_600,"2x_standard_spells_off,70"
+
+[catherby_home_teleport_26565]
+model=model_16238
+param=spell_name_601,Catherby Home Teleport
+param=spell_desc_602,Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=spell_membersonly_603,no
+param=spell_levelreq_604,0
+param=spell_button_596,interface_218:5
+param=spell_graphic1_on_597,"magicon2,37"
+param=spell_graphic1_off_598,"magicoff2,37"
+param=spell_graphic2_on_599,"2x_standard_spells_on,70"
+param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 

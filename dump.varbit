@@ -67938,3 +67938,18 @@ basevar=var_3279
 startbit=29
 endbit=29
 
+[varbit_13588]
+basevar=var_3324
+startbit=26
+endbit=26
+
+[varbit_13589]
+basevar=var_3324
+startbit=27
+endbit=29
+
+[varbit_13590]
+basevar=var_3279
+startbit=30
+endbit=30
+
