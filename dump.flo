@@ -467,6 +467,10 @@ occlude=no
 colour=^magenta
 mapcolour=0x66593b
 
+[flo_125]
+colour=^magenta
+mapcolour=0x383830
+
 [flo_126]
 colour=0x404038
 

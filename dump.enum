@@ -504,6 +504,7 @@ val=19,13
 val=20,29
 val=21,36
 val=22,39
+val=23,46
 
 [enum_284]
 inputtype=namedobj
@@ -3613,6 +3614,11 @@ val=618,The Fires of Lletya
 val=619,Stand Up and Be Counted
 val=620,No Pasaran
 val=621,The Fragment
+val=622,Jaws of the Basilisk
+val=623,Lair of the Basilisk
+val=624,Fight of the Basilisk
+val=625,Reign of the Basilisk
+val=626,Ballad of the Basilisk
 
 [enum_814]
 inputtype=int
@@ -4283,6 +4289,11 @@ val=618,"Fires of Lletya, The"
 val=619,Stand Up and Be Counted
 val=620,No Pasaran
 val=621,"Fragment, The"
+val=622,Jaws of the Basilisk
+val=623,Lair of the Basilisk
+val=624,Fight of the Basilisk
+val=625,Reign of the Basilisk
+val=626,Ballad of the Basilisk
 
 [enum_818]
 inputtype=int
@@ -4909,6 +4920,11 @@ val=617,618
 val=618,619
 val=619,620
 val=620,621
+val=621,622
+val=622,623
+val=623,624
+val=624,625
+val=625,626
 
 [enum_819]
 inputtype=int
@@ -5535,6 +5551,11 @@ val=618,0_0_0_19_31
 val=619,0_0_0_20_0
 val=620,0_0_0_20_1
 val=621,0_0_0_20_2
+val=622,0_0_0_20_3
+val=623,0_0_0_20_4
+val=624,0_0_0_20_5
+val=625,0_0_0_20_6
+val=626,0_0_0_20_7
 
 [enum_823]
 inputtype=component
@@ -5724,6 +5745,8 @@ val=42,Undead head
 val=43,Stop the Wyvern
 val=44,Double Trouble
 val=45,Use more head
+val=46,Basilonger
+val=47,Basilocked
 
 [enum_835]
 inputtype=int
@@ -5775,6 +5798,8 @@ val=42,Learn how to combine Vorkath's head with your slayer helm to colour it tu
 val=43,"Stops you getting Fossil Island Wyvern tasks, without counting towards your blocked task limit."
 val=44,Slaying Dusk and Dawn now counts for two kills towards your task rather than one.
 val=45,Learn how to combine a Hydra head with your slayer helm to theme it like the Alchemical Hydra.
+val=46,"Whenever you get a Basilisk task, it will be a bigger task."
+val=47,"Konar, Duradel and Nieve will be able to assign Basilisks as your task."
 
 [enum_836]
 inputtype=int
@@ -5826,6 +5851,8 @@ val=42,1000
 val=43,500
 val=44,500
 val=45,1000
+val=46,100
+val=47,80
 
 [enum_837]
 inputtype=int
@@ -5877,6 +5904,8 @@ val=42,turquoise_slayer_helmet_21888
 val=43,wyvern_bones_6812
 val=44,midnight_21750
 val=45,hydra_slayer_helmet_23073
+val=46,basilisk_4139
+val=47,basilisk_4139
 
 [enum_839]
 inputtype=int
@@ -5905,6 +5934,7 @@ val=19,45
 val=20,37
 val=21,43
 val=22,44
+val=23,47
 
 [enum_840]
 inputtype=int
@@ -6653,6 +6683,8 @@ val=39,yes
 val=40,yes
 val=41,yes
 val=44,yes
+val=46,yes
+val=47,yes
 
 [enum_859]
 inputtype=int
@@ -12788,6 +12820,27 @@ val=1,steel_platebody_g_20169
 val=2,steel_plateskirt_g_20175
 val=3,steel_kiteshield_g_20181
 
+[enum_1365]
+inputtype=int
+outputtype=coordgrid
+default=0_41_57_10_28
+val=0,0_41_57_1_30
+val=1,0_41_57_4_32
+val=2,0_41_57_7_34
+val=3,0_41_57_10_33
+val=4,0_41_57_13_35
+val=5,0_41_57_16_37
+val=6,0_41_57_19_36
+val=7,0_41_57_22_35
+val=8,0_41_57_25_30
+val=9,0_41_57_25_26
+val=10,0_41_57_20_22
+val=11,0_41_57_17_23
+val=12,0_41_57_12_21
+val=13,0_41_57_9_20
+val=14,0_41_57_6_20
+val=15,0_41_57_3_22
+
 [enum_1368]
 inputtype=loc
 outputtype=coordgrid
@@ -13044,6 +13097,34 @@ val=5,Watermelon seeds
 val=6,Lobsters
 val=7,XP Tome
 val=8,Random
+
+[enum_1385]
+inputtype=int
+outputtype=coordgrid
+default=0_41_57_18_28
+val=0,0_41_57_3_29
+val=1,0_41_57_5_33
+val=2,0_41_57_9_32
+val=3,0_41_57_13_35
+val=4,0_41_57_17_36
+val=5,0_41_57_21_34
+val=6,0_41_57_20_22
+val=7,0_41_57_16_23
+val=8,0_41_57_11_19
+val=9,0_41_57_7_19
+val=10,0_41_57_3_21
+val=11,0_41_57_3_25
+
+[enum_1386]
+inputtype=int
+outputtype=graphic
+default=null
+val=1,"graphic_2244"
+val=2,"graphic_2259"
+val=3,"graphic_2260"
+val=4,"graphic_2261"
+val=5,"graphic_2262"
+val=6,"graphic_2263"
 
 [enum_1401]
 inputtype=int
@@ -16644,6 +16725,8 @@ val=19,Elven Item Retrieval Service
 val=20,Elven Item Retrieval Service
 val=21,Elven Item Retrieval Service
 val=22,Elven Item Retrieval Service
+val=23,Brundt the Chieftain's Item Retrieval Service
+val=24,Brundt the Chieftain's Item Retrieval Service
 
 [enum_1756]
 inputtype=int
@@ -16660,6 +16743,7 @@ val=15,coins_995
 val=17,coins_995
 val=19,coins_995
 val=21,coins_995
+val=23,coins_995
 
 [enum_1757]
 inputtype=int
@@ -16676,6 +16760,7 @@ val=15,25000
 val=17,90000
 val=19,80000
 val=21,80000
+val=23,50000
 
 [enum_1771]
 inputtype=coordgrid
@@ -19912,6 +19997,7 @@ val=118,zogre_flesh_eaters_449
 val=119,the_ascent_of_arceuus_542
 val=120,the_forsaken_tower_543
 val=121,song_of_the_elves_603
+val=122,the_fremennik_exiles_718
 
 [enum_2100]
 inputtype=int
@@ -21429,6 +21515,7 @@ val=59,mystic_robe_top_dusk_23050
 val=60,mystic_robe_bottom_dusk_23053
 val=61,mystic_gloves_dusk_23056
 val=62,mystic_boots_dusk_23059
+val=63,basilisk_jaw_24268
 
 [enum_2163]
 inputtype=int
@@ -22122,6 +22209,7 @@ val=1,struct_589
 val=2,struct_592
 val=3,struct_591
 val=4,struct_590
+val=5,struct_717
 
 [enum_2321]
 inputtype=int
@@ -23255,4 +23343,24 @@ val=11,10
 val=12,50
 val=13,100
 val=14,500
+
+[enum_2637]
+inputtype=int
+outputtype=graphic
+default=null
+val=1,"graphic_2265"
+val=2,"graphic_2264"
+
+[enum_2638]
+inputtype=int
+outputtype=component
+default=null
+val=1,interface_622:38
+val=2,interface_622:47
+val=3,interface_622:56
+val=4,interface_622:65
+val=5,interface_622:74
+val=6,interface_622:83
+val=7,interface_622:92
+val=8,interface_622:101
 

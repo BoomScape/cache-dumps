@@ -3854,3 +3854,15 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_643]
+text=Island<br>of Stone
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_644]
+text=Basilisk<br>Knights
+colour=^white
+mapfunction=no
+category=1129
+
