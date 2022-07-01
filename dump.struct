@@ -2665,26 +2665,46 @@ param=param_681,18
 param=param_682,Bosses
 param=param_683,enum_2103
 param=param_684,0
+param=param_685,interface_621:10
+param=param_686,interface_621:11
+param=param_687,interface_621:12
+param=param_688,interface_621:13
 
 [raids_472]
 param=param_682,Raids
 param=param_683,enum_2104
 param=param_684,1
+param=param_685,interface_621:14
+param=param_686,interface_621:15
+param=param_687,interface_621:16
+param=param_688,interface_621:21
 
 [clues_473]
 param=param_682,Clues
 param=param_683,enum_2105
 param=param_684,2
+param=param_685,interface_621:22
+param=param_686,interface_621:30
+param=param_687,interface_621:31
+param=param_688,interface_621:23
 
 [minigames_474]
 param=param_682,Minigames
 param=param_683,enum_2106
 param=param_684,3
+param=param_685,interface_621:24
+param=param_686,interface_621:25
+param=param_687,interface_621:34
+param=param_688,interface_621:26
 
 [other_475]
 param=param_682,Other
 param=param_683,enum_2107
 param=param_684,4
+param=param_685,interface_621:27
+param=param_686,interface_621:32
+param=param_687,interface_621:33
+param=param_688,interface_621:28
 
 [abyssal_sire_476]
 param=param_689,Abyssal Sire
@@ -17737,4 +17757,33 @@ param=param_569,harpoonfish_25565
 [tempoross_2867]
 param=param_689,Tempoross
 param=param_690,enum_3714
+
+[struct_2868]
+param=setting_search_keywords_1088,"collection log,cl,new item,notifications"
+param=setting_id_1077,85
+param=setting_type_1078,2
+param=setting_name_1086,Collection log - New additions
+param=setting_dropdown_list_1091,enum_3720
+param=setting_choose_transmit_1085,yes
+param=setting_desc_1096,Sends a notification whenever a new item is added to your Collection log.
+
+[hard_treasure_trails_rare_2869]
+param=param_689,Hard Treasure Trails (Rare)
+param=param_690,enum_3722
+
+[elite_treasure_trails_rare_2870]
+param=param_689,Elite Treasure Trails (Rare)
+param=param_690,enum_3723
+
+[master_treasure_trails_rare_2871]
+param=param_689,Master Treasure Trails (Rare)
+param=param_690,enum_3724
+
+[volcanic_mine_2872]
+param=param_689,Volcanic Mine
+param=param_690,enum_3726
+
+[brimhaven_agility_arena_2873]
+param=param_689,Brimhaven Agility Arena
+param=param_690,enum_3725
 

@@ -119855,7 +119855,7 @@ drawpriority=yes
 
 [baby_mole_5780]
 name=Baby Mole
-model1=baby_mole_12073
+model1=baby_mole_42012
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 recol1s=5388
@@ -119875,7 +119875,7 @@ visonmap=no
 
 [baby_mole_5781]
 name=Baby Mole
-model1=baby_mole_12073
+model1=baby_mole_42012
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=118
@@ -119897,7 +119897,7 @@ visonmap=no
 
 [baby_mole_5782]
 name=Baby Mole
-model1=baby_mole_12073
+model1=baby_mole_42012
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
 resizeh=108
@@ -133912,12 +133912,12 @@ follower=yes
 
 [baby_mole_6635]
 name=Baby Mole
-model1=baby_mole_12073
-head1=baby_mole_28863
+model1=baby_mole_42012
+head1=baby_mole_42013
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
-resizeh=80
-resizev=80
+resizeh=90
+resizev=90
 op1=Talk-to
 op3=Pick-up
 vislevel=0
@@ -134267,12 +134267,12 @@ drawpriority=yes
 
 [baby_mole_6651]
 name=Baby Mole
-model1=baby_mole_12073
-head1=baby_mole_28863
+model1=baby_mole_42012
+head1=baby_mole_42013
 readyanim=baby_mole_3309
 walkanim=giant_mole_walk_3313
-resizeh=80
-resizev=80
+resizeh=90
+resizev=90
 op1=Talk-to
 op3=Pick-up
 vislevel=0
@@ -173042,7 +173042,8 @@ walkanim=the_collector_walk_6658
 recol1s=6798
 recol1d=107
 op1=Talk-to
-op3=Get log
+op3=Get-log
+op4=Count-log
 vislevel=0
 drawpriority=yes
 
@@ -210626,4 +210627,59 @@ multinpc=102,gregg_10642
 multinpc=103,gregg_10642
 multinpc=104,gregg_10642
 drawpriority=yes
+
+[baby_mole_rat_10650]
+name=Baby Mole-rat
+model1=baby_mole_42012
+head1=baby_mole_42013
+readyanim=baby_mole_3309
+walkanim=giant_mole_walk_3313
+resizeh=90
+resizev=90
+recol1s=5388
+recol1d=317
+recol2s=5392
+recol2d=322
+recol3s=5268
+recol3d=326
+recol4s=5272
+recol4d=328
+recol5s=5276
+recol5d=332
+recol6s=4558
+recol6d=-1830
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=30
+contrast=30
+
+[baby_mole_rat_10651]
+name=Baby Mole-rat
+model1=baby_mole_42012
+head1=baby_mole_42013
+readyanim=baby_mole_3309
+walkanim=giant_mole_walk_3313
+resizeh=90
+resizev=90
+recol1s=5388
+recol1d=317
+recol2s=5392
+recol2d=322
+recol3s=5268
+recol3d=326
+recol4s=5272
+recol4d=328
+recol5s=5276
+recol5d=332
+recol6s=4558
+recol6d=-1830
+op1=Talk-to
+op3=Pick-up
+vislevel=0
+visonmap=no
+ambient=30
+contrast=30
+follower=yes
 
