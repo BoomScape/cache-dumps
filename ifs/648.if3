@@ -12,7 +12,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_648:0
-onload="script227(event_com,Bounty Hunter Streaks)"
+onload="script227(event_com,Target World Streaks)"
 
 [interface_648:2]
 type=^iftype_layer

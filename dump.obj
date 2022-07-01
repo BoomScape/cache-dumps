@@ -154334,8 +154334,8 @@ iop2=Wear
 iop5=Destroy
 placeholder=yes
 
-[bounty_teleport_scroll_12846]
-name=Bounty teleport scroll
+[target_teleport_scroll_12846]
+name=Target teleport scroll
 model=ballad_10137
 cost=30000
 2dzoom=960
@@ -154358,7 +154358,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_bounty_teleport_scroll_12847]
+[cert_target_teleport_scroll_12847]
 certificate=yes
 
 [granite_maul_12848]
@@ -169071,7 +169071,7 @@ placeholder=yes
 [placeholder_granite_clamp_15098]
 placeholder=yes
 
-[placeholder_bounty_teleport_scroll_15099]
+[placeholder_target_teleport_scroll_15099]
 placeholder=yes
 
 [placeholder_hunters_honour_15100]
@@ -175463,8 +175463,8 @@ model=orb_of_light_3176
 2dyan=1700
 recol1s=1500
 recol1d=4
-param=spell_name_601,Teleport to Bounty Target
-param=spell_desc_602,Teleports you near your Bounty Hunter target
+param=spell_name_601,Teleport to Target
+param=spell_desc_602,Teleports you near your Target
 param=spell_spellbook_336,-1
 param=spell_type_605,2
 param=spell_membersonly_603,yes
@@ -231115,9 +231115,9 @@ certificate=yes
 [placeholder_dagonhai_robes_set_24335]
 placeholder=yes
 
-[bounty_target_teleport_24336]
-name=Bounty target teleport
-model=bounty_target_teleport_38923
+[target_teleport_24336]
+name=Target teleport
+model=target_teleport_38923
 2dzoom=465
 2dyof=-1
 2dxan=373
@@ -231128,7 +231128,7 @@ stackable=yes
 placeholder=yes
 param=param_852,2
 
-[placeholder_bounty_target_teleport_24337]
+[placeholder_target_teleport_24337]
 placeholder=yes
 
 [bounty_hunter_hat_tier_1_24338]
@@ -236227,4 +236227,37 @@ iop3=Transform
 iop4=Lap-count
 iop5=Release
 members=yes
+
+[golden_armadyl_special_attack_24868]
+name=Golden armadyl special attack
+model=armadyl_hilt_28064
+2dzoom=789
+2dxof=-3
+2dxan=498
+2dyan=263
+
+[golden_bandos_special_attack_24869]
+name=Golden bandos special attack
+model=bandos_hilt_28073
+2dzoom=868
+2dxof=1
+2dyof=1
+2dxan=618
+2dyan=203
+
+[golden_saradomin_special_attack_24870]
+name=Golden saradomin special attack
+model=saradomin_hilt_28068
+2dzoom=789
+2dxof=-1
+2dxan=498
+2dyan=263
+
+[golden_zamorak_special_attack_24871]
+name=Golden zamorak special attack
+model=zamorak_hilt_28058
+2dzoom=789
+2dxof=-1
+2dxan=498
+2dyan=263
 

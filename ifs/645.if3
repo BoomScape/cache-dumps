@@ -59,7 +59,7 @@ layer=interface_645:0
 
 [interface_645:6]
 type=^iftype_layer
-width=150
+width=155
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus

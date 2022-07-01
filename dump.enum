@@ -7169,7 +7169,7 @@ val=45,adamant_arrow_890
 val=46,clue_box_12789
 val=47,climbing_boots_3105
 val=48,granite_clamp_12849
-val=49,bounty_teleport_scroll_12846
+val=49,target_teleport_scroll_12846
 val=50,hunters_honour_12855
 val=51,ornate_maul_handle_24229
 val=52,super_attack_4_2436
@@ -20235,16 +20235,16 @@ val=5,creature_creation_546
 val=6,cyclopes_532
 val=7,fossil_island_notes_548
 val=8,gloughs_experiments_526
-val=9,motherlode_mine_530
-val=10,my_notes_549
-val=11,random_events_538
-val=12,revenants_525
-val=13,rooftop_agility_547
-val=14,shayzien_armour_531
-val=15,skilling_pets_529
-val=16,slayer_527
-val=17,tzhaar_536
-val=18,monkey_backpacks_1397
+val=9,monkey_backpacks_1397
+val=10,motherlode_mine_530
+val=11,my_notes_549
+val=12,random_events_538
+val=13,revenants_525
+val=14,rooftop_agility_547
+val=15,shayzien_armour_531
+val=16,skilling_pets_529
+val=17,slayer_527
+val=18,tzhaar_536
 val=19,miscellaneous_534
 
 [enum_2108]
@@ -23376,6 +23376,53 @@ val=19,magic_shortbow_scroll_12786
 val=20,clue_box_12789
 val=21,ornate_maul_handle_24229
 val=22,saradomins_tear_12804
+val=23,blighted_bind_sack_24609
+val=24,blighted_snare_sack_24611
+val=25,adamant_arrow_890
+val=26,blighted_entangle_sack_24613
+val=27,blighted_teleport_spell_sack_24615
+val=28,blighted_vengeance_sack_24621
+val=29,bolt_rack_4740
+val=30,blighted_ancient_ice_sack_24607
+val=31,rune_arrow_892
+val=32,cert_blighted_manta_ray_24590
+val=33,cert_blighted_anglerfish_24593
+val=34,cert_blighted_karambwan_24596
+val=35,dragonstone_bolts_e_9244
+val=36,cert_blighted_super_restore_4_24599
+val=37,cert_climbing_boots_3106
+val=38,looting_bag_11941
+val=39,looting_bag_note_24585
+val=40,paddewwa_teleport_12781
+val=41,senntisten_teleport_12782
+val=42,annakarl_teleport_12775
+val=43,carrallangar_teleport_12776
+val=44,dareeyak_teleport_12777
+val=45,ghorrock_teleport_12778
+val=46,kharyrll_teleport_12779
+val=47,lassar_teleport_12780
+val=48,target_teleport_24336
+val=49,granite_clamp_12849
+val=50,steam_staff_upgrade_kit_12798
+val=51,lava_staff_upgrade_kit_21202
+val=52,dragon_pickaxe_upgrade_kit_12800
+val=53,ward_upgrade_kit_12802
+val=54,green_dark_bow_paint_12759
+val=55,yellow_dark_bow_paint_12761
+val=56,white_dark_bow_paint_12763
+val=57,blue_dark_bow_paint_12757
+val=58,volcanic_whip_mix_12771
+val=59,frozen_whip_mix_12769
+val=60,crystal_weapon_seed_4207
+val=61,rune_pouch_12791
+val=62,rune_pouch_note_24587
+val=63,vestas_longsword_inactive_24619
+val=64,decorative_emblem_24287
+val=65,target_teleport_scroll_12846
+val=66,golden_armadyl_special_attack_24868
+val=67,golden_bandos_special_attack_24869
+val=68,golden_saradomin_special_attack_24870
+val=69,golden_zamorak_special_attack_24871
 
 [enum_2634]
 inputtype=int
@@ -23404,6 +23451,53 @@ val=19,Magic Shortbow Scroll
 val=20,Clue Box
 val=21,Ornate Maul Handle
 val=22,Saradomin's Tear
+val=23,Blighted Bind Sack
+val=24,Blighted Snare Sack
+val=25,Adamant Arrow
+val=26,Blighted Entangle Sack
+val=27,Blighted Teleport Spell Sack
+val=28,Blighted Vengeance Sacks
+val=29,Bolt Rack
+val=30,Blighted Ancient Ice Sack
+val=31,Rune Arrow
+val=32,Blighted Manta Ray
+val=33,Blighted Anglerfish
+val=34,Blighted Karambwan
+val=35,Dragonstone Bolt (e)
+val=36,Blighted Super Restore (4)
+val=37,Climbing Boots
+val=38,Looting Bag
+val=39,Looting Bag Note
+val=40,Paddewa Teleport Tablet
+val=41,Sennisten Teleport Tablet
+val=42,Annakarl Teleport Tablet
+val=43,Carrallangar Teleport Tablet
+val=44,Dareeyak Teleport Tablet
+val=45,Ghorrock Teleport Tablet
+val=46,Kharyll Teleport Tablet
+val=47,Lassar Teleport Tablet
+val=48,Target Teleport Tablet
+val=49,Granite Clamp
+val=50,Steam Staff Upgrade Kit
+val=51,Lava Staff Upgrade Kit
+val=52,Dragon Pickaxe Upgrade Kit
+val=53,Ward Upgrade Kit
+val=54,Dark Bow Green Paint
+val=55,Dark Bow Yellow Paint
+val=56,Dark Bow White Paint
+val=57,Dark Bow Blue Paint
+val=58,Volcanic Whip Mix
+val=59,Frozen Whip Mix
+val=60,Crystal Weapon Seed
+val=61,Rune Pouch
+val=62,Rune Pouch Note
+val=63,Vesta's longsword (inactive)
+val=64,Decorative Emblem
+val=65,Target Teleport Scroll
+val=66,Golden Armadyl Special
+val=67,Golden Bandos Special
+val=68,Golden Saradomin Special
+val=69,Golden Zamorak Special
 
 [enum_2636]
 inputtype=int
@@ -23435,6 +23529,15 @@ val=5,interface_622:74
 val=6,interface_622:83
 val=7,interface_622:92
 val=8,interface_622:101
+
+[enum_2641]
+inputtype=int
+outputtype=boolean
+default=yes
+val=64,no
+val=61,no
+val=63,no
+val=38,no
 
 [enum_2644]
 inputtype=int
@@ -25277,7 +25380,7 @@ val=24,dareeyak_teleport_12777
 val=25,ghorrock_teleport_12778
 val=26,kharyrll_teleport_12779
 val=27,lassar_teleport_12780
-val=28,bounty_target_teleport_24336
+val=28,target_teleport_24336
 val=29,green_dark_bow_paint_12759
 val=30,yellow_dark_bow_paint_12761
 val=31,white_dark_bow_paint_12763
@@ -25290,7 +25393,7 @@ val=37,dragon_pickaxe_upgrade_kit_12800
 val=38,ward_upgrade_kit_12802
 val=39,ring_of_wealth_scroll_12783
 val=40,magic_shortbow_scroll_12786
-val=41,bounty_teleport_scroll_12846
+val=41,target_teleport_scroll_12846
 val=42,climbing_boots_3105
 val=43,bolt_rack_4740
 val=44,amethyst_arrow_21326
@@ -25298,6 +25401,7 @@ val=45,rune_arrow_892
 val=46,adamant_arrow_890
 val=47,dragonstone_bolts_e_9244
 val=48,crystal_weapon_seed_4207
+val=49,decorative_emblem_24287
 
 [enum_2855]
 inputtype=int
@@ -25335,7 +25439,7 @@ val=28,dareeyak_teleport_12777
 val=29,ghorrock_teleport_12778
 val=30,kharyrll_teleport_12779
 val=31,lassar_teleport_12780
-val=32,bounty_target_teleport_24336
+val=32,target_teleport_24336
 val=33,volcanic_whip_mix_12771
 val=34,frozen_whip_mix_12769
 val=35,steam_staff_upgrade_kit_12798
@@ -25356,7 +25460,7 @@ val=49,clue_box_12789
 val=50,climbing_boots_3105
 val=51,granite_clamp_12849
 val=52,ornate_maul_handle_24229
-val=53,bounty_teleport_scroll_12846
+val=53,target_teleport_scroll_12846
 val=54,hunters_honour_12855
 val=55,decorative_emblem_24287
 
@@ -25416,7 +25520,7 @@ val=48,clue_box_12789
 val=49,climbing_boots_3105
 val=50,granite_clamp_12849
 val=51,ornate_maul_handle_24229
-val=52,bounty_teleport_scroll_12846
+val=52,target_teleport_scroll_12846
 val=53,hunters_honour_12855
 
 [enum_2857]
@@ -25453,7 +25557,7 @@ val=26,clue_box_12789
 val=27,climbing_boots_3105
 val=28,granite_clamp_12849
 val=29,ornate_maul_handle_24229
-val=30,bounty_teleport_scroll_12846
+val=30,target_teleport_scroll_12846
 val=31,hunters_honour_12855
 val=32,super_attack_4_2436
 val=33,super_strength_4_2440
@@ -26164,11 +26268,11 @@ inputtype=int
 outputtype=namedobj
 default=null
 val=0,karamjan_monkey_24862
-val=1,zombie_monkey_24863
+val=1,kruk_jr_24866
 val=2,maniacal_monkey_24864
-val=3,skeleton_monkey_24865
-val=4,kruk_jr_24866
-val=5,princely_monkey_24867
+val=3,princely_monkey_24867
+val=4,skeleton_monkey_24865
+val=5,zombie_monkey_24863
 
 [enum_3045]
 inputtype=obj
@@ -26265,19 +26369,25 @@ outputtype=string
 default="When wearing gear that gives a set bonus, you'll be able to view it here."
 val=0,"When wearing gear that gives a set bonus, you'll be able to view it here."
 val=1,<col=ffffff>Ahrim The Blighted:<br><br>Blighted Aura:<br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.
-val=2,"<col=ffffff>Dharok the Wretched:<br><br>Wretched Strength:<br><br>Attacks do more damage as your hitpoints decrease.<br><br>For every hitpoint lost from your maximum hitpoints, you deal 1% more damage."
-val=3,<col=ffffff>Guthan the Infested:<br><br>Infestation:<br><br>Attacks have a 25% chance of replenishing the player's health equal to the damage dealt.
+val=2001,"<col=ffffff>Ahrim The Blighted:<br><br>Blighted Aura +:<br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>If the spell is autocast, it gets a 30% damage bonus."
+val=2,"<col=ffffff>Dharok the Wretched:<br><br>Wretched Strength:<br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints, you deal 1% more damage."
+val=2002,"<col=ffffff>Dharok the Wretched:<br><br>Wretched Strength +:<br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints, you deal 1% more damage.<br><br>When you take damage, you have a 1/4 chance of reflecting 15% of the damage to your opponent."
+val=3,<col=ffffff>Guthan the Infested:<br><br>Infestation:<br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.
+val=2003,<col=ffffff>Guthan the Infested:<br><br>Infestation +:<br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.
 val=4,<col=ffffff>Karil the Tainted:<br><br>Tainted Shot:<br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.
+val=2004,"<col=ffffff>Karil the Tainted:<br><br>Tainted Shot +:<br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP, dealing half the damage of the first."
 val=5,<col=ffffff>Torag the Corrupted:<br><br>Corruption:<br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.
+val=2005,"<col=ffffff>Torag the Corrupted:<br><br>Corruption +:<br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints, your Defence stat gets an invisible boost."
 val=6,"<col=ffffff>Verac the Defiled:<br><br>Defiler:<br><br>Attacks have a 25% chance of ignoring any armour, Defence, and protection prayers."
+val=2006,"<col=ffffff>Verac the Defiled:<br><br>Defiler +:<br><br>Attacks have a 25% chance of ignoring any armour, Defence, and protection prayers.<br><br>Gives a +7 prayer bonus."
 val=7,"<col=ffffff>Inquisitor's armour:<br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 0.5% when using the crush attack style.<br><br>If all pieces of the Inquisitor's armour are worn, this bonus is increased to 2.5%."
 val=8,<col=ffffff>Graceful Outfit:<br><br>Each individual piece of the Graceful Outfit increases your run restoration rate.<br><br>Wearing the full Graceful Outfit increases run energy restoration by 30%.
 val=9,<col=ffffff>Obsidian armour:<br><br>All obsidian weaponry will be given a 10% boost in melee accuracy and melee strength.
-val=10,"<col=ffffff>Void Knight Melee:<br><br>When wearing the Void Top, Robe, Gloves and Melee Helmet.<br><br>You will receive +10% bonus to your melee damage and accuracy."
-val=11,"<col=ffffff>Void Knight Range:<br><br>When wearing the Void Top, Robe, Gloves and Ranger Helmet.<br><br>You will receive +10% bonus to your ranged damage and accuracy."
-val=12,"<col=ffffff>Void Knight Elite Range:<br><br>When wearing the Elite Void Top, Elite Robe, Gloves and Ranger Helmet.<br><br>You will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy."
-val=13,"<col=ffffff>Void Knight Mage:<br><br>When wearing the Void Top, Robe, Gloves and Mage Helmet.<br><br>You will receive +45% bonus to your magic accuracy."
-val=14,"<col=ffffff>Void Knight Elite Mage:<br><br>When wearing the Elite Void Top, Elite Robe, Gloves and Mage Helmet.<br><br>You will receive +47.5% bonus to your magic accuracy."
+val=10,"<col=ffffff>Void Knight Melee:<br><br>When wearing the Void Top, Robe, Gloves and Melee Helmet, you will receive +10% bonus to your melee damage and accuracy."
+val=11,"<col=ffffff>Void Knight Range:<br><br>When wearing the Void Top, Robe, Gloves and Ranger Helmet, you will receive +10% bonus to your ranged damage and accuracy."
+val=12,"<col=ffffff>Void Knight Elite Range:<br><br>When wearing the Elite Void Top, Elite Robe, Gloves and Ranger Helmet, you will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy."
+val=13,"<col=ffffff>Void Knight Mage:<br><br>When wearing the Void Top, Robe, Gloves and Mage Helmet, you will receive +45% bonus to your magic accuracy."
+val=14,"<col=ffffff>Void Knight Elite Mage:<br><br>When wearing the Elite Void Top, Elite Robe, Gloves and Mage Helmet, you will receive a +45% bonus to your magic accuracy and 2.5% to your magic damage."
 val=15,<col=ffffff>Justiciar:<br><br>PvM damage dealt to you is reduced according to your total armour protection in that style.
 val=16,<col=ffffff>Angler outfit:<br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.
 val=17,<col=ffffff>Lumberjack outfit:<br><br>XP from training Woodcutting will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.
@@ -26285,4 +26395,33 @@ val=18,<col=ffffff>Prospector outfit:<br><br>XP from training Mining will be inc
 val=19,<col=ffffff>Farmer outfit:<br><br>XP from training Farming will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.
 val=20,<col=ffffff>Pyromancer outfit:<br><br>XP from training Firemaking will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.
 val=21,<col=ffffff>Shayzien armour:<br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.
+val=22,<col=ffffff>Rogue kit:<br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.
+
+[enum_3048]
+inputtype=int
+outputtype=int
+default=1
+val=23,300
+val=24,150
+val=25,350
+val=26,70
+val=27,50
+val=28,50
+val=29,200
+val=30,30
+val=31,300
+val=32,15
+val=33,15
+val=34,12
+val=35,20
+val=36,4
+val=37,20
+val=40,2
+val=41,2
+val=42,2
+val=43,2
+val=44,2
+val=45,2
+val=46,2
+val=47,2
 

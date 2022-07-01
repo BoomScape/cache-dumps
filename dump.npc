@@ -190769,14 +190769,6 @@ op4=Charter
 op5=Charter-to Port Phasmatys
 vislevel=0
 
-[npc_9306]
-name=
-model1=model_16238
-resizeh=1
-resizev=1
-vislevel=1
-visonmap=no
-
 [trader_stan_9307]
 name=Trader Stan
 model1=tan_cavalier_186
@@ -194966,7 +194958,7 @@ follower=yes
 name=Flying Vespina
 model1=vespula_32689
 head1=vespina_35118
-readyanim=vespula_ready_7453
+readyanim=flying_vespina_ready_8639
 walkanim=flying_vespina_ready_8639
 resizeh=20
 resizev=20
@@ -206138,7 +206130,7 @@ resizeh=86
 resizev=86
 op2=Attack
 size=5
-vislevel=309
+vislevel=334
 ambient=30
 contrast=44
 
