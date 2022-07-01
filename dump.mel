@@ -4011,3 +4011,72 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_669]
+text=Desert Island
+colour=0xff981f
+size=2
+mapfunction=no
+category=1129
+
+[mapelement_670]
+text=Wild Varrock
+colour=0xff981f
+size=2
+mapfunction=no
+category=1129
+
+[mapelement_671]
+text=Hut
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_672]
+text=Stone Circle
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_673]
+text=Court of Chaos
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_674]
+text=Old Manor
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_675]
+text=Town Center
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_676]
+text=Blank Tower
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_677]
+text=Trading Post
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_678]
+text=Dark Warrior's<br>Palace
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_679]
+text=Pillars of Sacrifice
+colour=^white
+mapfunction=no
+category=1129
+
