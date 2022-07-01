@@ -3713,3 +3713,8 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_619]
+graphic="mapfunction,118"
+vis=^mapelement_vis_both
+category=1317
+

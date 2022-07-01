@@ -2710,3 +2710,22 @@ param=param_612,0
 param=param_613,0
 param=param_614,0
 
+[struct_588]
+param=param_729,Old School Website
+
+[struct_589]
+param=param_729,Customer Support
+
+[struct_590]
+param=param_729,Old School Wiki
+
+[struct_591]
+param=param_729,Hiscores
+
+[struct_592]
+param=param_729,News Archive
+
+[beginner_treasure_trails_593]
+param=param_689,Beginner Treasure Trails
+param=param_690,enum_2322
+

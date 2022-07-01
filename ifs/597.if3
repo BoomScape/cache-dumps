@@ -23,7 +23,7 @@ height=280
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 layer=interface_597:0
-onload="script1937(39124992,39124998,39125002,39125006,39125010,39125014,39125018,39125022,39125026,39125030,39125034,39125038,39125042,39125046,39125050,39124999,39125003,39125007,39125011,39125015,39125019,39125023,39125027,39125031,39125035,39125039,39125043,39125047,39125051)"
+onload="script1937(39124992,39124998,39125002,39125006,39125010,39125014,39125018,39125022,39125026,39125030,39125034,39125038,39125042,39125046,39125050,39125054,39124999,39125003,39125007,39125011,39125015,39125019,39125023,39125027,39125031,39125035,39125039,39125043,39125047,39125051,39125055)"
 
 [interface_597:3]
 type=^iftype_graphic
@@ -636,6 +636,48 @@ width=50
 height=20
 layer=interface_597:57
 text="Revenant caves"
+colour=^yellow
+font=p11_full
+shadowed=yes
+
+[interface_597:61]
+type=^iftype_layer
+x=370
+y=135
+width=50
+height=60
+layer=interface_597:2
+optionmask=14
+opbase="<col=FF981F>Watson teleport scroll"
+op1="Activate"
+op2="Set as default"
+op3="Remove"
+
+[interface_597:62]
+type=^iftype_model
+y=5
+width=50
+height=50
+layer=interface_597:61
+zoom=400
+
+[interface_597:63]
+type=^iftype_text
+y=50
+width=50
+height=10
+layer=interface_597:61
+colour=^yellow
+font=p11_full
+halign=^settextalign_right
+shadowed=yes
+
+[interface_597:64]
+type=^iftype_text
+width=50
+height=20
+layer=interface_597:61
+text="Watson"
 colour=^yellow
 font=p11_full
 shadowed=yes
