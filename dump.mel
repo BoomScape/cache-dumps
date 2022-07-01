@@ -3718,3 +3718,9 @@ graphic="mapfunction,118"
 vis=^mapelement_vis_both
 category=1317
 
+[mapelement_620]
+text=Forthos Ruin
+colour=^white
+mapfunction=no
+category=1129
+

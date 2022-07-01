@@ -41808,3 +41808,8 @@ basevar=var_1704
 startbit=17
 endbit=22
 
+[varbit_8362]
+basevar=var_415
+startbit=0
+endbit=2
+

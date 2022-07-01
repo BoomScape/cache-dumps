@@ -15102,7 +15102,6 @@ val=interface_507:22,8
 inputtype=int
 outputtype=boolean
 default=no
-val=9,yes
 val=10,yes
 val=11,yes
 val=12,yes
@@ -15120,9 +15119,6 @@ val=23,yes
 val=24,yes
 val=25,yes
 val=26,yes
-val=27,yes
-val=28,yes
-val=29,yes
 
 [enum_1611]
 inputtype=int
@@ -16834,9 +16830,6 @@ val=23,yes
 val=24,yes
 val=25,yes
 val=26,yes
-val=27,yes
-val=28,yes
-val=29,yes
 
 [enum_1796]
 inputtype=int
@@ -16873,6 +16866,7 @@ val=16,Spin
 val=17,Take
 val=18,Request
 val=19,Enchant
+val=20,Buy
 
 [enum_1810]
 inputtype=int
@@ -17390,9 +17384,6 @@ val=23,yes
 val=24,yes
 val=25,yes
 val=26,yes
-val=27,yes
-val=28,yes
-val=29,yes
 
 [enum_1906]
 inputtype=int

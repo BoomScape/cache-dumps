@@ -2478,7 +2478,7 @@ framecount=1
 looptype=1
 framegroup1=864
 
-[fishing_spot_walk_448]
+[rod_fishing_spot_walk_448]
 framecount=1
 looptype=1
 framegroup1=864
@@ -2768,7 +2768,7 @@ framecount=7
 looptype=1
 framegroup1=856
 
-[mysterious_glow_502]
+[zapper_502]
 framecount=12
 replayoff=12
 looptype=1
@@ -45841,7 +45841,7 @@ framecount=10
 looptype=1
 framegroup1=1898
 
-[seq_7542]
+[reshi_ready_7542]
 framecount=16
 looptype=1
 framegroup1=1898
@@ -50754,11 +50754,6 @@ movetype=1
 looptype=1
 framegroup1=207
 soundeffect12=3220,1,1
-
-[seq_8315]
-framecount=8
-looptype=1
-framegroup1=432
 
 [seq_8331]
 framecount=56
