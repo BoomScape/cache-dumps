@@ -69933,3 +69933,13 @@ basevar=var_64
 startbit=1
 endbit=1
 
+[varbit_13987]
+basevar=var_2920
+startbit=17
+endbit=25
+
+[varbit_13988]
+basevar=var_1675
+startbit=15
+endbit=15
+

@@ -28350,7 +28350,7 @@ param=magic_runecount_2_368,1
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,4
 param=param_1190,15
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [bones_2530]
 name=Bones
@@ -37907,7 +37907,7 @@ param=magic_runetype_2_367,death_rune_560
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,5
-param=param_1189,underground_pass_442
+param=param_1189,dbrow_154
 
 [snare_3300]
 model=model_16238
@@ -37946,7 +37946,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,2
-param=param_1189,plague_city_407
+param=param_1189,dbrow_109
 
 [earth_blast_3302]
 model=model_16238
@@ -38041,7 +38041,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,earth_rune_557
 param=magic_runecount_2_368,2
-param=param_1189,watchtower_445
+param=param_1189,dbrow_157
 
 [fire_blast_3307]
 model=model_16238
@@ -38104,7 +38104,7 @@ param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,4
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,1
-param=param_1189,mage_arena_i_3146
+param=param_1189,dbrow_89
 
 [flames_of_zamorak_3310]
 model=model_16238
@@ -38127,7 +38127,7 @@ param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,1
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,4
-param=param_1189,mage_arena_i_3146
+param=param_1189,dbrow_89
 
 [saradomin_strike_3311]
 model=model_16238
@@ -38150,7 +38150,7 @@ param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,4
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
-param=param_1189,mage_arena_i_3146
+param=param_1189,dbrow_89
 
 [trollheim_teleport_3312]
 model=model_16238
@@ -38169,7 +38169,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,fire_rune_554
 param=magic_runecount_2_368,2
-param=param_1189,eadgars_ruse_352
+param=param_1189,dbrow_36
 
 [wind_wave_3313]
 model=model_16238
@@ -38389,7 +38389,7 @@ param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,3
-param=param_1189,mage_arena_i_3146
+param=param_1189,dbrow_89
 
 [stun_3324]
 model=model_16238
@@ -54344,7 +54344,7 @@ param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,1
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [shadow_rush_4630]
@@ -54368,7 +54368,7 @@ param=magic_runetype_3_369,soul_rune_566
 param=magic_runecount_3_370,1
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [paddewwa_teleport_4631]
@@ -54390,7 +54390,7 @@ param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [blood_rush_4632]
 model=model_16238
@@ -54411,7 +54411,7 @@ param=magic_runetype_2_367,chaos_rune_562
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [ice_rush_4633]
@@ -54433,7 +54433,7 @@ param=magic_runetype_2_367,chaos_rune_562
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,2
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [senntisten_teleport_4634]
@@ -54453,7 +54453,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,soul_rune_566
 param=magic_runecount_2_368,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [smoke_burst_4635]
 model=model_16238
@@ -54476,7 +54476,7 @@ param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [shadow_burst_4636]
@@ -54500,7 +54500,7 @@ param=magic_runetype_3_369,soul_rune_566
 param=magic_runecount_3_370,2
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [kharyrll_teleport_4637]
@@ -54520,7 +54520,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [blood_burst_4638]
 model=model_16238
@@ -54541,7 +54541,7 @@ param=magic_runetype_2_367,chaos_rune_562
 param=magic_runecount_2_368,4
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,2
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [ice_burst_4639]
@@ -54563,7 +54563,7 @@ param=magic_runetype_2_367,chaos_rune_562
 param=magic_runecount_2_368,4
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,4
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [lassar_teleport_4640]
@@ -54583,7 +54583,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,4
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [smoke_blitz_4641]
 model=model_16238
@@ -54606,7 +54606,7 @@ param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [shadow_blitz_4642]
@@ -54630,7 +54630,7 @@ param=magic_runetype_3_369,soul_rune_566
 param=magic_runecount_3_370,2
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,2
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [dareeyak_teleport_4643]
@@ -54652,7 +54652,7 @@ param=magic_runetype_2_367,air_rune_556
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,3
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [blood_blitz_4644]
 model=model_16238
@@ -54671,7 +54671,7 @@ param=magic_runetype_1_365,death_rune_560
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,4
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [ice_blitz_4645]
@@ -54693,7 +54693,7 @@ param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,3
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [carrallangar_teleport_4646]
@@ -54713,7 +54713,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,soul_rune_566
 param=magic_runecount_2_368,2
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [smoke_barrage_4647]
 model=model_16238
@@ -54736,7 +54736,7 @@ param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,4
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,4
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [shadow_barrage_4648]
@@ -54760,7 +54760,7 @@ param=magic_runetype_3_369,soul_rune_566
 param=magic_runecount_3_370,3
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,4
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [annakarl_teleport_4649]
@@ -54780,7 +54780,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,2
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [blood_barrage_4650]
 model=model_16238
@@ -54801,7 +54801,7 @@ param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,4
 param=magic_runetype_3_369,soul_rune_566
 param=magic_runecount_3_370,1
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [ice_barrage_4651]
@@ -54823,7 +54823,7 @@ param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,6
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 param=param_1228,yes
 
 [ghorrock_teleport_4652]
@@ -54843,7 +54843,7 @@ param=magic_runetype_1_365,law_rune_563
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,8
-param=param_1189,desert_treasure_345
+param=param_1189,dbrow_27
 
 [fire_4653]
 name=Fire
@@ -81527,7 +81527,7 @@ param=magic_runetype_2_367,nature_rune_561
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,8
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [earth_warrior_champion_scroll_6798]
 name=Earth warrior champion scroll
@@ -105045,7 +105045,7 @@ param=spell_graphic1_on_597,"magic_necro_on,37"
 param=spell_graphic1_off_598,"magic_necro_off,37"
 param=spell_graphic2_on_599,"2x_necro_spells_on,37"
 param=spell_graphic2_off_600,"2x_necro_spells_off,37"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [dummy_baby_red_dragon_8797]
 model=baby_red_dragon_2998
@@ -108785,7 +108785,7 @@ param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,4
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,5
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [cure_plant_9108]
 model=model_16238
@@ -108804,7 +108804,7 @@ param=magic_runetype_1_365,astral_rune_9075
 param=magic_runecount_1_366,1
 param=magic_runetype_2_367,earth_rune_557
 param=magic_runecount_2_368,8
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [npc_contact_9109]
 model=model_16238
@@ -108825,7 +108825,7 @@ param=magic_runetype_2_367,cosmic_rune_564
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,2
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [cure_other_9110]
 model=model_16238
@@ -108846,7 +108846,7 @@ param=magic_runetype_2_367,law_rune_563
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [moonclan_teleport_9111]
 model=model_16238
@@ -108867,7 +108867,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,2
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [tele_group_moonclan_9112]
 model=model_16238
@@ -108888,7 +108888,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,4
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [cure_me_9113]
 model=model_16238
@@ -108909,7 +108909,7 @@ param=magic_runetype_2_367,cosmic_rune_564
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,law_rune_563
 param=magic_runecount_3_370,1
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [waterbirth_teleport_9114]
 model=model_16238
@@ -108930,7 +108930,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,1
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [tele_group_waterbirth_9115]
 model=model_16238
@@ -108951,7 +108951,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,5
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [cure_group_9116]
 model=model_16238
@@ -108972,7 +108972,7 @@ param=magic_runetype_2_367,cosmic_rune_564
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,law_rune_563
 param=magic_runecount_3_370,2
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [barbarian_teleport_9117]
 model=model_16238
@@ -108993,7 +108993,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,3
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [tele_group_barbarian_9118]
 model=model_16238
@@ -109014,7 +109014,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,6
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [superglass_make_9119]
 model=model_16238
@@ -109035,7 +109035,7 @@ param=magic_runetype_2_367,fire_rune_554
 param=magic_runecount_2_368,6
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [khazard_teleport_9120]
 model=model_16238
@@ -109056,7 +109056,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,4
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [tele_group_khazard_9121]
 model=model_16238
@@ -109077,7 +109077,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,8
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [string_jewellery_9122]
 model=model_16238
@@ -109098,7 +109098,7 @@ param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,5
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [stat_restore_pot_share_9123]
 model=model_16238
@@ -109119,7 +109119,7 @@ param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,10
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [magic_imbue_9124]
 model=model_16238
@@ -109140,7 +109140,7 @@ param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,7
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,7
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [fertile_soil_9125]
 model=model_16238
@@ -109161,7 +109161,7 @@ param=magic_runetype_2_367,nature_rune_561
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,15
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [boost_potion_share_9126]
 model=model_16238
@@ -109182,7 +109182,7 @@ param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,10
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,12
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [fishing_guild_teleport_9127]
 model=model_16238
@@ -109203,7 +109203,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [tele_group_fishing_guild_9128]
 model=model_16238
@@ -109224,7 +109224,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,14
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [catherby_teleport_9129]
 model=model_16238
@@ -109245,7 +109245,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [tele_group_catherby_9130]
 model=model_16238
@@ -109266,7 +109266,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,15
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [ice_plateau_teleport_9131]
 model=model_16238
@@ -109287,7 +109287,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,8
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [tele_group_ice_plateau_9132]
 model=model_16238
@@ -109308,7 +109308,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,16
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [energy_transfer_9133]
 model=model_16238
@@ -109329,7 +109329,7 @@ param=magic_runetype_2_367,law_rune_563
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,nature_rune_561
 param=magic_runecount_3_370,1
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [heal_other_9134]
 model=model_16238
@@ -109350,7 +109350,7 @@ param=magic_runetype_2_367,law_rune_563
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,1
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [vengeance_other_9135]
 model=model_16238
@@ -109371,7 +109371,7 @@ param=magic_runetype_2_367,death_rune_560
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [vengeance_9136]
 model=model_16238
@@ -109392,7 +109392,7 @@ param=magic_runetype_2_367,death_rune_560
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,10
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [heal_group_9137]
 model=model_16238
@@ -109413,7 +109413,7 @@ param=magic_runetype_2_367,law_rune_563
 param=magic_runecount_2_368,6
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,3
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [dummy_logs_9138]
 model=logs_7760
@@ -129689,7 +129689,7 @@ param=spell_graphic1_on_597,"magic_necro_on,32"
 param=spell_graphic1_off_598,"magic_necro_off,32"
 param=spell_graphic2_on_599,"2x_necro_spells_on,32"
 param=spell_graphic2_off_600,"2x_necro_spells_off,32"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [scroll_10512]
 name=Scroll
@@ -136960,7 +136960,7 @@ param=magic_runetype_2_367,cosmic_rune_564
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,mind_rune_558
 param=magic_runecount_3_370,1
-param=param_1189,dream_mentor_349
+param=param_1189,dbrow_33
 
 [humidify_11145]
 model=model_16238
@@ -136981,7 +136981,7 @@ param=magic_runetype_2_367,water_rune_555
 param=magic_runecount_2_368,3
 param=magic_runetype_3_369,fire_rune_554
 param=magic_runecount_3_370,1
-param=param_1189,dream_mentor_349
+param=param_1189,dbrow_33
 
 [hunter_kit_11146]
 model=model_16238
@@ -137000,7 +137000,7 @@ param=magic_runetype_1_365,astral_rune_9075
 param=magic_runecount_1_366,2
 param=magic_runetype_2_367,earth_rune_557
 param=magic_runecount_2_368,2
-param=param_1189,dream_mentor_349
+param=param_1189,dbrow_33
 
 [stat_spy_11147]
 model=model_16238
@@ -137021,7 +137021,7 @@ param=magic_runetype_2_367,cosmic_rune_564
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,body_rune_559
 param=magic_runecount_3_370,5
-param=param_1189,dream_mentor_349
+param=param_1189,dbrow_33
 
 [dream_11148]
 model=model_16238
@@ -137042,7 +137042,7 @@ param=magic_runetype_2_367,cosmic_rune_564
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,body_rune_559
 param=magic_runecount_3_370,5
-param=param_1189,dream_mentor_349
+param=param_1189,dbrow_33
 
 [plank_make_11149]
 model=model_16238
@@ -137063,7 +137063,7 @@ param=magic_runetype_2_367,nature_rune_561
 param=magic_runecount_2_368,1
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,15
-param=param_1189,dream_mentor_349
+param=param_1189,dbrow_33
 
 [spellbook_swap_11150]
 model=model_16238
@@ -137084,7 +137084,7 @@ param=magic_runetype_2_367,cosmic_rune_564
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,law_rune_563
 param=magic_runecount_3_370,1
-param=param_1189,dream_mentor_349
+param=param_1189,dbrow_33
 
 [dream_vial_empty_11151]
 name=Dream vial (empty)
@@ -173956,7 +173956,7 @@ param=spell_graphic1_on_597,"magic_necro_on,41"
 param=spell_graphic1_off_598,"magic_necro_off,41"
 param=spell_graphic2_on_599,"2x_necro_spells_on,41"
 param=spell_graphic2_off_600,"2x_necro_spells_off,41"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [vile_vigour_15304]
 name=Null
@@ -173983,7 +173983,7 @@ param=spell_graphic1_on_597,"magic_necro_on,42"
 param=spell_graphic1_off_598,"magic_necro_off,42"
 param=spell_graphic2_on_599,"2x_necro_spells_on,42"
 param=spell_graphic2_off_600,"2x_necro_spells_off,42"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [placeholder_chompy_chick_15305]
 placeholder=yes
@@ -174024,7 +174024,7 @@ param=spell_graphic1_on_597,"magic_necro_on,35"
 param=spell_graphic1_off_598,"magic_necro_off,35"
 param=spell_graphic2_on_599,"2x_necro_spells_on,35"
 param=spell_graphic2_off_600,"2x_necro_spells_off,35"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [placeholder_scorpias_offspring_15310]
 placeholder=yes
@@ -174155,7 +174155,7 @@ param=spell_graphic1_on_597,"magic_necro_on,40"
 param=spell_graphic1_off_598,"magic_necro_off,40"
 param=spell_graphic2_on_599,"2x_necro_spells_on,40"
 param=spell_graphic2_off_600,"2x_necro_spells_off,40"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [degrime_15345]
 name=Null
@@ -174182,7 +174182,7 @@ param=spell_graphic1_on_597,"magic_necro_on,43"
 param=spell_graphic1_off_598,"magic_necro_off,43"
 param=spell_graphic2_on_599,"2x_necro_spells_on,43"
 param=spell_graphic2_off_600,"2x_necro_spells_off,43"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [demonic_offering_15346]
 name=Null
@@ -174209,7 +174209,7 @@ param=spell_graphic1_on_597,"magic_necro_on,36"
 param=spell_graphic1_off_598,"magic_necro_off,36"
 param=spell_graphic2_on_599,"2x_necro_spells_on,36"
 param=spell_graphic2_off_600,"2x_necro_spells_off,36"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [placeholder_yin_yang_amulet_15347]
 placeholder=yes
@@ -195591,7 +195591,7 @@ param=spell_graphic1_on_597,"magic_necro_on,30"
 param=spell_graphic1_off_598,"magic_necro_off,30"
 param=spell_graphic2_on_599,"2x_necro_spells_on,30"
 param=spell_graphic2_off_600,"2x_necro_spells_off,30"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [prayer_potion_4_20393]
 name=Prayer potion(4)
@@ -195722,7 +195722,7 @@ param=spell_graphic1_on_597,"magic_necro_on,28"
 param=spell_graphic1_off_598,"magic_necro_off,28"
 param=spell_graphic2_on_599,"2x_necro_spells_on,28"
 param=spell_graphic2_off_600,"2x_necro_spells_off,28"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [dark_demonbane_20400]
 name=Null
@@ -195749,7 +195749,7 @@ param=spell_graphic1_on_597,"magic_necro_on,29"
 param=spell_graphic1_off_598,"magic_necro_off,29"
 param=spell_graphic2_on_599,"2x_necro_spells_on,29"
 param=spell_graphic2_off_600,"2x_necro_spells_off,29"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [yew_shortbow_20401]
 name=Yew shortbow
@@ -196152,7 +196152,7 @@ param=spell_graphic1_on_597,"magic_necro_on,14"
 param=spell_graphic1_off_598,"magic_necro_off,14"
 param=spell_graphic2_on_599,"2x_necro_spells_on,14"
 param=spell_graphic2_off_600,"2x_necro_spells_off,14"
-param=param_1189,the_great_brain_robbery_375
+param=param_1189,dbrow_67
 
 [cemetery_teleport_20420]
 name=Null
@@ -198126,7 +198126,7 @@ param=magic_runetype_2_367,nature_rune_561
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,air_rune_556
 param=magic_runecount_3_370,5
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [stale_baguette_20590]
 name=Stale baguette
@@ -199766,7 +199766,7 @@ param=magic_runetype_2_367,astral_rune_9075
 param=magic_runecount_2_368,2
 param=magic_runetype_3_369,earth_rune_557
 param=magic_runecount_3_370,6
-param=param_1189,lunar_diplomacy_391
+param=param_1189,dbrow_88
 
 [ardougne_max_cape_20760]
 name=Ardougne max cape
@@ -199825,7 +199825,7 @@ param=spell_graphic1_on_597,"magic_necro_on,33"
 param=spell_graphic1_off_598,"magic_necro_off,33"
 param=spell_graphic2_on_599,"2x_necro_spells_on,33"
 param=spell_graphic2_off_600,"2x_necro_spells_off,33"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [ward_of_arceuus_20763]
 name=Null
@@ -199854,7 +199854,7 @@ param=spell_graphic1_on_597,"magic_necro_on,31"
 param=spell_graphic1_off_598,"magic_necro_off,31"
 param=spell_graphic2_on_599,"2x_necro_spells_on,31"
 param=spell_graphic2_off_600,"2x_necro_spells_off,31"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [ardougne_max_hood_20764]
 name=Ardougne max hood
@@ -211855,7 +211855,7 @@ param=spell_graphic1_on_597,"magic_necro_on,21"
 param=spell_graphic1_off_598,"magic_necro_off,21"
 param=spell_graphic2_on_599,"2x_necro_spells_on,21"
 param=spell_graphic2_off_600,"2x_necro_spells_off,21"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [field_arrow_3_21830]
 model=field_arrow_3_12822
@@ -211904,7 +211904,7 @@ param=spell_graphic1_on_597,"magic_necro_on,22"
 param=spell_graphic1_off_598,"magic_necro_off,22"
 param=spell_graphic2_on_599,"2x_necro_spells_on,22"
 param=spell_graphic2_off_600,"2x_necro_spells_off,22"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [field_arrow_4_21833]
 model=field_arrow_4_12836
@@ -249899,7 +249899,7 @@ param=spell_graphic1_on_597,"magic_necro_on,44"
 param=spell_graphic1_off_598,"magic_necro_off,44"
 param=spell_graphic2_on_599,"2x_necro_spells_on,44"
 param=spell_graphic2_off_600,"2x_necro_spells_off,44"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_greater_ghost_25507]
 name=Null
@@ -249930,7 +249930,7 @@ param=spell_graphic1_on_597,"magic_necro_on,45"
 param=spell_graphic1_off_598,"magic_necro_off,45"
 param=spell_graphic2_on_599,"2x_necro_spells_on,45"
 param=spell_graphic2_off_600,"2x_necro_spells_off,45"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_lesser_zombie_25508]
 name=Null
@@ -249961,7 +249961,7 @@ param=spell_graphic1_on_597,"magic_necro_on,25"
 param=spell_graphic1_off_598,"magic_necro_off,25"
 param=spell_graphic2_on_599,"2x_necro_spells_on,25"
 param=spell_graphic2_off_600,"2x_necro_spells_off,25"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_lesser_skeleton_25509]
 name=Null
@@ -249992,7 +249992,7 @@ param=spell_graphic1_on_597,"magic_necro_on,24"
 param=spell_graphic1_off_598,"magic_necro_off,24"
 param=spell_graphic2_on_599,"2x_necro_spells_on,24"
 param=spell_graphic2_off_600,"2x_necro_spells_off,24"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_greater_skeleton_25510]
 name=Null
@@ -250023,7 +250023,7 @@ param=spell_graphic1_on_597,"magic_necro_on,47"
 param=spell_graphic1_off_598,"magic_necro_off,47"
 param=spell_graphic2_on_599,"2x_necro_spells_on,47"
 param=spell_graphic2_off_600,"2x_necro_spells_off,47"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_lesser_ghost_25511]
 name=Null
@@ -250054,7 +250054,7 @@ param=spell_graphic1_on_597,"magic_necro_on,23"
 param=spell_graphic1_off_598,"magic_necro_off,23"
 param=spell_graphic2_on_599,"2x_necro_spells_on,23"
 param=spell_graphic2_off_600,"2x_necro_spells_off,23"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_superior_skeleton_25512]
 name=Null
@@ -250085,7 +250085,7 @@ param=spell_graphic1_on_597,"magic_necro_on,46"
 param=spell_graphic1_off_598,"magic_necro_off,46"
 param=spell_graphic2_on_599,"2x_necro_spells_on,46"
 param=spell_graphic2_off_600,"2x_necro_spells_off,46"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_superior_zombie_25513]
 name=Null
@@ -250116,7 +250116,7 @@ param=spell_graphic1_on_597,"magic_necro_on,48"
 param=spell_graphic1_off_598,"magic_necro_off,48"
 param=spell_graphic2_on_599,"2x_necro_spells_on,48"
 param=spell_graphic2_off_600,"2x_necro_spells_off,48"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [resurrect_greater_zombie_25514]
 name=Null
@@ -250147,7 +250147,7 @@ param=spell_graphic1_on_597,"magic_necro_on,49"
 param=spell_graphic1_off_598,"magic_necro_off,49"
 param=spell_graphic2_on_599,"2x_necro_spells_on,49"
 param=spell_graphic2_off_600,"2x_necro_spells_off,49"
-param=param_1189,a_kingdom_divided_2971
+param=param_1189,dbrow_81
 
 [dharoks_platebody_25515]
 name=Dharok's platebody
@@ -268074,4 +268074,170 @@ cost=0
 iop5=Destroy
 recol1s=8094
 recol1d=-14405
+
+[group_iron_helm_unranked_27042]
+name=Group iron helm (unranked)
+model=group_iron_helm_42978
+manwear=group_iron_helm_42930,0
+womanwear=group_iron_helm_42946,0
+manhead=group_iron_helm_42966
+femalehead=group_iron_helm_42969
+category=category_2
+cost=0
+2dzoom=842
+2dyof=-3
+2dxan=525
+iop2=Wear
+iop3=Teleport
+iop5=Destroy
+recol1s=-27227
+recol1d=28067
+recol2s=-27225
+recol2d=28071
+recol3s=-27236
+recol3d=28054
+recol4s=-27221
+recol4d=28071
+placeholder=yes
+param=param_453,Teleport
+
+[placeholder_group_iron_helm_unranked_27043]
+placeholder=yes
+
+[group_iron_platelegs_unranked_27044]
+name=Group iron platelegs (unranked)
+model=group_iron_platelegs_42975
+manwear=group_iron_platelegs_42934,0
+womanwear=group_iron_platelegs_42951,0
+category=category_8
+cost=0
+2dzoom=1740
+2dyof=-8
+2dxan=444
+iop2=Wear
+iop5=Destroy
+recol1s=-27227
+recol1d=28067
+recol2s=-27231
+recol2d=28058
+placeholder=yes
+
+[placeholder_group_iron_platelegs_unranked_27045]
+placeholder=yes
+
+[group_iron_bracers_unranked_27046]
+name=Group iron bracers (unranked)
+model=leather_vambraces_2656
+manwear=male_hands_176,0
+womanwear=female_hands_353,0
+cost=0
+2dzoom=740
+2dxof=7
+2dyof=-33
+2dxan=196
+2dyan=1784
+iop2=Wear
+iop5=Destroy
+recol1s=-22464
+recol1d=28067
+recol2s=8472
+recol2d=28067
+recol3s=8720
+recol3d=28062
+placeholder=yes
+
+[placeholder_group_iron_bracers_unranked_27047]
+placeholder=yes
+
+[group_iron_platebody_unranked_27048]
+name=Group iron platebody (unranked)
+model=group_iron_platebody_42979
+manwear=group_iron_platebody_42941,0
+manwear2=group_iron_platebody_42937
+womanwear=group_iron_platebody_42956,0
+womanwear2=group_iron_platebody_42952
+category=category_7
+cost=0
+2dzoom=1250
+2dxof=-1
+2dxan=488
+iop2=Wear
+iop5=Destroy
+recol1s=-27227
+recol1d=28067
+recol2s=-27236
+recol2d=28058
+placeholder=yes
+
+[placeholder_group_iron_platebody_unranked_27049]
+placeholder=yes
+
+[group_iron_platebody_unranked_27050]
+name=Group iron platebody (unranked)
+model=group_iron_platebody_42984
+manwear=group_iron_platebody_42939,0
+manwear2=group_iron_platebody_42937
+womanwear=group_iron_platebody_42958,0
+womanwear2=group_iron_platebody_42952
+category=category_7
+cost=0
+2dzoom=1250
+2dxof=-1
+2dxan=488
+iop2=Wear
+iop5=Destroy
+recol1s=-27227
+recol1d=28067
+recol2s=-27236
+recol2d=28058
+placeholder=yes
+
+[placeholder_group_iron_platebody_unranked_27051]
+placeholder=yes
+
+[group_iron_platebody_unranked_27052]
+name=Group iron platebody (unranked)
+model=group_iron_platebody_42977
+manwear=group_iron_platebody_42944,0
+manwear2=group_iron_platebody_42937
+womanwear=group_iron_platebody_42960,0
+womanwear2=group_iron_platebody_42952
+category=category_7
+cost=0
+2dzoom=1250
+2dxof=-1
+2dxan=488
+iop2=Wear
+iop5=Destroy
+recol1s=-27227
+recol1d=28067
+recol2s=-27236
+recol2d=28058
+placeholder=yes
+
+[placeholder_group_iron_platebody_unranked_27053]
+placeholder=yes
+
+[group_iron_platebody_unranked_27054]
+name=Group iron platebody (unranked)
+model=group_iron_platebody_42982
+manwear=group_iron_platebody_42938,0
+manwear2=group_iron_platebody_42937
+womanwear=group_iron_platebody_42955,0
+womanwear2=group_iron_platebody_42952
+category=category_7
+cost=0
+2dzoom=1250
+2dxof=-1
+2dxan=488
+iop2=Wear
+iop5=Destroy
+recol1s=-27227
+recol1d=28067
+recol2s=-27236
+recol2d=28058
+placeholder=yes
+
+[placeholder_group_iron_platebody_unranked_27055]
+placeholder=yes
 

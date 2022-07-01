@@ -89,12 +89,12 @@ op1="Select"
 [interface_722:11]
 type=^iftype_graphic
 y=45
-width=61
-height=70
+width=64
+height=64
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_722:5
-graphic="speedrun_trophies,1"
+graphic="iron_icons,5"
 
 [interface_722:12]
 type=^iftype_layer
@@ -161,10 +161,10 @@ op1="Select"
 [interface_722:19]
 type=^iftype_graphic
 y=45
-width=61
-height=70
+width=64
+height=64
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_722:6
-graphic="speedrun_trophies,2"
+graphic="iron_icons,3"
 
