@@ -149649,6 +149649,7 @@ recol1s=5437
 recol1d=27088
 op2=Attack
 op3=Detach
+op4=Upgrade
 op5=Remove
 vislevel=0
 visonmap=no
@@ -156807,6 +156808,7 @@ recol3d=3633
 recol4s=6798
 recol4d=10161
 op1=Talk to
+op3=Toggle Fossils
 vislevel=0
 turnspeed=0
 
@@ -174832,6 +174834,16 @@ multivar=varbit_696
 multinpc=default,mary_10503
 multinpc=0,mary_10502
 drawpriority=yes
+
+[ornate_combat_dummy_8598]
+name=<col=00ffff>Ornate combat dummy</col>
+model1=ornate_combat_dummy_4896
+op2=Attack
+op3=Detach
+op4=Swap
+op5=Remove
+vislevel=0
+visonmap=no
 
 [shayzien_soldier_8599]
 name=Shayzien soldier
@@ -208287,4 +208299,70 @@ op2=Attack
 size=3
 vislevel=82
 drawpriority=yes
+
+[ornate_undead_combat_dummy_10507]
+name=<col=00ffff>Ornate undead combat dummy</col>
+model1=ornate_undead_combat_dummy_4907
+op2=Attack
+op3=Detach
+op4=Swap
+op5=Remove
+vislevel=0
+visonmap=no
+turnspeed=1024
+
+[ornate_wilderness_combat_dummy_10508]
+name=<col=00ffff>Ornate wilderness combat dummy</col>
+model1=ornate_wilderness_combat_dummy_4900
+op2=Attack
+op3=Detach
+op4=Swap
+op5=Remove
+vislevel=0
+visonmap=no
+turnspeed=1024
+
+[ornate_kalphite_combat_dummy_10509]
+name=<col=00ffff>Ornate kalphite combat dummy</col>
+model1=ornate_kalphite_combat_dummy_41142
+op2=Attack
+op3=Detach
+op4=Swap
+op5=Remove
+vislevel=0
+visonmap=no
+turnspeed=1024
+
+[ornate_kurask_combat_dummy_10510]
+name=<col=00ffff>Ornate kurask combat dummy</col>
+model1=ornate_kurask_combat_dummy_41141
+op2=Attack
+op3=Detach
+op4=Swap
+op5=Remove
+vislevel=0
+visonmap=no
+turnspeed=1024
+
+[ornate_undead_combat_dummy_10511]
+name=<col=00ffff>Ornate undead combat dummy</col>
+model1=ornate_undead_combat_dummy_41145
+op2=Attack
+op3=Detach
+op4=Swap
+op5=Remove
+vislevel=0
+visonmap=no
+turnspeed=1024
+
+[ornate_undead_combat_dummy_10512]
+name=<col=00ffff>Ornate undead combat dummy</col>
+model1=ornate_undead_combat_dummy_4899
+op2=Attack
+op3=Detach
+op4=Swap
+op5=Remove
+vislevel=0
+visonmap=no
+turnspeed=1024
 

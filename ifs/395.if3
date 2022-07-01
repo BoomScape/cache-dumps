@@ -4,74 +4,57 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 
 [interface_395:1]
-type=^iftype_layer
-x=5
-width=30
-height=28
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_bottom
-layer=interface_395:0
-optionmask=2
-op1="Close"
-
-[interface_395:2]
 type=^iftype_text
-width=200
-height=20
+height=30
 hposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_395:0
 text="Last Man Standing"
 font=quill_oblique_large
 halign=^settextalign_centre
 
-[interface_395:3]
+[interface_395:2]
 type=^iftype_text
 y=35
-width=120
+width=150
 height=16
 hposmode=^setpos_abs_centre
-text="Wins: N/A"
+layer=interface_395:0
+font=p12_full
+halign=^settextalign_centre
+
+[interface_395:3]
+type=^iftype_text
+y=55
+width=150
+height=16
+hposmode=^setpos_abs_centre
+layer=interface_395:0
 font=p12_full
 halign=^settextalign_centre
 
 [interface_395:4]
 type=^iftype_text
-y=55
-width=120
+y=75
+width=150
 height=16
 hposmode=^setpos_abs_centre
-text="Kills: N/A"
+layer=interface_395:0
 font=p12_full
 halign=^settextalign_centre
 
 [interface_395:5]
-type=^iftype_text
-y=75
-width=120
-height=16
-hposmode=^setpos_abs_centre
-text="Games played: N/A"
-font=p12_full
-halign=^settextalign_centre
-
-[interface_395:6]
-type=^iftype_text
-y=95
-width=120
-height=16
-hposmode=^setpos_abs_centre
-hide=yes
-text="Games played: N/A"
-font=p12_full
-halign=^settextalign_centre
-
-[interface_395:7]
 type=^iftype_graphic
+x=5
+y=3
 width=26
 height=23
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
-layer=interface_395:1
+hposmode=^setpos_abs_right
+layer=interface_395:0
 graphic="close_buttons,6"
-onmouseover="script273(event_com,75)"
-onmouseleave="script273(event_com,0)"
+optionmask=2
+op1="Close"
+onmouseover="script44(event_com,542)"
+onmouseleave="script44(event_com,541)"
+onop="script29"
 
