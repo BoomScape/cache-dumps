@@ -103533,8 +103533,8 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
@@ -103543,6 +103543,7 @@ certificate=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [cert_pharaohs_sceptre_3_9045]
 certificate=yes
@@ -103558,8 +103559,8 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
@@ -103567,6 +103568,7 @@ certificate=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [cert_pharaohs_sceptre_2_9047]
 certificate=yes
@@ -103582,8 +103584,8 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
@@ -103592,6 +103594,7 @@ placeholder=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [cert_pharaohs_sceptre_1_9049]
 certificate=yes
@@ -103607,8 +103610,8 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
@@ -103617,6 +103620,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 param=param_451,Teleport
+param=param_148,1
 
 [cert_pharaohs_sceptre_9051]
 certificate=yes
@@ -154828,8 +154832,8 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
@@ -154837,6 +154841,7 @@ placeholder=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [pharaohs_sceptre_7_13075]
 name=Pharaoh's sceptre (7)
@@ -154849,14 +154854,15 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [pharaohs_sceptre_6_13076]
 name=Pharaoh's sceptre (6)
@@ -154869,14 +154875,15 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [pharaohs_sceptre_5_13077]
 name=Pharaoh's sceptre (5)
@@ -154889,14 +154896,15 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [pharaohs_sceptre_4_13078]
 name=Pharaoh's sceptre (4)
@@ -154909,14 +154917,15 @@ cost=83334
 2dyof=46
 2dxan=285
 2dyan=1508
-iop1=Jalsavrah
-iop2=Wield
+iop1=Wield
+iop2=Jalsavrah
 iop3=Jaleustrophos
 iop4=Jaldraocht
 members=yes
 param=param_451,Jalsavrah
 param=param_452,Jaleustrophos
 param=param_453,Jaldraocht
+param=param_148,1
 
 [enchanted_lyre_5_13079]
 name=Enchanted lyre(5)
@@ -233091,7 +233100,7 @@ placeholder=yes
 [dark_acorn_24733]
 name=Dark acorn
 model=dark_acorn_39661
-cost=5000
+cost=3000
 2dzoom=748
 2dxof=1
 2dyof=1
@@ -234665,6 +234674,7 @@ iop3=Check
 iop4=Empty
 members=yes
 ambient=20
+shiftop=3
 placeholder=yes
 param=param_595,Use
 
@@ -235238,4 +235248,35 @@ members=yes
 
 [dummy_sheep_bones_1_24945]
 model=sheep_bones_1_2674
+
+[hallowed_sack_24946]
+name=Hallowed sack
+model=coal_bag_7508
+cost=100
+2dzoom=740
+2dxan=67
+2dyan=471
+iop1=Open
+iop5=Destroy
+recol1s=6430
+recol1d=8388
+recol2s=7223
+recol2d=-24797
+recol3s=7467
+recol3d=9024
+members=yes
+ambient=10
+placeholder=yes
+
+[placeholder_hallowed_sack_24947]
+placeholder=yes
+
+[obj_24948]
+model=model_40902
+2dzoom=2484
+2dxof=28
+2dyof=-4
+2dxan=102
+2dyan=1891
+stackable=yes
 

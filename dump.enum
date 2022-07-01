@@ -606,6 +606,17 @@ outputtype=int
 default=null
 val=inv_589,20
 
+[enum_342]
+inputtype=obj
+outputtype=int
+default=0
+val=hallowed_grapple_24721,1
+val=hallowed_focus_24723,1
+val=hallowed_symbol_24725,1
+val=hallowed_hammer_24727,1
+val=hallowed_ring_24731,1
+val=hallowed_token_24719,1000
+
 [enum_355]
 inputtype=obj
 outputtype=int
@@ -16687,6 +16698,7 @@ val=20,Buy
 val=21,Light
 val=22,Make
 val=23,Take
+val=24,Give
 
 [enum_1810]
 inputtype=int
