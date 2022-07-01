@@ -20,13 +20,18 @@ valign=^settextalign_bottom
 shadowed=yes
 
 [interface_7:2]
-type=^iftype_layer
-width=8199
+type=^iftype_text
+width=8192
 height=20
 hposmode=^setpos_abs_right
 hsizemode=^setsize_proportion
 layer=interface_7:0
-onload="script2858(event_com)"
+colour=0xff981f
+font=b12_full
+halign=^settextalign_centre
+valign=^settextalign_bottom
+shadowed=yes
+onload="script3200(event_com)"
 
 [interface_7:3]
 type=^iftype_text

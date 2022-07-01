@@ -54320,3 +54320,10 @@ framecount=12
 looptype=1
 framegroup1=2563
 
+[seq_8833]
+framecount=21
+mainhand=0
+offhand=0
+looptype=1
+framegroup1=294
+

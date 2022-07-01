@@ -293,19 +293,6 @@ val=5,inv_523
 val=6,inv_539
 val=7,inv_540
 
-[enum_170]
-inputtype=int
-outputtype=string
-default=Not in clan
-val=1,Recruit
-val=2,Corporal
-val=3,Sergeant
-val=4,Lieutenant
-val=5,Captain
-val=6,General
-val=7,Owner
-val=127,Jmod
-
 [enum_185]
 inputtype=int
 outputtype=namedobj
@@ -1594,17 +1581,13 @@ val=121,Sourhogs
 
 [enum_706]
 inputtype=int
-outputtype=graphic
+outputtype=namedobj
 default=null
-val=0,"settings_tabs,0"
-val=1,"settings_tabs,8"
-val=2,"settings_tabs,7"
-val=3,"settings_tabs,6"
-val=4,"settings_tabs,5"
-val=5,"settings_tabs,4"
-val=6,"settings_tabs,3"
-val=7,"settings_tabs,2"
-val=127,"settings_tabs,1"
+val=0,beekeepers_hat_25129
+val=1,beekeepers_top_25131
+val=2,beekeepers_legs_25133
+val=3,beekeepers_gloves_25135
+val=4,beekeepers_boots_25137
 
 [enum_708]
 inputtype=int
@@ -14928,6 +14911,57 @@ val=interface_507:21,7
 val=interface_507:22,8
 val=interface_507:23,9
 
+[enum_1540]
+inputtype=int
+outputtype=string
+default=
+val=0,Dwarf
+val=1,Wartface & Bentnoze
+val=2,Pirate Pete
+val=3,Lumbridge Guide
+val=4,Evil Dave
+val=5,Skrach Uglogwee
+val=6,Sir Amik Varze
+val=7,Monkey Ambassador
+
+[enum_1541]
+inputtype=int
+outputtype=string
+default=Not ranked
+val=1,Recruit
+val=2,Corporal
+val=3,Sergeant
+val=4,Lieutenant
+val=5,Captain
+val=6,General
+val=7,Owner
+val=127,Jmod
+
+[enum_1543]
+inputtype=int
+outputtype=graphic
+default=null
+val=0,"chatchannel_rank_icons,0"
+val=1,"chatchannel_rank_icons,8"
+val=2,"chatchannel_rank_icons,7"
+val=3,"chatchannel_rank_icons,6"
+val=4,"chatchannel_rank_icons,5"
+val=5,"chatchannel_rank_icons,4"
+val=6,"chatchannel_rank_icons,3"
+val=7,"chatchannel_rank_icons,2"
+val=127,"chatchannel_rank_icons,1"
+
+[enum_1544]
+inputtype=int
+outputtype=int
+default=0
+val=2,1
+val=3,2
+val=4,3
+val=5,4
+val=6,5
+val=7,6
+
 [enum_1607]
 inputtype=int
 outputtype=boolean
@@ -15209,20 +15243,6 @@ val=12,rock_golem_21340
 val=13,rock_golem_21358
 val=14,rock_golem_21359
 val=15,rock_golem_21360
-
-[enum_1695]
-inputtype=int
-outputtype=string
-default=Only me
-val=-1,Anyone
-val=0,Any friends
-val=1,Recruit+
-val=2,Corporal+
-val=3,Sergeant+
-val=4,Lieutenant+
-val=5,Captain+
-val=6,General+
-val=7,Only me
 
 [enum_1697]
 inputtype=int
@@ -21349,6 +21369,11 @@ val=14,mime_gloves_3060
 val=15,mime_boots_3061
 val=16,frog_token_6183
 val=17,stale_baguette_20590
+val=18,beekeepers_hat_25129
+val=19,beekeepers_top_25131
+val=20,beekeepers_legs_25133
+val=21,beekeepers_gloves_25135
+val=22,beekeepers_boots_25137
 
 [enum_2173]
 inputtype=int
@@ -26557,6 +26582,7 @@ val=zombie_shirt_7592,enum_3164
 val=camo_top_6654,enum_3165
 val=lederhosen_top_6180,enum_3166
 val=shade_robe_top_546,enum_3167
+val=beekeepers_hat_25129,enum_706
 val=attack_cape_9747,enum_3168
 val=defence_cape_9753,enum_3169
 val=strength_cape_9750,enum_3170
@@ -28674,6 +28700,7 @@ val=3,camo_top_6654
 val=4,lederhosen_top_6180
 val=5,shade_robe_top_546
 val=6,stale_baguette_20590
+val=7,beekeepers_hat_25129
 
 [enum_3292]
 inputtype=int
@@ -29348,6 +29375,7 @@ val=camo_top_6654,Camo outfit
 val=lederhosen_top_6180,Lederhosen outfit
 val=shade_robe_top_546,Shade robes
 val=stale_baguette_20590,Stale baguette
+val=beekeepers_hat_25129,Beekeeper outfit
 val=cape_of_legends_1052,Legends cape
 val=obsidian_cape_6568,Obsidian cape
 val=fire_cape_6570,Fire cape
@@ -32769,7 +32797,7 @@ val=6,Other
 inputtype=int
 outputtype=string
 default=
-val=0,Multiple
+val=0,Global
 val=1,Misthalin
 val=2,Karamja
 val=3,Asgarnia
@@ -32808,7 +32836,8 @@ val=6,Desert
 val=7,Tirannwn
 val=8,Fremennik
 val=9,Wilderness
-val=10,Multiple
+val=10,Global
+val=11,Unlocked
 
 [enum_3415]
 inputtype=int

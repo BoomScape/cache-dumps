@@ -86578,66 +86578,32 @@ recol2d=563
 members=yes
 placeholder=yes
 
-[evil_dave_7499]
-name=Evil dave
-model=evil_dave_13619
-2dzoom=720
-2dyof=-3
+[dummy_sheep_bones_1_7499]
+model=sheep_bones_1_2674
 
-[dwarf_7500]
-name=Dwarf
-model=dwarf_13620
-2dzoom=848
-2dxof=1
-2dyof=-3
+[dummy_sheep_bones_1_7500]
+model=sheep_bones_1_2674
 
-[goblins_7501]
-name=Goblins
-model=goblins_13621
-2dzoom=1360
-2dxof=1
-2dyof=89
-2dxan=108
-2dyan=1676
+[dummy_sheep_bones_1_7501]
+model=sheep_bones_1_2674
 
-[lumbridge_guide_7502]
-name=Lumbridge guide
-model=lumbridge_guide_13622
-2dzoom=976
-2dxof=1
-2dyof=-6
+[dummy_sheep_bones_1_7502]
+model=sheep_bones_1_2674
 
-[monkey_7503]
-name=Monkey
-model=monkey_13623
-2dzoom=848
-2dxof=1
-2dyof=-2
+[dummy_sheep_bones_1_7503]
+model=sheep_bones_1_2674
 
-[osman_7504]
-name=Osman
-model=osman_13624
-2dzoom=720
-2dxof=-3
-2dxan=3
-2dyan=2027
+[dummy_sheep_bones_1_7504]
+model=sheep_bones_1_2674
 
-[pirate_pete_7505]
-name=Pirate pete
-model=pirate_pete_13625
-2dzoom=720
+[dummy_sheep_bones_1_7505]
+model=sheep_bones_1_2674
 
-[sir_amik_varze_7506]
-name=Sir amik varze
-model=sir_amik_varze_13626
-2dzoom=592
+[dummy_sheep_bones_1_7506]
+model=sheep_bones_1_2674
 
-[skrach_7507]
-name=Skrach
-model=skrach_13627
-2dzoom=1360
-2dxof=-2
-2dyof=-15
+[dummy_sheep_bones_1_7507]
+model=sheep_bones_1_2674
 
 [asgoldian_ale_7508]
 name=Asgoldian ale
@@ -103184,7 +103150,6 @@ womanwear=skull_sceptre_39609,0
 iop2=Wield
 iop3=Invoke
 iop4=Divine
-iop5=Destroy
 placeholder=yes
 param=param_451,Invoke
 param=param_452,Divine
@@ -199363,7 +199328,6 @@ womanwear=skull_sceptre_39609,0
 iop2=Wield
 iop3=Invoke
 iop4=Divine
-iop5=Destroy
 placeholder=yes
 param=param_451,Invoke
 param=param_452,Divine
@@ -237052,4 +237016,158 @@ model=model_5826
 2dyof=-5
 2dxan=383
 members=yes
+
+[beekeepers_hat_25129]
+name=Beekeeper's hat
+model=beekeepers_hat_13619
+manwear=beekeepers_hat_16038,0
+manwear2=male_hair_215
+womanwear=beekeepers_hat_13624,0
+womanwear2=female_hair_391
+manhead=beekeepers_hat_15966
+manhead2=male_hair_53
+femalehead=beekeepers_hat_15966
+femalehead=female_hair_114
+2dzoom=736
+2dxof=-1
+2dyof=-7
+2dxan=88
+2dyan=2003
+iop2=Wear
+placeholder=yes
+
+[placeholder_beekeepers_hat_25130]
+placeholder=yes
+
+[beekeepers_top_25131]
+name=Beekeeper's top
+model=beekeepers_top_13621
+manwear=male_arms_162,0
+manwear2=white_apron_305
+womanwear=female_arms_343,0
+womanwear2=beekeepers_top_13625
+2dzoom=1872
+2dxof=-1
+2dyof=-1
+2dxan=537
+2dyan=3
+iop2=Wear
+recol1s=8741
+recol1d=103
+recol2s=8078
+recol2d=24
+placeholder=yes
+
+[placeholder_beekeepers_top_25132]
+placeholder=yes
+
+[beekeepers_legs_25133]
+name=Beekeeper's legs
+model=beekeepers_legs_13620
+manwear=beekeepers_legs_13622,0
+womanwear=beekeepers_legs_13623,0
+2dzoom=1690
+2dxof=1
+2dyof=4
+2dxan=626
+2dyan=2047
+iop2=Wear
+placeholder=yes
+
+[placeholder_beekeepers_legs_25134]
+placeholder=yes
+
+[beekeepers_gloves_25135]
+name=Beekeeper's gloves
+model=cooking_gauntlets_2649
+manwear=cooking_gauntlets_179,0
+womanwear=cooking_gauntlets_356,0
+2dzoom=930
+2dxof=8
+2dyof=-8
+2dxan=420
+2dyan=828
+iop2=Wear
+recol1s=10004
+recol1d=24
+placeholder=yes
+
+[placeholder_beekeepers_gloves_25136]
+placeholder=yes
+
+[beekeepers_boots_25137]
+name=Beekeeper's boots
+model=boots_of_lightness_2837
+manwear=boots_of_lightness_185,0
+womanwear=boots_of_lightness_361,0
+2dzoom=770
+2dxof=1
+2dyof=-6
+2dxan=152
+2dyan=160
+iop2=Wear
+recol1s=4626
+recol1d=103
+placeholder=yes
+
+[placeholder_beekeepers_boots_25138]
+placeholder=yes
+
+[bone_fragments_25139]
+name=Bone fragments
+model=bone_fragments_38982
+2dzoom=822
+2dxof=3
+2dyof=2
+2dxan=565
+2dyan=1592
+ambient=25
+stockmarket=yes
+stackable=yes
+placeholder=yes
+count1=bone_fragments_2_25141,2
+count2=bone_fragments_3_25142,3
+count3=bone_fragments_4_25143,4
+count4=bone_fragments_5_25144,5
+
+[placeholder_bone_fragments_25140]
+placeholder=yes
+
+[bone_fragments_2_25141]
+model=bone_fragments_2_38981
+2dzoom=724
+2dxan=738
+2dyan=1511
+ambient=25
+stackable=yes
+
+[bone_fragments_3_25142]
+model=bone_fragments_3_13626
+2dzoom=921
+2dxof=1
+2dyof=1
+2dxan=513
+2dyan=1595
+ambient=25
+stackable=yes
+
+[bone_fragments_4_25143]
+model=bone_fragments_4_38983
+2dzoom=1020
+2dxof=1
+2dyof=-1
+2dxan=615
+2dyan=12
+ambient=25
+stackable=yes
+
+[bone_fragments_5_25144]
+model=bone_fragments_5_13627
+2dzoom=954
+2dxof=-3
+2dyof=-2
+2dxan=474
+2dyan=534
+ambient=25
+stackable=yes
 
