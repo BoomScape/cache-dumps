@@ -29,17 +29,17 @@ layer=interface_80:2
 
 [interface_80:4]
 type=^iftype_layer
+width=215
+height=165
 hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_80:2
 
 [interface_80:5]
 type=^iftype_layer
-width=215
-height=165
 hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_80:2
@@ -50,7 +50,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:5
+layer=interface_80:4
 
 [interface_80:7]
 type=^iftype_layer
@@ -58,7 +58,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_80:5
+layer=interface_80:4
 
 [interface_80:8]
 type=^iftype_layer

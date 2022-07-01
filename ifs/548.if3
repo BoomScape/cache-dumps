@@ -116,6 +116,8 @@ layer=interface_548:12
 
 [interface_548:15]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_548:12
@@ -134,15 +136,13 @@ layer=interface_548:12
 
 [interface_548:18]
 type=^iftype_layer
-vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_548:12
 
 [interface_548:19]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_548:12
@@ -189,7 +189,7 @@ graphic="overlay_multiway"
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_548:16
+layer=interface_548:17
 
 [interface_548:26]
 type=^iftype_layer

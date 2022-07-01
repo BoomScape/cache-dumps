@@ -53,16 +53,18 @@ layer=interface_601:3
 
 [interface_601:7]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+vsizemode=^setsize_minus
+layer=interface_601:3
+
+[interface_601:8]
+type=^iftype_layer
 x=40
 y=30
 width=80
 height=46
-hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-layer=interface_601:6
-
-[interface_601:8]
-type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_601:7
@@ -71,21 +73,19 @@ layer=interface_601:7
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:7
+layer=interface_601:8
 
 [interface_601:10]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:7
+layer=interface_601:8
 
 [interface_601:11]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:7
+layer=interface_601:8
 
 [interface_601:12]
 type=^iftype_layer
@@ -93,25 +93,25 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:7
+layer=interface_601:8
 
 [interface_601:13]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:7
+layer=interface_601:8
 
 [interface_601:14]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:7
+layer=interface_601:8
 
 [interface_601:15]
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_601:8
+layer=interface_601:9
 
 [interface_601:16]
 type=^iftype_layer
@@ -126,7 +126,7 @@ width=178
 height=100
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
-layer=interface_601:7
+layer=interface_601:8
 
 [interface_601:18]
 type=^iftype_layer

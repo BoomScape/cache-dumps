@@ -209,7 +209,6 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-hide=yes
 layer=interface_138:0
 
 [interface_138:18]
@@ -269,24 +268,23 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-hide=yes
 layer=interface_138:0
 
 [interface_138:23]
 type=^iftype_model
-x=115
-y=287
+x=124
+y=263
 width=32
 height=32
 layer=interface_138:22
 model=model_31225
-xan=58
-zoom=220
+xan=513
+zoom=1250
 
 [interface_138:24]
 type=^iftype_text
-x=38
-y=275
+x=44
+y=274
 width=70
 height=34
 layer=interface_138:22

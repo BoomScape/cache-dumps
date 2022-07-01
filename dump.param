@@ -46,6 +46,10 @@ type=model
 autodisable=no
 default=null
 
+[param_191]
+type=int
+default=null
+
 [param_200]
 autodisable=no
 
@@ -1687,9 +1691,6 @@ default=null
 type=boolean
 default=yes
 
-[param_1164]
-type=boolean
-
 [param_1172]
 autodisable=no
 
@@ -1912,5 +1913,16 @@ type=int
 default=1
 
 [param_1292]
+type=boolean
+
+[param_1297]
+type=boolean
+default=yes
+
+[param_1298]
+type=coordgrid
+default=null
+
+[param_1299]
 type=boolean
 

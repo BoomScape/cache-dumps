@@ -37,6 +37,8 @@ layer=interface_161:2
 
 [interface_161:5]
 type=^iftype_layer
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_161:2
@@ -55,8 +57,6 @@ layer=interface_161:2
 
 [interface_161:8]
 type=^iftype_layer
-hposmode=^setpos_abs_centre
-vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_161:2
@@ -93,7 +93,7 @@ layer=interface_161:9
 type=^iftype_layer
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_161:5
+layer=interface_161:6
 
 [interface_161:14]
 type=^iftype_layer
