@@ -58285,25 +58285,6 @@ movetype=2
 looptype=1
 framegroup1=197
 
-[seq_9403]
-framecount=19
-offhand=2437
-looptype=1
-framegroup1=207
-
-[easter_bunny_walk_9404]
-framecount=7
-looptype=1
-framegroup1=2905
-soundeffect2=5548,1,5
-
-[easter_bunny_ready_9405]
-framecount=74
-looptype=1
-framegroup1=2905
-soundeffect18=4970,1,3
-soundeffect24=5566,1,3
-
 [seq_9406]
 framecount=6
 looptype=1
@@ -58361,13 +58342,6 @@ framecount=1
 looptype=1
 framegroup1=2904
 
-[seq_9414]
-framecount=24
-looptype=1
-framegroup1=2906
-soundeffect2=5546,1,5
-soundeffect9=5519,1,5
-
 [seq_9415]
 framecount=11
 replayoff=11
@@ -58390,7 +58364,7 @@ movetype=1
 looptype=1
 framegroup1=298
 
-[scabaras_ready_9418]
+[seq_9418]
 framecount=0
 looptype=1
 skeletal=2911,2
@@ -58408,7 +58382,7 @@ looptype=1
 skeletal=2911,0
 skeletalrange=0,270
 
-[scabaras_walk_9421]
+[seq_9421]
 framecount=0
 looptype=1
 skeletal=2911,1

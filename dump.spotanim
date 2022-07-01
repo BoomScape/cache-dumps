@@ -13632,3 +13632,27 @@ contrast=10
 recol1s=65432
 recol1d=38408
 
+[spotanim_2082]
+model=model_3091
+anim=seq_667
+ambient=100
+contrast=100
+recol1s=49969
+recol1d=968
+
+[spotanim_2083]
+model=model_3091
+anim=seq_667
+ambient=100
+contrast=100
+recol1s=49969
+recol1d=21448
+
+[spotanim_2084]
+model=model_3091
+anim=seq_667
+ambient=100
+contrast=100
+recol1s=49969
+recol1d=37832
+

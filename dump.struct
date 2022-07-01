@@ -1202,7 +1202,7 @@ param=setting_name_1086,Combat Achievement Tasks - Completion popup
 param=setting_search_keywords_1088,"combat,achievements,notification,pvm,task,popup"
 param=setting_choose_transmit_1085,yes
 param=setting_toggle_inverse_1084,yes
-param=setting_desc_1096,"When enabled, completion of Combat Achievement tasks will be accompanised by a popup box."
+param=setting_desc_1096,"When enabled, completion of Combat Achievement tasks will be accompanied by a popup box."
 
 [architectural_alliance_320]
 param=param_191,137
