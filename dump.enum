@@ -3450,6 +3450,7 @@ val=green_slayer_helmet_19643,green_slayer_helmet_i_19645
 val=red_slayer_helmet_19647,red_slayer_helmet_i_19649
 val=purple_slayer_helmet_21264,purple_slayer_helmet_i_21266
 val=turquoise_slayer_helmet_21888,turquoise_slayer_helmet_i_21890
+val=hydra_slayer_helmet_23073,hydra_slayer_helmet_i_23075
 val=salve_amulet_4081,salve_amulet_i_12017
 val=salve_amulet_e_10588,salve_amulet_ei_12018
 val=tyrannical_ring_12603,tyrannical_ring_i_12691
@@ -5458,6 +5459,7 @@ val=41,RUUUUUNE
 val=42,Undead head
 val=43,Stop the Wyvern
 val=44,Double Trouble
+val=45,Use more head
 
 [enum_835]
 inputtype=int
@@ -5508,6 +5510,7 @@ val=41,"Whenever you get a Rune Dragon task, it will be a bigger task."
 val=42,Learn how to combine Vorkath's head with your slayer helm to colour it turquoise.
 val=43,"Stops you getting Fossil Island Wyvern tasks, without counting towards your blocked task limit."
 val=44,Slaying Dusk and Dawn now counts for two kills towards your task rather than one.
+val=45,Learn how to combine a Hydra head with your slayer helm to theme it like the Alchemical Hydra.
 
 [enum_836]
 inputtype=int
@@ -5558,6 +5561,7 @@ val=41,100
 val=42,1000
 val=43,500
 val=44,500
+val=45,1000
 
 [enum_837]
 inputtype=int
@@ -5608,6 +5612,7 @@ val=41,dummy_baby_red_dragon_8797
 val=42,turquoise_slayer_helmet_21888
 val=43,wyvern_bones_6812
 val=44,midnight_21750
+val=45,hydra_slayer_helmet_23073
 
 [enum_839]
 inputtype=int
@@ -5632,9 +5637,10 @@ val=15,32
 val=16,33
 val=17,38
 val=18,42
-val=19,37
-val=20,43
-val=21,44
+val=19,45
+val=20,37
+val=21,43
+val=22,44
 
 [enum_840]
 inputtype=int
@@ -13548,6 +13554,7 @@ val=0_0_0_2_5,abyssal_head_8264
 val=0_0_0_2_6,kbd_heads_8265
 val=0_0_0_2_7,kq_head_8266
 val=0_0_0_2_8,vorkaths_head_21912
+val=0_0_0_2_9,alchemical_hydra_head_23081
 val=0_0_0_4_1,mounted_bass_8267
 val=0_0_0_4_2,mounted_swordfish_8268
 val=0_0_0_4_3,mounted_shark_8269
@@ -19489,6 +19496,7 @@ val=16,sheep_shearer_315
 val=17,shield_of_arrav_316
 val=18,vampire_slayer_317
 val=19,witchs_potion_318
+val=20,x_marks_the_spot_550
 
 [enum_2099]
 inputtype=int
@@ -21263,6 +21271,7 @@ val=6,hydras_heart_22969
 val=7,dragon_knife_22804
 val=8,dragon_thrownaxe_20849
 val=9,jar_of_chemicals_23064
+val=10,alchemical_hydra_heads_23077
 
 [enum_2174]
 inputtype=int
