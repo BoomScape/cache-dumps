@@ -3906,3 +3906,14 @@ colour=^white
 mapfunction=no
 category=1129
 
+[mapelement_652]
+graphic="mapfunction,125"
+vis=^mapelement_vis_both
+category=1459
+
+[mapelement_653]
+text=Crypt
+colour=^white
+mapfunction=no
+category=1129
+

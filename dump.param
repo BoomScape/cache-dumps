@@ -1216,3 +1216,15 @@ type=enum
 autodisable=no
 default=null
 
+[param_985]
+type=string
+autodisable=no
+default=Marker
+
+[param_986]
+type=boolean
+autodisable=no
+
+[param_987]
+autodisable=no
+

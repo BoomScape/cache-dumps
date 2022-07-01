@@ -113100,7 +113100,7 @@ model=ballad_10137
 2dyof=11
 2dxan=344
 2dyan=656
-iop1=Read
+iop1=Inspect
 iop5=Destroy
 recol1s=6608
 recol1d=10549
@@ -192238,8 +192238,6 @@ placeholder=yes
 [decorative_armour_broken_20487]
 name=Decorative armour (broken)
 model=iron_platelegs_2582
-manwear=iron_platelegs_268,0
-womanwear=iron_platelegs_432,0
 2dzoom=1740
 2dyof=-8
 2dxan=444
@@ -231970,14 +231968,11 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cabbage_24418]
-name=Cabbage
-model=cabbage_8195
-2dzoom=1730
-2dxof=1
-2dyof=27
-2dxan=284
-2dyan=1800
+[gravestone_24418]
+name=Gravestone
+model=gravestone_40589
+2dzoom=2040
+2dyan=1832
 
 [inquisitors_great_helm_24419]
 name=Inquisitor's great helm
@@ -232857,25 +232852,33 @@ iop1=Wear
 recol1s=25238
 recol1d=-2608
 
-[dummy_priest_gown_24523]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
-recol1s=25238
-recol1d=-2608
+[deaths_coffer_24523]
+name=Death's coffer
+model=deaths_coffer_21969
+2dzoom=2700
+2dxof=-1
+2dyof=-7
+2dxan=81
+2dyan=1891
+recol1s=7725
+recol1d=5169
+recol2s=6817
+recol2d=5157
+recol3s=47
+recol3d=5177
+recol4s=6936
+recol4d=5281
+recol5s=6812
+recol5d=5161
+recol6s=6693
+recol6d=5157
 
-[dummy_priest_gown_24524]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
-recol1s=25238
-recol1d=-2608
+[gravestone_24524]
+name=Gravestone
+model=gravestone_40590
+2dzoom=5400
+2dyof=-4
+2dyan=1832
 
 [cat_ears_24525]
 name=Cat ears
