@@ -40828,3 +40828,23 @@ basevar=var_620
 startbit=24
 endbit=31
 
+[varbit_8166]
+basevar=var_2191
+startbit=0
+endbit=14
+
+[varbit_8167]
+basevar=var_2191
+startbit=15
+endbit=29
+
+[varbit_8168]
+basevar=var_1141
+startbit=4
+endbit=7
+
+[varbit_8169]
+basevar=var_1013
+startbit=25
+endbit=25
+

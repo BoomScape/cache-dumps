@@ -9,21 +9,20 @@ onload="script1538(event_com,32768010,32768011,32768002,32768005,32768006,327680
 [interface_500:1]
 type=^iftype_text
 x=3
-y=3
 width=25
-height=17
+height=20
 hsizemode=^setsize_minus
 layer=interface_500:0
 text="Raiding Party"
 colour=0xff981f
 font=b12_full
-halign=^settextalign_centre
+valign=^settextalign_centre
 shadowed=yes
 
 [interface_500:2]
 type=^iftype_graphic
 x=3
-y=3
+y=2
 width=19
 height=17
 hposmode=^setpos_abs_right
@@ -37,9 +36,9 @@ onmouserepeat="script273(event_com,120)"
 
 [interface_500:3]
 type=^iftype_layer
-y=23
+y=20
 width=6
-height=76
+height=73
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus

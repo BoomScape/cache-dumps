@@ -37294,6 +37294,8 @@ framegroup1=1540
 
 [seq_6216]
 framecount=68
+exactmove=2
+movetype=1
 looptype=1
 framegroup1=1583
 
@@ -37302,6 +37304,8 @@ framecount=68
 stretches=yes
 mainhand=0
 offhand=11575
+exactmove=2
+movetype=1
 looptype=1
 framegroup1=1584
 
@@ -38746,11 +38750,15 @@ framecount=76
 stretches=yes
 mainhand=0
 offhand=1187
+exactmove=2
+movetype=1
 looptype=1
 framegroup1=1584
 
 [seq_6460]
 framecount=56
+exactmove=2
+movetype=1
 looptype=1
 framegroup1=1583
 

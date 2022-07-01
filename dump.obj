@@ -123019,12 +123019,12 @@ placeholder=yes
 [cert_guthix_bracers_10377]
 certificate=yes
 
-[guthix_dragonhide_10378]
-name=Guthix dragonhide
-model=guthix_dragonhide_20232
-manwear=guthix_dragonhide_20155,0
+[guthix_dhide_10378]
+name=Guthix d'hide
+model=guthix_dhide_20232
+manwear=guthix_dhide_20155,0
 manwear2=zamorak_dhide_20121
-womanwear=guthix_dragonhide_20211,0
+womanwear=guthix_dhide_20211,0
 womanwear2=zamorak_dhide_20177
 cost=13000
 2dzoom=1180
@@ -123043,7 +123043,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_guthix_dragonhide_10379]
+[cert_guthix_dhide_10379]
 certificate=yes
 
 [guthix_chaps_10380]
@@ -128985,10 +128985,10 @@ certificate=yes
 
 [guthix_dragonhide_10794]
 name=Guthix dragonhide
-model=guthix_dragonhide_20232
-manwear=guthix_dragonhide_20155,0
+model=guthix_dhide_20232
+manwear=guthix_dhide_20155,0
 manwear2=zamorak_dhide_20121
-womanwear=guthix_dragonhide_20211,0
+womanwear=guthix_dhide_20211,0
 womanwear2=zamorak_dhide_20177
 cost=13000
 2dzoom=1180
@@ -172235,7 +172235,7 @@ placeholder=yes
 [placeholder_guthix_bracers_16098]
 placeholder=yes
 
-[placeholder_guthix_dragonhide_16099]
+[placeholder_guthix_dhide_16099]
 placeholder=yes
 
 [placeholder_guthix_chaps_16100]
@@ -218348,5 +218348,87 @@ iop5=Destroy
 placeholder=yes
 
 [placeholder_birthday_cake_23109]
+placeholder=yes
+
+[mystic_set_light_23110]
+name=Mystic set (light)
+model=mystic_set_light_4649
+cost=235000
+2dzoom=1762
+recol1s=-25491
+recol1d=8138
+recol2s=-25152
+recol2d=127
+recol3s=-24618
+recol3d=103
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_mystic_set_light_23111]
+certificate=yes
+
+[placeholder_mystic_set_light_23112]
+placeholder=yes
+
+[mystic_set_blue_23113]
+name=Mystic set (blue)
+model=mystic_set_light_4649
+cost=235000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_mystic_set_blue_23114]
+certificate=yes
+
+[placeholder_mystic_set_blue_23115]
+placeholder=yes
+
+[mystic_set_dark_23116]
+name=Mystic set (dark)
+model=mystic_set_light_4649
+cost=235000
+2dzoom=1762
+recol1s=-25491
+recol1d=924
+recol2s=-25152
+recol2d=0
+recol3s=-24618
+recol3d=148
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_mystic_set_dark_23117]
+certificate=yes
+
+[placeholder_mystic_set_dark_23118]
+placeholder=yes
+
+[mystic_set_dusk_23119]
+name=Mystic set (dusk)
+model=mystic_set_light_4649
+cost=235000
+2dzoom=1762
+recol1s=-25491
+recol1d=31178
+recol2s=-25152
+recol2d=10382
+recol3s=-24618
+recol3d=10378
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_mystic_set_dusk_23120]
+certificate=yes
+
+[placeholder_mystic_set_dusk_23121]
 placeholder=yes
 
