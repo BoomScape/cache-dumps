@@ -8442,6 +8442,9 @@ val=91,enum_2295
 val=92,enum_2296
 val=93,enum_2355
 val=94,enum_249
+val=95,enum_2785
+val=96,enum_2786
+val=97,enum_2787
 
 [enum_1034]
 inputtype=obj
@@ -8542,6 +8545,9 @@ val=mystic_set_dark_23116,enum_2295
 val=mystic_set_dusk_23119,enum_2296
 val=dragonstone_armour_set_23667,enum_2355
 val=dagonhai_robes_set_24333,enum_249
+val=twisted_relichunter_t1_armour_set_24469,enum_2785
+val=twisted_relichunter_t2_armour_set_24472,enum_2786
+val=twisted_relichunter_t3_armour_set_24475,enum_2787
 
 [enum_1035]
 inputtype=int
@@ -13919,6 +13925,7 @@ val=0_0_0_6_3,sink_8232
 val=0_0_0_7_1,wood_kitchen_table_8246
 val=0_0_0_7_2,oak_kitchen_table_8247
 val=0_0_0_7_3,teak_kitchen_table_8248
+val=0_0_0_8_1,spice_rack_24479
 
 [enum_1435]
 inputtype=coordgrid
@@ -24963,4 +24970,34 @@ val=1,twisted_hat_t3_24387
 val=2,twisted_trousers_t3_24391
 val=3,twisted_coat_t3_24389
 val=4,twisted_cane_24395
+
+[enum_2785]
+inputtype=int
+outputtype=namedobj
+default=null
+val=-1,twisted_relichunter_t1_armour_set_24469
+val=0,twisted_boots_t1_24411
+val=1,twisted_hat_t1_24405
+val=2,twisted_trousers_t1_24409
+val=3,twisted_coat_t1_24407
+
+[enum_2786]
+inputtype=int
+outputtype=namedobj
+default=null
+val=-1,twisted_relichunter_t2_armour_set_24472
+val=0,twisted_boots_t2_24403
+val=1,twisted_hat_t2_24397
+val=2,twisted_trousers_t2_24401
+val=3,twisted_coat_t2_24399
+
+[enum_2787]
+inputtype=int
+outputtype=namedobj
+default=null
+val=-1,twisted_relichunter_t3_armour_set_24475
+val=0,twisted_boots_t3_24393
+val=1,twisted_hat_t3_24387
+val=2,twisted_trousers_t3_24391
+val=3,twisted_coat_t3_24389
 

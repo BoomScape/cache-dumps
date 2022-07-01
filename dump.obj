@@ -7813,6 +7813,7 @@ womanwear=dark_dagger_524,6
 2dxan=412
 2dyan=248
 iop2=Wield
+iop4=Investigate
 members=yes
 placeholder=yes
 
@@ -7826,6 +7827,7 @@ womanwear=glowing_dagger_5116,6
 2dxan=412
 2dyan=248
 iop2=Wield
+iop4=Investigate
 members=yes
 placeholder=yes
 
@@ -143855,6 +143857,7 @@ cost=100
 2dxan=54
 2dyan=269
 iop1=Fill
+iop2=Open
 iop3=Check
 iop4=Empty
 iop5=Destroy
@@ -143880,6 +143883,7 @@ cost=100
 2dxan=189
 2dyan=337
 iop1=Fill
+iop2=Open
 iop3=Check
 iop4=Empty
 iop5=Destroy
@@ -158565,6 +158569,7 @@ model=empty_sack_7300
 2dxan=194
 2dyan=1867
 iop1=Fill
+iop2=Open
 iop3=Empty
 iop4=Check
 iop5=Destroy
@@ -164125,7 +164130,7 @@ members=yes
 
 [seed_box_13639]
 name=Seed box
-model=seed_box_31045
+model=seed_box_39142
 cost=10
 2dzoom=1221
 2dxof=3
@@ -164135,6 +164140,7 @@ cost=10
 iop1=Fill
 iop2=Empty
 iop3=Check
+iop4=Open
 iop5=Destroy
 members=yes
 shiftop=1
@@ -232462,4 +232468,147 @@ certificate=yes
 
 [placeholder_twisted_horns_24468]
 placeholder=yes
+
+[twisted_relichunter_t1_armour_set_24469]
+name=Twisted relichunter (t1) armour set
+model=twisted_relichunter_t1_armour_set_39144
+cost=50000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_twisted_relichunter_t1_armour_set_24470]
+certificate=yes
+
+[placeholder_twisted_relichunter_t1_armour_set_24471]
+placeholder=yes
+
+[twisted_relichunter_t2_armour_set_24472]
+name=Twisted relichunter (t2) armour set
+model=twisted_relichunter_t2_armour_set_39143
+cost=50000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_twisted_relichunter_t2_armour_set_24473]
+certificate=yes
+
+[placeholder_twisted_relichunter_t2_armour_set_24474]
+placeholder=yes
+
+[twisted_relichunter_t3_armour_set_24475]
+name=Twisted relichunter (t3) armour set
+model=twisted_relichunter_t3_armour_set_39145
+cost=50000
+2dzoom=1762
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_twisted_relichunter_t3_armour_set_24476]
+certificate=yes
+
+[placeholder_twisted_relichunter_t3_armour_set_24477]
+placeholder=yes
+
+[open_herb_sack_24478]
+name=Open herb sack
+model=open_herb_sack_39139
+2dzoom=1762
+2dxof=3
+2dyof=-18
+2dxan=194
+2dyan=1867
+iop1=Fill
+iop2=Close
+iop3=Empty
+iop4=Check
+iop5=Destroy
+members=yes
+ambient=10
+shiftop=2
+param=param_595,Empty
+
+[spice_rack_24479]
+name=Spice rack
+model=spice_rack_39141
+2dzoom=2042
+2dxof=25
+2dyof=110
+2dxan=67
+2dyan=337
+
+[opened_coal_bag_24480]
+name=Opened coal bag
+model=looting_bag_35815
+cost=100
+2dzoom=779
+2dxof=3
+2dxan=54
+2dyan=269
+iop1=Fill
+iop2=Close
+iop3=Check
+iop4=Empty
+iop5=Destroy
+recol1s=6430
+recol1d=37
+recol2s=7467
+recol2d=28
+recol3s=6798
+recol3d=16
+recol4s=7223
+recol4d=6445
+members=yes
+shiftop=3
+param=param_595,Empty
+
+[opened_gem_bag_24481]
+name=Opened gem bag
+model=looting_bag_35815
+cost=100
+2dzoom=1095
+2dxof=3
+2dxan=189
+2dyan=337
+iop1=Fill
+iop2=Close
+iop3=Check
+iop4=Empty
+iop5=Destroy
+recol1s=6430
+recol1d=-32700
+recol2s=7467
+recol2d=-32591
+recol3s=6798
+recol3d=-32597
+recol4s=7223
+recol4d=14637
+members=yes
+shiftop=3
+param=param_595,Empty
+
+[open_seed_box_24482]
+name=Open seed box
+model=open_seed_box_31045
+cost=10
+2dzoom=1221
+2dxof=3
+2dyof=-49
+2dxan=258
+2dyan=330
+iop1=Fill
+iop2=Empty
+iop3=Check
+iop4=Close
+iop5=Destroy
+members=yes
+shiftop=1
+param=param_595,Empty
 
