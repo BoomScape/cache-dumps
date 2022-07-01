@@ -1,17 +1,15 @@
 [interface_126:0]
 type=^iftype_layer
-width=8
-height=11
+height=258
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-vsizemode=^setsize_minus
-onload="script1056(event_com,8257537,8257538,8257539,8257540,8257541,8257542,8257543,8257544,8257545,8257546,8257547)"
+onload="script1056(event_com,8257537,8257538,8257539,8257540,8257541,8257542,8257543,8257545,8257546,8257547,8257548,8257544)"
 
 [interface_126:1]
 type=^iftype_layer
-width=60
-height=50
+width=95
+height=43
 layer=interface_126:0
 optionmask=1026
 op1="Store"
@@ -19,9 +17,9 @@ op10="Examine"
 
 [interface_126:2]
 type=^iftype_layer
-width=60
-height=50
-hposmode=^setpos_abs_centre
+width=95
+height=43
+hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1026
 op1="Store"
@@ -29,9 +27,9 @@ op10="Examine"
 
 [interface_126:3]
 type=^iftype_layer
-width=60
-height=50
-hposmode=^setpos_abs_right
+y=43
+width=95
+height=43
 layer=interface_126:0
 optionmask=1026
 op1="Store"
@@ -39,9 +37,9 @@ op10="Examine"
 
 [interface_126:4]
 type=^iftype_layer
-y=50
-width=85
-height=50
+y=43
+width=95
+height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1026
@@ -50,9 +48,9 @@ op10="Examine"
 
 [interface_126:5]
 type=^iftype_layer
-y=50
+y=86
 width=95
-height=50
+height=43
 layer=interface_126:0
 optionmask=1026
 op1="Store"
@@ -60,9 +58,9 @@ op10="Examine"
 
 [interface_126:6]
 type=^iftype_layer
-y=100
-width=85
-height=50
+y=86
+width=95
+height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1026
@@ -71,9 +69,9 @@ op10="Examine"
 
 [interface_126:7]
 type=^iftype_layer
-y=100
+y=129
 width=95
-height=50
+height=43
 layer=interface_126:0
 optionmask=1054
 op1="Store-1"
@@ -84,23 +82,20 @@ op10="Examine"
 
 [interface_126:8]
 type=^iftype_layer
-y=150
+y=129
 width=95
-height=50
+height=43
+hposmode=^setpos_abs_right
 layer=interface_126:0
-optionmask=1054
-op1="Store-1"
-op2="Store-5"
-op3="Store-All"
-op4="Store-X"
+optionmask=1026
+op1="Store"
 op10="Examine"
 
 [interface_126:9]
 type=^iftype_layer
-y=150
-width=85
-height=50
-hposmode=^setpos_abs_right
+y=172
+width=95
+height=43
 layer=interface_126:0
 optionmask=1054
 op1="Store-1"
@@ -111,9 +106,10 @@ op10="Examine"
 
 [interface_126:10]
 type=^iftype_layer
-y=200
+y=172
 width=95
-height=50
+height=43
+hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1054
 op1="Store-1"
@@ -124,9 +120,22 @@ op10="Examine"
 
 [interface_126:11]
 type=^iftype_layer
-y=200
-width=85
-height=50
+y=215
+width=95
+height=43
+layer=interface_126:0
+optionmask=1054
+op1="Store-1"
+op2="Store-5"
+op3="Store-All"
+op4="Store-X"
+op10="Examine"
+
+[interface_126:12]
+type=^iftype_layer
+y=215
+width=95
+height=43
 hposmode=^setpos_abs_right
 layer=interface_126:0
 optionmask=1054

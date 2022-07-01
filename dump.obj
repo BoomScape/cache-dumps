@@ -62674,7 +62674,7 @@ placeholder=yes
 
 [oak_seedling_w_5364]
 name=Oak seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -62685,7 +62685,7 @@ placeholder=yes
 
 [willow_seedling_w_5365]
 name=Willow seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -62696,7 +62696,7 @@ placeholder=yes
 
 [maple_seedling_w_5366]
 name=Maple seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -62707,7 +62707,7 @@ placeholder=yes
 
 [yew_seedling_w_5367]
 name=Yew seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -62718,7 +62718,7 @@ placeholder=yes
 
 [magic_seedling_w_5368]
 name=Magic seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -62729,7 +62729,7 @@ placeholder=yes
 
 [spirit_seedling_w_5369]
 name=Spirit seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63850,7 +63850,7 @@ placeholder=yes
 
 [apple_seedling_w_5488]
 name=Apple seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63861,7 +63861,7 @@ placeholder=yes
 
 [banana_seedling_w_5489]
 name=Banana seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63872,7 +63872,7 @@ placeholder=yes
 
 [orange_seedling_w_5490]
 name=Orange seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63883,7 +63883,7 @@ placeholder=yes
 
 [curry_seedling_w_5491]
 name=Curry seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63894,7 +63894,7 @@ placeholder=yes
 
 [pineapple_seedling_w_5492]
 name=Pineapple seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63905,7 +63905,7 @@ placeholder=yes
 
 [papaya_seedling_w_5493]
 name=Papaya seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63916,7 +63916,7 @@ placeholder=yes
 
 [palm_seedling_w_5494]
 name=Palm seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -63927,7 +63927,7 @@ placeholder=yes
 
 [calquat_seedling_w_5495]
 name=Calquat seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -87811,7 +87811,7 @@ model=item_13403
 
 [dummy_wall_7619]
 model=model_16238
-param=spell_name_601,Teleport to Ape Atoll
+param=spell_name_601,Ape Atoll Teleport
 param=spell_desc_602,Teleports you to Ape Atoll
 param=spell_spellbook_336,0
 param=spell_type_605,2
@@ -116206,6 +116206,7 @@ cost=99000
 2dyof=1
 2dxan=504
 iop2=Wear
+iop3=Teleport
 recol1s=-8256
 recol1d=21916
 recol2s=-11353
@@ -116221,6 +116222,7 @@ recol6d=22412
 members=yes
 placeholder=yes
 param=param_451,Boost
+param=param_452,Teleport
 
 [farming_cape_t_9811]
 name=Farming cape(t)
@@ -116232,6 +116234,7 @@ cost=99000
 2dyof=1
 2dxan=504
 iop2=Wear
+iop3=Teleport
 recol1s=-8256
 recol1d=14775
 recol2s=-11353
@@ -116247,6 +116250,7 @@ recol6d=22412
 members=yes
 placeholder=yes
 param=param_451,Boost
+param=param_452,Teleport
 
 [farming_hood_9812]
 name=Farming hood
@@ -132664,6 +132668,7 @@ param=param_452,Mining Guild
 param=param_453,Crafting Guild
 param=param_454,Cooking Guild
 param=param_455,Woodcutting Guild
+param=param_456,Farming Guild
 
 [cert_skills_necklace_4_11106]
 certificate=yes
@@ -132690,6 +132695,7 @@ param=param_452,Mining Guild
 param=param_453,Crafting Guild
 param=param_454,Cooking Guild
 param=param_455,Woodcutting Guild
+param=param_456,Farming Guild
 
 [cert_skills_necklace_3_11108]
 certificate=yes
@@ -132716,6 +132722,7 @@ param=param_452,Mining Guild
 param=param_453,Crafting Guild
 param=param_454,Cooking Guild
 param=param_455,Woodcutting Guild
+param=param_456,Farming Guild
 
 [cert_skills_necklace_2_11110]
 certificate=yes
@@ -132743,6 +132750,7 @@ param=param_452,Mining Guild
 param=param_453,Crafting Guild
 param=param_454,Cooking Guild
 param=param_455,Woodcutting Guild
+param=param_456,Farming Guild
 
 [cert_skills_necklace_1_11112]
 certificate=yes
@@ -143211,6 +143219,7 @@ param=param_452,Mining Guild
 param=param_453,Crafting Guild
 param=param_454,Cooking Guild
 param=param_455,Woodcutting Guild
+param=param_456,Farming Guild
 
 [cert_skills_necklace_6_11969]
 certificate=yes
@@ -143237,6 +143246,7 @@ param=param_452,Mining Guild
 param=param_453,Crafting Guild
 param=param_454,Cooking Guild
 param=param_455,Woodcutting Guild
+param=param_456,Farming Guild
 
 [cert_skills_necklace_5_11971]
 certificate=yes
@@ -156380,10 +156390,6 @@ cost=99000
 iop2=Wear
 iop3=Teleport
 iop4=Untrim
-recol1s=22451
-recol1d=22174
-recol2s=25511
-recol2d=27422
 members=yes
 placeholder=yes
 param=param_451,Untrim
@@ -157178,12 +157184,11 @@ param=param_452,Burgh de Rott
 
 [bonecrusher_13116]
 name=Bonecrusher
-model=bonecrusher_29094
-2dzoom=905
-2dxof=5
+model=bonecrusher_36144
+2dzoom=1033
 2dyof=-91
-2dxan=269
-2dyan=781
+2dxan=245
+2dyan=43
 iop2=Check
 iop3=Activity
 iop4=Uncharge
@@ -160022,8 +160027,8 @@ param=param_451,Warriors' Guild
 param=param_452,Fishing Teleports
 param=param_453,Crafting Guild
 param=param_454,Tele to POH
-param=param_455,Chinchompa Teleports
-param=param_456,POH Portals
+param=param_455,POH Portals
+param=param_456,Other Teleports
 param=param_457,Spellbook
 param=param_458,Features
 
@@ -162786,6 +162791,7 @@ model=bronze_set_lg_28193
 cost=0
 2dzoom=1762
 iop1=Pack
+iop5=Destroy
 recol1s=61
 recol1d=6563
 recol2s=41
@@ -183950,9 +183956,9 @@ param=param_455,Log
 [placeholder_red_slayer_helmet_i_19650]
 placeholder=yes
 
-[kourend_teleport_19651]
-name=Kourend teleport
-model=kourend_teleport_31559
+[hosidius_teleport_19651]
+name=Hosidius teleport
+model=hosidius_teleport_31559
 2dzoom=465
 2dyof=-1
 2dxan=373
@@ -183962,7 +183968,7 @@ members=yes
 stackable=yes
 placeholder=yes
 
-[placeholder_kourend_teleport_19652]
+[placeholder_hosidius_teleport_19652]
 placeholder=yes
 
 [golovanova_fruit_top_19653]
@@ -187073,11 +187079,11 @@ placeholder=yes
 [placeholder_heavy_casket_19942]
 placeholder=yes
 
-[arceuus_house_scarf_19943]
-name=Arceuus house scarf
-model=arceuus_house_scarf_31985
-manwear=arceuus_house_scarf_31764,0
-womanwear=arceuus_house_scarf_31845,0
+[arceuus_scarf_19943]
+name=Arceuus scarf
+model=arceuus_scarf_31985
+manwear=arceuus_scarf_31764,0
+womanwear=arceuus_scarf_31845,0
 cost=10000
 2dzoom=1350
 2dxan=550
@@ -187087,17 +187093,17 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_arceuus_house_scarf_19944]
+[cert_arceuus_scarf_19944]
 certificate=yes
 
-[placeholder_arceuus_house_scarf_19945]
+[placeholder_arceuus_scarf_19945]
 placeholder=yes
 
-[hosidius_house_scarf_19946]
-name=Hosidius house scarf
-model=hosidius_house_scarf_31968
-manwear=hosidius_house_scarf_31760,0
-womanwear=hosidius_house_scarf_31842,0
+[hosidius_scarf_19946]
+name=Hosidius scarf
+model=hosidius_scarf_31968
+manwear=hosidius_scarf_31760,0
+womanwear=hosidius_scarf_31842,0
 cost=10000
 2dzoom=1350
 2dxan=550
@@ -187107,17 +187113,17 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_hosidius_house_scarf_19947]
+[cert_hosidius_scarf_19947]
 certificate=yes
 
-[placeholder_hosidius_house_scarf_19948]
+[placeholder_hosidius_scarf_19948]
 placeholder=yes
 
-[lovakengj_house_scarf_19949]
-name=Lovakengj house scarf
-model=lovakengj_house_scarf_32045
-manwear=lovakengj_house_scarf_31763,0
-womanwear=lovakengj_house_scarf_31841,0
+[lovakengj_scarf_19949]
+name=Lovakengj scarf
+model=lovakengj_scarf_32045
+manwear=lovakengj_scarf_31763,0
+womanwear=lovakengj_scarf_31841,0
 cost=10000
 2dzoom=1350
 2dxan=550
@@ -187127,17 +187133,17 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_lovakengj_house_scarf_19950]
+[cert_lovakengj_scarf_19950]
 certificate=yes
 
-[placeholder_lovakengj_house_scarf_19951]
+[placeholder_lovakengj_scarf_19951]
 placeholder=yes
 
-[piscarilius_house_scarf_19952]
-name=Piscarilius house scarf
-model=piscarilius_house_scarf_31980
-manwear=piscarilius_house_scarf_31762,0
-womanwear=piscarilius_house_scarf_31844,0
+[piscarilius_scarf_19952]
+name=Piscarilius scarf
+model=piscarilius_scarf_31980
+manwear=piscarilius_scarf_31762,0
+womanwear=piscarilius_scarf_31844,0
 cost=10000
 2dzoom=1350
 2dxan=550
@@ -187147,17 +187153,17 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_piscarilius_house_scarf_19953]
+[cert_piscarilius_scarf_19953]
 certificate=yes
 
-[placeholder_piscarilius_house_scarf_19954]
+[placeholder_piscarilius_scarf_19954]
 placeholder=yes
 
-[shayzien_house_scarf_19955]
-name=Shayzien house scarf
-model=shayzien_house_scarf_31989
-manwear=shayzien_house_scarf_31765,0
-womanwear=shayzien_house_scarf_31843,0
+[shayzien_scarf_19955]
+name=Shayzien scarf
+model=shayzien_scarf_31989
+manwear=shayzien_scarf_31765,0
+womanwear=shayzien_scarf_31843,0
 cost=10000
 2dzoom=1350
 2dxan=550
@@ -187167,10 +187173,10 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_shayzien_house_scarf_19956]
+[cert_shayzien_scarf_19956]
 certificate=yes
 
-[placeholder_shayzien_house_scarf_19957]
+[placeholder_shayzien_scarf_19957]
 placeholder=yes
 
 [dark_tuxedo_jacket_19958]
@@ -188309,13 +188315,13 @@ certificate=yes
 [placeholder_bowl_wig_20112]
 placeholder=yes
 
-[arceuus_house_hood_20113]
-name=Arceuus house hood
-model=arceuus_house_hood_31999
-manwear=arceuus_house_hood_31751,0
-womanwear=arceuus_house_hood_31826,0
-manhead=arceuus_house_hood_31932
-femalehead=arceuus_house_hood_31951
+[arceuus_hood_20113]
+name=Arceuus hood
+model=arceuus_hood_31999
+manwear=arceuus_hood_31751,0
+womanwear=arceuus_hood_31826,0
+manhead=arceuus_hood_31932
+femalehead=arceuus_hood_31951
 2dzoom=716
 2dyof=3
 2dxan=108
@@ -188335,19 +188341,19 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_arceuus_house_hood_20114]
+[cert_arceuus_hood_20114]
 certificate=yes
 
-[placeholder_arceuus_house_hood_20115]
+[placeholder_arceuus_hood_20115]
 placeholder=yes
 
-[hosidius_house_hood_20116]
-name=Hosidius house hood
-model=arceuus_house_hood_31999
-manwear=arceuus_house_hood_31751,0
-womanwear=arceuus_house_hood_31826,0
-manhead=arceuus_house_hood_31932
-femalehead=arceuus_house_hood_31951
+[hosidius_hood_20116]
+name=Hosidius hood
+model=arceuus_hood_31999
+manwear=arceuus_hood_31751,0
+womanwear=arceuus_hood_31826,0
+manhead=arceuus_hood_31932
+femalehead=arceuus_hood_31951
 2dzoom=716
 2dyof=3
 2dxan=108
@@ -188367,19 +188373,19 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_hosidius_house_hood_20117]
+[cert_hosidius_hood_20117]
 certificate=yes
 
-[placeholder_hosidius_house_hood_20118]
+[placeholder_hosidius_hood_20118]
 placeholder=yes
 
-[lovakengj_house_hood_20119]
-name=Lovakengj house hood
-model=arceuus_house_hood_31999
-manwear=arceuus_house_hood_31751,0
-womanwear=arceuus_house_hood_31826,0
-manhead=arceuus_house_hood_31932
-femalehead=arceuus_house_hood_31951
+[lovakengj_hood_20119]
+name=Lovakengj hood
+model=arceuus_hood_31999
+manwear=arceuus_hood_31751,0
+womanwear=arceuus_hood_31826,0
+manhead=arceuus_hood_31932
+femalehead=arceuus_hood_31951
 2dzoom=716
 2dyof=3
 2dxan=108
@@ -188399,19 +188405,19 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_lovakengj_house_hood_20120]
+[cert_lovakengj_hood_20120]
 certificate=yes
 
-[placeholder_lovakengj_house_hood_20121]
+[placeholder_lovakengj_hood_20121]
 placeholder=yes
 
-[piscarilius_house_hood_20122]
-name=Piscarilius house hood
-model=arceuus_house_hood_31999
-manwear=arceuus_house_hood_31751,0
-womanwear=arceuus_house_hood_31826,0
-manhead=arceuus_house_hood_31932
-femalehead=arceuus_house_hood_31951
+[piscarilius_hood_20122]
+name=Piscarilius hood
+model=arceuus_hood_31999
+manwear=arceuus_hood_31751,0
+womanwear=arceuus_hood_31826,0
+manhead=arceuus_hood_31932
+femalehead=arceuus_hood_31951
 2dzoom=716
 2dyof=3
 2dxan=108
@@ -188431,19 +188437,19 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_piscarilius_house_hood_20123]
+[cert_piscarilius_hood_20123]
 certificate=yes
 
-[placeholder_piscarilius_house_hood_20124]
+[placeholder_piscarilius_hood_20124]
 placeholder=yes
 
-[shayzien_house_hood_20125]
-name=Shayzien house hood
-model=arceuus_house_hood_31999
-manwear=arceuus_house_hood_31751,0
-womanwear=arceuus_house_hood_31826,0
-manhead=arceuus_house_hood_31932
-femalehead=arceuus_house_hood_31951
+[shayzien_hood_20125]
+name=Shayzien hood
+model=arceuus_hood_31999
+manwear=arceuus_hood_31751,0
+womanwear=arceuus_hood_31826,0
+manhead=arceuus_hood_31932
+femalehead=arceuus_hood_31951
 2dzoom=716
 2dyof=3
 2dxan=108
@@ -188463,10 +188469,10 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_shayzien_house_hood_20126]
+[cert_shayzien_hood_20126]
 certificate=yes
 
-[placeholder_shayzien_house_hood_20127]
+[placeholder_shayzien_hood_20127]
 placeholder=yes
 
 [hood_of_darkness_20128]
@@ -203052,7 +203058,7 @@ placeholder=yes
 
 [teak_seedling_w_21473]
 name=Teak seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -203066,7 +203072,7 @@ placeholder=yes
 
 [mahogany_seedling_w_21475]
 name=Mahogany seedling (w)
-model=filled_plant_pot_7278
+model=oak_seedling_w_36598
 2dzoom=1210
 2dxan=104
 2dyan=2012
@@ -205464,7 +205470,8 @@ model=level_1_certificate_17289
 2dyof=-1
 2dxan=443
 2dyan=1950
-iop1=Inspect
+iop1=Read
+iop2=Inspect
 iop5=Destroy
 members=yes
 
@@ -205502,6 +205509,8 @@ placeholder=yes
 param=param_451,Lunch by the Lancalliums
 param=param_452,The Fisher's Flute
 param=param_453,Hearsay and History
+param=param_454,Jewellery of Jubilation
+param=param_455,A Dark Disposition
 param=param_456,Read
 param=param_457,Check
 
@@ -206328,8 +206337,8 @@ param=spell_graphic2_off_600,"2x_standard_spells_off,70"
 
 [dummy_wall_21836]
 model=model_16238
-param=spell_name_601,Teleport to Kourend
-param=spell_desc_602,Teleports you to Kourend
+param=spell_name_601,Kourend Castle Teleport
+param=spell_desc_602,Teleports you to Kourend Castle
 param=spell_spellbook_336,0
 param=spell_type_605,2
 param=spell_membersonly_603,yes
@@ -207252,6 +207261,7 @@ placeholder=yes
 [dragon_bolts_unf_21930]
 name=Dragon bolts (unf)
 model=bronze_bolts_unf_16867
+cost=141
 2dzoom=720
 2dxof=3
 2dyof=5
@@ -211843,9 +211853,9 @@ placeholder=yes
 [placeholder_tektiny_22379]
 placeholder=yes
 
-[mini_vanguard_22380]
-name=Mini vanguard
-model=mini_vanguard_34604
+[vanguard_22380]
+name=Vanguard
+model=vanguard_34604
 2dzoom=2704
 2dxof=-4
 2dyof=-22
@@ -211854,7 +211864,7 @@ model=mini_vanguard_34604
 members=yes
 placeholder=yes
 
-[placeholder_mini_vanguard_22381]
+[placeholder_vanguard_22381]
 placeholder=yes
 
 [vasa_minirio_22382]
@@ -214937,53 +214947,43 @@ placeholder=yes
 [placeholder_candy_cane_22720]
 placeholder=yes
 
-[lumbridge_task_list_22721]
-name=Lumbridge task list
-model=notes_2600
+[dummy_priest_gown_22721]
+name=Null
+model=priest_gown_2521
 2dzoom=1040
 2dxof=1
 2dyof=7
 2dxan=380
 2dyan=120
-iop1=Read
-iop5=Destroy
 
-[chair_22722]
-name=Chair
-model=chair_1170
-iop1=Give
-iop5=Destroy
+[dummy_priest_gown_22722]
+name=Null
+model=priest_gown_2521
 recol1s=5908
 recol1d=926
 
-[festive_tree_branch_22723]
-name=Festive tree branch
-model=willow_branch_7341
-cost=2
+[dummy_priest_gown_22723]
+name=Null
+model=priest_gown_2521
 2dzoom=1616
 2dxan=252
 2dyan=1940
-iop5=Destroy
 
-[waste_gems_22724]
-name=Waste gems
-model=crushed_gem_26831
+[dummy_priest_gown_22724]
+name=Null
+model=priest_gown_2521
 2dzoom=528
 2dxan=135
 2dyan=69
-iop5=Destroy
-ambient=25
 
-[church_decoration_22725]
-name=Church decoration
-model=unblessed_symbol_2462
-cost=0
+[dummy_priest_gown_22725]
+name=Null
+model=priest_gown_2521
 2dzoom=720
 2dxof=-7
 2dyof=64
 2dxan=237
 2dyan=164
-iop5=Destroy
 recol1s=10475
 recol1d=7108
 recol2s=45
@@ -214993,62 +214993,2765 @@ recol3d=7077
 recol4s=74
 recol4d=7087
 
-[pear_tree_sapling_22726]
-name=Pear tree sapling
-model=oak_sapling_7280
-cost=0
+[dummy_priest_gown_22726]
+name=Null
+model=priest_gown_2521
 2dzoom=1910
 2dyof=-11
 2dxan=64
 2dyan=1824
-iop1=Give
-iop5=Destroy
 
-[amulet_of_duplication_22727]
-name=Amulet of duplication
-model=amulet_of_accuracy_2796
+[dummy_priest_gown_22727]
+name=Null
+model=priest_gown_2521
 cost=0
 2dzoom=620
 2dxof=1
 2dyof=16
 2dxan=424
 2dyan=68
-iop1=Give
-iop2=Wear
-iop5=Destroy
 recol1s=11200
 recol1d=103
 recol2s=127
 recol2d=-31808
 
-[golden_rings_22728]
-name=Golden rings
-model=golden_rings_36117
-cost=0
+[dummy_priest_gown_22728]
+name=Null
+model=priest_gown_2521
 2dzoom=1040
 2dxof=-9
 2dyof=-17
 2dxan=170
 2dyan=164
-iop1=Give
-iop5=Destroy
 
-[knight_summoner_22729]
-name=Knight summoner
-model=magic_whistle_2433
+[dummy_priest_gown_22729]
+name=Null
+model=priest_gown_2521
 2dzoom=490
 2dyof=-2
 2dxan=152
 2dyan=1208
-iop1=Give
-iop5=Destroy
 
-[cow_tail_22730]
-name=Cow tail
-model=cow_tail_36118
+[dummy_priest_gown_22730]
+name=Null
+model=priest_gown_2521
 2dzoom=490
 2dyof=-2
 2dxan=152
 2dyan=1208
+
+[dragon_hasta_22731]
+name=Dragon hasta
+model=dragon_hasta_36148
+manwear=dragon_hasta_36313,0
+womanwear=dragon_hasta_36313,6
+cost=100000
+2dzoom=1122
+2dxof=1
+2dyof=-1
+2dxan=1939
+2dyan=1330
+iop2=Wield
+recol1s=22459
+recol1d=935
+recol2s=22451
+recol2d=924
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragon_hasta_22732]
+certificate=yes
+
+[placeholder_dragon_hasta_22733]
+placeholder=yes
+
+[dragon_hasta_p_22734]
+name=Dragon hasta(p)
+model=dragon_hasta_36148
+manwear=dragon_hasta_36313,0
+womanwear=dragon_hasta_36313,6
+cost=100000
+2dzoom=1122
+2dxof=1
+2dyof=-1
+2dxan=1939
+2dyan=1330
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragon_hasta_p_22735]
+certificate=yes
+
+[placeholder_dragon_hasta_p_22736]
+placeholder=yes
+
+[dragon_hasta_p_22737]
+name=Dragon hasta(p+)
+model=dragon_hasta_36148
+manwear=dragon_hasta_36313,0
+womanwear=dragon_hasta_36313,6
+cost=100000
+2dzoom=1122
+2dxof=1
+2dyof=-1
+2dxan=1939
+2dyan=1330
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragon_hasta_p_22738]
+certificate=yes
+
+[placeholder_dragon_hasta_p_22739]
+placeholder=yes
+
+[dragon_hasta_p_22740]
+name=Dragon hasta(p++)
+model=dragon_hasta_36148
+manwear=dragon_hasta_36313,0
+womanwear=dragon_hasta_36313,6
+cost=100000
+2dzoom=1122
+2dxof=1
+2dyof=-1
+2dxan=1939
+2dyan=1330
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragon_hasta_p_22741]
+certificate=yes
+
+[placeholder_dragon_hasta_p_22742]
+placeholder=yes
+
+[dragon_hasta_kp_22743]
+name=Dragon hasta(kp)
+model=dragon_hasta_36148
+manwear=dragon_hasta_36313,0
+womanwear=dragon_hasta_36313,6
+cost=100000
+2dzoom=1122
+2dxof=1
+2dyof=-1
+2dxan=1939
+2dyan=1330
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragon_hasta_kp_22744]
+certificate=yes
+
+[placeholder_dragon_hasta_kp_22745]
+placeholder=yes
+
+[ikkle_hydra_22746]
+name=Ikkle hydra
+model=ikkle_hydra_36197
+2dzoom=3495
+2dxof=-36
+2dyof=-49
+2dxan=67
+2dyan=1953
+members=yes
+placeholder=yes
+
+[placeholder_ikkle_hydra_22747]
+placeholder=yes
+
+[ikkle_hydra_22748]
+name=Ikkle hydra
+model=ikkle_hydra_36196
+2dzoom=3116
+2dxof=-34
+2dyof=-49
+2dxan=40
+2dyan=1966
+members=yes
+placeholder=yes
+
+[placeholder_ikkle_hydra_22749]
+placeholder=yes
+
+[ikkle_hydra_22750]
+name=Ikkle hydra
+model=ikkle_hydra_36195
+2dzoom=3368
+2dxof=-30
+2dyof=-25
+2dxan=40
+2dyan=1966
+members=yes
+placeholder=yes
+
+[placeholder_ikkle_hydra_22751]
+placeholder=yes
+
+[ikkle_hydra_22752]
+name=Ikkle hydra
+model=ikkle_hydra_36198
+2dzoom=3242
+2dxof=-29
+2dyof=-50
+2dxan=67
+2dyan=1980
+members=yes
+placeholder=yes
+
+[placeholder_ikkle_hydra_22753]
+placeholder=yes
+
+[bonemeal_22754]
+name=Bonemeal
+model=pot_of_flour_2406
+2dzoom=990
+2dxof=-1
+2dyof=2
+2dxan=112
+2dyan=8
+iop2=Empty
+recol1s=127
+recol1d=-30400
+members=yes
+placeholder=yes
+
+[placeholder_bonemeal_22755]
+placeholder=yes
+
+[bonemeal_22756]
+name=Bonemeal
+model=pot_of_flour_2406
+2dzoom=990
+2dxof=-1
+2dyof=2
+2dxan=112
+2dyan=8
+iop2=Empty
+recol1s=127
+recol1d=15680
+members=yes
+placeholder=yes
+
+[placeholder_bonemeal_22757]
+placeholder=yes
+
+[bonemeal_22758]
+name=Bonemeal
+model=pot_of_flour_2406
+2dzoom=990
+2dxof=-1
+2dyof=2
+2dxan=112
+2dyan=8
+iop2=Empty
+recol1s=127
+recol1d=-576
+members=yes
+placeholder=yes
+
+[placeholder_bonemeal_22759]
+placeholder=yes
+
+[lovakengj_favour_certificate_22760]
+name=Lovakengj favour certificate
+model=notes_2600
+cost=50
+2dzoom=1040
+2dxof=1
+2dyof=7
+2dxan=380
+2dyan=120
+iop1=Read
 iop5=Destroy
+members=yes
+
+[dinhs_hammer_22761]
+name=Dinh's hammer
+model=dinhs_hammer_36122
+cost=30
+2dzoom=1474
+2dxof=8
+2dyof=-49
+2dxan=242
+2dyan=1926
+iop1=Inspect
+iop5=Destroy
+members=yes
+
+[generator_crank_22762]
+name=Generator crank
+model=lever_2615
+cost=30
+2dzoom=830
+2dyof=25
+2dxan=264
+2dyan=1704
+iop5=Destroy
+members=yes
+
+[8_gallon_jug_22763]
+name=8-gallon jug
+model=8_gallon_jug_36223
+cost=30
+2dzoom=1168
+2dxof=3
+2dyof=-3
+2dxan=152
+2dyan=87
+iop4=Check
+iop5=Destroy
+members=yes
+
+[5_gallon_jug_22764]
+name=5-gallon jug
+model=8_gallon_jug_36223
+cost=30
+2dzoom=1680
+2dxof=3
+2dyof=-3
+2dxan=140
+2dyan=72
+iop4=Check
+iop5=Destroy
+members=yes
+
+[energy_disk_level_4_22765]
+name=Energy disk (level 4)
+model=energy_disk_level_4_36124
+cost=30
+2dzoom=1284
+2dxof=4
+2dyof=-1
+2dxan=566
+2dyan=232
+iop5=Destroy
+members=yes
+
+[energy_disk_level_3_22766]
+name=Energy disk (level 3)
+model=energy_disk_level_3_36127
+cost=30
+2dzoom=1284
+2dxof=4
+2dyof=-1
+2dxan=566
+2dyan=232
+iop5=Destroy
+members=yes
+
+[energy_disk_level_2_22767]
+name=Energy disk (level 2)
+model=energy_disk_level_2_36146
+cost=30
+2dzoom=1284
+2dxof=4
+2dyof=-1
+2dxan=566
+2dyan=232
+iop5=Destroy
+members=yes
+
+[energy_disk_level_1_22768]
+name=Energy disk (level 1)
+model=energy_disk_level_1_36123
+cost=30
+2dzoom=1284
+2dxof=4
+2dyof=-1
+2dxan=566
+2dyan=232
+iop5=Destroy
+members=yes
+
+[unknown_fluid_1_22769]
+name=Unknown fluid 1
+model=unknown_fluid_1_36230
+cost=30
+2dzoom=1296
+2dxan=24
+2dyan=1462
+iop5=Destroy
+members=yes
+
+[unknown_fluid_2_22770]
+name=Unknown fluid 2
+model=unknown_fluid_2_36215
+cost=30
+2dzoom=1296
+2dxan=24
+2dyan=1462
+iop5=Destroy
+members=yes
+
+[unknown_fluid_3_22771]
+name=Unknown fluid 3
+model=unknown_fluid_3_36240
+cost=30
+2dzoom=1296
+2dxan=24
+2dyan=1462
+iop5=Destroy
+members=yes
+
+[unknown_fluid_4_22772]
+name=Unknown fluid 4
+model=unknown_fluid_4_36249
+cost=30
+2dzoom=1296
+2dxan=24
+2dyan=1462
+iop5=Destroy
+members=yes
+
+[unknown_fluid_5_22773]
+name=Unknown fluid 5
+model=unknown_fluid_5_36242
+cost=30
+2dzoom=1296
+2dxan=24
+2dyan=1462
+iop5=Destroy
+members=yes
+
+[old_notes_22774]
+name=Old notes
+model=ballad_10137
+cost=30
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+iop5=Destroy
+members=yes
+
+[ancient_letter_22775]
+name=Ancient letter
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+recol1s=6608
+recol1d=10549
+recol2s=6604
+recol2d=10545
+recol3s=6464
+recol3d=10545
+recol4s=6587
+recol4d=10541
+recol5s=6583
+recol5d=10661
+members=yes
+placeholder=yes
+
+[placeholder_ancient_letter_22776]
+placeholder=yes
+
+[arceuus_favour_certificate_22777]
+name=Arceuus favour certificate
+model=notes_2600
+cost=50
+2dzoom=1040
+2dxof=1
+2dyof=7
+2dxan=380
+2dyan=120
+iop1=Read
+iop5=Destroy
+members=yes
+
+[dark_altar_22778]
+name=Dark altar
+model=dark_altar_30837
+2dzoom=10000
+2dxof=-1
+2dyof=-62
+2dxan=94
+2dyan=1912
+members=yes
+
+[dummy_priest_gown_22779]
+name=Null
+model=priest_gown_2521
+2dzoom=1940
+2dyof=1
+2dxan=572
+iop1=Wear
+recol1s=25238
+recol1d=-2608
+param=spell_name_601,Battlefront Teleport
+param=spell_desc_602,Teleports you to the grave north west of the Kebos Battlefront
+param=spell_membersonly_603,yes
+param=spell_levelreq_604,23
+param=spell_spellbook_336,3
+param=spell_type_605,2
+param=magic_runetype_1_365,law_rune_563
+param=magic_runecount_1_366,1
+param=magic_runetype_2_367,earth_rune_557
+param=magic_runecount_2_368,1
+param=magic_runetype_3_369,fire_rune_554
+param=magic_runecount_3_370,1
+param=spell_button_596,interface_218:178
+param=spell_graphic1_on_597,"magic_necro_on,31"
+param=spell_graphic1_off_598,"magic_necro_off,31"
+param=spell_graphic2_on_599,"2x_necro_spells_on,31"
+param=spell_graphic2_off_600,"2x_necro_spells_off,31"
+
+[wyrm_bones_22780]
+name=Wyrm bones
+model=wyvern_bones_10349
+cost=160
+2dzoom=2293
+2dyof=-5
+2dxan=159
+2dyan=1679
+iop1=Bury
+recol1s=-25506
+recol1d=13406
+recol2s=-24362
+recol2d=10448
+recol3s=-24374
+recol3d=10427
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_wyrm_bones_22781]
+certificate=yes
+
+[placeholder_wyrm_bones_22782]
+placeholder=yes
+
+[drake_bones_22783]
+name=Drake bones
+model=wyvern_bones_10349
+cost=160
+2dzoom=2293
+2dyof=-5
+2dxan=159
+2dyan=1679
+iop1=Bury
+recol1s=-25506
+recol1d=10427
+recol2s=-24362
+recol2d=10415
+recol3s=-24374
+recol3d=10401
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_drake_bones_22784]
+certificate=yes
+
+[placeholder_drake_bones_22785]
+placeholder=yes
+
+[hydra_bones_22786]
+name=Hydra bones
+model=wyvern_bones_10349
+cost=160
+2dzoom=2293
+2dyof=-5
+2dxan=159
+2dyan=1679
+iop1=Bury
+recol1s=-25506
+recol1d=10401
+recol2s=-24362
+recol2d=10392
+recol3s=-24374
+recol3d=10512
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_hydra_bones_22787]
+certificate=yes
+
+[placeholder_hydra_bones_22788]
+placeholder=yes
+
+[uncooked_dragonfruit_pie_22789]
+name=Uncooked dragonfruit pie
+model=uncooked_dragonfruit_pie_36139
+cost=40
+2dzoom=950
+2dyof=-9
+2dxan=192
+2dyan=104
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_uncooked_dragonfruit_pie_22790]
+certificate=yes
+
+[placeholder_uncooked_dragonfruit_pie_22791]
+placeholder=yes
+
+[half_a_dragonfruit_pie_22792]
+name=Half a dragonfruit pie
+model=half_a_dragonfruit_pie_36142
+cost=35
+2dzoom=950
+2dyof=-9
+2dxan=192
+2dyan=104
+iop1=Eat
+members=yes
+certificate=yes
+placeholder=yes
+
+[cert_half_a_dragonfruit_pie_22793]
+certificate=yes
+
+[placeholder_half_a_dragonfruit_pie_22794]
+placeholder=yes
+
+[dragonfruit_pie_22795]
+name=Dragonfruit pie
+model=dragonfruit_pie_36117
+cost=70
+2dzoom=950
+2dyof=-9
+2dxan=192
+2dyan=104
+iop1=Eat
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragonfruit_pie_22796]
+certificate=yes
+
+[placeholder_dragonfruit_pie_22797]
+placeholder=yes
+
+[bird_nest_22798]
+name=Bird nest
+model=bird_nest_7175
+cost=453
+2dzoom=1100
+2dxof=2
+2dxan=172
+2dyan=60
+iop1=Search
+members=yes
+placeholder=yes
+
+[placeholder_bird_nest_22799]
+placeholder=yes
+
+[bird_nest_22800]
+name=Bird nest
+model=bird_nest_7175
+cost=453
+2dzoom=1100
+2dxof=2
+2dxan=172
+2dyan=60
+iop1=Search
+members=yes
+placeholder=yes
+
+[placeholder_bird_nest_22801]
+placeholder=yes
+
+[obj_22802]
+model=model_36297
+2dzoom=2290
+2dxof=-5
+2dyof=2
+2dxan=588
+
+[radas_blessing_22803]
+name=Rada's blessing
+model=radas_blessing_36134
+cost=0
+2dzoom=1246
+2dxof=-7
+2dyof=54
+2dxan=264
+2dyan=1716
+
+[dragon_knife_22804]
+name=Dragon knife
+model=dragon_knife_36150
+manwear=dragon_knife_36319,0
+womanwear=dragon_knife_36319,6
+cost=167
+2dzoom=696
+2dyof=8
+2dxan=285
+2dyan=211
+iop2=Wield
+recol1s=22459
+recol1d=935
+recol2s=22451
+recol2d=924
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_dragon_knife_22805]
+placeholder=yes
+
+[dragon_knife_p_22806]
+name=Dragon knife(p)
+model=dragon_knife_36150
+manwear=dragon_knife_36319,0
+womanwear=dragon_knife_36319,6
+cost=166
+2dzoom=696
+2dyof=8
+2dxan=285
+2dyan=211
+iop2=Wield
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_dragon_knife_p_22807]
+placeholder=yes
+
+[dragon_knife_p_22808]
+name=Dragon knife(p+)
+model=dragon_knife_36150
+manwear=dragon_knife_36319,0
+womanwear=dragon_knife_36319,6
+cost=166
+2dzoom=696
+2dyof=8
+2dxan=285
+2dyan=211
+iop2=Wield
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_dragon_knife_p_22809]
+placeholder=yes
+
+[dragon_knife_p_22810]
+name=Dragon knife(p++)
+model=dragon_knife_36150
+manwear=dragon_knife_36319,0
+womanwear=dragon_knife_36319,6
+cost=166
+2dzoom=696
+2dyof=8
+2dxan=285
+2dyan=211
+iop2=Wield
+recol1s=61
+recol1d=-29403
+recol2s=57
+recol2d=13221
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_dragon_knife_p_22811]
+placeholder=yes
+
+[dragon_knife_22812]
+name=Dragon knife
+model=dragon_knife_36150
+manwear=dragon_knife_36311,0
+womanwear=dragon_knife_36311,6
+cost=167
+2dzoom=696
+2dyof=8
+2dxan=285
+2dyan=211
+iop2=Wield
+recol1s=22459
+recol1d=935
+recol2s=22451
+recol2d=924
+members=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_dragon_knife_22813]
+placeholder=yes
+
+[dragon_knife_22814]
+name=Dragon knife
+model=dragon_knife_36150
+manwear=dragon_knife_36311,0
+womanwear=dragon_knife_36311,6
+cost=167
+2dzoom=696
+2dyof=8
+2dxan=285
+2dyan=211
+iop2=Wield
+members=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_dragon_knife_22815]
+placeholder=yes
+
+[cormorants_glove_22816]
+name=Cormorant's glove
+model=falconers_glove_19987
+manwear=falconers_glove_19852,0
+womanwear=falconers_glove_19846,0
+2dzoom=1010
+2dxof=-1
+2dyof=10
+2dxan=503
+2dyan=930
+iop2=Wear
+members=yes
+
+[cormorants_glove_22817]
+name=Cormorant's glove
+model=cormorants_glove_36116
+manwear=cormorants_glove_36316,0
+womanwear=cormorants_glove_36307,0
+2dzoom=1221
+2dxof=5
+2dyof=-13
+2dxan=135
+2dyan=1745
+iop2=Wear
+members=yes
+
+[fish_chunks_22818]
+name=Fish chunks
+model=fish_chunks_36155
+cost=20
+2dzoom=1600
+2dyof=8
+2dxan=391
+2dyan=1158
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_fish_chunks_22819]
+placeholder=yes
+
+[molch_pearl_22820]
+name=Molch pearl
+model=molch_pearl_36129
+cost=50
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+members=yes
+stackable=yes
+placeholder=yes
+count1=molch_pearl_2_22822,2
+count2=molch_pearl_3_22823,3
+count3=molch_pearl_4_22824,4
+count4=molch_pearl_5_22825,5
+
+[placeholder_molch_pearl_22821]
+placeholder=yes
+
+[molch_pearl_2_22822]
+model=molch_pearl_2_36105
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+stackable=yes
+
+[molch_pearl_3_22823]
+model=molch_pearl_3_36118
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+stackable=yes
+
+[molch_pearl_4_22824]
+model=molch_pearl_4_36153
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+stackable=yes
+
+[molch_pearl_5_22825]
+model=molch_pearl_5_36131
+2dzoom=1808
+2dxof=1
+2dyof=5
+2dxan=222
+2dyan=1337
+stackable=yes
+
+[bluegill_22826]
+name=Bluegill
+model=bluegill_36121
+cost=3
+2dzoom=1762
+2dxof=1
+2dyof=1
+2dxan=584
+2dyan=2047
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_bluegill_22827]
+certificate=yes
+
+[placeholder_bluegill_22828]
+placeholder=yes
+
+[common_tench_22829]
+name=Common tench
+model=common_tench_36147
+cost=3
+2dzoom=2105
+2dxof=1
+2dyof=3
+2dxan=498
+2dyan=1926
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_common_tench_22830]
+certificate=yes
+
+[placeholder_common_tench_22831]
+placeholder=yes
+
+[mottled_eel_22832]
+name=Mottled eel
+model=mottled_eel_36119
+cost=3
+2dzoom=1378
+2dxof=1
+2dyof=1
+2dxan=248
+2dyan=1489
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_mottled_eel_22833]
+certificate=yes
+
+[placeholder_mottled_eel_22834]
+placeholder=yes
+
+[greater_siren_22835]
+name=Greater siren
+model=greater_siren_36145
+cost=3
+2dzoom=1378
+2dxof=1
+2dyof=1
+2dxan=395
+2dyan=29
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_greater_siren_22836]
+certificate=yes
+
+[placeholder_greater_siren_22837]
+placeholder=yes
+
+[fish_sack_22838]
+name=Fish sack
+model=fish_sack_36109
+manwear=fish_sack_36321,0
+womanwear=fish_sack_36332,0
+cost=1000
+2dzoom=2140
+2dxof=2
+2dyof=4
+2dxan=538
+2dyan=2009
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_fish_sack_22839]
+placeholder=yes
+
+[golden_tench_22840]
+name=Golden tench
+model=golden_tench_36140
+manwear=golden_tench_36315,0
+womanwear=golden_tench_36309,0
+cost=100
+2dzoom=1992
+2dxof=1
+2dyof=8
+2dxan=543
+2dyan=15
+iop2=Wield
+members=yes
+placeholder=yes
+
+[placeholder_golden_tench_22841]
+placeholder=yes
+
+[pearl_barbarian_rod_22842]
+name=Pearl barbarian rod
+model=pearl_barbarian_rod_36152
+manwear=pearl_barbarian_rod_36314,0
+womanwear=pearl_barbarian_rod_36304,0
+cost=150
+2dzoom=1853
+2dxof=5
+2dyof=-1
+2dxan=552
+2dyan=27
+iop2=Wield
+placeholder=yes
+
+[placeholder_pearl_barbarian_rod_22843]
+placeholder=yes
+
+[pearl_fly_fishing_rod_22844]
+name=Pearl fly fishing rod
+model=pearl_fly_fishing_rod_36154
+manwear=pearl_fly_fishing_rod_36318,0
+womanwear=pearl_fly_fishing_rod_36302,0
+cost=120
+2dzoom=1916
+2dxof=-1
+2dyof=-1
+2dxan=552
+2dyan=27
+iop2=Wield
+placeholder=yes
+
+[placeholder_pearl_fly_fishing_rod_22845]
+placeholder=yes
+
+[pearl_fishing_rod_22846]
+name=Pearl fishing rod
+model=pearl_fishing_rod_36128
+manwear=pearl_fishing_rod_36317,0
+womanwear=pearl_fishing_rod_36312,0
+cost=100
+2dzoom=1853
+2dxof=5
+2dyof=-1
+2dxan=552
+2dyan=27
+iop2=Wield
+placeholder=yes
+
+[placeholder_pearl_fishing_rod_22847]
+placeholder=yes
+
+[celastrus_seedling_22848]
+name=Celastrus seedling
+model=filled_plant_pot_7278
+2dzoom=1210
+2dxan=104
+2dyan=2012
+recol1s=6930
+recol1d=7054
+members=yes
+placeholder=yes
+
+[placeholder_celastrus_seedling_22849]
+placeholder=yes
+
+[redwood_seedling_22850]
+name=Redwood seedling
+model=filled_plant_pot_7278
+2dzoom=1210
+2dxan=104
+2dyan=2012
+recol1s=6930
+recol1d=7054
+members=yes
+placeholder=yes
+
+[placeholder_redwood_seedling_22851]
+placeholder=yes
+
+[celastrus_seedling_w_22852]
+name=Celastrus seedling (w)
+model=oak_seedling_w_36598
+2dzoom=1210
+2dxan=104
+2dyan=2012
+recol1s=6930
+recol1d=7054
+members=yes
+placeholder=yes
+
+[placeholder_celastrus_seedling_w_22853]
+placeholder=yes
+
+[redwood_seedling_w_22854]
+name=Redwood seedling (w)
+model=oak_seedling_w_36598
+2dzoom=1210
+2dxan=104
+2dyan=2012
+recol1s=6930
+recol1d=7054
+members=yes
+placeholder=yes
+
+[placeholder_redwood_seedling_w_22855]
+placeholder=yes
+
+[celastrus_sapling_22856]
+name=Celastrus sapling
+model=oak_sapling_7280
+2dzoom=1910
+2dyof=-11
+2dxan=64
+2dyan=1824
+recol1s=6930
+recol1d=7054
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_celastrus_sapling_22857]
+certificate=yes
+
+[placeholder_celastrus_sapling_22858]
+placeholder=yes
+
+[redwood_sapling_22859]
+name=Redwood sapling
+model=oak_sapling_7280
+2dzoom=1910
+2dyof=-11
+2dxan=64
+2dyan=1824
+recol1s=6930
+recol1d=7054
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_redwood_sapling_22860]
+certificate=yes
+
+[placeholder_redwood_sapling_22861]
+placeholder=yes
+
+[dragonfruit_seedling_22862]
+name=Dragonfruit seedling
+model=filled_plant_pot_7278
+2dzoom=1210
+2dxan=104
+2dyan=2012
+recol1s=6930
+recol1d=7054
+members=yes
+placeholder=yes
+
+[placeholder_dragonfruit_seedling_22863]
+placeholder=yes
+
+[dragonfruit_seedling_w_22864]
+name=Dragonfruit seedling (w)
+model=oak_seedling_w_36598
+2dzoom=1210
+2dxan=104
+2dyan=2012
+recol1s=6930
+recol1d=7054
+members=yes
+placeholder=yes
+
+[placeholder_dragonfruit_seedling_w_22865]
+placeholder=yes
+
+[dragonfruit_sapling_22866]
+name=Dragonfruit sapling
+model=oak_sapling_7280
+2dzoom=1830
+2dxof=-3
+2dyof=-10
+2dxan=104
+2dyan=1648
+recol1s=6930
+recol1d=7054
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragonfruit_sapling_22867]
+certificate=yes
+
+[placeholder_dragonfruit_sapling_22868]
+placeholder=yes
+
+[celastrus_seed_22869]
+name=Celastrus seed
+model=celastrus_seed_36628
+cost=540
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+count1=celastrus_seed_2_22905,2
+count2=celastrus_seed_3_22906,3
+count3=celastrus_seed_4_22907,4
+count4=celastrus_seed_5_22908,5
+
+[placeholder_celastrus_seed_22870]
+placeholder=yes
+
+[redwood_tree_seed_22871]
+name=Redwood tree seed
+model=redwood_tree_seed_36645
+cost=650
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+count1=redwood_tree_seed_2_22921,2
+count2=redwood_tree_seed_3_22922,3
+count3=redwood_tree_seed_4_22923,4
+count4=redwood_tree_seed_5_22924,5
+
+[placeholder_redwood_tree_seed_22872]
+placeholder=yes
+
+[potato_cactus_seed_22873]
+name=Potato cactus seed
+model=potato_cactus_seed_36621
+cost=140
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+count1=potato_cactus_seed_2_22897,2
+count2=potato_cactus_seed_3_22898,3
+count3=potato_cactus_seed_4_22899,4
+count4=potato_cactus_seed_5_22900,5
+
+[placeholder_potato_cactus_seed_22874]
+placeholder=yes
+
+[hespori_seed_22875]
+name=Hespori seed
+model=hespori_seed_36638
+cost=100
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stackable=yes
+placeholder=yes
+count1=hespori_seed_2_22925,2
+count2=hespori_seed_3_22926,3
+count3=hespori_seed_4_22927,4
+count4=hespori_seed_5_22928,5
+
+[placeholder_hespori_seed_22876]
+placeholder=yes
+
+[dragonfruit_tree_seed_22877]
+name=Dragonfruit tree seed
+model=dragonfruit_tree_seed_36623
+cost=430
+2dzoom=1010
+2dxan=332
+2dyan=1952
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+count1=dragonfruit_tree_seed_2_22901,2
+count2=dragonfruit_tree_seed_3_22902,3
+count3=dragonfruit_tree_seed_4_22903,4
+count4=dragonfruit_tree_seed_5_22904,5
+
+[placeholder_dragonfruit_tree_seed_22878]
+placeholder=yes
+
+[snape_grass_seed_22879]
+name=Snape grass seed
+model=snape_grass_seed_36642
+cost=94
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+count1=snape_grass_seed_2_22893,2
+count2=snape_grass_seed_3_22894,3
+count3=snape_grass_seed_4_22895,4
+count4=snape_grass_seed_5_22896,5
+
+[placeholder_snape_grass_seed_22880]
+placeholder=yes
+
+[attas_seed_22881]
+name=Attas seed
+model=attas_seed_36610
+cost=1000
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stackable=yes
+placeholder=yes
+count1=attas_seed_2_22909,2
+count2=attas_seed_3_22910,3
+count3=attas_seed_4_22911,4
+count4=attas_seed_5_22912,5
+
+[placeholder_attas_seed_22882]
+placeholder=yes
+
+[iasor_seed_22883]
+name=Iasor seed
+model=iasor_seed_36597
+cost=1000
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stackable=yes
+placeholder=yes
+count1=iasor_seed_2_22913,2
+count2=iasor_seed_3_22914,3
+count3=iasor_seed_4_22915,4
+count4=iasor_seed_5_22916,5
+
+[placeholder_iasor_seed_22884]
+placeholder=yes
+
+[kronos_seed_22885]
+name=Kronos seed
+model=kronos_seed_36603
+cost=1000
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stackable=yes
+placeholder=yes
+count1=kronos_seed_2_22917,2
+count2=kronos_seed_3_22918,3
+count3=kronos_seed_4_22919,4
+count4=kronos_seed_5_22920,5
+
+[placeholder_kronos_seed_22886]
+placeholder=yes
+
+[white_lily_seed_22887]
+name=White lily seed
+model=white_lily_seed_36618
+cost=300
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+count1=white_lily_seed_2_22889,2
+count2=white_lily_seed_3_22890,3
+count3=white_lily_seed_4_22891,4
+count4=white_lily_seed_5_22892,5
+
+[placeholder_white_lily_seed_22888]
+placeholder=yes
+
+[white_lily_seed_2_22889]
+model=white_lily_seed_2_36622
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[white_lily_seed_3_22890]
+model=white_lily_seed_3_36602
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[white_lily_seed_4_22891]
+model=white_lily_seed_4_36611
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[white_lily_seed_5_22892]
+model=white_lily_seed_5_36608
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[snape_grass_seed_2_22893]
+model=snape_grass_seed_2_36616
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[snape_grass_seed_3_22894]
+model=snape_grass_seed_3_36592
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[snape_grass_seed_4_22895]
+model=snape_grass_seed_4_36633
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[snape_grass_seed_5_22896]
+model=snape_grass_seed_5_36634
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[potato_cactus_seed_2_22897]
+model=potato_cactus_seed_2_36636
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[potato_cactus_seed_3_22898]
+model=potato_cactus_seed_3_36614
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[potato_cactus_seed_4_22899]
+model=potato_cactus_seed_4_36604
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[potato_cactus_seed_5_22900]
+model=potato_cactus_seed_5_36640
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[dragonfruit_tree_seed_2_22901]
+model=dragonfruit_tree_seed_2_36594
+2dzoom=840
+2dxof=1
+2dyof=9
+2dxan=340
+2dyan=36
+stackable=yes
+
+[dragonfruit_tree_seed_3_22902]
+model=dragonfruit_tree_seed_3_36644
+2dzoom=840
+2dxof=1
+2dyof=9
+2dxan=340
+2dyan=36
+stackable=yes
+
+[dragonfruit_tree_seed_4_22903]
+model=dragonfruit_tree_seed_4_36617
+2dzoom=840
+2dxof=1
+2dyof=9
+2dxan=340
+2dyan=36
+stackable=yes
+
+[dragonfruit_tree_seed_5_22904]
+model=dragonfruit_tree_seed_5_36605
+2dzoom=840
+2dxof=1
+2dyof=9
+2dxan=340
+2dyan=36
+stackable=yes
+
+[celastrus_seed_2_22905]
+model=celastrus_seed_2_36630
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[celastrus_seed_3_22906]
+model=celastrus_seed_3_36624
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[celastrus_seed_4_22907]
+model=celastrus_seed_4_36596
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[celastrus_seed_5_22908]
+model=celastrus_seed_5_36639
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[attas_seed_2_22909]
+model=attas_seed_2_36612
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[attas_seed_3_22910]
+model=attas_seed_3_36627
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[attas_seed_4_22911]
+model=attas_seed_4_36615
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[attas_seed_5_22912]
+model=attas_seed_5_36600
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[iasor_seed_2_22913]
+model=iasor_seed_2_36629
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[iasor_seed_3_22914]
+model=iasor_seed_3_36601
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[iasor_seed_4_22915]
+model=iasor_seed_4_36635
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[iasor_seed_5_22916]
+model=iasor_seed_5_36606
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[kronos_seed_2_22917]
+model=kronos_seed_2_36599
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[kronos_seed_3_22918]
+model=kronos_seed_3_36595
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[kronos_seed_4_22919]
+model=kronos_seed_4_36620
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[kronos_seed_5_22920]
+model=kronos_seed_5_36631
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[redwood_tree_seed_2_22921]
+model=redwood_tree_seed_2_36607
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[redwood_tree_seed_3_22922]
+model=redwood_tree_seed_3_36625
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[redwood_tree_seed_4_22923]
+model=redwood_tree_seed_4_36637
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[redwood_tree_seed_5_22924]
+model=redwood_tree_seed_5_36632
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[hespori_seed_2_22925]
+model=hespori_seed_2_36609
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[hespori_seed_3_22926]
+model=hespori_seed_3_36626
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[hespori_seed_4_22927]
+model=hespori_seed_4_36619
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[hespori_seed_5_22928]
+model=hespori_seed_5_36613
+2dzoom=1663
+2dxof=-1
+2dyof=-7
+2dxan=340
+2dyan=36
+stackable=yes
+
+[dragonfruit_22929]
+name=Dragonfruit
+model=dragonfruit_36641
+cost=95
+2dzoom=1360
+2dxof=-3
+2dyof=-68
+2dxan=272
+2dyan=304
+iop1=Eat
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragonfruit_22930]
+certificate=yes
+
+[placeholder_dragonfruit_22931]
+placeholder=yes
+
+[white_lily_22932]
+name=White lily
+model=white_lily_36643
+cost=5
+2dzoom=1360
+2dxof=-1
+2dyof=-1
+2dxan=224
+2dyan=1926
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_white_lily_22933]
+certificate=yes
+
+[placeholder_white_lily_22934]
+placeholder=yes
+
+[celastrus_bark_22935]
+name=Celastrus bark
+model=celastrus_bark_36593
+cost=450
+2dzoom=1872
+2dxof=-1
+2dyof=-18
+2dxan=212
+2dyan=40
+iop1=Fletch
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_celastrus_bark_22936]
+certificate=yes
+
+[placeholder_celastrus_bark_22937]
+placeholder=yes
+
+[dummy_kronos_plant_22938]
+model=kronos_plant_36876
+2dzoom=6968
+2dxof=4
+2dyof=100
+2dxan=256
+2dyan=1333
+
+[dummy_iasor_plant_22939]
+model=iasor_plant_36849
+2dzoom=4568
+2dxof=-20
+2dyof=28
+2dxan=417
+2dyan=593
+
+[dummy_attas_plant_22940]
+model=attas_plant_36890
+2dzoom=5705
+2dyof=-14
+2dxan=391
+2dyan=1872
+
+[radas_blessing_1_22941]
+name=Rada's blessing 1
+model=radas_blessing_1_36106
+cost=0
+2dzoom=1246
+2dxof=-7
+2dyof=54
+2dxan=264
+2dyan=1716
+iop2=Equip
+iop3=Kourend Woodland
+members=yes
+placeholder=yes
+param=param_451,Kourend Woodland
+
+[placeholder_radas_blessing_1_22942]
+placeholder=yes
+
+[radas_blessing_2_22943]
+name=Rada's blessing 2
+model=radas_blessing_2_36107
+cost=0
+2dzoom=1246
+2dxof=-7
+2dyof=54
+2dxan=264
+2dyan=1716
+iop2=Equip
+iop3=Kourend Woodland
+members=yes
+placeholder=yes
+param=param_451,Kourend Woodland
+
+[placeholder_radas_blessing_2_22944]
+placeholder=yes
+
+[radas_blessing_3_22945]
+name=Rada's blessing 3
+model=radas_blessing_36134
+cost=0
+2dzoom=1246
+2dxof=-7
+2dyof=54
+2dxan=264
+2dyan=1716
+iop2=Equip
+iop3=Kourend Woodland
+iop4=Mount Karuulm
+members=yes
+placeholder=yes
+param=param_451,Kourend Woodland
+param=param_452,Mount Karuulm
+
+[placeholder_radas_blessing_3_22946]
+placeholder=yes
+
+[radas_blessing_4_22947]
+name=Rada's blessing 4
+model=radas_blessing_4_36130
+cost=0
+2dzoom=1246
+2dxof=-7
+2dyof=54
+2dxan=264
+2dyan=1716
+iop2=Equip
+iop3=Kourend Woodland
+iop4=Mount Karuulm
+members=yes
+placeholder=yes
+param=param_451,Kourend Woodland
+param=param_452,Mount Karuulm
+
+[placeholder_radas_blessing_4_22948]
+placeholder=yes
+
+[battlefront_teleport_22949]
+name=Battlefront teleport
+model=barrows_teleport_31539
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop1=Break
+members=yes
+stockmarket=yes
+stackable=yes
+placeholder=yes
+
+[placeholder_battlefront_teleport_22950]
+placeholder=yes
+
+[boots_of_brimstone_22951]
+name=Boots of brimstone
+model=boots_of_brimstone_36920
+manwear=boots_of_brimstone_36323,0
+womanwear=boots_of_brimstone_36334,0
+cost=20000
+2dzoom=700
+2dxof=1
+2dyof=1
+2dxan=150
+2dyan=179
+iop2=Wear
+recol1s=-22502
+recol1d=8656
+recol2s=-22510
+recol2d=8512
+recol3s=-22386
+recol3d=10394
+recol4s=-22390
+recol4d=10388
+recol5s=-22266
+recol5d=6554
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_boots_of_brimstone_22952]
+certificate=yes
+
+[placeholder_boots_of_brimstone_22953]
+placeholder=yes
+
+[devout_boots_22954]
+name=Devout boots
+model=devout_boots_36151
+manwear=devout_boots_36324,0
+womanwear=devout_boots_36333,0
+cost=20000
+2dzoom=852
+2dxof=2
+2dyof=-3
+2dxan=135
+2dyan=228
+iop2=Wear
+recol1s=-27417
+recol1d=-22613
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_devout_boots_22955]
+certificate=yes
+
+[placeholder_devout_boots_22956]
+placeholder=yes
+
+[drakes_claw_22957]
+name=Drake's claw
+model=drakes_claw_36919
+cost=1500000
+2dzoom=720
+2dyof=1
+2dxan=155
+2dyan=231
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_drakes_claw_22958]
+certificate=yes
+
+[placeholder_drakes_claw_22959]
+placeholder=yes
+
+[drakes_tooth_22960]
+name=Drake's tooth
+model=drakes_tooth_36915
+cost=200000
+2dzoom=465
+2dxof=1
+2dyof=15
+2dxan=304
+2dyan=415
+recol1s=10353
+recol1d=127
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_drakes_tooth_22961]
+certificate=yes
+
+[placeholder_drakes_tooth_22962]
+placeholder=yes
+
+[broken_dragon_hasta_22963]
+name=Broken dragon hasta
+model=broken_dragon_hasta_36133
+cost=200000
+2dzoom=842
+2dxof=-7
+2dyof=-1
+2dxan=100
+2dyan=334
+recol1s=10353
+recol1d=127
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_broken_dragon_hasta_22964]
+certificate=yes
+
+[placeholder_broken_dragon_hasta_22965]
+placeholder=yes
+
+[hydras_claw_22966]
+name=Hydra's claw
+model=hydras_claw_36125
+cost=1500000
+2dzoom=1104
+2dxof=1
+2dyof=-57
+2dxan=210
+2dyan=223
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_hydras_claw_22967]
+certificate=yes
+
+[placeholder_hydras_claw_22968]
+placeholder=yes
+
+[hydras_heart_22969]
+name=Hydra's heart
+model=hydras_heart_36917
+cost=1500000
+2dzoom=1044
+2dxof=2
+2dyof=1
+2dxan=303
+2dyan=36
+members=yes
+placeholder=yes
+
+[placeholder_hydras_heart_22970]
+placeholder=yes
+
+[hydras_fang_22971]
+name=Hydra's fang
+model=hydras_fang_36918
+cost=1500000
+2dzoom=1406
+2dyof=-5
+2dxan=727
+2dyan=1477
+members=yes
+placeholder=yes
+
+[placeholder_hydras_fang_22972]
+placeholder=yes
+
+[hydras_eye_22973]
+name=Hydra's eye
+model=hydras_eye_36916
+cost=1500000
+2dzoom=968
+2dxof=1
+2dyof=-2
+2dxan=94
+2dyan=109
+members=yes
+placeholder=yes
+
+[placeholder_hydras_eye_22974]
+placeholder=yes
+
+[brimstone_ring_22975]
+name=Brimstone ring
+model=brimstone_ring_36126
+cost=10000
+2dzoom=555
+2dxan=437
+2dyan=189
+iop2=Wear
+members=yes
+ambient=30
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_brimstone_ring_22976]
+certificate=yes
+
+[placeholder_brimstone_ring_22977]
+placeholder=yes
+
+[dragon_hunter_lance_22978]
+name=Dragon hunter lance
+model=dragon_hunter_lance_36149
+manwear=dragon_hunter_lance_36303,0
+womanwear=dragon_hunter_lance_36303,6
+cost=1000000
+2dzoom=1550
+2dxof=2
+2dyof=-2
+2dxan=2007
+2dyan=54
+iop2=Wield
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_dragon_hunter_lance_22979]
+certificate=yes
+
+[placeholder_dragon_hunter_lance_22980]
+placeholder=yes
+
+[ferocious_gloves_22981]
+name=Ferocious gloves
+model=ferocious_gloves_36141
+manwear=ferocious_gloves_36325,0
+womanwear=ferocious_gloves_36335,0
+cost=1000000
+2dzoom=917
+2dyof=-1
+2dxan=252
+2dyan=6
+iop2=Wear
+members=yes
+placeholder=yes
+
+[placeholder_ferocious_gloves_22982]
+placeholder=yes
+
+[hydra_leather_22983]
+name=Hydra leather
+model=black_dragonhide_2356
+cost=1500000
+2dzoom=1190
+2dxof=-1
+2dyof=-2
+2dxan=440
+2dyan=116
+iop1=Inspect
+recol1s=22416
+recol1d=8
+recol2s=22424
+recol2d=-31852
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_hydra_leather_22984]
+certificate=yes
+
+[placeholder_hydra_leather_22985]
+placeholder=yes
+
+[bonecrusher_necklace_22986]
+name=Bonecrusher necklace
+model=bonecrusher_necklace_36120
+manwear=bonecrusher_necklace_36326,0
+womanwear=bonecrusher_necklace_36326,0
+cost=80000
+2dzoom=656
+2dxof=1
+2dyof=-5
+2dxan=258
+2dyan=141
+iop2=Wear
+iop3=Activity
+iop4=Check/Uncharge
+iop5=Dismantle
+members=yes
+placeholder=yes
+param=param_451,Check
+param=param_452,Activity
+param=param_453,Uncharge
+
+[placeholder_bonecrusher_necklace_22987]
+placeholder=yes
+
+[hydra_tail_22988]
+name=Hydra tail
+model=hydra_tail_36108
+cost=1500000
+2dzoom=976
+2dxof=1
+2dyof=29
+2dxan=267
+2dyan=1958
+recol1s=7260
+recol1d=10314
+recol2s=7265
+recol2d=10301
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_hydra_tail_22989]
+certificate=yes
+
+[placeholder_hydra_tail_22990]
+placeholder=yes
+
+[stone_tablet_22991]
+name=Stone tablet
+model=stone_tablet_2627
+2dzoom=1370
+2dyof=-16
+2dxan=180
+2dyan=1888
+iop2=Read
+iop5=Destroy
+recol1s=47
+recol1d=16532
+recol2s=35
+recol2d=16652
+members=yes
+placeholder=yes
+
+[placeholder_stone_tablet_22992]
+placeholder=yes
+
+[seed_box_22993]
+name=Seed box
+model=research_package_2426
+cost=100
+2dzoom=1180
+2dyof=-14
+2dxan=160
+2dyan=172
+iop1=Take
+iop4=Check
+iop5=Destroy
+recol1s=22410
+recol1d=22416
+members=yes
+
+[bottomless_compost_bucket_22994]
+name=Bottomless compost bucket
+model=bottomless_compost_bucket_36111
+manwear=bottomless_compost_bucket_36305,0
+womanwear=bottomless_compost_bucket_36305,6
+cost=45000
+2dzoom=1020
+2dyof=-18
+2dxan=204
+2dyan=1660
+iop1=Fill
+iop2=Check
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_bottomless_compost_bucket_22995]
+certificate=yes
+
+[placeholder_bottomless_compost_bucket_22996]
+placeholder=yes
+
+[bottomless_compost_bucket_22997]
+name=Bottomless compost bucket
+model=bottomless_compost_bucket_36110
+manwear=bottomless_compost_bucket_36305,0
+womanwear=bottomless_compost_bucket_36305,6
+cost=45000
+2dzoom=1020
+2dyof=-18
+2dxan=204
+2dyan=1660
+iop4=Fill/Check
+iop5=Empty
+recol1s=8724
+recol1d=13592
+members=yes
+placeholder=yes
+
+[placeholder_bottomless_compost_bucket_22998]
+placeholder=yes
+
+[bottled_dragonbreath_unpowered_22999]
+name=Bottled dragonbreath (unpowered)
+model=fish_vial_26826
+cost=500
+2dzoom=550
+2dyof=-1
+2dxan=81
+2dyan=1812
+iop1=Inspect
+recol1s=6953
+recol1d=2900
+recol2s=7077
+recol2d=-1194
+recol3s=7073
+recol3d=5051
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_bottled_dragonbreath_unpowered_23000]
+certificate=yes
+
+[placeholder_bottled_dragonbreath_unpowered_23001]
+placeholder=yes
+
+[bottled_dragonbreath_23002]
+name=Bottled dragonbreath
+model=fish_vial_26826
+cost=500
+2dzoom=550
+2dyof=-1
+2dxan=81
+2dyan=1812
+recol1s=6953
+recol1d=-1233
+recol2s=7077
+recol2d=-1223
+recol3s=7073
+recol3d=-1115
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_bottled_dragonbreath_23003]
+certificate=yes
+
+[placeholder_bottled_dragonbreath_23004]
+placeholder=yes
+
+[obj_23005]
+model=model_36464
+2dzoom=1956
+2dxof=-4
+2dxan=633
+
+[obj_23006]
+model=model_36465
+2dzoom=2340
+2dxof=3
+2dxan=512
+
+[tatty_note_23007]
+name=Tatty note
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+recol1s=6608
+recol1d=13632
+recol2s=6604
+recol2d=13627
+recol3s=6464
+recol3d=13623
+recol4s=6587
+recol4d=13619
+recol5s=6583
+recol5d=13743
+members=yes
+placeholder=yes
+
+[placeholder_tatty_note_23008]
+placeholder=yes
+
+[gielinors_flora_flowers_23009]
+name=Gielinor's flora - flowers
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=6040
+members=yes
+placeholder=yes
+
+[placeholder_gielinors_flora_flowers_23010]
+placeholder=yes
+
+[gielinors_flora_bushes_23011]
+name=Gielinor's flora - bushes
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=11160
+members=yes
+placeholder=yes
+
+[placeholder_gielinors_flora_bushes_23012]
+placeholder=yes
+
+[gielinors_flora_hops_23013]
+name=Gielinor's flora - hops
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=22424
+members=yes
+placeholder=yes
+
+[placeholder_gielinors_flora_hops_23014]
+placeholder=yes
+
+[gielinors_flora_allotments_23015]
+name=Gielinor's flora - allotments
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=7079
+members=yes
+placeholder=yes
+
+[placeholder_gielinors_flora_allotments_23016]
+placeholder=yes
+
+[gielinors_flora_herbs_23017]
+name=Gielinor's flora - herbs
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=25511
+members=yes
+placeholder=yes
+
+[placeholder_gielinors_flora_herbs_23018]
+placeholder=yes
+
+[gielinors_flora_trees_23019]
+name=Gielinor's flora - trees
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=11175
+members=yes
+placeholder=yes
+
+[placeholder_gielinors_flora_trees_23020]
+placeholder=yes
+
+[gielinors_flora_fruit_23021]
+name=Gielinor's flora - fruit
+model=nulodions_notes_2794
+2dzoom=840
+2dxan=256
+2dyan=152
+iop1=Read
+recol1s=5018
+recol1d=6034
+members=yes
+placeholder=yes
+
+[placeholder_gielinors_flora_fruit_23022]
+placeholder=yes
+
+[old_notes_23023]
+name=Old notes
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_old_notes_23024]
+placeholder=yes
+
+[old_notes_23025]
+name=Old notes
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_old_notes_23026]
+placeholder=yes
+
+[old_notes_23027]
+name=Old notes
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_old_notes_23028]
+placeholder=yes
+
+[old_notes_23029]
+name=Old notes
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_old_notes_23030]
+placeholder=yes
+
+[old_notes_23031]
+name=Old notes
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_old_notes_23032]
+placeholder=yes
+
+[old_notes_23033]
+name=Old notes
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_old_notes_23034]
+placeholder=yes
+
+[old_notes_23035]
+name=Old notes
+model=ballad_10137
+2dzoom=1020
+2dxof=-1
+2dyof=11
+2dxan=344
+2dyan=656
+iop1=Read
+members=yes
+placeholder=yes
+
+[placeholder_old_notes_23036]
+placeholder=yes
+
+[boots_of_stone_23037]
+name=Boots of stone
+model=boots_of_brimstone_36920
+manwear=boots_of_brimstone_36323,0
+womanwear=boots_of_brimstone_36334,0
+cost=200
+2dzoom=700
+2dxof=1
+2dyof=1
+2dxan=150
+2dyan=179
+iop2=Wear
+members=yes
+stockmarket=yes
+certificate=yes
+placeholder=yes
+
+[cert_boots_of_stone_23038]
+certificate=yes
+
+[placeholder_boots_of_stone_23039]
+placeholder=yes
+
+[wyrm_23040]
+name=Wyrm
+model=wyrm_36922
+2dzoom=2547
+2dxof=-7
+2dyof=9
+2dxan=97
+2dyan=1820
+
+[drake_23041]
+name=Drake
+model=drake_36923
+2dzoom=2800
+2dxof=24
+2dyof=4
+2dxan=4
+2dyan=1700
+
+[hydra_23042]
+name=Hydra
+model=hydra_36924
+2dzoom=3684
+2dxof=-50
+2dyof=22
+2dxan=148
+2dyan=222
+
+[sulphur_lizard_23043]
+name=Sulphur lizard
+model=sulphur_lizard_36921
+2dzoom=1663
+2dxof=3
+2dyof=7
+2dxan=4
+2dyan=1700
+
+[obj_23044]
+model=model_36927
+2dzoom=1789
+2dxof=7
+2dyof=-18
+2dyan=1939
+
+[clue_scroll_hard_23045]
+name=Clue scroll (hard)
+model=clue_scroll_easy_3374
+cost=20
+2dzoom=1010
+2dxof=1
+2dxan=360
+2dyan=672
+iop1=Read
+iop2=Check steps
+members=yes
+
+[clue_scroll_medium_23046]
+name=Clue scroll (medium)
+model=clue_scroll_easy_3374
+cost=20
+2dzoom=1010
+2dxof=1
+2dxan=360
+2dyan=672
+iop1=Read
+iop2=Check steps
+members=yes
 

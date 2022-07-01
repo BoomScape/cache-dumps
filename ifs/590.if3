@@ -1,9 +1,10 @@
 [interface_590:0]
 type=^iftype_layer
 width=475
-height=315
+height=1
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
+vsizemode=^setsize_minus
 
 [interface_590:1]
 type=^iftype_layer

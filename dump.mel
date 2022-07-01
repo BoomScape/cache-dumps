@@ -1760,35 +1760,35 @@ mapfunction=no
 category=1129
 
 [mapelement_297]
-text=Arceuus<br>House
+text=Arceuus
 colour=^white
 size=1
 mapfunction=no
 category=1129
 
 [mapelement_298]
-text=Hosidius House
+text=Hosidius
 colour=^white
 size=1
 mapfunction=no
 category=1129
 
 [mapelement_299]
-text=Lovakengj<br>House
+text=Lovakengj
 colour=^white
 size=1
 mapfunction=no
 category=1129
 
 [mapelement_300]
-text=Piscarilius<br>House
+text=Port<br>Piscarilius
 colour=^white
 size=1
 mapfunction=no
 category=1129
 
 [mapelement_301]
-text=Shayzien<br>House
+text=Shayzien
 colour=^white
 size=1
 mapfunction=no
@@ -3247,7 +3247,7 @@ mapfunction=no
 category=1129
 
 [mapelement_539]
-text=Wyverns<br>(Task Only)
+text=Wyverns<br>Task Only
 colour=^white
 mapfunction=no
 category=1129
@@ -3601,4 +3601,115 @@ category=1274
 graphic="mapfunction,117"
 vis=^mapelement_vis_both
 category=1275
+
+[mapelement_601]
+text=Kalphite<br>Cave
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_602]
+text=Lovakengj<br>Assembly
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_603]
+text=The Forsaken<br>Tower
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_604]
+text=Mount<br>Karuulm
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_605]
+text=Farming Guild
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_606]
+text=Battlefront
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_607]
+text=Molch
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_608]
+text=Kebos Swamp
+colour=^white
+size=1
+mapfunction=no
+category=1129
+
+[mapelement_609]
+text=Lake Molch
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_610]
+text=River Molch
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_611]
+text=Wyrms
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_612]
+text=Drakes
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_613]
+text=Hydras
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_614]
+text=Alchemical<br>Hydra
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_615]
+text=Sulphur<br>lizards
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_616]
+text=Tasakaal
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_617]
+text=Hespori
+colour=^white
+mapfunction=no
+category=1129
+
+[mapelement_618]
+text=Lizardman<br>Temple
+colour=^white
+mapfunction=no
+category=1129
 

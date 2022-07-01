@@ -108,3 +108,10 @@ disposal=280
 duration=300
 width=120
 
+[headbar_15]
+showpriority=250
+hidepriority=250
+disposal=280
+duration=300
+width=120
+
