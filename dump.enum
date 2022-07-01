@@ -1045,6 +1045,8 @@ val=snow_imp_costume_gloves_21855,Imp costume gloves (2017)
 val=snow_imp_costume_feet_21857,Imp costume feet (2017)
 val=wise_old_mans_santa_hat_21859,Wise Old Man's Santa hat (2017)
 val=prop_sword_22316,Birthday prop sword (2018)
+val=eggshell_platebody_22351,Eggshell Torso (2018)
+val=eggshell_platelegs_22353,Eggshell Legs (2018)
 val=jar_of_dirt_12007,Jar of Dirt (Kraken)
 val=jar_of_swamp_12936,Jar of Swamp (Zulrah)
 val=jar_of_sand_12885,Jar of Sand (Kalphite Queen)
@@ -1920,6 +1922,8 @@ val=91,snow_imp_costume_gloves_21855
 val=92,snow_imp_costume_feet_21857
 val=93,wise_old_mans_santa_hat_21859
 val=94,prop_sword_22316
+val=95,eggshell_platebody_22351
+val=96,eggshell_platelegs_22353
 val=-10,cert_pumpkin_1960
 val=-11,cert_red_halloween_mask_1058
 val=-12,cert_green_halloween_mask_1054
@@ -16324,6 +16328,7 @@ val=13,Smelt
 val=14,Use
 val=15,Upgrade
 val=16,Spin
+val=17,Take
 
 [enum_1810]
 inputtype=int
