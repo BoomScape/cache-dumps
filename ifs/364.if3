@@ -507,7 +507,7 @@ layer=interface_364:4
 
 [interface_364:64]
 type=^iftype_layer
-x=80
+x=30
 width=100
 height=25
 vposmode=^setpos_abs_bottom
@@ -521,7 +521,15 @@ layer=interface_364:0
 
 [interface_364:66]
 type=^iftype_layer
-x=80
+width=100
+height=25
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_bottom
+layer=interface_364:3
+
+[interface_364:67]
+type=^iftype_layer
+x=30
 width=100
 height=25
 hposmode=^setpos_abs_right

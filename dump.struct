@@ -961,14 +961,7 @@ param=param_1160,3
 param=param_657,15
 
 [struct_303]
-param=setting_type_1078,5
-param=setting_name_1086,Collection Log
-param=setting_search_keywords_1088,"Collection Log,cl,new item,notifications"
-
-[struct_304]
-param=setting_type_1078,5
-param=setting_name_1086,Combat Achievements
-param=setting_search_keywords_1088,Combat Achievements
+param=param_1350,enum_4007
 
 [ernest_the_chicken_305]
 param=param_191,45
@@ -6525,7 +6518,7 @@ param=league_task_description_875,Reach level 80 in your Hunter skill.
 param=league_task_tier_876,3
 
 [struct_904]
-param=setting_category_id_743,0
+param=setting_category_id_743,4
 param=setting_category_name_744,Display
 param=setting_category_list_745,enum_424
 
@@ -6628,12 +6621,6 @@ param=league_task_name_874,Level 80 Smithing
 param=league_task_description_875,Reach level 80 in your Smithing skill.
 param=league_task_tier_876,3
 
-[struct_922]
-param=setting_category_id_743,4
-param=setting_category_name_744,Keybinds
-param=setting_category_list_745,enum_1563
-param=param_739,yes
-
 [struct_923]
 param=setting_category_id_743,5
 param=setting_category_name_744,Gameplay
@@ -6681,16 +6668,6 @@ param=league_task_name_874,Level 80 Fishing
 param=league_task_description_875,Reach level 80 in your Fishing skill.
 param=league_task_tier_876,3
 
-[struct_931]
-param=setting_type_1078,5
-param=setting_name_1086,Advanced Display Settings
-param=setting_search_keywords_1088,Advanced Display Settings
-
-[struct_932]
-param=setting_type_1078,5
-param=setting_name_1086,Basic Display Settings
-param=setting_search_keywords_1088,Basic Display Settings
-
 [struct_933]
 param=league_task_id_873,194
 param=league_task_name_874,50 Million Fishing XP
@@ -6733,15 +6710,10 @@ param=league_task_name_874,Level 80 Cooking
 param=league_task_description_875,Reach level 80 in your Cooking skill.
 param=league_task_tier_876,3
 
-[struct_940]
-param=setting_type_1078,5
-param=setting_name_1086,Notifications
-param=setting_search_keywords_1088,Notifications
-
 [struct_941]
 param=setting_type_1078,5
-param=setting_name_1086,Game chat
-param=setting_search_keywords_1088,Game chat
+param=setting_name_1086,Game Chat
+param=setting_search_keywords_1088,"game chat,chat game"
 
 [struct_942]
 param=league_task_id_873,203
@@ -6802,11 +6774,6 @@ param=param_1160,2
 param=param_648,a_taste_of_hope_432
 param=param_657,90
 
-[struct_950]
-param=setting_type_1078,5
-param=setting_name_1086,Controls
-param=setting_search_keywords_1088,controls
-
 [struct_951]
 param=league_task_id_873,212
 param=league_task_name_874,50 Million Firemaking XP
@@ -6849,16 +6816,6 @@ param=league_task_name_874,Level 80 Woodcutting
 param=league_task_description_875,Reach level 80 in your Woodcutting skill.
 param=league_task_tier_876,3
 
-[struct_958]
-param=setting_type_1078,5
-param=setting_name_1086,Tablets
-param=setting_search_keywords_1088,"tablets,teleports"
-
-[struct_959]
-param=setting_type_1078,5
-param=setting_name_1086,Teleports
-param=setting_search_keywords_1088,teleports
-
 [struct_960]
 param=league_task_id_873,221
 param=league_task_name_874,50 Million Woodcutting XP
@@ -6900,11 +6857,6 @@ param=league_task_id_873,227
 param=league_task_name_874,Level 80 Farming
 param=league_task_description_875,Reach level 80 in your Farming skill.
 param=league_task_tier_876,3
-
-[struct_967]
-param=setting_type_1078,5
-param=setting_name_1086,Side panel keybinds
-param=setting_search_keywords_1088,"side panel keybinds,hotkeys"
 
 [struct_968]
 param=setting_type_1078,8
@@ -7081,10 +7033,10 @@ param=setting_search_keywords_1088,teleports
 param=param_1118,yes
 
 [struct_997]
-param=setting_search_keywords_1088,"Resizable mode - Chat box scrollbar position,scroll,bar,chatbox,scroll-bar,scroll bar,Resizable mode Chat box scrollbar position,Advanced Display Settings"
+param=setting_search_keywords_1088,"Chat box scrollbar position,scroll,bar,chatbox,scroll-bar,scroll bar,Resizable mode Chat box scrollbar position,Advanced Display Settings"
 param=setting_id_1077,1
 param=setting_type_1078,2
-param=setting_name_1086,Resizable mode - Chat box scrollbar position
+param=setting_name_1086,Chat box scrollbar position
 param=setting_dropdown_list_1091,enum_3505
 param=param_739,yes
 param=param_1082,enum_3502
@@ -7418,10 +7370,10 @@ param=league_task_description_875,Receive and complete a Hydra slayer task.
 param=league_task_tier_876,3
 
 [struct_1052]
-param=setting_search_keywords_1088,"Resizable mode - Transparent side-panel,side panel,side,panel,opaque,Resizable mode Transparent side-panel,Advanced Display Settings"
+param=setting_search_keywords_1088,"Transparent side-panel,side panel,side,panel,opaque,Resizable mode Transparent side-panel,Advanced Display Settings"
 param=setting_id_1077,2
 param=setting_type_1078,0
-param=setting_name_1086,Resizable mode - Transparent side panel
+param=setting_name_1086,Transparent side panel
 param=param_739,yes
 param=setting_toggle_inverse_1084,yes
 param=param_1082,enum_3502
@@ -8008,7 +7960,7 @@ param=league_task_description_875,Receive all unique drops from completing the C
 param=league_task_tier_876,5
 
 [struct_1147]
-param=setting_search_keywords_1088,"Hitsplat tinting,Advanced Display Settings"
+param=setting_search_keywords_1088,"Hitsplat tinting,Advanced Display Settings,combat activities,activities combat"
 param=setting_id_1077,5
 param=setting_type_1078,0
 param=setting_name_1086,Hitsplat tinting
@@ -18455,8 +18407,8 @@ param=param_1044,16th Nov 2019
 [struct_2730]
 param=setting_id_1077,11
 param=setting_type_1078,0
-param=setting_name_1086,Resizable mode - Transparent chatbox
-param=setting_search_keywords_1088,"Resizable mode - Transparent chatbox,Resizable mode Transparent chatbox,Resizable mode - Transparent chat box,Resizable mode Transparent chat box,Advanced Display Settings"
+param=setting_name_1086,Transparent chatbox
+param=setting_search_keywords_1088,"Transparent chatbox,Resizable mode Transparent chatbox,Resizable mode - Transparent chat box,Resizable mode Transparent chat box,Advanced Display Settings"
 param=param_739,yes
 param=param_1082,enum_3502
 param=param_1083,enum_3503
@@ -18558,6 +18510,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,0"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2740]
 param=setting_id_1077,17
@@ -18567,6 +18520,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,5"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2741]
 param=setting_id_1077,18
@@ -18576,6 +18530,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,11"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2742]
 param=setting_id_1077,19
@@ -18585,6 +18540,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,1"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2743]
 param=setting_id_1077,20
@@ -18594,6 +18550,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,6"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2744]
 param=setting_id_1077,21
@@ -18603,6 +18560,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,12"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2745]
 param=setting_id_1077,22
@@ -18612,6 +18570,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,2"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2746]
 param=setting_id_1077,23
@@ -18621,6 +18580,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,8"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2747]
 param=setting_id_1077,24
@@ -18630,6 +18590,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,7"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2748]
 param=setting_id_1077,25
@@ -18639,6 +18600,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,3"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2749]
 param=setting_id_1077,26
@@ -18648,6 +18610,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,22"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2750]
 param=setting_id_1077,27
@@ -18657,6 +18620,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,13"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2751]
 param=setting_id_1077,28
@@ -18666,6 +18630,7 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,4"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2752]
 param=setting_id_1077,29
@@ -18675,12 +18640,13 @@ param=setting_dropdown_list_1091,enum_3506
 param=param_1098,"side_icons,10"
 param=param_1099,0_0_0_33_36
 param=setting_choose_transmit_1085,yes
+param=param_739,yes
 
 [struct_2753]
 param=setting_id_1077,30
 param=setting_type_1078,1
 param=setting_name_1086,Music volume
-param=setting_search_keywords_1088,"Music volume,sound volume,audio volume"
+param=setting_search_keywords_1088,"Music volume,sound volume,audio volume,audio general,general audio"
 param=setting_slider_notches_1101,21
 param=param_1102,5
 param=setting_choose_transmit_1085,yes
@@ -18689,7 +18655,7 @@ param=setting_choose_transmit_1085,yes
 param=setting_id_1077,31
 param=setting_type_1078,1
 param=setting_name_1086,Sound effect volume
-param=setting_search_keywords_1088,"Sound effect volume,Sound effect audio"
+param=setting_search_keywords_1088,"Sound effect volume,Sound effect audio,audio general,general audio"
 param=setting_slider_notches_1101,21
 param=param_1102,5
 param=setting_choose_transmit_1085,yes
@@ -18698,7 +18664,7 @@ param=setting_choose_transmit_1085,yes
 param=setting_id_1077,32
 param=setting_type_1078,1
 param=setting_name_1086,Area sound volume
-param=setting_search_keywords_1088,"Area sound volume,Area sound audio"
+param=setting_search_keywords_1088,"Area sound volume,Area sound audio,audio general,general audio"
 param=setting_slider_notches_1101,21
 param=param_1102,5
 param=setting_choose_transmit_1085,yes
@@ -18707,7 +18673,7 @@ param=setting_choose_transmit_1085,yes
 param=setting_id_1077,33
 param=setting_type_1078,0
 param=setting_name_1086,Music unlock message
-param=setting_search_keywords_1088,"Music unlock message toggle,Audio unlock message toggle"
+param=setting_search_keywords_1088,"Music unlock message toggle,Audio unlock message toggle,audio general,general audio"
 param=setting_toggle_inverse_1084,yes
 param=setting_choose_transmit_1085,yes
 param=setting_desc_1096,"When enabled, a message will be shown in the chat box when you unlock a new music track."
@@ -18807,7 +18773,7 @@ param=setting_desc_1096,"When timeout is selected, the message you receive when 
 [struct_2768]
 param=setting_id_1077,46
 param=setting_type_1078,0
-param=setting_name_1086,Resizable mode - Click through transparent chatbox
+param=setting_name_1086,Click through transparent chatbox
 param=setting_name_mobile_1087,Allow tapping through the chatbox
 param=setting_search_keywords_1088,"Allow tapping through chatbox,Allow clicking through chatbox,Advanced Display Settings,Resizable mode - Click through transparent chatbox,Resizable mode Click through transparent chatbox"
 param=setting_toggle_inverse_1084,yes
@@ -19377,13 +19343,13 @@ param=setting_name_1086,Reset interface scaling
 param=setting_search_keywords_1088,Reset interface scaling
 param=param_1100,44
 param=setting_enhanced_1157,yes
-param=param_1093,1
+param=param_1093,2
 param=param_1082,enum_3502
 param=param_1083,enum_3503
 param=setting_check_fail_mes_1116,You can only change this setting while playing in resizable mode.
 
 [struct_2854]
-param=setting_search_keywords_1088,"LMS,LMS fog,last man standing,last man standing fog,Advanced Display Settings"
+param=setting_search_keywords_1088,"LMS,LMS fog,last man standing,last man standing fog,Advanced Display Settings,minigame activities,minigames activities,activities minigames"
 param=setting_id_1077,81
 param=setting_type_1078,2
 param=setting_name_1086,Last Man Standing fog colour
@@ -19410,11 +19376,6 @@ param=setting_search_keywords_1088,"timing, exact timers, boss timers,personal b
 param=setting_desc_1096,"When enabled, separates timers into hours, when applicable."
 param=setting_toggle_inverse_1084,yes
 
-[struct_2860]
-param=setting_type_1078,5
-param=setting_name_1086,Death
-param=setting_search_keywords_1088,"death,combat"
-
 [struct_2861]
 param=setting_id_1077,84
 param=setting_type_1078,0
@@ -19431,15 +19392,6 @@ param=param_569,harpoonfish_25565
 [tempoross_2867]
 param=param_689,Tempoross
 param=param_690,enum_3714
-
-[struct_2868]
-param=setting_search_keywords_1088,"collection log,cl,new item,notifications"
-param=setting_id_1077,85
-param=setting_type_1078,2
-param=setting_name_1086,Collection log - New additions
-param=setting_dropdown_list_1091,enum_3720
-param=setting_choose_transmit_1085,yes
-param=setting_desc_1096,Sends a notification whenever a new item is added to your Collection log.
 
 [hard_treasure_trails_rare_2869]
 param=param_689,Hard Treasure Trails (Rare)
@@ -19567,19 +19519,19 @@ param=param_674,1
 
 [struct_2890]
 param=setting_type_1078,5
-param=setting_name_1086,Chat colour: Opaque
-param=setting_search_keywords_1088,"Chat colour,Opaque"
+param=setting_name_1086,Chat Colour - Opaque
+param=setting_search_keywords_1088,"chat colour,opaque"
 param=param_739,yes
 
 [struct_2891]
 param=setting_type_1078,5
-param=setting_name_1086,Chat colour: Transparent
-param=setting_search_keywords_1088,"Chat colour,Transparent"
+param=setting_name_1086,Chat Colour - Transparent
+param=setting_search_keywords_1088,"chat colour,transparent"
 
 [struct_2892]
 param=setting_type_1078,5
-param=setting_name_1086,Chat colour: Split
-param=setting_search_keywords_1088,"Chat colour,Split"
+param=setting_name_1086,Chat Colour - Split
+param=setting_search_keywords_1088,"chat colour,split"
 
 [struct_2893]
 param=setting_type_1078,8
@@ -20185,18 +20137,8 @@ param=param_628,magic
 param=param_629,35
 param=param_657,65
 
-[struct_2972]
-param=setting_type_1078,5
-param=setting_name_1086,Volume Settings
-param=setting_search_keywords_1088,"volume,audio"
-
-[struct_2973]
-param=setting_type_1078,5
-param=setting_name_1086,Music Settings
-param=setting_search_keywords_1088,"music,audio"
-
 [struct_2974]
-param=setting_search_keywords_1088,"Music area mode,music,song,songs"
+param=setting_search_keywords_1088,"Music area mode,music,song,songs,audio general,general audio"
 param=setting_id_1077,110
 param=setting_type_1078,2
 param=setting_name_1086,Music area mode
@@ -20354,30 +20296,6 @@ param=param_1268,big_fishing_net_305
 param=param_1269,enum_3890
 param=param_1270,raw_tetra_25664
 
-[struct_2996]
-param=setting_type_1078,5
-param=setting_name_1086,Highlighting
-param=setting_search_keywords_1088,tile highlighting
-param=setting_enhanced_1157,yes
-
-[struct_2997]
-param=setting_type_1078,5
-param=setting_name_1086,Helpers
-param=setting_search_keywords_1088,Helpers
-param=setting_enhanced_1157,yes
-
-[struct_2998]
-param=setting_type_1078,5
-param=setting_name_1086,Buff bar
-param=setting_search_keywords_1088,buff bar
-param=setting_league_enhanced_1273,yes
-
-[struct_2999]
-param=setting_type_1078,5
-param=setting_name_1086,Modified Stats Overlay
-param=setting_search_keywords_1088,"stat boost,stat drain,modified stat"
-param=setting_enhanced_1157,yes
-
 [struct_3000]
 param=setting_type_1078,7
 param=param_1089,1
@@ -20394,7 +20312,7 @@ param=setting_league_enhanced_1273,yes
 param=setting_id_1077,10
 param=setting_type_1078,0
 param=setting_name_1086,Show boss health overlay
-param=setting_search_keywords_1088,"Show health overlay,hide health overlay,boss health overlay,Advanced Display Settings"
+param=setting_search_keywords_1088,"Show health overlay,hide health overlay,boss health overlay,Advanced Display Settings,combat activities,activities combat"
 param=setting_toggle_inverse_1084,yes
 param=setting_desc_1096,"When enabled, fighting certain bosses will display a larger health overlay."
 
@@ -20402,13 +20320,13 @@ param=setting_desc_1096,"When enabled, fighting certain bosses will display a la
 param=setting_id_1077,111
 param=setting_type_1078,0
 param=setting_name_1086,Show normal health overlay
-param=setting_search_keywords_1088,"Show health overlay,hide health overlay,health overlay,Advanced Display Settings"
+param=setting_search_keywords_1088,"Show health overlay,hide health overlay,health overlay,Advanced Display Settings,combat activities,activities combat"
 param=setting_toggle_inverse_1084,yes
 param=setting_desc_1096,"When enabled, fighting any enemies will display a small health overlay."
 param=setting_enhanced_1157,yes
 
 [struct_3004]
-param=setting_search_keywords_1088,player tile highlighting
+param=setting_search_keywords_1088,"player tile highlighting,general activities,activities general"
 param=setting_id_1077,112
 param=setting_type_1078,0
 param=setting_name_1086,Tile highlighting
@@ -20418,7 +20336,7 @@ param=setting_desc_1096,"When enabled, hold shift and right-click the ground to 
 param=setting_choose_transmit_1085,yes
 
 [struct_3005]
-param=setting_search_keywords_1088,player tile highlighting
+param=setting_search_keywords_1088,"player tile highlighting,general activities,activities general"
 param=setting_id_1077,113
 param=setting_type_1078,9
 param=setting_name_1086,Tile highlight colour
@@ -20459,7 +20377,7 @@ param=param_739,yes
 param=setting_id_1077,116
 param=setting_type_1078,0
 param=setting_name_1086,Data orbs - Regeneration indicators
-param=setting_search_keywords_1088,"Data orbs - Regeneration indicators,Data orbs Regeneration indicators,special attack,health,display"
+param=setting_search_keywords_1088,"Data orbs - Regeneration indicators,Data orbs Regeneration indicators,special attack,health,display,combat activities,activities combat"
 param=setting_desc_1096,"When enabled, adds a regeneration timer around your HP and special attack orbs on your minimap."
 param=setting_enhanced_1157,yes
 param=param_1080,enum_3891
@@ -20472,16 +20390,16 @@ param=setting_toggle_inverse_1084,yes
 param=setting_id_1077,117
 param=setting_type_1078,6
 param=setting_name_1086,Clear your highlighted tiles
-param=setting_search_keywords_1088,Clear your highlighted tiles
+param=setting_search_keywords_1088,"Clear your highlighted tiles,general activities,activities general"
 param=param_1100,44
 param=setting_enhanced_1157,yes
-param=param_1093,1
+param=param_1093,2
 
 [struct_3011]
 param=setting_id_1077,118
 param=setting_type_1078,0
 param=setting_name_1086,Chambers of Xeric helper
-param=setting_search_keywords_1088,"chambers of xeric helper,cox helper"
+param=setting_search_keywords_1088,"chambers of xeric helper,cox helper,combat activities,activities combat"
 param=setting_desc_1096,"When enabled, the Chambers of Xeric helper will be shown when in a Chambers of Xeric raid."
 param=setting_enhanced_1157,yes
 param=setting_toggle_inverse_1084,yes
@@ -20500,7 +20418,7 @@ param=setting_choose_transmit_1085,yes
 param=setting_id_1077,120
 param=setting_type_1078,0
 param=setting_name_1086,Fishing spot indicators
-param=setting_search_keywords_1088,"fishing spot indicators,small fishing net,big fishing net,drift net,fishing rod,fly fishing rod,oily fishing rod,barbarian rod,harpoon,lobster pot,cormorants glove,karambwan vessel"
+param=setting_search_keywords_1088,"fishing spot indicators,small fishing net,big fishing net,drift net,fishing rod,fly fishing rod,oily fishing rod,barbarian rod,harpoon,lobster pot,cormorants glove,karambwan vessel,skills activities,skill activities,activities skill,skilling activities"
 param=setting_desc_1096,"When enabled, fishing spots will be highlighted and the fish the spot gives will be shown above the fishing spot. You can hover over the fish shown to see every fish that can be caught at the spot."
 param=setting_enhanced_1157,yes
 param=setting_toggle_inverse_1084,yes
@@ -20509,7 +20427,7 @@ param=setting_toggle_inverse_1084,yes
 param=setting_id_1077,121
 param=setting_type_1078,0
 param=setting_name_1086,Fishing spot indicators - Tools only
-param=setting_search_keywords_1088,"fishing spot indicators,small fishing net,big fishing net,drift net,fishing rod,fly fishing rod,oily fishing rod,barbarian rod,harpoon,lobster pot,cormorants glove,karambwan vessel"
+param=setting_search_keywords_1088,"fishing spot indicators,small fishing net,big fishing net,drift net,fishing rod,fly fishing rod,oily fishing rod,barbarian rod,harpoon,lobster pot,cormorants glove,karambwan vessel,skills activities,skill activities,activities skill,skilling activities"
 param=setting_desc_1096,"When enabled, fishing spot indicators will only be shown if you have a tool that can be used at the fishing spot. When disabled, show fishing spot indicators regardless of tools."
 param=setting_enhanced_1157,yes
 param=param_739,yes
@@ -20524,7 +20442,7 @@ param=setting_seemore_group_1090,1
 param=setting_id_1077,122
 param=setting_type_1078,0
 param=setting_name_1086,Fishing spot indicators - Mouse over tooltip
-param=setting_search_keywords_1088,"fishing spot indicators,small fishing net,big fishing net,drift net,fishing rod,fly fishing rod,oily fishing rod,barbarian rod,harpoon,lobster pot,cormorants glove,karambwan vessel"
+param=setting_search_keywords_1088,"fishing spot indicators,small fishing net,big fishing net,drift net,fishing rod,fly fishing rod,oily fishing rod,barbarian rod,harpoon,lobster pot,cormorants glove,karambwan vessel,skills activities,skill activities,activities skill,skilling activities"
 param=setting_desc_1096,"When enabled, hovering over a fishing spot indicator will show all the fish the spot has to offer."
 param=setting_enhanced_1157,yes
 param=setting_toggle_inverse_1084,yes
@@ -22138,7 +22056,7 @@ param=param_1307,struct_3594
 param=param_1306,36
 param=param_1312,4
 param=param_1308,Bryophyta Champion
-param=param_1309,Kill Bryophyta 10 times.
+param=param_1309,Kill Bryophyta 5 times.
 param=param_1310,2
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22201,7 +22119,7 @@ param=param_1307,struct_3594
 param=param_1306,43
 param=param_1312,5
 param=param_1308,Callisto Veteran
-param=param_1309,Kill Callisto 150 times.
+param=param_1309,Kill Callisto 100 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22273,7 +22191,7 @@ param=param_1307,struct_3594
 param=param_1306,51
 param=param_1312,6
 param=param_1308,Cerberus Veteran
-param=param_1309,Kill Cerberus 250 times.
+param=param_1309,Kill Cerberus 150 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22282,7 +22200,7 @@ param=param_1307,struct_3594
 param=param_1306,52
 param=param_1312,6
 param=param_1308,Cerberus Master
-param=param_1309,Kill Cerberus 500 times.
+param=param_1309,Kill Cerberus 250 times.
 param=param_1310,5
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22399,7 +22317,7 @@ param=param_1307,struct_3594
 param=param_1306,65
 param=param_1312,12
 param=param_1308,Corporeal Beast Veteran
-param=param_1309,Kill the Corporeal Beast 100 times.
+param=param_1309,Kill the Corporeal Beast 50 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22408,7 +22326,7 @@ param=param_1307,struct_3594
 param=param_1306,66
 param=param_1312,12
 param=param_1308,Corporeal Beast Master
-param=param_1309,Kill the Corporeal Beast 250 times.
+param=param_1309,Kill the Corporeal Beast 150 times.
 param=param_1310,5
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22696,7 +22614,7 @@ param=param_1307,struct_3594
 param=param_1306,98
 param=param_1312,19
 param=param_1308,Corrupted Gauntlet Veteran
-param=param_1309,Complete the Corrupted Gauntlet 50 times.
+param=param_1309,Complete the Corrupted Gauntlet 10 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22705,7 +22623,7 @@ param=param_1307,struct_3594
 param=param_1306,99
 param=param_1312,19
 param=param_1308,Corrupted Gauntlet Master
-param=param_1309,Complete the Corrupted Gauntlet 100 times.
+param=param_1309,Complete the Corrupted Gauntlet 50 times.
 param=param_1310,5
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22714,7 +22632,7 @@ param=param_1307,struct_3594
 param=param_1306,100
 param=param_1312,19
 param=param_1308,Corrupted Gauntlet Grandmaster
-param=param_1309,Complete the Corrupted Gauntlet 200 times.
+param=param_1309,Complete the Corrupted Gauntlet 150 times.
 param=param_1310,6
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22804,7 +22722,7 @@ param=param_1307,struct_3594
 param=param_1306,110
 param=param_1312,18
 param=param_1308,Gauntlet Master
-param=param_1309,Complete the Gauntlet 50 times.
+param=param_1309,Complete the Gauntlet 100 times.
 param=param_1310,5
 param=param_1311,3
 param=param_1307,struct_3594
@@ -22984,7 +22902,7 @@ param=param_1307,struct_3594
 param=param_1306,130
 param=param_1312,31
 param=param_1308,Obor Champion
-param=param_1309,Kill Obor 10 times.
+param=param_1309,Kill Obor 5 times.
 param=param_1310,2
 param=param_1311,3
 param=param_1307,struct_3594
@@ -23029,7 +22947,7 @@ param=param_1307,struct_3594
 param=param_1306,135
 param=param_1312,2
 param=param_1308,Alchemical Master
-param=param_1309,Kill the Alchemical Hydra 250 times.
+param=param_1309,Kill the Alchemical Hydra 150 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -23038,7 +22956,7 @@ param=param_1307,struct_3594
 param=param_1306,136
 param=param_1312,2
 param=param_1308,Alchemical Grandmaster
-param=param_1309,Kill the Alchemical Hydra 500 times.
+param=param_1309,Kill the Alchemical Hydra 250 times.
 param=param_1310,5
 param=param_1311,3
 param=param_1307,struct_3594
@@ -23385,6 +23303,9 @@ param=param_1310,1
 param=param_1311,3
 param=param_1307,struct_3594
 
+[struct_3315]
+param=param_1347,log_balance_23145
+
 [struct_3316]
 param=param_1306,176
 param=param_1312,29
@@ -23507,7 +23428,7 @@ param=param_1306,189
 param=param_1312,30
 param=param_1308,Sleep Tight
 param=param_1309,Kill the Nightmare solo.
-param=param_1310,5
+param=param_1310,4
 param=param_1311,5
 param=param_1307,struct_3594
 
@@ -23525,7 +23446,7 @@ param=param_1306,191
 param=param_1312,30
 param=param_1308,Nightmare (Solo) Speed-Trialist
 param=param_1309,Defeat the Nightmare (Solo) in less than 23 minutes.
-param=param_1310,4
+param=param_1310,5
 param=param_1311,6
 param=param_1307,struct_3594
 
@@ -23830,7 +23751,7 @@ param=param_1307,struct_3594
 param=param_1306,225
 param=param_1312,48
 param=param_1308,Zulrah Veteran
-param=param_1309,Kill Zulrah 250 times.
+param=param_1309,Kill Zulrah 150 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -23839,7 +23760,7 @@ param=param_1307,struct_3594
 param=param_1306,226
 param=param_1312,48
 param=param_1308,Zulrah Master
-param=param_1309,Kill Zulrah 500 times.
+param=param_1309,Kill Zulrah 250 times.
 param=param_1310,5
 param=param_1311,3
 param=param_1307,struct_3594
@@ -24190,7 +24111,7 @@ param=param_1307,struct_3594
 param=param_1306,265
 param=param_1312,43
 param=param_1308,Venenatis Veteran
-param=param_1309,Kill Venenatis 150 times.
+param=param_1309,Kill Venenatis 100 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -24208,7 +24129,7 @@ param=param_1307,struct_3594
 param=param_1306,267
 param=param_1312,44
 param=param_1308,Vet'eran
-param=param_1309,Kill Vet'ion 150 times.
+param=param_1309,Kill Vet'ion 100 times.
 param=param_1310,4
 param=param_1311,3
 param=param_1307,struct_3594
@@ -26271,8 +26192,404 @@ param=param_1292,yes
 param=param_1306,175
 param=param_1312,54
 param=param_1308,Shayzien Protector
-param=param_1309,Kill a Lizardman Shaman in Molch which has not dealt damage to anyone. (excluding it's Spawns)
+param=param_1309,Kill a Lizardman Shaman in Molch which has not dealt damage to anyone (excluding it's Spawns).
 param=param_1310,1
 param=param_1311,2
 param=param_1307,struct_3594
+
+[struct_3601]
+param=param_1347,ladder_3617
+
+[struct_3602]
+param=param_1347,rough_wall_11404
+
+[struct_3603]
+param=param_1347,rough_wall_11633
+
+[struct_3604]
+param=param_1349,skullball_boss_5923
+
+[struct_3605]
+param=param_1347,stairs_10857
+param=param_1348,0_52_44_26_15
+
+[struct_3606]
+param=param_1347,rough_wall_14412
+
+[struct_3607]
+param=param_1347,ropeswing_23131
+
+[struct_3608]
+param=param_1347,tall_tree_14843
+
+[struct_3609]
+param=param_1347,stepping_stone_15412
+
+[struct_3610]
+param=param_1347,rough_wall_14898
+
+[struct_3611]
+param=param_1347,obstacle_pipe_23137
+
+[struct_3612]
+param=param_1347,stepping_stone_11643
+
+[struct_3613]
+param=param_1347,wall_14927
+
+[struct_3614]
+param=param_1349,turgall_2295
+
+[struct_3615]
+param=param_1347,basket_14935
+
+[struct_3616]
+param=param_1347,ladder_36221
+
+[struct_3617]
+param=param_1347,rough_wall_14946
+
+[struct_3618]
+param=param_1347,wooden_beams_15608
+
+[struct_3619]
+param=param_1347,ladder_42209
+
+[struct_3620]
+param=setting_category_id_743,0
+param=setting_category_name_744,Activities
+param=setting_category_list_745,enum_4024
+
+[struct_3621]
+param=setting_category_id_743,6
+param=setting_category_name_744,Interfaces
+param=setting_category_list_745,enum_4025
+
+[struct_3622]
+param=setting_category_id_743,7
+param=setting_category_name_744,Warnings
+param=setting_category_list_745,enum_4026
+
+[struct_3623]
+param=setting_type_1078,5
+param=setting_name_1086,General
+param=setting_search_keywords_1088,"volume,audio general,general audio"
+
+[struct_3624]
+param=setting_type_1078,5
+param=setting_name_1086,General
+param=setting_search_keywords_1088,"general activities,activities general"
+
+[struct_3625]
+param=setting_type_1078,5
+param=setting_name_1086,Skills
+param=setting_search_keywords_1088,"skills activities,skill activities,activities skill,skilling activities"
+
+[struct_3626]
+param=setting_type_1078,5
+param=setting_name_1086,Combat
+param=setting_search_keywords_1088,"combat activities,activities combat"
+
+[struct_3627]
+param=setting_type_1078,5
+param=setting_name_1086,Minigames
+param=setting_search_keywords_1088,"minigame activities,minigames activities,activities minigames"
+
+[struct_3628]
+param=setting_type_1078,5
+param=setting_name_1086,Control Options
+param=setting_search_keywords_1088,"controls,control options,options controls"
+
+[struct_3629]
+param=setting_type_1078,5
+param=setting_name_1086,Keybinds
+param=setting_search_keywords_1088,"side panel keybinds,hotkeys,controls"
+param=param_739,yes
+
+[struct_3630]
+param=setting_type_1078,5
+param=setting_name_1086,Graphics
+param=setting_search_keywords_1088,"graphics display,display graphics"
+
+[struct_3631]
+param=setting_type_1078,5
+param=setting_name_1086,Tooltips
+param=setting_search_keywords_1088,"interfaces tooltips,tooltips interfaces,interface tooltips"
+
+[struct_3632]
+param=setting_type_1078,5
+param=setting_name_1086,Resizable
+param=setting_search_keywords_1088,"interfaces resizable,resizable interfaces,interface resizable"
+
+[struct_3633]
+param=setting_type_1078,5
+param=setting_name_1086,Modified Stats Overlay
+param=setting_search_keywords_1088,"stat boost,stat drain,modified stat"
+param=setting_enhanced_1157,yes
+
+[struct_3634]
+param=setting_type_1078,5
+param=setting_name_1086,Buff Bar
+param=setting_search_keywords_1088,buff bar
+param=setting_league_enhanced_1273,yes
+
+[struct_3635]
+param=setting_type_1078,5
+param=setting_name_1086,Options
+param=setting_search_keywords_1088,"gameplay options,options gameplay"
+
+[struct_3636]
+param=setting_type_1078,5
+param=setting_name_1086,General
+param=setting_search_keywords_1088,"interfaces general,general interfaces, interface general"
+
+[struct_3637]
+param=setting_type_1078,5
+param=setting_name_1086,Teleports
+param=setting_search_keywords_1088,"warnings teleports,teleport warnings"
+
+[struct_3638]
+param=setting_type_1078,5
+param=setting_name_1086,Tablets
+param=setting_search_keywords_1088,"tablets,warning teleports,teleport warnings,tablet warnings,warnings tablets"
+
+[struct_3639]
+param=setting_type_1078,5
+param=setting_name_1086,Items
+param=setting_search_keywords_1088,"items warning,alch warning,warnings item"
+
+[struct_3640]
+param=setting_search_keywords_1088,"collection log,cl,new item,notifications"
+param=setting_id_1077,85
+param=setting_type_1078,0
+param=setting_name_1086,Collection log - New addition notification
+param=setting_desc_1096,Sends a chat notification whenever a new item is added to your Collection log.
+
+[struct_3641]
+param=setting_search_keywords_1088,"collection log,cl,new item,popup"
+param=setting_id_1077,171
+param=setting_type_1078,0
+param=setting_name_1086,Collection log - New addition popup
+param=setting_desc_1096,Opens a popup whenever a new item is added to your Collection log.
+
+[struct_3642]
+param=setting_id_1077,163
+param=setting_type_1078,0
+param=setting_name_1086,Agility helper
+param=setting_search_keywords_1088,"agility helper,agil helper,skills activities,skill activities,activities skill,skilling activities"
+param=setting_desc_1096,"When enabled, the Agility helper will be shown when on Agility courses."
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,yes
+
+[struct_3643]
+param=setting_id_1077,164
+param=setting_type_1078,0
+param=setting_name_1086,Highlight agility obstacles
+param=setting_search_keywords_1088,"agility obstacles,agil obstacles,obstacles,highlight,hilight,skills activities,skill activities,activities skill,skilling activities"
+param=setting_desc_1096,"When enabled, Agility obstacles will be highlighted in the game world, for the course that you are training on."
+param=setting_enhanced_1157,yes
+
+[struct_3644]
+param=setting_id_1077,165
+param=setting_type_1078,0
+param=setting_name_1086,Highlight agility shortcuts
+param=setting_search_keywords_1088,"agility shortcuts,agil shortcuts,shortcuts,highlight,hilight,skills activities,skill activities,activities skill,skilling activities"
+param=setting_desc_1096,"When enabled, Agility shortcuts will be highlighted in the game world."
+param=setting_enhanced_1157,yes
+
+[struct_3645]
+param=setting_search_keywords_1088,"hover mouseover tile highlighting indicator,general activities,activities general"
+param=setting_id_1077,172
+param=setting_type_1078,0
+param=setting_name_1086,Highlight hovered tile
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, highlights the tile under the mouse."
+param=setting_choose_transmit_1085,yes
+
+[struct_3646]
+param=setting_search_keywords_1088,"player current true tile highlighting indicator,general activities,activities general"
+param=setting_id_1077,175
+param=setting_type_1078,0
+param=setting_name_1086,Highlight current tile
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, highlights the tile you are currently on."
+param=setting_choose_transmit_1085,yes
+
+[struct_3647]
+param=setting_search_keywords_1088,"destination tile highlighting indicator,general activities,activities general"
+param=setting_id_1077,178
+param=setting_type_1078,0
+param=setting_name_1086,Highlight destination tile
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, highlights the tile you are moving to."
+param=setting_choose_transmit_1085,yes
+
+[struct_3648]
+param=setting_search_keywords_1088,"hover mouseover tile highlighting indicator colour,general activities,activities general"
+param=setting_id_1077,174
+param=setting_type_1078,9
+param=setting_name_1086,Highlight hovered tile - Colour
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_desc_1096,Colour to highlight the tile under the mouse.
+param=setting_colour_default_1230,12499566
+param=param_1080,enum_4027
+param=param_1081,enum_4028
+param=setting_check_fail_mes_1116,Highlight hovered tile must be enabled for this setting to have any effect.
+
+[struct_3649]
+param=setting_search_keywords_1088,"player current true tile highlighting indicator colour,general activities,activities general"
+param=setting_id_1077,177
+param=setting_type_1078,9
+param=setting_name_1086,Highlight current tile - Colour
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_desc_1096,Colour to highlight the tile you are currently on.
+param=setting_colour_default_1230,10131251
+param=param_1080,enum_4029
+param=param_1081,enum_4030
+param=setting_check_fail_mes_1116,Highlight current tile must be enabled for this setting to have any effect.
+
+[struct_3650]
+param=setting_search_keywords_1088,"player destination true tile highlighting indicator colour,general activities,activities general"
+param=setting_id_1077,180
+param=setting_type_1078,9
+param=setting_name_1086,Highlight destination tile - Colour
+param=setting_choose_transmit_1085,yes
+param=setting_enhanced_1157,yes
+param=setting_desc_1096,Colour to highlight the tile you are moving to.
+param=setting_colour_default_1230,11118419
+param=param_1080,enum_4031
+param=param_1081,enum_4032
+param=setting_check_fail_mes_1116,Highlight destination tile must be enabled for this setting to have any effect.
+
+[struct_3651]
+param=setting_search_keywords_1088,"hover mouseover tile highlighting indicator always on top,general activities,activities general"
+param=setting_id_1077,173
+param=setting_type_1078,0
+param=setting_name_1086,Highlight hovered tile - Always on top
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, shows the hovered tile highlight over objects in the world."
+param=param_1080,enum_4027
+param=param_1081,enum_4028
+param=setting_check_fail_mes_1116,Highlight hovered tile must be enabled for this setting to have any effect.
+param=setting_choose_transmit_1085,yes
+
+[struct_3652]
+param=setting_search_keywords_1088,"player current true tile highlighting indicator always on top,general activities,activities general"
+param=setting_id_1077,176
+param=setting_type_1078,0
+param=setting_name_1086,Highlight current tile - Always on top
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, shows the current tile highlight over objects in the world."
+param=param_1080,enum_4029
+param=param_1081,enum_4030
+param=setting_check_fail_mes_1116,Highlight current tile must be enabled for this setting to have any effect.
+param=setting_choose_transmit_1085,yes
+
+[struct_3653]
+param=setting_search_keywords_1088,"destination tile highlighting indicator always on top,general activities,activities general"
+param=setting_id_1077,179
+param=setting_type_1078,0
+param=setting_name_1086,Highlight destination tile - Always on top
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,no
+param=setting_desc_1096,"When enabled, shows the destination tile highlight over objects in the world."
+param=param_1080,enum_4031
+param=param_1081,enum_4032
+param=setting_check_fail_mes_1116,Highlight destination tile must be enabled for this setting to have any effect.
+param=setting_choose_transmit_1085,yes
+
+[struct_3654]
+param=setting_id_1077,166
+param=setting_type_1078,0
+param=setting_name_1086,Enable Minimap zoom
+param=setting_search_keywords_1088,"mini map,lock mini map zoom,enable mini map zoom"
+param=setting_desc_1096,"When enabled, allows you to increase and decrease the zoom of the minimap by scrolling, while the mouse cursor over the minimap."
+param=setting_enhanced_1157,yes
+param=setting_toggle_inverse_1084,yes
+param=param_739,yes
+
+[struct_3655]
+param=setting_id_1077,167
+param=setting_type_1078,6
+param=setting_name_1086,Restore Minimap zoom
+param=setting_search_keywords_1088,Restore Minimap zoom
+param=param_1100,44
+param=param_739,yes
+param=setting_enhanced_1157,yes
+param=param_1093,2
+
+[struct_3656]
+param=setting_id_1077,168
+param=setting_type_1078,1
+param=setting_name_1086,View distance
+param=setting_search_keywords_1088,draw render view distance
+param=setting_slider_transmit_1105,yes
+param=setting_enhanced_1157,yes
+param=setting_slider_notches_1101,33
+param=param_1102,5
+param=setting_desc_1096,Change how far you can see the landscape. This does not affect view distance of other players or interact distance.
+param=setting_choose_transmit_1085,no
+
+[struct_3657]
+param=setting_search_keywords_1088,ui interface scaling scale mode
+param=setting_id_1077,169
+param=setting_type_1078,2
+param=setting_name_1086,Interface scaling mode
+param=setting_dropdown_list_1091,enum_4033
+param=setting_enhanced_1157,yes
+param=setting_choose_transmit_1085,no
+param=setting_desc_1096,"Change how the interface is scaled, this affects the quality and performance of the scaling."
+
+[struct_3658]
+param=setting_id_1077,170
+param=setting_type_1078,0
+param=setting_name_1086,Remaining ammo
+param=setting_search_keywords_1088,buff bar
+param=setting_desc_1096,"When enabled, shows your remaining ammo.."
+param=setting_enhanced_1157,yes
+param=setting_seemore_group_1090,2
+param=setting_toggle_inverse_1084,yes
+
+[struct_3659]
+param=param_1276,47872
+param=param_1277,5
+param=param_1280,0_0_0_36_32
+param=param_1284,0_0_0_2_0
+param=param_1288,yes
+param=param_1352,yes
+param=param_1351,13
+param=param_1283,worn
+param=param_1289,41
+param=param_1279,Ammo remaining.
+
+[struct_3660]
+param=param_1276,47872
+param=param_1277,5
+param=param_1280,0_0_0_36_32
+param=param_1284,0_0_0_2_0
+param=param_1288,yes
+param=param_1352,yes
+param=param_1351,3
+param=param_1283,worn
+param=param_1289,41
+param=param_1279,Ammo remaining.
+
+[struct_3661]
+param=param_1276,47872
+param=param_1277,1
+param=param_1280,0_0_0_36_32
+param=param_1284,0_0_0_2_0
+param=param_1288,yes
+param=param_1352,yes
+param=param_1351,3
+param=param_1283,worn
+param=param_1289,42
+param=param_1279,Ammo remaining.
 

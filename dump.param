@@ -213,6 +213,9 @@ autodisable=no
 [param_412]
 autodisable=no
 
+[param_432]
+autodisable=no
+
 [param_445]
 autodisable=no
 
@@ -2083,4 +2086,26 @@ default=null
 [param_1346]
 type=mapelement
 default=null
+
+[param_1347]
+type=loc
+default=null
+
+[param_1348]
+type=coordgrid
+default=null
+
+[param_1349]
+type=npc
+default=null
+
+[param_1350]
+type=enum
+default=null
+
+[param_1351]
+type=int
+
+[param_1352]
+type=boolean
 

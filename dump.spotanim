@@ -12953,3 +12953,11 @@ contrast=40
 recol1s=11156
 recol1d=24206
 
+[spotanim_1969]
+model=model_3569
+anim=seq_1102
+recol1s=22426
+recol1d=57261
+recol2s=16320
+recol2d=57271
+
