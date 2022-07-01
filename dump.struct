@@ -5194,6 +5194,17 @@ param=league_task_name_874,Level 80 Firemaking
 param=league_task_description_875,Reach level 80 in your Firemaking skill.
 param=league_task_tier_876,3
 
+[a_night_at_the_theatre_949]
+param=param_579,"Night at the Theatre, A"
+param=param_610,A Night at the Theatre
+param=param_611,1
+param=param_612,3
+param=param_613,0
+param=param_1162,32
+param=param_1160,2
+param=param_648,priest_in_peril_408
+param=param_657,90
+
 [struct_950]
 param=setting_type_1078,5
 param=setting_name_1086,Controls
@@ -17138,11 +17149,12 @@ param=setting_desc_1096,"If you go to drop an item that is worth more than this 
 
 [struct_2767]
 param=setting_id_1077,44
-param=setting_type_1078,0
-param=setting_name_1086,Friend Login/Logout message timeout
+param=setting_type_1078,2
+param=setting_dropdown_list_1091,enum_3499
+param=setting_name_1086,Friend Login/Logout messages
 param=setting_search_keywords_1088,"Friend Login/Logout message timeout Friend Login Logout message timeout,Game chat"
 param=setting_toggle_inverse_1084,yes
-param=setting_desc_1096,"When enabled, the message you receive when a friend logs in will be removed after an amount of time."
+param=setting_desc_1096,"When timeout is selected, the message you receive when a friend logs in will be removed after an amount of time."
 
 [struct_2768]
 param=setting_id_1077,46
@@ -18147,7 +18159,7 @@ param=setting_check_fail_mes_1116,You must have the transparent chatbox enabled 
 param=param_1186,yes
 
 [struct_2914]
-param=setting_id_1077,105
+param=setting_id_1077,107
 param=setting_type_1078,6
 param=setting_name_1086,Reset opaque chat colours
 param=setting_search_keywords_1088,"reset,opaque,chat,colour,defaults"
@@ -18159,7 +18171,7 @@ param=setting_check_fail_mes_1116,You must have the transparent chatbox disabled
 param=param_739,yes
 
 [struct_2915]
-param=setting_id_1077,106
+param=setting_id_1077,108
 param=setting_type_1078,6
 param=setting_name_1086,Reset transparent chat colours
 param=setting_search_keywords_1088,"reset,transparent,chat,colour,defaults"
@@ -18173,7 +18185,7 @@ param=setting_check_fail_mes_1116,You must have the transparent chatbox enabled 
 param=param_1186,yes
 
 [struct_2916]
-param=setting_id_1077,107
+param=setting_id_1077,109
 param=setting_type_1078,6
 param=setting_name_1086,Reset split chat colours
 param=setting_search_keywords_1088,"reset,split,chat,colour,defaults"
@@ -18527,9 +18539,33 @@ param=setting_search_keywords_1088,"music,audio"
 
 [struct_2974]
 param=setting_search_keywords_1088,"Music area mode,music,song,songs"
-param=setting_id_1077,108
+param=setting_id_1077,110
 param=setting_type_1078,2
 param=setting_name_1086,Music area mode
 param=setting_dropdown_list_1091,enum_684
 param=setting_desc_1096,Which music area mode to use. Modern uses large areas with multiple music tracks assigned to each area. Classic uses small areas with one music track per area.
+
+[struct_2975]
+param=setting_search_keywords_1088,"chat,chat,colour,guest,request,guest clan,opaque,Chat Settings"
+param=setting_id_1077,105
+param=setting_type_1078,9
+param=setting_colour_default_1230,31232
+param=setting_name_1086,Guest clan chat
+param=setting_choose_transmit_1085,yes
+param=param_1115,yes
+param=setting_check_fail_mes_1116,You must have the transparent chatbox disabled or be in fixed mode to change this setting.
+param=param_739,yes
+
+[struct_2976]
+param=setting_search_keywords_1088,"chat,chat,colour,guest,request,guest clan,transparent,Chat Settings"
+param=setting_id_1077,106
+param=setting_type_1078,9
+param=setting_colour_default_1230,54016
+param=setting_name_1086,Guest clan chat
+param=setting_choose_transmit_1085,yes
+param=param_1080,enum_3846
+param=param_1082,enum_3502
+param=param_1083,enum_3503
+param=setting_check_fail_mes_1116,You must have the transparent chatbox enabled and be in resizable mode to change this setting.
+param=param_1186,yes
 

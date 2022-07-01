@@ -1,7 +1,7 @@
 [interface_23:0]
 type=^iftype_layer
 width=240
-height=180
+height=220
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 
@@ -18,7 +18,7 @@ onload="script227(event_com,Theatre of Blood)"
 type=^iftype_layer
 y=10
 width=20
-height=50
+height=63
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
@@ -28,7 +28,7 @@ layer=interface_23:0
 [interface_23:3]
 type=^iftype_model
 width=125
-height=130
+height=170
 vposmode=^setpos_abs_centre
 layer=interface_23:2
 model=model_1070
@@ -41,7 +41,7 @@ zoom=700
 [interface_23:4]
 type=^iftype_model
 width=125
-height=130
+height=170
 vposmode=^setpos_abs_centre
 layer=interface_23:2
 model=model_1048
@@ -56,7 +56,6 @@ type=^iftype_model
 width=130
 height=130
 hposmode=^setpos_abs_right
-vposmode=^setpos_abs_centre
 layer=interface_23:2
 model=monumental_chest_35414
 originx=-20
@@ -139,6 +138,6 @@ graphic="bankbuttons,6"
 [interface_23:12]
 type=^iftype_layer
 width=92
-height=79
+height=119
 layer=interface_23:2
 

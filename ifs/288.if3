@@ -54,12 +54,30 @@ onload="script714(event_com)"
 type=^iftype_layer
 x=3
 y=1
-width=2
+width=123
 height=89
 hsizemode=^setsize_minus
 layer=interface_288:5
 
 [interface_288:7]
+type=^iftype_layer
+x=260
+y=1
+width=260
+height=89
+hsizemode=^setsize_minus
+layer=interface_288:5
+
+[interface_288:8]
+type=^iftype_layer
+x=260
+y=1
+width=260
+height=89
+hsizemode=^setsize_minus
+layer=interface_288:5
+
+[interface_288:9]
 type=^iftype_layer
 x=3
 y=1
@@ -70,25 +88,25 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_288:5
 
-[interface_288:8]
+[interface_288:10]
 type=^iftype_layer
 x=2
 width=16
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_288:7
+layer=interface_288:9
 
-[interface_288:9]
+[interface_288:11]
 type=^iftype_layer
 x=18
 width=18
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_288:7
+layer=interface_288:9
 
-[interface_288:10]
+[interface_288:12]
 type=^iftype_layer
 x=-50
 y=10
@@ -98,7 +116,7 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 layer=interface_288:3
 
-[interface_288:11]
+[interface_288:13]
 type=^iftype_layer
 x=50
 y=10

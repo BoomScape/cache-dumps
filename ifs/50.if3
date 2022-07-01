@@ -4,7 +4,7 @@ width=500
 height=325
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
-onload="script2316(event_com,3276803,3276807,3276813,3276826,3276827,3276830,3276841,3276842,3276808,3276846,3276847,3276851,3276855)"
+onload="script2316(event_com,3276804,3276808,3276814,3276827,3276828,3276831,3276842,3276802,3276809,3276846,3276849,3276853,3276857,3276847)"
 
 [interface_50:1]
 type=^iftype_layer
@@ -16,6 +16,14 @@ layer=interface_50:0
 
 [interface_50:2]
 type=^iftype_layer
+x=7
+y=7
+width=21
+height=21
+layer=interface_50:0
+
+[interface_50:3]
+type=^iftype_layer
 y=10
 width=20
 height=50
@@ -25,33 +33,33 @@ hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_50:0
 
-[interface_50:3]
+[interface_50:4]
 type=^iftype_layer
 height=96
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_50:2
+layer=interface_50:3
 
-[interface_50:4]
+[interface_50:5]
 type=^iftype_graphic
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:3
+layer=interface_50:4
 graphic="tradebacking_light"
 tiling=yes
 
-[interface_50:5]
+[interface_50:6]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:3
+layer=interface_50:4
 colour=0xf0f0d
 
-[interface_50:6]
+[interface_50:7]
 type=^iftype_rectangle
 width=2
 height=2
@@ -59,40 +67,40 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:3
+layer=interface_50:4
 colour=0x474745
 
-[interface_50:7]
+[interface_50:8]
 type=^iftype_layer
 height=29
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_50:3
+layer=interface_50:4
 onload="script714(event_com)"
 
-[interface_50:8]
+[interface_50:9]
 type=^iftype_layer
 x=2
 width=78
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:7
+layer=interface_50:8
 
-[interface_50:9]
+[interface_50:10]
 type=^iftype_layer
-x=84
+x=83
 width=84
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:7
+layer=interface_50:8
 
-[interface_50:10]
+[interface_50:11]
 type=^iftype_model
 width=160
 height=29
 vposmode=^setpos_abs_centre
-layer=interface_50:9
+layer=interface_50:10
 model=model_35735
 originx=-232
 originy=-4
@@ -100,12 +108,12 @@ xan=512
 yan=626
 zoom=1900
 
-[interface_50:11]
+[interface_50:12]
 type=^iftype_model
 width=160
 height=29
 vposmode=^setpos_abs_centre
-layer=interface_50:9
+layer=interface_50:10
 model=model_35736
 originx=-137
 originy=19
@@ -113,12 +121,12 @@ xan=512
 yan=1530
 zoom=1600
 
-[interface_50:12]
+[interface_50:13]
 type=^iftype_model
 width=160
 height=29
 vposmode=^setpos_abs_centre
-layer=interface_50:9
+layer=interface_50:10
 model=model_35735
 originx=-43
 originy=3
@@ -126,19 +134,19 @@ xan=512
 yan=1405
 zoom=1900
 
-[interface_50:13]
+[interface_50:14]
 type=^iftype_layer
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:9
+layer=interface_50:10
 
-[interface_50:14]
+[interface_50:15]
 type=^iftype_model
 width=160
 height=29
 vposmode=^setpos_abs_centre
-layer=interface_50:13
+layer=interface_50:14
 model=model_1097
 originx=-232
 originy=-4
@@ -146,12 +154,12 @@ xan=512
 yan=626
 zoom=1900
 
-[interface_50:15]
+[interface_50:16]
 type=^iftype_model
 width=160
 height=29
 vposmode=^setpos_abs_centre
-layer=interface_50:13
+layer=interface_50:14
 model=model_1048
 originx=-137
 originy=19
@@ -159,12 +167,12 @@ xan=512
 yan=1530
 zoom=1600
 
-[interface_50:16]
+[interface_50:17]
 type=^iftype_model
 width=160
 height=29
 vposmode=^setpos_abs_centre
-layer=interface_50:13
+layer=interface_50:14
 model=model_1097
 originx=-43
 originy=3
@@ -172,102 +180,102 @@ xan=512
 yan=1405
 zoom=1900
 
-[interface_50:17]
+[interface_50:18]
 type=^iftype_graphic
-x=168
+x=165
 width=32
 height=36
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="side_icons,0"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Combat level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Combat level,25,400)"
 
-[interface_50:18]
+[interface_50:19]
 type=^iftype_graphic
 x=202
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="staticons,0"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Attack level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Attack level,25,400)"
 
-[interface_50:19]
+[interface_50:20]
 type=^iftype_graphic
 x=227
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="staticons,1"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Strength level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Strength level,25,400)"
 
-[interface_50:20]
+[interface_50:21]
 type=^iftype_graphic
 x=252
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="staticons,3"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Ranged level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Ranged level,25,400)"
 
-[interface_50:21]
+[interface_50:22]
 type=^iftype_graphic
 x=277
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="staticons,5"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Magic level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Magic level,25,400)"
 
-[interface_50:22]
+[interface_50:23]
 type=^iftype_graphic
 x=302
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="staticons,2"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Defence level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Defence level,25,400)"
 
-[interface_50:23]
+[interface_50:24]
 type=^iftype_graphic
 x=327
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="staticons,6"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Hitpoints level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Hitpoints level,25,400)"
 
-[interface_50:24]
+[interface_50:25]
 type=^iftype_graphic
 x=352
 width=25
 height=25
 vposmode=^setpos_abs_centre
-layer=interface_50:7
+layer=interface_50:8
 graphic="staticons,4"
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Prayer level,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Prayer level,25,400)"
 
-[interface_50:25]
+[interface_50:26]
 type=^iftype_model
 x=2
 width=379
 hposmode=^setpos_abs_right
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:7
+layer=interface_50:8
 model=model_1070
 originx=-20
 originy=-5
@@ -276,10 +284,10 @@ yan=1700
 zoom=1245
 viewportwid=101
 viewporthei=101
-onmouseleave="script40(3276856)"
-onmouserepeat="script526(event_com,-1,3276856,Performance counter,25,400)"
+onmouseleave="script40(3276858)"
+onmouserepeat="script526(event_com,-1,3276858,Performance counter,25,400)"
 
-[interface_50:26]
+[interface_50:27]
 type=^iftype_layer
 y=2
 width=4
@@ -287,27 +295,27 @@ height=65
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
-layer=interface_50:3
+layer=interface_50:4
 
-[interface_50:27]
+[interface_50:28]
 type=^iftype_layer
 y=98
 height=125
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:2
+layer=interface_50:3
 
-[interface_50:28]
+[interface_50:29]
 type=^iftype_rectangle
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:27
+layer=interface_50:28
 colour=0xf0f0d
 
-[interface_50:29]
+[interface_50:30]
 type=^iftype_rectangle
 width=2
 height=2
@@ -315,99 +323,99 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:27
+layer=interface_50:28
 colour=0x474745
 
-[interface_50:30]
+[interface_50:31]
 type=^iftype_layer
 height=13
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_50:27
+layer=interface_50:28
 onload="script714(event_com)"
 
-[interface_50:31]
+[interface_50:32]
 type=^iftype_layer
 x=2
 width=160
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:32]
+[interface_50:33]
 type=^iftype_layer
 x=162
 width=40
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:33]
+[interface_50:34]
 type=^iftype_layer
 x=202
 width=25
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:34]
+[interface_50:35]
 type=^iftype_layer
 x=227
 width=25
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:35]
+[interface_50:36]
 type=^iftype_layer
 x=252
 width=25
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:36]
+[interface_50:37]
 type=^iftype_layer
 x=277
 width=25
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:37]
+[interface_50:38]
 type=^iftype_layer
 x=302
 width=25
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:38]
+[interface_50:39]
 type=^iftype_layer
 x=327
 width=25
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:39]
+[interface_50:40]
 type=^iftype_layer
 x=352
 width=25
 height=4
 vposmode=^setpos_abs_centre
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:40]
+[interface_50:41]
 type=^iftype_layer
 x=2
 width=379
@@ -416,9 +424,9 @@ hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:30
+layer=interface_50:31
 
-[interface_50:41]
+[interface_50:42]
 type=^iftype_layer
 y=2
 width=4
@@ -427,23 +435,14 @@ hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_bottom
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:27
-
-[interface_50:42]
-type=^iftype_layer
-width=75
-height=250
-vposmode=^setpos_abs_bottom
-vsizemode=^setsize_minus
-layer=interface_50:2
+layer=interface_50:28
 
 [interface_50:43]
 type=^iftype_model
-x=80
 width=75
 height=25
 vposmode=^setpos_abs_bottom
-layer=interface_50:2
+layer=interface_50:3
 model=model_1048
 originx=-67
 originy=18
@@ -452,11 +451,10 @@ zoom=1800
 
 [interface_50:44]
 type=^iftype_model
-x=80
 width=75
 height=25
 vposmode=^setpos_abs_bottom
-layer=interface_50:2
+layer=interface_50:3
 model=model_1070
 originx=21
 originy=5
@@ -466,11 +464,10 @@ zoom=1500
 
 [interface_50:45]
 type=^iftype_model
-x=80
 width=75
 height=25
 vposmode=^setpos_abs_bottom
-layer=interface_50:2
+layer=interface_50:3
 model=model_1048
 originx=91
 originy=-33
@@ -480,21 +477,20 @@ zoom=1900
 
 [interface_50:46]
 type=^iftype_layer
-x=80
 width=75
 height=250
 vposmode=^setpos_abs_bottom
 vsizemode=^setsize_minus
-layer=interface_50:2
+layer=interface_50:3
 
 [interface_50:47]
 type=^iftype_layer
-x=160
+x=80
 y=2
-width=105
+width=85
 height=20
 vposmode=^setpos_abs_bottom
-layer=interface_50:2
+layer=interface_50:3
 
 [interface_50:48]
 type=^iftype_graphic
@@ -508,72 +504,108 @@ graphic="graphic_1124"
 tiling=yes
 
 [interface_50:49]
-type=^iftype_graphic
-width=4
-height=20
-vposmode=^setpos_abs_centre
-layer=interface_50:47
-graphic="graphic_1123"
-
-[interface_50:50]
-type=^iftype_graphic
-width=4
-height=20
-hposmode=^setpos_abs_right
-vposmode=^setpos_abs_centre
-layer=interface_50:47
-graphic="graphic_1125"
-
-[interface_50:51]
 type=^iftype_layer
-x=270
+x=170
 y=2
-width=120
+width=105
 height=20
 vposmode=^setpos_abs_bottom
-layer=interface_50:2
+layer=interface_50:3
 
-[interface_50:52]
+[interface_50:50]
 type=^iftype_graphic
 width=8
 height=20
 hposmode=^setpos_abs_centre
 vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
-layer=interface_50:51
+layer=interface_50:49
 graphic="graphic_1124"
 tiling=yes
 
-[interface_50:53]
+[interface_50:51]
 type=^iftype_graphic
 width=4
 height=20
 vposmode=^setpos_abs_centre
-layer=interface_50:51
+layer=interface_50:49
 graphic="graphic_1123"
+
+[interface_50:52]
+type=^iftype_graphic
+width=4
+height=20
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_50:49
+graphic="graphic_1125"
+
+[interface_50:53]
+type=^iftype_layer
+x=280
+y=2
+width=120
+height=20
+vposmode=^setpos_abs_bottom
+layer=interface_50:3
 
 [interface_50:54]
 type=^iftype_graphic
+width=8
+height=20
+hposmode=^setpos_abs_centre
+vposmode=^setpos_abs_centre
+hsizemode=^setsize_minus
+layer=interface_50:53
+graphic="graphic_1124"
+tiling=yes
+
+[interface_50:55]
+type=^iftype_graphic
+width=4
+height=20
+vposmode=^setpos_abs_centre
+layer=interface_50:53
+graphic="graphic_1123"
+
+[interface_50:56]
+type=^iftype_graphic
 width=4
 height=20
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_centre
-layer=interface_50:51
+layer=interface_50:53
 graphic="graphic_1125"
 
-[interface_50:55]
+[interface_50:57]
 type=^iftype_layer
-width=395
+width=75
 height=250
 hposmode=^setpos_abs_right
 vposmode=^setpos_abs_bottom
-hsizemode=^setsize_minus
 vsizemode=^setsize_minus
-layer=interface_50:2
+layer=interface_50:3
 
-[interface_50:56]
+[interface_50:58]
 type=^iftype_layer
 width=1
 height=1
 layer=interface_50:0
+
+[interface_50:59]
+type=^iftype_graphic
+width=4
+height=20
+vposmode=^setpos_abs_centre
+layer=interface_50:47
+graphic="graphic_1123"
+
+[interface_50:60]
+type=^iftype_graphic
+width=4
+height=20
+hposmode=^setpos_abs_right
+vposmode=^setpos_abs_centre
+layer=interface_50:47
+graphic="graphic_1125"
 
