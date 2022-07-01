@@ -52074,3 +52074,14 @@ offhand=24634
 looptype=1
 framegroup1=2375
 
+[adventurer_jon_ready_8489]
+framecount=8
+looptype=1
+framegroup1=201
+
+[banner_8490]
+framecount=8
+replayoff=8
+looptype=1
+framegroup1=2377
+

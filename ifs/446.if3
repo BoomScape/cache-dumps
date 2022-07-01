@@ -642,8 +642,7 @@ width=37
 height=240
 hposmode=^setpos_abs_right
 layer=interface_446:0
-onload="script2840(event_com,29229112,29229113,29229114,29229115,29229116,29229117,28)"
-oninvtransmit="script2847(event_com,29229112,29229113,29229114,29229115,29229116,29229117){inv}"
+onload="script2926(event_com,0,40,2357,29229112,29229113,29229114,29229115,29229116,29229117)"
 
 [interface_446:56]
 type=^iftype_layer
@@ -651,6 +650,8 @@ width=37
 height=37
 hposmode=^setpos_abs_centre
 layer=interface_446:55
+optionmask=2
+op1="*"
 
 [interface_446:57]
 type=^iftype_layer
@@ -659,6 +660,8 @@ width=37
 height=37
 hposmode=^setpos_abs_centre
 layer=interface_446:55
+optionmask=2
+op1="*"
 
 [interface_446:58]
 type=^iftype_layer
@@ -667,6 +670,8 @@ width=37
 height=37
 hposmode=^setpos_abs_centre
 layer=interface_446:55
+optionmask=2
+op1="*"
 
 [interface_446:59]
 type=^iftype_layer
@@ -675,6 +680,8 @@ width=37
 height=37
 hposmode=^setpos_abs_centre
 layer=interface_446:55
+optionmask=2
+op1="*"
 
 [interface_446:60]
 type=^iftype_layer
@@ -683,6 +690,8 @@ width=37
 height=37
 hposmode=^setpos_abs_centre
 layer=interface_446:55
+optionmask=2
+op1="*"
 
 [interface_446:61]
 type=^iftype_layer

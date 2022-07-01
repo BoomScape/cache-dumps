@@ -109682,7 +109682,7 @@ model3=goreu_38031
 model4=eudav_38065
 model5=goreu_38111
 model6=goreu_38090
-head1=goreu_38683
+head1=elf_38683
 readyanim=human_ready_808
 walkanim=human_walk_819
 walkanim_b=human_walk_b_820
@@ -189053,5 +189053,32 @@ walkanim=ghost_walk_5539
 vislevel=1
 multivar=varbit_393
 multinpc=1,ghost_9194
+drawpriority=yes
+
+[adventurer_jon_9244]
+name=Adventurer Jon
+model1=adventurer_jon_4012
+head1=male_hair_52
+head2=jon_18187
+head3=red_headband_43
+recol1s=6798
+recol1d=5392
+recol2s=61
+recol2d=127
+recol3s=4288
+recol3d=5301
+op1=Talk-to
+op3=Claim
+vislevel=0
+
+[adventurer_jon_multi_9245]
+readyanim=adventurer_jon_ready_8489
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+vislevel=1
+multivar=varbit_9340
+multinpc=1,adventurer_jon_9244
 drawpriority=yes
 

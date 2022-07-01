@@ -46290,6 +46290,8 @@ womanwear=salve_amulet_4933,0
 iop2=Wear
 recol1s=5916
 recol1d=127
+recol2s=4882
+recol2d=123
 members=yes
 placeholder=yes
 
@@ -59470,6 +59472,9 @@ model=model_36010
 2dxof=-5
 2dyof=2
 2dxan=588
+recol1s=61
+recol1d=99
+ambient=30
 
 [morytania_legs_5093]
 name=Morytania legs
@@ -70642,12 +70647,24 @@ placeholder=yes
 
 [elf_6105]
 name=Elf
-model=elf_4011
+model=elf_38683
 2dzoom=2660
 2dxof=6
 2dyof=-32
 2dxan=28
 2dyan=1876
+recol1s=27204
+recol1d=5557
+recol2s=10151
+recol2d=5679
+recol3s=-3250
+recol3d=10644
+recol4s=17061
+recol4d=10768
+recol5s=-28119
+recol5d=4894
+recol6s=1957
+recol6d=5018
 
 [ghostly_boots_6106]
 name=Ghostly boots
@@ -75733,7 +75750,7 @@ members=yes
 placeholder=yes
 
 [doctors_hat_6547]
-name=Doctors hat
+name=Doctor's hat
 model=doctors_hat_9384
 manwear=doctors_hat_9368,0
 womanwear=doctors_hat_9370,0
@@ -125737,6 +125754,8 @@ recol1s=5916
 recol1d=127
 recol2s=-11359
 recol2d=-3504
+recol3s=4882
+recol3d=123
 members=yes
 placeholder=yes
 
@@ -143793,6 +143812,8 @@ iop2=Wear
 iop4=Uncharge
 recol1s=5916
 recol1d=127
+recol2s=4882
+recol2d=123
 members=yes
 placeholder=yes
 
@@ -214392,6 +214413,9 @@ model=model_36009
 2dxof=-5
 2dyof=2
 2dxan=588
+recol1s=61
+recol1d=99
+ambient=30
 
 [empty_bucket_pack_22660]
 name=Empty bucket pack
@@ -228341,4 +228365,112 @@ recol2s=66
 recol2d=10293
 recol3s=22459
 recol3d=10452
+
+[crystal_bow_24123]
+name=Crystal bow
+model=new_crystal_bow_3902
+manwear=new_crystal_bow_5197,0
+womanwear=new_crystal_bow_5197,6
+cost=300000
+2dzoom=1570
+2dxof=1
+2dxan=192
+2dyan=76
+iop2=Wield
+iop3=Check
+iop4=Revert
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_crystal_bow_24124]
+placeholder=yes
+
+[crystal_halberd_24125]
+name=Crystal halberd
+model=new_crystal_halberd_full_i_29158
+manwear=new_crystal_halberd_full_i_4033,0
+womanwear=new_crystal_halberd_full_i_4033,6
+cost=300000
+2dzoom=3368
+2dxof=-11
+2dyof=20
+2dxan=1468
+2dyan=1818
+iop2=Wield
+iop3=Check
+iop4=Revert
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_crystal_halberd_24126]
+placeholder=yes
+
+[crystal_shield_24127]
+name=Crystal shield
+model=new_crystal_shield_5198
+manwear=new_crystal_shield_5196,0
+womanwear=new_crystal_shield_5196,6
+cost=300000
+2dzoom=1720
+2dxof=-1
+2dyof=33
+2dxan=232
+2dyan=928
+iop2=Wield
+iop3=Check
+iop4=Revert
+members=yes
+placeholder=yes
+param=param_451,Check
+
+[placeholder_crystal_shield_24128]
+placeholder=yes
+
+[obj_24129]
+model=model_4013
+2dzoom=2290
+2dxof=-5
+2dyof=2
+2dxan=588
+recol1s=61
+recol1d=99
+ambient=30
+
+[combat_path_starter_kit_24130]
+name=Combat path starter kit
+model=crate_7685
+2dzoom=2020
+2dxof=-1
+2dyof=-6
+2dxan=112
+2dyan=232
+iop1=Search
+iop5=Destroy
+recol1s=6443
+recol1d=13596
+recol2s=6439
+recol2d=13592
+recol3s=6563
+recol3d=13716
+recol4s=6558
+recol4d=13840
+recol5s=6682
+recol5d=13964
+recol6s=6806
+recol6d=14216
+param=param_834,yes
+
+[combat_path_voucher_24131]
+name=Combat path voucher
+model=suroks_letter_23964
+2dzoom=848
+2dxan=387
+2dyan=1799
+iop1=Read
+iop5=Destroy
+ambient=15
+contrast=15
+param=param_834,yes
 
