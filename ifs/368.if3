@@ -7,12 +7,12 @@ height=32
 model=model_3033
 xan=484
 yan=3
-zoom=491
+zoom=472
 
 [interface_368:1]
 type=^iftype_model
-x=73
-y=168
+x=56
+y=157
 width=32
 height=32
 model=rope_1842
@@ -22,8 +22,8 @@ zoom=899
 
 [interface_368:2]
 type=^iftype_model
-x=72
-y=202
+x=55
+y=191
 width=32
 height=32
 model=swamp_paste_2386
@@ -33,8 +33,8 @@ zoom=550
 
 [interface_368:3]
 type=^iftype_model
-x=70
-y=257
+x=53
+y=246
 width=32
 height=32
 model=bucket_of_wax_2504
@@ -44,8 +44,8 @@ zoom=700
 
 [interface_368:4]
 type=^iftype_model
-x=65
-y=86
+x=48
+y=75
 width=32
 height=32
 model=iron_axe_2544
@@ -55,8 +55,8 @@ zoom=700
 
 [interface_368:5]
 type=^iftype_model
-x=70
-y=127
+x=53
+y=116
 width=32
 height=32
 model=hammer_2376
@@ -67,10 +67,11 @@ zoom=648
 [interface_368:6]
 type=^iftype_text
 contenttype=6985
-x=120
-y=166
-width=331
+x=33
+y=156
+width=372
 height=36
+hposmode=^setpos_abs_centre
 text="Use rope to repair the trawler's nets."
 colour=0x4a4028
 font=q8_full
@@ -80,10 +81,11 @@ paraheight=15
 [interface_368:7]
 type=^iftype_text
 contenttype=6985
-x=120
-y=205
-width=331
+x=33
+y=195
+width=372
 height=36
+hposmode=^setpos_abs_centre
 text="Use swamp paste to repair leaks in the ship's hull."
 colour=0x4a4028
 font=q8_full
@@ -93,10 +95,11 @@ paraheight=15
 [interface_368:8]
 type=^iftype_text
 contenttype=6985
-x=120
-y=244
-width=331
+x=33
+y=234
+width=372
 height=36
+hposmode=^setpos_abs_centre
 text="If all else fails you can always try and bail the water out as well!"
 colour=0x4a4028
 font=q8_full
@@ -106,10 +109,11 @@ paraheight=15
 [interface_368:9]
 type=^iftype_text
 contenttype=6985
-x=120
-y=88
-width=331
+x=33
+y=78
+width=372
 height=36
+hposmode=^setpos_abs_centre
 text="Use an axe to fend off Kraken attacks. Krakens will damage fixed nets."
 colour=0x4a4028
 font=q8_full
@@ -119,10 +123,11 @@ paraheight=15
 [interface_368:10]
 type=^iftype_text
 contenttype=6985
-x=120
-y=127
-width=331
+x=33
+y=117
+width=372
 height=36
+hposmode=^setpos_abs_centre
 text="Use a hammer to fix the railing once the Kraken has retreated or it will come back sooner!"
 colour=0x4a4028
 font=q8_full
@@ -131,10 +136,10 @@ paraheight=15
 
 [interface_368:11]
 type=^iftype_text
-x=117
-y=58
-width=313
+y=51
+width=355
 height=23
+hposmode=^setpos_abs_centre
 text="How to play:"
 colour=0xe5bd5d
 font=q8_full
@@ -144,8 +149,8 @@ shadowed=yes
 
 [interface_368:12]
 type=^iftype_graphic
-x=449
-y=42
+x=465
+y=33
 width=26
 height=23
 graphic="close_buttons,4"
@@ -154,4 +159,39 @@ op1="Close"
 onmouseover="script44(event_com,540)"
 onmouseleave="script44(event_com,539)"
 onop="script29"
+
+[interface_368:13]
+type=^iftype_layer
+y=269
+width=438
+height=37
+hposmode=^setpos_abs_centre
+optionmask=2
+op1="Select"
+onload="script4177(24117262)"
+onvartransmit="script4177(24117262){var_109}"
+onop="script4176(24117261)"
+
+[interface_368:14]
+type=^iftype_graphic
+x=-88
+y=5
+width=18
+height=18
+hposmode=^setpos_abs_centre
+layer=interface_368:13
+graphic="toggle_box,0"
+
+[interface_368:15]
+type=^iftype_text
+x=35
+y=5
+width=179
+height=25
+hposmode=^setpos_abs_centre
+layer=interface_368:13
+text="Do not show again"
+colour=0xe5bd5d
+font=q8_full
+shadowed=yes
 

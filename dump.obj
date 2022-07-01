@@ -44122,7 +44122,6 @@ model=fire_rune_2399
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3870]
@@ -44134,7 +44133,6 @@ model=water_rune_2652
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3871]
@@ -44146,7 +44144,6 @@ model=earth_rune_2737
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3872]
@@ -44158,7 +44155,6 @@ model=air_rune_2405
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3873]
@@ -44170,7 +44166,6 @@ model=mind_rune_2481
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3874]
@@ -44182,7 +44177,6 @@ model=body_rune_2340
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3875]
@@ -44194,7 +44188,6 @@ model=nature_rune_2734
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3876]
@@ -44206,7 +44199,6 @@ model=chaos_rune_2707
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3877]
@@ -44218,7 +44210,6 @@ model=law_rune_2382
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3878]
@@ -44230,7 +44221,6 @@ model=cosmic_rune_2735
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3879]
@@ -44242,7 +44232,6 @@ model=blood_rune_2665
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3880]
@@ -44254,7 +44243,6 @@ model=soul_rune_2434
 2dyan=1012
 recol1s=61
 recol1d=840
-members=yes
 ambient=30
 
 [board_game_piece_3881]
@@ -44264,7 +44252,6 @@ model=fire_rune_2399
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3882]
@@ -44274,7 +44261,6 @@ model=water_rune_2652
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3883]
@@ -44284,7 +44270,6 @@ model=earth_rune_2737
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3884]
@@ -44294,7 +44279,6 @@ model=air_rune_2405
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3885]
@@ -44304,7 +44288,6 @@ model=mind_rune_2481
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3886]
@@ -44314,7 +44297,6 @@ model=body_rune_2340
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3887]
@@ -44324,7 +44306,6 @@ model=nature_rune_2734
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3888]
@@ -44334,7 +44315,6 @@ model=chaos_rune_2707
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3889]
@@ -44344,7 +44324,6 @@ model=law_rune_2382
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3890]
@@ -44354,7 +44333,6 @@ model=cosmic_rune_2735
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3891]
@@ -44364,7 +44342,6 @@ model=blood_rune_2665
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_3892]
@@ -44374,7 +44351,6 @@ model=soul_rune_2434
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [stool_3893]
@@ -52647,6 +52623,7 @@ param=magic_runecount_3_370,1
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,1
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [shadow_rush_4630]
 model=model_16238
@@ -52670,6 +52647,7 @@ param=magic_runecount_3_370,1
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,1
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [paddewwa_teleport_4631]
 model=model_16238
@@ -52712,6 +52690,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,1
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [ice_rush_4633]
 model=model_16238
@@ -52733,6 +52712,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,2
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [senntisten_teleport_4634]
 model=model_16238
@@ -52775,6 +52755,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [shadow_burst_4636]
 model=model_16238
@@ -52798,6 +52779,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,1
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [kharyrll_teleport_4637]
 model=model_16238
@@ -52838,6 +52820,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,blood_rune_565
 param=magic_runecount_3_370,2
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [ice_burst_4639]
 model=model_16238
@@ -52859,6 +52842,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,4
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [lassar_teleport_4640]
 model=model_16238
@@ -52901,6 +52885,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,2
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [shadow_blitz_4642]
 model=model_16238
@@ -52924,6 +52909,7 @@ param=magic_runecount_3_370,2
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,2
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [dareeyak_teleport_4643]
 model=model_16238
@@ -52964,6 +52950,7 @@ param=magic_runecount_1_366,2
 param=magic_runetype_2_367,blood_rune_565
 param=magic_runecount_2_368,4
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [ice_blitz_4645]
 model=model_16238
@@ -52985,6 +52972,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,3
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [carrallangar_teleport_4646]
 model=model_16238
@@ -53027,6 +53015,7 @@ param=magic_runecount_3_370,4
 param=magic_runetype_4_606,fire_rune_554
 param=magic_runecount_4_607,4
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [shadow_barrage_4648]
 model=model_16238
@@ -53050,6 +53039,7 @@ param=magic_runecount_3_370,3
 param=magic_runetype_4_606,air_rune_556
 param=magic_runecount_4_607,4
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [annakarl_teleport_4649]
 model=model_16238
@@ -53090,6 +53080,7 @@ param=magic_runecount_2_368,4
 param=magic_runetype_3_369,soul_rune_566
 param=magic_runecount_3_370,1
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [ice_barrage_4651]
 model=model_16238
@@ -53111,6 +53102,7 @@ param=magic_runecount_2_368,2
 param=magic_runetype_3_369,water_rune_555
 param=magic_runecount_3_370,6
 param=param_1189,desert_treasure_345
+param=param_1228,yes
 
 [ghorrock_teleport_4652]
 model=model_16238
@@ -81878,7 +81870,6 @@ model=fire_rune_2399
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7097]
@@ -81888,7 +81879,6 @@ model=water_rune_2652
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7098]
@@ -81898,7 +81888,6 @@ model=earth_rune_2737
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7099]
@@ -81908,7 +81897,6 @@ model=air_rune_2405
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7100]
@@ -81918,7 +81906,6 @@ model=mind_rune_2481
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7101]
@@ -81928,7 +81915,6 @@ model=body_rune_2340
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7102]
@@ -81938,7 +81924,6 @@ model=nature_rune_2734
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7103]
@@ -81948,7 +81933,6 @@ model=chaos_rune_2707
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7104]
@@ -81958,7 +81942,6 @@ model=law_rune_2382
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7105]
@@ -81968,7 +81951,6 @@ model=cosmic_rune_2735
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7106]
@@ -81978,7 +81960,6 @@ model=blood_rune_2665
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [board_game_piece_7107]
@@ -81988,7 +81969,6 @@ model=soul_rune_2434
 2dyof=1
 2dxan=528
 2dyan=1012
-members=yes
 ambient=30
 
 [gunpowder_7108]
@@ -242344,4 +242324,60 @@ placeholder=yes
 
 [placeholder_dusty_note_25707]
 placeholder=yes
+
+[board_game_piece_25708]
+name=Board game piece
+model=death_rune_2645
+2dzoom=740
+2dyof=1
+2dxan=528
+2dyan=1012
+recol1s=61
+recol1d=840
+members=yes
+ambient=30
+
+[obj_25709]
+model=model_8985
+2dzoom=900
+2dyof=1
+2dxan=528
+2dyan=1012
+ambient=30
+
+[stool_25710]
+name=Stool
+model=iron_axe_2544
+manwear=stool_42201,0
+womanwear=stool_42201,6
+cost=800
+2dzoom=740
+2dxof=4
+2dyof=7
+2dxan=1812
+2dyan=2004
+members=yes
+
+[stool_25711]
+name=Stool
+model=iron_axe_2544
+manwear=stool_42201,0
+womanwear=stool_42201,6
+cost=800
+2dzoom=740
+2dxof=4
+2dyof=7
+2dxan=1812
+2dyan=2004
+recol1s=922
+recol1d=-26067
+recol2s=8125
+recol2d=-30537
+recol3s=6550
+recol3d=7706
+recol4s=912
+recol4d=-26067
+recol5s=6554
+recol5d=7706
+members=yes
 

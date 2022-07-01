@@ -1730,3 +1730,7 @@ autodisable=no
 [param_1216]
 autodisable=no
 
+[param_1228]
+type=boolean
+autodisable=no
+

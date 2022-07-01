@@ -180165,6 +180165,36 @@ vislevel=0
 active=no
 visonmap=no
 
+[fire_8643]
+name=<col=00ffff>Fire</col>
+model1=rocks_32530
+category=category_1509
+resizeh=256
+resizev=256
+op1=Douse
+size=2
+vislevel=0
+visonmap=no
+
+[saradominist_recruiter_8644]
+name=Saradominist recruiter
+model1=saradominist_recruiter_42199
+head1=male_hair_52
+head2=saradominist_recruiter_42202
+head3=saradomin_halo_28847
+readyanim=gravingas_ready_1421
+walkanim=gravingas_walk_1422
+walkanim_b=gravingas_walk_b_1423
+walkanim_r=gravingas_walk_r_1424
+walkanim_l=gravingas_walk_l_1425
+recol1s=6798
+recol1d=105
+recol2s=32704
+recol2d=-23600
+op1=Talk-to
+op3=Join Castle Wars
+vislevel=0
+
 [npc_8645]
 model1=3rd_age_range_top_20250
 model2=swamp_bubbles_7766
@@ -214946,8 +214976,8 @@ contrast=-88
 turnspeed=0
 
 [npc_10582]
-model1=great_olm_right_claw_32709
-resizev=52
+model1=rocks_32530
+resizev=256
 size=2
 vislevel=0
 active=no
@@ -217869,4 +217899,51 @@ recol1d=6806
 recol2s=4550
 recol2d=4533
 vislevel=0
+
+[zamorakian_recruiter_10732]
+name=Zamorakian recruiter
+model1=zamorakian_recruiter_42200
+head1=female_hair_32846
+head2=zamorak_halo_28834
+readyanim=gravingas_ready_1421
+walkanim=gravingas_walk_1422
+walkanim_b=gravingas_walk_b_1423
+walkanim_r=gravingas_walk_r_1424
+walkanim_l=gravingas_walk_l_1425
+recol1s=6798
+recol1d=8
+op1=Talk-to
+op3=Join Castle Wars
+vislevel=0
+
+[meredith_10733]
+name=Meredith
+model1=female_hair_16454
+model2=white_apron_467
+model3=female_arms_28364
+model4=female_hands_353
+model5=female_legs_419
+model6=female_feet_358
+category=category_676
+head1=female_hair_16442
+readyanim=human_ready_808
+walkanim=human_walk_819
+walkanim_b=human_walk_b_820
+walkanim_r=human_walk_r_821
+walkanim_l=human_walk_l_822
+recol1s=8741
+recol1d=922
+recol2s=25238
+recol2d=41
+recol3s=6798
+recol3d=8
+recol4s=-10304
+recol4d=16
+recol5s=4550
+recol5d=4574
+recol6s=24
+recol6d=8125
+op1=Talk-to
+vislevel=0
+drawpriority=yes
 

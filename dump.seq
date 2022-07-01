@@ -55232,16 +55232,14 @@ framegroup1=529
 
 [seq_8954]
 framecount=18
-replayoff=18
+replayoff=17
 priority=0
 mainhand=0
 offhand=1863
-replaycount=4
-exactmove=1
-movetype=1
+replaycount=2
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8955]
 framecount=18
@@ -55249,12 +55247,10 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=1861
-replaycount=4
-exactmove=1
-movetype=1
+replaycount=2
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8956]
 framecount=18
@@ -55262,12 +55258,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=1865
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8957]
 framecount=18
@@ -55275,12 +55271,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=1873
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8958]
 framecount=18
@@ -55288,12 +55284,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=1867
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8959]
 framecount=18
@@ -55301,12 +55297,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=1869
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8960]
 framecount=18
@@ -55314,12 +55310,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=1871
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8961]
 framecount=18
@@ -55327,12 +55323,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=23791
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8962]
 framecount=18
@@ -55340,12 +55336,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=7251
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8963]
 framecount=18
@@ -55353,12 +55349,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=13753
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8964]
 framecount=18
@@ -55366,12 +55362,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=20523
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8965]
 framecount=18
@@ -55379,12 +55375,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=24185
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8966]
 framecount=18
@@ -55392,12 +55388,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=25622
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [seq_8967]
 framecount=18
@@ -55405,12 +55401,12 @@ replayoff=18
 priority=0
 mainhand=0
 offhand=25890
-replaycount=4
+replaycount=2
 exactmove=1
 movetype=1
 looptype=1
 framegroup1=1483
-soundeffect1=2498,1,1
+soundeffect4=2498,1,1
 
 [enormous_tentacle_ready_8968]
 framecount=1
@@ -55637,4 +55633,68 @@ framecount=35
 priority=10
 looptype=1
 framegroup1=1437
+
+[seq_9008]
+framecount=2
+replayoff=2
+mainhand=0
+offhand=26222
+looptype=1
+framegroup1=221
+
+[seq_9009]
+framecount=17
+replayoff=2
+mainhand=0
+offhand=26222
+looptype=1
+framegroup1=221
+
+[seq_9010]
+framecount=11
+replayoff=2
+mainhand=0
+offhand=26222
+looptype=1
+framegroup1=221
+
+[seq_9011]
+framecount=15
+replayoff=2
+mainhand=0
+offhand=26222
+looptype=1
+framegroup1=221
+
+[seq_9012]
+framecount=2
+replayoff=2
+mainhand=0
+offhand=26223
+looptype=1
+framegroup1=221
+
+[seq_9013]
+framecount=17
+replayoff=2
+mainhand=0
+offhand=26223
+looptype=1
+framegroup1=221
+
+[seq_9014]
+framecount=11
+replayoff=2
+mainhand=0
+offhand=26223
+looptype=1
+framegroup1=221
+
+[seq_9015]
+framecount=15
+replayoff=2
+mainhand=0
+offhand=26223
+looptype=1
+framegroup1=221
 
