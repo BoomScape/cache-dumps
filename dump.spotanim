@@ -308,7 +308,7 @@ model=model_3149
 anim=seq_374
 
 [spotanim_53]
-model=model_3133
+model=cannonball_2413
 
 [spotanim_54]
 model=model_3154
@@ -9087,7 +9087,7 @@ recol1s=17069
 recol1d=46036
 
 [spotanim_1443]
-model=model_3133
+model=cannonball_2413
 recol1s=12
 recol1d=57
 

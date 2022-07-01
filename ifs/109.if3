@@ -560,7 +560,7 @@ height=22
 hposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 layer=interface_109:52
-text="Current Poll: <col=00FF00>Active"
+text="Current Poll: <col=FF0000>Inactive</col>"
 colour=0xff981f
 font=p12_full
 halign=^settextalign_centre
@@ -613,7 +613,7 @@ vposmode=^setpos_abs_centre
 hsizemode=^setsize_minus
 vsizemode=^setsize_minus
 layer=interface_109:54
-text="Vote Now"
+text="View Poll"
 colour=0xf7f0df
 font=p11_full
 halign=^settextalign_centre

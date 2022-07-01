@@ -30,6 +30,8 @@ cost=5
 2dxof=1
 2dxan=156
 2dyan=1852
+recol1s=158
+recol1d=268
 members=yes
 stockmarket=yes
 stackable=yes
@@ -5611,6 +5613,7 @@ ambient=30
 stockmarket=yes
 stackable=yes
 placeholder=yes
+bought=yes
 
 [nature_rune_561]
 name=Nature rune
@@ -205433,8 +205436,8 @@ cost=85
 2dxof=1
 2dxan=156
 2dyan=1852
-recol1s=12
-recol1d=57
+recol1s=158
+recol1d=53
 members=yes
 stackable=yes
 placeholder=yes
@@ -231909,15 +231912,8 @@ placeholder=yes
 [placeholder_twisted_league_banner_24414]
 placeholder=yes
 
-[dummy_priest_gown_24415]
-name=Null
-model=priest_gown_2521
-2dzoom=1940
-2dyof=1
-2dxan=572
-iop1=Wear
-recol1s=25238
-recol1d=-2608
+[bought_death_rune_24415]
+bought=yes
 
 [rune_pouch_l_24416]
 name=Rune pouch (l)
@@ -232070,4 +232066,223 @@ bought=yes
 
 [bought_cabbage_24427]
 bought=yes
+
+[green_gingerbread_shield_24428]
+name=Green gingerbread shield
+model=green_gingerbread_shield_39124
+manwear=green_gingerbread_shield_32591,0
+womanwear=green_gingerbread_shield_32591,6
+cost=0
+2dzoom=1390
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop2=Wield
+iop3=Transform
+iop5=Destroy
+recol1s=61
+recol1d=5784
+placeholder=yes
+param=param_451,Transform
+
+[placeholder_green_gingerbread_shield_24429]
+placeholder=yes
+
+[red_gingerbread_shield_24430]
+name=Red gingerbread shield
+model=red_gingerbread_shield_39125
+manwear=red_gingerbread_shield_32589,0
+womanwear=red_gingerbread_shield_32589,6
+cost=0
+2dzoom=1390
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop2=Wield
+iop3=Transform
+iop5=Destroy
+recol1s=61
+recol1d=5784
+param=param_451,Transform
+
+[blue_gingerbread_shield_24431]
+name=Blue gingerbread shield
+model=blue_gingerbread_shield_39128
+manwear=blue_gingerbread_shield_32590,0
+womanwear=blue_gingerbread_shield_32590,6
+cost=0
+2dzoom=1390
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop2=Wield
+iop3=Transform
+iop5=Destroy
+recol1s=61
+recol1d=5784
+param=param_451,Transform
+
+[festive_cinnamon_stick_24432]
+name=Festive cinnamon stick
+model=willow_branch_7341
+cost=0
+2dzoom=1480
+2dxof=-4
+2dyof=25
+2dxan=284
+2dyan=1988
+iop5=Destroy
+
+[festive_ginger_powder_24433]
+name=Festive ginger powder
+model=unicorn_horn_dust_2742
+cost=0
+2dzoom=1210
+2dxof=-6
+2dxan=264
+2dyan=1892
+iop5=Destroy
+recol1s=82
+recol1d=5687
+
+[festive_egg_24434]
+name=Festive egg
+model=birds_egg_7171
+cost=0
+2dzoom=650
+2dxan=76
+2dyan=16
+iop5=Destroy
+recol1s=476
+recol1d=20948
+
+[festive_pot_24435]
+name=Festive pot
+model=unfired_pot_2345
+manwear=pot_12862,0
+womanwear=pot_12862,6
+cost=0
+2dzoom=990
+2dxof=-1
+2dyof=2
+2dxan=112
+2dyan=8
+iop5=Destroy
+recol1s=4775
+recol1d=82
+
+[festive_flour_24436]
+name=Festive flour
+model=pot_of_flour_2406
+cost=0
+2dzoom=990
+2dxof=-1
+2dyof=2
+2dxan=112
+2dyan=8
+iop5=Destroy
+recol1s=4775
+recol1d=82
+
+[gingerbread_shield_24437]
+name=Gingerbread shield
+model=gingerbread_shield_39126
+manwear=gingerbread_shield_32588,0
+womanwear=gingerbread_shield_32588,6
+cost=0
+2dzoom=1390
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop2=Wield
+iop5=Destroy
+recol1s=61
+recol1d=5784
+
+[iced_gingerbread_shield_24438]
+name=Iced gingerbread shield
+model=green_gingerbread_shield_39124
+manwear=green_gingerbread_shield_32591,0
+womanwear=green_gingerbread_shield_32591,6
+cost=0
+2dzoom=1390
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop2=Wield
+iop5=Destroy
+recol1s=61
+recol1d=5784
+
+[iced_gingerbread_shield_24439]
+name=Iced gingerbread shield
+model=red_gingerbread_shield_39125
+manwear=red_gingerbread_shield_32589,0
+womanwear=red_gingerbread_shield_32589,6
+cost=0
+2dzoom=1390
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop2=Wield
+iop5=Destroy
+recol1s=61
+recol1d=5784
+
+[iced_gingerbread_shield_24440]
+name=Iced gingerbread shield
+model=blue_gingerbread_shield_39128
+manwear=blue_gingerbread_shield_32590,0
+womanwear=blue_gingerbread_shield_32590,6
+cost=0
+2dzoom=1390
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop2=Wield
+iop5=Destroy
+recol1s=61
+recol1d=5784
+
+[scaperune_teleport_24441]
+name=Scaperune teleport
+model=scaperune_teleport_39127
+cost=0
+2dzoom=465
+2dyof=-1
+2dxan=373
+iop4=Break
+iop5=Destroy
+stackable=yes
+
+[bakery_storage_key_24442]
+name=Bakery storage key
+model=shiny_key_2372
+cost=0
+2dzoom=700
+2dxof=-3
+2dyof=5
+2dxan=328
+2dyan=20
+iop5=Destroy
+recol1s=8128
+recol1d=-1088
+
+[gingerbread_gnome_24443]
+name=Gingerbread gnome
+model=gingerbread_gnome_39123
+cost=0
+2dxof=3
+2dyof=40
+2dxan=328
+2dyan=32
+iop1=Eat
+iop5=Destroy
 
