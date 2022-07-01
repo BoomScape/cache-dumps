@@ -1330,33 +1330,6 @@ priority=10
 looptype=1
 framegroup1=444
 
-[seq_244]
-framecount=4
-looptype=1
-framegroup1=446
-
-[seq_245]
-framecount=2
-looptype=1
-framegroup1=446
-
-[seq_246]
-framecount=6
-priority=6
-looptype=1
-framegroup1=446
-
-[seq_247]
-framecount=7
-looptype=1
-framegroup1=446
-
-[seq_248]
-framecount=5
-priority=10
-looptype=1
-framegroup1=446
-
 [goat_walk_249]
 framecount=8
 looptype=1
@@ -43452,11 +43425,6 @@ exactmove=1
 movetype=1
 looptype=1
 framegroup1=277
-
-[seq_7200]
-framecount=27
-looptype=1
-framegroup1=1836
 
 [seq_7201]
 framecount=35

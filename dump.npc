@@ -30725,6 +30725,7 @@ model3=kebbit_20093
 readyanim=kebbit_ready_5302
 walkanim=kebbit_walk_5301
 op2=Attack
+op3=Threaten
 vislevel=13
 drawpriority=yes
 
@@ -56921,6 +56922,7 @@ model3=male_torso_292
 model4=male_arms_170
 model5=male_hands_176
 model6=zavistic_rarve_256
+head1=male_hair_63
 readyanim=human_ready_808
 walkanim=human_walk_819
 walkanim_b=human_walk_b_820
@@ -64049,8 +64051,8 @@ recol3d=127
 op1=Talk-to
 vislevel=0
 
-[magic_store_owner_3247]
-name=Magic Store owner
+[wizard_akutha_3247]
+name=Wizard Akutha
 model1=male_hair_215
 model2=male_feet_181
 model3=male_jaw_246
@@ -64109,8 +64111,8 @@ op1=Talk-to
 op3=Teleport
 vislevel=0
 
-[robe_store_owner_3249]
-name=Robe Store owner
+[wizard_sinina_3249]
+name=Wizard Sinina
 model1=male_hair_215
 model2=mystic_boots_4955
 model3=male_jaw_250
@@ -64119,7 +64121,7 @@ model5=mystic_robe_top_4952
 model6=mystic_gloves_4953
 model7=mystic_robe_bottom_4844
 model8=mystic_hat_5027
-model9=robe_store_owner_18941
+model9=wizard_sinina_18941
 head1=male_hair_53
 head2=mystic_hat_4950
 head3=male_jaw_82

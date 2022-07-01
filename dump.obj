@@ -11582,8 +11582,8 @@ placeholder=yes
 [cert_orange_cape_1032]
 certificate=yes
 
-[zamorak_robe_1033]
-name=Zamorak robe
+[zamorak_monk_bottom_1033]
+name=Zamorak monk bottom
 model=priest_gown_2521
 manwear=priest_gown_265,0
 womanwear=female_legs_428,0
@@ -11598,11 +11598,11 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_zamorak_robe_1034]
+[cert_zamorak_monk_bottom_1034]
 certificate=yes
 
-[zamorak_robe_1035]
-name=Zamorak robe
+[zamorak_monk_top_1035]
+name=Zamorak monk top
 model=priest_gown_2786
 manwear=male_arms_170,0
 manwear2=male_torso_292
@@ -11619,7 +11619,7 @@ stockmarket=yes
 certificate=yes
 placeholder=yes
 
-[cert_zamorak_robe_1036]
+[cert_zamorak_monk_top_1036]
 certificate=yes
 
 [bunny_ears_1037]
@@ -155656,10 +155656,11 @@ model=fremennik_sea_boots_1_29153
 manwear=fremennik_sea_boots_1_29013,0
 womanwear=fremennik_sea_boots_1_29073,0
 cost=0
-2dzoom=650
+2dzoom=589
 2dxof=1
-2dyof=-10
-2dxan=160
+2dyof=-3
+2dxan=67
+2dyan=13
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -155672,9 +155673,11 @@ model=fremennik_sea_boots_2_29135
 manwear=fremennik_sea_boots_2_29014,0
 womanwear=fremennik_sea_boots_2_29070,0
 cost=0
-2dzoom=526
+2dzoom=589
 2dxof=1
-2dyof=-1
+2dyof=-3
+2dxan=67
+2dyan=13
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -155688,10 +155691,10 @@ manwear=fremennik_sea_boots_3_29011,0
 womanwear=fremennik_sea_boots_3_29072,0
 cost=0
 2dzoom=589
-2dxof=3
+2dxof=1
 2dyof=-3
-2dxan=66
-2dyan=54
+2dxan=67
+2dyan=13
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -155705,7 +155708,10 @@ manwear=fremennik_sea_boots_4_29012,0
 womanwear=fremennik_sea_boots_4_29071,0
 cost=0
 2dzoom=589
-2dyof=-1
+2dxof=1
+2dyof=-3
+2dxan=67
+2dyan=13
 iop2=Wear
 iop3=Teleport
 members=yes
@@ -165143,10 +165149,10 @@ placeholder=yes
 [placeholder_orange_cape_14383]
 placeholder=yes
 
-[placeholder_zamorak_robe_14384]
+[placeholder_zamorak_monk_bottom_14384]
 placeholder=yes
 
-[placeholder_zamorak_robe_14385]
+[placeholder_zamorak_monk_top_14385]
 placeholder=yes
 
 [placeholder_bunny_ears_14386]
