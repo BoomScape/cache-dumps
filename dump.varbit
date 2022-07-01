@@ -51218,3 +51218,8 @@ basevar=var_2670
 startbit=0
 endbit=15
 
+[varbit_10244]
+basevar=var_2604
+startbit=11
+endbit=11
+

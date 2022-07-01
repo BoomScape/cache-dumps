@@ -31618,6 +31618,8 @@ model=ogre_bellows_3440
 2dyof=-4
 2dxan=112
 2dyan=36
+recol1s=6579
+recol1d=6569
 members=yes
 placeholder=yes
 
@@ -31630,6 +31632,10 @@ model=ogre_bellows_3440
 2dyan=36
 recol1s=6457
 recol1d=20007
+recol2s=6461
+recol2d=20007
+recol3s=6579
+recol3d=6589
 members=yes
 
 [ogre_bellows_2_2873]
@@ -31641,6 +31647,8 @@ model=ogre_bellows_3440
 2dyan=36
 recol1s=6457
 recol1d=16811
+recol2s=6461
+recol2d=16811
 members=yes
 
 [ogre_bellows_1_2874]
@@ -31652,6 +31660,8 @@ model=ogre_bellows_3440
 2dyan=36
 recol1s=6457
 recol1d=12591
+recol2s=6461
+recol2d=12591
 members=yes
 
 [bloated_toad_2875]
@@ -211532,7 +211542,7 @@ placeholder=yes
 name=Scythe of vitur
 model=scythe_of_vitur_35742
 manwear=scythe_of_vitur_35371,0
-womanwear=scythe_of_vitur_35371,0
+womanwear=scythe_of_vitur_32906,0
 cost=4000000
 2dzoom=2105
 2dxof=1
@@ -213092,7 +213102,7 @@ placeholder=yes
 name=Scythe of vitur (uncharged)
 model=scythe_of_vitur_uncharged_35748
 manwear=scythe_of_vitur_uncharged_35373,0
-womanwear=scythe_of_vitur_uncharged_35373,0
+womanwear=scythe_of_vitur_uncharged_32905,0
 cost=4000000
 2dzoom=2105
 2dxof=1
@@ -232981,4 +232991,37 @@ placeholder=yes
 
 [placeholder_harmony_24530]
 placeholder=yes
+
+[runner_hat_broken_24531]
+name=Runner hat (broken)
+model=runner_hat_20601
+2dzoom=1438
+2dxof=-3
+2dxan=83
+2dyan=2047
+members=yes
+ambient=-25
+placeholder=yes
+
+[placeholder_runner_hat_broken_24532]
+placeholder=yes
+
+[runner_hat_l_24533]
+name=Runner hat (l)
+model=runner_hat_20601
+manwear=runner_hat_19249,0
+manwear2=male_hair_215
+womanwear=runner_hat_20509,0
+womanwear2=female_hair_391
+manhead=runner_hat_19241
+manhead2=male_hair_53
+femalehead=runner_hat_19245
+femalehead=female_hair_114
+cost=65002
+2dzoom=1438
+2dxof=-3
+2dxan=83
+2dyan=2047
+iop2=Wear
+members=yes
 
